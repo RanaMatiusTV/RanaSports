@@ -16,7 +16,7 @@ La portada lee la planilla publicada configurada en assets/news-feed.js al abrir
 
 Columnas: Publicar, Fecha, Hora, Categoría, Título, Resumen, URL nota, URL imagen, Fuente, URL fuente, URL video. Se admite otro orden de columnas. Publicar debe ser SI (se toleran espacios, minúsculas y acento). Las filas requieren fecha, hora, categoría válida, título y resumen; las incompletas se omiten. Fechas admitidas: D/M/AAAA o AAAA-MM-DD. Hora: H:mm o HH:mm:ss, en horario argentino. Se ordenan por fecha y hora descendentes.
 
-Categorías: Independiente, Fútbol, F1, Selección, Otros deportes y Agenda. Los enlaces e imagen son opcionales. Sin URL nota se muestra título sin enlace ni botón Leer; sin imagen se muestra una tarjeta de texto. URL video habilita ▶ Ver video. Fuente y URL fuente se muestran si existen. Las URLs solo aceptan HTTP/HTTPS y el contenido se trata como texto, nunca como HTML.
+Categorías: Independiente, Fútbol, F1, Selección, Otros deportes y Agenda. Los enlaces e imagen son opcionales. Cada tarjeta enlaza a noticia.html?n=… desde el título, la imagen y Leer →, incluso sin URL nota. URL nota permanece en la planilla pero ya no determina el destino de esos enlaces. Sin imagen se muestra una tarjeta de texto. URL video habilita ▶ Ver video. Fuente y URL fuente se muestran si existen. Las URLs solo aceptan HTTP/HTTPS y el contenido se trata como texto, nunca como HTML.
 
 El navegador conserva la última carga válida de la planilla para leer las tarjetas sin conexión e informa cuando no puede actualizarla. Una planilla válida sin filas publicables limpia la versión anterior. Si el almacenamiento está deshabilitado, la carga en línea funciona igualmente. Las imágenes y enlaces externos requieren conexión; las notas locales incluidas en CORE de sw.js conservan su modo offline. Los metadatos SEO existentes se mantienen; las tarjetas del CSV se generan mediante JavaScript.
 
@@ -29,3 +29,8 @@ Los espacios data-ad-slot están reservados y ocultos hasta su configuración. N
 
 ## Identidad
 Nombre: RanaSports. Firma: Creado por @RanaMatiusTV. Arroba de X, Instagram, YouTube y TikTok: @RanaMatiusTV. Se mantiene el enlace original de la Agenda Deportiva de RanaMatiusTV.
+
+## Vistas individuales automáticas
+Las tarjetas recortan visualmente Resumen a tres líneas; noticia.html muestra el mismo Resumen completo, conservando sus saltos de línea, sin generar ni completar texto. No se agregan columnas. La identidad de la URL codifica sin pérdida categoría normalizada, fecha/hora y título. Reordenar filas o editar Resumen, imagen, fuente o video conserva la URL; cambiar título, categoría o fecha/hora genera otra URL. Filas con idéntica categoría, fecha/hora y título representan la misma identidad.
+
+La vista permite acceso directo y recarga por URL en Pages. Comparte la última copia CSV de la portada para lectura offline; las imágenes y videos externos requieren conexión. Una fila retirada o un identificador inválido muestra Noticia no disponible. Los metadatos, canonical y NewsArticle se completan en el navegador al cargar una noticia válida; los rastreadores que no ejecutan JavaScript solo verán los metadatos genéricos. No se generan archivos HTML por fila ni se modifica Google Sheets.
