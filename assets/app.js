@@ -1,4 +1,4 @@
-const cards = [...document.querySelectorAll('#newsGrid .news-card')];
+let cards = [...document.querySelectorAll('#newsGrid .news-card')];
 const tabs = [...document.querySelectorAll('.tab')];
 const search = document.querySelector('#searchInput');
 const empty = document.querySelector('#emptyState');
@@ -46,6 +46,10 @@ tabs.forEach(tab => tab.addEventListener('click', () => {const key = tab.dataset
 search?.addEventListener('input', apply);
 window.addEventListener('hashchange', applyHashFilter);
 applyHashFilter();
+document.addEventListener('ranasports:news-updated', () => {
+ cards = [...document.querySelectorAll('#newsGrid .news-card')];
+ apply();
+});
 let deferredPrompt = null;
 const installButtons = [...document.querySelectorAll('#installBtn, #installBtn2')];
 const dialog = document.querySelector('#installDialog');

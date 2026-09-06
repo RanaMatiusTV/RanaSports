@@ -15,6 +15,7 @@
   <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
   <link rel="stylesheet" href="assets/styles.css">
   <script defer src="assets/app.js"></script>
+  <script defer src="assets/news-feed.js"></script>
 <link rel="canonical" href="https://ranamatiustv.github.io/RanaSports/"><meta name="author" content="@RanaMatiusTV"><meta property="og:site_name" content="RanaSports"><meta property="og:url" content="https://ranamatiustv.github.io/RanaSports/"><meta property="og:locale" content="es_AR"><meta property="og:image" content="https://ranamatiustv.github.io/RanaSports/assets/icon-512.png"><meta name="twitter:card" content="summary"><meta name="twitter:creator" content="@RanaMatiusTV"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"RanaSports | Noticias y agenda deportiva","url":"https://ranamatiustv.github.io/RanaSports/"}</script></head>
 <body>
   <div class="top-accent"></div>
@@ -79,7 +80,9 @@
         </div>
 
         <p id="f1Channel" hidden><a class="ghost-btn" href="https://www.youtube.com/@RanaF1TV" target="_blank" rel="noopener">🏎️ YouTube Rana F1</a></p>
-        <!-- Agregar aquí tarjetas de noticias verificadas, usando la estructura de newsCardTemplate. -->
+        <!-- Las noticias se cargan desde el CSV público mediante news-feed.js. -->
+        <p id="newsStatus" role="status" hidden></p>
+        <noscript><p>Activá JavaScript para cargar las noticias de la planilla. La agenda y las notas del sitio siguen disponibles.</p></noscript>
         <div id="newsGrid" class="news-grid"></div>
         <template id="newsCardTemplate">
           <article class="news-card" data-category="">

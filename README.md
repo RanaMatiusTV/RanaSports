@@ -11,20 +11,18 @@ GitHub Pages: Settings → Pages → Deploy from a branch → main → / (root).
 ## Desarrollo
 Servir esta carpeta con cualquier servidor HTTP estático. No abrir con file:// para probar la PWA. Probar también bajo /RanaSports/ para reproducir Pages.
 
-## Contenido
-La sección Últimas noticias queda vacía hasta contar con noticias deportivas verificadas. Las tres notas originales se conservan como presentaciones bajo «Conocé RanaSports»; no se mezclan con el listado de actualidad.
+## Noticias automáticas desde CSV
+La portada lee la planilla publicada configurada en assets/news-feed.js al abrirse, al recuperar conexión y cada cinco minutos mientras está visible. Google puede demorar en actualizar su CSV publicado. No hace falta un commit por cada noticia.
 
-Para publicar una noticia sin rediseñar la portada:
-1. Duplicar una página de noticias y completar el contenido verificado, fuentes, título, descripción, canonical, Open Graph, JSON-LD y fecha real con hora y zona horaria.
-2. En index.html, copiar el article del template inerte newsCardTemplate dentro de newsGrid. El template no se muestra ni contiene noticias de ejemplo.
-3. Completar data-category con independiente, futbol, f1, seleccion, otros o agenda. Completar el nombre visible de la categoría, título, resumen corto y ambos enlaces a la nota individual.
-4. Completar time datetime con la fecha y hora reales en ISO 8601, incluyendo zona horaria (AAAA-MM-DDTHH:mm:ss-03:00), y escribir también la fecha/hora visible para lectores sin JavaScript. No inventar horarios. El navegador ordena las tarjetas de más nueva a más antigua y muestra la hora argentina; agregar las nuevas arriba también conserva ese orden sin JavaScript.
-5. La imagen es opcional: descomentar el bloque indicado en el template, completar enlace, src local, alt descriptivo y dimensiones reales. Conservar loading="lazy" y decoding="async". Sin imagen, la tarjeta muestra su contenido textual normalmente.
-6. Para notas F1, agregar data-category="f1" al body: app.js agrega el botón exclusivo automáticamente. Se recomienda conservar también el párrafo estático data-f1-channel de noticias/rana-f1.html para lectura sin JavaScript; el script evita duplicarlo. Al reutilizar esa página para otro deporte, quitar tanto el atributo F1 como ese párrafo. No agregar el canal F1 a tarjetas del listado general, hero ni redes generales.
-7. Agregar la URL de la nota a sitemap.xml y la página y su imagen local, si tiene, a CORE en sw.js. Incrementar la versión del caché con cada publicación para mantener la lectura sin conexión.
-8. Comprobar buscador, categoría, enlace individual, PC, móvil y modo sin conexión antes del push a main.
+Columnas: Publicar, Fecha, Hora, Categoría, Título, Resumen, URL nota, URL imagen, Fuente, URL fuente, URL video. Se admite otro orden de columnas. Publicar debe ser SI (se toleran espacios, minúsculas y acento). Las filas requieren fecha, hora, categoría válida, título y resumen; las incompletas se omiten. Fechas admitidas: D/M/AAAA o AAAA-MM-DD. Hora: H:mm o HH:mm:ss, en horario argentino. Se ordenan por fecha y hora descendentes.
 
-Canal general: https://www.youtube.com/@RanaMatiusTV. Canal exclusivo F1: https://www.youtube.com/@RanaF1TV, visible solo al filtrar F1 y dentro de sus notas.
+Categorías: Independiente, Fútbol, F1, Selección, Otros deportes y Agenda. Los enlaces e imagen son opcionales. Sin URL nota se muestra título sin enlace ni botón Leer; sin imagen se muestra una tarjeta de texto. URL video habilita ▶ Ver video. Fuente y URL fuente se muestran si existen. Las URLs solo aceptan HTTP/HTTPS y el contenido se trata como texto, nunca como HTML.
+
+El navegador conserva la última carga válida de la planilla para leer las tarjetas sin conexión e informa cuando no puede actualizarla. Una planilla válida sin filas publicables limpia la versión anterior. Si el almacenamiento está deshabilitado, la carga en línea funciona igualmente. Las imágenes y enlaces externos requieren conexión; las notas locales incluidas en CORE de sw.js conservan su modo offline. Los metadatos SEO existentes se mantienen; las tarjetas del CSV se generan mediante JavaScript.
+
+Las presentaciones originales y el template HTML anterior permanecen en index.html; el template es una referencia inerte y el CSV controla el listado de actualidad. No se publican datos de prueba.
+
+Para agregar una nota local opcional, crear su HTML con fuentes verificadas y metadatos, sumar la URL a sitemap.xml y el archivo a CORE de sw.js, y cargar su URL en la planilla. Las notas F1 usan body data-category="f1" y el botón data-f1-channel de noticias/rana-f1.html. El canal especializado no debe agregarse al hero ni a redes generales.
 
 ## Google AdSense (desactivado)
 Los espacios data-ad-slot están reservados y ocultos hasta su configuración. No se cargan scripts publicitarios ni IDs ficticios. Al habilitarlo, usar el código oficial de la cuenta, configurar los bloques y ads.txt según indique Google, actualizar la política de privacidad a la implementación real y configurar el consentimiento cuando corresponda. La preparación técnica no implica aprobación de AdSense.

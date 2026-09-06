@@ -9,3 +9,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
 
 #presentations{margin-top:32px}.news-image{padding:0;aspect-ratio:16/9;min-height:0}.news-image img{display:block;width:100%;height:100%;object-fit:cover}.news-card .meta{flex-wrap:wrap}
+
+#newsStatus{color:var(--muted);font-size:14px}.news-card h3,.news-card p{overflow-wrap:anywhere}.news-source{font-size:12px}
