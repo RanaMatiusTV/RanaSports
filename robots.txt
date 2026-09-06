@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ranamatiustv.github.io/RanaSports/sitemap.xml
