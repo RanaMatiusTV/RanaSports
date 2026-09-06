@@ -7,3 +7,5 @@
 @media(max-width:1150px){.header-inner{height:auto;min-height:72px;flex-wrap:wrap;padding-block:12px}.desktop-nav{display:flex;order:3;width:100%;overflow-x:auto;margin-left:0}.desktop-nav a{white-space:nowrap;min-height:44px}.install-btn{margin-left:auto}}
 @media(max-width:400px){.hero h1{font-size:42px}.header-inner{gap:8px}.install-btn{padding:0 10px;font-size:12px}.brand-copy small{font-size:10px}.article-shell h1{overflow-wrap:anywhere}.article-shell .ghost-btn{padding:0 10px}.hero-panel{padding:18px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+
+#presentations{margin-top:32px}.news-image{padding:0;aspect-ratio:16/9;min-height:0}.news-image img{display:block;width:100%;height:100%;object-fit:cover}.news-card .meta{flex-wrap:wrap}

@@ -1,5 +1,5 @@
 const PREFIX = 'ranasports-' + self.registration.scope;
-const CACHE = PREFIX + 'v2';
+const CACHE = PREFIX + 'v3';
 const CORE = ['./', './index.html', './assets/styles.css', './assets/app.js', './assets/icon.svg', './assets/icon-192.png', './assets/icon-512.png', './assets/apple-touch-icon.png', './manifest.webmanifest', './noticias/bienvenidos.html', './noticias/agenda-deportiva.html', './noticias/rana-f1.html', './legal/acerca-de.html', './legal/contacto.html', './legal/privacidad.html'];
 const coreURLs = new Set(CORE.map(path=>new URL(path,self.registration.scope).href));
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting())));
