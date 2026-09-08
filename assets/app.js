@@ -1,24 +1,28 @@
 let cards = [...document.querySelectorAll('#newsGrid .news-card')];
-const tabs = [...document.querySelectorAll('.tab')];
+let tabs = [...document.querySelectorAll('.tab')];
 const search = document.querySelector('#searchInput');
 const empty = document.querySelector('#emptyState');
-const sections = {ultimas:'Últimas noticias', independiente:'Rojo', futbol:'Fútbol', f1:'F1', seleccion:'Selección', otros:'Más deportes', agenda:'Agenda'};
+const sections = {ultimas:'Últimas noticias', independiente:'Independiente', futbol:'Fútbol', f1:'F1', seleccion:'Selección Argentina', otros:'Más deportes', agenda:'Agenda'};
 let active = 'todas';
 const liveModule=document.querySelector('#en-vivo');
 const standingsModule=document.querySelector('#posiciones');
 const moreTitle=document.querySelector('#moreNewsTitle');
 function layoutNews() {
  if(!newsGrid || !liveModule)return;
- const visible=cards.filter(card=>!card.hidden);
- cards.forEach(card=>{card.classList.remove('lead-story','secondary-story','more-story');});
- visible.forEach((card,index)=>{
-  card.classList.add(index===0?'lead-story':index<4?'secondary-story':'more-story');
-  card.style.setProperty('--rank',index);
-  const image=card.querySelector('img');if(image){image.loading=index===0?'eager':'lazy';image.fetchPriority=index===0?'high':'auto';}
-  if(index>=4){card.style.setProperty('--more-row',Math.floor((index-4)/3)+5);card.style.setProperty('--more-col',(index-4)%3+1);card.style.setProperty('--mobile-row',Math.floor((index-4)/2)+6);card.style.setProperty('--mobile-col',((index-4)%2)*3+1);}
- });
- newsGrid.append(...visible.slice(0,4),liveModule,standingsModule);
- moreTitle.hidden=visible.length<=4;newsGrid.append(moreTitle,...visible.slice(4),...cards.filter(card=>card.hidden));
+ const seen=new Set();
+ const visible=cards.filter(card=>{
+  if(card.hidden)return false;const url=card.querySelector('h3 a')?.href;
+  if(url&&seen.has(url)){card.hidden=true;return false;}if(url)seen.add(url);return true;
+ }).sort((a,b)=>publishedAt(b)-publishedAt(a));
+ const featured=active==='todas'&&!search?.value.trim()?visible.map(card=>({card,score:window.ranaTrendScore?.(card)||0})).filter(item=>item.score>0).sort((a,b)=>b.score-a.score||publishedAt(b.card)-publishedAt(a.card)).slice(0,4).map(item=>item.card):[];
+ newsGrid.classList.toggle('no-featured',featured.length===0);newsGrid.classList.toggle('single-featured',featured.length===1);
+ const selected=new Set(featured);const latest=visible.filter(card=>!selected.has(card));
+ cards.forEach(card=>{card.classList.remove('lead-story','secondary-story','more-story');card.dataset.section=selected.has(card)?'featured':'latest';});
+ featured.forEach((card,index)=>{card.classList.add(index===0?'lead-story':'secondary-story');card.style.setProperty('--rank',index);const image=card.querySelector('img');if(image){image.loading=index===0?'eager':'lazy';image.fetchPriority=index===0?'high':'auto';}});
+ latest.forEach((card,index)=>{card.classList.add('more-story');card.style.setProperty('--more-row',Math.floor(index/3)+(featured.length?5:3));card.style.setProperty('--more-col',index%3+1);card.style.setProperty('--mobile-row',Math.floor(index/2)+(featured.length?6:4));card.style.setProperty('--mobile-col',(index%2)*3+1);});
+ const notice=document.querySelector('#featuredNotice');if(notice)notice.hidden=featured.length>0||active!=='todas'||Boolean(search?.value.trim());
+ moreTitle.hidden=false;moreTitle.textContent='ÚLTIMAS NOTICIAS';
+ newsGrid.append(...featured,liveModule,standingsModule,moreTitle,...latest,...cards.filter(card=>card.hidden));
 }
 // Las tarjetas siguen siendo HTML estático, indexable y legible sin JavaScript.
 const publishedAt = card => Date.parse(card.querySelector('time')?.dateTime || '') || 0;
@@ -35,7 +39,7 @@ function apply() {
  const q = normalize(search?.value.trim() || '');
  let count = 0;
  cards.forEach(card => {
-  const matches = (active === 'todas' || card.dataset.category === active) && normalize((card.dataset.search || '') + ' ' + card.textContent).includes(q);
+  const matches = (active === 'todas' || (card.dataset.sport === active || (active==='otros' && card.dataset.category==='otros') || (!card.dataset.sport && card.dataset.category===active))) && normalize((card.dataset.search || '') + ' ' + card.textContent).includes(q);
   card.hidden = !matches;
   if (matches) count++;
  });
@@ -43,7 +47,7 @@ function apply() {
  layoutNews();
  const key = location.hash==='#en-vivo' ? 'en-vivo' : active === 'todas' ? 'ultimas' : active;
  const heading = document.querySelector('#feedTitle');
- if (heading) heading.textContent = sections[key] || sections.ultimas;
+ if (heading) heading.textContent = active==='todas'&&!search?.value.trim()?'DESTACADAS':sections[key] || sections.ultimas;
  document.querySelectorAll('.desktop-nav a, .mobile-nav a').forEach(link => {const selected = link.getAttribute('href') === '#' + key || (key === 'ultimas' && link.getAttribute('href') === './');link.classList.toggle('active',selected); if(selected) link.setAttribute('aria-current','true');else link.removeAttribute('aria-current');});
  const f1Channel = document.querySelector('#f1Channel');
  if (f1Channel) f1Channel.hidden = active !== 'f1';
@@ -53,14 +57,25 @@ function apply() {
 }
 function applyHashFilter() {
  if (!newsGrid) return;
- const key = location.hash.slice(1) || 'ultimas';
+ const key = decodeURIComponent(location.hash.slice(1)) || 'ultimas';
  if(key==='en-vivo'){active='todas';apply();liveModule?.scrollIntoView({behavior:'instant'});return;}
  if (!Object.hasOwn(sections, key)) return;
  active = key === 'ultimas' ? 'todas' : key;
  apply();
  if (location.hash) document.querySelector(key==='agenda'?'#agendaModule':'#ultimas')?.scrollIntoView({behavior: 'instant'});
 }
-tabs.forEach(tab => tab.addEventListener('click', () => {const key = tab.dataset.filter === 'todas' ? 'ultimas' : tab.dataset.filter;if(location.hash === '#' + key) applyHashFilter(); else location.hash=key;}));
+document.querySelector('.category-tabs')?.addEventListener('click',event=>{
+ const tab=event.target.closest('[data-filter]');if(!tab)return;
+ const key=tab.dataset.filter==='todas'?'ultimas':tab.dataset.filter;
+ if(decodeURIComponent(location.hash.slice(1))===key)applyHashFilter();else location.hash=encodeURIComponent(key);
+});
+document.addEventListener('ranasports:navigation-ready',()=>{tabs=[...document.querySelectorAll('.tab')];applyHashFilter();});
+document.addEventListener('ranasports:categories',event=>{
+ for(const [key,label] of event.detail)if(!['ultimas','en-vivo'].includes(key))sections[key]=label;
+ tabs=[...document.querySelectorAll('.tab')];
+ applyHashFilter();
+});
+document.addEventListener('ranasports:trends',apply);
 search?.addEventListener('input', apply);
 window.addEventListener('hashchange', applyHashFilter);
 applyHashFilter();

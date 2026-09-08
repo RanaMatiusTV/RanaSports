@@ -14,9 +14,9 @@
   <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
   <link rel="stylesheet" href="assets/styles.css">
-  <script defer src="assets/app.js"></script>
+  <script defer src="assets/app.js"></script><script defer src="assets/navigation.js"></script>
   <script defer src="assets/news-feed.js"></script>
-<link rel="canonical" href="https://ranamatiustv.github.io/RanaSports/"><meta name="author" content="@RanaMatiusTV"><meta property="og:site_name" content="RanaSports"><meta property="og:url" content="https://ranamatiustv.github.io/RanaSports/"><meta property="og:locale" content="es_AR"><meta property="og:image" content="https://ranamatiustv.github.io/RanaSports/assets/icon-512.png"><meta name="twitter:card" content="summary"><meta name="twitter:creator" content="@RanaMatiusTV"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"RanaSports | Noticias y agenda deportiva","url":"https://ranamatiustv.github.io/RanaSports/"}</script><link rel="stylesheet" href="assets/redesign.css"></head>
+<link rel="canonical" href="https://ranamatiustv.github.io/RanaSports/"><meta name="author" content="@RanaMatiusTV"><meta property="og:site_name" content="RanaSports"><meta property="og:url" content="https://ranamatiustv.github.io/RanaSports/"><meta property="og:locale" content="es_AR"><meta property="og:image" content="https://ranamatiustv.github.io/RanaSports/assets/icon-512.png"><meta name="twitter:card" content="summary"><meta name="twitter:creator" content="@RanaMatiusTV"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"RanaSports | Noticias y agenda deportiva","url":"https://ranamatiustv.github.io/RanaSports/"}</script><link rel="stylesheet" href="assets/redesign.css"><script defer src="assets/highlights.js"></script></head>
 <body>
   <div class="top-accent"></div>
   <header class="site-header">
@@ -25,7 +25,7 @@
         <img class="brand-frog" src="assets/icon.svg" alt="" width="64" height="56">
         <span class="brand-copy"><b>Rana<span>Sports</span></b><small>Creado por @RanaMatiusTV</small></span>
       </a>
-      <nav class="desktop-nav" aria-label="Secciones principales"><a class="active" href="#ultimas">INICIO</a><a href="#en-vivo">EN VIVO</a><a href="#futbol">FÚTBOL</a><a href="#independiente">ROJO</a><a href="#f1">F1</a><a href="#otros">MÁS DEPORTES</a><a href="#agenda">AGENDA</a></nav>
+      <nav class="desktop-nav dynamic-nav" aria-label="Secciones principales"><a href="#ultimas">NOTICIAS</a><a href="#independiente">INDEPENDIENTE</a><a href="#seleccion">SELECCIÓN ARGENTINA</a><a href="#f1">F1</a><a href="#agenda">AGENDA</a></nav>
       <a class="header-youtube" aria-label="Canal de YouTube @RanaMatiusTV" href="https://www.youtube.com/@RanaMatiusTV" target="_blank" rel="noopener">▶ CANAL DE YOUTUBE</a><button id="installBtn" class="install-btn" type="button" hidden>Instalar app</button>
     </div>
   </header>
@@ -39,7 +39,7 @@
     <section id="ultimas" class="shell content-grid portal-layout">
       <div class="main-feed">
         <div class="section-heading">
-          <div><span class="eyebrow">ACTUALIDAD</span><h2 id="feedTitle">Últimas noticias</h2></div>
+          <div><span class="eyebrow">ACTUALIDAD</span><h2 id="feedTitle">DESTACADAS</h2></div>
           <div class="feed-controls">
             <label class="search-wrap" aria-label="Buscar noticias"><span>⌕</span><input id="searchInput" type="search" placeholder="Buscar noticias, equipos, deportes…" autocomplete="off"></label>
           </div>
@@ -47,10 +47,10 @@
 
         <div class="category-tabs" role="group" aria-label="Filtrar noticias">
           <button class="tab active" data-filter="todas">Todas</button>
-          <button class="tab" data-filter="independiente">Rojo</button>
+          <button class="tab" data-filter="independiente">Independiente</button>
           <button class="tab" data-filter="futbol">Fútbol</button>
           <button class="tab" data-filter="f1">F1</button>
-          <button class="tab" data-filter="seleccion">Selección</button>
+          <button class="tab" data-filter="seleccion">Selección Argentina</button>
           <button class="tab" data-filter="otros">Más deportes</button>
           <button class="tab" data-filter="agenda">Agenda</button>
         </div>
@@ -59,6 +59,7 @@
         <!-- Las noticias se cargan desde el CSV público mediante news-feed.js. -->
         <p id="newsStatus" role="status" hidden></p>
         <noscript><p>Activá JavaScript para cargar las noticias de la planilla. La agenda y las notas del sitio siguen disponibles.</p></noscript>
+        <p id="featuredNotice" class="featured-notice">Sin coincidencias verificadas con las tendencias de búsqueda recientes. Consultá Últimas Noticias.</p>
         <div id="newsGrid" class="news-grid editorial-grid"></div>
         <div id="livePanels">
           <section id="en-vivo" class="dashboard-module live-module" aria-labelledby="liveTitle" data-source-status="not-connected">

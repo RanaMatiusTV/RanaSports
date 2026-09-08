@@ -1,0 +1,57 @@
+{
+  "region": "AR",
+  "source": "https://trends.google.com/trending/rss?geo=AR",
+  "updatedAt": "2026-09-08T18:32:21.763Z",
+  "trends": [
+    {
+      "query": "porto - manchester city",
+      "startedAt": "2026-09-08T18:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "dortmund - villarreal",
+      "startedAt": "2026-09-08T18:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "real madrid - inter",
+      "startedAt": "2026-09-08T18:00:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "crystal palace - middlesbrough",
+      "startedAt": "2026-09-08T18:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "mauricio isla",
+      "startedAt": "2026-09-08T18:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "sunderland afc - hull city",
+      "startedAt": "2026-09-08T18:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pastor de los santos",
+      "startedAt": "2026-09-08T17:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "ucl",
+      "startedAt": "2026-09-08T17:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "elina costantini",
+      "startedAt": "2026-09-08T17:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "aek",
+      "startedAt": "2026-09-08T17:30:00.000Z",
+      "volume": 200
+    }
+  ]
+}

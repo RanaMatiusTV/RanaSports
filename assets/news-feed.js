@@ -2,12 +2,12 @@
 (() => {
  const grid = document.querySelector('#newsGrid');
  const detail = document.querySelector('#newsDetail');
- if (!grid && !detail) return;
+ if (!grid && !detail && !document.querySelector('.dynamic-nav')) return;
  const siteBase = new URL('../', document.querySelector('script[src$="assets/news-feed.js"]').src);
  const CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv';
  const CACHE_KEY = 'ranasports-news-csv-v1:' + siteBase.pathname;
  const status = document.querySelector('#newsStatus');
- const categories = {independiente:'Independiente',futbol:'Fútbol',f1:'F1',seleccion:'Selección',agenda:'Agenda'};
+ const categories = {independiente:'Independiente',futbol:'Fútbol',f1:'F1',seleccion:'Selección Argentina',agenda:'Agenda'};
  const normalize = value => value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase();
  const headers = ['Publicar','Fecha','Hora','Categoría','Título','Resumen','URL nota','URL imagen','Fuente','URL fuente','URL video'].map(normalize);
  const dateFormat = new Intl.DateTimeFormat('es-AR',{timeZone:'America/Argentina/Buenos_Aires',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit',hour12:false});
@@ -46,6 +46,13 @@
   if(!first)throw new Error('CSV sin encabezados');
   const keys=first.map(normalize);
   if(!headers.every(key=>keys.includes(key)))throw new Error('Encabezados inválidos');
+  const available = new Map();
+  rows.forEach(values=>{
+   const sport=(values[keys.indexOf('categoria')]||'').trim();if(!sport)return;
+   let key=normalize(sport);key=({'otros deportes':'otros','formula 1':'f1','formula uno':'f1','futbol argentino':'futbol'})[key]||key;
+   available.set(key,key==='seleccion'?'Selección Argentina':sport);
+  });
+  document.dispatchEvent(new CustomEvent('ranasports:categories',{detail:[...available]}));
   return rows.flatMap(values=>{
    if(values.length!==keys.length)return [];
    const row=Object.fromEntries(keys.map((key,index)=>[key,values[index].trim()]));
@@ -54,7 +61,7 @@
    category=({'otros deportes':'otros','formula 1':'f1','formula uno':'f1','futbol argentino':'futbol'})[category]||category;
    const date=timestamp(row.fecha,row.hora);
    if(!category||!row.titulo||!row.resumen||date===null)return [];
-   return [{category,group:Object.hasOwn(categories,category)?category:'otros',sport:row.categoria,photoCredit:row['credito foto']||'',date,title:row.titulo,summary:row.resumen,note:safeURL(row['url nota']),image:safeURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video:safeURL(row['url video'])}];
+   return [{category,group:Object.hasOwn(categories,category)?category:'otros',sport:category==='seleccion'?'Selección Argentina':row.categoria,photoCredit:row['credito foto']||'',date,title:row.titulo,summary:row.resumen,note:safeURL(row['url nota']),image:safeURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video:safeURL(row['url video'])}];
   }).sort((a,b)=>b.date-a.date);
  }
  function element(tag,className,text) {const node=document.createElement(tag);if(className)node.className=className;if(text)node.textContent=text;return node;}
@@ -96,9 +103,10 @@
  }
  function render(news) {
   if(detail){renderDetail(news);return;}
+  if(!grid)return;
   const fragment=document.createDocumentFragment();
   news.forEach(item=>{
-   const card=element('article','news-card');card.dataset.category=item.group;
+   const card=element('article','news-card');card.dataset.category=item.group;card.dataset.sport=item.category;
    const body=element('div','card-body');
    if(item.image){
     const visual=link(articleURL(item),'','card-visual news-image');
