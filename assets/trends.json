@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-08T22:24:58.293Z",
+  "updatedAt": "2026-09-08T22:50:39.474Z",
   "trends": [
+    {
+      "query": "thiago silva",
+      "startedAt": "2026-09-08T22:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "blanca vicuña ardohain",
+      "startedAt": "2026-09-08T22:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "neurocientífico",
+      "startedAt": "2026-09-08T22:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "tasa de interés",
       "startedAt": "2026-09-08T22:10:00.000Z",
@@ -19,11 +34,6 @@
       "volume": 200
     },
     {
-      "query": "variante ómicron del sars-cov-2",
-      "startedAt": "2026-09-08T21:50:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "iphone 17",
       "startedAt": "2026-09-08T21:50:00.000Z",
       "volume": 200
@@ -34,24 +44,14 @@
       "volume": 200
     },
     {
+      "query": "variante ómicron del sars-cov-2",
+      "startedAt": "2026-09-08T21:50:00.000Z",
+      "volume": 200
+    },
+    {
       "query": "ángel di maría",
       "startedAt": "2026-09-08T21:40:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "aluvión",
-      "startedAt": "2026-09-08T21:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "miley",
-      "startedAt": "2026-09-08T21:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "crítica",
-      "startedAt": "2026-09-08T21:30:00.000Z",
-      "volume": 200
     }
   ]
 }
