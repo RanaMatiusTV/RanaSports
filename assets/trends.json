@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-08T22:50:39.474Z",
+  "updatedAt": "2026-09-08T23:23:51.387Z",
   "trends": [
+    {
+      "query": "modelo económico",
+      "startedAt": "2026-09-08T23:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "phillies - astros",
+      "startedAt": "2026-09-08T23:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "sao paulo fc",
+      "startedAt": "2026-09-08T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "condenado",
+      "startedAt": "2026-09-08T22:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "luna llena",
+      "startedAt": "2026-09-08T22:50:00.000Z",
+      "volume": 200
+    },
     {
       "query": "thiago silva",
       "startedAt": "2026-09-08T22:30:00.000Z",
@@ -26,31 +51,6 @@
     {
       "query": "club de fútbol",
       "startedAt": "2026-09-08T22:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "sacha fenestraz",
-      "startedAt": "2026-09-08T21:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "iphone 17",
-      "startedAt": "2026-09-08T21:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "juegos suramericanos de 2026",
-      "startedAt": "2026-09-08T21:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "variante ómicron del sars-cov-2",
-      "startedAt": "2026-09-08T21:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ángel di maría",
-      "startedAt": "2026-09-08T21:40:00.000Z",
       "volume": 1000
     }
   ]
