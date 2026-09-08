@@ -1,22 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-08T21:23:42.186Z",
+  "updatedAt": "2026-09-08T21:50:46.276Z",
   "trends": [
     {
-      "query": "enzo fernández",
-      "startedAt": "2026-09-08T21:00:00.000Z",
+      "query": "crítica",
+      "startedAt": "2026-09-08T21:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "la nación",
+      "startedAt": "2026-09-08T21:20:00.000Z",
       "volume": 1000
     },
     {
-      "query": "kylian mbappé",
-      "startedAt": "2026-09-08T21:00:00.000Z",
+      "query": "moratoria",
+      "startedAt": "2026-09-08T21:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "juez",
+      "startedAt": "2026-09-08T21:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "platense vs fluminense",
-      "startedAt": "2026-09-08T21:00:00.000Z",
-      "volume": 200
+      "query": "fluminense - platense",
+      "startedAt": "2026-09-08T21:10:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "santa fe - vasco da gama",
+      "startedAt": "2026-09-08T21:10:00.000Z",
+      "volume": 2000
     },
     {
       "query": "cucurella",
@@ -36,21 +51,6 @@
     {
       "query": "diego peretti",
       "startedAt": "2026-09-08T20:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "vinicius",
-      "startedAt": "2026-09-08T20:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ethan mbappé",
-      "startedAt": "2026-09-08T20:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "cristina fernández de kirchner",
-      "startedAt": "2026-09-08T20:30:00.000Z",
       "volume": 200
     }
   ]
