@@ -54,7 +54,7 @@
    category=({'otros deportes':'otros','formula 1':'f1','formula uno':'f1','futbol argentino':'futbol'})[category]||category;
    const date=timestamp(row.fecha,row.hora);
    if(!category||!row.titulo||!row.resumen||date===null)return [];
-   return [{category,group:Object.hasOwn(categories,category)?category:'otros',sport:row.categoria,date,title:row.titulo,summary:row.resumen,note:safeURL(row['url nota']),image:safeURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video:safeURL(row['url video'])}];
+   return [{category,group:Object.hasOwn(categories,category)?category:'otros',sport:row.categoria,photoCredit:row['credito foto']||'',date,title:row.titulo,summary:row.resumen,note:safeURL(row['url nota']),image:safeURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video:safeURL(row['url video'])}];
   }).sort((a,b)=>b.date-a.date);
  }
  function element(tag,className,text) {const node=document.createElement(tag);if(className)node.className=className;if(text)node.textContent=text;return node;}
@@ -80,7 +80,7 @@
   const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':'badge-site'),item.sport));
   const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);
   detail.append(meta,element('h1','',item.title),element('p','article-meta','Creado por @RanaMatiusTV'));
-  if(item.image){const image=element('img','article-image');image.src=item.image;image.alt=item.title;image.width=800;image.height=450;image.decoding='async';image.referrerPolicy='no-referrer';image.addEventListener('error',()=>image.remove(),{once:true});detail.append(image);}
+  if(item.image){const figure=element('figure','article-photo');const image=element('img','article-image');image.src=item.image;image.alt=item.title;image.width=800;image.height=450;image.decoding='async';image.referrerPolicy='no-referrer';image.addEventListener('error',()=>figure.remove(),{once:true});figure.append(image);if(item.photoCredit)figure.append(element('figcaption','photo-credit','Foto: '+item.photoCredit));detail.append(figure);}
   const content=element('div','article-body');content.append(element('p','article-summary',item.summary));
   if(item.video)content.append(link(item.video,'▶ Ver video','ghost-btn'));
   if(item.category==='f1'){const paragraph=element('p');paragraph.append(link('https://www.youtube.com/@RanaF1TV','🏎️ YouTube Rana F1','ghost-btn'));content.append(paragraph);}
