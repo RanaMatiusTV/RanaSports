@@ -1,12 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-08T18:54:52.267Z",
+  "updatedAt": "2026-09-08T19:24:38.107Z",
   "trends": [
+    {
+      "query": "lille",
+      "startedAt": "2026-09-08T19:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "inter vs real madrid",
+      "startedAt": "2026-09-08T18:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "evangelina anderson",
+      "startedAt": "2026-09-08T18:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "culturismo",
+      "startedAt": "2026-09-08T18:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "eduardo coudet",
       "startedAt": "2026-09-08T18:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "frances tiafoe",
@@ -16,7 +36,7 @@
     {
       "query": "borussia dortmund",
       "startedAt": "2026-09-08T18:40:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "bahamas",
@@ -29,29 +49,9 @@
       "volume": 100
     },
     {
-      "query": "losc - real betis",
-      "startedAt": "2026-09-08T18:20:00.000Z",
-      "volume": 1000
-    },
-    {
       "query": "reino unido",
       "startedAt": "2026-09-08T18:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "bournemouth - lincoln city",
-      "startedAt": "2026-09-08T18:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "banco provincia",
-      "startedAt": "2026-09-08T18:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "millwall - newcastle",
-      "startedAt": "2026-09-08T18:20:00.000Z",
-      "volume": 200
+      "volume": 2000
     }
   ]
 }
