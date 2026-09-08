@@ -16,62 +16,38 @@
   <link rel="stylesheet" href="assets/styles.css">
   <script defer src="assets/app.js"></script>
   <script defer src="assets/news-feed.js"></script>
-<link rel="canonical" href="https://ranamatiustv.github.io/RanaSports/"><meta name="author" content="@RanaMatiusTV"><meta property="og:site_name" content="RanaSports"><meta property="og:url" content="https://ranamatiustv.github.io/RanaSports/"><meta property="og:locale" content="es_AR"><meta property="og:image" content="https://ranamatiustv.github.io/RanaSports/assets/icon-512.png"><meta name="twitter:card" content="summary"><meta name="twitter:creator" content="@RanaMatiusTV"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"RanaSports | Noticias y agenda deportiva","url":"https://ranamatiustv.github.io/RanaSports/"}</script></head>
+<link rel="canonical" href="https://ranamatiustv.github.io/RanaSports/"><meta name="author" content="@RanaMatiusTV"><meta property="og:site_name" content="RanaSports"><meta property="og:url" content="https://ranamatiustv.github.io/RanaSports/"><meta property="og:locale" content="es_AR"><meta property="og:image" content="https://ranamatiustv.github.io/RanaSports/assets/icon-512.png"><meta name="twitter:card" content="summary"><meta name="twitter:creator" content="@RanaMatiusTV"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"RanaSports | Noticias y agenda deportiva","url":"https://ranamatiustv.github.io/RanaSports/"}</script><link rel="stylesheet" href="assets/redesign.css"></head>
 <body>
   <div class="top-accent"></div>
   <header class="site-header">
     <div class="shell header-inner">
       <a class="brand" href="./" aria-label="RanaSports inicio">
-        <span class="brand-mark">R</span>
-        <span class="brand-copy"><b>RanaSports</b><small>Creado por @RanaMatiusTV</small></span>
+        <img class="brand-frog" src="assets/icon.svg" alt="" width="64" height="56">
+        <span class="brand-copy"><b>Rana<span>Sports</span></b><small>Creado por @RanaMatiusTV</small></span>
       </a>
-      <nav class="desktop-nav" aria-label="Secciones principales">
-        <a class="active" href="#ultimas">Últimas</a>
-        <a href="#independiente">Independiente</a>
-        <a href="#futbol">Fútbol</a>
-        <a href="#f1">F1</a>
-        <a href="#seleccion">Selección</a>
-        <a href="#otros">Más deportes</a>
-        <a href="#agenda">Agenda</a>
-      </nav>
-      <button id="installBtn" class="install-btn" type="button" hidden>Instalar app</button>
+      <nav class="desktop-nav" aria-label="Secciones principales"><a class="active" href="#ultimas">INICIO</a><a href="#en-vivo">EN VIVO</a><a href="#futbol">FÚTBOL</a><a href="#independiente">ROJO</a><a href="#f1">F1</a><a href="#otros">MÁS DEPORTES</a><a href="#agenda">AGENDA</a></nav>
+      <a class="header-youtube" aria-label="Canal de YouTube @RanaMatiusTV" href="https://www.youtube.com/@RanaMatiusTV" target="_blank" rel="noopener">▶ CANAL DE YOUTUBE</a><button id="installBtn" class="install-btn" type="button" hidden>Instalar app</button>
     </div>
   </header>
 
   <a class="skip-link" href="#ultimas">Saltar a las noticias</a><main>
-    <section class="hero shell">
-      <div class="hero-copy">
-        <span class="eyebrow">RANASPORTS · Creado por @RanaMatiusTV</span>
-        <h1>Deporte al hueso.<br><span>Sin vueltas.</span></h1>
-        <p>Noticias cortas, agenda deportiva y cobertura especial de Independiente y Fórmula 1.</p>
-        <div class="hero-actions">
-          <a class="primary-btn" href="#ultimas">Ver últimas</a>
-          <a class="primary-btn" href="https://www.youtube.com/@RanaMatiusTV" target="_blank" rel="noopener">▶️ CANAL DE YOUTUBE</a>
-          <a class="ghost-btn" href="https://calendar.google.com/calendar/u/0?cid=NmRmYjU3NTRhYTQ2MTA2YjMzZjY1NzgzZjNkNWU1Y2Y5OGVhOGIzMGNlYzY5ZjdjNzFkOTY1YjBmMzcxNjE2N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener">📅 Abrir agenda</a>
-        </div>
-      </div>
-      <div class="hero-panel">
-        <div class="pulse-dot"></div>
-        <span class="panel-kicker">EL DEPORTE, CON MIRADA PROPIA</span>
-        <h2>Todo en un solo lugar</h2>
-        <div class="chips">
-          <span>🔴 Independiente</span><span>⚽ Fútbol</span><span>🏎️ F1</span><span>🇦🇷 Selección</span><span>📅 Agenda</span>
-        </div>
-      </div>
+    <section class="breaking shell" aria-labelledby="breakingTitle">
+      <h1 id="breakingTitle"><span aria-hidden="true">ϟ</span> ÚLTIMO<br class="desktop-break"> MOMENTO RANA</h1>
+      <div id="breakingFeed" data-source-status="not-connected"><strong>La actualidad, con mirada Rana.</strong><p>Próximamente, las publicaciones y los retuits de @RanaMatiusTV en este espacio.</p></div>
+      <a class="breaking-link" href="https://x.com/RanaMatiusTV" target="_blank" rel="noopener">Ver en X ↗</a>
     </section>
-
-    <section id="ultimas" class="shell content-grid">
+    <section id="ultimas" class="shell content-grid portal-layout">
       <div class="main-feed">
         <div class="section-heading">
           <div><span class="eyebrow">ACTUALIDAD</span><h2 id="feedTitle">Últimas noticias</h2></div>
           <div class="feed-controls">
-            <label class="search-wrap" aria-label="Buscar noticias"><span>⌕</span><input id="searchInput" type="search" placeholder="Buscar..." autocomplete="off"></label>
+            <label class="search-wrap" aria-label="Buscar noticias"><span>⌕</span><input id="searchInput" type="search" placeholder="Buscar noticias, equipos, deportes…" autocomplete="off"></label>
           </div>
         </div>
 
         <div class="category-tabs" role="group" aria-label="Filtrar noticias">
           <button class="tab active" data-filter="todas">Todas</button>
-          <button class="tab" data-filter="independiente">Independiente</button>
+          <button class="tab" data-filter="independiente">Rojo</button>
           <button class="tab" data-filter="futbol">Fútbol</button>
           <button class="tab" data-filter="f1">F1</button>
           <button class="tab" data-filter="seleccion">Selección</button>
@@ -83,7 +59,20 @@
         <!-- Las noticias se cargan desde el CSV público mediante news-feed.js. -->
         <p id="newsStatus" role="status" hidden></p>
         <noscript><p>Activá JavaScript para cargar las noticias de la planilla. La agenda y las notas del sitio siguen disponibles.</p></noscript>
-        <div id="newsGrid" class="news-grid"></div>
+        <div id="newsGrid" class="news-grid editorial-grid"></div>
+        <div id="livePanels">
+          <section id="en-vivo" class="dashboard-module live-module" aria-labelledby="liveTitle" data-source-status="not-connected">
+            <div class="module-heading"><h2 id="liveTitle"><span class="live-dot"></span> EN VIVO</h2><span class="module-status">PRÓXIMAMENTE</span></div>
+            <div class="module-topics"><span>RESULTADOS</span><span>PARTIDOS DEL DÍA</span></div>
+            <div class="live-empty"><span class="score-symbol" aria-hidden="true">— : —</span><h3>El juego, minuto a minuto.</h3><p>Los resultados y partidos aparecerán cuando conectemos una fuente de datos.</p></div>
+            <a class="module-link" href="#agenda">Mientras tanto, consultá la agenda →</a>
+          </section>
+          <section id="posiciones" class="dashboard-module standings-module" aria-labelledby="standingsTitle" data-source-status="not-connected">
+            <div class="module-heading"><h2 id="standingsTitle">TABLA DE POSICIONES</h2></div>
+            <table><caption>Posiciones · Próximamente</caption><thead><tr><th scope="col">#</th><th scope="col">Equipo</th><th scope="col">PJ</th><th scope="col">PTS</th></tr></thead><tbody><tr><td colspan="4">Todavía no hay una tabla conectada.</td></tr></tbody></table>
+          </section>
+        </div>
+        <h2 id="moreNewsTitle" class="more-news-title" hidden>MÁS NOTICIAS</h2>
         <template id="newsCardTemplate">
           <article class="news-card" data-category="">
             <!-- Imagen opcional: descomentar y completar src y alt.
@@ -99,45 +88,11 @@
         </template>
 
         <div id="emptyState" class="empty-state" role="status">Todavía no hay noticias deportivas publicadas. Próximamente sumaremos información verificada.</div>
-        <section id="presentations" aria-labelledby="presentationTitle">
-          <div class="section-heading"><h2 id="presentationTitle">Conocé RanaSports</h2></div>
-        <div id="presentationGrid" class="news-grid">
-          <article class="news-card presentation-card featured" data-category="sitio" data-search="RanaMatiusTV noticias agenda deporte portal">
-            <a class="card-visual visual-main" href="noticias/bienvenidos.html" aria-label="Abrir noticia"><span class="visual-label">RANASPORTS</span><strong>TODO EL DEPORTE<br>EN UN SOLO LUGAR</strong></a>
-            <div class="card-body">
-              <div class="meta"><span class="badge badge-site">Sitio</span><time datetime="2026-09-05">5 SEP 2026</time></div>
-              <h3><a href="noticias/bienvenidos.html">RanaSports estrena su portal de noticias y agenda deportiva</a></h3>
-              <p>Una web rápida, pensada para celular y PC, con noticias breves, cobertura especial y acceso directo a la agenda.</p>
-              <a class="read-more" href="noticias/bienvenidos.html">Leer →</a>
-            </div>
-          </article>
-
-          <article class="news-card presentation-card" data-category="agenda" data-search="agenda deportiva RanaMatiusTV calendario Google Calendar">
-            <a class="card-visual visual-agenda" href="noticias/agenda-deportiva.html" aria-label="Abrir noticia"><span class="visual-icon">📅</span><strong>AGENDA<br>DEPORTIVA</strong></a>
-            <div class="card-body">
-              <div class="meta"><span class="badge badge-agenda">Agenda</span><time datetime="2026-09-05">5 SEP 2026</time></div>
-              <h3><a href="noticias/agenda-deportiva.html">La Agenda Deportiva de RanaMatiusTV, siempre actualizada</a></h3>
-              <p>Partidos, carreras, tenis y los eventos más importantes con horario argentino y dónde verlos.</p>
-              <a class="read-more" href="noticias/agenda-deportiva.html">Leer →</a>
-            </div>
-          </article>
-
-          <article class="news-card presentation-card" data-category="f1" data-search="Rana F1 Franco Colapinto Fórmula 1">
-            <a class="card-visual visual-f1" href="noticias/rana-f1.html" aria-label="Abrir noticia"><span class="visual-icon">🏎️</span><strong>RANA F1</strong></a>
-            <div class="card-body">
-              <div class="meta"><span class="badge badge-f1">F1</span><time datetime="2026-09-05">5 SEP 2026</time></div>
-              <h3><a href="noticias/rana-f1.html">Rana F1: un espacio propio para seguir la Fórmula 1 y a Colapinto</a></h3>
-              <p>Noticias, horarios y contenido rápido para acompañar cada fin de semana de carrera.</p>
-              <a class="read-more" href="noticias/rana-f1.html">Leer →</a>
-            </div>
-          </article>
-        </div>
-
-        </section>
+        <section id="presentations" class="about-links" aria-label="Conocé RanaSports"><span>CONOCÉ RANASPORTS</span><a href="noticias/bienvenidos.html">Nuestro portal ↗</a><a href="noticias/agenda-deportiva.html">La agenda deportiva ↗</a><a href="noticias/rana-f1.html">Rana F1 ↗</a></section>
       </div>
 
       <aside class="sidebar">
-        <section class="side-card agenda-card">
+        <section id="agendaModule" class="side-card agenda-card">
           <span class="eyebrow">AGENDA DEPORTIVA</span>
           <h3>¿Qué hay para ver?</h3>
           <p>Accedé al calendario público y sumalo a Google Calendar.</p>
@@ -166,20 +121,14 @@
 
   <footer class="site-footer">
     <div class="shell footer-grid">
-      <div><a class="brand footer-brand" href="./"><span class="brand-mark">R</span><span class="brand-copy"><b>RanaSports</b><small>Creado por @RanaMatiusTV</small></span></a><p>Información deportiva breve, clara y verificada.</p></div>
+      <div><a class="brand footer-brand" href="./"><img class="brand-frog" src="assets/icon.svg" alt="" width="64" height="56"><span class="brand-copy"><b>Rana<span>Sports</span></b><small>Creado por @RanaMatiusTV</small></span></a><p>Información deportiva breve, clara y verificada.</p></div>
       <div><h4>Secciones</h4><a href="#independiente">Independiente</a><a href="#futbol">Fútbol</a><a href="#f1">F1</a><a href="#seleccion">Selección</a></div>
       <div><h4>Legal</h4><a href="legal/privacidad.html">Privacidad</a><a href="legal/contacto.html">Contacto</a><a href="legal/acerca-de.html">Acerca de</a></div>
     </div>
     <div class="shell footer-bottom">© 2026 RanaSports · Creado por @RanaMatiusTV</div>
   </footer>
 
-  <nav class="mobile-nav" aria-label="Navegación móvil">
-    <a class="active" href="./"><span>⌂</span><small>Inicio</small></a>
-    <a href="#independiente"><span>🔴</span><small>Rojo</small></a>
-    <a href="#futbol"><span>⚽</span><small>Fútbol</small></a>
-    <a href="#f1"><span>🏎️</span><small>F1</small></a>
-    <a href="https://calendar.google.com/calendar/u/0?cid=NmRmYjU3NTRhYTQ2MTA2YjMzZjY1NzgzZjNkNWU1Y2Y5OGVhOGIzMGNlYzY5ZjdjNzFkOTY1YjBmMzcxNjE2N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" rel="noopener"><span>📅</span><small>Agenda</small></a>
-  </nav>
+
 
   <dialog id="installDialog">
     <button class="dialog-close" aria-label="Cerrar">×</button>

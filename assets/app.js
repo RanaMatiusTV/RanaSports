@@ -2,8 +2,24 @@ let cards = [...document.querySelectorAll('#newsGrid .news-card')];
 const tabs = [...document.querySelectorAll('.tab')];
 const search = document.querySelector('#searchInput');
 const empty = document.querySelector('#emptyState');
-const sections = {ultimas:'Últimas noticias', independiente:'Independiente', futbol:'Fútbol', f1:'F1', seleccion:'Selección', otros:'Más deportes', agenda:'Agenda'};
+const sections = {ultimas:'Últimas noticias', independiente:'Rojo', futbol:'Fútbol', f1:'F1', seleccion:'Selección', otros:'Más deportes', agenda:'Agenda'};
 let active = 'todas';
+const liveModule=document.querySelector('#en-vivo');
+const standingsModule=document.querySelector('#posiciones');
+const moreTitle=document.querySelector('#moreNewsTitle');
+function layoutNews() {
+ if(!newsGrid || !liveModule)return;
+ const visible=cards.filter(card=>!card.hidden);
+ cards.forEach(card=>{card.classList.remove('lead-story','secondary-story','more-story');});
+ visible.forEach((card,index)=>{
+  card.classList.add(index===0?'lead-story':index<4?'secondary-story':'more-story');
+  card.style.setProperty('--rank',index);
+  const image=card.querySelector('img');if(image){image.loading=index===0?'eager':'lazy';image.fetchPriority=index===0?'high':'auto';}
+  if(index>=4){card.style.setProperty('--more-row',Math.floor((index-4)/3)+5);card.style.setProperty('--more-col',(index-4)%3+1);card.style.setProperty('--mobile-row',Math.floor((index-4)/2)+6);card.style.setProperty('--mobile-col',((index-4)%2)*3+1);}
+ });
+ newsGrid.append(...visible.slice(0,4),liveModule,standingsModule);
+ moreTitle.hidden=visible.length<=4;newsGrid.append(moreTitle,...visible.slice(4),...cards.filter(card=>card.hidden));
+}
 // Las tarjetas siguen siendo HTML estático, indexable y legible sin JavaScript.
 const publishedAt = card => Date.parse(card.querySelector('time')?.dateTime || '') || 0;
 cards.sort((a, b) => publishedAt(b) - publishedAt(a));
@@ -24,9 +40,10 @@ function apply() {
   if (matches) count++;
  });
  tabs.forEach(tab => { const selected = tab.dataset.filter === active; tab.classList.toggle('active', selected); tab.setAttribute('aria-pressed', String(selected)); });
- const key = active === 'todas' ? 'ultimas' : active;
+ layoutNews();
+ const key = location.hash==='#en-vivo' ? 'en-vivo' : active === 'todas' ? 'ultimas' : active;
  const heading = document.querySelector('#feedTitle');
- if (heading) heading.textContent = sections[key];
+ if (heading) heading.textContent = sections[key] || sections.ultimas;
  document.querySelectorAll('.desktop-nav a, .mobile-nav a').forEach(link => {const selected = link.getAttribute('href') === '#' + key || (key === 'ultimas' && link.getAttribute('href') === './');link.classList.toggle('active',selected); if(selected) link.setAttribute('aria-current','true');else link.removeAttribute('aria-current');});
  const f1Channel = document.querySelector('#f1Channel');
  if (f1Channel) f1Channel.hidden = active !== 'f1';
@@ -37,10 +54,11 @@ function apply() {
 function applyHashFilter() {
  if (!newsGrid) return;
  const key = location.hash.slice(1) || 'ultimas';
+ if(key==='en-vivo'){active='todas';apply();liveModule?.scrollIntoView({behavior:'instant'});return;}
  if (!Object.hasOwn(sections, key)) return;
  active = key === 'ultimas' ? 'todas' : key;
  apply();
- if (location.hash) document.querySelector('#ultimas')?.scrollIntoView({behavior: 'instant'});
+ if (location.hash) document.querySelector(key==='agenda'?'#agendaModule':'#ultimas')?.scrollIntoView({behavior: 'instant'});
 }
 tabs.forEach(tab => tab.addEventListener('click', () => {const key = tab.dataset.filter === 'todas' ? 'ultimas' : tab.dataset.filter;if(location.hash === '#' + key) applyHashFilter(); else location.hash=key;}));
 search?.addEventListener('input', apply);
