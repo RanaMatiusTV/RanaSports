@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-08T21:50:46.276Z",
+  "updatedAt": "2026-09-08T22:24:58.293Z",
   "trends": [
     {
-      "query": "crítica",
-      "startedAt": "2026-09-08T21:30:00.000Z",
-      "volume": 100
+      "query": "tasa de interés",
+      "startedAt": "2026-09-08T22:10:00.000Z",
+      "volume": 200
     },
     {
-      "query": "la nación",
-      "startedAt": "2026-09-08T21:20:00.000Z",
+      "query": "club de fútbol",
+      "startedAt": "2026-09-08T22:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "sacha fenestraz",
+      "startedAt": "2026-09-08T21:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "variante ómicron del sars-cov-2",
+      "startedAt": "2026-09-08T21:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "iphone 17",
+      "startedAt": "2026-09-08T21:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "juegos suramericanos de 2026",
+      "startedAt": "2026-09-08T21:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "ángel di maría",
+      "startedAt": "2026-09-08T21:40:00.000Z",
       "volume": 1000
     },
     {
-      "query": "moratoria",
-      "startedAt": "2026-09-08T21:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "juez",
-      "startedAt": "2026-09-08T21:20:00.000Z",
+      "query": "aluvión",
+      "startedAt": "2026-09-08T21:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "fluminense - platense",
-      "startedAt": "2026-09-08T21:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "santa fe - vasco da gama",
-      "startedAt": "2026-09-08T21:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "cucurella",
-      "startedAt": "2026-09-08T20:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "carlos augusto",
-      "startedAt": "2026-09-08T20:40:00.000Z",
+      "query": "miley",
+      "startedAt": "2026-09-08T21:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "diomande",
-      "startedAt": "2026-09-08T20:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "diego peretti",
-      "startedAt": "2026-09-08T20:40:00.000Z",
+      "query": "crítica",
+      "startedAt": "2026-09-08T21:30:00.000Z",
       "volume": 200
     }
   ]
