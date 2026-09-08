@@ -7,7 +7,7 @@
  const CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv';
  const CACHE_KEY = 'ranasports-news-csv-v1:' + siteBase.pathname;
  const status = document.querySelector('#newsStatus');
- const categories = {independiente:'Independiente',futbol:'Fútbol',f1:'F1',seleccion:'Selección',otros:'Otros deportes',agenda:'Agenda'};
+ const categories = {independiente:'Independiente',futbol:'Fútbol',f1:'F1',seleccion:'Selección',agenda:'Agenda'};
  const normalize = value => value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase();
  const headers = ['Publicar','Fecha','Hora','Categoría','Título','Resumen','URL nota','URL imagen','Fuente','URL fuente','URL video'].map(normalize);
  const dateFormat = new Intl.DateTimeFormat('es-AR',{timeZone:'America/Argentina/Buenos_Aires',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit',hour12:false});
@@ -53,8 +53,8 @@
    let category=normalize(row.categoria);
    category=({'otros deportes':'otros','formula 1':'f1','formula uno':'f1','futbol argentino':'futbol'})[category]||category;
    const date=timestamp(row.fecha,row.hora);
-   if(!categories[category]||!row.titulo||!row.resumen||date===null)return [];
-   return [{category,date,title:row.titulo,summary:row.resumen,note:safeURL(row['url nota']),image:safeURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video:safeURL(row['url video'])}];
+   if(!category||!row.titulo||!row.resumen||date===null)return [];
+   return [{category,group:Object.hasOwn(categories,category)?category:'otros',sport:row.categoria,date,title:row.titulo,summary:row.resumen,note:safeURL(row['url nota']),image:safeURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video:safeURL(row['url video'])}];
   }).sort((a,b)=>b.date-a.date);
  }
  function element(tag,className,text) {const node=document.createElement(tag);if(className)node.className=className;if(text)node.textContent=text;return node;}
@@ -77,12 +77,11 @@
    document.querySelector('#articleSchema')?.remove();
    return;
   }
-  const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':'badge-site'),categories[item.category]));
+  const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':'badge-site'),item.sport));
   const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);
   detail.append(meta,element('h1','',item.title),element('p','article-meta','Creado por @RanaMatiusTV'));
   if(item.image){const image=element('img','article-image');image.src=item.image;image.alt=item.title;image.width=800;image.height=450;image.decoding='async';image.referrerPolicy='no-referrer';image.addEventListener('error',()=>image.remove(),{once:true});detail.append(image);}
   const content=element('div','article-body');content.append(element('p','article-summary',item.summary));
-  if(item.source||item.sourceURL){const source=element('p','news-source','Fuente: ');source.append(item.sourceURL?link(item.sourceURL,item.source||new URL(item.sourceURL).hostname,'read-more'):document.createTextNode(item.source));content.append(source);}
   if(item.video)content.append(link(item.video,'▶ Ver video','ghost-btn'));
   if(item.category==='f1'){const paragraph=element('p');paragraph.append(link('https://www.youtube.com/@RanaF1TV','🏎️ YouTube Rana F1','ghost-btn'));content.append(paragraph);}
   detail.append(content);
@@ -93,22 +92,21 @@
   const values={'description':item.summary.slice(0,160),'og:title':document.title,'og:description':item.summary.slice(0,160),'og:url':canonical,'og:image':item.image||new URL('assets/icon-512.png',siteBase).href};
   for(const [key,value] of Object.entries(values))document.querySelector('meta['+(key.startsWith('og:')?'property':'name')+'="'+key+'"]').content=value;
   let schema=document.querySelector('#articleSchema');if(!schema){schema=element('script');schema.id='articleSchema';schema.type='application/ld+json';document.head.append(schema);}
-  schema.textContent=JSON.stringify({'@context':'https://schema.org','@type':'NewsArticle',headline:item.title,datePublished:new Date(item.date).toISOString(),articleBody:item.summary,articleSection:categories[item.category],url:canonical,author:{'@type':'Person',name:'@RanaMatiusTV'},publisher:{'@type':'Organization',name:'RanaSports'},...(item.image?{image:item.image}:{})});
+  schema.textContent=JSON.stringify({'@context':'https://schema.org','@type':'NewsArticle',headline:item.title,datePublished:new Date(item.date).toISOString(),articleBody:item.summary,articleSection:item.sport,url:canonical,author:{'@type':'Person',name:'@RanaMatiusTV'},publisher:{'@type':'Organization',name:'RanaSports'},...(item.image?{image:item.image}:{})});
  }
  function render(news) {
   if(detail){renderDetail(news);return;}
   const fragment=document.createDocumentFragment();
   news.forEach(item=>{
-   const card=element('article','news-card');card.dataset.category=item.category;
+   const card=element('article','news-card');card.dataset.category=item.group;
    const body=element('div','card-body');
    if(item.image){
     const visual=link(articleURL(item),'','card-visual news-image');
     const img=element('img');img.src=item.image;img.alt=item.title;img.width=800;img.height=450;img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';img.addEventListener('error',()=>visual.remove(),{once:true});visual.append(img);card.append(visual);
    }
-   const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':item.category==='agenda'?'badge-agenda':'badge-site'),categories[item.category]));
+   const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':item.category==='agenda'?'badge-agenda':'badge-site'),item.sport));
    const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);body.append(meta);
    const heading=element('h3');heading.append(link(articleURL(item),item.title));body.append(heading,element('p','news-excerpt',item.summary));
-   if(item.source||item.sourceURL){const source=element('p','news-source');source.append(document.createTextNode('Fuente: '));source.append(item.sourceURL?link(item.sourceURL,item.source||new URL(item.sourceURL).hostname,'read-more'):document.createTextNode(item.source));body.append(source);}
    const actions=element('div','hero-actions');
    actions.append(link(articleURL(item),'Leer →','read-more'));
    if(item.video)actions.append(link(item.video,'▶ Ver video','ghost-btn'));

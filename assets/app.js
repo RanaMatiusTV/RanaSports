@@ -2,7 +2,7 @@ let cards = [...document.querySelectorAll('#newsGrid .news-card')];
 const tabs = [...document.querySelectorAll('.tab')];
 const search = document.querySelector('#searchInput');
 const empty = document.querySelector('#emptyState');
-const sections = {ultimas:'Últimas noticias', independiente:'Independiente', futbol:'Fútbol', f1:'F1', seleccion:'Selección', otros:'Otros deportes', agenda:'Agenda'};
+const sections = {ultimas:'Últimas noticias', independiente:'Independiente', futbol:'Fútbol', f1:'F1', seleccion:'Selección', otros:'Más deportes', agenda:'Agenda'};
 let active = 'todas';
 // Las tarjetas siguen siendo HTML estático, indexable y legible sin JavaScript.
 const publishedAt = card => Date.parse(card.querySelector('time')?.dateTime || '') || 0;
