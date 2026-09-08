@@ -16,7 +16,7 @@
   <link rel="stylesheet" href="assets/styles.css">
   <script defer src="assets/app.js"></script><script defer src="assets/navigation.js"></script>
   <script defer src="assets/news-feed.js"></script>
-<link rel="canonical" href="https://ranamatiustv.github.io/RanaSports/"><meta name="author" content="@RanaMatiusTV"><meta property="og:site_name" content="RanaSports"><meta property="og:url" content="https://ranamatiustv.github.io/RanaSports/"><meta property="og:locale" content="es_AR"><meta property="og:image" content="https://ranamatiustv.github.io/RanaSports/assets/icon-512.png"><meta name="twitter:card" content="summary"><meta name="twitter:creator" content="@RanaMatiusTV"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"RanaSports | Noticias y agenda deportiva","url":"https://ranamatiustv.github.io/RanaSports/"}</script><link rel="stylesheet" href="assets/redesign.css"><script defer src="assets/highlights.js"></script></head>
+<link rel="canonical" href="https://ranamatiustv.github.io/RanaSports/"><meta name="author" content="@RanaMatiusTV"><meta property="og:site_name" content="RanaSports"><meta property="og:url" content="https://ranamatiustv.github.io/RanaSports/"><meta property="og:locale" content="es_AR"><meta property="og:image" content="https://ranamatiustv.github.io/RanaSports/assets/icon-512.png"><meta name="twitter:card" content="summary"><meta name="twitter:creator" content="@RanaMatiusTV"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"RanaSports | Noticias y agenda deportiva","url":"https://ranamatiustv.github.io/RanaSports/"}</script><link rel="stylesheet" href="assets/redesign.css"><script defer src="assets/highlights.js"></script><script defer src="assets/breaking.js"></script></head>
 <body>
   <div class="top-accent"></div>
   <header class="site-header">
@@ -31,11 +31,14 @@
   </header>
 
   <a class="skip-link" href="#ultimas">Saltar a las noticias</a><main>
-    <section class="breaking shell" aria-labelledby="breakingTitle">
-      <h1 id="breakingTitle"><span aria-hidden="true">ϟ</span> ÚLTIMO<br class="desktop-break"> MOMENTO RANA</h1>
-      <div id="breakingFeed" data-source-status="not-connected"><strong>La actualidad, con mirada Rana.</strong><p>Próximamente, las publicaciones y los retuits de @RanaMatiusTV en este espacio.</p></div>
-      <a class="breaking-link" href="https://x.com/RanaMatiusTV" target="_blank" rel="noopener">Ver en X ↗</a>
-    </section>
+    <div class="shell breaking-compact"><button id="breakingButton" class="ghost-btn" type="button" aria-haspopup="dialog" aria-controls="breakingDialog">ϟ ÚLTIMO MOMENTO RANA</button></div>
+    <dialog id="breakingDialog" aria-labelledby="breakingDialogTitle">
+      <button class="dialog-close" type="button" aria-label="Cerrar último momento">×</button>
+      <h2 id="breakingDialogTitle">ÚLTIMO MOMENTO RANA</h2>
+      <div id="breakingFeed"><a class="twitter-timeline" data-theme="dark" data-height="520" data-dnt="true" href="https://twitter.com/RanaMatiusTV">Posts de @RanaMatiusTV</a></div>
+      <p id="xEmbedStatus" role="status">Si X no muestra publicaciones, podés abrir el perfil directamente.</p>
+      <a class="primary-btn" href="https://x.com/RanaMatiusTV" target="_blank" rel="noopener noreferrer">VER MÁS EN X ↗</a>
+    </dialog>
     <section id="ultimas" class="shell content-grid portal-layout">
       <div class="main-feed">
         <div class="section-heading">
@@ -59,7 +62,7 @@
         <!-- Las noticias se cargan desde el CSV público mediante news-feed.js. -->
         <p id="newsStatus" role="status" hidden></p>
         <noscript><p>Activá JavaScript para cargar las noticias de la planilla. La agenda y las notas del sitio siguen disponibles.</p></noscript>
-        <p id="featuredNotice" class="featured-notice">Sin coincidencias verificadas con las tendencias de búsqueda recientes. Consultá Últimas Noticias.</p>
+        <p id="featuredNotice" class="featured-notice">Todavía no hay noticias publicadas en las últimas 24 horas. Consultá Últimas Noticias.</p>
         <div id="newsGrid" class="news-grid editorial-grid"></div>
         <div id="livePanels">
           <section id="en-vivo" class="dashboard-module live-module" aria-labelledby="liveTitle" data-source-status="not-connected">

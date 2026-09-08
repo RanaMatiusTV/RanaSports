@@ -14,7 +14,13 @@ function layoutNews() {
   if(card.hidden)return false;const url=card.querySelector('h3 a')?.href;
   if(url&&seen.has(url)){card.hidden=true;return false;}if(url)seen.add(url);return true;
  }).sort((a,b)=>publishedAt(b)-publishedAt(a));
- const featured=active==='todas'&&!search?.value.trim()?visible.map(card=>({card,score:window.ranaTrendScore?.(card)||0})).filter(item=>item.score>0).sort((a,b)=>b.score-a.score||publishedAt(b.card)-publishedAt(a.card)).slice(0,4).map(item=>item.card):[];
+ const now=Date.now();
+ const editorial=card=>{
+  const title=normalize(card.querySelector('h3')?.textContent||'');
+  const impact=/\b(final|campeon|campeona|titulo|clasifica|clasifico|eliminado|eliminada|record|retiro)\b/.test(title)?3:0;
+  return impact+(['independiente','seleccion','f1'].includes(card.dataset.sport)?1:0);
+ };
+ const featured=active==='todas'&&!search?.value.trim()?visible.filter(card=>publishedAt(card)<=now&&now-publishedAt(card)<=86400000).map(card=>({card,score:Math.max(0,Number(card.dataset.trendScore)||window.ranaTrendScore?.(card)||0),editorial:editorial(card)})).sort((a,b)=>b.score-a.score||b.editorial-a.editorial||publishedAt(b.card)-publishedAt(a.card)).slice(0,3).map(item=>item.card):[];
  newsGrid.classList.toggle('no-featured',featured.length===0);newsGrid.classList.toggle('single-featured',featured.length===1);
  const selected=new Set(featured);const latest=visible.filter(card=>!selected.has(card));
  cards.forEach(card=>{card.classList.remove('lead-story','secondary-story','more-story');card.dataset.section=selected.has(card)?'featured':'latest';});
