@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T20:50:44.953Z",
+  "updatedAt": "2026-09-09T21:24:18.418Z",
   "trends": [
     {
-      "query": "sabrina rojas",
-      "startedAt": "2026-09-09T20:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "estrecho de magallanes",
-      "startedAt": "2026-09-09T20:10:00.000Z",
+      "query": "palmeiras - ldu quito",
+      "startedAt": "2026-09-09T21:10:00.000Z",
       "volume": 500
     },
     {
-      "query": "ferran torres",
-      "startedAt": "2026-09-09T20:10:00.000Z",
-      "volume": 200
+      "query": "santos - atlético mineiro",
+      "startedAt": "2026-09-09T21:10:00.000Z",
+      "volume": 500
     },
     {
-      "query": "racing paranaense",
-      "startedAt": "2026-09-09T20:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "parlamento",
-      "startedAt": "2026-09-09T20:10:00.000Z",
+      "query": "miss austria 2024",
+      "startedAt": "2026-09-09T21:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "defensores de belgrano",
-      "startedAt": "2026-09-09T20:10:00.000Z",
+      "query": "morena rial",
+      "startedAt": "2026-09-09T21:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "barcola",
-      "startedAt": "2026-09-09T20:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "rio ngumoha",
-      "startedAt": "2026-09-09T19:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "psg",
-      "startedAt": "2026-09-09T19:40:00.000Z",
+      "query": "julián alvarez",
+      "startedAt": "2026-09-09T21:00:00.000Z",
       "volume": 2000
     },
     {
-      "query": "ricardo darín",
-      "startedAt": "2026-09-09T19:40:00.000Z",
+      "query": "clima cordoba",
+      "startedAt": "2026-09-09T21:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "tormenta helada",
+      "startedAt": "2026-09-09T21:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "chile",
+      "startedAt": "2026-09-09T20:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "senado",
+      "startedAt": "2026-09-09T20:50:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "sporting lisboa vs. galatasaray",
+      "startedAt": "2026-09-09T20:50:00.000Z",
+      "volume": 100
     }
   ]
 }
