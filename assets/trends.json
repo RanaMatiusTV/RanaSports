@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T02:52:29.650Z",
+  "updatedAt": "2026-09-09T03:26:22.410Z",
   "trends": [
+    {
+      "query": "loan peña",
+      "startedAt": "2026-09-09T02:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "como salio boca",
       "startedAt": "2026-09-09T02:30:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "noelia marzol",
+      "startedAt": "2026-09-09T02:20:00.000Z",
+      "volume": 1000
     },
     {
       "query": "enner valencia",
@@ -14,14 +24,14 @@
       "volume": 1000
     },
     {
-      "query": "resultado de boca",
-      "startedAt": "2026-09-09T01:40:00.000Z",
+      "query": "resultado boca hoy",
+      "startedAt": "2026-09-09T02:10:00.000Z",
       "volume": 500
     },
     {
       "query": "velasco",
       "startedAt": "2026-09-09T01:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "sporting",
@@ -42,16 +52,6 @@
       "query": "lozano boca",
       "startedAt": "2026-09-09T01:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "boca",
-      "startedAt": "2026-09-09T00:50:00.000Z",
-      "volume": 200000
-    },
-    {
-      "query": "gran hermano",
-      "startedAt": "2026-09-09T00:50:00.000Z",
-      "volume": 2000
     }
   ]
 }
