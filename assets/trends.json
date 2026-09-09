@@ -1,8 +1,28 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T01:53:04.417Z",
+  "updatedAt": "2026-09-09T02:26:31.288Z",
   "trends": [
+    {
+      "query": "enner valencia",
+      "startedAt": "2026-09-09T02:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "boca partido",
+      "startedAt": "2026-09-09T01:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "partido",
+      "startedAt": "2026-09-09T01:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "velasco",
+      "startedAt": "2026-09-09T01:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "sporting",
       "startedAt": "2026-09-09T01:30:00.000Z",
@@ -16,7 +36,7 @@
     {
       "query": "puente festivo",
       "startedAt": "2026-09-09T01:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "álvaro montero",
@@ -24,34 +44,14 @@
       "volume": 200
     },
     {
-      "query": "lozano boca",
-      "startedAt": "2026-09-09T01:00:00.000Z",
-      "volume": 200
+      "query": "boca",
+      "startedAt": "2026-09-09T00:50:00.000Z",
+      "volume": 200000
     },
     {
       "query": "gran hermano",
       "startedAt": "2026-09-09T00:50:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "telefe",
-      "startedAt": "2026-09-09T00:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "robert arboleda",
-      "startedAt": "2026-09-09T00:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "futbol en vivo",
-      "startedAt": "2026-09-09T00:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "brasileirao",
-      "startedAt": "2026-09-09T00:50:00.000Z",
-      "volume": 200
     }
   ]
 }
