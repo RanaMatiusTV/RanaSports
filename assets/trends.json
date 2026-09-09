@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T20:26:25.667Z",
+  "updatedAt": "2026-09-09T20:50:44.953Z",
   "trends": [
+    {
+      "query": "sabrina rojas",
+      "startedAt": "2026-09-09T20:30:00.000Z",
+      "volume": 100
+    },
     {
       "query": "estrecho de magallanes",
       "startedAt": "2026-09-09T20:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "ferran torres",
@@ -19,11 +24,6 @@
       "volume": 200
     },
     {
-      "query": "barcola",
-      "startedAt": "2026-09-09T20:10:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "parlamento",
       "startedAt": "2026-09-09T20:10:00.000Z",
       "volume": 100
@@ -34,9 +34,9 @@
       "volume": 100
     },
     {
-      "query": "napoli vs. arsenal",
-      "startedAt": "2026-09-09T20:00:00.000Z",
-      "volume": 200
+      "query": "barcola",
+      "startedAt": "2026-09-09T20:10:00.000Z",
+      "volume": 100
     },
     {
       "query": "rio ngumoha",
