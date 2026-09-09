@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T15:27:07.600Z",
+  "updatedAt": "2026-09-09T15:53:08.786Z",
   "trends": [
+    {
+      "query": "fósil",
+      "startedAt": "2026-09-09T15:30:00.000Z",
+      "volume": 100
+    },
     {
       "query": "fábrica",
       "startedAt": "2026-09-09T15:10:00.000Z",
@@ -46,11 +51,6 @@
     {
       "query": "9 de septiembre",
       "startedAt": "2026-09-09T11:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "tn",
-      "startedAt": "2026-09-09T11:20:00.000Z",
       "volume": 500
     }
   ]
