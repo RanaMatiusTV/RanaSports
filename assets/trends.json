@@ -1,8 +1,28 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T22:24:51.071Z",
+  "updatedAt": "2026-09-09T22:50:29.595Z",
   "trends": [
+    {
+      "query": "actuación",
+      "startedAt": "2026-09-09T22:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "nfl",
+      "startedAt": "2026-09-09T22:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "palmeiras",
+      "startedAt": "2026-09-09T22:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "luisina giovannini",
+      "startedAt": "2026-09-09T22:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "riestra",
       "startedAt": "2026-09-09T22:10:00.000Z",
@@ -14,13 +34,13 @@
       "volume": 200
     },
     {
-      "query": "santos",
-      "startedAt": "2026-09-09T22:00:00.000Z",
-      "volume": 500
-    },
-    {
       "query": "santos vs",
       "startedAt": "2026-09-09T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "estudiantes vs corinthians",
+      "startedAt": "2026-09-09T21:40:00.000Z",
       "volume": 200
     },
     {
@@ -32,26 +52,6 @@
       "query": "khachanov",
       "startedAt": "2026-09-09T21:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "estudiantes vs corinthians",
-      "startedAt": "2026-09-09T21:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "jugador de fútbol",
-      "startedAt": "2026-09-09T21:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "moratoria",
-      "startedAt": "2026-09-09T21:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "scott bessent",
-      "startedAt": "2026-09-09T21:30:00.000Z",
-      "volume": 100
     }
   ]
 }
