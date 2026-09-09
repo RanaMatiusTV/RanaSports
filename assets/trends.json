@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T03:26:22.410Z",
+  "updatedAt": "2026-09-09T03:52:58.482Z",
   "trends": [
+    {
+      "query": "ben shelton",
+      "startedAt": "2026-09-09T02:40:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "loan peña",
       "startedAt": "2026-09-09T02:40:00.000Z",
@@ -11,12 +16,17 @@
     {
       "query": "como salio boca",
       "startedAt": "2026-09-09T02:30:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "noelia marzol",
       "startedAt": "2026-09-09T02:20:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "covid nueva variante",
+      "startedAt": "2026-09-09T02:10:00.000Z",
+      "volume": 2000
     },
     {
       "query": "enner valencia",
@@ -41,16 +51,6 @@
     {
       "query": "navarro tenista",
       "startedAt": "2026-09-09T01:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "puente festivo",
-      "startedAt": "2026-09-09T01:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "lozano boca",
-      "startedAt": "2026-09-09T01:00:00.000Z",
       "volume": 200
     }
   ]
