@@ -1,17 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T09:53:08.321Z",
+  "updatedAt": "2026-09-09T10:27:21.390Z",
   "trends": [
+    {
+      "query": "tiempo en santa fe",
+      "startedAt": "2026-09-09T10:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "longevidad",
+      "startedAt": "2026-09-09T10:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clima parana",
+      "startedAt": "2026-09-09T09:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "victoria granatto",
+      "startedAt": "2026-09-09T09:40:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "pronostico santa fe",
       "startedAt": "2026-09-09T09:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "clima santa fe",
       "startedAt": "2026-09-09T09:00:00.000Z",
-      "volume": 200
+      "volume": 500
+    },
+    {
+      "query": "us open",
+      "startedAt": "2026-09-09T06:50:00.000Z",
+      "volume": 10000
     },
     {
       "query": "loan peña",
@@ -27,31 +52,6 @@
       "query": "como salio boca",
       "startedAt": "2026-09-09T02:30:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "noelia marzol",
-      "startedAt": "2026-09-09T02:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "alan velasco",
-      "startedAt": "2026-09-09T02:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "covid nueva variante",
-      "startedAt": "2026-09-09T02:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "sporting",
-      "startedAt": "2026-09-09T01:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "navarro tenista",
-      "startedAt": "2026-09-09T01:20:00.000Z",
-      "volume": 200
     }
   ]
 }
