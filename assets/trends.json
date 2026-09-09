@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T21:50:56.565Z",
+  "updatedAt": "2026-09-09T22:24:51.071Z",
   "trends": [
+    {
+      "query": "riestra",
+      "startedAt": "2026-09-09T22:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "palmeiras vs",
+      "startedAt": "2026-09-09T22:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "santos",
+      "startedAt": "2026-09-09T22:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "santos vs",
+      "startedAt": "2026-09-09T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "axel kicillof",
+      "startedAt": "2026-09-09T21:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "khachanov",
+      "startedAt": "2026-09-09T21:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "estudiantes vs corinthians",
+      "startedAt": "2026-09-09T21:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "jugador de fútbol",
       "startedAt": "2026-09-09T21:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "moratoria",
       "startedAt": "2026-09-09T21:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "scott bessent",
       "startedAt": "2026-09-09T21:30:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "estadio",
-      "startedAt": "2026-09-09T21:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "palmeiras - ldu quito",
-      "startedAt": "2026-09-09T21:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "santos - atlético mineiro",
-      "startedAt": "2026-09-09T21:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "miss austria 2024",
-      "startedAt": "2026-09-09T21:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "morena rial",
-      "startedAt": "2026-09-09T21:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "julián alvarez",
-      "startedAt": "2026-09-09T21:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "clima cordoba",
-      "startedAt": "2026-09-09T21:00:00.000Z",
-      "volume": 1000
     }
   ]
 }
