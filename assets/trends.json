@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T06:55:28.010Z",
+  "updatedAt": "2026-09-09T07:28:20.924Z",
   "trends": [
+    {
+      "query": "us open",
+      "startedAt": "2026-09-09T06:50:00.000Z",
+      "volume": 5000
+    },
     {
       "query": "ben shelton",
       "startedAt": "2026-09-09T02:40:00.000Z",
@@ -47,11 +52,6 @@
       "query": "navarro tenista",
       "startedAt": "2026-09-09T01:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "puente festivo",
-      "startedAt": "2026-09-09T01:10:00.000Z",
-      "volume": 500
     }
   ]
 }
