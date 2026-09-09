@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T00:36:20.447Z",
+  "updatedAt": "2026-09-09T00:55:54.888Z",
   "trends": [
+    {
+      "query": "espn",
+      "startedAt": "2026-09-09T00:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "leonel flores",
+      "startedAt": "2026-09-09T00:30:00.000Z",
+      "volume": 200
+    },
     {
       "query": "emma navarro",
       "startedAt": "2026-09-09T00:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "jessica pegula",
@@ -26,7 +36,7 @@
     {
       "query": "alcaraz",
       "startedAt": "2026-09-09T00:00:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "meteored",
@@ -41,17 +51,7 @@
     {
       "query": "boca juniors - são paulo",
       "startedAt": "2026-09-08T23:30:00.000Z",
-      "volume": 100000
-    },
-    {
-      "query": "justicia",
-      "startedAt": "2026-09-08T23:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "peugeot partner rapid",
-      "startedAt": "2026-09-08T23:20:00.000Z",
-      "volume": 200
+      "volume": 200000
     }
   ]
 }
