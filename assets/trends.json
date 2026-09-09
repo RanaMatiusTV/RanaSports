@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T06:32:36.223Z",
+  "updatedAt": "2026-09-09T06:55:28.010Z",
   "trends": [
     {
       "query": "ben shelton",
@@ -29,6 +29,11 @@
       "volume": 1000
     },
     {
+      "query": "alan velasco",
+      "startedAt": "2026-09-09T02:20:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "covid nueva variante",
       "startedAt": "2026-09-09T02:10:00.000Z",
       "volume": 2000
@@ -47,11 +52,6 @@
       "query": "puente festivo",
       "startedAt": "2026-09-09T01:10:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "lozano boca",
-      "startedAt": "2026-09-09T01:00:00.000Z",
-      "volume": 200
     }
   ]
 }
