@@ -1,12 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T10:53:14.311Z",
+  "updatedAt": "2026-09-09T11:26:33.001Z",
   "trends": [
+    {
+      "query": "laudelina caso loan",
+      "startedAt": "2026-09-09T11:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "apple",
+      "startedAt": "2026-09-09T11:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "club deportivo eldense",
+      "startedAt": "2026-09-09T10:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "clima rafaela",
+      "startedAt": "2026-09-09T10:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "longevidad",
       "startedAt": "2026-09-09T10:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "clima parana",
@@ -29,29 +49,9 @@
       "volume": 200
     },
     {
-      "query": "loan peña",
-      "startedAt": "2026-09-09T02:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "jacob coxon",
-      "startedAt": "2026-09-09T02:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "como salio boca",
-      "startedAt": "2026-09-09T02:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "noelia marzol",
-      "startedAt": "2026-09-09T02:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "alan velasco",
-      "startedAt": "2026-09-09T02:20:00.000Z",
-      "volume": 100
+      "query": "us open",
+      "startedAt": "2026-09-09T06:50:00.000Z",
+      "volume": 10000
     }
   ]
 }
