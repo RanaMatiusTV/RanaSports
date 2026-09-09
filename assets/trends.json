@@ -1,11 +1,16 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T17:25:27.017Z",
+  "updatedAt": "2026-09-09T17:51:11.660Z",
   "trends": [
     {
-      "query": "lanzamiento iphone 18",
-      "startedAt": "2026-09-09T17:10:00.000Z",
+      "query": "iphone 18 pro max",
+      "startedAt": "2026-09-09T17:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "al-nassr - abha",
+      "startedAt": "2026-09-09T17:20:00.000Z",
       "volume": 200
     },
     {
@@ -34,6 +39,11 @@
       "volume": 500
     },
     {
+      "query": "el dia",
+      "startedAt": "2026-09-09T16:30:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "partidos de champions league",
       "startedAt": "2026-09-09T16:20:00.000Z",
       "volume": 200
@@ -42,16 +52,6 @@
       "query": "zheng qinwen",
       "startedAt": "2026-09-09T16:10:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "barcelona - feyenoord",
-      "startedAt": "2026-09-09T16:00:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "rybakina",
-      "startedAt": "2026-09-09T16:00:00.000Z",
-      "volume": 5000
     }
   ]
 }
