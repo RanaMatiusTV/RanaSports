@@ -1,17 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T21:24:18.418Z",
+  "updatedAt": "2026-09-09T21:50:56.565Z",
   "trends": [
+    {
+      "query": "jugador de fútbol",
+      "startedAt": "2026-09-09T21:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "moratoria",
+      "startedAt": "2026-09-09T21:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "scott bessent",
+      "startedAt": "2026-09-09T21:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "estadio",
+      "startedAt": "2026-09-09T21:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "palmeiras - ldu quito",
       "startedAt": "2026-09-09T21:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "santos - atlético mineiro",
       "startedAt": "2026-09-09T21:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "miss austria 2024",
@@ -32,26 +52,6 @@
       "query": "clima cordoba",
       "startedAt": "2026-09-09T21:00:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "tormenta helada",
-      "startedAt": "2026-09-09T21:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "chile",
-      "startedAt": "2026-09-09T20:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "senado",
-      "startedAt": "2026-09-09T20:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sporting lisboa vs. galatasaray",
-      "startedAt": "2026-09-09T20:50:00.000Z",
-      "volume": 100
     }
   ]
 }
