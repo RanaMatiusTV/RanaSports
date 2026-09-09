@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T11:26:33.001Z",
+  "updatedAt": "2026-09-09T11:52:12.995Z",
   "trends": [
+    {
+      "query": "cronica",
+      "startedAt": "2026-09-09T11:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "tn",
+      "startedAt": "2026-09-09T11:20:00.000Z",
+      "volume": 500
+    },
     {
       "query": "laudelina caso loan",
       "startedAt": "2026-09-09T11:10:00.000Z",
@@ -11,17 +21,22 @@
     {
       "query": "apple",
       "startedAt": "2026-09-09T11:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "club deportivo eldense",
       "startedAt": "2026-09-09T10:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "clima rafaela",
       "startedAt": "2026-09-09T10:40:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "pronostico parana",
+      "startedAt": "2026-09-09T10:30:00.000Z",
+      "volume": 200
     },
     {
       "query": "longevidad",
@@ -37,21 +52,6 @@
       "query": "victoria granatto",
       "startedAt": "2026-09-09T09:40:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "clima santa fe",
-      "startedAt": "2026-09-09T09:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "glaciar",
-      "startedAt": "2026-09-09T08:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "us open",
-      "startedAt": "2026-09-09T06:50:00.000Z",
-      "volume": 10000
     }
   ]
 }
