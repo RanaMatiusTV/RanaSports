@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T22:50:29.595Z",
+  "updatedAt": "2026-09-09T23:23:57.135Z",
   "trends": [
     {
-      "query": "actuación",
-      "startedAt": "2026-09-09T22:30:00.000Z",
-      "volume": 200
+      "query": "estudiantes",
+      "startedAt": "2026-09-09T23:00:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "nfl",
-      "startedAt": "2026-09-09T22:30:00.000Z",
+      "query": "botic van de zandschulp",
+      "startedAt": "2026-09-09T23:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "palmeiras",
-      "startedAt": "2026-09-09T22:20:00.000Z",
+      "query": "dólar estadounidense",
+      "startedAt": "2026-09-09T22:50:00.000Z",
       "volume": 1000
     },
     {
-      "query": "luisina giovannini",
-      "startedAt": "2026-09-09T22:20:00.000Z",
+      "query": "valentín barco",
+      "startedAt": "2026-09-09T22:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "riestra",
-      "startedAt": "2026-09-09T22:10:00.000Z",
+      "query": "balón de oro",
+      "startedAt": "2026-09-09T22:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "palmeiras vs",
-      "startedAt": "2026-09-09T22:10:00.000Z",
+      "query": "diego hartfield",
+      "startedAt": "2026-09-09T22:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "atlanta united - orlando city",
+      "startedAt": "2026-09-09T22:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "metrotel argentina",
+      "startedAt": "2026-09-09T22:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "santos vs",
-      "startedAt": "2026-09-09T22:00:00.000Z",
+      "query": "sergio urribarri",
+      "startedAt": "2026-09-09T22:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "estudiantes vs corinthians",
-      "startedAt": "2026-09-09T21:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "axel kicillof",
-      "startedAt": "2026-09-09T21:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "khachanov",
-      "startedAt": "2026-09-09T21:40:00.000Z",
+      "query": "henry cavill",
+      "startedAt": "2026-09-09T22:40:00.000Z",
       "volume": 200
     }
   ]
