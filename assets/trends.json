@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T23:23:57.135Z",
+  "updatedAt": "2026-09-09T23:49:42.480Z",
   "trends": [
+    {
+      "query": "montréal - charlotte fc",
+      "startedAt": "2026-09-09T23:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "fortaleza",
+      "startedAt": "2026-09-09T23:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "estudiantes",
       "startedAt": "2026-09-09T23:00:00.000Z",
@@ -11,20 +21,15 @@
     {
       "query": "botic van de zandschulp",
       "startedAt": "2026-09-09T23:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "dólar estadounidense",
       "startedAt": "2026-09-09T22:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "valentín barco",
-      "startedAt": "2026-09-09T22:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "balón de oro",
       "startedAt": "2026-09-09T22:50:00.000Z",
       "volume": 200
     },
@@ -34,22 +39,17 @@
       "volume": 100
     },
     {
+      "query": "balón de oro",
+      "startedAt": "2026-09-09T22:50:00.000Z",
+      "volume": 200
+    },
+    {
       "query": "atlanta united - orlando city",
       "startedAt": "2026-09-09T22:40:00.000Z",
       "volume": 500
     },
     {
       "query": "metrotel argentina",
-      "startedAt": "2026-09-09T22:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sergio urribarri",
-      "startedAt": "2026-09-09T22:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "henry cavill",
       "startedAt": "2026-09-09T22:40:00.000Z",
       "volume": 200
     }
