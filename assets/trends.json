@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T08:27:45.750Z",
+  "updatedAt": "2026-09-09T08:53:19.901Z",
   "trends": [
     {
       "query": "ben shelton",
@@ -17,6 +17,11 @@
       "query": "jacob coxon",
       "startedAt": "2026-09-09T02:40:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "cómo salió boca",
+      "startedAt": "2026-09-09T02:30:00.000Z",
+      "volume": 10000
     },
     {
       "query": "como salio boca",
@@ -47,11 +52,6 @@
       "query": "navarro tenista",
       "startedAt": "2026-09-09T01:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "puente festivo",
-      "startedAt": "2026-09-09T01:10:00.000Z",
-      "volume": 500
     }
   ]
 }
