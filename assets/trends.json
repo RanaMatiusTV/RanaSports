@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T05:52:17.042Z",
+  "updatedAt": "2026-09-09T06:32:36.223Z",
   "trends": [
     {
       "query": "ben shelton",
@@ -34,11 +34,6 @@
       "volume": 2000
     },
     {
-      "query": "enner valencia",
-      "startedAt": "2026-09-09T02:10:00.000Z",
-      "volume": 1000
-    },
-    {
       "query": "sporting",
       "startedAt": "2026-09-09T01:30:00.000Z",
       "volume": 200
@@ -52,6 +47,11 @@
       "query": "puente festivo",
       "startedAt": "2026-09-09T01:10:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "lozano boca",
+      "startedAt": "2026-09-09T01:00:00.000Z",
+      "volume": 200
     }
   ]
 }
