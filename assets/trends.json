@@ -1,17 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T12:56:02.735Z",
+  "updatedAt": "2026-09-09T13:28:35.891Z",
   "trends": [
+    {
+      "query": "ángela leiva",
+      "startedAt": "2026-09-09T12:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "pocho lavezzi",
       "startedAt": "2026-09-09T12:10:00.000Z",
       "volume": 100
     },
     {
+      "query": "anthropic",
+      "startedAt": "2026-09-09T12:00:00.000Z",
+      "volume": 1000
+    },
+    {
       "query": "9 de septiembre",
       "startedAt": "2026-09-09T11:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "tn",
@@ -42,16 +52,6 @@
       "query": "clima rafaela",
       "startedAt": "2026-09-09T10:40:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "pronostico parana",
-      "startedAt": "2026-09-09T10:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "longevidad",
-      "startedAt": "2026-09-09T10:00:00.000Z",
-      "volume": 200
     }
   ]
 }
