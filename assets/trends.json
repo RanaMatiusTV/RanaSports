@@ -1,27 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T02:26:31.288Z",
+  "updatedAt": "2026-09-09T02:52:29.650Z",
   "trends": [
+    {
+      "query": "como salio boca",
+      "startedAt": "2026-09-09T02:30:00.000Z",
+      "volume": 500
+    },
     {
       "query": "enner valencia",
       "startedAt": "2026-09-09T02:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
-      "query": "boca partido",
+      "query": "resultado de boca",
       "startedAt": "2026-09-09T01:40:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "partido",
-      "startedAt": "2026-09-09T01:40:00.000Z",
-      "volume": 2000
     },
     {
       "query": "velasco",
       "startedAt": "2026-09-09T01:40:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "sporting",
@@ -31,7 +31,7 @@
     {
       "query": "navarro tenista",
       "startedAt": "2026-09-09T01:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "puente festivo",
@@ -39,8 +39,8 @@
       "volume": 500
     },
     {
-      "query": "álvaro montero",
-      "startedAt": "2026-09-09T01:10:00.000Z",
+      "query": "lozano boca",
+      "startedAt": "2026-09-09T01:00:00.000Z",
       "volume": 200
     },
     {
