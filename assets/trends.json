@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T11:52:12.995Z",
+  "updatedAt": "2026-09-09T12:32:52.974Z",
   "trends": [
+    {
+      "query": "pocho lavezzi",
+      "startedAt": "2026-09-09T12:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "9 de septiembre",
+      "startedAt": "2026-09-09T11:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "cronica",
       "startedAt": "2026-09-09T11:20:00.000Z",
@@ -24,6 +34,11 @@
       "volume": 200
     },
     {
+      "query": "cristina seoane",
+      "startedAt": "2026-09-09T10:50:00.000Z",
+      "volume": 500
+    },
+    {
       "query": "club deportivo eldense",
       "startedAt": "2026-09-09T10:50:00.000Z",
       "volume": 2000
@@ -37,21 +52,6 @@
       "query": "pronostico parana",
       "startedAt": "2026-09-09T10:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "longevidad",
-      "startedAt": "2026-09-09T10:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "clima parana",
-      "startedAt": "2026-09-09T09:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "victoria granatto",
-      "startedAt": "2026-09-09T09:40:00.000Z",
-      "volume": 2000
     }
   ]
 }
