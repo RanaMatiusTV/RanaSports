@@ -1,17 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T16:53:05.816Z",
+  "updatedAt": "2026-09-09T17:25:27.017Z",
   "trends": [
+    {
+      "query": "lanzamiento iphone 18",
+      "startedAt": "2026-09-09T17:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "clima rio cuarto",
+      "startedAt": "2026-09-09T17:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "harald v de noruega",
+      "startedAt": "2026-09-09T16:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "barcelona",
+      "startedAt": "2026-09-09T16:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "stuttgart - viking",
+      "startedAt": "2026-09-09T16:40:00.000Z",
+      "volume": 500
+    },
     {
       "query": "salta",
       "startedAt": "2026-09-09T16:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "stuttgart vs",
-      "startedAt": "2026-09-09T16:20:00.000Z",
-      "volume": 100
+      "volume": 500
     },
     {
       "query": "partidos de champions league",
@@ -26,32 +46,12 @@
     {
       "query": "barcelona - feyenoord",
       "startedAt": "2026-09-09T16:00:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
-      "query": "elena rybakina",
+      "query": "rybakina",
       "startedAt": "2026-09-09T16:00:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "barcelona vs feyenoord",
-      "startedAt": "2026-09-09T15:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "quiniela en vivo",
-      "startedAt": "2026-09-09T15:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "quiniela de tucuman",
-      "startedAt": "2026-09-09T15:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fósil",
-      "startedAt": "2026-09-09T15:30:00.000Z",
-      "volume": 200
     }
   ]
 }
