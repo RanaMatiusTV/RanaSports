@@ -1,8 +1,48 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-08T23:49:55.569Z",
+  "updatedAt": "2026-09-09T00:36:20.447Z",
   "trends": [
+    {
+      "query": "emma navarro",
+      "startedAt": "2026-09-09T00:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jessica pegula",
+      "startedAt": "2026-09-09T00:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "alcaraz vs shelton",
+      "startedAt": "2026-09-09T00:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "juan cortese",
+      "startedAt": "2026-09-09T00:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "alcaraz",
+      "startedAt": "2026-09-09T00:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "meteored",
+      "startedAt": "2026-09-08T23:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "wrexham - burnley",
+      "startedAt": "2026-09-08T23:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "boca juniors - são paulo",
+      "startedAt": "2026-09-08T23:30:00.000Z",
+      "volume": 100000
+    },
     {
       "query": "justicia",
       "startedAt": "2026-09-08T23:30:00.000Z",
@@ -12,46 +52,6 @@
       "query": "peugeot partner rapid",
       "startedAt": "2026-09-08T23:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "vasco",
-      "startedAt": "2026-09-08T23:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "costa",
-      "startedAt": "2026-09-08T23:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "modelo económico",
-      "startedAt": "2026-09-08T23:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "phillies - astros",
-      "startedAt": "2026-09-08T23:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "sao paulo fc",
-      "startedAt": "2026-09-08T22:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "condenado",
-      "startedAt": "2026-09-08T22:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "luna llena",
-      "startedAt": "2026-09-08T22:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "messi eldense",
-      "startedAt": "2026-09-08T22:30:00.000Z",
-      "volume": 500
     }
   ]
 }
