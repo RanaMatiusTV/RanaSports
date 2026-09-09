@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T19:49:50.304Z",
+  "updatedAt": "2026-09-09T20:26:25.667Z",
   "trends": [
     {
-      "query": "arsenal",
-      "startedAt": "2026-09-09T19:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "moreirense - benfica",
-      "startedAt": "2026-09-09T19:30:00.000Z",
+      "query": "estrecho de magallanes",
+      "startedAt": "2026-09-09T20:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "santiago bausili",
-      "startedAt": "2026-09-09T19:30:00.000Z",
+      "query": "ferran torres",
+      "startedAt": "2026-09-09T20:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "atletico madrid",
-      "startedAt": "2026-09-09T19:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "napoli",
-      "startedAt": "2026-09-09T19:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "arsenal vs",
-      "startedAt": "2026-09-09T19:20:00.000Z",
+      "query": "racing paranaense",
+      "startedAt": "2026-09-09T20:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "galatasaray",
-      "startedAt": "2026-09-09T19:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gabriel jesus",
-      "startedAt": "2026-09-09T19:10:00.000Z",
+      "query": "barcola",
+      "startedAt": "2026-09-09T20:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "quiniela de hoy",
-      "startedAt": "2026-09-09T19:10:00.000Z",
+      "query": "parlamento",
+      "startedAt": "2026-09-09T20:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "defensores de belgrano",
+      "startedAt": "2026-09-09T20:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "napoli vs. arsenal",
+      "startedAt": "2026-09-09T20:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "posiciones de fc barcelona contra feyenoord",
-      "startedAt": "2026-09-09T19:00:00.000Z",
-      "volume": 20000
+      "query": "rio ngumoha",
+      "startedAt": "2026-09-09T19:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "psg",
+      "startedAt": "2026-09-09T19:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "ricardo darín",
+      "startedAt": "2026-09-09T19:40:00.000Z",
+      "volume": 200
     }
   ]
 }
