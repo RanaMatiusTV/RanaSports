@@ -1,8 +1,43 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T19:24:16.581Z",
+  "updatedAt": "2026-09-09T19:49:50.304Z",
   "trends": [
+    {
+      "query": "arsenal",
+      "startedAt": "2026-09-09T19:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "moreirense - benfica",
+      "startedAt": "2026-09-09T19:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "santiago bausili",
+      "startedAt": "2026-09-09T19:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "atletico madrid",
+      "startedAt": "2026-09-09T19:20:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "napoli",
+      "startedAt": "2026-09-09T19:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "arsenal vs",
+      "startedAt": "2026-09-09T19:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "galatasaray",
+      "startedAt": "2026-09-09T19:10:00.000Z",
+      "volume": 200
+    },
     {
       "query": "gabriel jesus",
       "startedAt": "2026-09-09T19:10:00.000Z",
@@ -17,41 +52,6 @@
       "query": "posiciones de fc barcelona contra feyenoord",
       "startedAt": "2026-09-09T19:00:00.000Z",
       "volume": 20000
-    },
-    {
-      "query": "sporting lisboa",
-      "startedAt": "2026-09-09T19:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "actor",
-      "startedAt": "2026-09-09T19:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "al nassr",
-      "startedAt": "2026-09-09T18:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "lamine yamal",
-      "startedAt": "2026-09-09T18:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "concurso de acreedores",
-      "startedAt": "2026-09-09T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sandra pettovello",
-      "startedAt": "2026-09-09T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ámbito dólar",
-      "startedAt": "2026-09-09T18:50:00.000Z",
-      "volume": 200
     }
   ]
 }
