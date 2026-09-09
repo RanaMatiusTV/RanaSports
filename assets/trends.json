@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T00:55:54.888Z",
+  "updatedAt": "2026-09-09T01:26:40.452Z",
   "trends": [
+    {
+      "query": "álvaro montero",
+      "startedAt": "2026-09-09T01:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "puente festivo",
+      "startedAt": "2026-09-09T01:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "lozano boca",
+      "startedAt": "2026-09-09T01:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "boca",
+      "startedAt": "2026-09-09T00:50:00.000Z",
+      "volume": 100000
+    },
+    {
+      "query": "gran hermano",
+      "startedAt": "2026-09-09T00:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "telefe",
+      "startedAt": "2026-09-09T00:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "futbol en vivo",
+      "startedAt": "2026-09-09T00:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "robert arboleda",
+      "startedAt": "2026-09-09T00:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "brasileirao",
+      "startedAt": "2026-09-09T00:50:00.000Z",
+      "volume": 200
+    },
     {
       "query": "espn",
       "startedAt": "2026-09-09T00:30:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "leonel flores",
-      "startedAt": "2026-09-09T00:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "emma navarro",
-      "startedAt": "2026-09-09T00:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "jessica pegula",
-      "startedAt": "2026-09-09T00:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "alcaraz vs shelton",
-      "startedAt": "2026-09-09T00:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "juan cortese",
-      "startedAt": "2026-09-09T00:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "alcaraz",
-      "startedAt": "2026-09-09T00:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "meteored",
-      "startedAt": "2026-09-08T23:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "wrexham - burnley",
-      "startedAt": "2026-09-08T23:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "boca juniors - são paulo",
-      "startedAt": "2026-09-08T23:30:00.000Z",
-      "volume": 200000
     }
   ]
 }
