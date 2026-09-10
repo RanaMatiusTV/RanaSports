@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T19:49:47.406Z",
+  "updatedAt": "2026-09-10T20:24:17.993Z",
   "trends": [
+    {
+      "query": "clima cordoba",
+      "startedAt": "2026-09-10T19:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "panathinaikos",
       "startedAt": "2026-09-10T19:20:00.000Z",
@@ -21,17 +26,17 @@
     {
       "query": "como fc",
       "startedAt": "2026-09-10T19:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "leonardo balerdi",
-      "startedAt": "2026-09-10T19:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "especie invasora",
       "startedAt": "2026-09-10T19:10:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "leonardo balerdi",
+      "startedAt": "2026-09-10T19:10:00.000Z",
+      "volume": 200
     },
     {
       "query": "drive",
@@ -46,12 +51,7 @@
     {
       "query": "bayern munich",
       "startedAt": "2026-09-10T19:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "rodrigo mora",
-      "startedAt": "2026-09-10T19:00:00.000Z",
-      "volume": 100
+      "volume": 500
     }
   ]
 }
