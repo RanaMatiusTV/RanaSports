@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T04:27:02.793Z",
+  "updatedAt": "2026-09-10T04:52:55.454Z",
   "trends": [
     {
       "query": "10 de septiembre",
@@ -49,7 +49,7 @@
       "volume": 200
     },
     {
-      "query": "rodrigo garro",
+      "query": "pronostico caba",
       "startedAt": "2026-09-10T01:50:00.000Z",
       "volume": 500
     }
