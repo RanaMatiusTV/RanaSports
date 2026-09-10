@@ -1,32 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T18:27:47.018Z",
+  "updatedAt": "2026-09-10T18:53:38.613Z",
   "trends": [
+    {
+      "query": "autopista córdoba - rosario",
+      "startedAt": "2026-09-10T18:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "camilo rey domenech",
+      "startedAt": "2026-09-10T18:20:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "como - rb leipzig",
       "startedAt": "2026-09-10T18:10:00.000Z",
-      "volume": 200
+      "volume": 1000
     },
     {
       "query": "voluntariado",
       "startedAt": "2026-09-10T18:10:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "maps",
-      "startedAt": "2026-09-10T18:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "go",
-      "startedAt": "2026-09-10T18:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "infobae",
-      "startedAt": "2026-09-10T18:00:00.000Z",
-      "volume": 500
     },
     {
       "query": "policía municipal",
@@ -44,9 +39,14 @@
       "volume": 100
     },
     {
-      "query": "bcra",
+      "query": "infobae",
       "startedAt": "2026-09-10T18:00:00.000Z",
-      "volume": 2000
+      "volume": 500
+    },
+    {
+      "query": "congreso",
+      "startedAt": "2026-09-10T17:50:00.000Z",
+      "volume": 200
     },
     {
       "query": "clima tucuman",
