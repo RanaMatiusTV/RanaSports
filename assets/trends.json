@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T10:52:33.623Z",
+  "updatedAt": "2026-09-10T11:25:41.009Z",
   "trends": [
+    {
+      "query": "gabriel rolón",
+      "startedAt": "2026-09-10T11:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "10 de septiembre que se celebra",
+      "startedAt": "2026-09-10T10:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "decreto",
+      "startedAt": "2026-09-10T10:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "turgutluspor",
       "startedAt": "2026-09-10T10:30:00.000Z",
@@ -11,17 +26,17 @@
     {
       "query": "mauro icardi",
       "startedAt": "2026-09-10T10:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "luciana salazar",
       "startedAt": "2026-09-10T10:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "amalia granata",
       "startedAt": "2026-09-10T09:30:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "lotería",
@@ -37,21 +52,6 @@
       "query": "14 de septiembre",
       "startedAt": "2026-09-10T09:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "10 de septiembre",
-      "startedAt": "2026-09-10T03:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "physint",
-      "startedAt": "2026-09-10T03:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "nadia podoroska",
-      "startedAt": "2026-09-10T03:10:00.000Z",
-      "volume": 100
     }
   ]
 }
