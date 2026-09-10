@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T03:26:47.659Z",
+  "updatedAt": "2026-09-10T03:52:41.831Z",
   "trends": [
+    {
+      "query": "10 de septiembre",
+      "startedAt": "2026-09-10T03:30:00.000Z",
+      "volume": 100
+    },
     {
       "query": "physint",
       "startedAt": "2026-09-10T03:10:00.000Z",
@@ -44,12 +49,7 @@
       "volume": 200
     },
     {
-      "query": "pronostico caba",
-      "startedAt": "2026-09-10T01:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "américa - deportivo pereira",
+      "query": "rodrigo garro",
       "startedAt": "2026-09-10T01:50:00.000Z",
       "volume": 200
     }
