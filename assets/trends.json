@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T00:32:24.303Z",
+  "updatedAt": "2026-09-10T00:54:43.076Z",
   "trends": [
+    {
+      "query": "victoria fraga",
+      "startedAt": "2026-09-10T00:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "memphis depay",
+      "startedAt": "2026-09-10T00:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "seahawks - patriots",
+      "startedAt": "2026-09-10T00:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "edlp",
+      "startedAt": "2026-09-10T00:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "hakim ziyech",
+      "startedAt": "2026-09-10T00:30:00.000Z",
+      "volume": 200
+    },
     {
       "query": "alexander zverev",
       "startedAt": "2026-09-10T00:10:00.000Z",
@@ -11,7 +36,7 @@
     {
       "query": "pipino cuevas",
       "startedAt": "2026-09-10T00:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "luis juez",
@@ -26,31 +51,6 @@
     {
       "query": "joaquín furriel",
       "startedAt": "2026-09-09T23:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "chicago fire - inter miami",
-      "startedAt": "2026-09-09T23:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "toronto - nashville sc",
-      "startedAt": "2026-09-09T23:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "alibaba",
-      "startedAt": "2026-09-09T23:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "montréal - charlotte fc",
-      "startedAt": "2026-09-09T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fortaleza",
-      "startedAt": "2026-09-09T23:20:00.000Z",
       "volume": 100
     }
   ]
