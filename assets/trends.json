@@ -1,8 +1,48 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-09T23:49:42.480Z",
+  "updatedAt": "2026-09-10T00:32:24.303Z",
   "trends": [
+    {
+      "query": "alexander zverev",
+      "startedAt": "2026-09-10T00:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "pipino cuevas",
+      "startedAt": "2026-09-10T00:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "luis juez",
+      "startedAt": "2026-09-10T00:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "yanina zilli",
+      "startedAt": "2026-09-10T00:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "joaquín furriel",
+      "startedAt": "2026-09-09T23:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "chicago fire - inter miami",
+      "startedAt": "2026-09-09T23:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "toronto - nashville sc",
+      "startedAt": "2026-09-09T23:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "alibaba",
+      "startedAt": "2026-09-09T23:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "montréal - charlotte fc",
       "startedAt": "2026-09-09T23:30:00.000Z",
@@ -12,46 +52,6 @@
       "query": "fortaleza",
       "startedAt": "2026-09-09T23:20:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "estudiantes",
-      "startedAt": "2026-09-09T23:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "botic van de zandschulp",
-      "startedAt": "2026-09-09T23:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "dólar estadounidense",
-      "startedAt": "2026-09-09T22:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "valentín barco",
-      "startedAt": "2026-09-09T22:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "diego hartfield",
-      "startedAt": "2026-09-09T22:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "balón de oro",
-      "startedAt": "2026-09-09T22:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "atlanta united - orlando city",
-      "startedAt": "2026-09-09T22:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "metrotel argentina",
-      "startedAt": "2026-09-09T22:40:00.000Z",
-      "volume": 200
     }
   ]
 }
