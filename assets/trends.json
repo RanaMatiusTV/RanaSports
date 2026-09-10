@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T07:52:34.806Z",
+  "updatedAt": "2026-09-10T08:28:52.891Z",
   "trends": [
     {
       "query": "10 de septiembre",
@@ -34,11 +34,6 @@
       "volume": 1000
     },
     {
-      "query": "marina calabro",
-      "startedAt": "2026-09-10T02:30:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "marina calabró",
       "startedAt": "2026-09-10T02:20:00.000Z",
       "volume": 1000
@@ -52,6 +47,11 @@
       "query": "mls",
       "startedAt": "2026-09-10T02:10:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "charlie kirk",
+      "startedAt": "2026-09-10T02:00:00.000Z",
+      "volume": 500
     }
   ]
 }
