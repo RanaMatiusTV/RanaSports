@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T15:51:52.782Z",
+  "updatedAt": "2026-09-10T16:25:48.578Z",
   "trends": [
     {
-      "query": "hechizo de amor",
+      "query": "luis zahera",
+      "startedAt": "2026-09-10T16:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "fenerbahçe - roma",
+      "startedAt": "2026-09-10T15:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "2026",
+      "startedAt": "2026-09-10T15:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "basura",
+      "startedAt": "2026-09-10T15:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "fenerbahçe",
+      "startedAt": "2026-09-10T15:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "soberanía",
+      "startedAt": "2026-09-10T15:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "psv",
+      "startedAt": "2026-09-10T15:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "patricia bullrich",
+      "startedAt": "2026-09-10T15:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "fiesta del cine",
+      "startedAt": "2026-09-10T15:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "ipc agosto 2026",
       "startedAt": "2026-09-10T15:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "club atlético independiente",
-      "startedAt": "2026-09-10T15:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "inflacion agosto 2026",
-      "startedAt": "2026-09-10T15:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "aerolíneas argentinas",
-      "startedAt": "2026-09-10T15:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "meteored",
-      "startedAt": "2026-09-10T14:40:00.000Z",
-      "volume": 200000
-    },
-    {
-      "query": "virus",
-      "startedAt": "2026-09-10T14:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "madring",
-      "startedAt": "2026-09-10T14:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "devaluación",
-      "startedAt": "2026-09-10T14:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "salud mental",
-      "startedAt": "2026-09-10T14:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "aerolineas argentinas",
-      "startedAt": "2026-09-10T14:10:00.000Z",
-      "volume": 2000
     }
   ]
 }
