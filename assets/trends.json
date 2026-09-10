@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T11:51:46.378Z",
+  "updatedAt": "2026-09-10T12:32:33.728Z",
   "trends": [
+    {
+      "query": "11 de septiembre es feriado en argentina",
+      "startedAt": "2026-09-10T12:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "salud de mirtha legrand",
+      "startedAt": "2026-09-10T11:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "pablo longoria",
       "startedAt": "2026-09-10T11:30:00.000Z",
@@ -16,12 +26,17 @@
     {
       "query": "10 de septiembre que se celebra",
       "startedAt": "2026-09-10T10:50:00.000Z",
-      "volume": 100
+      "volume": 200
+    },
+    {
+      "query": "camionero",
+      "startedAt": "2026-09-10T10:50:00.000Z",
+      "volume": 200
     },
     {
       "query": "decreto",
       "startedAt": "2026-09-10T10:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "turgutluspor",
@@ -31,27 +46,12 @@
     {
       "query": "mauro icardi",
       "startedAt": "2026-09-10T10:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "luciana salazar",
       "startedAt": "2026-09-10T10:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "amalia granata",
-      "startedAt": "2026-09-10T09:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "lotería",
-      "startedAt": "2026-09-10T09:20:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "loto plus",
-      "startedAt": "2026-09-10T09:20:00.000Z",
-      "volume": 500
     }
   ]
 }
