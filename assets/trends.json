@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T14:26:23.380Z",
+  "updatedAt": "2026-09-10T14:54:12.460Z",
   "trends": [
+    {
+      "query": "devaluación",
+      "startedAt": "2026-09-10T14:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "salud mental",
+      "startedAt": "2026-09-10T14:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "aerolineas argentinas",
       "startedAt": "2026-09-10T14:10:00.000Z",
@@ -16,7 +26,7 @@
     {
       "query": "james gunn",
       "startedAt": "2026-09-10T13:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "renault niagara",
@@ -41,16 +51,6 @@
     {
       "query": "clima formosa",
       "startedAt": "2026-09-10T12:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "kevin zenón",
-      "startedAt": "2026-09-10T12:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "javier bardem",
-      "startedAt": "2026-09-10T12:20:00.000Z",
       "volume": 200
     }
   ]
