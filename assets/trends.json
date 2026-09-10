@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T13:25:31.725Z",
+  "updatedAt": "2026-09-10T13:52:52.763Z",
   "trends": [
     {
       "query": "gal gadot",
@@ -21,12 +21,12 @@
     {
       "query": "kevin zenón",
       "startedAt": "2026-09-10T12:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "javier bardem",
       "startedAt": "2026-09-10T12:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "harry styles",
