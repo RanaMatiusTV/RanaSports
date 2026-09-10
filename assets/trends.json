@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T16:25:48.578Z",
+  "updatedAt": "2026-09-10T16:52:21.106Z",
   "trends": [
+    {
+      "query": "loan",
+      "startedAt": "2026-09-10T16:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "luis zahera",
       "startedAt": "2026-09-10T16:00:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "fenerbahçe - roma",
       "startedAt": "2026-09-10T15:50:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "2026",
@@ -34,23 +39,18 @@
       "volume": 100
     },
     {
-      "query": "psv",
-      "startedAt": "2026-09-10T15:40:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "patricia bullrich",
       "startedAt": "2026-09-10T15:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "fiesta del cine",
-      "startedAt": "2026-09-10T15:30:00.000Z",
+      "query": "psv",
+      "startedAt": "2026-09-10T15:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "ipc agosto 2026",
-      "startedAt": "2026-09-10T15:20:00.000Z",
+      "query": "fiesta del cine",
+      "startedAt": "2026-09-10T15:30:00.000Z",
       "volume": 200
     }
   ]
