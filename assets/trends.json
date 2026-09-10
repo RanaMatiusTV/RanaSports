@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T17:24:38.833Z",
+  "updatedAt": "2026-09-10T17:50:55.074Z",
   "trends": [
+    {
+      "query": "fondo monetario internacional",
+      "startedAt": "2026-09-10T17:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "como",
+      "startedAt": "2026-09-10T17:20:00.000Z",
+      "volume": 500
+    },
     {
       "query": "desaparición de loan peña",
       "startedAt": "2026-09-10T17:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "mariana nannis",
@@ -16,17 +26,17 @@
     {
       "query": "psv - shakhtar",
       "startedAt": "2026-09-10T17:10:00.000Z",
-      "volume": 100
+      "volume": 200
+    },
+    {
+      "query": "psv vs",
+      "startedAt": "2026-09-10T17:00:00.000Z",
+      "volume": 200
     },
     {
       "query": "andres gil",
       "startedAt": "2026-09-10T17:00:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "psv vs",
-      "startedAt": "2026-09-10T17:00:00.000Z",
-      "volume": 100
     },
     {
       "query": "elina costantini",
@@ -42,16 +52,6 @@
       "query": "militar",
       "startedAt": "2026-09-10T16:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "roma vs",
-      "startedAt": "2026-09-10T16:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "luis zahera",
-      "startedAt": "2026-09-10T16:00:00.000Z",
-      "volume": 500
     }
   ]
 }
