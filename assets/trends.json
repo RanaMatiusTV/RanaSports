@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T21:50:47.297Z",
+  "updatedAt": "2026-09-10T22:23:43.640Z",
   "trends": [
+    {
+      "query": "jubilación",
+      "startedAt": "2026-09-10T21:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "benjamín netanyahu",
+      "startedAt": "2026-09-10T21:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "restaurante",
+      "startedAt": "2026-09-10T21:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "aerolínea",
+      "startedAt": "2026-09-10T21:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "marc overmars",
+      "startedAt": "2026-09-10T21:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "cine",
+      "startedAt": "2026-09-10T21:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "vehículo submarino autónomo",
+      "startedAt": "2026-09-10T21:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "diego leuco",
+      "startedAt": "2026-09-10T21:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "madre",
       "startedAt": "2026-09-10T21:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "malcolm marx",
       "startedAt": "2026-09-10T21:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "independiente del valle",
-      "startedAt": "2026-09-10T21:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "hija",
-      "startedAt": "2026-09-10T21:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "puente festivo",
-      "startedAt": "2026-09-10T21:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "carlos melconian",
-      "startedAt": "2026-09-10T21:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "como vs. rb leipzig",
-      "startedAt": "2026-09-10T20:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "al-nassr football club",
-      "startedAt": "2026-09-10T20:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "clima mar del plata",
-      "startedAt": "2026-09-10T20:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "lisandro martínez",
-      "startedAt": "2026-09-10T20:40:00.000Z",
-      "volume": 500
     }
   ]
 }
