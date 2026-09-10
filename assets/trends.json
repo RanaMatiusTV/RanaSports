@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T14:54:12.460Z",
+  "updatedAt": "2026-09-10T15:27:10.549Z",
   "trends": [
+    {
+      "query": "club atlético independiente",
+      "startedAt": "2026-09-10T15:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "aerolíneas argentinas",
+      "startedAt": "2026-09-10T15:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "meteored",
+      "startedAt": "2026-09-10T14:40:00.000Z",
+      "volume": 200000
+    },
+    {
+      "query": "virus",
+      "startedAt": "2026-09-10T14:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "madring",
+      "startedAt": "2026-09-10T14:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "devaluación",
       "startedAt": "2026-09-10T14:30:00.000Z",
@@ -16,7 +41,7 @@
     {
       "query": "aerolineas argentinas",
       "startedAt": "2026-09-10T14:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "aerolineas",
@@ -26,32 +51,7 @@
     {
       "query": "james gunn",
       "startedAt": "2026-09-10T13:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "renault niagara",
-      "startedAt": "2026-09-10T13:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "colegio emaus",
-      "startedAt": "2026-09-10T13:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "gal gadot",
-      "startedAt": "2026-09-10T13:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "encuesta",
-      "startedAt": "2026-09-10T13:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "clima formosa",
-      "startedAt": "2026-09-10T12:40:00.000Z",
-      "volume": 200
+      "volume": 500
     }
   ]
 }
