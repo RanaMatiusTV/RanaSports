@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T18:53:38.613Z",
+  "updatedAt": "2026-09-10T19:21:58.959Z",
   "trends": [
     {
-      "query": "autopista córdoba - rosario",
-      "startedAt": "2026-09-10T18:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "camilo rey domenech",
-      "startedAt": "2026-09-10T18:20:00.000Z",
+      "query": "inflacion",
+      "startedAt": "2026-09-10T19:00:00.000Z",
       "volume": 2000
     },
     {
-      "query": "como - rb leipzig",
-      "startedAt": "2026-09-10T18:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "voluntariado",
-      "startedAt": "2026-09-10T18:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "policía municipal",
-      "startedAt": "2026-09-10T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "google",
-      "startedAt": "2026-09-10T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "la nacion",
-      "startedAt": "2026-09-10T18:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "infobae",
-      "startedAt": "2026-09-10T18:00:00.000Z",
+      "query": "bayern",
+      "startedAt": "2026-09-10T19:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "congreso",
-      "startedAt": "2026-09-10T17:50:00.000Z",
+      "query": "bayern munich",
+      "startedAt": "2026-09-10T19:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "clima tucuman",
-      "startedAt": "2026-09-10T17:50:00.000Z",
+      "query": "rodrigo mora",
+      "startedAt": "2026-09-10T19:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tini stoessel",
+      "startedAt": "2026-09-10T18:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "como vs",
+      "startedAt": "2026-09-10T18:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "sabah",
+      "startedAt": "2026-09-10T18:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "deudor",
+      "startedAt": "2026-09-10T18:40:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "interés",
+      "startedAt": "2026-09-10T18:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "slavia praga",
+      "startedAt": "2026-09-10T18:40:00.000Z",
+      "volume": 100
     }
   ]
 }
