@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T23:22:28.166Z",
+  "updatedAt": "2026-09-10T23:49:33.738Z",
   "trends": [
+    {
+      "query": "vélez",
+      "startedAt": "2026-09-10T23:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "sabalenka",
+      "startedAt": "2026-09-10T23:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "roberto mouzo",
       "startedAt": "2026-09-10T23:00:00.000Z",
@@ -26,7 +36,7 @@
     {
       "query": "muerte",
       "startedAt": "2026-09-10T22:20:00.000Z",
-      "volume": 200
+      "volume": 1000
     },
     {
       "query": "beca",
@@ -34,24 +44,14 @@
       "volume": 1000
     },
     {
-      "query": "samuel liberman",
+      "query": "club estudiantes de la plata",
       "startedAt": "2026-09-10T22:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "club estudiantes de la plata",
-      "startedAt": "2026-09-10T22:10:00.000Z",
-      "volume": 5000
-    },
-    {
       "query": "jubilación",
       "startedAt": "2026-09-10T21:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "restaurante",
-      "startedAt": "2026-09-10T21:50:00.000Z",
-      "volume": 500
+      "volume": 5000
     }
   ]
 }
