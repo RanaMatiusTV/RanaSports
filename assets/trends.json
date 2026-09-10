@@ -1,15 +1,25 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T01:25:01.891Z",
+  "updatedAt": "2026-09-10T01:52:56.143Z",
   "trends": [
+    {
+      "query": "garro",
+      "startedAt": "2026-09-10T01:30:00.000Z",
+      "volume": 100
+    },
     {
       "query": "clima moreno",
       "startedAt": "2026-09-10T01:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "quini 6 hoy",
+      "startedAt": "2026-09-10T01:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "quiniela nocturna",
       "startedAt": "2026-09-10T01:00:00.000Z",
       "volume": 500
     },
@@ -24,19 +34,14 @@
       "volume": 200
     },
     {
+      "query": "rodrigo battaglia",
+      "startedAt": "2026-09-10T00:40:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "memphis depay",
       "startedAt": "2026-09-10T00:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "edlp",
-      "startedAt": "2026-09-10T00:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "seahawks - patriots",
-      "startedAt": "2026-09-10T00:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "hakim ziyech",
@@ -44,14 +49,9 @@
       "volume": 200
     },
     {
-      "query": "alexander zverev",
-      "startedAt": "2026-09-10T00:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "pipino cuevas",
-      "startedAt": "2026-09-10T00:10:00.000Z",
-      "volume": 500
+      "query": "seahawks - patriots",
+      "startedAt": "2026-09-10T00:30:00.000Z",
+      "volume": 200
     }
   ]
 }
