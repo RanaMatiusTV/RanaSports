@@ -1,17 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T09:52:58.296Z",
+  "updatedAt": "2026-09-10T10:27:00.159Z",
   "trends": [
+    {
+      "query": "mauro icardi",
+      "startedAt": "2026-09-10T10:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "luciana salazar",
+      "startedAt": "2026-09-10T10:00:00.000Z",
+      "volume": 100
+    },
     {
       "query": "amalia granata",
       "startedAt": "2026-09-10T09:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "loto plus",
       "startedAt": "2026-09-10T09:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "lotería",
@@ -21,7 +31,7 @@
     {
       "query": "14 de septiembre",
       "startedAt": "2026-09-10T09:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "10 de septiembre",
@@ -42,16 +52,6 @@
       "query": "clima la plata",
       "startedAt": "2026-09-10T03:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "quien se fue de gran hermano",
-      "startedAt": "2026-09-10T02:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "marina calabró",
-      "startedAt": "2026-09-10T02:20:00.000Z",
-      "volume": 1000
     }
   ]
 }
