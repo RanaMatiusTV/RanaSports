@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T12:55:33.439Z",
+  "updatedAt": "2026-09-10T13:25:31.725Z",
   "trends": [
+    {
+      "query": "gal gadot",
+      "startedAt": "2026-09-10T13:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "encuesta",
+      "startedAt": "2026-09-10T13:00:00.000Z",
+      "volume": 500
+    },
     {
       "query": "clima formosa",
       "startedAt": "2026-09-10T12:40:00.000Z",
@@ -19,8 +29,8 @@
       "volume": 100
     },
     {
-      "query": "11 de septiembre es feriado en argentina",
-      "startedAt": "2026-09-10T12:00:00.000Z",
+      "query": "harry styles",
+      "startedAt": "2026-09-10T12:20:00.000Z",
       "volume": 100
     },
     {
@@ -41,16 +51,6 @@
     {
       "query": "10 de septiembre que se celebra",
       "startedAt": "2026-09-10T10:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "camionero",
-      "startedAt": "2026-09-10T10:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "decreto",
-      "startedAt": "2026-09-10T10:40:00.000Z",
       "volume": 500
     }
   ]
