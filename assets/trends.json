@@ -1,27 +1,47 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T20:51:21.381Z",
+  "updatedAt": "2026-09-10T21:23:04.988Z",
   "trends": [
+    {
+      "query": "nico paz",
+      "startedAt": "2026-09-10T21:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "como vs. rb leipzig",
+      "startedAt": "2026-09-10T20:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "bayern vs. bodø/glimt",
+      "startedAt": "2026-09-10T20:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "clima mar del plata",
+      "startedAt": "2026-09-10T20:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "manchester united",
       "startedAt": "2026-09-10T20:30:00.000Z",
-      "volume": 500
+      "volume": 1000
+    },
+    {
+      "query": "clima santiago del estero",
+      "startedAt": "2026-09-10T20:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "bayer",
+      "startedAt": "2026-09-10T20:30:00.000Z",
+      "volume": 100
     },
     {
       "query": "panathinaikos",
       "startedAt": "2026-09-10T19:20:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "bayern vs",
-      "startedAt": "2026-09-10T19:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "carlos horacio salinas",
-      "startedAt": "2026-09-10T19:10:00.000Z",
-      "volume": 500
     },
     {
       "query": "leonardo balerdi",
@@ -32,26 +52,6 @@
       "query": "como fc",
       "startedAt": "2026-09-10T19:10:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "especie invasora",
-      "startedAt": "2026-09-10T19:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "drive",
-      "startedAt": "2026-09-10T19:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "bayern",
-      "startedAt": "2026-09-10T19:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "bayern munich",
-      "startedAt": "2026-09-10T19:00:00.000Z",
-      "volume": 500
     }
   ]
 }
