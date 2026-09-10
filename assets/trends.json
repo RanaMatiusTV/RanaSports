@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T11:25:41.009Z",
+  "updatedAt": "2026-09-10T11:51:46.378Z",
   "trends": [
+    {
+      "query": "pablo longoria",
+      "startedAt": "2026-09-10T11:30:00.000Z",
+      "volume": 100
+    },
     {
       "query": "gabriel rolón",
       "startedAt": "2026-09-10T11:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "10 de septiembre que se celebra",
@@ -47,11 +52,6 @@
       "query": "loto plus",
       "startedAt": "2026-09-10T09:20:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "14 de septiembre",
-      "startedAt": "2026-09-10T09:00:00.000Z",
-      "volume": 200
     }
   ]
 }
