@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T22:23:43.640Z",
+  "updatedAt": "2026-09-10T22:50:29.691Z",
   "trends": [
+    {
+      "query": "beca",
+      "startedAt": "2026-09-10T22:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "muerte",
+      "startedAt": "2026-09-10T22:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "samuel liberman",
+      "startedAt": "2026-09-10T22:10:00.000Z",
+      "volume": 200
+    },
     {
       "query": "jubilación",
       "startedAt": "2026-09-10T21:50:00.000Z",
-      "volume": 200
+      "volume": 2000
     },
     {
       "query": "benjamín netanyahu",
@@ -19,19 +34,14 @@
       "volume": 200
     },
     {
-      "query": "aerolínea",
-      "startedAt": "2026-09-10T21:50:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "marc overmars",
       "startedAt": "2026-09-10T21:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "cine",
+      "query": "aerolínea",
       "startedAt": "2026-09-10T21:50:00.000Z",
-      "volume": 200
+      "volume": 100
     },
     {
       "query": "vehículo submarino autónomo",
@@ -42,16 +52,6 @@
       "query": "diego leuco",
       "startedAt": "2026-09-10T21:40:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "madre",
-      "startedAt": "2026-09-10T21:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "malcolm marx",
-      "startedAt": "2026-09-10T21:30:00.000Z",
-      "volume": 200
     }
   ]
 }
