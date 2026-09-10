@@ -1,11 +1,21 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T15:27:10.549Z",
+  "updatedAt": "2026-09-10T15:51:52.782Z",
   "trends": [
+    {
+      "query": "hechizo de amor",
+      "startedAt": "2026-09-10T15:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "club atlético independiente",
       "startedAt": "2026-09-10T15:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "inflacion agosto 2026",
+      "startedAt": "2026-09-10T15:00:00.000Z",
       "volume": 200
     },
     {
@@ -36,22 +46,12 @@
     {
       "query": "salud mental",
       "startedAt": "2026-09-10T14:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "aerolineas argentinas",
       "startedAt": "2026-09-10T14:10:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "aerolineas",
-      "startedAt": "2026-09-10T14:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "james gunn",
-      "startedAt": "2026-09-10T13:50:00.000Z",
-      "volume": 500
     }
   ]
 }
