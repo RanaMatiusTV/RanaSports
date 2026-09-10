@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T09:26:43.817Z",
+  "updatedAt": "2026-09-10T09:52:58.296Z",
   "trends": [
+    {
+      "query": "amalia granata",
+      "startedAt": "2026-09-10T09:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "loto plus",
+      "startedAt": "2026-09-10T09:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "lotería",
+      "startedAt": "2026-09-10T09:20:00.000Z",
+      "volume": 10000
+    },
     {
       "query": "14 de septiembre",
       "startedAt": "2026-09-10T09:00:00.000Z",
@@ -29,11 +44,6 @@
       "volume": 200
     },
     {
-      "query": "lionel messi",
-      "startedAt": "2026-09-10T02:50:00.000Z",
-      "volume": 10000
-    },
-    {
       "query": "quien se fue de gran hermano",
       "startedAt": "2026-09-10T02:50:00.000Z",
       "volume": 1000
@@ -41,16 +51,6 @@
     {
       "query": "marina calabró",
       "startedAt": "2026-09-10T02:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "clima quilmes",
-      "startedAt": "2026-09-10T02:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "mls",
-      "startedAt": "2026-09-10T02:10:00.000Z",
       "volume": 1000
     }
   ]
