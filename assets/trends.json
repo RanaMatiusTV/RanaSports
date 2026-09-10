@@ -1,17 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T22:50:29.691Z",
+  "updatedAt": "2026-09-10T23:22:28.166Z",
   "trends": [
     {
-      "query": "beca",
-      "startedAt": "2026-09-10T22:20:00.000Z",
-      "volume": 2000
+      "query": "roberto mouzo",
+      "startedAt": "2026-09-10T23:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "clima san luis",
+      "startedAt": "2026-09-10T23:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "caso loan",
+      "startedAt": "2026-09-10T22:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "club atlético tucumán",
+      "startedAt": "2026-09-10T22:40:00.000Z",
+      "volume": 100
     },
     {
       "query": "muerte",
       "startedAt": "2026-09-10T22:20:00.000Z",
-      "volume": 100
+      "volume": 200
+    },
+    {
+      "query": "beca",
+      "startedAt": "2026-09-10T22:20:00.000Z",
+      "volume": 1000
     },
     {
       "query": "samuel liberman",
@@ -19,39 +39,19 @@
       "volume": 200
     },
     {
+      "query": "club estudiantes de la plata",
+      "startedAt": "2026-09-10T22:10:00.000Z",
+      "volume": 5000
+    },
+    {
       "query": "jubilación",
       "startedAt": "2026-09-10T21:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "benjamín netanyahu",
-      "startedAt": "2026-09-10T21:50:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "restaurante",
       "startedAt": "2026-09-10T21:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "marc overmars",
-      "startedAt": "2026-09-10T21:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "aerolínea",
-      "startedAt": "2026-09-10T21:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "vehículo submarino autónomo",
-      "startedAt": "2026-09-10T21:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "diego leuco",
-      "startedAt": "2026-09-10T21:40:00.000Z",
-      "volume": 100
+      "volume": 500
     }
   ]
 }
