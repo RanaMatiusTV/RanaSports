@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T12:32:33.728Z",
+  "updatedAt": "2026-09-10T12:55:33.439Z",
   "trends": [
+    {
+      "query": "clima formosa",
+      "startedAt": "2026-09-10T12:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "kevin zenón",
+      "startedAt": "2026-09-10T12:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "javier bardem",
+      "startedAt": "2026-09-10T12:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "11 de septiembre es feriado en argentina",
       "startedAt": "2026-09-10T12:00:00.000Z",
@@ -16,7 +31,7 @@
     {
       "query": "pablo longoria",
       "startedAt": "2026-09-10T11:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "gabriel rolón",
@@ -37,21 +52,6 @@
       "query": "decreto",
       "startedAt": "2026-09-10T10:40:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "turgutluspor",
-      "startedAt": "2026-09-10T10:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "mauro icardi",
-      "startedAt": "2026-09-10T10:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "luciana salazar",
-      "startedAt": "2026-09-10T10:00:00.000Z",
-      "volume": 200
     }
   ]
 }
