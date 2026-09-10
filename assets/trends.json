@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T10:27:00.159Z",
+  "updatedAt": "2026-09-10T10:52:33.623Z",
   "trends": [
+    {
+      "query": "turgutluspor",
+      "startedAt": "2026-09-10T10:30:00.000Z",
+      "volume": 100
+    },
     {
       "query": "mauro icardi",
       "startedAt": "2026-09-10T10:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "luciana salazar",
@@ -16,17 +21,17 @@
     {
       "query": "amalia granata",
       "startedAt": "2026-09-10T09:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "loto plus",
-      "startedAt": "2026-09-10T09:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "lotería",
       "startedAt": "2026-09-10T09:20:00.000Z",
       "volume": 10000
+    },
+    {
+      "query": "loto plus",
+      "startedAt": "2026-09-10T09:20:00.000Z",
+      "volume": 500
     },
     {
       "query": "14 de septiembre",
@@ -36,7 +41,7 @@
     {
       "query": "10 de septiembre",
       "startedAt": "2026-09-10T03:30:00.000Z",
-      "volume": 100
+      "volume": 1000
     },
     {
       "query": "physint",
@@ -47,11 +52,6 @@
       "query": "nadia podoroska",
       "startedAt": "2026-09-10T03:10:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "clima la plata",
-      "startedAt": "2026-09-10T03:00:00.000Z",
-      "volume": 200
     }
   ]
 }
