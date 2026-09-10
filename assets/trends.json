@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T16:52:21.106Z",
+  "updatedAt": "2026-09-10T17:24:38.833Z",
   "trends": [
     {
-      "query": "loan",
-      "startedAt": "2026-09-10T16:20:00.000Z",
+      "query": "desaparición de loan peña",
+      "startedAt": "2026-09-10T17:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "mariana nannis",
+      "startedAt": "2026-09-10T17:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "psv - shakhtar",
+      "startedAt": "2026-09-10T17:10:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "andres gil",
+      "startedAt": "2026-09-10T17:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "psv vs",
+      "startedAt": "2026-09-10T17:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "elina costantini",
+      "startedAt": "2026-09-10T16:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "roma",
+      "startedAt": "2026-09-10T16:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "militar",
+      "startedAt": "2026-09-10T16:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "roma vs",
+      "startedAt": "2026-09-10T16:30:00.000Z",
+      "volume": 200
     },
     {
       "query": "luis zahera",
       "startedAt": "2026-09-10T16:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fenerbahçe - roma",
-      "startedAt": "2026-09-10T15:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "2026",
-      "startedAt": "2026-09-10T15:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "basura",
-      "startedAt": "2026-09-10T15:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fenerbahçe",
-      "startedAt": "2026-09-10T15:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "soberanía",
-      "startedAt": "2026-09-10T15:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "patricia bullrich",
-      "startedAt": "2026-09-10T15:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "psv",
-      "startedAt": "2026-09-10T15:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fiesta del cine",
-      "startedAt": "2026-09-10T15:30:00.000Z",
-      "volume": 200
+      "volume": 500
     }
   ]
 }
