@@ -1,13 +1,8 @@
 (() => {
-  const CACHE_KEY = 'ranasports-real-images-v2';
+  const CACHE_KEY = 'ranasports-real-images-v3';
   const cache = () => { try { return JSON.parse(localStorage.getItem(CACHE_KEY) || '{}'); } catch { return {}; } };
   const save = value => { try { localStorage.setItem(CACHE_KEY, JSON.stringify(value)); } catch {} };
   const clean = value => (value || '').replace(/[^\p{L}\p{N}\s-]/gu, ' ').replace(/\s+/g, ' ').trim();
-  const categoryTerms = {
-    independiente: 'Club Atlético Independiente football', futbol: 'Argentina football', f1: 'Formula One',
-    seleccion: 'Argentina national football team', rugby: 'rugby', tenis: 'tennis', boxeo: 'boxing',
-    automovilismo: 'motor racing', mma: 'mixed martial arts', voley: 'volleyball', otros: 'sports'
-  };
   const fallbackImage = src => /(?:^|\/)fallback-[^/]+\.svg(?:\?|$)/i.test(src || '');
   const reusable = meta => {
     const text = [meta?.LicenseShortName?.value, meta?.License?.value, meta?.UsageTerms?.value].filter(Boolean).join(' ').toLowerCase();
@@ -20,12 +15,17 @@
       const response = await fetch('https://commons.wikimedia.org/w/api.php?' + params, { cache: 'force-cache' });
       if (!response.ok) return '';
       const data = await response.json();
+      const wanted = new Set(clean(query).toLowerCase().split(/\s+/).filter(w => w.length > 3));
+      let best = null, bestScore = 0;
       for (const page of data?.query?.pages || []) {
         const info = page?.imageinfo?.[0];
-        if (info && /^image\/(jpeg|png|webp)$/i.test(info.mime || '') && reusable(info.extmetadata)) return info.thumburl || info.url || '';
+        if (!info || !/^image\/(jpeg|png|webp)$/i.test(info.mime || '') || !reusable(info.extmetadata)) continue;
+        const title = clean(page.title || '').toLowerCase();
+        const score = [...wanted].filter(w => title.includes(w)).length;
+        if (score > bestScore) { bestScore = score; best = info.thumburl || info.url || ''; }
       }
-    } catch {}
-    return '';
+      return bestScore >= Math.max(1, Math.min(3, wanted.size)) ? best : '';
+    } catch { return ''; }
   }
   function youtubeId(url) {
     try {
@@ -62,17 +62,16 @@
       return id ? `https://i.ytimg.com/vi/${id}/hqdefault.jpg` : '';
     } catch { return ''; }
   }
-  async function findImage(title, category) {
+  async function findImage(title) {
     const key = clean(title); const c = cache();
-    if (c[key]) return c[key];
+    if (Object.prototype.hasOwnProperty.call(c, key)) return c[key];
     let url = await commons(key);
     if (!url) {
       const words = key.split(/\s+/).filter(w => w.length > 3).slice(0, 8).join(' ');
-      url = await commons(words);
+      if (words !== key) url = await commons(words);
     }
-    if (!url) url = await commons(categoryTerms[category] || 'sports');
     if (!url) url = await videoForTitle(title);
-    if (url) { c[key] = url; save(c); }
+    c[key] = url || null; save(c);
     return url;
   }
   function imageIsUsable(img) { return !!img && !fallbackImage(img.currentSrc || img.src); }
@@ -81,7 +80,7 @@
     if (imageIsUsable(existing)) return;
     if (existing?.closest('.news-image')) existing.closest('.news-image').remove();
     const title = card.querySelector('h3')?.textContent?.trim(); if (!title) return;
-    const url = await findImage(title, card.dataset.sport || card.dataset.category || 'otros'); if (!url) return;
+    const url = await findImage(title); if (!url) return;
     if (card.querySelector('.news-image img')) return;
     const link = document.createElement('a'); link.className = 'card-visual news-image'; link.href = card.querySelector('h3 a')?.href || '#';
     const img = document.createElement('img'); img.src = url; img.alt = title; img.width = 800; img.height = 450; img.loading = 'lazy'; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
@@ -92,7 +91,7 @@
     if (imageIsUsable(existing)) return;
     if (existing?.closest('.article-photo')) existing.closest('.article-photo').remove();
     const title = root.querySelector('h1')?.textContent?.trim(); if (!title) return;
-    const url = await findImage(title, root.dataset.category || 'otros'); if (!url) return;
+    const url = await findImage(title); if (!url) return;
     if (root.querySelector('.article-photo img')) return;
     const figure = document.createElement('figure'); figure.className = 'article-photo';
     const img = document.createElement('img'); img.className = 'article-image'; img.src = url; img.alt = title; img.width = 800; img.height = 450; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
