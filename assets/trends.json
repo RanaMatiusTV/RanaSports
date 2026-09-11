@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T16:51:27.173Z",
+  "updatedAt": "2026-09-11T17:24:29.125Z",
   "trends": [
+    {
+      "query": "mundial sub 20 femenino",
+      "startedAt": "2026-09-11T16:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "fifa",
+      "startedAt": "2026-09-11T16:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "al-faisaly - al ittihad",
       "startedAt": "2026-09-11T16:10:00.000Z",
@@ -26,12 +36,12 @@
     {
       "query": "astrid de noruega",
       "startedAt": "2026-09-11T14:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "fernando alonso",
       "startedAt": "2026-09-11T14:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "fundación princesa de asturias",
@@ -41,16 +51,6 @@
     {
       "query": "caballito",
       "startedAt": "2026-09-11T13:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "sele vera accidente",
-      "startedAt": "2026-09-11T13:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sandra bullock",
-      "startedAt": "2026-09-11T12:50:00.000Z",
       "volume": 500
     }
   ]
