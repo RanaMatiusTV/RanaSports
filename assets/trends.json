@@ -1,32 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T12:31:25.419Z",
+  "updatedAt": "2026-09-11T12:54:48.721Z",
   "trends": [
+    {
+      "query": "luciana geuna",
+      "startedAt": "2026-09-11T12:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "clima mendoza",
+      "startedAt": "2026-09-11T12:30:00.000Z",
+      "volume": 200
+    },
     {
       "query": "que dia es hoy",
       "startedAt": "2026-09-11T12:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "encuesta",
       "startedAt": "2026-09-11T11:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "disney",
       "startedAt": "2026-09-11T11:30:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "dia del docente",
-      "startedAt": "2026-09-11T11:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "aumento jubilados",
-      "startedAt": "2026-09-11T11:20:00.000Z",
-      "volume": 5000
     },
     {
       "query": "madring",
@@ -49,9 +49,9 @@
       "volume": 2000
     },
     {
-      "query": "poceada chaqueña",
+      "query": "11 de septiembre dia del maestro",
       "startedAt": "2026-09-11T10:10:00.000Z",
-      "volume": 100
+      "volume": 1000
     }
   ]
 }
