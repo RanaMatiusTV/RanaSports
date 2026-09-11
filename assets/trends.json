@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T09:53:01.491Z",
+  "updatedAt": "2026-09-11T10:26:43.235Z",
   "trends": [
+    {
+      "query": "poceada chaqueña",
+      "startedAt": "2026-09-11T10:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "horarios f1",
+      "startedAt": "2026-09-11T09:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "clima",
+      "startedAt": "2026-09-11T09:40:00.000Z",
+      "volume": 100000
+    },
     {
       "query": "pronóstico del tiempo",
       "startedAt": "2026-09-11T09:20:00.000Z",
@@ -11,7 +26,7 @@
     {
       "query": "clima corrientes",
       "startedAt": "2026-09-11T09:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "club atlético boca juniors",
@@ -21,12 +36,12 @@
     {
       "query": "clima neuquen",
       "startedAt": "2026-09-11T08:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "ciclogénesis",
       "startedAt": "2026-09-11T05:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "creatina",
@@ -34,24 +49,9 @@
       "volume": 100
     },
     {
-      "query": "pronostico cordoba",
-      "startedAt": "2026-09-11T03:10:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "pumas - león",
       "startedAt": "2026-09-11T02:50:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "bolivar",
-      "startedAt": "2026-09-11T02:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "narcolepsia",
-      "startedAt": "2026-09-11T02:10:00.000Z",
-      "volume": 100
     }
   ]
 }
