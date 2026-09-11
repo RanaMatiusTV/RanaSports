@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T02:26:12.993Z",
+  "updatedAt": "2026-09-11T02:52:26.725Z",
   "trends": [
+    {
+      "query": "bolivar",
+      "startedAt": "2026-09-11T02:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "narcolepsia",
       "startedAt": "2026-09-11T02:10:00.000Z",
@@ -26,7 +31,7 @@
     {
       "query": "crimen",
       "startedAt": "2026-09-11T01:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "rams - 49ers",
@@ -47,11 +52,6 @@
       "query": "fausto vera",
       "startedAt": "2026-09-11T00:50:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "millonarios - deportivo cali",
-      "startedAt": "2026-09-11T00:20:00.000Z",
-      "volume": 1000
     }
   ]
 }
