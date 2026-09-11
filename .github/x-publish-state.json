@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE1NTAwMDAwMCwiRUwgTUFEUklORyBFTkNFTkRJw5MgTEEgQUxFUlRBOiBMT1MgUElMT1RPUyBDUkVFTiBRVUUgQURFTEFOVEFSIFNFUsOBIE1VWSBESUbDjUNJTCJd": {
+      "account": "f1",
+      "title": "EL MADRING ENCENDIÓ LA ALERTA: LOS PILOTOS CREEN QUE ADELANTAR SERÁ MUY DIFÍCIL",
+      "dueAt": "2026-09-11T19:45:00.000Z",
+      "bufferPostId": "6aa459a967cc30fb0d2001f4",
+      "createdAt": "2026-09-11T19:42:33.904Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE1MDUwMDAwMCwiTElOREJMQUQgRlVFIENVQVJUTyBZIFRFUk1JTsOTIENPTlRSQSBFTCBNVVJPIEVOIEVMIFBSSU1FUiBDSE9RVUUgREUgRjEgREVMIE1BRFJJTkciXQ": {
       "account": "f1",
       "title": "LINDBLAD FUE CUARTO Y TERMINÓ CONTRA EL MURO EN EL PRIMER CHOQUE DE F1 DEL MADRING",
@@ -31,7 +38,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-11T18:35:00.000Z",
+    "f1": "2026-09-11T19:50:00.000Z",
     "main": "2026-09-11T18:00:00.000Z"
   },
   "buffer": {
