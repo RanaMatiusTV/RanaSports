@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T14:26:41.057Z",
+  "updatedAt": "2026-09-11T14:53:43.914Z",
   "trends": [
+    {
+      "query": "fernando alonso",
+      "startedAt": "2026-09-11T14:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "fundación princesa de asturias",
+      "startedAt": "2026-09-11T14:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "caballito",
       "startedAt": "2026-09-11T13:40:00.000Z",
@@ -42,16 +52,6 @@
       "query": "encuesta",
       "startedAt": "2026-09-11T11:40:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "disney",
-      "startedAt": "2026-09-11T11:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "aumento jubilados",
-      "startedAt": "2026-09-11T11:20:00.000Z",
-      "volume": 5000
     }
   ]
 }
