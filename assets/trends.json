@@ -1,17 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T04:51:47.965Z",
+  "updatedAt": "2026-09-11T05:24:53.857Z",
   "trends": [
     {
       "query": "creatina",
       "startedAt": "2026-09-11T03:30:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "11 de septiembre",
-      "startedAt": "2026-09-11T03:20:00.000Z",
-      "volume": 200
     },
     {
       "query": "pronostico cordoba",
@@ -42,6 +37,11 @@
       "query": "ludovico di santo",
       "startedAt": "2026-09-11T01:40:00.000Z",
       "volume": 2000
+    },
+    {
+      "query": "millonarios",
+      "startedAt": "2026-09-11T01:40:00.000Z",
+      "volume": 500
     },
     {
       "query": "cienciano",
