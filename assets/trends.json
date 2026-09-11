@@ -1,8 +1,38 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T17:49:41.707Z",
+  "updatedAt": "2026-09-11T18:28:41.217Z",
   "trends": [
+    {
+      "query": "venezia - fiorentina",
+      "startedAt": "2026-09-11T18:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "sevilla - valencia c. f.",
+      "startedAt": "2026-09-11T18:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "puente festivo",
+      "startedAt": "2026-09-11T18:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "voluntariado",
+      "startedAt": "2026-09-11T18:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "enriquecimiento ilícito",
+      "startedAt": "2026-09-11T18:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "crédito",
+      "startedAt": "2026-09-11T18:00:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "jubilaciones",
       "startedAt": "2026-09-11T17:30:00.000Z",
@@ -14,44 +44,14 @@
       "volume": 5000
     },
     {
-      "query": "besiktas",
-      "startedAt": "2026-09-11T17:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "diego maradona",
-      "startedAt": "2026-09-11T17:10:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "desierto del sahara",
-      "startedAt": "2026-09-11T17:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "al-nassr football club",
       "startedAt": "2026-09-11T17:10:00.000Z",
       "volume": 500
     },
     {
-      "query": "jennifer lawrence",
+      "query": "diego maradona",
       "startedAt": "2026-09-11T17:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "mundial sub 20 femenino",
-      "startedAt": "2026-09-11T16:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fifa",
-      "startedAt": "2026-09-11T16:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "al-faisaly - al ittihad",
-      "startedAt": "2026-09-11T16:10:00.000Z",
-      "volume": 200
+      "volume": 500
     }
   ]
 }
