@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T00:32:47.488Z",
+  "updatedAt": "2026-09-11T00:52:56.938Z",
   "trends": [
+    {
+      "query": "millonarios - deportivo cali",
+      "startedAt": "2026-09-11T00:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "premio",
       "startedAt": "2026-09-11T00:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "crucero del norte",
@@ -36,7 +41,7 @@
     {
       "query": "sabalenka",
       "startedAt": "2026-09-10T23:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "roberto mouzo",
@@ -47,11 +52,6 @@
       "query": "clima san luis",
       "startedAt": "2026-09-10T23:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "caso loan",
-      "startedAt": "2026-09-10T22:40:00.000Z",
-      "volume": 1000
     }
   ]
 }
