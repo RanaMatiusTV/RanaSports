@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T20:52:29.196Z",
+  "updatedAt": "2026-09-11T21:23:19.418Z",
   "trends": [
+    {
+      "query": "sheyko studer",
+      "startedAt": "2026-09-11T20:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "sandra pettovello",
       "startedAt": "2026-09-11T20:20:00.000Z",
@@ -24,34 +29,29 @@
       "volume": 500
     },
     {
-      "query": "serie a",
+      "query": "zverev",
+      "startedAt": "2026-09-11T20:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "khachanov",
       "startedAt": "2026-09-11T19:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "khachanov",
+      "query": "ejército mexicano",
       "startedAt": "2026-09-11T19:50:00.000Z",
       "volume": 200
     },
     {
       "query": "columbus crew",
       "startedAt": "2026-09-11T19:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "gastón edul",
       "startedAt": "2026-09-11T19:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "alexander zverev",
-      "startedAt": "2026-09-11T19:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "colombia",
-      "startedAt": "2026-09-11T19:20:00.000Z",
-      "volume": 1000
     }
   ]
 }
