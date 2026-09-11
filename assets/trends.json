@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T13:52:29.751Z",
+  "updatedAt": "2026-09-11T14:26:41.057Z",
   "trends": [
+    {
+      "query": "caballito",
+      "startedAt": "2026-09-11T13:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "sele vera accidente",
       "startedAt": "2026-09-11T13:20:00.000Z",
@@ -16,7 +21,12 @@
     {
       "query": "luciana geuna",
       "startedAt": "2026-09-11T12:40:00.000Z",
-      "volume": 200
+      "volume": 500
+    },
+    {
+      "query": "hoy es el dia de",
+      "startedAt": "2026-09-11T12:40:00.000Z",
+      "volume": 100
     },
     {
       "query": "clima mendoza",
@@ -26,12 +36,12 @@
     {
       "query": "que dia es hoy",
       "startedAt": "2026-09-11T12:00:00.000Z",
-      "volume": 500
+      "volume": 200
     },
     {
       "query": "encuesta",
       "startedAt": "2026-09-11T11:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "disney",
@@ -42,16 +52,6 @@
       "query": "aumento jubilados",
       "startedAt": "2026-09-11T11:20:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "madring",
-      "startedAt": "2026-09-11T11:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "starlink",
-      "startedAt": "2026-09-11T11:00:00.000Z",
-      "volume": 100
     }
   ]
 }
