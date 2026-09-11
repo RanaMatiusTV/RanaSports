@@ -83,11 +83,22 @@
   const wrap=element('div','video-embed'),frame=element('iframe');frame.src=embed;frame.title='Video de la noticia';frame.loading='lazy';frame.allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';frame.allowFullscreen=true;wrap.append(frame);container.append(wrap);return true;
  }
  function injectMediaStyles(){
-  if(document.getElementById('ranasports-media-styles-v2'))return;
-  const s=element('style');s.id='ranasports-media-styles-v2';s.textContent=`
+  if(document.getElementById('ranasports-media-styles-v3'))return;
+  const s=element('style');s.id='ranasports-media-styles-v3';s.textContent=`
    .video-embed{position:relative;width:100%;aspect-ratio:16/9;margin:22px 0;border-radius:10px;overflow:hidden;background:#000}
    .video-embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
-   .article-image,.news-image img{display:block;width:100%;height:auto;object-fit:cover}
+   .article-image{display:block;width:100%;height:auto;object-fit:contain;object-position:center;border-radius:8px}
+   .card-visual.news-image{aspect-ratio:16/9!important;min-height:0!important;padding:0!important;background:#171d24}
+   .news-image img{display:block;width:100%;height:100%;object-fit:cover;object-position:50% 24%;transition:transform .25s}
+   .editorial-grid .secondary-story .news-image{aspect-ratio:16/9!important}
+   .lead-story:has(.news-image){min-height:0!important;display:block!important}
+   .editorial-grid .lead-story>.news-image{position:relative!important;inset:auto!important;width:100%!important;height:auto!important;aspect-ratio:16/9!important;max-height:none!important;z-index:auto!important}
+   .lead-story>.news-image:after{display:none!important}
+   .lead-story:has(.news-image) .card-body{padding-top:18px!important;pointer-events:auto!important}
+   @media(min-width:1050px){
+    .editorial-grid .secondary-story .news-image{aspect-ratio:auto!important;align-self:stretch}
+    .editorial-grid .secondary-story .news-image img{height:100%;object-position:50% 22%}
+   }
   `;document.head.append(s);
  }
  injectMediaStyles();
