@@ -1,16 +1,16 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T01:24:49.327Z",
+  "updatedAt": "2026-09-11T01:51:57.842Z",
   "trends": [
     {
-      "query": "jamie carragher",
-      "startedAt": "2026-09-11T01:10:00.000Z",
-      "volume": 100
+      "query": "cienciano",
+      "startedAt": "2026-09-11T01:20:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "cienciano vs",
-      "startedAt": "2026-09-11T01:00:00.000Z",
+      "query": "crimen",
+      "startedAt": "2026-09-11T01:20:00.000Z",
       "volume": 200
     },
     {
@@ -19,19 +19,19 @@
       "volume": 100
     },
     {
-      "query": "rybakina",
-      "startedAt": "2026-09-11T00:50:00.000Z",
-      "volume": 2000
-    },
-    {
       "query": "atlético nacional",
       "startedAt": "2026-09-11T00:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "fausto vera",
       "startedAt": "2026-09-11T00:50:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "elena rybakina",
+      "startedAt": "2026-09-11T00:30:00.000Z",
+      "volume": 1000
     },
     {
       "query": "millonarios - deportivo cali",
@@ -41,7 +41,7 @@
     {
       "query": "premio",
       "startedAt": "2026-09-11T00:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "crucero del norte",
