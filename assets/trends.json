@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T05:52:06.534Z",
+  "updatedAt": "2026-09-11T06:31:18.903Z",
   "trends": [
     {
       "query": "ciclogénesis",
@@ -12,11 +12,6 @@
       "query": "creatina",
       "startedAt": "2026-09-11T03:30:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "11 de septiembre",
-      "startedAt": "2026-09-11T03:20:00.000Z",
-      "volume": 200
     },
     {
       "query": "pronostico cordoba",
@@ -52,6 +47,11 @@
       "query": "millonarios",
       "startedAt": "2026-09-11T01:40:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "cienciano",
+      "startedAt": "2026-09-11T01:20:00.000Z",
+      "volume": 2000
     }
   ]
 }
