@@ -1,17 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-10T23:49:33.738Z",
+  "updatedAt": "2026-09-11T00:32:47.488Z",
   "trends": [
+    {
+      "query": "premio",
+      "startedAt": "2026-09-11T00:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "crucero del norte",
+      "startedAt": "2026-09-10T23:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tiempo de mañana",
+      "startedAt": "2026-09-10T23:40:00.000Z",
+      "volume": 200000
+    },
+    {
+      "query": "guillermo moreno",
+      "startedAt": "2026-09-10T23:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "vélez",
       "startedAt": "2026-09-10T23:30:00.000Z",
-      "volume": 500
+      "volume": 1000
+    },
+    {
+      "query": "torres gemelas",
+      "startedAt": "2026-09-10T23:30:00.000Z",
+      "volume": 100
     },
     {
       "query": "sabalenka",
       "startedAt": "2026-09-10T23:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "roberto mouzo",
@@ -27,31 +52,6 @@
       "query": "caso loan",
       "startedAt": "2026-09-10T22:40:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "club atlético tucumán",
-      "startedAt": "2026-09-10T22:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "muerte",
-      "startedAt": "2026-09-10T22:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "beca",
-      "startedAt": "2026-09-10T22:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "club estudiantes de la plata",
-      "startedAt": "2026-09-10T22:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "jubilación",
-      "startedAt": "2026-09-10T21:50:00.000Z",
-      "volume": 5000
     }
   ]
 }
