@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T15:52:10.684Z",
+  "updatedAt": "2026-09-11T16:26:56.904Z",
   "trends": [
+    {
+      "query": "al-faisaly - al ittihad",
+      "startedAt": "2026-09-11T16:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jubilación mínima",
+      "startedAt": "2026-09-11T15:40:00.000Z",
+      "volume": 5000
+    },
     {
       "query": "bandera",
       "startedAt": "2026-09-11T15:30:00.000Z",
@@ -11,12 +21,12 @@
     {
       "query": "avenida santa fe",
       "startedAt": "2026-09-11T15:00:00.000Z",
-      "volume": 200
+      "volume": 2000
     },
     {
       "query": "astrid de noruega",
       "startedAt": "2026-09-11T14:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "fernando alonso",
@@ -42,16 +52,6 @@
       "query": "sandra bullock",
       "startedAt": "2026-09-11T12:50:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "luciana geuna",
-      "startedAt": "2026-09-11T12:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "clima mendoza",
-      "startedAt": "2026-09-11T12:30:00.000Z",
-      "volume": 200
     }
   ]
 }
