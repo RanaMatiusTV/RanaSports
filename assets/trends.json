@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T13:26:48.276Z",
+  "updatedAt": "2026-09-11T13:52:29.751Z",
   "trends": [
+    {
+      "query": "sele vera accidente",
+      "startedAt": "2026-09-11T13:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "sandra bullock",
       "startedAt": "2026-09-11T12:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "luciana geuna",
@@ -34,6 +39,11 @@
       "volume": 1000
     },
     {
+      "query": "aumento jubilados",
+      "startedAt": "2026-09-11T11:20:00.000Z",
+      "volume": 5000
+    },
+    {
       "query": "madring",
       "startedAt": "2026-09-11T11:10:00.000Z",
       "volume": 2000
@@ -42,16 +52,6 @@
       "query": "starlink",
       "startedAt": "2026-09-11T11:00:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "inteligencia artificial",
-      "startedAt": "2026-09-11T10:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "entre ríos",
-      "startedAt": "2026-09-11T10:30:00.000Z",
-      "volume": 500
     }
   ]
 }
