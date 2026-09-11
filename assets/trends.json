@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T12:54:48.721Z",
+  "updatedAt": "2026-09-11T13:26:48.276Z",
   "trends": [
+    {
+      "query": "sandra bullock",
+      "startedAt": "2026-09-11T12:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "luciana geuna",
       "startedAt": "2026-09-11T12:40:00.000Z",
@@ -16,7 +21,7 @@
     {
       "query": "que dia es hoy",
       "startedAt": "2026-09-11T12:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "encuesta",
@@ -34,6 +39,11 @@
       "volume": 2000
     },
     {
+      "query": "starlink",
+      "startedAt": "2026-09-11T11:00:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "inteligencia artificial",
       "startedAt": "2026-09-11T10:40:00.000Z",
       "volume": 500
@@ -42,16 +52,6 @@
       "query": "entre ríos",
       "startedAt": "2026-09-11T10:30:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "dia del maestro argentina",
-      "startedAt": "2026-09-11T10:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "11 de septiembre dia del maestro",
-      "startedAt": "2026-09-11T10:10:00.000Z",
-      "volume": 1000
     }
   ]
 }
