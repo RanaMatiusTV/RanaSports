@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T15:25:57.399Z",
+  "updatedAt": "2026-09-11T15:52:10.684Z",
   "trends": [
+    {
+      "query": "bandera",
+      "startedAt": "2026-09-11T15:30:00.000Z",
+      "volume": 200
+    },
     {
       "query": "avenida santa fe",
       "startedAt": "2026-09-11T15:00:00.000Z",
@@ -16,7 +21,7 @@
     {
       "query": "fernando alonso",
       "startedAt": "2026-09-11T14:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "fundación princesa de asturias",
@@ -31,7 +36,7 @@
     {
       "query": "sele vera accidente",
       "startedAt": "2026-09-11T13:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "sandra bullock",
@@ -47,11 +52,6 @@
       "query": "clima mendoza",
       "startedAt": "2026-09-11T12:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "que dia es hoy",
-      "startedAt": "2026-09-11T12:00:00.000Z",
-      "volume": 500
     }
   ]
 }
