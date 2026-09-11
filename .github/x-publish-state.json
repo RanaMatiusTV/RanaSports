@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE1MDUwMDAwMCwiTElOREJMQUQgRlVFIENVQVJUTyBZIFRFUk1JTsOTIENPTlRSQSBFTCBNVVJPIEVOIEVMIFBSSU1FUiBDSE9RVUUgREUgRjEgREVMIE1BRFJJTkciXQ": {
+      "account": "f1",
+      "title": "LINDBLAD FUE CUARTO Y TERMINÓ CONTRA EL MURO EN EL PRIMER CHOQUE DE F1 DEL MADRING",
+      "dueAt": "2026-09-11T18:30:00.000Z",
+      "bufferPostId": "6aa4477b470e4d1a5fcc04e5",
+      "createdAt": "2026-09-11T18:24:59.598Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE0ODcwMDAwMCwiTk9SUklTIFNFIFBFUkRJw5MgTEEgRlAyIERFIE1BRFJJRCBQT1IgVU4gQ0FNQklPIERFIENBSkEgRU4gRUwgTWNMQVJFTiJd": {
       "account": "f1",
       "title": "NORRIS SE PERDIÓ LA FP2 DE MADRID POR UN CAMBIO DE CAJA EN EL McLAREN",
@@ -24,7 +31,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-11T18:00:00.000Z",
+    "f1": "2026-09-11T18:35:00.000Z",
     "main": "2026-09-11T18:00:00.000Z"
   },
   "buffer": {
