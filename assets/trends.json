@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T02:52:26.725Z",
+  "updatedAt": "2026-09-11T03:26:14.951Z",
   "trends": [
+    {
+      "query": "pronostico cordoba",
+      "startedAt": "2026-09-11T03:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pumas - león",
+      "startedAt": "2026-09-11T02:50:00.000Z",
+      "volume": 200
+    },
     {
       "query": "bolivar",
       "startedAt": "2026-09-11T02:20:00.000Z",
@@ -16,7 +26,12 @@
     {
       "query": "polémica",
       "startedAt": "2026-09-11T01:50:00.000Z",
-      "volume": 100
+      "volume": 200
+    },
+    {
+      "query": "ludovico di santo",
+      "startedAt": "2026-09-11T01:40:00.000Z",
+      "volume": 2000
     },
     {
       "query": "millonarios",
@@ -37,21 +52,6 @@
       "query": "rams - 49ers",
       "startedAt": "2026-09-11T01:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "rybakina",
-      "startedAt": "2026-09-11T00:50:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "atlético nacional",
-      "startedAt": "2026-09-11T00:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fausto vera",
-      "startedAt": "2026-09-11T00:50:00.000Z",
-      "volume": 100
     }
   ]
 }
