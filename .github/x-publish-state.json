@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODkxNjQ5MDAwMDAsIlNPw5FPUkEgUkVTQ0FUw5MgQSBORVdFTEwnUyBTT0JSRSBMQSBIT1JBIFkgVsOJTEVaIERFSsOTIERPUyBQVU5UT1MgRU4gUk9TQVJJTyJd": {
+      "account": "main",
+      "title": "SOÑORA RESCATÓ A NEWELL'S SOBRE LA HORA Y VÉLEZ DEJÓ DOS PUNTOS EN ROSARIO",
+      "dueAt": "2026-09-11T22:30:00.000Z",
+      "bufferPostId": "6aa47fa007d009223c6468ea",
+      "createdAt": "2026-09-11T22:24:32.627Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE1ODAwMDAwMCwiQ09MQVBJTlRPIERJU0ZSVVTDkyBFTCBNQURSSU5HIFkgTUFSQ8OTIFFVw4kgTEUgRkFMVEEgQSBBTFBJTkUgUEFSQSBFTCBTw4FCQURPIl0": {
       "account": "f1",
       "title": "COLAPINTO DISFRUTÓ EL MADRING Y MARCÓ QUÉ LE FALTA A ALPINE PARA EL SÁBADO",
@@ -46,7 +53,7 @@
   },
   "nextAt": {
     "f1": "2026-09-11T22:05:00.000Z",
-    "main": "2026-09-11T18:00:00.000Z"
+    "main": "2026-09-11T22:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
