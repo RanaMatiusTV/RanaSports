@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T14:53:43.914Z",
+  "updatedAt": "2026-09-11T15:25:57.399Z",
   "trends": [
+    {
+      "query": "avenida santa fe",
+      "startedAt": "2026-09-11T15:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "astrid de noruega",
+      "startedAt": "2026-09-11T14:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "fernando alonso",
       "startedAt": "2026-09-11T14:30:00.000Z",
@@ -16,7 +26,7 @@
     {
       "query": "caballito",
       "startedAt": "2026-09-11T13:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "sele vera accidente",
@@ -26,17 +36,12 @@
     {
       "query": "sandra bullock",
       "startedAt": "2026-09-11T12:50:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "luciana geuna",
       "startedAt": "2026-09-11T12:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "hoy es el dia de",
-      "startedAt": "2026-09-11T12:40:00.000Z",
-      "volume": 100
+      "volume": 1000
     },
     {
       "query": "clima mendoza",
@@ -46,12 +51,7 @@
     {
       "query": "que dia es hoy",
       "startedAt": "2026-09-11T12:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "encuesta",
-      "startedAt": "2026-09-11T11:40:00.000Z",
-      "volume": 2000
+      "volume": 500
     }
   ]
 }
