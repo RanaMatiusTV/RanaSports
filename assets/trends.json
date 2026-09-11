@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T08:53:50.476Z",
+  "updatedAt": "2026-09-11T09:26:19.037Z",
   "trends": [
+    {
+      "query": "club atlético boca juniors",
+      "startedAt": "2026-09-11T08:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "clima neuquen",
+      "startedAt": "2026-09-11T08:00:00.000Z",
+      "volume": 100
+    },
     {
       "query": "ciclogénesis",
       "startedAt": "2026-09-11T05:20:00.000Z",
@@ -12,6 +22,11 @@
       "query": "creatina",
       "startedAt": "2026-09-11T03:30:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "11 de septiembre",
+      "startedAt": "2026-09-11T03:20:00.000Z",
+      "volume": 1000
     },
     {
       "query": "pronostico cordoba",
@@ -37,21 +52,6 @@
       "query": "polémica",
       "startedAt": "2026-09-11T01:50:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "ludovico di santo",
-      "startedAt": "2026-09-11T01:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "millonarios",
-      "startedAt": "2026-09-11T01:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "cienciano",
-      "startedAt": "2026-09-11T01:20:00.000Z",
-      "volume": 2000
     }
   ]
 }
