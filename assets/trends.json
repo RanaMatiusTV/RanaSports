@@ -1,12 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T00:52:56.938Z",
+  "updatedAt": "2026-09-11T01:24:49.327Z",
   "trends": [
+    {
+      "query": "jamie carragher",
+      "startedAt": "2026-09-11T01:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "cienciano vs",
+      "startedAt": "2026-09-11T01:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "rams - 49ers",
+      "startedAt": "2026-09-11T01:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "rybakina",
+      "startedAt": "2026-09-11T00:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "atlético nacional",
+      "startedAt": "2026-09-11T00:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "fausto vera",
+      "startedAt": "2026-09-11T00:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "millonarios - deportivo cali",
       "startedAt": "2026-09-11T00:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "premio",
@@ -16,42 +46,12 @@
     {
       "query": "crucero del norte",
       "startedAt": "2026-09-10T23:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "tiempo de mañana",
       "startedAt": "2026-09-10T23:40:00.000Z",
       "volume": 200000
-    },
-    {
-      "query": "guillermo moreno",
-      "startedAt": "2026-09-10T23:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "vélez",
-      "startedAt": "2026-09-10T23:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "torres gemelas",
-      "startedAt": "2026-09-10T23:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "sabalenka",
-      "startedAt": "2026-09-10T23:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "roberto mouzo",
-      "startedAt": "2026-09-10T23:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "clima san luis",
-      "startedAt": "2026-09-10T23:00:00.000Z",
-      "volume": 200
     }
   ]
 }
