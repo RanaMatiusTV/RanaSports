@@ -1,12 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T22:49:39.796Z",
+  "updatedAt": "2026-09-11T23:22:37.793Z",
   "trends": [
+    {
+      "query": "selección de fútbol de ecuador",
+      "startedAt": "2026-09-11T23:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clima buenos aires",
+      "startedAt": "2026-09-11T22:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "cotización dólar blue",
+      "startedAt": "2026-09-11T22:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "clima caba",
+      "startedAt": "2026-09-11T22:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "pampita",
+      "startedAt": "2026-09-11T22:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "película",
       "startedAt": "2026-09-11T22:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "cande vetrano",
@@ -24,34 +49,9 @@
       "volume": 100
     },
     {
-      "query": "liga argentina",
-      "startedAt": "2026-09-11T22:00:00.000Z",
+      "query": "a qué hora juega boca",
+      "startedAt": "2026-09-11T22:10:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "mette-marit de noruega",
-      "startedAt": "2026-09-11T21:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "francisco paoltroni",
-      "startedAt": "2026-09-11T21:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "minería",
-      "startedAt": "2026-09-11T21:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "natalia pastorutti",
-      "startedAt": "2026-09-11T21:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "defensa y justicia - gimnasia y esgrima",
-      "startedAt": "2026-09-11T21:20:00.000Z",
-      "volume": 10000
     }
   ]
 }
