@@ -17,7 +17,9 @@ function layoutNews() {
  const now=Date.now();
  const editorial=card=>{
   const title=normalize(card.querySelector('h3')?.textContent||'');
-  const impact=/\b(final|campeon|campeona|titulo|clasifica|clasifico|eliminado|eliminada|record|retiro)\b/.test(title)?3:0;
+  let impact=/\b(final|campeon|campeona|titulo|clasifica|clasifico|eliminado|eliminada|record|retiro)\b/.test(title)?3:0;
+  if(/\b(accidente|choque|golpe|incendio|incendio|llamas|volco|vuelco|explosion|hospitalizado|hospitalizada|lesion grave)\b/.test(title))impact+=4;
+  if(/\b(murio|fallecio|muerte|grave|ileso|ilesa)\b/.test(title))impact+=1;
   return impact+(['independiente','seleccion','f1'].includes(card.dataset.sport)?1:0);
  };
  const featured=active==='todas'&&!search?.value.trim()?visible.filter(card=>publishedAt(card)<=now&&now-publishedAt(card)<=86400000).map(card=>({card,score:Math.max(0,Number(card.dataset.trendScore)||window.ranaTrendScore?.(card)||0),editorial:editorial(card)})).sort((a,b)=>b.score-a.score||b.editorial-a.editorial||publishedAt(b.card)-publishedAt(a.card)).slice(0,3).map(item=>item.card):[];
