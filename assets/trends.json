@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T16:26:56.904Z",
+  "updatedAt": "2026-09-11T16:51:27.173Z",
   "trends": [
     {
       "query": "al-faisaly - al ittihad",
@@ -16,7 +16,7 @@
     {
       "query": "bandera",
       "startedAt": "2026-09-11T15:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "avenida santa fe",
@@ -36,7 +36,7 @@
     {
       "query": "fundación princesa de asturias",
       "startedAt": "2026-09-11T14:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "caballito",
