@@ -1,17 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T23:22:37.793Z",
+  "updatedAt": "2026-09-11T23:49:36.589Z",
   "trends": [
+    {
+      "query": "islas malvinas",
+      "startedAt": "2026-09-11T23:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "eliana guercio",
+      "startedAt": "2026-09-11T23:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "nelson castro",
+      "startedAt": "2026-09-11T23:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "coritiba - paranaense",
+      "startedAt": "2026-09-11T23:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "dinero",
+      "startedAt": "2026-09-11T23:10:00.000Z",
+      "volume": 200
+    },
     {
       "query": "selección de fútbol de ecuador",
       "startedAt": "2026-09-11T23:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "clima buenos aires",
+      "query": "unitas",
       "startedAt": "2026-09-11T22:50:00.000Z",
-      "volume": 500
+      "volume": 100
     },
     {
       "query": "cotización dólar blue",
@@ -19,39 +44,14 @@
       "volume": 500
     },
     {
+      "query": "clima buenos aires",
+      "startedAt": "2026-09-11T22:50:00.000Z",
+      "volume": 500
+    },
+    {
       "query": "clima caba",
       "startedAt": "2026-09-11T22:40:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "pampita",
-      "startedAt": "2026-09-11T22:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "película",
-      "startedAt": "2026-09-11T22:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "cande vetrano",
-      "startedAt": "2026-09-11T22:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "torneo argentino",
-      "startedAt": "2026-09-11T22:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "zverev hoy",
-      "startedAt": "2026-09-11T22:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "a qué hora juega boca",
-      "startedAt": "2026-09-11T22:10:00.000Z",
-      "volume": 5000
     }
   ]
 }
