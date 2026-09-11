@@ -1,13 +1,8 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T03:52:51.336Z",
+  "updatedAt": "2026-09-11T04:26:52.518Z",
   "trends": [
-    {
-      "query": "tiempo en cordoba",
-      "startedAt": "2026-09-11T03:30:00.000Z",
-      "volume": 1000
-    },
     {
       "query": "creatina",
       "startedAt": "2026-09-11T03:30:00.000Z",
@@ -26,7 +21,7 @@
     {
       "query": "pumas - león",
       "startedAt": "2026-09-11T02:50:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "bolivar",
@@ -52,6 +47,11 @@
       "query": "crimen",
       "startedAt": "2026-09-11T01:20:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "cienciano",
+      "startedAt": "2026-09-11T01:20:00.000Z",
+      "volume": 2000
     }
   ]
 }
