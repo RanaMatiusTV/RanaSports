@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
-  "processed": {},
-  "nextAt": {},
-  "buffer": {}
+  "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE0NjkwMDAwMCwiQ09MQVBJTlRPIEZVRSAxNcKwIEVOIExBIEZQMiBERSBNQURSSUQgWSBBTlRPTkVMTEkgQ0VSUsOTIEVMIFZJRVJORVMgQVJSSUJBIl0": {
+      "account": "f1",
+      "title": "COLAPINTO FUE 15° EN LA FP2 DE MADRID Y ANTONELLI CERRÓ EL VIERNES ARRIBA",
+      "dueAt": "2026-09-11T17:30:00.000Z",
+      "bufferPostId": "6aa439a0a250e699506f975d",
+      "createdAt": "2026-09-11T17:25:53.010Z"
+    }
+  },
+  "nextAt": {
+    "f1": "2026-09-11T17:35:00.000Z"
+  },
+  "buffer": {
+    "organizationId": "6aa4288ba2d30cc3deb9575b",
+    "mainChannelId": "6aa4297acd8b9c702c4e8145",
+    "f1ChannelId": "6aa429fccd8b9c702c4e8494"
+  }
 }
