@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T01:51:57.842Z",
+  "updatedAt": "2026-09-11T02:26:12.993Z",
   "trends": [
+    {
+      "query": "narcolepsia",
+      "startedAt": "2026-09-11T02:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "polémica",
+      "startedAt": "2026-09-11T01:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "millonarios",
+      "startedAt": "2026-09-11T01:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "cienciano",
       "startedAt": "2026-09-11T01:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "crimen",
@@ -16,7 +31,12 @@
     {
       "query": "rams - 49ers",
       "startedAt": "2026-09-11T01:00:00.000Z",
-      "volume": 100
+      "volume": 200
+    },
+    {
+      "query": "rybakina",
+      "startedAt": "2026-09-11T00:50:00.000Z",
+      "volume": 10000
     },
     {
       "query": "atlético nacional",
@@ -29,29 +49,9 @@
       "volume": 100
     },
     {
-      "query": "elena rybakina",
-      "startedAt": "2026-09-11T00:30:00.000Z",
-      "volume": 1000
-    },
-    {
       "query": "millonarios - deportivo cali",
       "startedAt": "2026-09-11T00:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "premio",
-      "startedAt": "2026-09-11T00:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "crucero del norte",
-      "startedAt": "2026-09-10T23:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tiempo de mañana",
-      "startedAt": "2026-09-10T23:40:00.000Z",
-      "volume": 200000
+      "volume": 1000
     }
   ]
 }
