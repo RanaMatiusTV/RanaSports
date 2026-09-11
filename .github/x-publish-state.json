@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE0ODcwMDAwMCwiTk9SUklTIFNFIFBFUkRJw5MgTEEgRlAyIERFIE1BRFJJRCBQT1IgVU4gQ0FNQklPIERFIENBSkEgRU4gRUwgTWNMQVJFTiJd": {
+      "account": "f1",
+      "title": "NORRIS SE PERDIÓ LA FP2 DE MADRID POR UN CAMBIO DE CAJA EN EL McLAREN",
+      "dueAt": "2026-09-11T17:55:00.000Z",
+      "bufferPostId": "6aa4401bc38efd44b076b4fc",
+      "createdAt": "2026-09-11T17:53:31.526Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODkxNDg3MDAwMDAsIldBTFRFUiBTQU1VRUwgREVKQVLDgSBMQSBTRUxFQ0NJw5NOIEEgRklOIERFIEHDkU8gWSBRVUlFUkUgRU1QRVpBUiBTVSBDQVJSRVJBIENPTU8gRFQiXQ": {
+      "account": "main",
+      "title": "WALTER SAMUEL DEJARÁ LA SELECCIÓN A FIN DE AÑO Y QUIERE EMPEZAR SU CARRERA COMO DT",
+      "dueAt": "2026-09-11T17:55:00.000Z",
+      "bufferPostId": "6aa4401a7caf1cf172ba6486",
+      "createdAt": "2026-09-11T17:53:30.681Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE0NjkwMDAwMCwiQ09MQVBJTlRPIEZVRSAxNcKwIEVOIExBIEZQMiBERSBNQURSSUQgWSBBTlRPTkVMTEkgQ0VSUsOTIEVMIFZJRVJORVMgQVJSSUJBIl0": {
       "account": "f1",
       "title": "COLAPINTO FUE 15° EN LA FP2 DE MADRID Y ANTONELLI CERRÓ EL VIERNES ARRIBA",
@@ -10,7 +24,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-11T17:35:00.000Z"
+    "f1": "2026-09-11T18:00:00.000Z",
+    "main": "2026-09-11T18:00:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
