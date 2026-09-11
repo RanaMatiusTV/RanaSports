@@ -1,17 +1,47 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T19:49:44.535Z",
+  "updatedAt": "2026-09-11T20:25:59.544Z",
   "trends": [
+    {
+      "query": "dara khosrowshahi",
+      "startedAt": "2026-09-11T20:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "boca vs central cordoba",
+      "startedAt": "2026-09-11T20:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "serie a",
+      "startedAt": "2026-09-11T19:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "khachanov",
+      "startedAt": "2026-09-11T19:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "columbus crew",
+      "startedAt": "2026-09-11T19:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "gastón edul",
+      "startedAt": "2026-09-11T19:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "alexander zverev",
       "startedAt": "2026-09-11T19:30:00.000Z",
       "volume": 1000
     },
     {
-      "query": "mastantuono",
-      "startedAt": "2026-09-11T19:30:00.000Z",
-      "volume": 200
+      "query": "colombia",
+      "startedAt": "2026-09-11T19:20:00.000Z",
+      "volume": 500
     },
     {
       "query": "ocupación británica de las islas malvinas",
@@ -21,37 +51,7 @@
     {
       "query": "newell's - vélez",
       "startedAt": "2026-09-11T19:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "el niño",
-      "startedAt": "2026-09-11T19:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "fiorentina vs",
-      "startedAt": "2026-09-11T19:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sevilla",
-      "startedAt": "2026-09-11T19:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "union berlin",
-      "startedAt": "2026-09-11T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "unión cuba petróleo",
-      "startedAt": "2026-09-11T18:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "west ham - wrexham",
-      "startedAt": "2026-09-11T18:20:00.000Z",
-      "volume": 1000
+      "volume": 20000
     }
   ]
 }
