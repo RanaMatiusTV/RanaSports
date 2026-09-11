@@ -1,17 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T11:50:51.084Z",
+  "updatedAt": "2026-09-11T12:31:25.419Z",
   "trends": [
+    {
+      "query": "que dia es hoy",
+      "startedAt": "2026-09-11T12:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "encuesta",
+      "startedAt": "2026-09-11T11:40:00.000Z",
+      "volume": 500
+    },
     {
       "query": "disney",
       "startedAt": "2026-09-11T11:30:00.000Z",
-      "volume": 500
+      "volume": 1000
+    },
+    {
+      "query": "dia del docente",
+      "startedAt": "2026-09-11T11:30:00.000Z",
+      "volume": 100
     },
     {
       "query": "aumento jubilados",
       "startedAt": "2026-09-11T11:20:00.000Z",
       "volume": 5000
+    },
+    {
+      "query": "madring",
+      "startedAt": "2026-09-11T11:10:00.000Z",
+      "volume": 2000
     },
     {
       "query": "inteligencia artificial",
@@ -21,37 +41,17 @@
     {
       "query": "entre ríos",
       "startedAt": "2026-09-11T10:30:00.000Z",
-      "volume": 200
+      "volume": 500
+    },
+    {
+      "query": "dia del maestro argentina",
+      "startedAt": "2026-09-11T10:10:00.000Z",
+      "volume": 2000
     },
     {
       "query": "poceada chaqueña",
       "startedAt": "2026-09-11T10:10:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "horarios f1",
-      "startedAt": "2026-09-11T09:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "clima",
-      "startedAt": "2026-09-11T09:40:00.000Z",
-      "volume": 200000
-    },
-    {
-      "query": "pronóstico del tiempo",
-      "startedAt": "2026-09-11T09:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "clima corrientes",
-      "startedAt": "2026-09-11T09:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "club atlético boca juniors",
-      "startedAt": "2026-09-11T08:50:00.000Z",
-      "volume": 500
     }
   ]
 }
