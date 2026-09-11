@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T10:26:43.235Z",
+  "updatedAt": "2026-09-11T10:52:09.892Z",
   "trends": [
+    {
+      "query": "entre ríos",
+      "startedAt": "2026-09-11T10:30:00.000Z",
+      "volume": 100
+    },
     {
       "query": "poceada chaqueña",
       "startedAt": "2026-09-11T10:10:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "horarios f1",
       "startedAt": "2026-09-11T09:50:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "clima",
@@ -44,14 +49,9 @@
       "volume": 500
     },
     {
-      "query": "creatina",
+      "query": "tiempo en cordoba",
       "startedAt": "2026-09-11T03:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "pumas - león",
-      "startedAt": "2026-09-11T02:50:00.000Z",
-      "volume": 500
+      "volume": 1000
     }
   ]
 }
