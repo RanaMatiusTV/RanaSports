@@ -1,11 +1,21 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T09:49:54.994Z",
+  "updatedAt": "2026-09-12T10:23:53.272Z",
   "trends": [
+    {
+      "query": "clima hoy",
+      "startedAt": "2026-09-12T09:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "película enfrentados marfil",
       "startedAt": "2026-09-12T09:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "periodista",
+      "startedAt": "2026-09-12T09:00:00.000Z",
       "volume": 100
     },
     {
@@ -42,16 +52,6 @@
       "query": "valeria mazza",
       "startedAt": "2026-09-12T02:30:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "matías satas",
-      "startedAt": "2026-09-12T01:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "bacidalupe",
-      "startedAt": "2026-09-12T01:50:00.000Z",
-      "volume": 200
     }
   ]
 }
