@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T05:50:00.057Z",
+  "updatedAt": "2026-09-12T06:29:40.418Z",
   "trends": [
+    {
+      "query": "enfrentados ebano",
+      "startedAt": "2026-09-12T04:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "tijuana - querétaro",
       "startedAt": "2026-09-12T04:00:00.000Z",
@@ -12,11 +17,6 @@
       "query": "atlante - pachuca",
       "startedAt": "2026-09-12T03:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "lady gaga mama",
-      "startedAt": "2026-09-12T03:20:00.000Z",
-      "volume": 500
     },
     {
       "query": "inter de miami",
