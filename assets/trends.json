@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T09:24:17.954Z",
+  "updatedAt": "2026-09-12T09:49:54.994Z",
   "trends": [
+    {
+      "query": "película enfrentados marfil",
+      "startedAt": "2026-09-12T09:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "bet365",
       "startedAt": "2026-09-12T07:40:00.000Z",
@@ -11,16 +16,11 @@
     {
       "query": "patricia bullrich",
       "startedAt": "2026-09-12T07:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "clima tucuman",
       "startedAt": "2026-09-12T06:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "enfrentados ebano",
-      "startedAt": "2026-09-12T04:20:00.000Z",
       "volume": 100
     },
     {
