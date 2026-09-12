@@ -33,16 +33,49 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Route F1 F2 and F3 to RanaF1TV
+      - name: Apply RanaSports X routing and format
         run: |
           node - <<'NODE'
           const fs = require('node:fs');
           const path = 'scripts/publish-x.cjs';
           let src = fs.readFileSync(path, 'utf8');
-          const oldLine = "const isF1 = c === 'f1' || /\\bformula 1\\b|\\bf1\\b/.test(normalize(item.sport));";
-          const newLine = "const isF1 = ['f1', 'f2', 'f3'].includes(c) || /\\bformula [123]\\b|\\bf[123]\\b/.test(corpus);";
-          if (!src.includes(oldLine)) throw new Error('No se encontró la regla de routing esperada');
-          src = src.replace(oldLine, newLine);
+
+          const oldRouting = "const isF1 = c === 'f1' || /\\bformula 1\\b|\\bf1\\b/.test(normalize(item.sport));";
+          const newRouting = "const isF1 = ['f1', 'f2', 'f3'].includes(c) || /\\bformula [123]\\b|\\bf[123]\\b/.test(corpus);";
+          if (src.includes(oldRouting)) src = src.replace(oldRouting, newRouting);
+          else if (!src.includes(newRouting)) throw new Error('No se encontró la regla de routing esperada');
+
+          const oldPost = [
+            "function postText(item, account, url) {",
+            "  const emoji = emojiFor(item, account);",
+            "  let title = item.title.trim();",
+            "  if (title.length > 190) title = title.slice(0, 187).trimEnd() + '…';",
+            "  return `${emoji} ${title}\\n\\n${url}`;",
+            "}"
+          ].join('\n');
+
+          const newPost = [
+            "function linkEmojiFor(item, account) {",
+            "  const corpus = normalize(`${item.sport} ${item.title} ${item.summary}`);",
+            "  if (item.category === 'independiente') return '🔴';",
+            "  if (item.category === 'seleccion') return '🇦🇷';",
+            "  if (/\\bcolapinto\\b|\\bvarrone\\b|\\bcolnaghi\\b|\\bfenestraz\\b|\\bargentin[oa]s?\\b/.test(corpus)) return '🇦🇷';",
+            "  if (account === 'f1') return '🏁';",
+            "  return '⚽';",
+            "}",
+            "",
+            "function postText(item, account, url) {",
+            "  const emoji = emojiFor(item, account);",
+            "  const linkEmoji = linkEmojiFor(item, account);",
+            "  let title = item.title.trim();",
+            "  if (title.length > 190) title = title.slice(0, 187).trimEnd() + '…';",
+            "  return `${emoji} ${title}\\n\\n🔗${linkEmoji} ${url}`;",
+            "}"
+          ].join('\n');
+
+          if (src.includes(oldPost)) src = src.replace(oldPost, newPost);
+          else if (!src.includes('🔗${linkEmoji} ${url}')) throw new Error('No se encontró el formato de post esperado');
+
           fs.writeFileSync(path, src);
           NODE
 
@@ -51,6 +84,7 @@ jobs:
 
       - name: Save publishing state
         run: |
+          git checkout -- scripts/publish-x.cjs
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add .github/x-publish-state.json
