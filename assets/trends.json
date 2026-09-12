@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T19:49:32.978Z",
+  "updatedAt": "2026-09-12T20:25:34.159Z",
   "trends": [
     {
-      "query": "al nassr",
-      "startedAt": "2026-09-12T19:30:00.000Z",
+      "query": "sabalenka",
+      "startedAt": "2026-09-12T20:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "parrilla de salida",
-      "startedAt": "2026-09-12T19:30:00.000Z",
-      "volume": 200
+      "query": "granizo",
+      "startedAt": "2026-09-12T20:00:00.000Z",
+      "volume": 500
     },
     {
-      "query": "diablo 5",
-      "startedAt": "2026-09-12T19:30:00.000Z",
+      "query": "ryan garcia",
+      "startedAt": "2026-09-12T20:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "a qué hora juega river",
-      "startedAt": "2026-09-12T19:20:00.000Z",
-      "volume": 2000
+      "query": "pago",
+      "startedAt": "2026-09-12T19:50:00.000Z",
+      "volume": 500
     },
     {
-      "query": "arsenal",
-      "startedAt": "2026-09-12T19:20:00.000Z",
-      "volume": 5000
+      "query": "keely shaye smith",
+      "startedAt": "2026-09-12T19:40:00.000Z",
+      "volume": 500
     },
     {
-      "query": "wow forever",
-      "startedAt": "2026-09-12T19:20:00.000Z",
+      "query": "chapecoense - internacional",
+      "startedAt": "2026-09-12T19:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "fórmula 1",
-      "startedAt": "2026-09-12T19:10:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "pierce brosnan",
-      "startedAt": "2026-09-12T19:10:00.000Z",
+      "query": "rocío robles",
+      "startedAt": "2026-09-12T19:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "atalanta",
-      "startedAt": "2026-09-12T19:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "paris fc - lyon",
-      "startedAt": "2026-09-12T19:00:00.000Z",
+      "query": "climatización",
+      "startedAt": "2026-09-12T19:40:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "campeonato de fórmula 3 de la fia",
+      "startedAt": "2026-09-12T19:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "paris fc",
+      "startedAt": "2026-09-12T19:40:00.000Z",
+      "volume": 200
     }
   ]
 }
