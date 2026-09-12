@@ -6,7 +6,7 @@
  const script=document.querySelector('script[src*="assets/news-feed.js"]');
  const siteBase=new URL('../',script?.src||location.href);
  const CSV_URL='https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv';
- const CACHE_KEY='ranasports-news-csv-v13:'+siteBase.pathname;
+ const CACHE_KEY='ranasports-news-csv-v14:'+siteBase.pathname;
  const status=document.querySelector('#newsStatus');
  const categories={independiente:'Independiente',futbol:'Fútbol',f1:'F1',seleccion:'Selección Argentina',agenda:'Agenda'};
  const normalize=v=>(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase();
@@ -44,6 +44,9 @@
  function isInstagramPost(url){
   try{const u=new URL(url);return /(^|\.)instagram\.com$/.test(u.hostname)&&/^\/(p|reel|reels)\//.test(u.pathname);}catch{return false;}
  }
+ function xPostId(url){
+  try{const u=new URL(url);const parts=u.pathname.split('/').filter(Boolean);const si=parts.indexOf('status');const id=parts[si+1];return /^\d+$/.test(id||'')?id:'';}catch{return '';}
+ }
  function xPostToDirectImage(url){
   try{
    const u=new URL(url);const parts=u.pathname.split('/').filter(Boolean);const si=parts.indexOf('status');
@@ -70,7 +73,8 @@
    return /^[A-Za-z0-9_-]{6,}$/.test(id)?'https://www.youtube-nocookie.com/embed/'+id:'';
   }catch{return '';}
  }
- function element(tag,className,text){const n=document.createElement(tag);if(className)n.className=className;if(text!==undefined&&text!==null)n.textContent=text;return n;}
+ function element(tag,className,text){const n=elementNode(tag);if(className)n.className=className;if(text!==undefined&&text!==null)n.textContent=text;return n;}
+ function elementNode(tag){return document.createElement(tag);}
  function link(url,text,className){const n=element('a',className,text);n.href=url;if(new URL(url,location.href).origin!==location.origin){n.target='_blank';n.rel='noopener noreferrer';}return n;}
  function articleURL(item){
   const identity=JSON.stringify([item.category,item.date,item.title]);const bytes=new TextEncoder().encode(identity);
@@ -78,20 +82,30 @@
   const u=new URL('noticia.html',siteBase);u.searchParams.set('n',id);return u.href;
  }
  function renderVideo(container,url){
-  const embed=youtubeEmbedURL(url);if(!embed)return false;
+  const embed=youtubeEmbedURL(url);if(!embed||container.querySelector('.video-embed,.x-embed'))return false;
   const wrap=element('div','video-embed'),frame=element('iframe');frame.src=embed;frame.title='Video de la noticia';frame.loading='lazy';frame.allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';frame.allowFullscreen=true;wrap.append(frame);container.append(wrap);return true;
  }
- function loadXWidgets(target){
-  if(window.twttr?.widgets?.load){window.twttr.widgets.load(target);return;}
+ function withXWidgets(callback){
+  if(window.twttr?.widgets?.createTweet){callback();return;}
   let s=document.querySelector('script[data-ranasports-x-widgets]');
   if(!s){s=document.createElement('script');s.src='https://platform.twitter.com/widgets.js';s.async=true;s.charset='utf-8';s.dataset.ranasportsXWidgets='1';document.body.append(s);}
-  s.addEventListener('load',()=>window.twttr?.widgets?.load(target),{once:true});
+  const ready=()=>{if(window.twttr?.widgets?.createTweet)callback();};
+  s.addEventListener('load',ready,{once:true});
  }
  function renderXPost(container,url){
-  if(!isXPost(url))return false;
-  const wrap=element('div','x-embed'),quote=element('blockquote','twitter-tweet');quote.setAttribute('data-theme','dark');quote.setAttribute('data-dnt','true');quote.append(link(url,'Ver publicación en X'));wrap.append(quote);container.append(wrap);loadXWidgets(wrap);return true;
+  if(!isXPost(url)||container.querySelector('.video-embed,.x-embed'))return false;
+  const id=xPostId(url);if(!id)return false;
+  const wrap=element('div','x-embed');wrap.dataset.tweetId=id;container.append(wrap);
+  let started=false;
+  withXWidgets(()=>{
+   if(started||!wrap.isConnected||wrap.dataset.rendered==='1')return;
+   started=true;wrap.dataset.rendered='1';wrap.replaceChildren();
+   window.twttr.widgets.createTweet(id,wrap,{theme:'dark',dnt:true,align:'center'}).catch(()=>{wrap.replaceChildren(link(url,'Ver publicación en X'));});
+  });
+  return true;
  }
  function renderEmbed(container,url){
+  if(container.querySelector('.video-embed,.x-embed'))return false;
   if(youtubeEmbedURL(url))return renderVideo(container,url);
   if(isXPost(url))return renderXPost(container,url);
   return false;
