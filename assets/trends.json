@@ -1,11 +1,16 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T08:51:15.446Z",
+  "updatedAt": "2026-09-12T09:24:17.954Z",
   "trends": [
     {
       "query": "bet365",
       "startedAt": "2026-09-12T07:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "patricia bullrich",
+      "startedAt": "2026-09-12T07:20:00.000Z",
       "volume": 100
     },
     {
@@ -37,11 +42,6 @@
       "query": "valeria mazza",
       "startedAt": "2026-09-12T02:30:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "tabla anual 2026",
-      "startedAt": "2026-09-12T02:00:00.000Z",
-      "volume": 500
     },
     {
       "query": "matías satas",
