@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T11:49:56.941Z",
+  "updatedAt": "2026-09-12T12:28:47.195Z",
   "trends": [
+    {
+      "query": "racing de santander - alavés",
+      "startedAt": "2026-09-12T12:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "sydney sweeney",
+      "startedAt": "2026-09-12T12:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "gonzalo valenzuela",
+      "startedAt": "2026-09-12T11:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "donald trump",
+      "startedAt": "2026-09-12T11:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "bichos de campo",
+      "startedAt": "2026-09-12T11:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "emanuel mammana",
       "startedAt": "2026-09-12T11:20:00.000Z",
@@ -11,7 +36,7 @@
     {
       "query": "nicole neumann",
       "startedAt": "2026-09-12T10:40:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "perfil",
@@ -27,31 +52,6 @@
       "query": "clima la plata",
       "startedAt": "2026-09-12T10:40:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "actuación",
-      "startedAt": "2026-09-12T10:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "f1 horarios",
-      "startedAt": "2026-09-12T10:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "tiempo hoy",
-      "startedAt": "2026-09-12T09:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "clima hoy",
-      "startedAt": "2026-09-12T09:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "película enfrentados marfil",
-      "startedAt": "2026-09-12T09:20:00.000Z",
-      "volume": 200
     }
   ]
 }
