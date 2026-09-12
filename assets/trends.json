@@ -1,22 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T10:23:53.272Z",
+  "updatedAt": "2026-09-12T10:49:44.107Z",
   "trends": [
     {
-      "query": "clima hoy",
+      "query": "actuación",
+      "startedAt": "2026-09-12T10:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tiempo hoy",
       "startedAt": "2026-09-12T09:40:00.000Z",
       "volume": 1000
     },
     {
+      "query": "clima hoy",
+      "startedAt": "2026-09-12T09:40:00.000Z",
+      "volume": 500
+    },
+    {
       "query": "película enfrentados marfil",
       "startedAt": "2026-09-12T09:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "periodista",
       "startedAt": "2026-09-12T09:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "bet365",
@@ -26,7 +36,7 @@
     {
       "query": "patricia bullrich",
       "startedAt": "2026-09-12T07:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "clima tucuman",
@@ -42,16 +52,6 @@
       "query": "atlante - pachuca",
       "startedAt": "2026-09-12T03:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "inter de miami",
-      "startedAt": "2026-09-12T03:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "valeria mazza",
-      "startedAt": "2026-09-12T02:30:00.000Z",
-      "volume": 1000
     }
   ]
 }
