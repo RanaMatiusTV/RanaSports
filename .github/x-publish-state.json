@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJlc3R1ZGlhbnRlcyIsMTc4OTI0MzIwMDAwMCwiQ0FSUklMTE8gQVBBUkVDScOTIFNPQlJFIExBIEhPUkEgWSBFU1RVRElBTlRFUyBMRSBHQU7DkyAyLTEgQSBQTEFURU5TRSJd": {
+      "account": "main",
+      "title": "CARRILLO APARECIÓ SOBRE LA HORA Y ESTUDIANTES LE GANÓ 2-1 A PLATENSE",
+      "dueAt": "2026-09-12T22:00:00.000Z",
+      "bufferPostId": "6aa5cadfbcabda92e19e3690",
+      "createdAt": "2026-09-12T21:57:51.732Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJwb2xpZGVwb3J0aXZvIiwxNzg5MjQ2ODAwMDAwLCJTQU5UQSBGRSAyMDI2IEFCUknDkyBTVVMgSlVFR09TIENPTiBVTkEgQ0VSRU1PTklBIE1PTlVNRU5UQUwgRU4gUk9TQVJJTyJd": {
       "account": "main",
       "title": "SANTA FE 2026 ABRIÓ SUS JUEGOS CON UNA CEREMONIA MONUMENTAL EN ROSARIO",
@@ -214,7 +221,7 @@
   },
   "nextAt": {
     "f1": "2026-09-12T20:25:00.000Z",
-    "main": "2026-09-12T21:25:00.000Z"
+    "main": "2026-09-12T22:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
