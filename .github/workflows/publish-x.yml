@@ -33,6 +33,19 @@ jobs:
         with:
           node-version: '22'
 
+      - name: Route F2 and F3 to RanaF1TV
+        run: |
+          node - <<'NODE'
+          const fs = require('node:fs');
+          const path = 'scripts/publish-x.cjs';
+          let src = fs.readFileSync(path, 'utf8');
+          const oldLine = "const isF1 = c === 'f1' || /\\bformula 1\\b|\\bf1\\b/.test(normalize(item.sport));";
+          const newLine = "const isF1 = ['f1', 'f2', 'f3'].includes(c) || /\\bformula [123]\\b|\\bf[123]\\b/.test(normalize(item.sport));";
+          if (!src.includes(oldLine)) throw new Error('No se encontró la regla de routing esperada');
+          src = src.replace(oldLine, newLine);
+          fs.writeFileSync(path, src);
+          NODE
+
       - name: Build and schedule X posts
         run: node scripts/publish-x.cjs
 
