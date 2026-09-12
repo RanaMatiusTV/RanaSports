@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T06:53:07.779Z",
+  "updatedAt": "2026-09-12T07:23:03.437Z",
   "trends": [
     {
       "query": "clima tucuman",
@@ -19,6 +19,11 @@
       "volume": 100
     },
     {
+      "query": "posiciones de independiente santa fe contra deportes tolima",
+      "startedAt": "2026-09-12T03:40:00.000Z",
+      "volume": 5000
+    },
+    {
       "query": "atlante - pachuca",
       "startedAt": "2026-09-12T03:30:00.000Z",
       "volume": 200
@@ -27,11 +32,6 @@
       "query": "inter de miami",
       "startedAt": "2026-09-12T03:00:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "gp de españa 2026",
-      "startedAt": "2026-09-12T02:50:00.000Z",
-      "volume": 100
     },
     {
       "query": "valeria mazza",
