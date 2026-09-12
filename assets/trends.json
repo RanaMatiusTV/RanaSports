@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T22:23:44.780Z",
+  "updatedAt": "2026-09-12T22:51:00.315Z",
   "trends": [
     {
-      "query": "como va river",
-      "startedAt": "2026-09-12T21:30:00.000Z",
+      "query": "inter miami - nashville sc",
+      "startedAt": "2026-09-12T22:30:00.000Z",
       "volume": 500
     },
     {
-      "query": "miniserie",
-      "startedAt": "2026-09-12T21:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "juliana awada",
-      "startedAt": "2026-09-12T21:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "san martin de san juan",
-      "startedAt": "2026-09-12T21:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "vicentin",
-      "startedAt": "2026-09-12T21:00:00.000Z",
+      "query": "tabla de posiciones",
+      "startedAt": "2026-09-12T22:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "falcioni",
-      "startedAt": "2026-09-12T20:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "palmeiras - são paulo",
-      "startedAt": "2026-09-12T20:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "franco nicola",
-      "startedAt": "2026-09-12T20:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "sudáfrica - nueva zelanda",
-      "startedAt": "2026-09-12T20:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "sabalenka hoy",
-      "startedAt": "2026-09-12T20:40:00.000Z",
+      "query": "torneo argentino",
+      "startedAt": "2026-09-12T22:30:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "final us open",
+      "startedAt": "2026-09-12T22:30:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "fondo monetario internacional",
+      "startedAt": "2026-09-12T22:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "ruta nacional 11",
+      "startedAt": "2026-09-12T22:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "ryan garcia vs conor benn",
+      "startedAt": "2026-09-12T22:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "alexa grasso",
+      "startedAt": "2026-09-12T22:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tabla anual",
+      "startedAt": "2026-09-12T22:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "tabla anual 2026",
+      "startedAt": "2026-09-12T22:20:00.000Z",
+      "volume": 500
     }
   ]
 }
