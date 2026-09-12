@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T10:49:44.107Z",
+  "updatedAt": "2026-09-12T11:22:59.985Z",
   "trends": [
+    {
+      "query": "pronostico del tiempo",
+      "startedAt": "2026-09-12T11:00:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "perfil",
+      "startedAt": "2026-09-12T10:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "nicole neumann",
+      "startedAt": "2026-09-12T10:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clima de hoy",
+      "startedAt": "2026-09-12T10:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clima la plata",
+      "startedAt": "2026-09-12T10:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "actuación",
       "startedAt": "2026-09-12T10:30:00.000Z",
@@ -10,11 +35,6 @@
     },
     {
       "query": "tiempo hoy",
-      "startedAt": "2026-09-12T09:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "clima hoy",
       "startedAt": "2026-09-12T09:40:00.000Z",
       "volume": 500
     },
@@ -32,26 +52,6 @@
       "query": "bet365",
       "startedAt": "2026-09-12T07:40:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "patricia bullrich",
-      "startedAt": "2026-09-12T07:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "clima tucuman",
-      "startedAt": "2026-09-12T06:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "tijuana - querétaro",
-      "startedAt": "2026-09-12T04:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "atlante - pachuca",
-      "startedAt": "2026-09-12T03:30:00.000Z",
-      "volume": 200
     }
   ]
 }
