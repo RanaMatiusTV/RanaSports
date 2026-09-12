@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T13:49:42.879Z",
+  "updatedAt": "2026-09-12T14:24:42.323Z",
   "trends": [
+    {
+      "query": "osasuna - rcd espanyol",
+      "startedAt": "2026-09-12T14:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "genoa - frosinone",
+      "startedAt": "2026-09-12T13:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "bournemouth - brentford",
+      "startedAt": "2026-09-12T13:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "hoffenheim - stuttgart",
+      "startedAt": "2026-09-12T13:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "empresa",
+      "startedAt": "2026-09-12T13:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "crystal palace - ipswich",
       "startedAt": "2026-09-12T13:30:00.000Z",
@@ -26,32 +51,7 @@
     {
       "query": "liverpool - fulham",
       "startedAt": "2026-09-12T13:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "aston villa - nottingham forest",
-      "startedAt": "2026-09-12T13:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "estafa",
-      "startedAt": "2026-09-12T13:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "chelsea - hull city",
-      "startedAt": "2026-09-12T13:00:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "12 de septiembre",
-      "startedAt": "2026-09-12T12:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "hacker",
-      "startedAt": "2026-09-12T12:50:00.000Z",
-      "volume": 100
     }
   ]
 }
