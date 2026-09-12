@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T20:53:15.758Z",
+  "updatedAt": "2026-09-12T21:24:34.417Z",
   "trends": [
     {
-      "query": "brown de adrogue",
-      "startedAt": "2026-09-12T20:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "atlético tucumán - river plate",
-      "startedAt": "2026-09-12T20:20:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "rybakina",
-      "startedAt": "2026-09-12T20:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "selección de fútbol de inglaterra",
-      "startedAt": "2026-09-12T20:20:00.000Z",
+      "query": "miniserie",
+      "startedAt": "2026-09-12T21:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "elena rybakina",
-      "startedAt": "2026-09-12T20:10:00.000Z",
+      "query": "juliana awada",
+      "startedAt": "2026-09-12T21:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "vicentin",
+      "startedAt": "2026-09-12T21:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "san martin de san juan",
+      "startedAt": "2026-09-12T21:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "falcioni",
+      "startedAt": "2026-09-12T20:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "arsenal fc",
-      "startedAt": "2026-09-12T20:10:00.000Z",
+      "query": "franco nicola",
+      "startedAt": "2026-09-12T20:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "palmeiras - são paulo",
+      "startedAt": "2026-09-12T20:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "sudáfrica - nueva zelanda",
+      "startedAt": "2026-09-12T20:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "pelota",
+      "startedAt": "2026-09-12T20:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "sabalenka hoy",
+      "startedAt": "2026-09-12T20:40:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "sabalenka",
-      "startedAt": "2026-09-12T20:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "granizo",
-      "startedAt": "2026-09-12T20:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "ryan garcia",
-      "startedAt": "2026-09-12T20:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "pago",
-      "startedAt": "2026-09-12T19:50:00.000Z",
-      "volume": 500
     }
   ]
 }
