@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T14:50:00.671Z",
+  "updatedAt": "2026-09-12T15:23:34.678Z",
   "trends": [
+    {
+      "query": "hull city",
+      "startedAt": "2026-09-12T15:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "genoa",
+      "startedAt": "2026-09-12T14:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "ruta nacional 237",
+      "startedAt": "2026-09-12T14:30:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "liverpool fc",
       "startedAt": "2026-09-12T14:30:00.000Z",
@@ -19,14 +34,9 @@
       "volume": 500
     },
     {
-      "query": "genoa - frosinone",
-      "startedAt": "2026-09-12T13:50:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "bournemouth - brentford",
       "startedAt": "2026-09-12T13:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "hoffenheim - stuttgart",
@@ -36,22 +46,12 @@
     {
       "query": "empresa",
       "startedAt": "2026-09-12T13:40:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "crystal palace - ipswich",
       "startedAt": "2026-09-12T13:30:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "juegos suramericanos 2026",
-      "startedAt": "2026-09-12T13:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "millonario",
-      "startedAt": "2026-09-12T13:30:00.000Z",
-      "volume": 100
     }
   ]
 }
