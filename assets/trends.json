@@ -1,22 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T11:22:59.985Z",
+  "updatedAt": "2026-09-12T11:49:56.941Z",
   "trends": [
     {
-      "query": "pronostico del tiempo",
-      "startedAt": "2026-09-12T11:00:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "perfil",
-      "startedAt": "2026-09-12T10:40:00.000Z",
-      "volume": 1000
+      "query": "emanuel mammana",
+      "startedAt": "2026-09-12T11:20:00.000Z",
+      "volume": 10000
     },
     {
       "query": "nicole neumann",
       "startedAt": "2026-09-12T10:40:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "perfil",
+      "startedAt": "2026-09-12T10:40:00.000Z",
+      "volume": 200
     },
     {
       "query": "clima de hoy",
@@ -34,7 +34,17 @@
       "volume": 100
     },
     {
+      "query": "f1 horarios",
+      "startedAt": "2026-09-12T10:20:00.000Z",
+      "volume": 5000
+    },
+    {
       "query": "tiempo hoy",
+      "startedAt": "2026-09-12T09:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "clima hoy",
       "startedAt": "2026-09-12T09:40:00.000Z",
       "volume": 500
     },
@@ -42,16 +52,6 @@
       "query": "película enfrentados marfil",
       "startedAt": "2026-09-12T09:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "periodista",
-      "startedAt": "2026-09-12T09:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "bet365",
-      "startedAt": "2026-09-12T07:40:00.000Z",
-      "volume": 100
     }
   ]
 }
