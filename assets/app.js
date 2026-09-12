@@ -32,7 +32,6 @@ function layoutNews() {
  moreTitle.hidden=false;moreTitle.textContent='ÚLTIMAS NOTICIAS';
  newsGrid.append(...featured,liveModule,standingsModule,moreTitle,...latest,...cards.filter(card=>card.hidden));
 }
-// Las tarjetas siguen siendo HTML estático, indexable y legible sin JavaScript.
 const publishedAt = card => Date.parse(card.querySelector('time')?.dateTime || '') || 0;
 cards.sort((a, b) => publishedAt(b) - publishedAt(a));
 const newsGrid = document.querySelector('#newsGrid');
@@ -112,7 +111,6 @@ if ('serviceWorker' in navigator) {
  if(script) window.addEventListener('load',()=>navigator.serviceWorker.register(new URL('../sw.js',script.src)).catch(error=>console.warn('No se pudo activar el modo sin conexión.',error)));
 }
 
-// En futuras notas, data-category="f1" habilita únicamente el canal especializado.
 if (document.body.dataset.category === 'f1' && !document.querySelector('[data-f1-channel]')) {
  const article = document.querySelector('.article-body');
  if (article) {
@@ -129,27 +127,23 @@ if (document.body.dataset.category === 'f1' && !document.querySelector('[data-f1
  }
 }
 
-// Resultados en vivo: widget oficial de Sofascore. Se mantiene separado de las noticias.
+// Resultados en vivo: fallback seguro mientras se conectan widgets oficiales por torneo/partido.
 if (liveModule) {
- liveModule.dataset.sourceStatus = 'connected';
+ liveModule.dataset.sourceStatus = 'external-live';
  liveModule.innerHTML = `
   <div class="module-heading">
    <h2 id="liveTitle"><span class="live-dot"></span> EN VIVO AHORA</h2>
-   <span class="module-status">SOFASCORE · EN VIVO</span>
+   <span class="module-status">SOFASCORE</span>
   </div>
   <div class="module-topics"><span>RESULTADOS EN VIVO</span><span>FÚTBOL</span></div>
-  <div style="background:#fff;min-height:430px;overflow:hidden">
-   <iframe
-    title="Resultados de fútbol en vivo por Sofascore"
-    src="https://widgets.sofascore.com/en/football/matches/live"
-    loading="lazy"
-    referrerpolicy="strict-origin-when-cross-origin"
-    style="display:block;width:100%;height:560px;border:0;background:#fff"
-    scrolling="yes">
-   </iframe>
+  <div class="live-empty" style="padding:24px 18px">
+   <span class="score-symbol" aria-hidden="true">⚽</span>
+   <h3>Resultados y partidos en vivo</h3>
+   <p>El widget genérico anterior no existe en Sofascore. Para evitar mostrar un 404, el acceso queda temporalmente en modo directo mientras integramos widgets oficiales específicos por torneo y partido.</p>
+   <a class="primary-btn" href="https://www.sofascore.com/es-la/" target="_blank" rel="noopener noreferrer">VER RESULTADOS EN VIVO ↗</a>
   </div>
   <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;padding:10px 12px;border-top:1px solid #29313a;font-size:11px;color:#aeb7c2">
-   <span>Marcadores actualizados automáticamente por Sofascore.</span>
-   <a href="https://www.sofascore.com/football/livescore" target="_blank" rel="noopener noreferrer" style="color:#fff;text-decoration:none;font-weight:800">ABRIR SOFASCORE ↗</a>
+   <span>Datos y marcadores: Sofascore.</span>
+   <a href="https://www.sofascore.com/es-la/football/tournament/argentina/liga-profesional-de-futbol/155" target="_blank" rel="noopener noreferrer" style="color:#fff;text-decoration:none;font-weight:800">FÚTBOL ARGENTINO ↗</a>
   </div>`;
 }
