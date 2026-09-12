@@ -1,12 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T00:31:34.109Z",
+  "updatedAt": "2026-09-12T00:53:40.264Z",
   "trends": [
+    {
+      "query": "flow",
+      "startedAt": "2026-09-12T00:30:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "enner valencia",
+      "startedAt": "2026-09-12T00:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "fútbol para todos",
+      "startedAt": "2026-09-12T00:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "salud",
+      "startedAt": "2026-09-12T00:30:00.000Z",
+      "volume": 200
+    },
     {
       "query": "tarjeta roja futbol",
       "startedAt": "2026-09-12T00:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "coritiba",
@@ -14,14 +34,14 @@
       "volume": 100
     },
     {
-      "query": "ben shelton",
-      "startedAt": "2026-09-11T23:50:00.000Z",
-      "volume": 10000
-    },
-    {
       "query": "tiempo de mañana",
       "startedAt": "2026-09-11T23:40:00.000Z",
       "volume": 100000
+    },
+    {
+      "query": "ruta nacional 22",
+      "startedAt": "2026-09-11T23:40:00.000Z",
+      "volume": 200
     },
     {
       "query": "cinema la plata",
@@ -29,29 +49,9 @@
       "volume": 200
     },
     {
-      "query": "ruta nacional 22",
-      "startedAt": "2026-09-11T23:40:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "boca juniors - central córdoba",
       "startedAt": "2026-09-11T23:30:00.000Z",
-      "volume": 100000
-    },
-    {
-      "query": "eliana guercio",
-      "startedAt": "2026-09-11T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "islas malvinas",
-      "startedAt": "2026-09-11T23:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "coritiba - paranaense",
-      "startedAt": "2026-09-11T23:20:00.000Z",
-      "volume": 200
+      "volume": 200000
     }
   ]
 }
