@@ -128,3 +128,28 @@ if (document.body.dataset.category === 'f1' && !document.querySelector('[data-f1
   article.prepend(paragraph);
  }
 }
+
+// Resultados en vivo: widget oficial de Sofascore. Se mantiene separado de las noticias.
+if (liveModule) {
+ liveModule.dataset.sourceStatus = 'connected';
+ liveModule.innerHTML = `
+  <div class="module-heading">
+   <h2 id="liveTitle"><span class="live-dot"></span> EN VIVO AHORA</h2>
+   <span class="module-status">SOFASCORE · EN VIVO</span>
+  </div>
+  <div class="module-topics"><span>RESULTADOS EN VIVO</span><span>FÚTBOL</span></div>
+  <div style="background:#fff;min-height:430px;overflow:hidden">
+   <iframe
+    title="Resultados de fútbol en vivo por Sofascore"
+    src="https://widgets.sofascore.com/en/football/matches/live"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    style="display:block;width:100%;height:560px;border:0;background:#fff"
+    scrolling="yes">
+   </iframe>
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;padding:10px 12px;border-top:1px solid #29313a;font-size:11px;color:#aeb7c2">
+   <span>Marcadores actualizados automáticamente por Sofascore.</span>
+   <a href="https://www.sofascore.com/football/livescore" target="_blank" rel="noopener noreferrer" style="color:#fff;text-decoration:none;font-weight:800">ABRIR SOFASCORE ↗</a>
+  </div>`;
+}
