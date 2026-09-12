@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T01:23:28.654Z",
+  "updatedAt": "2026-09-12T01:50:51.268Z",
   "trends": [
+    {
+      "query": "tabla anual",
+      "startedAt": "2026-09-12T01:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "boc",
+      "startedAt": "2026-09-12T01:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "lady gaga",
+      "startedAt": "2026-09-12T01:00:00.000Z",
+      "volume": 500
+    },
     {
       "query": "milton giménez",
       "startedAt": "2026-09-12T01:00:00.000Z",
@@ -19,19 +34,14 @@
       "volume": 200
     },
     {
-      "query": "lady gaga",
-      "startedAt": "2026-09-12T01:00:00.000Z",
-      "volume": 100
+      "query": "cómo va boca",
+      "startedAt": "2026-09-12T00:50:00.000Z",
+      "volume": 500
     },
     {
       "query": "futbol para todos",
       "startedAt": "2026-09-12T00:50:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "cómo va boca",
-      "startedAt": "2026-09-12T00:50:00.000Z",
-      "volume": 500
     },
     {
       "query": "ola de calor",
@@ -41,16 +51,6 @@
     {
       "query": "santa fe - tolima",
       "startedAt": "2026-09-12T00:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "gimnasia y tiro de salta - tristán suárez",
-      "startedAt": "2026-09-12T00:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "flow",
-      "startedAt": "2026-09-12T00:30:00.000Z",
       "volume": 2000
     }
   ]
