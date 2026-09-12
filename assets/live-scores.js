@@ -1,11 +1,13 @@
 (() => {
   const module = document.querySelector('#en-vivo');
+  const standings = document.querySelector('#posiciones');
+  if (standings) standings.hidden = true;
   if (!module) return;
 
   const API = 'https://api.sofascore.com/api/v1/sport/football/events/live';
   const REFRESH_MS = 30000;
   const MAX_MATCHES = 18;
-  const escapeHtml = value => String(value ?? '').replace(/[&<>'"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[ch]));
+  const escapeHtml = value => String(value ?? '').replace(/[&<>'\"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[ch]));
   const normalize = value => String(value ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 
   const priority = event => {
@@ -65,14 +67,14 @@
       <div class="module-heading"><h2 id="liveTitle"><span class="live-dot"></span> EN VIVO AHORA</h2><span class="module-status">SOFASCORE · AUTO 30s</span></div>
       <div class="module-topics"><span>PARTIDOS EN JUEGO</span><span>${live.length} EN VIVO</span></div>
       <div class="rs-live-list">${cards || `<div class="rs-live-empty"><strong>No hay partidos de fútbol en juego ahora.</strong><span>El panel se actualiza automáticamente cada 30 segundos.</span></div>`}</div>
-      <div class="rs-live-footer"><span>Marcadores: Sofascore.</span><a href="https://www.sofascore.com/es-la/" target="_blank" rel="noopener noreferrer">VER TODOS ↗</a></div>`;
+      <div class="rs-live-footer"><span>Marcadores: Sofascore.</span><span class="rs-live-links"><a href="posiciones.html">POSICIONES</a><a href="https://www.sofascore.com/es-la/" target="_blank" rel="noopener noreferrer">VER TODOS ↗</a></span></div>`;
   }
 
   function renderError() {
     module.dataset.sourceStatus = 'error';
     module.innerHTML = `
       <div class="module-heading"><h2 id="liveTitle"><span class="live-dot"></span> EN VIVO AHORA</h2><span class="module-status">REINTENTANDO…</span></div>
-      <div class="rs-live-empty"><strong>No pudimos actualizar los marcadores en este instante.</strong><span>RanaSports reintenta automáticamente cada 30 segundos.</span><a class="primary-btn" href="https://www.sofascore.com/es-la/" target="_blank" rel="noopener noreferrer">VER SOFASCORE ↗</a></div>`;
+      <div class="rs-live-empty"><strong>No pudimos actualizar los marcadores en este instante.</strong><span>RanaSports reintenta automáticamente cada 30 segundos.</span><a class="primary-btn" href="https://www.sofascore.com/es-la/" target="_blank" rel="noopener noreferrer">VER SOFASCORE ↗</a><a class="ghost-btn" href="posiciones.html">VER POSICIONES</a></div>`;
   }
 
   async function update() {
@@ -100,8 +102,9 @@
     .rs-live-team b{font-size:20px;min-width:22px;text-align:right}
     .rs-live-footer{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:10px 12px;color:#9fa9b5;font-size:10px}
     .rs-live-footer a{color:#fff;font-weight:900;text-decoration:none;white-space:nowrap}
+    .rs-live-links{display:flex;gap:12px;align-items:center}
     .rs-live-empty{padding:24px 16px;text-align:center;display:grid;gap:9px;color:#aeb7c2;background:radial-gradient(ellipse at 50% 30%,#24141d,transparent)}
-    .rs-live-empty strong{color:#fff;font-size:15px}.rs-live-empty span{font-size:12px;line-height:1.4}.rs-live-empty .primary-btn{justify-self:center;margin-top:4px}
+    .rs-live-empty strong{color:#fff;font-size:15px}.rs-live-empty span{font-size:12px;line-height:1.4}.rs-live-empty .primary-btn,.rs-live-empty .ghost-btn{justify-self:center;margin-top:4px}
     @media(min-width:700px){.rs-live-list{grid-template-columns:1fr 1fr}.rs-live-match:nth-child(odd){border-right:1px solid #29313a}}
     @media(min-width:1050px){.rs-live-list{grid-template-columns:1fr}.rs-live-match:nth-child(odd){border-right:0}.rs-live-team{font-size:14px}.rs-live-team b{font-size:18px}}
   `;
