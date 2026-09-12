@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T00:53:40.264Z",
+  "updatedAt": "2026-09-12T01:23:28.654Z",
   "trends": [
+    {
+      "query": "milton giménez",
+      "startedAt": "2026-09-12T01:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "kylian mbappé",
+      "startedAt": "2026-09-12T01:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "tv argentina",
+      "startedAt": "2026-09-12T01:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "lady gaga",
+      "startedAt": "2026-09-12T01:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "futbol para todos",
+      "startedAt": "2026-09-12T00:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "cómo va boca",
+      "startedAt": "2026-09-12T00:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "ola de calor",
+      "startedAt": "2026-09-12T00:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "santa fe - tolima",
+      "startedAt": "2026-09-12T00:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "gimnasia y tiro de salta - tristán suárez",
+      "startedAt": "2026-09-12T00:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "flow",
       "startedAt": "2026-09-12T00:30:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "enner valencia",
-      "startedAt": "2026-09-12T00:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "fútbol para todos",
-      "startedAt": "2026-09-12T00:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "salud",
-      "startedAt": "2026-09-12T00:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tarjeta roja futbol",
-      "startedAt": "2026-09-12T00:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "coritiba",
-      "startedAt": "2026-09-12T00:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "tiempo de mañana",
-      "startedAt": "2026-09-11T23:40:00.000Z",
-      "volume": 100000
-    },
-    {
-      "query": "ruta nacional 22",
-      "startedAt": "2026-09-11T23:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "cinema la plata",
-      "startedAt": "2026-09-11T23:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "boca juniors - central córdoba",
-      "startedAt": "2026-09-11T23:30:00.000Z",
-      "volume": 200000
     }
   ]
 }
