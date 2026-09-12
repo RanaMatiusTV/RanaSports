@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T12:53:01.994Z",
+  "updatedAt": "2026-09-12T13:23:28.361Z",
   "trends": [
+    {
+      "query": "chelsea - hull city",
+      "startedAt": "2026-09-12T13:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "hacker",
+      "startedAt": "2026-09-12T12:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "dortmund - paderborn",
+      "startedAt": "2026-09-12T12:40:00.000Z",
+      "volume": 500
+    },
     {
       "query": "túnel de agua negra",
       "startedAt": "2026-09-12T12:30:00.000Z",
@@ -11,22 +26,22 @@
     {
       "query": "reino unido",
       "startedAt": "2026-09-12T12:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "f2",
       "startedAt": "2026-09-12T12:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "racing de santander - alavés",
       "startedAt": "2026-09-12T12:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "sydney sweeney",
       "startedAt": "2026-09-12T12:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "donald trump",
@@ -36,21 +51,6 @@
     {
       "query": "gonzalo valenzuela",
       "startedAt": "2026-09-12T11:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "bichos de campo",
-      "startedAt": "2026-09-12T11:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "emanuel mammana",
-      "startedAt": "2026-09-12T11:20:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "nicole neumann",
-      "startedAt": "2026-09-12T10:40:00.000Z",
       "volume": 200
     }
   ]
