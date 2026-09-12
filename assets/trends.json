@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T07:23:03.437Z",
+  "updatedAt": "2026-09-12T07:49:51.367Z",
   "trends": [
     {
       "query": "clima tucuman",
@@ -17,11 +17,6 @@
       "query": "tijuana - querétaro",
       "startedAt": "2026-09-12T04:00:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "posiciones de independiente santa fe contra deportes tolima",
-      "startedAt": "2026-09-12T03:40:00.000Z",
-      "volume": 5000
     },
     {
       "query": "atlante - pachuca",
@@ -50,6 +45,11 @@
     },
     {
       "query": "bacidalupe",
+      "startedAt": "2026-09-12T01:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "benicio gravier",
       "startedAt": "2026-09-12T01:50:00.000Z",
       "volume": 200
     }
