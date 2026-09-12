@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMyIsMTc4OTIzOTQyMDAwMCwiQ09MTkFHSEkgVEVSTUlOw5MgMTLCsCBFTiBMQSBGRUFUVVJFIDEgREUgTUFEUklEIFkgQ0xFUk9UIExPR1LDkyBTVSBQUklNRVIgVFJJVU5GTyJd": {
+      "account": "f1",
+      "title": "COLNAGHI TERMINÓ 12° EN LA FEATURE 1 DE MADRID Y CLEROT LOGRÓ SU PRIMER TRIUNFO",
+      "dueAt": "2026-09-12T19:45:00.000Z",
+      "bufferPostId": "6aa5aacdf7b1958d5cd4a684",
+      "createdAt": "2026-09-12T19:41:01.738Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTIxNTQyMDAwMCwiVkFSUk9ORSBBQkFORE9Ow5MgRU4gTEEgUFJJTUVSQSBWVUVMVEEgREUgTEEgU1BSSU5UIERFIEYyIEVOIE1BRFJJRCJd": {
       "account": "f1",
       "title": "VARRONE ABANDONÓ EN LA PRIMERA VUELTA DE LA SPRINT DE F2 EN MADRID",
@@ -171,7 +178,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-12T19:15:00.000Z",
+    "f1": "2026-09-12T19:50:00.000Z",
     "main": "2026-09-12T18:25:00.000Z"
   },
   "buffer": {
