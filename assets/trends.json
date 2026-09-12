@@ -1,22 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T17:22:52.625Z",
+  "updatedAt": "2026-09-12T17:49:26.396Z",
   "trends": [
+    {
+      "query": "justicia",
+      "startedAt": "2026-09-12T17:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "al khaleej - al-nassr",
+      "startedAt": "2026-09-12T17:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "cinepolis",
+      "startedAt": "2026-09-12T17:20:00.000Z",
+      "volume": 500
+    },
     {
       "query": "estudiantes - platense",
       "startedAt": "2026-09-12T17:00:00.000Z",
-      "volume": 200
+      "volume": 2000
     },
     {
       "query": "casa pia - porto",
       "startedAt": "2026-09-12T17:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "barcelona - atlético madrid",
       "startedAt": "2026-09-12T16:50:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "inundación",
@@ -29,11 +44,6 @@
       "volume": 100
     },
     {
-      "query": "lazio",
-      "startedAt": "2026-09-12T16:20:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "valentín barco",
       "startedAt": "2026-09-12T16:20:00.000Z",
       "volume": 200
@@ -41,17 +51,7 @@
     {
       "query": "fuerza aérea de chile",
       "startedAt": "2026-09-12T16:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "monaco fc",
-      "startedAt": "2026-09-12T16:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "maximiliano pullaro",
-      "startedAt": "2026-09-12T16:10:00.000Z",
-      "volume": 100
+      "volume": 1000
     }
   ]
 }
