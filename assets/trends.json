@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T19:22:00.851Z",
+  "updatedAt": "2026-09-12T19:49:32.978Z",
   "trends": [
     {
-      "query": "arsenal vs",
-      "startedAt": "2026-09-12T19:00:00.000Z",
+      "query": "al nassr",
+      "startedAt": "2026-09-12T19:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "parrilla de salida",
+      "startedAt": "2026-09-12T19:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "diablo 5",
+      "startedAt": "2026-09-12T19:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "a qué hora juega river",
+      "startedAt": "2026-09-12T19:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "arsenal",
+      "startedAt": "2026-09-12T19:20:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "wow forever",
+      "startedAt": "2026-09-12T19:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "fórmula 1",
+      "startedAt": "2026-09-12T19:10:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "pierce brosnan",
+      "startedAt": "2026-09-12T19:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "atalanta",
+      "startedAt": "2026-09-12T19:10:00.000Z",
       "volume": 200
     },
     {
       "query": "paris fc - lyon",
       "startedAt": "2026-09-12T19:00:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "rayo vallecano",
-      "startedAt": "2026-09-12T19:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "atalanta - cagliari",
-      "startedAt": "2026-09-12T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "grêmio - vasco da gama",
-      "startedAt": "2026-09-12T18:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "guaraní - cerro",
-      "startedAt": "2026-09-12T18:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "almagro - deportivo maipú",
-      "startedAt": "2026-09-12T18:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "atlético mineiro - fluminense",
-      "startedAt": "2026-09-12T18:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "all boys - san telmo",
-      "startedAt": "2026-09-12T18:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "sunderland afc - arsenal",
-      "startedAt": "2026-09-12T18:10:00.000Z",
-      "volume": 2000
     }
   ]
 }
