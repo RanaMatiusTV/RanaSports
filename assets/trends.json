@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T16:24:53.527Z",
+  "updatedAt": "2026-09-12T16:49:42.840Z",
   "trends": [
+    {
+      "query": "valentín barco",
+      "startedAt": "2026-09-12T16:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "fuerza aérea de chile",
+      "startedAt": "2026-09-12T16:10:00.000Z",
+      "volume": 500
+    },
     {
       "query": "monaco fc",
       "startedAt": "2026-09-12T16:10:00.000Z",
@@ -41,17 +51,7 @@
     {
       "query": "ricardo darín",
       "startedAt": "2026-09-12T15:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "bachir belloumi",
-      "startedAt": "2026-09-12T15:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ejército nacional de colombia",
-      "startedAt": "2026-09-12T15:20:00.000Z",
-      "volume": 100
+      "volume": 500
     }
   ]
 }
