@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T17:49:26.396Z",
+  "updatedAt": "2026-09-12T18:25:56.650Z",
   "trends": [
+    {
+      "query": "sunderland afc - arsenal",
+      "startedAt": "2026-09-12T18:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "real madrid - rayo vallecano",
+      "startedAt": "2026-09-12T18:00:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "independiente rivadavia",
+      "startedAt": "2026-09-12T18:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "colisión",
+      "startedAt": "2026-09-12T18:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "diego moreira",
+      "startedAt": "2026-09-12T17:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "river vs atletico tucuman",
+      "startedAt": "2026-09-12T17:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "colegiales - nueva chicago",
+      "startedAt": "2026-09-12T17:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "athletic bilbao",
+      "startedAt": "2026-09-12T17:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "justicia",
       "startedAt": "2026-09-12T17:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "al khaleej - al-nassr",
       "startedAt": "2026-09-12T17:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "cinepolis",
-      "startedAt": "2026-09-12T17:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "estudiantes - platense",
-      "startedAt": "2026-09-12T17:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "casa pia - porto",
-      "startedAt": "2026-09-12T17:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "barcelona - atlético madrid",
-      "startedAt": "2026-09-12T16:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "inundación",
-      "startedAt": "2026-09-12T16:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "blizzcon",
-      "startedAt": "2026-09-12T16:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "valentín barco",
-      "startedAt": "2026-09-12T16:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fuerza aérea de chile",
-      "startedAt": "2026-09-12T16:10:00.000Z",
       "volume": 1000
     }
   ]
