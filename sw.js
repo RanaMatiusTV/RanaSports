@@ -1,5 +1,5 @@
 const PREFIX = 'ranasports-' + self.registration.scope;
-const CACHE = PREFIX + 'v12';
+const CACHE = PREFIX + 'v13';
 const CORE = ['./', './index.html', './noticia.html', './assets/styles.css', './assets/redesign.css', './assets/app.js', './assets/navigation.js', './assets/highlights.js', './assets/breaking.js', './assets/trends.json', './assets/news-feed.js', './assets/icon.svg', './assets/icon-192.png', './assets/icon-512.png', './assets/apple-touch-icon.png', './manifest.webmanifest', './noticias/bienvenidos.html', './noticias/agenda-deportiva.html', './noticias/rana-f1.html', './legal/acerca-de.html', './legal/contacto.html', './legal/privacidad.html'];
 const coreURLs = new Set(CORE.map(path=>new URL(path,self.registration.scope).href));
 const NEWS_CSV_HOST='docs.google.com';
