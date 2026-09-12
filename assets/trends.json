@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T12:28:47.195Z",
+  "updatedAt": "2026-09-12T12:53:01.994Z",
   "trends": [
+    {
+      "query": "túnel de agua negra",
+      "startedAt": "2026-09-12T12:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "reino unido",
+      "startedAt": "2026-09-12T12:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "f2",
+      "startedAt": "2026-09-12T12:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "racing de santander - alavés",
       "startedAt": "2026-09-12T12:00:00.000Z",
@@ -14,12 +29,12 @@
       "volume": 100
     },
     {
-      "query": "gonzalo valenzuela",
+      "query": "donald trump",
       "startedAt": "2026-09-12T11:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
-      "query": "donald trump",
+      "query": "gonzalo valenzuela",
       "startedAt": "2026-09-12T11:50:00.000Z",
       "volume": 100
     },
@@ -37,21 +52,6 @@
       "query": "nicole neumann",
       "startedAt": "2026-09-12T10:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "perfil",
-      "startedAt": "2026-09-12T10:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "clima de hoy",
-      "startedAt": "2026-09-12T10:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "clima la plata",
-      "startedAt": "2026-09-12T10:40:00.000Z",
-      "volume": 100
     }
   ]
 }
