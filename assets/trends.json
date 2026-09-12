@@ -1,15 +1,40 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T22:51:00.315Z",
+  "updatedAt": "2026-09-12T23:23:13.763Z",
   "trends": [
     {
-      "query": "inter miami - nashville sc",
-      "startedAt": "2026-09-12T22:30:00.000Z",
+      "query": "deuda",
+      "startedAt": "2026-09-12T22:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "tabla de posiciones",
+      "query": "botafogo - bragantino",
+      "startedAt": "2026-09-12T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "campeonato argentino",
+      "startedAt": "2026-09-12T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "sharapova",
+      "startedAt": "2026-09-12T22:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "julián weich",
+      "startedAt": "2026-09-12T22:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "inter miami - nashville sc",
+      "startedAt": "2026-09-12T22:30:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "ruta nacional 11",
       "startedAt": "2026-09-12T22:30:00.000Z",
       "volume": 200
     },
@@ -19,39 +44,14 @@
       "volume": 200
     },
     {
-      "query": "final us open",
-      "startedAt": "2026-09-12T22:30:00.000Z",
-      "volume": 20000
-    },
-    {
       "query": "fondo monetario internacional",
       "startedAt": "2026-09-12T22:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ruta nacional 11",
-      "startedAt": "2026-09-12T22:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ryan garcia vs conor benn",
-      "startedAt": "2026-09-12T22:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "alexa grasso",
       "startedAt": "2026-09-12T22:30:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "tabla anual",
-      "startedAt": "2026-09-12T22:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "tabla anual 2026",
-      "startedAt": "2026-09-12T22:20:00.000Z",
-      "volume": 500
     }
   ]
 }
