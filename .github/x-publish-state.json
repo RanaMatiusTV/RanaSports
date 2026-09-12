@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MjI5NzAwMDAwLCJST0xGSSBNT05URU5FR1JPIEJBTkPDkyBBIFRFTVBPTkUgWSBBUlJBWUFHTyBBTlRFIExBIFBSRVNJw5NOIERFIFJFRU1QTEFaQVIgRklHVVJBUyJd": {
+      "account": "main",
+      "title": "ROLFI MONTENEGRO BANCÓ A TEMPONE Y ARRAYAGO ANTE LA PRESIÓN DE REEMPLAZAR FIGURAS",
+      "dueAt": "2026-09-12T18:20:00.000Z",
+      "bufferPostId": "6aa59784eba7bc567782271b",
+      "createdAt": "2026-09-12T18:18:44.474Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTIxNzc2MDAwMCwiQ09MQVBJTlRPIEZVRSAxMcKwIEVOIExBIEZQMyBERSBNQURSSUQgRU4gVU5BIFRBTkRBIE1BUkNBREEgUE9SIERPUyBDSE9RVUVTIl0": {
       "account": "f1",
       "title": "COLAPINTO FUE 11° EN LA FP3 DE MADRID EN UNA TANDA MARCADA POR DOS CHOQUES",
@@ -144,7 +151,7 @@
   },
   "nextAt": {
     "f1": "2026-09-12T17:00:00.000Z",
-    "main": "2026-09-12T04:35:00.000Z"
+    "main": "2026-09-12T18:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
