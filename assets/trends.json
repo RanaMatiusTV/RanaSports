@@ -1,8 +1,38 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T16:49:42.840Z",
+  "updatedAt": "2026-09-12T17:22:52.625Z",
   "trends": [
+    {
+      "query": "estudiantes - platense",
+      "startedAt": "2026-09-12T17:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "casa pia - porto",
+      "startedAt": "2026-09-12T17:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "barcelona - atlético madrid",
+      "startedAt": "2026-09-12T16:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "inundación",
+      "startedAt": "2026-09-12T16:50:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "blizzcon",
+      "startedAt": "2026-09-12T16:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "lazio",
+      "startedAt": "2026-09-12T16:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "valentín barco",
       "startedAt": "2026-09-12T16:20:00.000Z",
@@ -11,47 +41,17 @@
     {
       "query": "fuerza aérea de chile",
       "startedAt": "2026-09-12T16:10:00.000Z",
-      "volume": 500
+      "volume": 200
     },
     {
       "query": "monaco fc",
       "startedAt": "2026-09-12T16:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "maximiliano pullaro",
       "startedAt": "2026-09-12T16:10:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "milan",
-      "startedAt": "2026-09-12T16:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gran hermano generación dorada",
-      "startedAt": "2026-09-12T15:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "premier league",
-      "startedAt": "2026-09-12T15:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "athletic - elche c. f.",
-      "startedAt": "2026-09-12T15:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "mobland",
-      "startedAt": "2026-09-12T15:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ricardo darín",
-      "startedAt": "2026-09-12T15:30:00.000Z",
-      "volume": 500
     }
   ]
 }
