@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T18:49:58.084Z",
+  "updatedAt": "2026-09-12T19:22:00.851Z",
   "trends": [
+    {
+      "query": "arsenal vs",
+      "startedAt": "2026-09-12T19:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "paris fc - lyon",
+      "startedAt": "2026-09-12T19:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "rayo vallecano",
+      "startedAt": "2026-09-12T19:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "atalanta - cagliari",
+      "startedAt": "2026-09-12T18:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "grêmio - vasco da gama",
+      "startedAt": "2026-09-12T18:40:00.000Z",
+      "volume": 500
+    },
     {
       "query": "guaraní - cerro",
       "startedAt": "2026-09-12T18:30:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "almagro - deportivo maipú",
       "startedAt": "2026-09-12T18:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "atlético mineiro - fluminense",
       "startedAt": "2026-09-12T18:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "all boys - san telmo",
       "startedAt": "2026-09-12T18:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "sunderland afc - arsenal",
       "startedAt": "2026-09-12T18:10:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "real madrid - rayo vallecano",
-      "startedAt": "2026-09-12T18:00:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "independiente rivadavia",
-      "startedAt": "2026-09-12T18:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "colisión",
-      "startedAt": "2026-09-12T18:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "river vs atletico tucuman",
-      "startedAt": "2026-09-12T17:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "lazio vs milan",
-      "startedAt": "2026-09-12T17:50:00.000Z",
-      "volume": 100
     }
   ]
 }
