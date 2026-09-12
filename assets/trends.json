@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T06:29:40.418Z",
+  "updatedAt": "2026-09-12T06:53:07.779Z",
   "trends": [
+    {
+      "query": "clima tucuman",
+      "startedAt": "2026-09-12T06:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "enfrentados ebano",
       "startedAt": "2026-09-12T04:20:00.000Z",
@@ -45,11 +50,6 @@
     },
     {
       "query": "bacidalupe",
-      "startedAt": "2026-09-12T01:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "benicio gravier",
       "startedAt": "2026-09-12T01:50:00.000Z",
       "volume": 200
     }
