@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T21:49:22.889Z",
+  "updatedAt": "2026-09-12T22:23:44.780Z",
   "trends": [
     {
       "query": "como va river",
@@ -11,7 +11,7 @@
     {
       "query": "miniserie",
       "startedAt": "2026-09-12T21:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "juliana awada",
@@ -21,7 +21,7 @@
     {
       "query": "san martin de san juan",
       "startedAt": "2026-09-12T21:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "vicentin",
@@ -31,17 +31,17 @@
     {
       "query": "falcioni",
       "startedAt": "2026-09-12T20:50:00.000Z",
-      "volume": 500
+      "volume": 1000
+    },
+    {
+      "query": "palmeiras - são paulo",
+      "startedAt": "2026-09-12T20:40:00.000Z",
+      "volume": 2000
     },
     {
       "query": "franco nicola",
       "startedAt": "2026-09-12T20:40:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "palmeiras - são paulo",
-      "startedAt": "2026-09-12T20:40:00.000Z",
-      "volume": 1000
     },
     {
       "query": "sudáfrica - nueva zelanda",
@@ -51,7 +51,7 @@
     {
       "query": "sabalenka hoy",
       "startedAt": "2026-09-12T20:40:00.000Z",
-      "volume": 100
+      "volume": 200
     }
   ]
 }
