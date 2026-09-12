@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MTU1OTYwMDAwLCJBUlJBWUFHTyBGSVJNw5MgU1UgUFJJTUVSIENPTlRSQVRPIFBST0ZFU0lPTkFMIENPTiBJTkRFUEVORElFTlRFIEhBU1RBIDIwMjgiXQ": {
+      "account": "main",
+      "title": "ARRAYAGO FIRMÓ SU PRIMER CONTRATO PROFESIONAL CON INDEPENDIENTE HASTA 2028",
+      "dueAt": "2026-09-12T04:00:00.000Z",
+      "bufferPostId": "6aa4cd8f2ff05a49069ec127",
+      "createdAt": "2026-09-12T03:57:04.090Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODkxODExNjAwMDAsIkJPQ0EgR09MRcOTIDMtMSBBIENFTlRSQUwgQ8OTUkRPQkEgQ09OIERPQkxFVEUgREUgUk9NRVJPIFkgUFJJTUVSIEdPTCBERSBWQUxFTkNJQSJd": {
       "account": "main",
       "title": "BOCA GOLEÓ 3-1 A CENTRAL CÓRDOBA CON DOBLETE DE ROMERO Y PRIMER GOL DE VALENCIA",
@@ -116,7 +123,7 @@
   },
   "nextAt": {
     "f1": "2026-09-12T02:05:00.000Z",
-    "main": "2026-09-12T03:05:00.000Z"
+    "main": "2026-09-12T04:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
