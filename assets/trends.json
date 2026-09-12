@@ -1,12 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T15:49:54.832Z",
+  "updatedAt": "2026-09-12T16:24:53.527Z",
   "trends": [
     {
-      "query": "liverpool",
-      "startedAt": "2026-09-12T15:30:00.000Z",
+      "query": "monaco fc",
+      "startedAt": "2026-09-12T16:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "maximiliano pullaro",
+      "startedAt": "2026-09-12T16:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "milan",
+      "startedAt": "2026-09-12T16:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "gran hermano generación dorada",
+      "startedAt": "2026-09-12T15:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "premier league",
+      "startedAt": "2026-09-12T15:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "athletic - elche c. f.",
+      "startedAt": "2026-09-12T15:40:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "mobland",
+      "startedAt": "2026-09-12T15:40:00.000Z",
+      "volume": 100
     },
     {
       "query": "ricardo darín",
@@ -22,36 +52,6 @@
       "query": "ejército nacional de colombia",
       "startedAt": "2026-09-12T15:20:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "lazio - milan",
-      "startedAt": "2026-09-12T15:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "tortura",
-      "startedAt": "2026-09-12T15:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "actc",
-      "startedAt": "2026-09-12T15:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "hull city",
-      "startedAt": "2026-09-12T15:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "liverpool fc",
-      "startedAt": "2026-09-12T14:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "ruta nacional 237",
-      "startedAt": "2026-09-12T14:30:00.000Z",
-      "volume": 2000
     }
   ]
 }
