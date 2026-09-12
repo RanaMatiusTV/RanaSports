@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T23:23:13.763Z",
+  "updatedAt": "2026-09-12T23:49:49.021Z",
   "trends": [
     {
-      "query": "deuda",
-      "startedAt": "2026-09-12T22:50:00.000Z",
-      "volume": 500
+      "query": "ldu quito - dep. cuenca",
+      "startedAt": "2026-09-12T23:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "toluca - atlas",
+      "startedAt": "2026-09-12T23:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "soledad pastorutti",
+      "startedAt": "2026-09-12T23:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "gp madrid",
+      "startedAt": "2026-09-12T23:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "santos - cruzeiro",
+      "startedAt": "2026-09-12T23:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "dc united - atlanta united",
+      "startedAt": "2026-09-12T23:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "matías galarza",
+      "startedAt": "2026-09-12T23:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "tommy mcmillen",
+      "startedAt": "2026-09-12T23:10:00.000Z",
+      "volume": 200
     },
     {
       "query": "botafogo - bragantino",
       "startedAt": "2026-09-12T22:50:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
-      "query": "campeonato argentino",
+      "query": "deuda",
       "startedAt": "2026-09-12T22:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sharapova",
-      "startedAt": "2026-09-12T22:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "julián weich",
-      "startedAt": "2026-09-12T22:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "inter miami - nashville sc",
-      "startedAt": "2026-09-12T22:30:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "ruta nacional 11",
-      "startedAt": "2026-09-12T22:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "torneo argentino",
-      "startedAt": "2026-09-12T22:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fondo monetario internacional",
-      "startedAt": "2026-09-12T22:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "alexa grasso",
-      "startedAt": "2026-09-12T22:30:00.000Z",
-      "volume": 100
+      "volume": 500
     }
   ]
 }
