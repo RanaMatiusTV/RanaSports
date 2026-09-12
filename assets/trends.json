@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T21:24:34.417Z",
+  "updatedAt": "2026-09-12T21:49:22.889Z",
   "trends": [
+    {
+      "query": "como va river",
+      "startedAt": "2026-09-12T21:30:00.000Z",
+      "volume": 500
+    },
     {
       "query": "miniserie",
       "startedAt": "2026-09-12T21:10:00.000Z",
@@ -11,15 +16,15 @@
     {
       "query": "juliana awada",
       "startedAt": "2026-09-12T21:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
-      "query": "vicentin",
+      "query": "san martin de san juan",
       "startedAt": "2026-09-12T21:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "san martin de san juan",
+      "query": "vicentin",
       "startedAt": "2026-09-12T21:00:00.000Z",
       "volume": 200
     },
@@ -31,7 +36,7 @@
     {
       "query": "franco nicola",
       "startedAt": "2026-09-12T20:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "palmeiras - são paulo",
@@ -40,11 +45,6 @@
     },
     {
       "query": "sudáfrica - nueva zelanda",
-      "startedAt": "2026-09-12T20:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "pelota",
       "startedAt": "2026-09-12T20:40:00.000Z",
       "volume": 1000
     },
