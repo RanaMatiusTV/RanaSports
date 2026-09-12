@@ -13,3 +13,11 @@
  dialog.querySelector('.dialog-close').addEventListener('click',()=>dialog.close());
  dialog.addEventListener('click',event=>{if(event.target===dialog){const r=dialog.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)dialog.close();}});
 })();
+
+// Carga el marcador propio de RanaSports después de app.js para reemplazar el fallback.
+(() => {
+ const script=document.createElement('script');
+ script.src='assets/live-scores.js?v=20260912-1';
+ script.defer=true;
+ document.head.append(script);
+})();
