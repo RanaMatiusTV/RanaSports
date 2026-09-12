@@ -1,12 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-11T23:49:36.589Z",
+  "updatedAt": "2026-09-12T00:31:34.109Z",
   "trends": [
     {
-      "query": "islas malvinas",
+      "query": "tarjeta roja futbol",
+      "startedAt": "2026-09-12T00:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "coritiba",
+      "startedAt": "2026-09-12T00:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "ben shelton",
+      "startedAt": "2026-09-11T23:50:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "tiempo de mañana",
+      "startedAt": "2026-09-11T23:40:00.000Z",
+      "volume": 100000
+    },
+    {
+      "query": "cinema la plata",
+      "startedAt": "2026-09-11T23:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "ruta nacional 22",
+      "startedAt": "2026-09-11T23:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "boca juniors - central córdoba",
       "startedAt": "2026-09-11T23:30:00.000Z",
-      "volume": 1000
+      "volume": 100000
     },
     {
       "query": "eliana guercio",
@@ -14,44 +44,14 @@
       "volume": 200
     },
     {
-      "query": "nelson castro",
-      "startedAt": "2026-09-11T23:20:00.000Z",
-      "volume": 200
+      "query": "islas malvinas",
+      "startedAt": "2026-09-11T23:30:00.000Z",
+      "volume": 1000
     },
     {
       "query": "coritiba - paranaense",
       "startedAt": "2026-09-11T23:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "dinero",
-      "startedAt": "2026-09-11T23:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "selección de fútbol de ecuador",
-      "startedAt": "2026-09-11T23:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "unitas",
-      "startedAt": "2026-09-11T22:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "cotización dólar blue",
-      "startedAt": "2026-09-11T22:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "clima buenos aires",
-      "startedAt": "2026-09-11T22:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "clima caba",
-      "startedAt": "2026-09-11T22:40:00.000Z",
-      "volume": 500
     }
   ]
 }
