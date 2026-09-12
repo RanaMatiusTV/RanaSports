@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTIxNTQyMDAwMCwiVkFSUk9ORSBBQkFORE9Ow5MgRU4gTEEgUFJJTUVSQSBWVUVMVEEgREUgTEEgU1BSSU5UIERFIEYyIEVOIE1BRFJJRCJd": {
+      "account": "f1",
+      "title": "VARRONE ABANDONÓ EN LA PRIMERA VUELTA DE LA SPRINT DE F2 EN MADRID",
+      "dueAt": "2026-09-12T19:10:00.000Z",
+      "bufferPostId": "6aa59fd9130d0ea1a45a6da3",
+      "createdAt": "2026-09-12T18:54:17.785Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMyIsMTc4OTIwNjAwMDAwMCwiQ09MTkFHSEkgQVZBTlrDkyBET1MgUFVFU1RPUyBZIFRFUk1JTsOTIDE0wrAgRU4gTEEgU1BSSU5UIERFIE1BRFJJRCJd": {
+      "account": "f1",
+      "title": "COLNAGHI AVANZÓ DOS PUESTOS Y TERMINÓ 14° EN LA SPRINT DE MADRID",
+      "dueAt": "2026-09-12T19:05:00.000Z",
+      "bufferPostId": "6aa59fd966679b076f15860f",
+      "createdAt": "2026-09-12T18:54:17.373Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzg5MTQ2OTAwMDAwLCJDT0xOQUdISSBRVUVEw5MgNcKwIEVOIExBIFNFR1VOREEgQ0xBU0lGSUNBQ0nDk04gREUgRjMgRU4gTUFEUklEIl0": {
+      "account": "f1",
+      "title": "COLNAGHI QUEDÓ 5° EN LA SEGUNDA CLASIFICACIÓN DE F3 EN MADRID",
+      "dueAt": "2026-09-12T19:00:00.000Z",
+      "bufferPostId": "6aa59fd8eba7bc567782a792",
+      "createdAt": "2026-09-12T18:54:16.851Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MjI5NzAwMDAwLCJST0xGSSBNT05URU5FR1JPIEJBTkPDkyBBIFRFTVBPTkUgWSBBUlJBWUFHTyBBTlRFIExBIFBSRVNJw5NOIERFIFJFRU1QTEFaQVIgRklHVVJBUyJd": {
       "account": "main",
       "title": "ROLFI MONTENEGRO BANCÓ A TEMPONE Y ARRAYAGO ANTE LA PRESIÓN DE REEMPLAZAR FIGURAS",
@@ -150,7 +171,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-12T17:00:00.000Z",
+    "f1": "2026-09-12T19:15:00.000Z",
     "main": "2026-09-12T18:25:00.000Z"
   },
   "buffer": {
