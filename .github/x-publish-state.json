@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODkxNzIzNDAwMDAsIkRFRkVOU0EgWSBKVVNUSUNJQSBHQU7DkyAyLTAgWSBTRSBTVUJJw5MgQSBMQSBQVU5UQSBERSBMQSBaT05BIEEiXQ": {
+      "account": "main",
+      "title": "DEFENSA Y JUSTICIA GANÓ 2-0 Y SE SUBIÓ A LA PUNTA DE LA ZONA A",
+      "dueAt": "2026-09-12T01:00:00.000Z",
+      "bufferPostId": "6aa4a37b07d009223c673eb1",
+      "createdAt": "2026-09-12T00:57:32.013Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc4OTE2MTA2MDAwMCwiTUFTVEFOVFVPTk8gTUVUScOTIFVOIEhBVC1UUklDSyBZIEZJT1JFTlRJTkEgR0FOw5MgNC0yIEVOIFZFTkVDSUEiXQ": {
       "account": "main",
       "title": "MASTANTUONO METIÓ UN HAT-TRICK Y FIORENTINA GANÓ 4-2 EN VENECIA",
@@ -74,7 +81,7 @@
   },
   "nextAt": {
     "f1": "2026-09-11T22:05:00.000Z",
-    "main": "2026-09-12T00:05:00.000Z"
+    "main": "2026-09-12T01:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
