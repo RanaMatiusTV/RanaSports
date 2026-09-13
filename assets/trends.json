@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T20:25:09.294Z",
+  "updatedAt": "2026-09-13T20:49:52.932Z",
   "trends": [
+    {
+      "query": "colo-colo - concepción",
+      "startedAt": "2026-09-13T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "real sociedad",
+      "startedAt": "2026-09-13T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "federal a",
+      "startedAt": "2026-09-13T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "sarmiento de resistencia",
+      "startedAt": "2026-09-13T20:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "godoy cruz - colón",
+      "startedAt": "2026-09-13T20:10:00.000Z",
+      "volume": 200
+    },
     {
       "query": "ricardo fort",
       "startedAt": "2026-09-13T20:10:00.000Z",
@@ -11,7 +36,12 @@
     {
       "query": "ryan gosling",
       "startedAt": "2026-09-13T20:00:00.000Z",
-      "volume": 100
+      "volume": 200
+    },
+    {
+      "query": "usopen",
+      "startedAt": "2026-09-13T20:00:00.000Z",
+      "volume": 2000
     },
     {
       "query": "independiente vs san lorenzo",
@@ -21,36 +51,6 @@
     {
       "query": "sporting lisboa",
       "startedAt": "2026-09-13T19:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tabla anual futbol argentino",
-      "startedAt": "2026-09-13T19:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "flamengo - corinthians",
-      "startedAt": "2026-09-13T19:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "central cordoba rosario",
-      "startedAt": "2026-09-13T19:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "juventus vs",
-      "startedAt": "2026-09-13T19:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "argentinos jrs. - gimnasia",
-      "startedAt": "2026-09-13T19:20:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "brad pitt",
-      "startedAt": "2026-09-13T19:20:00.000Z",
       "volume": 200
     }
   ]
