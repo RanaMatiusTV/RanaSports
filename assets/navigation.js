@@ -176,3 +176,33 @@
   if(!choice)apply(event.matches?'dark':'light');
  });
 })();
+
+// Social: presentación inequívoca, una red por fila con logo grande y nombre completo.
+(() => {
+ const style=document.createElement('style');
+ style.textContent=`
+  .social-list{grid-template-columns:1fr!important;gap:9px!important}
+  .social-list a{min-height:58px!important;padding:9px 12px!important;gap:13px!important;border-radius:10px!important}
+  .social-brand-icon,.rs-social-icon{width:42px!important;height:42px!important;min-width:42px!important;border-radius:10px!important;display:grid!important;place-items:center!important}
+  .social-brand-icon svg,.rs-social-icon svg{width:28px!important;height:28px!important}
+  .social-copy strong,.rs-social-name{font-size:15px!important;font-weight:950!important}
+  .social-copy small,.rs-social-handle{font-size:11px!important}
+ `;
+ document.head.append(style);
+ const enforce=()=>{
+  document.querySelectorAll('.social-list a').forEach(a=>{
+   const url=a.href;
+   let name='';
+   if(url.includes('instagram.com'))name='Instagram';
+   else if(url.includes('youtube.com'))name='YouTube';
+   else if(url.includes('tiktok.com'))name='TikTok';
+   else if(url.includes('x.com')||url.includes('twitter.com'))name='X (Twitter)';
+   if(!name)return;
+   const label=a.querySelector('.social-copy strong,.rs-social-name');
+   if(label)label.textContent=name;
+  });
+ };
+ enforce();
+ addEventListener('load',()=>setTimeout(enforce,250));
+ setTimeout(enforce,900);
+})();
