@@ -1,12 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T21:49:35.816Z",
+  "updatedAt": "2026-09-13T22:25:07.202Z",
   "trends": [
+    {
+      "query": "peñarol - albion",
+      "startedAt": "2026-09-13T22:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "san lorenzo hoy",
+      "startedAt": "2026-09-13T22:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "trinity rodman",
+      "startedAt": "2026-09-13T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "agustín canapino",
+      "startedAt": "2026-09-13T21:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "muerte",
+      "startedAt": "2026-09-13T21:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jonathan david",
+      "startedAt": "2026-09-13T21:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "independiente - san lorenzo",
       "startedAt": "2026-09-13T21:20:00.000Z",
-      "volume": 2000
+      "volume": 20000
     },
     {
       "query": "anthropic",
@@ -16,42 +46,12 @@
     {
       "query": "san martín de tucumán - agropecuario",
       "startedAt": "2026-09-13T21:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "changuito zeballos",
-      "startedAt": "2026-09-13T21:10:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "chicago fire - new england",
-      "startedAt": "2026-09-13T21:10:00.000Z",
-      "volume": 200
     },
     {
       "query": "rubio ñu - nacional",
       "startedAt": "2026-09-13T21:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "bbc news mundo",
-      "startedAt": "2026-09-13T21:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "villa mitre",
-      "startedAt": "2026-09-13T21:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "servicio militar",
-      "startedAt": "2026-09-13T20:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "jaime durán barba",
-      "startedAt": "2026-09-13T20:50:00.000Z",
-      "volume": 100
+      "volume": 500
     }
   ]
 }
