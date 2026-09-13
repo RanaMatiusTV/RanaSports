@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJib2NhIiwxNzg5Mjk3NTAwMDAwLCJCT0NBIE9GRVJUw5MgNCBNSUxMT05FUyBERSBEw5NMQVJFUyBQT1IgRUwgODAlIERFIE1BVMONQVMgR0FMQVJaQSJd": {
+      "account": "main",
+      "title": "BOCA OFERTÓ 4 MILLONES DE DÓLARES POR EL 80% DE MATÍAS GALARZA",
+      "dueAt": "2026-09-13T13:00:00.000Z",
+      "bufferPostId": "6aa69caeef4d6e3778cb758a",
+      "createdAt": "2026-09-13T12:53:03.076Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc4OTI4OTc2MDAwMCwiSlVMScOBTiDDgUxWQVJFWiBFUyBCQUpBIEVOIEFUTMOJVElDTyBERSBNQURSSUQgUE9SIFVOQSBTT0JSRUNBUkdBIE1VU0NVTEFSIl0": {
+      "account": "main",
+      "title": "JULIÁN ÁLVAREZ ES BAJA EN ATLÉTICO DE MADRID POR UNA SOBRECARGA MUSCULAR",
+      "dueAt": "2026-09-13T12:55:00.000Z",
+      "bufferPostId": "6aa69cadbcabda92e1aebc00",
+      "createdAt": "2026-09-13T12:53:02.164Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ2ZWxleiIsMTc4OTI1OTY0MDAwMCwiTUFNTUFOQSBGVUUgVFJBU0xBREFETyBBIEJVRU5PUyBBSVJFUyBZIE5PIEpVR0FSw4EgTcOBUyBFTiAyMDI2Il0": {
       "account": "main",
       "title": "MAMMANA FUE TRASLADADO A BUENOS AIRES Y NO JUGARÁ MÁS EN 2026",
@@ -249,7 +263,7 @@
   },
   "nextAt": {
     "f1": "2026-09-13T03:05:00.000Z",
-    "main": "2026-09-13T12:25:00.000Z"
+    "main": "2026-09-13T13:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
