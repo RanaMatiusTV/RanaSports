@@ -16,7 +16,18 @@
   <link rel="stylesheet" href="assets/styles.css">
   <script defer src="assets/app.js"></script><script defer src="assets/navigation.js"></script>
   <script defer src="assets/news-feed.js?v=20260913-0301"></script><script defer src="assets/image-hydrator.js"></script>
-<link rel="canonical" href="https://ranamatiustv.github.io/RanaSports/"><meta name="author" content="@RanaMatiusTV"><meta property="og:site_name" content="RanaSports"><meta property="og:url" content="https://ranamatiustv.github.io/RanaSports/"><meta property="og:locale" content="es_AR"><meta property="og:image" content="https://ranamatiustv.github.io/RanaSports/assets/icon-512.png"><meta name="twitter:card" content="summary"><meta name="twitter:creator" content="@RanaMatiusTV"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"RanaSports | Noticias y agenda deportiva","url":"https://ranamatiustv.github.io/RanaSports/"}</script><link rel="stylesheet" href="assets/redesign.css"><script defer src="assets/highlights.js?v=20260913-0152"></script><script defer src="assets/breaking.js"></script><script defer src="assets/live-scores.js?v=20260913-0148"></script><script defer src="assets/hot-topics.js?v=20260913-0226"></script></head>
+<link rel="canonical" href="https://ranamatiustv.github.io/RanaSports/"><meta name="author" content="@RanaMatiusTV"><meta property="og:site_name" content="RanaSports"><meta property="og:url" content="https://ranamatiustv.github.io/RanaSports/"><meta property="og:locale" content="es_AR"><meta property="og:image" content="https://ranamatiustv.github.io/RanaSports/assets/icon-512.png"><meta name="twitter:card" content="summary"><meta name="twitter:creator" content="@RanaMatiusTV"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"RanaSports | Noticias y agenda deportiva","url":"https://ranamatiustv.github.io/RanaSports/"}</script><link rel="stylesheet" href="assets/redesign.css"><script defer src="assets/highlights.js?v=20260913-0152"></script><script defer src="assets/breaking.js"></script><script defer src="assets/live-scores.js?v=20260913-0148"></script><script defer src="assets/hot-topics.js?v=20260913-0226"></script>
+<style>
+  #newsGrid .news-card{position:relative}
+  #newsGrid .news-card::before{content:attr(data-sport);display:inline-flex;position:absolute;z-index:6;top:10px;left:10px;max-width:calc(100% - 20px);padding:5px 8px;border-radius:4px;background:#111820e8;border:1px solid #ffffff2b;color:#fff;font-size:10px;line-height:1;font-weight:900;letter-spacing:.55px;text-transform:uppercase;box-shadow:0 2px 8px #0008;pointer-events:none}
+  #newsGrid .news-card[data-category="independiente"]::before{background:#e51438}
+  #newsGrid .news-card[data-category="f1"]::before{background:#c5122f}
+  #newsGrid .news-card[data-category="seleccion"]::before{background:#1375b6}
+  #newsGrid .news-card[data-category="futbol"]::before{background:#087c4a}
+  #newsGrid .news-card .meta .badge{display:none}
+  #newsGrid .news-card:not(:has(.news-image))::before{position:relative;top:auto;left:auto;margin:10px 10px 0}
+</style>
+</head>
 <body>
   <div class="top-accent"></div>
   <header class="site-header">
