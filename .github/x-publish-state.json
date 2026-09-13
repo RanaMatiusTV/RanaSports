@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMyIsMTc4OTI5ODcwMDAwMCwiVEFQT05FTiBHQU7DkyBMQSDDmkxUSU1BIENBUlJFUkEgREUgRjMgRU4gTUFEUklEIFkgTE9HUsOTIFNVIFBSSU1FUiBUUklVTkZPIl0": {
+      "account": "f1",
+      "title": "TAPONEN GANÓ LA ÚLTIMA CARRERA DE F3 EN MADRID Y LOGRÓ SU PRIMER TRIUNFO",
+      "dueAt": "2026-09-13T14:35:00.000Z",
+      "bufferPostId": "6aa6b0dd4cc07ffa4d37ace7",
+      "createdAt": "2026-09-13T14:19:09.304Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTMwNzE2MDAwMCwiQkVHQU5PVklDIERPTUlOw5MgREUgUFVOVEEgQSBQVU5UQSBZIEdBTsOTIExBIEZFQVRVUkUgUkFDRSBERSBGMiBFTiBNQURSSUQiXQ": {
+      "account": "f1",
+      "title": "BEGANOVIC DOMINÓ DE PUNTA A PUNTA Y GANÓ LA FEATURE RACE DE F2 EN MADRID",
+      "dueAt": "2026-09-13T14:30:00.000Z",
+      "bufferPostId": "6aa6b0dc1f8cf810a1146313",
+      "createdAt": "2026-09-13T14:19:08.364Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMyIsMTc4OTI5ODY0MDAwMCwiVUdPQ0hVS1dVIFNFIENPTlNBR1LDkyBDQU1QRcOTTiBERSBMQSBGw5NSTVVMQSAzIEVOIE1BRFJJRCJd": {
+      "account": "f1",
+      "title": "UGOCHUKWU SE CONSAGRÓ CAMPEÓN DE LA FÓRMULA 3 EN MADRID",
+      "dueAt": "2026-09-13T14:25:00.000Z",
+      "bufferPostId": "6aa6b0db57098b213379eaa6",
+      "createdAt": "2026-09-13T14:19:07.645Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJib2NhIiwxNzg5Mjk3NTAwMDAwLCJCT0NBIE9GRVJUw5MgNCBNSUxMT05FUyBERSBEw5NMQVJFUyBQT1IgRUwgODAlIERFIE1BVMONQVMgR0FMQVJaQSJd": {
       "account": "main",
       "title": "BOCA OFERTÓ 4 MILLONES DE DÓLARES POR EL 80% DE MATÍAS GALARZA",
@@ -262,7 +283,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-13T03:05:00.000Z",
+    "f1": "2026-09-13T14:40:00.000Z",
     "main": "2026-09-13T13:05:00.000Z"
   },
   "buffer": {
