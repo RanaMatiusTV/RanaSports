@@ -95,7 +95,7 @@ let deferredPrompt = null;
 const installButtons = [...document.querySelectorAll('#installBtn, #installBtn2')];
 const dialog = document.querySelector('#installDialog');
 const instructions = document.querySelector('#installInstructions');
-window.addEventListener('beforeinstallprompt', event => {event.preventDefault();deferredPrompt = event;const button=document.querySelector('#installBtn');if(button) button.hidden=false;});
+window.addEventListener('beforeinstallprompt', event => {event.preventDefault();deferredPrompt=event;const button=document.querySelector('#installBtn');if(button) button.hidden=false;});
 window.addEventListener('appinstalled', () => {deferredPrompt=null;installButtons.forEach(button=>button.hidden=true);});
 async function installAction() {
  if (deferredPrompt) {const prompt=deferredPrompt;deferredPrompt=null;await prompt.prompt();await prompt.userChoice;const button=document.querySelector('#installBtn');if(button)button.hidden=true;return;}
@@ -148,3 +148,15 @@ if (liveModule) {
    <a href="https://www.sofascore.com/es-la/football/tournament/argentina/liga-profesional-de-futbol/155" target="_blank" rel="noopener noreferrer" style="color:#fff;text-decoration:none;font-weight:800">FÚTBOL ARGENTINO ↗</a>
   </div>`;
 }
+
+// Aviso legal común para todas las páginas que cargan app.js.
+(() => {
+ const footer = document.querySelector('.site-footer');
+ if (!footer || footer.querySelector('.rights-notice')) return;
+ const notice = document.createElement('div');
+ notice.className = 'shell rights-notice';
+ notice.style.cssText = 'margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,.12);font-size:12px;line-height:1.55;color:#aeb7c2';
+ notice.innerHTML = '<p style="margin:0 0 7px"><strong style="color:#fff">Aviso legal y revisión de contenido.</strong> RanaSports es un proyecto personal, informativo y no comercial dedicado a recopilar y organizar actualidad deportiva. Las imágenes, videos y otros contenidos de terceros pertenecen a sus respectivos titulares.</p><p style="margin:0">Si sos titular de algún contenido publicado y querés solicitar su revisión, acreditá la titularidad y escribí a <a href="mailto:ranamatius@gmail.com?subject=Solicitud%20de%20revisi%C3%B3n%20de%20contenido%20-%20RanaSports" style="color:#fff;font-weight:700">ranamatius@gmail.com</a>. Cuando corresponda, el material será revisado o retirado.</p>';
+ const bottom = footer.querySelector('.footer-bottom');
+ if (bottom) bottom.before(notice); else footer.append(notice);
+})();
