@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T14:24:17.802Z",
+  "updatedAt": "2026-09-13T14:50:06.865Z",
   "trends": [
+    {
+      "query": "manchester united - manchester city",
+      "startedAt": "2026-09-13T14:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "laguna del monte",
+      "startedAt": "2026-09-13T14:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "xavi espart",
+      "startedAt": "2026-09-13T14:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "george russell",
+      "startedAt": "2026-09-13T14:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "antonelli",
+      "startedAt": "2026-09-13T14:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "posiciones f1",
+      "startedAt": "2026-09-13T14:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "bortoleto",
+      "startedAt": "2026-09-13T14:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "gabriel bortoleto",
+      "startedAt": "2026-09-13T14:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "andrea kimi antonelli",
+      "startedAt": "2026-09-13T14:10:00.000Z",
+      "volume": 200
+    },
     {
       "query": "14 de septiembre",
       "startedAt": "2026-09-13T14:10:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "rb leipzig - hamburg",
-      "startedAt": "2026-09-13T14:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lando norris",
-      "startedAt": "2026-09-13T14:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "charles leclerc",
-      "startedAt": "2026-09-13T14:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "precio",
-      "startedAt": "2026-09-13T14:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "city vs united",
-      "startedAt": "2026-09-13T14:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "cruce caballero",
-      "startedAt": "2026-09-13T13:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "economía",
-      "startedAt": "2026-09-13T13:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "alaska",
-      "startedAt": "2026-09-13T13:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "levante - barcelona",
-      "startedAt": "2026-09-13T13:20:00.000Z",
-      "volume": 10000
     }
   ]
 }
