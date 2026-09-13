@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T09:48:09.220Z",
+  "updatedAt": "2026-09-13T10:27:40.747Z",
   "trends": [
+    {
+      "query": "loto plus",
+      "startedAt": "2026-09-13T10:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "as",
+      "startedAt": "2026-09-13T09:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "balón de oro",
+      "startedAt": "2026-09-13T08:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "la nación",
       "startedAt": "2026-09-13T08:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "sele vera accidente",
@@ -34,24 +49,9 @@
       "volume": 1000
     },
     {
-      "query": "junior",
-      "startedAt": "2026-09-13T03:20:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "monterrey fc",
       "startedAt": "2026-09-13T02:50:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "posiciones de liga de quito contra deportivo cuenca",
-      "startedAt": "2026-09-13T02:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ester exposito",
-      "startedAt": "2026-09-13T02:00:00.000Z",
-      "volume": 200
     }
   ]
 }
