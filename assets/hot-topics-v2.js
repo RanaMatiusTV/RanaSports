@@ -113,3 +113,11 @@
     });
   });
 })();
+
+// Mantiene solamente X y YouTube en el bloque de redes del portal.
+(() => {
+  document.querySelectorAll('.social-list a').forEach(link => {
+    const href=(link.getAttribute('href')||'').toLowerCase();
+    if(href.includes('instagram.com') || href.includes('tiktok.com')) link.remove();
+  });
+})();
