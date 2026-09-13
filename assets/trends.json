@@ -1,17 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T19:22:34.348Z",
+  "updatedAt": "2026-09-13T19:49:27.016Z",
   "trends": [
     {
-      "query": "alexander zverev",
-      "startedAt": "2026-09-13T19:00:00.000Z",
-      "volume": 500
+      "query": "juventus vs",
+      "startedAt": "2026-09-13T19:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "argentinos jrs. - gimnasia",
+      "startedAt": "2026-09-13T19:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "brad pitt",
+      "startedAt": "2026-09-13T19:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "midland - chacarita",
+      "startedAt": "2026-09-13T19:10:00.000Z",
+      "volume": 1000
     },
     {
       "query": "gimnasia jujuy - atlético rafaela",
       "startedAt": "2026-09-13T18:50:00.000Z",
-      "volume": 500
+      "volume": 1000
+    },
+    {
+      "query": "club mitre - chaco for ever",
+      "startedAt": "2026-09-13T18:50:00.000Z",
+      "volume": 1000
     },
     {
       "query": "zverev hoy",
@@ -21,37 +41,17 @@
     {
       "query": "racing de córdoba - deportivo morón",
       "startedAt": "2026-09-13T18:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
-      "query": "us open 2026",
+      "query": "psv",
       "startedAt": "2026-09-13T18:30:00.000Z",
-      "volume": 2000
+      "volume": 500
     },
     {
       "query": "estudiantes - acassuso",
       "startedAt": "2026-09-13T18:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "psv",
-      "startedAt": "2026-09-13T18:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "almirante brown - ferro",
-      "startedAt": "2026-09-13T18:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "olimpia - sportivo luqueño",
-      "startedAt": "2026-09-13T18:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "stade brestois - psg",
-      "startedAt": "2026-09-13T18:10:00.000Z",
-      "volume": 5000
     }
   ]
 }
