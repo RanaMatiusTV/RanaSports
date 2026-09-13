@@ -1,17 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T03:51:22.800Z",
+  "updatedAt": "2026-09-13T04:25:17.864Z",
   "trends": [
+    {
+      "query": "cruz azul",
+      "startedAt": "2026-09-13T04:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "ilia topuria",
+      "startedAt": "2026-09-13T04:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "celine dion",
+      "startedAt": "2026-09-13T04:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "posiciones de alianza lima contra universitario",
+      "startedAt": "2026-09-13T03:30:00.000Z",
+      "volume": 200
+    },
     {
       "query": "cruz azul - américa",
       "startedAt": "2026-09-13T03:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "junior",
+      "query": "conor benn",
       "startedAt": "2026-09-13T03:20:00.000Z",
-      "volume": 200
+      "volume": 100
     },
     {
       "query": "daniel vila",
@@ -32,26 +52,6 @@
       "query": "myriam bregman",
       "startedAt": "2026-09-13T01:40:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "orlando city - toronto",
-      "startedAt": "2026-09-13T01:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "gladys, la bomba tucumana",
-      "startedAt": "2026-09-13T01:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "colorado - montréal",
-      "startedAt": "2026-09-13T01:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "gerardo romano",
-      "startedAt": "2026-09-13T01:10:00.000Z",
-      "volume": 200
     }
   ]
 }
