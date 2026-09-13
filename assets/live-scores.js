@@ -4,7 +4,7 @@
   if (standings) standings.hidden = true;
   if (!module) return;
 
-  const LIVE_URL = 'https://api.sofascore.com/api/v1/sport/football/events/live';
+  const DATA_URL = 'assets/live-scores.json';
   const REFRESH_MS = 60000;
   let refreshTimer = null;
 
@@ -54,28 +54,42 @@
     </a>`;
   }
 
-  function shell(content, state = 'live') {
+  function shell(content, state = 'live', updatedAt = '') {
     module.dataset.sourceStatus = state;
+    const updated = updatedAt ? `<span class="rs-live-updated">ACT. ${esc(updatedAt)}</span>` : '';
     module.innerHTML = `<div class="rs-live-ticker" role="region" aria-label="Resultados de fútbol en vivo">
-      <div class="rs-live-label"><span class="live-dot"></span><b>EN VIVO</b></div>
+      <div class="rs-live-label"><span class="live-dot"></span><b>EN VIVO</b>${updated}</div>
       <div class="rs-live-window"><div class="rs-live-track">${content}</div></div>
       <a class="rs-live-all" href="https://www.sofascore.com/es-la/football/livescore" target="_blank" rel="noopener noreferrer" aria-label="Ver todos los resultados">TODOS ↗</a>
     </div>`;
   }
 
-  function render(events) {
-    const live = (events || [])
+  function formatUpdated(iso) {
+    if (!iso) return '';
+    const date = new Date(iso);
+    if (Number.isNaN(date.getTime())) return '';
+    return new Intl.DateTimeFormat('es-AR', {
+      timeZone: 'America/Argentina/Buenos_Aires',
+      hour: '2-digit',
+      minute: '2-digit',
+      hour12: false
+    }).format(date);
+  }
+
+  function render(data) {
+    const live = (data?.events || [])
       .filter(event => ['inprogress','halftime','paused'].includes(event?.status?.type))
       .sort((a,b) => priority(b) - priority(a))
       .slice(0,12);
+    const updatedAt = formatUpdated(data?.generatedAt);
 
     if (!live.length) {
-      shell('<span class="rs-live-empty">No hay partidos de fútbol en vivo ahora</span>', 'idle');
+      shell('<span class="rs-live-empty">No hay partidos de fútbol en vivo ahora</span>', 'idle', updatedAt);
       return;
     }
 
     const items = live.map(eventHTML).join('<span class="rs-live-sep" aria-hidden="true">•</span>');
-    shell(items + '<span class="rs-live-sep" aria-hidden="true">•</span>' + items, 'connected');
+    shell(items + '<span class="rs-live-sep" aria-hidden="true">•</span>' + items, 'connected', updatedAt);
     requestAnimationFrame(() => {
       const track = module.querySelector('.rs-live-track');
       if (!track) return;
@@ -87,13 +101,13 @@
 
   async function load() {
     try {
-      const response = await fetch(LIVE_URL, {cache:'no-store', headers:{'accept':'application/json'}});
+      const response = await fetch(`${DATA_URL}?v=${Date.now()}`, { cache: 'no-store' });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const data = await response.json();
-      render(data?.events || []);
+      render(data);
     } catch (error) {
-      console.warn('RanaSports: no se pudieron actualizar los resultados en vivo.', error);
-      shell('<span class="rs-live-empty">Resultados en vivo temporalmente no disponibles</span>', 'error');
+      console.warn('RanaSports: no se pudo leer el cache local de resultados.', error);
+      shell('<span class="rs-live-empty">Actualizando resultados en vivo…</span>', 'loading');
     }
   }
 
@@ -105,6 +119,7 @@
       .rs-live-ticker{height:46px;display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;width:100%;overflow:hidden}
       .rs-live-label{height:100%;display:flex;align-items:center;gap:7px;padding:0 12px;border-right:1px solid #29313a;font-size:11px;letter-spacing:.06em;white-space:nowrap}
       .rs-live-label .live-dot{width:8px;height:8px;flex:none}
+      .rs-live-updated{font-size:8px;color:#7f8a96;font-weight:700;letter-spacing:0}
       .rs-live-window{min-width:0;overflow:hidden;height:100%;display:flex;align-items:center;mask-image:linear-gradient(to right,transparent,#000 18px,#000 calc(100% - 18px),transparent);-webkit-mask-image:linear-gradient(to right,transparent,#000 18px,#000 calc(100% - 18px),transparent)}
       .rs-live-track{display:flex;align-items:center;gap:14px;width:max-content;white-space:nowrap;padding-left:18px;animation:rsTicker var(--ticker-duration,45s) linear infinite;will-change:transform}
       .rs-live-track:hover{animation-play-state:paused}
@@ -121,6 +136,7 @@
       @media(max-width:699px){
         .rs-live-ticker{height:42px;grid-template-columns:auto minmax(0,1fr)}
         .rs-live-label{padding:0 9px;font-size:10px}
+        .rs-live-updated{display:none}
         .rs-live-all{display:none}
         .rs-live-league{display:none}
         .rs-live-track{gap:11px;padding-left:12px}
