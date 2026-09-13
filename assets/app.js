@@ -8,7 +8,7 @@ const liveModule=document.querySelector('#en-vivo');
 const standingsModule=document.querySelector('#posiciones');
 const moreTitle=document.querySelector('#moreNewsTitle');
 function layoutNews() {
- if(!newsGrid || !liveModule)return;
+ if(!newsGrid)return;
  const seen=new Set();
  const visible=cards.filter(card=>{
   if(card.hidden)return false;const url=card.querySelector('h3 a')?.href;
@@ -22,7 +22,7 @@ function layoutNews() {
   if(/\b(murio|fallecio|muerte|grave|ileso|ilesa)\b/.test(title))impact+=1;
   return impact+(['independiente','seleccion','f1'].includes(card.dataset.sport)?1:0);
  };
- const featured=active==='todas'&&!search?.value.trim()?visible.filter(card=>publishedAt(card)<=now&&now-publishedAt(card)<=86400000).map(card=>({card,score:Math.max(0,Number(card.dataset.trendScore)||window.ranaTrendScore?.(card)||0),editorial:editorial(card)})).sort((a,b)=>b.score-a.score||b.editorial-a.editorial||publishedAt(b.card)-publishedAt(a.card)).slice(0,3).map(item=>item.card):[];
+ const featured=active==='todas'&&!search?.value.trim()?visible.filter(card=>publishedAt(card)<=now&&now-publishedAt(card)<=86400000).map(card=>({card,score:Math.max(0,Number(card.dataset.trendScore)||window.ranaTrendScore?.(card)||0),editorial:editorial(card)})).sort((a,b)=>b.score-a.score||b.editorial-a.editorial||publishedAt(b.card)-publishedAt(a.card)).slice(0,1).map(item=>item.card):[];
  newsGrid.classList.toggle('no-featured',featured.length===0);newsGrid.classList.toggle('single-featured',featured.length===1);
  const selected=new Set(featured);const latest=visible.filter(card=>!selected.has(card));
  cards.forEach(card=>{card.classList.remove('lead-story','secondary-story','more-story');card.dataset.section=selected.has(card)?'featured':'latest';});
@@ -30,7 +30,8 @@ function layoutNews() {
  latest.forEach((card,index)=>{card.classList.add('more-story');card.style.setProperty('--more-row',Math.floor(index/3)+(featured.length?5:3));card.style.setProperty('--more-col',index%3+1);card.style.setProperty('--mobile-row',Math.floor(index/2)+(featured.length?6:4));card.style.setProperty('--mobile-col',(index%2)*3+1);});
  const notice=document.querySelector('#featuredNotice');if(notice)notice.hidden=featured.length>0||active!=='todas'||Boolean(search?.value.trim());
  moreTitle.hidden=false;moreTitle.textContent='ÚLTIMAS NOTICIAS';
- newsGrid.append(...featured,liveModule,standingsModule,moreTitle,...latest,...cards.filter(card=>card.hidden));
+ const modules=[liveModule,standingsModule].filter(Boolean);
+ newsGrid.append(...featured,...modules,moreTitle,...latest,...cards.filter(card=>card.hidden));
 }
 const publishedAt = card => Date.parse(card.querySelector('time')?.dateTime || '') || 0;
 cards.sort((a, b) => publishedAt(b) - publishedAt(a));
