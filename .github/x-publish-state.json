@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTIyNzYwMDAwMCwiQ09MQVBJTlRPOiDigJxGVUUgVU5BIERFIE1JUyBNRUpPUkVTIFFVQUxZU-KAnTsgQUxQSU5FIE5PIEVTUEVSQUJBIExMRUdBUiBBIFEzIl0": {
+      "account": "f1",
+      "title": "COLAPINTO: “FUE UNA DE MIS MEJORES QUALYS”; ALPINE NO ESPERABA LLEGAR A Q3",
+      "dueAt": "2026-09-13T03:00:00.000Z",
+      "bufferPostId": "6aa61082f7b1958d5cdbb0ce",
+      "createdAt": "2026-09-13T02:54:58.853Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODkyNjIyODAwMDAsIk1FU1NJIE1FVEnDkyBVTiBHT0xBWk8sIFBFUk8gSU5URVIgTUlBTUkgRU1QQVTDkyAyLTIgQ09OIE5BU0hWSUxMRSJd": {
       "account": "main",
       "title": "MESSI METIÓ UN GOLAZO, PERO INTER MIAMI EMPATÓ 2-2 CON NASHVILLE",
@@ -234,7 +241,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-12T20:25:00.000Z",
+    "f1": "2026-09-13T03:05:00.000Z",
     "main": "2026-09-13T02:00:00.000Z"
   },
   "buffer": {
