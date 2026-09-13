@@ -1,0 +1,40 @@
+name: Update live scores
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update-live-scores.cjs'
+      - '.github/workflows/update-live-scores.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ranasports-live-scores
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch live scores
+        run: node scripts/update-live-scores.cjs
+
+      - name: Commit changes if needed
+        run: |
+          if git diff --quiet -- assets/live-scores.json; then
+            echo "Sin cambios en marcadores."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/live-scores.json
+          git commit -m "chore: update live scores"
+          git push
