@@ -34,20 +34,45 @@
  notice.innerHTML='<p style="margin:0 0 7px"><strong style="color:#fff">Aviso legal y revisión de contenido.</strong> RanaSports es un proyecto personal e informativo de recopilación y organización de actualidad deportiva. Su acceso es gratuito. Las contribuciones voluntarias, si las hubiera, están destinadas al mantenimiento del proyecto. Las imágenes, videos y otros contenidos de terceros pertenecen a sus respectivos titulares.</p><p style="margin:0">Si sos titular de algún contenido publicado y querés solicitar su revisión, acreditá la titularidad y escribí a <a href="mailto:ranamatius@gmail.com?subject=Solicitud%20de%20revisi%C3%B3n%20de%20contenido%20-%20RanaSports" style="color:#fff;font-weight:700">ranamatius@gmail.com</a>. Cuando corresponda, el material será revisado o retirado.</p>';
 })();
 
-// En celulares, el bloque de apoyo aparece antes del listado largo de noticias.
+// En celulares, el bloque de apoyo aparece antes del listado largo de noticias y en formato compacto.
 (() => {
  const supportCard=document.querySelector('.support-card');
  const sidebar=supportCard?.parentElement;
  const supportNext=supportCard?.nextSibling;
  const newsGrid=document.querySelector('#newsGrid');
  if(!supportCard||!sidebar||!newsGrid)return;
+ const title=supportCard.querySelector('h3');
+ const description=supportCard.querySelector('p');
+ const eyebrow=supportCard.querySelector('.eyebrow');
+ const alias=supportCard.querySelector('.support-alias');
+ const button=supportCard.querySelector('.support-copy');
  const mobile=matchMedia('(max-width:699px)');
  function placeSupport(){
   if(mobile.matches){
    supportCard.style.margin='0 0 14px';
+   supportCard.style.padding='12px 14px';
+   supportCard.style.display='grid';
+   supportCard.style.gridTemplateColumns='1fr auto';
+   supportCard.style.alignItems='center';
+   supportCard.style.gap='6px 10px';
+   if(title)title.style.display='none';
+   if(description)description.style.display='none';
+   if(eyebrow){eyebrow.style.gridColumn='1/-1';eyebrow.style.margin='0';}
+   if(alias){alias.style.margin='0';alias.style.fontSize='15px';alias.style.lineHeight='1.2';}
+   if(button){button.style.width='auto';button.style.minHeight='38px';button.style.padding='8px 14px';button.style.fontSize='12px';}
    newsGrid.before(supportCard);
   }else{
    supportCard.style.margin='';
+   supportCard.style.padding='';
+   supportCard.style.display='';
+   supportCard.style.gridTemplateColumns='';
+   supportCard.style.alignItems='';
+   supportCard.style.gap='';
+   if(title)title.style.display='';
+   if(description)description.style.display='';
+   if(eyebrow){eyebrow.style.gridColumn='';eyebrow.style.margin='';}
+   if(alias){alias.style.margin='';alias.style.fontSize='';alias.style.lineHeight='';}
+   if(button){button.style.width='';button.style.minHeight='';button.style.padding='';button.style.fontSize='';}
    if(supportNext&&supportNext.parentNode===sidebar)sidebar.insertBefore(supportCard,supportNext);else sidebar.append(supportCard);
   }
  }
