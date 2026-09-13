@@ -33,3 +33,24 @@
  if(!notice)return;
  notice.innerHTML='<p style="margin:0 0 7px"><strong style="color:#fff">Aviso legal y revisión de contenido.</strong> RanaSports es un proyecto personal e informativo de recopilación y organización de actualidad deportiva. Su acceso es gratuito. Las contribuciones voluntarias, si las hubiera, están destinadas al mantenimiento del proyecto. Las imágenes, videos y otros contenidos de terceros pertenecen a sus respectivos titulares.</p><p style="margin:0">Si sos titular de algún contenido publicado y querés solicitar su revisión, acreditá la titularidad y escribí a <a href="mailto:ranamatius@gmail.com?subject=Solicitud%20de%20revisi%C3%B3n%20de%20contenido%20-%20RanaSports" style="color:#fff;font-weight:700">ranamatius@gmail.com</a>. Cuando corresponda, el material será revisado o retirado.</p>';
 })();
+
+// En celulares, el bloque de apoyo aparece antes del listado largo de noticias.
+(() => {
+ const supportCard=document.querySelector('.support-card');
+ const sidebar=supportCard?.parentElement;
+ const supportNext=supportCard?.nextSibling;
+ const newsGrid=document.querySelector('#newsGrid');
+ if(!supportCard||!sidebar||!newsGrid)return;
+ const mobile=matchMedia('(max-width:699px)');
+ function placeSupport(){
+  if(mobile.matches){
+   supportCard.style.margin='0 0 14px';
+   newsGrid.before(supportCard);
+  }else{
+   supportCard.style.margin='';
+   if(supportNext&&supportNext.parentNode===sidebar)sidebar.insertBefore(supportCard,supportNext);else sidebar.append(supportCard);
+  }
+ }
+ placeSupport();
+ mobile.addEventListener('change',placeSupport);
+})();
