@@ -1,12 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T01:51:39.650Z",
+  "updatedAt": "2026-09-13T02:25:06.112Z",
   "trends": [
+    {
+      "query": "daniel vila",
+      "startedAt": "2026-09-13T01:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "luis machin",
+      "startedAt": "2026-09-13T01:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "juana viale",
+      "startedAt": "2026-09-13T01:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "myriam bregman",
+      "startedAt": "2026-09-13T01:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "orlando city - toronto",
+      "startedAt": "2026-09-13T01:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "alianza - junior",
       "startedAt": "2026-09-13T01:30:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "gladys, la bomba tucumana",
+      "startedAt": "2026-09-13T01:20:00.000Z",
+      "volume": 500
     },
     {
       "query": "colorado - montréal",
@@ -22,36 +52,6 @@
       "query": "poceada chaqueña",
       "startedAt": "2026-09-13T01:00:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "botafogo vs",
-      "startedAt": "2026-09-13T01:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "excursionistas",
-      "startedAt": "2026-09-13T01:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "esquí",
-      "startedAt": "2026-09-13T01:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "malcorra",
-      "startedAt": "2026-09-13T01:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ryan reynolds",
-      "startedAt": "2026-09-13T01:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "pablo migliore",
-      "startedAt": "2026-09-13T00:50:00.000Z",
-      "volume": 2000
     }
   ]
 }
