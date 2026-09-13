@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T20:49:52.932Z",
+  "updatedAt": "2026-09-13T21:24:07.235Z",
   "trends": [
     {
-      "query": "colo-colo - concepción",
-      "startedAt": "2026-09-13T20:30:00.000Z",
+      "query": "san martín de tucumán - agropecuario",
+      "startedAt": "2026-09-13T21:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "chicago fire - new england",
+      "startedAt": "2026-09-13T21:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "real sociedad",
-      "startedAt": "2026-09-13T20:30:00.000Z",
+      "query": "bbc news mundo",
+      "startedAt": "2026-09-13T21:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "federal a",
-      "startedAt": "2026-09-13T20:30:00.000Z",
-      "volume": 200
+      "query": "changuito zeballos",
+      "startedAt": "2026-09-13T21:10:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "sarmiento de resistencia",
-      "startedAt": "2026-09-13T20:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "godoy cruz - colón",
-      "startedAt": "2026-09-13T20:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ricardo fort",
-      "startedAt": "2026-09-13T20:10:00.000Z",
+      "query": "villa mitre",
+      "startedAt": "2026-09-13T21:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "ryan gosling",
-      "startedAt": "2026-09-13T20:00:00.000Z",
+      "query": "servicio militar",
+      "startedAt": "2026-09-13T20:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "usopen",
-      "startedAt": "2026-09-13T20:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "independiente vs san lorenzo",
-      "startedAt": "2026-09-13T20:00:00.000Z",
+      "query": "jaime durán barba",
+      "startedAt": "2026-09-13T20:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "sporting lisboa",
-      "startedAt": "2026-09-13T19:50:00.000Z",
+      "query": "gelp",
+      "startedAt": "2026-09-13T20:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "vivienda prefabricada",
+      "startedAt": "2026-09-13T20:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "independiente san lorenzo",
+      "startedAt": "2026-09-13T20:40:00.000Z",
       "volume": 200
     }
   ]
