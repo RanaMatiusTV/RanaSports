@@ -1,4 +1,12 @@
 (() => {
+  if (!document.querySelector('link[data-rs-portal-list]')) {
+    const css = document.createElement('link');
+    css.rel = 'stylesheet';
+    css.href = 'assets/portal-list.css?v=20260913-0214';
+    css.dataset.rsPortalList = '1';
+    document.head.append(css);
+  }
+
   const oldModule = document.querySelector('#en-vivo');
   const standings = document.querySelector('#posiciones');
   const header = document.querySelector('.site-header');
