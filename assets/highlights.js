@@ -9,7 +9,7 @@
  // Destacadas apunta al interés masivo argentino, no a preferencias partidarias.
  const strongEntities=[
   ['messi',140],['seleccion argentina',135],['argentina',90],
-  ['boca',105],['river',105],['colapinto',100],['formula 1',85],['f1',85],
+  ['boca',105],['river',105],['colapinto',180],['formula 1',85],['f1',85],
   ['libertadores',95],['champions',80],['sudamericana',70],
   ['independiente',72],['racing',68],['san lorenzo',62],['huracan',55],
   ['real madrid',70],['barcelona',70]
@@ -56,6 +56,9 @@
   if(/final|semifinal|clasif|elimin|campeon|titulo/.test(text) && /vs\.?|ante |\b\d+\s*[-–]\s*\d+\b/.test(text)) score+=45;
   if(/messi/.test(text) && /gol|asistencia|doblete|triplete|lesion|record/.test(text)) score+=55;
   if(/colapinto/.test(text) && /carrera|clasificacion|qualy|q3|choque|abandono|puntos|podio/.test(text)) score+=45;
+
+  // Un resultado recién terminado de Colapinto es prioridad máxima para RanaSports.
+  if(ageHours<=12 && /colapinto/.test(text) && /termino|carrera|puntos|podio|gano|abandono/.test(text)) score+=500;
 
   // Recencia importa mucho en portada, pero no define sola la selección.
   if(ageHours<=2) score+=55;
