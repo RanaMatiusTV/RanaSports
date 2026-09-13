@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T21:24:07.235Z",
+  "updatedAt": "2026-09-13T21:49:35.816Z",
   "trends": [
+    {
+      "query": "independiente - san lorenzo",
+      "startedAt": "2026-09-13T21:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "anthropic",
+      "startedAt": "2026-09-13T21:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "san martín de tucumán - agropecuario",
       "startedAt": "2026-09-13T21:10:00.000Z",
-      "volume": 500
+      "volume": 1000
+    },
+    {
+      "query": "changuito zeballos",
+      "startedAt": "2026-09-13T21:10:00.000Z",
+      "volume": 2000
     },
     {
       "query": "chicago fire - new england",
@@ -14,14 +29,14 @@
       "volume": 200
     },
     {
-      "query": "bbc news mundo",
+      "query": "rubio ñu - nacional",
       "startedAt": "2026-09-13T21:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "changuito zeballos",
+      "query": "bbc news mundo",
       "startedAt": "2026-09-13T21:10:00.000Z",
-      "volume": 1000
+      "volume": 200
     },
     {
       "query": "villa mitre",
@@ -37,21 +52,6 @@
       "query": "jaime durán barba",
       "startedAt": "2026-09-13T20:50:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "gelp",
-      "startedAt": "2026-09-13T20:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "vivienda prefabricada",
-      "startedAt": "2026-09-13T20:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "independiente san lorenzo",
-      "startedAt": "2026-09-13T20:40:00.000Z",
-      "volume": 200
     }
   ]
 }
