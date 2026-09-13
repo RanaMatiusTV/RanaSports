@@ -1,15 +1,30 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T22:50:33.266Z",
+  "updatedAt": "2026-09-13T23:22:53.886Z",
   "trends": [
     {
-      "query": "barcelona sc - delfín",
+      "query": "virgen del milagro",
+      "startedAt": "2026-09-13T23:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "macarena ceballos",
+      "startedAt": "2026-09-13T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jugador",
+      "startedAt": "2026-09-13T22:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "libertad fc - independiente del valle",
       "startedAt": "2026-09-13T22:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "libertad fc - independiente del valle",
+      "query": "barcelona sc - delfín",
       "startedAt": "2026-09-13T22:30:00.000Z",
       "volume": 200
     },
@@ -21,7 +36,7 @@
     {
       "query": "juan miguel arrayago",
       "startedAt": "2026-09-13T22:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "concierto",
@@ -31,27 +46,12 @@
     {
       "query": "peñarol - albion",
       "startedAt": "2026-09-13T22:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "san lorenzo hoy",
-      "startedAt": "2026-09-13T22:00:00.000Z",
       "volume": 500
     },
     {
       "query": "trinity rodman",
       "startedAt": "2026-09-13T22:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "lunes",
-      "startedAt": "2026-09-13T21:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "agustín canapino",
-      "startedAt": "2026-09-13T21:50:00.000Z",
-      "volume": 2000
     }
   ]
 }
