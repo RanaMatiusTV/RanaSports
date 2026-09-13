@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T16:25:25.686Z",
+  "updatedAt": "2026-09-13T17:23:36.299Z",
   "trends": [
     {
-      "query": "phil foden",
-      "startedAt": "2026-09-13T16:00:00.000Z",
+      "query": "semenyo",
+      "startedAt": "2026-09-13T17:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "nfl",
+      "startedAt": "2026-09-13T17:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tigre - rosario central",
+      "startedAt": "2026-09-13T16:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "sofi martinez",
+      "startedAt": "2026-09-13T16:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "bayern",
-      "startedAt": "2026-09-13T16:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "bayern munich",
-      "startedAt": "2026-09-13T16:00:00.000Z",
+      "query": "benfica - gil vicente",
+      "startedAt": "2026-09-13T16:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "le mans football club - lens",
-      "startedAt": "2026-09-13T16:00:00.000Z",
-      "volume": 100
+      "query": "parrilla f1",
+      "startedAt": "2026-09-13T16:40:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "aldo leiva",
-      "startedAt": "2026-09-13T16:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "vicente taborda",
-      "startedAt": "2026-09-13T15:50:00.000Z",
+      "query": "getafe - deportivo",
+      "startedAt": "2026-09-13T16:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "exequiel zeballos",
-      "startedAt": "2026-09-13T15:40:00.000Z",
-      "volume": 1000
+      "query": "donnarumma",
+      "startedAt": "2026-09-13T16:40:00.000Z",
+      "volume": 200
     },
     {
-      "query": "cd moquegua - sporting cristal",
-      "startedAt": "2026-09-13T15:30:00.000Z",
+      "query": "doku",
+      "startedAt": "2026-09-13T16:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "canal 9",
+      "startedAt": "2026-09-13T16:40:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "leipzig",
-      "startedAt": "2026-09-13T15:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "city",
-      "startedAt": "2026-09-13T15:20:00.000Z",
-      "volume": 1000
     }
   ]
 }
