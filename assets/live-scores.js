@@ -29,12 +29,12 @@
 
   const style = document.createElement('style');
   style.textContent = `
-    .rs-scorebat-wrap{background:#fff;overflow:hidden;width:100%;height:620px}
+    .rs-scorebat-wrap{background:#fff;overflow:hidden;width:100%;height:360px}
     .rs-scorebat-frame{display:block;width:100%;height:100%;border:0;background:#fff}
-    .rs-live-footer{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:10px 12px;color:#9fa9b5;font-size:10px;border-top:1px solid #29313a}
+    .rs-live-footer{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:8px 10px;color:#9fa9b5;font-size:10px;border-top:1px solid #29313a}
     .rs-live-footer a{color:#fff;font-weight:900;text-decoration:none;white-space:nowrap}
-    @media(max-width:699px){.rs-scorebat-wrap{height:680px}}
-    @media(min-width:1050px){.rs-scorebat-wrap{height:720px}}
+    @media(max-width:699px){.rs-scorebat-wrap{height:320px}}
+    @media(min-width:1050px){.rs-scorebat-wrap{height:380px}}
   `;
   document.head.append(style);
 })();
