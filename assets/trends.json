@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T11:23:47.195Z",
+  "updatedAt": "2026-09-13T11:49:58.046Z",
   "trends": [
+    {
+      "query": "f1",
+      "startedAt": "2026-09-13T11:10:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "kevin zenón",
       "startedAt": "2026-09-13T11:10:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "moto gp",
       "startedAt": "2026-09-13T10:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "garbarino",
@@ -21,7 +26,7 @@
     {
       "query": "loto plus",
       "startedAt": "2026-09-13T10:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "f2",
@@ -46,11 +51,6 @@
     {
       "query": "sele vera accidente",
       "startedAt": "2026-09-13T05:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ilia topuria",
-      "startedAt": "2026-09-13T04:10:00.000Z",
       "volume": 100
     }
   ]
