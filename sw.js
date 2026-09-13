@@ -1,6 +1,6 @@
 const PREFIX = 'ranasports-' + self.registration.scope;
-const CACHE = PREFIX + 'v13';
-const CORE = ['./', './index.html', './noticia.html', './assets/styles.css', './assets/redesign.css', './assets/app.js', './assets/navigation.js', './assets/highlights.js', './assets/breaking.js', './assets/trends.json', './assets/news-feed.js', './assets/icon.svg', './assets/icon-192.png', './assets/icon-512.png', './assets/apple-touch-icon.png', './manifest.webmanifest', './noticias/bienvenidos.html', './noticias/agenda-deportiva.html', './noticias/rana-f1.html', './legal/acerca-de.html', './legal/contacto.html', './legal/privacidad.html'];
+const CACHE = PREFIX + 'v14';
+const CORE = ['./', './index.html', './noticia.html', './assets/styles.css', './assets/redesign.css', './assets/app.js', './assets/navigation.js', './assets/highlights.js', './assets/breaking.js', './assets/live-scores.js', './assets/trends.json', './assets/news-feed.js', './assets/icon.svg', './assets/icon-192.png', './assets/icon-512.png', './assets/apple-touch-icon.png', './manifest.webmanifest', './noticias/bienvenidos.html', './noticias/agenda-deportiva.html', './noticias/rana-f1.html', './legal/acerca-de.html', './legal/contacto.html', './legal/privacidad.html'];
 const coreURLs = new Set(CORE.map(path=>new URL(path,self.registration.scope).href));
 const NEWS_CSV_HOST='docs.google.com';
 const NEWS_CSV_PATH='/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub';
