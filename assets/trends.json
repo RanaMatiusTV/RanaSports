@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T12:29:28.359Z",
+  "updatedAt": "2026-09-13T12:52:59.824Z",
   "trends": [
+    {
+      "query": "kendry páez",
+      "startedAt": "2026-09-13T12:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "coventry city - brighton",
+      "startedAt": "2026-09-13T12:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "13 de septiembre",
+      "startedAt": "2026-09-13T12:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "celta de vigo - málaga",
       "startedAt": "2026-09-13T12:00:00.000Z",
@@ -11,17 +26,22 @@
     {
       "query": "motogp",
       "startedAt": "2026-09-13T11:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
-      "query": "kevin zenón",
-      "startedAt": "2026-09-13T11:10:00.000Z",
-      "volume": 200
+      "query": "f1 hoy",
+      "startedAt": "2026-09-13T11:20:00.000Z",
+      "volume": 2000
     },
     {
       "query": "f1",
       "startedAt": "2026-09-13T11:10:00.000Z",
       "volume": 2000
+    },
+    {
+      "query": "kevin zenón",
+      "startedAt": "2026-09-13T11:10:00.000Z",
+      "volume": 200
     },
     {
       "query": "moto gp",
@@ -32,26 +52,6 @@
       "query": "peronismo",
       "startedAt": "2026-09-13T10:50:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "garbarino",
-      "startedAt": "2026-09-13T10:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "loto plus",
-      "startedAt": "2026-09-13T10:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "f2",
-      "startedAt": "2026-09-13T09:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "as",
-      "startedAt": "2026-09-13T09:10:00.000Z",
-      "volume": 200
     }
   ]
 }
