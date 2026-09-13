@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTMxMDk0MDAwMCwiQ09MQVBJTlRPIFRFUk1JTsOTIDfCsCBFTiBNQURSSUQgWSBBTlRPTkVMTEkgR0FOw5MgRUwgR1AgREUgRVNQQcORQSJd": {
+      "account": "f1",
+      "title": "COLAPINTO TERMINÓ 7° EN MADRID Y ANTONELLI GANÓ EL GP DE ESPAÑA",
+      "dueAt": "2026-09-13T15:10:00.000Z",
+      "bufferPostId": "6aa6bbb566679b076f2c7765",
+      "createdAt": "2026-09-13T15:05:25.703Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTI5NjMwMDAwMCwiVkFSUk9ORSBURVJNSU7DkyAxNcKwIEVOIExBIEZFQVRVUkUgUkFDRSBERSBGMiBFTiBNQURSSUQiXQ": {
       "account": "f1",
       "title": "VARRONE TERMINÓ 15° EN LA FEATURE RACE DE F2 EN MADRID",
@@ -290,7 +297,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-13T15:00:00.000Z",
+    "f1": "2026-09-13T15:15:00.000Z",
     "main": "2026-09-13T13:05:00.000Z"
   },
   "buffer": {
