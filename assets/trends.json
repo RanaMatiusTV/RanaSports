@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T08:25:52.149Z",
+  "updatedAt": "2026-09-13T09:08:19.079Z",
   "trends": [
+    {
+      "query": "la nación",
+      "startedAt": "2026-09-13T08:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "sele vera accidente",
       "startedAt": "2026-09-13T05:30:00.000Z",
@@ -29,8 +34,8 @@
       "volume": 1000
     },
     {
-      "query": "junior",
-      "startedAt": "2026-09-13T03:20:00.000Z",
+      "query": "monterrey fc",
+      "startedAt": "2026-09-13T02:50:00.000Z",
       "volume": 100
     },
     {
@@ -47,11 +52,6 @@
       "query": "luis machin",
       "startedAt": "2026-09-13T01:50:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "juana viale",
-      "startedAt": "2026-09-13T01:50:00.000Z",
-      "volume": 100
     }
   ]
 }
