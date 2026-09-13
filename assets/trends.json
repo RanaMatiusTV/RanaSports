@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T17:49:55.423Z",
+  "updatedAt": "2026-09-13T18:27:05.398Z",
   "trends": [
     {
-      "query": "zverev",
-      "startedAt": "2026-09-13T17:30:00.000Z",
+      "query": "stade brestois - psg",
+      "startedAt": "2026-09-13T18:10:00.000Z",
       "volume": 1000
     },
     {
-      "query": "napoli vs",
-      "startedAt": "2026-09-13T17:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "us open final",
-      "startedAt": "2026-09-13T17:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "hebe casado",
-      "startedAt": "2026-09-13T17:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ndiaye",
-      "startedAt": "2026-09-13T17:20:00.000Z",
+      "query": "patronato - temperley",
+      "startedAt": "2026-09-13T18:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "periódico",
-      "startedAt": "2026-09-13T17:20:00.000Z",
+      "query": "sinner",
+      "startedAt": "2026-09-13T18:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "galatasaray - kocaelispor",
-      "startedAt": "2026-09-13T17:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "sarmiento - belgrano",
-      "startedAt": "2026-09-13T17:10:00.000Z",
+      "query": "real sociedad - atlético madrid",
+      "startedAt": "2026-09-13T18:00:00.000Z",
       "volume": 2000
     },
     {
-      "query": "tini stoessel",
-      "startedAt": "2026-09-13T17:10:00.000Z",
+      "query": "us open",
+      "startedAt": "2026-09-13T18:00:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "sassuolo - juventus",
+      "startedAt": "2026-09-13T17:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "maru botana",
-      "startedAt": "2026-09-13T17:10:00.000Z",
+      "query": "galatasaray",
+      "startedAt": "2026-09-13T17:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "almirante brown",
+      "startedAt": "2026-09-13T17:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "suramericanos 2026",
+      "startedAt": "2026-09-13T17:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "del potro",
+      "startedAt": "2026-09-13T17:40:00.000Z",
       "volume": 200
     }
   ]
