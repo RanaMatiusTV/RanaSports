@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T00:53:59.735Z",
+  "updatedAt": "2026-09-13T01:24:50.483Z",
   "trends": [
+    {
+      "query": "gerardo romano",
+      "startedAt": "2026-09-13T01:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "poceada chaqueña",
+      "startedAt": "2026-09-13T01:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "botafogo vs",
+      "startedAt": "2026-09-13T01:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "excursionistas",
+      "startedAt": "2026-09-13T01:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "esquí",
+      "startedAt": "2026-09-13T01:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "malcorra",
+      "startedAt": "2026-09-13T01:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "ryan reynolds",
+      "startedAt": "2026-09-13T01:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "monterrey - tigres",
+      "startedAt": "2026-09-13T00:50:00.000Z",
+      "volume": 200
+    },
     {
       "query": "alianza lima - universitario",
       "startedAt": "2026-09-13T00:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "boxeo hoy",
       "startedAt": "2026-09-13T00:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "inter miami vs. nashville sc",
-      "startedAt": "2026-09-13T00:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "florence pugh",
-      "startedAt": "2026-09-13T00:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "jean silva",
-      "startedAt": "2026-09-12T23:50:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "luck ra",
-      "startedAt": "2026-09-12T23:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "azúcar",
-      "startedAt": "2026-09-12T23:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "expulsión",
-      "startedAt": "2026-09-12T23:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "josé miguel delgado",
-      "startedAt": "2026-09-12T23:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "el club gastronómico",
-      "startedAt": "2026-09-12T23:50:00.000Z",
-      "volume": 100
     }
   ]
 }
