@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTI5NjMwMDAwMCwiVkFSUk9ORSBURVJNSU7DkyAxNcKwIEVOIExBIEZFQVRVUkUgUkFDRSBERSBGMiBFTiBNQURSSUQiXQ": {
+      "account": "f1",
+      "title": "VARRONE TERMINÓ 15° EN LA FEATURE RACE DE F2 EN MADRID",
+      "dueAt": "2026-09-13T14:55:00.000Z",
+      "bufferPostId": "6aa6b8eb4cc07ffa4d385b7b",
+      "createdAt": "2026-09-13T14:53:31.672Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMyIsMTc4OTI5ODcwMDAwMCwiVEFQT05FTiBHQU7DkyBMQSDDmkxUSU1BIENBUlJFUkEgREUgRjMgRU4gTUFEUklEIFkgTE9HUsOTIFNVIFBSSU1FUiBUUklVTkZPIl0": {
       "account": "f1",
       "title": "TAPONEN GANÓ LA ÚLTIMA CARRERA DE F3 EN MADRID Y LOGRÓ SU PRIMER TRIUNFO",
@@ -283,7 +290,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-13T14:40:00.000Z",
+    "f1": "2026-09-13T15:00:00.000Z",
     "main": "2026-09-13T13:05:00.000Z"
   },
   "buffer": {
