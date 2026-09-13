@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTMyOTI0MDAwMCwiQlJJQVRPUkUgRUxPR0nDkyBBIENPTEFQSU5UTzog4oCcSElaTyBVTiBUUkFCQUpPIEVTUEVDVEFDVUxBUuKAnSJd": {
+      "account": "f1",
+      "title": "BRIATORE ELOGIÓ A COLAPINTO: “HIZO UN TRABAJO ESPECTACULAR”",
+      "dueAt": "2026-09-13T20:55:00.000Z",
+      "bufferPostId": "6aa70d651f8cf810a11d0238",
+      "createdAt": "2026-09-13T20:53:57.914Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTMxNzM2MDAwMCwiRUwgR0VTVE8gREUgQ09MQVBJTlRPIFFVRSBFTU9DSU9Ow5MgQSBVTiBDT01JU0FSSU8gQVJHRU5USU5PIEVOIE1BRFJJRCJd": {
       "account": "f1",
       "title": "EL GESTO DE COLAPINTO QUE EMOCIONÓ A UN COMISARIO ARGENTINO EN MADRID",
@@ -311,7 +318,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-13T18:20:00.000Z",
+    "f1": "2026-09-13T21:00:00.000Z",
     "main": "2026-09-13T13:05:00.000Z"
   },
   "buffer": {
