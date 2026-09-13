@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T18:52:27.842Z",
+  "updatedAt": "2026-09-13T19:22:34.348Z",
   "trends": [
+    {
+      "query": "alexander zverev",
+      "startedAt": "2026-09-13T19:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "gimnasia jujuy - atlético rafaela",
+      "startedAt": "2026-09-13T18:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "zverev hoy",
+      "startedAt": "2026-09-13T18:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "racing de córdoba - deportivo morón",
+      "startedAt": "2026-09-13T18:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "us open 2026",
+      "startedAt": "2026-09-13T18:30:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "estudiantes - acassuso",
       "startedAt": "2026-09-13T18:30:00.000Z",
@@ -14,44 +39,19 @@
       "volume": 200
     },
     {
-      "query": "shelton",
-      "startedAt": "2026-09-13T18:20:00.000Z",
-      "volume": 2000
-    },
-    {
       "query": "almirante brown - ferro",
       "startedAt": "2026-09-13T18:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "olimpia - sportivo luqueño",
       "startedAt": "2026-09-13T18:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "stade brestois - psg",
       "startedAt": "2026-09-13T18:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "patronato - temperley",
-      "startedAt": "2026-09-13T18:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "sinner",
-      "startedAt": "2026-09-13T18:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "real sociedad - atlético madrid",
-      "startedAt": "2026-09-13T18:00:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "us open",
-      "startedAt": "2026-09-13T18:00:00.000Z",
-      "volume": 10000
     }
   ]
 }
