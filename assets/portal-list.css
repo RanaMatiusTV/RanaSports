@@ -1,33 +1,45 @@
-/* RanaSports: portada editorial de títulos, inspirada en portales deportivos argentinos sin copiar su diseño. */
+/* RanaSports: portada editorial visual, inspirada en portales deportivos argentinos sin copiar su diseño. */
 #ultimas.portal-layout{display:block!important;max-width:1180px!important}
 #ultimas .main-feed{width:100%!important;max-width:none!important;min-width:0!important}
 #ultimas .sidebar{display:none!important}
 #newsGrid.editorial-grid{display:block!important;width:100%!important;max-width:none!important;margin:0!important;padding:0!important}
 #newsGrid .news-card,
 #newsGrid .lead-story,
-#newsGrid .secondary-story{display:block!important;width:100%!important;max-width:none!important;min-height:0!important;margin:0!important;padding:0!important;background:transparent!important;border:0!important;border-radius:0!important;box-shadow:none!important;overflow:visible!important}
+#newsGrid .secondary-story{display:block!important;width:100%!important;max-width:none!important;min-height:0!important;margin:0!important;padding:0 0 28px!important;background:transparent!important;border:0!important;border-radius:0!important;box-shadow:none!important;overflow:visible!important}
 #newsGrid .news-card+.news-card,
 #newsGrid .lead-story+.news-card,
-#newsGrid .secondary-story+.news-card{border-top:1px solid rgba(255,255,255,.12)!important}
-#newsGrid .card-visual,
-#newsGrid .news-image,
+#newsGrid .secondary-story+.news-card{border-top:1px solid rgba(255,255,255,.12)!important;padding-top:28px!important}
 #newsGrid .meta,
 #newsGrid .news-excerpt,
 #newsGrid .read-more,
 #newsGrid .card-body>p,
 #newsGrid .card-body>.badge,
 #newsGrid .card-body>time{display:none!important}
-#newsGrid .card-body{display:block!important;width:100%!important;padding:20px 2px!important;margin:0!important;background:transparent!important;position:relative!important;inset:auto!important;transform:none!important}
-#newsGrid h3{margin:0!important;padding:0!important;max-width:none!important;font-size:clamp(1.2rem,2vw,1.72rem)!important;line-height:1.16!important;font-weight:850!important;letter-spacing:-.02em!important}
+#newsGrid .card-visual,
+#newsGrid .news-image{display:block!important;width:100%!important;max-width:none!important;aspect-ratio:16/9!important;height:auto!important;min-height:0!important;margin:0!important;padding:0!important;border-radius:12px!important;overflow:hidden!important;background:#171d24!important;position:relative!important;inset:auto!important}
+#newsGrid .card-visual img,
+#newsGrid .news-image img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important;object-position:50% 24%!important}
+#newsGrid .lead-story>.news-image{position:relative!important;inset:auto!important;width:100%!important;height:auto!important;aspect-ratio:16/9!important;max-height:none!important;z-index:auto!important}
+#newsGrid .lead-story>.news-image:after{display:none!important}
+#newsGrid .card-body{display:block!important;width:100%!important;padding:14px 2px 0!important;margin:0!important;background:transparent!important;position:relative!important;inset:auto!important;transform:none!important}
+#newsGrid h3{margin:0!important;padding:0!important;max-width:none!important;font-size:clamp(1.25rem,2.2vw,1.9rem)!important;line-height:1.13!important;font-weight:850!important;letter-spacing:-.025em!important}
 #newsGrid h3 a{display:block!important;width:100%!important;color:#f5f7f9!important;text-decoration:none!important;transition:color .15s ease!important}
 #newsGrid h3 a:hover{color:#ff5a5f!important}
 #newsGrid h3 a:focus-visible{outline:2px solid #ff5a5f!important;outline-offset:5px!important;border-radius:3px!important}
 #ultimas .section-heading{margin-bottom:12px!important;padding-bottom:12px!important;border-bottom:2px solid rgba(255,255,255,.16)!important}
-#ultimas .category-tabs{margin-bottom:8px!important}
+#ultimas .category-tabs{margin-bottom:16px!important}
 #featuredNotice{margin:12px 0!important}
 #moreNewsTitle{margin-top:26px!important}
 @media(max-width:699px){
- #ultimas.portal-layout{width:100%!important;padding-left:16px!important;padding-right:16px!important}
- #newsGrid .card-body{padding:16px 0!important}
- #newsGrid h3{font-size:1.16rem!important;line-height:1.2!important}
+ #ultimas.portal-layout{width:100%!important;padding-left:12px!important;padding-right:12px!important}
+ #newsGrid .news-card,
+ #newsGrid .lead-story,
+ #newsGrid .secondary-story{padding-bottom:22px!important}
+ #newsGrid .news-card+.news-card,
+ #newsGrid .lead-story+.news-card,
+ #newsGrid .secondary-story+.news-card{padding-top:22px!important}
+ #newsGrid .card-visual,
+ #newsGrid .news-image{border-radius:9px!important}
+ #newsGrid .card-body{padding:11px 0 0!important}
+ #newsGrid h3{font-size:1.2rem!important;line-height:1.18!important}
 }
