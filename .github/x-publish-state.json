@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTMyMDI0MDAwMCwiQ09MQVBJTlRPIFNFIFBMQU5Uw5MgUE9SIFJBRElPIEVOIEVMIEZJTkFMOiDigJxDSElDT1MsIE5PIFBFUkRBTU9TIFRJRU1QT-KAnSJd": {
+      "account": "f1",
+      "title": "COLAPINTO SE PLANTÓ POR RADIO EN EL FINAL: “CHICOS, NO PERDAMOS TIEMPO”",
+      "dueAt": "2026-09-13T17:50:00.000Z",
+      "bufferPostId": "6aa6e172eba7bc56779deb83",
+      "createdAt": "2026-09-13T17:46:26.332Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTMxMDk0MDAwMCwiQ09MQVBJTlRPIFRFUk1JTsOTIDfCsCBFTiBNQURSSUQgWSBBTlRPTkVMTEkgR0FOw5MgRUwgR1AgREUgRVNQQcORQSJd": {
       "account": "f1",
       "title": "COLAPINTO TERMINÓ 7° EN MADRID Y ANTONELLI GANÓ EL GP DE ESPAÑA",
@@ -297,7 +304,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-13T15:15:00.000Z",
+    "f1": "2026-09-13T17:55:00.000Z",
     "main": "2026-09-13T13:05:00.000Z"
   },
   "buffer": {
