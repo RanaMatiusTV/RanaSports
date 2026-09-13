@@ -1,17 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T18:27:05.398Z",
+  "updatedAt": "2026-09-13T18:52:27.842Z",
   "trends": [
+    {
+      "query": "estudiantes - acassuso",
+      "startedAt": "2026-09-13T18:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "psv",
+      "startedAt": "2026-09-13T18:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "shelton",
+      "startedAt": "2026-09-13T18:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "almirante brown - ferro",
+      "startedAt": "2026-09-13T18:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "olimpia - sportivo luqueño",
+      "startedAt": "2026-09-13T18:20:00.000Z",
+      "volume": 500
+    },
     {
       "query": "stade brestois - psg",
       "startedAt": "2026-09-13T18:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "patronato - temperley",
       "startedAt": "2026-09-13T18:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "sinner",
@@ -21,37 +46,12 @@
     {
       "query": "real sociedad - atlético madrid",
       "startedAt": "2026-09-13T18:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "us open",
       "startedAt": "2026-09-13T18:00:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "sassuolo - juventus",
-      "startedAt": "2026-09-13T17:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "galatasaray",
-      "startedAt": "2026-09-13T17:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "almirante brown",
-      "startedAt": "2026-09-13T17:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "suramericanos 2026",
-      "startedAt": "2026-09-13T17:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "del potro",
-      "startedAt": "2026-09-13T17:40:00.000Z",
-      "volume": 200
+      "volume": 10000
     }
   ]
 }
