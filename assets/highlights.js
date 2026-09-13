@@ -6,20 +6,23 @@
  const words=text=>normalize(text).replace(/[^a-z0-9]+/g,' ').trim().split(/\s+/).filter(Boolean);
  let snapshot;
 
+ // Destacadas apunta al interés masivo argentino, no a preferencias partidarias.
  const strongEntities=[
-  ['independiente',120],['boca',105],['river',105],['seleccion argentina',110],['argentina',75],
-  ['messi',115],['colapinto',100],['formula 1',75],['f1',75],['racing',80],['san lorenzo',75],['huracan',70],
-  ['real madrid',65],['barcelona',65],['champions',70],['libertadores',85],['sudamericana',65]
+  ['messi',140],['seleccion argentina',135],['argentina',90],
+  ['boca',105],['river',105],['colapinto',100],['formula 1',85],['f1',85],
+  ['libertadores',95],['champions',80],['sudamericana',70],
+  ['independiente',72],['racing',68],['san lorenzo',62],['huracan',55],
+  ['real madrid',70],['barcelona',70]
  ];
  const impactTerms=[
-  ['campeon',95],['titulo',85],['final',80],['clasifico',75],['eliminado',75],['eliminacion',75],
-  ['golazo',55],['goleada',55],['remontada',55],['sobre la hora',50],['agonico',50],['penales',45],
+  ['campeon',110],['titulo',95],['final',90],['clasifico',85],['eliminado',85],['eliminacion',85],
+  ['golazo',65],['goleada',65],['remontada',65],['sobre la hora',60],['agonico',60],['penales',55],
+  ['partidazo',65],['clasico',75],['derbi',60],['record',65],['historico',70],['viral',55],['insolito',65],
   ['mercado de pases',45],['oferta',35],['refuerzo',40],['venta',35],['fichaje',45],['acuerdo',40],['firma',35],
-  ['lesion',40],['parte medico',45],['baja',30],['sancion',35],['expulsado',35],
-  ['renuncio',55],['despedido',55],['elecciones',35],['escandalo',65],['polemica',50],['cruce',35],
-  ['record',55],['historico',60],['viral',45],['insolito',55],['bloop',40],['accidente',55],['choque',45]
+  ['lesion',45],['parte medico',50],['baja',35],['sancion',40],['expulsado',40],
+  ['renuncio',60],['despedido',60],['escandalo',75],['polemica',60],['cruce',45],['accidente',60],['choque',50]
  ];
- const weakTerms=['entrenamiento','practica','lista de convocados','concentrados','probable equipo','agenda','horarios','amistoso','declaracion breve'];
+ const weakTerms=['entrenamiento','practica','lista de convocados','concentrados','probable equipo','agenda','horarios','amistoso','declaracion breve','juveniles','reserva'];
 
  function textOf(card){
   return normalize([
@@ -34,20 +37,31 @@
   const date=Date.parse(card.querySelector('time')?.dateTime||'');
   if(!Number.isFinite(date)||date>now)return 0;
   const ageHours=(now-date)/3600000;
-  if(ageHours>36)return 0;
+  if(ageHours>30)return 0;
 
   let score=0;
   for(const [term,value] of strongEntities) if(text.includes(term)) score+=value;
   for(const [term,value] of impactTerms) if(text.includes(term)) score+=value;
-  for(const term of weakTerms) if(text.includes(term)) score-=25;
+  for(const term of weakTerms) if(text.includes(term)) score-=35;
 
-  if(/\b\d+\s*[-–]\s*\d+\b/.test(text)) score+=28;
-  if(/gano|vencio|derroto|empato|perdio/.test(text)) score+=18;
-  if(/vs\.?|ante /.test(text) && /final|semifinal|clasif|elimin/.test(text)) score+=35;
+  // Partido reciente terminado: fuerte prioridad aunque no sea de un club grande.
+  const hasScore=/\b\d+\s*[-–]\s*\d+\b/.test(text);
+  const hasResultVerb=/gano|vencio|derroto|empato|perdio|igualo|cayo/.test(text);
+  if(hasScore) score+=55;
+  if(hasResultVerb) score+=30;
+  if(hasScore && hasResultVerb) score+=45;
+  if(/final|termino|resultado final/.test(text) && hasScore) score+=35;
 
-  if(ageHours<=3) score+=35;
-  else if(ageHours<=8) score+=25;
-  else if(ageHours<=16) score+=15;
+  // Eventos decisivos o de enorme arrastre popular.
+  if(/final|semifinal|clasif|elimin|campeon|titulo/.test(text) && /vs\.?|ante |\b\d+\s*[-–]\s*\d+\b/.test(text)) score+=45;
+  if(/messi/.test(text) && /gol|asistencia|doblete|triplete|lesion|record/.test(text)) score+=55;
+  if(/colapinto/.test(text) && /carrera|clasificacion|qualy|q3|choque|abandono|puntos|podio/.test(text)) score+=45;
+
+  // Recencia importa mucho en portada, pero no define sola la selección.
+  if(ageHours<=2) score+=55;
+  else if(ageHours<=5) score+=40;
+  else if(ageHours<=10) score+=28;
+  else if(ageHours<=18) score+=16;
   else if(ageHours<=24) score+=8;
 
   return Math.max(0,score);
@@ -69,7 +83,7 @@
  window.ranaTrendScore=(card,now=Date.now())=>{
   const editorial=editorialScore(card,now);
   const trend=trendScore(card,now);
-  const trendBoost=trend>0?Math.min(80,Math.log10(trend+1)*18):0;
+  const trendBoost=trend>0?Math.min(65,Math.log10(trend+1)*16):0;
   return editorial+trendBoost;
  };
 
