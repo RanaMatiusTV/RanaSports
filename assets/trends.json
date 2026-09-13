@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T22:25:07.202Z",
+  "updatedAt": "2026-09-13T22:50:33.266Z",
   "trends": [
+    {
+      "query": "barcelona sc - delfín",
+      "startedAt": "2026-09-13T22:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "libertad fc - independiente del valle",
+      "startedAt": "2026-09-13T22:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "brics",
+      "startedAt": "2026-09-13T22:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "juan miguel arrayago",
+      "startedAt": "2026-09-13T22:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "concierto",
+      "startedAt": "2026-09-13T22:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "peñarol - albion",
       "startedAt": "2026-09-13T22:10:00.000Z",
@@ -19,39 +44,14 @@
       "volume": 200
     },
     {
+      "query": "lunes",
+      "startedAt": "2026-09-13T21:50:00.000Z",
+      "volume": 500
+    },
+    {
       "query": "agustín canapino",
       "startedAt": "2026-09-13T21:50:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "muerte",
-      "startedAt": "2026-09-13T21:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "jonathan david",
-      "startedAt": "2026-09-13T21:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "independiente - san lorenzo",
-      "startedAt": "2026-09-13T21:20:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "anthropic",
-      "startedAt": "2026-09-13T21:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "san martín de tucumán - agropecuario",
-      "startedAt": "2026-09-13T21:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "rubio ñu - nacional",
-      "startedAt": "2026-09-13T21:10:00.000Z",
-      "volume": 500
     }
   ]
 }
