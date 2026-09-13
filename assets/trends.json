@@ -1,12 +1,47 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T13:24:09.129Z",
+  "updatedAt": "2026-09-13T13:50:00.158Z",
   "trends": [
+    {
+      "query": "brighton",
+      "startedAt": "2026-09-13T13:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "alaska",
+      "startedAt": "2026-09-13T13:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "levante - barcelona",
+      "startedAt": "2026-09-13T13:20:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "hamilton",
+      "startedAt": "2026-09-13T13:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "hadjar",
+      "startedAt": "2026-09-13T13:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "max verstappen",
+      "startedAt": "2026-09-13T13:10:00.000Z",
+      "volume": 100
+    },
     {
       "query": "la peña de morfi",
       "startedAt": "2026-09-13T13:10:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "lecce - monza",
+      "startedAt": "2026-09-13T13:00:00.000Z",
+      "volume": 500
     },
     {
       "query": "losc - troyes",
@@ -14,43 +49,8 @@
       "volume": 200
     },
     {
-      "query": "lecce - monza",
-      "startedAt": "2026-09-13T13:00:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "extorsión",
       "startedAt": "2026-09-13T13:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "fernando alonso",
-      "startedAt": "2026-09-13T12:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "f1 horarios argentina",
-      "startedAt": "2026-09-13T12:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "canal sur",
-      "startedAt": "2026-09-13T12:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "barco pesquero",
-      "startedAt": "2026-09-13T12:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "la cumbrecita",
-      "startedAt": "2026-09-13T12:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "kendry páez",
-      "startedAt": "2026-09-13T12:30:00.000Z",
       "volume": 100
     }
   ]
