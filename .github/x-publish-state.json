@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MzM4MTIwMDAwLCJBUlJBWUFHTyBNQVJDw5MgU1UgUFJJTUVSIEdPTCBFTiBQUklNRVJBIFkgUFVTTyBFTCAxLTAgREUgSU5ERVBFTkRJRU5URSBFTiBFTCBDTMOBU0lDTyJd": {
+      "account": "main",
+      "title": "ARRAYAGO MARCÓ SU PRIMER GOL EN PRIMERA Y PUSO EL 1-0 DE INDEPENDIENTE EN EL CLÁSICO",
+      "dueAt": "2026-09-13T23:00:00.000Z",
+      "bufferPostId": "6aa729db66679b076f366ae0",
+      "createdAt": "2026-09-13T22:55:23.978Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMyIsMTc4OTI4ODUwMDAwMCwiQ09MTkFHSEkgQ0VSUsOTIFNVIFBSSU1FUiBBw5FPIEVOIEYzIENPTiBVTiBHUkFOIDXCsCBQVUVTVE8gRU4gTUFEUklEIl0": {
       "account": "f1",
       "title": "COLNAGHI CERRÓ SU PRIMER AÑO EN F3 CON UN GRAN 5° PUESTO EN MADRID",
@@ -326,7 +333,7 @@
   },
   "nextAt": {
     "f1": "2026-09-13T21:30:00.000Z",
-    "main": "2026-09-13T13:05:00.000Z"
+    "main": "2026-09-13T23:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
