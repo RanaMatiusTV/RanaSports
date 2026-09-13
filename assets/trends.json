@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-12T23:49:49.021Z",
+  "updatedAt": "2026-09-13T00:33:09.297Z",
   "trends": [
+    {
+      "query": "inter miami vs. nashville sc",
+      "startedAt": "2026-09-13T00:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "florence pugh",
+      "startedAt": "2026-09-13T00:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "luck ra",
+      "startedAt": "2026-09-12T23:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jean silva",
+      "startedAt": "2026-09-12T23:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "expulsión",
+      "startedAt": "2026-09-12T23:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "azúcar",
+      "startedAt": "2026-09-12T23:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "josé miguel delgado",
+      "startedAt": "2026-09-12T23:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "el club gastronómico",
+      "startedAt": "2026-09-12T23:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "brandon moreno",
+      "startedAt": "2026-09-12T23:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "ldu quito - dep. cuenca",
       "startedAt": "2026-09-12T23:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "toluca - atlas",
-      "startedAt": "2026-09-12T23:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "soledad pastorutti",
-      "startedAt": "2026-09-12T23:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gp madrid",
-      "startedAt": "2026-09-12T23:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "santos - cruzeiro",
-      "startedAt": "2026-09-12T23:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "dc united - atlanta united",
-      "startedAt": "2026-09-12T23:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "matías galarza",
-      "startedAt": "2026-09-12T23:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tommy mcmillen",
-      "startedAt": "2026-09-12T23:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "botafogo - bragantino",
-      "startedAt": "2026-09-12T22:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "deuda",
-      "startedAt": "2026-09-12T22:50:00.000Z",
-      "volume": 500
     }
   ]
 }
