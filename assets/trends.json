@@ -1,11 +1,11 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T05:23:32.855Z",
+  "updatedAt": "2026-09-13T05:49:39.489Z",
   "trends": [
     {
-      "query": "cruz azul",
-      "startedAt": "2026-09-13T04:10:00.000Z",
+      "query": "sele vera accidente",
+      "startedAt": "2026-09-13T05:30:00.000Z",
       "volume": 100
     },
     {
@@ -26,17 +26,12 @@
     {
       "query": "cruz azul - américa",
       "startedAt": "2026-09-13T03:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "posiciones de liga de quito contra deportivo cuenca",
       "startedAt": "2026-09-13T02:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "ester exposito",
-      "startedAt": "2026-09-13T02:00:00.000Z",
-      "volume": 2000
     },
     {
       "query": "daniel vila",
@@ -51,6 +46,11 @@
     {
       "query": "juana viale",
       "startedAt": "2026-09-13T01:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "myriam bregman",
+      "startedAt": "2026-09-13T01:40:00.000Z",
       "volume": 100
     }
   ]
