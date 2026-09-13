@@ -14,9 +14,24 @@
   <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
   <link rel="stylesheet" href="assets/styles.css">
-  <script defer src="assets/app.js"></script><script defer src="assets/navigation.js"></script>
-  <script defer src="assets/news-feed.js?v=20260913-0301"></script><script defer src="assets/image-hydrator.js"></script>
-<link rel="canonical" href="https://ranamatiustv.github.io/RanaSports/"><meta name="author" content="@RanaMatiusTV"><meta property="og:site_name" content="RanaSports"><meta property="og:url" content="https://ranamatiustv.github.io/RanaSports/"><meta property="og:locale" content="es_AR"><meta property="og:image" content="https://ranamatiustv.github.io/RanaSports/assets/icon-512.png"><meta name="twitter:card" content="summary"><meta name="twitter:creator" content="@RanaMatiusTV"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"RanaSports | Noticias y agenda deportiva","url":"https://ranamatiustv.github.io/RanaSports/"}</script><link rel="stylesheet" href="assets/redesign.css"><script defer src="assets/highlights.js?v=20260913-0152"></script><script defer src="assets/breaking.js"></script><script defer src="assets/live-scores.js?v=20260913-0148"></script><script defer src="assets/hot-topics.js?v=20260913-0226"></script>
+  <link rel="stylesheet" href="assets/redesign.css">
+  <link rel="stylesheet" href="assets/portal-list.css?v=20260913-1555">
+  <script defer src="assets/app.js"></script>
+  <script defer src="assets/navigation.js"></script>
+  <script defer src="assets/news-feed.js?v=20260913-0301"></script>
+  <script defer src="assets/image-hydrator.js"></script>
+  <link rel="canonical" href="https://ranamatiustv.github.io/RanaSports/">
+  <meta name="author" content="@RanaMatiusTV">
+  <meta property="og:site_name" content="RanaSports">
+  <meta property="og:url" content="https://ranamatiustv.github.io/RanaSports/">
+  <meta property="og:locale" content="es_AR">
+  <meta property="og:image" content="https://ranamatiustv.github.io/RanaSports/assets/icon-512.png">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:creator" content="@RanaMatiusTV">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"RanaSports | Noticias y agenda deportiva","url":"https://ranamatiustv.github.io/RanaSports/"}</script>
+  <script defer src="assets/highlights.js?v=20260913-0152"></script>
+  <script defer src="assets/breaking.js"></script>
+  <script defer src="assets/hot-topics.js?v=20260913-0226"></script>
 <style>
   #newsGrid .news-card{position:relative}
   #newsGrid .news-card::before{content:attr(data-sport);display:inline-flex;position:absolute;z-index:6;top:10px;left:10px;max-width:calc(100% - 20px);padding:5px 8px;border-radius:4px;background:#111820e8;border:1px solid #ffffff2b;color:#fff;font-size:10px;line-height:1;font-weight:900;letter-spacing:.55px;text-transform:uppercase;box-shadow:0 2px 8px #0008;pointer-events:none}
@@ -74,18 +89,6 @@
         <noscript><p>Activá JavaScript para cargar las noticias de la planilla. La agenda y las notas del sitio siguen disponibles.</p></noscript>
         <p id="featuredNotice" class="featured-notice">Todavía no hay noticias publicadas en las últimas 24 horas. Consultá Últimas Noticias.</p>
         <div id="newsGrid" class="news-grid editorial-grid"></div>
-        <div id="livePanels">
-          <section id="en-vivo" class="dashboard-module live-module" aria-labelledby="liveTitle" data-source-status="not-connected">
-            <div class="module-heading"><h2 id="liveTitle"><span class="live-dot"></span> EN VIVO</h2><span class="module-status">PRÓXIMAMENTE</span></div>
-            <div class="module-topics"><span>RESULTADOS</span><span>PARTIDOS DEL DÍA</span></div>
-            <div class="live-empty"><span class="score-symbol" aria-hidden="true">— : —</span><h3>El juego, minuto a minuto.</h3><p>Los resultados y partidos aparecerán cuando conectemos una fuente de datos.</p></div>
-            <a class="module-link" href="#agenda">Mientras tanto, consultá la agenda →</a>
-          </section>
-          <section id="posiciones" class="dashboard-module standings-module" aria-labelledby="standingsTitle" data-source-status="not-connected">
-            <div class="module-heading"><h2 id="standingsTitle">TABLA DE POSICIONES</h2></div>
-            <table><caption>Posiciones · Próximamente</caption><thead><tr><th scope="col">#</th><th scope="col">Equipo</th><th scope="col">PJ</th><th scope="col">PTS</th></tr></thead><tbody><tr><td colspan="4">Todavía no hay una tabla conectada.</td></tr></tbody></table>
-          </section>
-        </div>
         <h2 id="moreNewsTitle" class="more-news-title" hidden>MÁS NOTICIAS</h2>
         <template id="newsCardTemplate">
           <article class="news-card" data-category="">
