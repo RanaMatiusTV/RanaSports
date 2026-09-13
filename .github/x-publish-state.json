@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMyIsMTc4OTI4ODUwMDAwMCwiQ09MTkFHSEkgQ0VSUsOTIFNVIFBSSU1FUiBBw5FPIEVOIEYzIENPTiBVTiBHUkFOIDXCsCBQVUVTVE8gRU4gTUFEUklEIl0": {
+      "account": "f1",
+      "title": "COLNAGHI CERRÓ SU PRIMER AÑO EN F3 CON UN GRAN 5° PUESTO EN MADRID",
+      "dueAt": "2026-09-13T21:25:00.000Z",
+      "bufferPostId": "6aa713d4eba7bc5677a2239d",
+      "createdAt": "2026-09-13T21:21:25.006Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTMyOTI0MDAwMCwiQlJJQVRPUkUgRUxPR0nDkyBBIENPTEFQSU5UTzog4oCcSElaTyBVTiBUUkFCQUpPIEVTUEVDVEFDVUxBUuKAnSJd": {
       "account": "f1",
       "title": "BRIATORE ELOGIÓ A COLAPINTO: “HIZO UN TRABAJO ESPECTACULAR”",
@@ -318,7 +325,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-13T21:00:00.000Z",
+    "f1": "2026-09-13T21:30:00.000Z",
     "main": "2026-09-13T13:05:00.000Z"
   },
   "buffer": {
