@@ -1,35 +1,26 @@
 (() => {
   const grid = document.querySelector('#newsGrid');
   const header = document.querySelector('.site-header');
-  if (!grid || !header) return;
+  const search = document.querySelector('#searchInput');
+  if (!grid || !header || !search) return;
 
-  const normalize = v => (v || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
-  const preferred = [
-    'Messi','Inter Miami','Selección Argentina','Boca','River','Independiente','Racing','San Lorenzo',
-    'Torneo Clausura','Copa Libertadores','Copa Sudamericana','Fórmula 1','Colapinto','Juegos Suramericanos',
-    'Atlético Tucumán','Huracán','Talleres','Estudiantes','Platense','Aldosivi','Independiente Rivadavia'
+  const normalize = v => (v || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
+  const entities = [
+    'Messi','Inter Miami','Selección Argentina','Boca','River','Independiente','Racing','San Lorenzo','Huracán',
+    'Vélez','Argentinos Juniors','Rosario Central','Newell’s','Newells','Estudiantes','Gimnasia','Talleres','Belgrano',
+    'Instituto','Platense','Tigre','Sarmiento','Lanús','Banfield','Defensa y Justicia','Godoy Cruz','Unión','Colón',
+    'Atlético Tucumán','Independiente Rivadavia','Aldosivi','Barracas Central','Central Córdoba','Riestra',
+    'Torneo Clausura','Copa Argentina','Copa Libertadores','Copa Sudamericana','Champions League','Fórmula 1','Colapinto',
+    'Nicolás Varrone','Varrone','Mattia Colnaghi','Colnaghi','Fórmula 2','Fórmula 3','MotoGP','Moto3','Juegos Suramericanos'
   ];
 
-  function cards(){ return [...grid.querySelectorAll('.news-card,.lead-story,.secondary-story')]; }
-
-  function topicScore(topic){
-    const needle = normalize(topic);
-    let score = 0;
-    cards().forEach((card, index) => {
-      const text = normalize(card.textContent);
-      if (!text.includes(needle)) return;
-      const freshness = Math.max(1, 18 - index);
-      score += 20 + freshness;
-      if (card.classList.contains('lead-story')) score += 25;
-      const editorial = Number(window.ranaEditorialScore?.(card) || 0);
-      score += Math.min(80, editorial / 3);
-    });
-    return score;
-  }
+  function cards(){ return [...grid.querySelectorAll('.news-card')].filter(card => !card.hidden || !search.value.trim()); }
+  function publishedAt(card){ return Date.parse(card.querySelector('time')?.dateTime || '') || 0; }
+  function cardText(card){ return normalize([card.querySelector('h3')?.textContent || '', card.querySelector('.news-excerpt')?.textContent || '', card.dataset.sport || ''].join(' ')); }
 
   function detectMatchups(){
     const found = new Set();
-    cards().forEach(card => {
+    [...grid.querySelectorAll('.news-card')].forEach(card => {
       const title = card.querySelector('h3')?.textContent || '';
       const m = title.match(/([A-ZÁÉÍÓÚÑ][\wÁÉÍÓÚÑáéíóúñ.' -]{2,30})\s+(?:vs\.?|v\.|-|–)\s+([A-ZÁÉÍÓÚÑ][\wÁÉÍÓÚÑáéíóúñ.' -]{2,30})/i);
       if (m) found.add(`${m[1].trim()} vs ${m[2].trim()}`);
@@ -37,33 +28,46 @@
     return [...found];
   }
 
+  function topicScore(topic){
+    const needle = normalize(topic);
+    const now = Date.now();
+    let score = 0;
+    [...grid.querySelectorAll('.news-card')].forEach(card => {
+      const text = cardText(card);
+      if (!text.includes(needle)) return;
+      const ageH = Math.max(0, (now - publishedAt(card)) / 3600000);
+      if (ageH > 36) return;
+      score += ageH <= 2 ? 120 : ageH <= 6 ? 85 : ageH <= 12 ? 55 : ageH <= 24 ? 30 : 12;
+      if (card.classList.contains('lead-story')) score += 80;
+      const editorial = Number(window.ranaEditorialScore?.(card) || 0);
+      score += Math.min(180, editorial);
+    });
+    return score;
+  }
+
   function buildTopics(){
-    const candidates = [...preferred, ...detectMatchups()];
-    const scored = [...new Set(candidates)].map(topic => ({topic, score: topicScore(topic)})).filter(x => x.score > 0);
+    const candidates = [...new Set([...entities, ...detectMatchups()])];
+    const scored = candidates.map(topic => ({topic, score: topicScore(topic)})).filter(x => x.score > 0);
     scored.sort((a,b) => b.score - a.score);
     return scored.slice(0, 8).map(x => x.topic);
   }
 
   function applyFilter(topic){
-    const needle = normalize(topic).replace(/\s+vs\s+/,' ');
-    cards().forEach(card => {
-      const text = normalize(card.textContent).replace(/\s+vs\s+/,' ');
-      card.hidden = !text.includes(needle);
-    });
+    search.value = topic.replace(/\s+vs\s+/i, ' ');
+    search.dispatchEvent(new Event('input', {bubbles:true}));
     const title = document.querySelector('#feedTitle');
     if (title) title.textContent = topic.toUpperCase();
     document.querySelector('#ultimas')?.scrollIntoView({behavior:'smooth', block:'start'});
   }
 
   function clearFilter(){
-    cards().forEach(card => card.hidden = false);
-    const title = document.querySelector('#feedTitle');
-    if (title) title.textContent = 'DESTACADAS';
+    search.value = '';
+    search.dispatchEvent(new Event('input', {bubbles:true}));
+    document.querySelector('#ultimas')?.scrollIntoView({behavior:'smooth', block:'start'});
   }
 
   function render(){
     const topics = buildTopics();
-    if (!topics.length) return;
     let bar = document.querySelector('#rs-hot-topics');
     if (!bar) {
       bar = document.createElement('nav');
@@ -78,6 +82,7 @@
     lead.className = 'rs-hot-label';
     lead.textContent = 'AHORA';
     inner.append(lead);
+
     topics.forEach(topic => {
       const b = document.createElement('button');
       b.type='button';
@@ -86,6 +91,7 @@
       b.addEventListener('click',()=>applyFilter(topic));
       inner.append(b);
     });
+
     const all = document.createElement('button');
     all.type='button';
     all.className='rs-hot-topic rs-hot-all';
@@ -111,9 +117,12 @@
     document.head.append(style);
   }
 
-  const observer = new MutationObserver(()=>render());
-  observer.observe(grid,{childList:true,subtree:true});
-  document.addEventListener('ranasports:trends',render);
-  setTimeout(render,400);
-  setTimeout(render,1500);
+  let timer;
+  const scheduleRender = () => { clearTimeout(timer); timer = setTimeout(render, 120); };
+  document.addEventListener('ranasports:news-updated', scheduleRender);
+  document.addEventListener('ranasports:trends', scheduleRender);
+  search.addEventListener('input', scheduleRender);
+  setInterval(render, 5 * 60 * 1000);
+  setTimeout(render, 350);
+  setTimeout(render, 1500);
 })();
