@@ -1,13 +1,8 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T04:25:17.864Z",
+  "updatedAt": "2026-09-13T04:51:03.034Z",
   "trends": [
-    {
-      "query": "cruz azul",
-      "startedAt": "2026-09-13T04:10:00.000Z",
-      "volume": 100
-    },
     {
       "query": "ilia topuria",
       "startedAt": "2026-09-13T04:10:00.000Z",
@@ -26,12 +21,17 @@
     {
       "query": "cruz azul - américa",
       "startedAt": "2026-09-13T03:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "conor benn",
       "startedAt": "2026-09-13T03:20:00.000Z",
-      "volume": 100
+      "volume": 200
+    },
+    {
+      "query": "posiciones de liga de quito contra deportivo cuenca",
+      "startedAt": "2026-09-13T02:40:00.000Z",
+      "volume": 200
     },
     {
       "query": "daniel vila",
