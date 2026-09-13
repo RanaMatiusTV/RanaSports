@@ -16,7 +16,7 @@
   <link rel="stylesheet" href="assets/styles.css">
   <link rel="stylesheet" href="assets/redesign.css">
   <link rel="stylesheet" href="assets/portal-list.css?v=20260913-1555">
-  <script defer src="assets/app.js?v=20260913-1643"></script>
+  <script defer src="assets/app.js?v=20260913-1651"></script>
   <script defer src="assets/navigation.js"></script>
   <script defer src="assets/news-feed.js?v=20260913-0301"></script>
   <script defer src="assets/image-hydrator.js"></script>
@@ -31,7 +31,8 @@
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"RanaSports | Noticias y agenda deportiva","url":"https://ranamatiustv.github.io/RanaSports/"}</script>
   <script defer src="assets/highlights.js?v=20260913-0152"></script>
   <script defer src="assets/breaking.js"></script>
-  <script defer src="assets/hot-topics.js?v=20260913-1643"></script>
+  <script defer src="assets/hot-topics-v2.js?v=20260913-1651"></script>
+  <script>if('serviceWorker' in navigator){addEventListener('load',()=>navigator.serviceWorker.register('./sw.js',{updateViaCache:'none'}).then(r=>r.update()).catch(()=>{}));}</script>
 <style>
   #newsGrid .news-card{position:relative}
   #newsGrid .news-card::before{content:attr(data-sport);display:inline-flex;position:absolute;z-index:6;top:10px;left:10px;max-width:calc(100% - 20px);padding:5px 8px;border-radius:4px;background:#111820e8;border:1px solid #ffffff2b;color:#fff;font-size:10px;line-height:1;font-weight:900;letter-spacing:.55px;text-transform:uppercase;box-shadow:0 2px 8px #0008;pointer-events:none}
