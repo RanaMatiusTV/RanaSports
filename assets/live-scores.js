@@ -25,10 +25,10 @@
     socials.className = 'rs-header-socials';
     socials.setAttribute('aria-label', 'Redes sociales de RanaSports');
     socials.innerHTML = `
-      <a href="https://www.youtube.com/@RanaMatiusTV" target="_blank" rel="noopener noreferrer" aria-label="YouTube @RanaMatiusTV" title="YouTube"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8ZM9.6 15.6V8.4L15.9 12l-6.3 3.6Z"/></svg></a>
-      <a href="https://x.com/RanaMatiusTV" target="_blank" rel="noopener noreferrer" aria-label="X @RanaMatiusTV" title="X"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.2 2H22l-8.3 9.5L23.5 22h-7.7l-6-7.9L2.9 22H-.9l8.9-10.2L-1.4 2h7.9l5.4 7.2L18.2 2Zm-1.3 18.2H19L5.4 3.7H3.1l13.8 16.5Z"/></svg></a>
-      <a href="https://www.instagram.com/RanaMatiusTV" target="_blank" rel="noopener noreferrer" aria-label="Instagram @RanaMatiusTV" title="Instagram"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5Zm0 2a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3H7Zm5 3.8A4.2 4.2 0 1 1 7.8 12 4.2 4.2 0 0 1 12 7.8Zm0 2A2.2 2.2 0 1 0 14.2 12 2.2 2.2 0 0 0 12 9.8Zm5.3-3.3a1 1 0 1 1-1 1 1 1 0 0 1 1-1Z"/></svg></a>
-      <a href="https://www.tiktok.com/@RanaMatiusTV" target="_blank" rel="noopener noreferrer" aria-label="TikTok @RanaMatiusTV" title="TikTok"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14.2 2h3a5.4 5.4 0 0 0 4.1 4.1v3a8.3 8.3 0 0 1-4.1-1.1v7.2a6.2 6.2 0 1 1-5.4-6.1v3.2a3.1 3.1 0 1 0 2.4 3V2Z"/></svg></a>`;
+      <a href="https://www.youtube.com/@RanaMatiusTV" target="_blank" rel="noopener noreferrer" aria-label="YouTube @RanaMatiusTV" title="YouTube">▶</a>
+      <a href="https://x.com/RanaMatiusTV" target="_blank" rel="noopener noreferrer" aria-label="X @RanaMatiusTV" title="X">𝕏</a>
+      <a href="https://www.instagram.com/RanaMatiusTV" target="_blank" rel="noopener noreferrer" aria-label="Instagram @RanaMatiusTV" title="Instagram">◎</a>
+      <a href="https://www.tiktok.com/@RanaMatiusTV" target="_blank" rel="noopener noreferrer" aria-label="TikTok @RanaMatiusTV" title="TikTok">♪</a>`;
     const installButton = headerInner.querySelector('#installBtn');
     headerInner.insertBefore(socials, installButton || null);
   }
@@ -39,44 +39,109 @@
   if (!topModule) {
     topModule = document.createElement('section');
     topModule.id = 'rs-live-top';
-    topModule.setAttribute('aria-label', 'Resultados deportivos en vivo');
+    topModule.setAttribute('aria-label', 'Partidos del día y resultados en vivo');
     topModule.innerHTML = `
-      <div class="rs-live-embed-shell" role="region" aria-label="Resultados deportivos en vivo">
-        <iframe id="sportbusy-live-ticker-top" class="rs-live-embed" title="Resultados deportivos en vivo" loading="eager" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay"></iframe>
-      </div>`;
+      <div class="rs-live-head"><strong>EN VIVO</strong><span id="rs-live-status">Actualizando…</span></div>
+      <div class="rs-live-scroll" id="rs-live-list" role="region" aria-label="Partidos del día"></div>`;
     header.insertAdjacentElement('afterend', topModule);
   }
 
-  const frame = topModule.querySelector('#sportbusy-live-ticker-top');
-  if (frame && !frame.src) {
-    try {
-      const url = new URL('https://www.sportbusy.com/embed/live');
-      url.searchParams.set('variant', 'ticker');
-      url.searchParams.set('theme', 'dark');
-      url.searchParams.set('sb_parent', location.href);
-      frame.src = url.toString();
-    } catch {
-      frame.src = 'https://www.sportbusy.com/embed/live?variant=ticker&theme=dark';
+  const list = topModule.querySelector('#rs-live-list');
+  const status = topModule.querySelector('#rs-live-status');
+
+  const esc = value => String(value ?? '').replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+  const argDate = () => new Intl.DateTimeFormat('en-CA', {timeZone:'America/Argentina/Buenos_Aires', year:'numeric', month:'2-digit', day:'2-digit'}).format(new Date());
+  const argTime = ts => new Intl.DateTimeFormat('es-AR', {timeZone:'America/Argentina/Buenos_Aires', hour:'2-digit', minute:'2-digit', hour12:false}).format(new Date(ts * 1000));
+
+  function eventPriority(event) {
+    const type = event?.status?.type || '';
+    if (type === 'inprogress') return 0;
+    if (['notstarted','scheduled'].includes(type)) return 1;
+    if (['finished','afterpenalties','afterextra'].includes(type)) return 2;
+    return 3;
+  }
+
+  function scoreValue(score) {
+    const value = score?.current ?? score?.display;
+    return Number.isFinite(Number(value)) ? String(value) : '-';
+  }
+
+  function render(events) {
+    if (!list) return;
+    const useful = (events || [])
+      .filter(e => e?.homeTeam?.name && e?.awayTeam?.name)
+      .sort((a,b) => eventPriority(a)-eventPriority(b) || (a.startTimestamp||0)-(b.startTimestamp||0))
+      .slice(0, 36);
+
+    if (!useful.length) {
+      list.innerHTML = '<div class="rs-live-empty">No hay partidos cargados para hoy.</div>';
+      return;
     }
+
+    list.innerHTML = useful.map(e => {
+      const type = e?.status?.type || '';
+      const live = type === 'inprogress';
+      const finished = ['finished','afterpenalties','afterextra'].includes(type);
+      const label = live ? 'EN VIVO' : finished ? 'FINAL' : argTime(e.startTimestamp || 0);
+      const tournament = e?.tournament?.uniqueTournament?.name || e?.tournament?.name || '';
+      const homeScore = scoreValue(e.homeScore);
+      const awayScore = scoreValue(e.awayScore);
+      const score = (live || finished) ? `<b class="rs-score">${esc(homeScore)}-${esc(awayScore)}</b>` : '<b class="rs-score">vs</b>';
+      return `<article class="rs-match${live?' is-live':''}">
+        <span class="rs-comp">${esc(tournament)}</span>
+        <div class="rs-match-row"><span>${esc(e.homeTeam.name)}</span>${score}<span>${esc(e.awayTeam.name)}</span></div>
+        <span class="rs-state">${esc(label)}</span>
+      </article>`;
+    }).join('');
+  }
+
+  async function loadScores() {
+    if (!list || !status) return;
+    const date = argDate();
+    const sources = [
+      `https://api.sofascore.com/api/v1/sport/football/scheduled-events/${date}`,
+      `https://www.sofascore.com/api/v1/sport/football/scheduled-events/${date}`
+    ];
+    let lastError;
+    for (const url of sources) {
+      try {
+        const response = await fetch(url, {cache:'no-store', headers:{'Accept':'application/json'}});
+        if (!response.ok) throw new Error('HTTP '+response.status);
+        const data = await response.json();
+        if (!Array.isArray(data?.events)) throw new Error('Formato inválido');
+        render(data.events);
+        const liveCount = data.events.filter(e => e?.status?.type === 'inprogress').length;
+        status.textContent = liveCount ? `${liveCount} en vivo · actualización automática` : 'Partidos de hoy · actualización automática';
+        status.dataset.ok = '1';
+        return;
+      } catch (error) {
+        lastError = error;
+      }
+    }
+
+    status.textContent = 'Fuente principal no disponible · usando respaldo';
+    status.dataset.ok = '0';
+    list.innerHTML = `<iframe class="rs-live-fallback" title="Resultados deportivos en vivo" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.sportbusy.com/embed/live?variant=ticker&theme=dark&sb_parent=${encodeURIComponent(location.href)}"></iframe>`;
+    console.warn('RanaSports live scores fallback:', lastError);
   }
 
   if (!document.getElementById('rs-live-embed-style')) {
     const style = document.createElement('style');
     style.id = 'rs-live-embed-style';
     style.textContent = `
-      #rs-live-top{display:block!important;width:100%!important;max-width:none!important;margin:0!important;padding:0!important;border:0!important;border-bottom:1px solid #252d36!important;background:#10151b!important}
-      #en-vivo{display:none!important}
-      #livePanels{display:none!important}
-      .rs-live-embed-shell{width:100%;height:104px;overflow:hidden;background:#10151b}
-      .rs-live-embed{display:block;width:100%;height:104px;border:0;background:#10151b}
-      .breaking-compact,#breakingDialog{display:none!important}
-      .rs-header-socials{display:flex;align-items:center;gap:7px;margin-left:auto}
-      .rs-header-socials a{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border:1px solid #2c3540;border-radius:999px;color:#eef2f6;text-decoration:none;background:#11171d;transition:background .15s,border-color .15s,transform .15s}
-      .rs-header-socials a:hover{background:#1a222b;border-color:#3b4652;transform:translateY(-1px)}
-      .rs-header-socials svg{width:17px;height:17px;fill:currentColor;display:block}
-      @media(max-width:899px){.rs-header-socials{gap:5px}.rs-header-socials a{width:31px;height:31px}.rs-header-socials svg{width:15px;height:15px}}
-      @media(max-width:699px){.rs-live-embed-shell,.rs-live-embed{height:96px}.rs-header-socials{gap:4px}.rs-header-socials a{width:29px;height:29px}}
+      #rs-live-top{display:block!important;width:100%;border-bottom:1px solid #252d36;background:#10151b;color:#fff}
+      #en-vivo,#livePanels{display:none!important}.breaking-compact,#breakingDialog{display:none!important}
+      .rs-live-head{display:flex;align-items:center;gap:12px;padding:7px 14px;border-bottom:1px solid #202832;font-size:12px}.rs-live-head strong{color:#ff3655}.rs-live-head span{color:#aeb8c3}
+      .rs-live-scroll{display:flex;gap:8px;overflow-x:auto;padding:8px 10px;scrollbar-width:thin;min-height:78px}
+      .rs-match{flex:0 0 260px;border:1px solid #29333e;border-radius:9px;background:#141b22;padding:7px 9px}.rs-match.is-live{border-color:#cf2441}
+      .rs-comp{display:block;color:#8f9ba8;font-size:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-bottom:5px}.rs-match-row{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:7px;font-size:12px;font-weight:700}.rs-match-row span:last-child{text-align:right}.rs-score{font-size:13px}.rs-state{display:block;margin-top:5px;color:#b9c1ca;font-size:10px}.is-live .rs-state{color:#ff526d;font-weight:800}
+      .rs-live-empty{padding:18px;color:#aeb8c3;font-size:12px}.rs-live-fallback{display:block;width:100%;height:96px;border:0;background:#10151b}
+      .rs-header-socials{display:flex;align-items:center;gap:7px;margin-left:auto}.rs-header-socials a{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border:1px solid #2c3540;border-radius:999px;color:#eef2f6;text-decoration:none;background:#11171d;font-weight:800}
+      @media(max-width:699px){.rs-match{flex-basis:225px}.rs-live-head{padding:6px 10px}.rs-live-scroll{padding:7px 8px}.rs-header-socials{gap:4px}.rs-header-socials a{width:29px;height:29px;font-size:12px}}
     `;
     document.head.append(style);
   }
+
+  loadScores();
+  setInterval(loadScores, 60000);
 })();
