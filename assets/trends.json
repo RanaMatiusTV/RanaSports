@@ -1,8 +1,43 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T15:50:10.524Z",
+  "updatedAt": "2026-09-13T16:25:25.686Z",
   "trends": [
+    {
+      "query": "phil foden",
+      "startedAt": "2026-09-13T16:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "bayern",
+      "startedAt": "2026-09-13T16:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "bayern munich",
+      "startedAt": "2026-09-13T16:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "le mans football club - lens",
+      "startedAt": "2026-09-13T16:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "aldo leiva",
+      "startedAt": "2026-09-13T16:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "vicente taborda",
+      "startedAt": "2026-09-13T15:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "exequiel zeballos",
+      "startedAt": "2026-09-13T15:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "cd moquegua - sporting cristal",
       "startedAt": "2026-09-13T15:30:00.000Z",
@@ -14,44 +49,9 @@
       "volume": 100
     },
     {
-      "query": "man city",
+      "query": "city",
       "startedAt": "2026-09-13T15:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "fecha",
-      "startedAt": "2026-09-13T15:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "city vs",
-      "startedAt": "2026-09-13T15:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "monza vs",
-      "startedAt": "2026-09-13T15:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "monza",
-      "startedAt": "2026-09-13T15:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "wanda nara",
-      "startedAt": "2026-09-13T15:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "f1 madrid 2026",
-      "startedAt": "2026-09-13T15:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lille",
-      "startedAt": "2026-09-13T15:00:00.000Z",
-      "volume": 100
+      "volume": 1000
     }
   ]
 }
