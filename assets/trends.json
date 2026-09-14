@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T04:27:39.213Z",
+  "updatedAt": "2026-09-14T04:53:18.264Z",
   "trends": [
     {
       "query": "gobernador",
@@ -46,7 +46,7 @@
     {
       "query": "pedro troglio",
       "startedAt": "2026-09-14T01:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "casa argentina en paris",
