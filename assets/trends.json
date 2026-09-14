@@ -1,12 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-13T23:49:20.585Z",
+  "updatedAt": "2026-09-14T00:34:07.346Z",
   "trends": [
+    {
+      "query": "banco nación",
+      "startedAt": "2026-09-14T00:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "santiago montiel",
+      "startedAt": "2026-09-14T00:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "huracán - racing",
+      "startedAt": "2026-09-13T23:40:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "puente festivo",
+      "startedAt": "2026-09-13T23:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "allanamiento",
       "startedAt": "2026-09-13T23:30:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "facundo farias",
+      "startedAt": "2026-09-13T23:20:00.000Z",
+      "volume": 1000
     },
     {
       "query": "céline dion",
@@ -27,31 +52,6 @@
       "query": "chimy avila",
       "startedAt": "2026-09-13T22:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "jugador",
-      "startedAt": "2026-09-13T22:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "libertad fc - independiente del valle",
-      "startedAt": "2026-09-13T22:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "barcelona sc - delfín",
-      "startedAt": "2026-09-13T22:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "brics",
-      "startedAt": "2026-09-13T22:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "juan miguel arrayago",
-      "startedAt": "2026-09-13T22:20:00.000Z",
-      "volume": 1000
     }
   ]
 }
