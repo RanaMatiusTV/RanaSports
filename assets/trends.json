@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T16:55:01.713Z",
+  "updatedAt": "2026-09-14T17:24:49.478Z",
   "trends": [
+    {
+      "query": "oasis 2027",
+      "startedAt": "2026-09-14T17:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "caballo",
+      "startedAt": "2026-09-14T17:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "cristina fernández de kirchner",
+      "startedAt": "2026-09-14T16:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "mercado cambiario",
       "startedAt": "2026-09-14T16:30:00.000Z",
@@ -14,44 +29,29 @@
       "volume": 200
     },
     {
+      "query": "hyrox",
+      "startedAt": "2026-09-14T16:20:00.000Z",
+      "volume": 200
+    },
+    {
       "query": "fecha de pago de jubilaciones y pensiones",
       "startedAt": "2026-09-14T16:20:00.000Z",
       "volume": 100
     },
     {
+      "query": "joanna wietrzyk",
+      "startedAt": "2026-09-14T16:00:00.000Z",
+      "volume": 200
+    },
+    {
       "query": "como - parma",
       "startedAt": "2026-09-14T15:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "torino - roma",
       "startedAt": "2026-09-14T15:40:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "quiniela de tucumán",
-      "startedAt": "2026-09-14T15:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "asociación del fútbol argentino",
-      "startedAt": "2026-09-14T15:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "salario",
-      "startedAt": "2026-09-14T15:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "club atlético boca juniors",
-      "startedAt": "2026-09-14T15:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "oasis",
-      "startedAt": "2026-09-14T15:00:00.000Z",
-      "volume": 500
     }
   ]
 }
