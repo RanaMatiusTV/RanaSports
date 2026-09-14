@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T02:26:32.809Z",
+  "updatedAt": "2026-09-14T02:52:48.371Z",
   "trends": [
+    {
+      "query": "jordy caicedo",
+      "startedAt": "2026-09-14T02:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "olivia agüero",
+      "startedAt": "2026-09-14T02:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "charlotte caniggia",
       "startedAt": "2026-09-14T01:40:00.000Z",
@@ -36,22 +46,12 @@
     {
       "query": "casa argentina en paris",
       "startedAt": "2026-09-14T00:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "abel pintos",
       "startedAt": "2026-09-14T00:20:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "graciela alfano",
-      "startedAt": "2026-09-14T00:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "huracán - racing",
-      "startedAt": "2026-09-13T23:40:00.000Z",
-      "volume": 50000
     }
   ]
 }
