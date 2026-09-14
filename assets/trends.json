@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T10:26:47.545Z",
+  "updatedAt": "2026-09-14T10:53:25.217Z",
   "trends": [
+    {
+      "query": "calor",
+      "startedAt": "2026-09-14T10:30:00.000Z",
+      "volume": 100
+    },
     {
       "query": "pronostico extendido",
       "startedAt": "2026-09-14T10:00:00.000Z",
@@ -14,9 +19,14 @@
       "volume": 500
     },
     {
+      "query": "flavio briatore",
+      "startedAt": "2026-09-14T09:40:00.000Z",
+      "volume": 50000
+    },
+    {
       "query": "candidato",
       "startedAt": "2026-09-14T09:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "1",
@@ -42,16 +52,6 @@
       "query": "santos laguna",
       "startedAt": "2026-09-14T02:50:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "olivia agüero",
-      "startedAt": "2026-09-14T02:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "jordy caicedo",
-      "startedAt": "2026-09-14T02:20:00.000Z",
-      "volume": 200
     }
   ]
 }
