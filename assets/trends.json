@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T17:24:49.478Z",
+  "updatedAt": "2026-09-14T17:53:19.674Z",
   "trends": [
+    {
+      "query": "como",
+      "startedAt": "2026-09-14T17:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "dolar oficial hoy",
+      "startedAt": "2026-09-14T17:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "bob mackie",
+      "startedAt": "2026-09-14T17:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "oasis 2027",
       "startedAt": "2026-09-14T17:00:00.000Z",
@@ -14,9 +29,19 @@
       "volume": 200
     },
     {
+      "query": "serie a",
+      "startedAt": "2026-09-14T17:00:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "cristina fernández de kirchner",
       "startedAt": "2026-09-14T16:40:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "paso a paso",
+      "startedAt": "2026-09-14T16:30:00.000Z",
+      "volume": 200
     },
     {
       "query": "mercado cambiario",
@@ -26,32 +51,7 @@
     {
       "query": "ypf",
       "startedAt": "2026-09-14T16:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "hyrox",
-      "startedAt": "2026-09-14T16:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fecha de pago de jubilaciones y pensiones",
-      "startedAt": "2026-09-14T16:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "joanna wietrzyk",
-      "startedAt": "2026-09-14T16:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "como - parma",
-      "startedAt": "2026-09-14T15:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "torino - roma",
-      "startedAt": "2026-09-14T15:40:00.000Z",
-      "volume": 1000
+      "volume": 500
     }
   ]
 }
