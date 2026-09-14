@@ -47,15 +47,18 @@ html[data-theme="light"] #newsGrid h3 a{color:#171b21!important}
  #newsGrid .card-body{padding:11px 0 0!important}
  #newsGrid h3{font-size:1.2rem!important;line-height:1.18!important}
 
- /* La noticia destacada vuelve a tener el titular encima de la foto en celular. */
- #newsGrid .lead-story:has(.news-image){position:relative!important;aspect-ratio:16/9!important;min-height:235px!important;overflow:hidden!important;border-radius:9px!important;padding:0!important;background:#111820!important}
- #newsGrid .lead-story:has(.news-image)>.news-image{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;aspect-ratio:auto!important;max-height:none!important;border-radius:0!important;z-index:1!important}
- #newsGrid .lead-story:has(.news-image)>.news-image img{width:100%!important;height:100%!important;object-fit:cover!important;object-position:50% 24%!important}
- #newsGrid .lead-story:has(.news-image)::after{content:"";display:block!important;position:absolute!important;inset:0!important;z-index:2!important;pointer-events:none!important;background:linear-gradient(180deg,rgba(5,8,12,0) 30%,rgba(5,8,12,.18) 48%,rgba(5,8,12,.93) 100%)!important}
- #newsGrid .lead-story:has(.news-image) .card-body{position:absolute!important;left:0!important;right:0!important;bottom:0!important;z-index:3!important;padding:70px 14px 14px!important;background:transparent!important}
- #newsGrid .lead-story:has(.news-image) h3{font-size:1.28rem!important;line-height:1.12!important;text-shadow:0 2px 8px rgba(0,0,0,.65)!important}
- #newsGrid .lead-story:has(.news-image) h3 a,
- html[data-theme="light"] #newsGrid .lead-story:has(.news-image) h3 a{color:#fff!important}
+ /* Todas las noticias con foto usan el mismo tratamiento visual que la destacada. */
+ #newsGrid .news-card:has(>.news-image){position:relative!important;aspect-ratio:16/9!important;min-height:235px!important;overflow:hidden!important;border-radius:9px!important;padding:0!important;margin:0 0 22px!important;background:#111820!important;border-top:0!important;box-shadow:none!important}
+ #newsGrid .news-card:has(>.news-image)>.news-image{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;aspect-ratio:auto!important;max-height:none!important;border-radius:0!important;z-index:1!important}
+ #newsGrid .news-card:has(>.news-image)>.news-image img{width:100%!important;height:100%!important;object-fit:cover!important;object-position:50% 24%!important}
+ #newsGrid .news-card:has(>.news-image)::after{content:"";display:block!important;position:absolute!important;inset:0!important;z-index:2!important;pointer-events:none!important;background:linear-gradient(180deg,rgba(5,8,12,0) 28%,rgba(5,8,12,.14) 47%,rgba(5,8,12,.94) 100%)!important}
+ #newsGrid .news-card:has(>.news-image) .card-body{position:absolute!important;left:0!important;right:0!important;bottom:0!important;z-index:3!important;padding:72px 14px 14px!important;background:transparent!important}
+ #newsGrid .news-card:has(>.news-image) h3{font-size:1.24rem!important;line-height:1.12!important;font-weight:900!important;letter-spacing:-.03em!important;text-shadow:0 2px 8px rgba(0,0,0,.72)!important}
+ #newsGrid .news-card:has(>.news-image) h3 a,
+ html[data-theme="light"] #newsGrid .news-card:has(>.news-image) h3 a{color:#fff!important}
+
+ /* Las tarjetas sin imagen conservan el formato de texto normal. */
+ #newsGrid .news-card:not(:has(>.news-image)){padding-bottom:22px!important}
 }
 
 /* Escritorio: portada tipo portal deportivo. El diseño móvil de arriba queda intacto. */
