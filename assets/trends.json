@@ -1,17 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T13:29:06.738Z",
+  "updatedAt": "2026-09-14T13:53:39.317Z",
   "trends": [
     {
       "query": "inteligencia",
       "startedAt": "2026-09-14T12:50:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "sam altman",
-      "startedAt": "2026-09-14T12:40:00.000Z",
-      "volume": 100
     },
     {
       "query": "juan pablo vojvoda",
@@ -46,12 +41,17 @@
     {
       "query": "calor",
       "startedAt": "2026-09-14T10:30:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "18 de septiembre",
       "startedAt": "2026-09-14T10:20:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "pronostico extendido",
+      "startedAt": "2026-09-14T10:00:00.000Z",
+      "volume": 100
     }
   ]
 }
