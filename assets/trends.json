@@ -1,17 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T00:34:07.346Z",
+  "updatedAt": "2026-09-14T00:55:40.756Z",
   "trends": [
     {
-      "query": "banco nación",
-      "startedAt": "2026-09-14T00:10:00.000Z",
-      "volume": 200
+      "query": "cuando termina gran hermano 2026",
+      "startedAt": "2026-09-14T00:40:00.000Z",
+      "volume": 100
     },
     {
-      "query": "santiago montiel",
-      "startedAt": "2026-09-14T00:10:00.000Z",
+      "query": "casa argentina en paris",
+      "startedAt": "2026-09-14T00:30:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "graciela alfano",
+      "startedAt": "2026-09-14T00:20:00.000Z",
+      "volume": 200
     },
     {
       "query": "huracán - racing",
@@ -26,7 +31,7 @@
     {
       "query": "allanamiento",
       "startedAt": "2026-09-13T23:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "facundo farias",
@@ -46,11 +51,6 @@
     {
       "query": "macarena ceballos",
       "startedAt": "2026-09-13T22:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "chimy avila",
-      "startedAt": "2026-09-13T22:40:00.000Z",
       "volume": 200
     }
   ]
