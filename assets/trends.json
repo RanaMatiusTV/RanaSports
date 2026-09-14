@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T18:55:52.824Z",
+  "updatedAt": "2026-09-14T19:25:49.495Z",
   "trends": [
     {
-      "query": "gira oasis 2027",
-      "startedAt": "2026-09-14T18:40:00.000Z",
+      "query": "inter",
+      "startedAt": "2026-09-14T19:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "inter milan",
+      "startedAt": "2026-09-14T19:10:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "paulo dybala",
+      "startedAt": "2026-09-14T19:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "quiniela chaqueña",
+      "startedAt": "2026-09-14T19:00:00.000Z",
+      "volume": 200
     },
     {
       "query": "sebastián montoya",
@@ -19,17 +34,12 @@
       "volume": 500
     },
     {
-      "query": "instituto de obra social de las fuerzas armadas",
-      "startedAt": "2026-09-14T18:20:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "helada",
       "startedAt": "2026-09-14T18:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "como fc",
+      "query": "instituto de obra social de las fuerzas armadas",
       "startedAt": "2026-09-14T18:20:00.000Z",
       "volume": 200
     },
@@ -39,19 +49,9 @@
       "volume": 200
     },
     {
-      "query": "villarreal - real betis",
-      "startedAt": "2026-09-14T18:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "leeds - newcastle",
-      "startedAt": "2026-09-14T18:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "ruta nacional 237",
-      "startedAt": "2026-09-14T18:00:00.000Z",
-      "volume": 1000
+      "query": "como fc",
+      "startedAt": "2026-09-14T18:20:00.000Z",
+      "volume": 200
     }
   ]
 }
