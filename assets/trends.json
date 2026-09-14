@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T09:28:38.734Z",
+  "updatedAt": "2026-09-14T09:56:58.517Z",
   "trends": [
     {
       "query": "1",
       "startedAt": "2026-09-14T08:30:00.000Z",
-      "volume": 200
+      "volume": 2000
+    },
+    {
+      "query": "quini 6 13 de septiembre",
+      "startedAt": "2026-09-14T08:20:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "enfrentados marfil película",
+      "startedAt": "2026-09-14T08:20:00.000Z",
+      "volume": 100
     },
     {
       "query": "gobernador",
@@ -19,14 +29,19 @@
       "volume": 100
     },
     {
-      "query": "granhermano mitelefe com",
-      "startedAt": "2026-09-14T02:30:00.000Z",
-      "volume": 2000
-    },
-    {
       "query": "olivia agüero",
       "startedAt": "2026-09-14T02:20:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "jordy caicedo",
+      "startedAt": "2026-09-14T02:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "santiago del moro",
+      "startedAt": "2026-09-14T01:40:00.000Z",
+      "volume": 2000
     },
     {
       "query": "charlotte caniggia",
@@ -37,21 +52,6 @@
       "query": "san diego fc - philadelphia",
       "startedAt": "2026-09-14T01:30:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "cúcuta - millonarios",
-      "startedAt": "2026-09-14T01:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "guadalajara - pumas",
-      "startedAt": "2026-09-14T01:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "pedro troglio",
-      "startedAt": "2026-09-14T01:10:00.000Z",
-      "volume": 1000
     }
   ]
 }
