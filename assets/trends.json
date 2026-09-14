@@ -1,22 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T22:26:34.261Z",
+  "updatedAt": "2026-09-14T22:52:23.524Z",
   "trends": [
     {
-      "query": "masterchef celebrity argentina",
+      "query": "condena",
       "startedAt": "2026-09-14T22:10:00.000Z",
-      "volume": 200
+      "volume": 1000
     },
     {
       "query": "cristiano ronaldo",
       "startedAt": "2026-09-14T22:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
-      "query": "condena",
+      "query": "masterchef celebrity argentina",
       "startedAt": "2026-09-14T22:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "economía",
@@ -31,7 +31,7 @@
     {
       "query": "deportivo riestra - lanús",
       "startedAt": "2026-09-14T21:30:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "banfield - barracas central",
@@ -51,7 +51,7 @@
     {
       "query": "áfrica",
       "startedAt": "2026-09-14T21:20:00.000Z",
-      "volume": 200
+      "volume": 500
     }
   ]
 }
