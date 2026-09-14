@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T02:52:48.371Z",
+  "updatedAt": "2026-09-14T03:27:42.313Z",
   "trends": [
     {
-      "query": "jordy caicedo",
-      "startedAt": "2026-09-14T02:20:00.000Z",
-      "volume": 200
+      "query": "gobernador",
+      "startedAt": "2026-09-14T03:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "santos laguna",
+      "startedAt": "2026-09-14T02:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "gran hermano.mitelefe.com",
+      "startedAt": "2026-09-14T02:30:00.000Z",
+      "volume": 2000
     },
     {
       "query": "olivia agüero",
@@ -14,14 +24,9 @@
       "volume": 100
     },
     {
-      "query": "charlotte caniggia",
-      "startedAt": "2026-09-14T01:40:00.000Z",
-      "volume": 1000
-    },
-    {
       "query": "posiciones de barcelona sc contra delfin sc",
       "startedAt": "2026-09-14T01:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "san diego fc - philadelphia",
@@ -31,7 +36,7 @@
     {
       "query": "cúcuta - millonarios",
       "startedAt": "2026-09-14T01:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "guadalajara - pumas",
@@ -44,13 +49,8 @@
       "volume": 500
     },
     {
-      "query": "casa argentina en paris",
-      "startedAt": "2026-09-14T00:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "abel pintos",
-      "startedAt": "2026-09-14T00:20:00.000Z",
+      "query": "cuando termina gran hermano 2026",
+      "startedAt": "2026-09-14T00:40:00.000Z",
       "volume": 1000
     }
   ]
