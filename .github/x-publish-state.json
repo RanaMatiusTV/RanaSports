@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MzUxMjAwMDAwLCJWSUVSQSBESUpPIFFVRSBFTCBFTVBBVEUgRlVFIElOSlVTVE8gWSBDT05GSVJNw5MgUVVFIFlBIFBBU8OTIE5PTUJSRVMgUEFSQSBSRUZPUlpBUiBBTCBST0pPIl0": {
+      "account": "main",
+      "title": "VIERA DIJO QUE EL EMPATE FUE INJUSTO Y CONFIRMÓ QUE YA PASÓ NOMBRES PARA REFORZAR AL ROJO",
+      "dueAt": "2026-09-14T04:20:00.000Z",
+      "bufferPostId": "6aa77559490f0fc8d8b29540",
+      "createdAt": "2026-09-14T04:17:29.421Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MzQ0OTAwMDAwLCJJTkRFUEVORElFTlRFIFkgU0FOIExPUkVOWk8gRU1QQVRBUk9OIDEtMSBFTiBBVkVMTEFORURBIl0": {
       "account": "main",
       "title": "INDEPENDIENTE Y SAN LORENZO EMPATARON 1-1 EN AVELLANEDA",
@@ -340,7 +347,7 @@
   },
   "nextAt": {
     "f1": "2026-09-13T21:30:00.000Z",
-    "main": "2026-09-14T01:00:00.000Z"
+    "main": "2026-09-14T04:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
