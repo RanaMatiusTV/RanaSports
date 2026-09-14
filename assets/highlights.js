@@ -2,9 +2,11 @@
  if(!document.querySelector('#newsGrid'))return;
  const script=document.querySelector('script[src*="assets/highlights.js"]');
  const url=new URL('trends.json',script?.src||location.href);
+ const CSV_URL='https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv';
  const normalize=text=>(text||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
  const words=text=>normalize(text).replace(/[^a-z0-9]+/g,' ').trim().split(/\s+/).filter(Boolean);
  let snapshot;
+ let featuredTitles=new Set();
 
  // Destacadas apunta al interés masivo argentino, no a preferencias partidarias.
  const strongEntities=[
@@ -24,12 +26,29 @@
  ];
  const weakTerms=['entrenamiento','practica','lista de convocados','concentrados','probable equipo','agenda','horarios','amistoso','declaracion breve','juveniles','reserva'];
 
+ function parseCSV(text){
+  const rows=[];let row=[],field='',quoted=false;text=text.replace(/^\uFEFF/,'');
+  for(let i=0;i<text.length;i++){
+   const c=text[i];
+   if(c==='"'){if(quoted&&text[i+1]==='"'){field+='"';i++;}else quoted=!quoted;}
+   else if(c===','&&!quoted){row.push(field);field='';}
+   else if((c==='\n'||c==='\r')&&!quoted){row.push(field);rows.push(row);row=[];field='';if(c==='\r'&&text[i+1]==='\n')i++;}
+   else field+=c;
+  }
+  if(field||row.length){row.push(field);rows.push(row);}return rows;
+ }
+
  function textOf(card){
   return normalize([
    card.querySelector('h3')?.textContent||'',
    card.querySelector('.news-excerpt')?.textContent||'',
    card.querySelector('.badge')?.textContent||''
   ].join(' '));
+ }
+
+ function isSheetFeatured(card){
+  const title=normalize(card.querySelector('h3')?.textContent||'').trim();
+  return Boolean(title&&featuredTitles.has(title));
  }
 
  function editorialScore(card,now=Date.now()){
@@ -44,7 +63,6 @@
   for(const [term,value] of impactTerms) if(text.includes(term)) score+=value;
   for(const term of weakTerms) if(text.includes(term)) score-=35;
 
-  // Partido reciente terminado: fuerte prioridad aunque no sea de un club grande.
   const hasScore=/\b\d+\s*[-–]\s*\d+\b/.test(text);
   const hasResultVerb=/gano|vencio|derroto|empato|perdio|igualo|cayo/.test(text);
   if(hasScore) score+=55;
@@ -52,15 +70,12 @@
   if(hasScore && hasResultVerb) score+=45;
   if(/final|termino|resultado final/.test(text) && hasScore) score+=35;
 
-  // Eventos decisivos o de enorme arrastre popular.
   if(/final|semifinal|clasif|elimin|campeon|titulo/.test(text) && /vs\.?|ante |\b\d+\s*[-–]\s*\d+\b/.test(text)) score+=45;
   if(/messi/.test(text) && /gol|asistencia|doblete|triplete|lesion|record/.test(text)) score+=55;
   if(/colapinto/.test(text) && /carrera|clasificacion|qualy|q3|choque|abandono|puntos|podio/.test(text)) score+=45;
 
-  // Un resultado recién terminado de Colapinto es prioridad máxima para RanaSports.
   if(ageHours<=12 && /colapinto/.test(text) && /termino|carrera|puntos|podio|gano|abandono/.test(text)) score+=500;
 
-  // Recencia importa mucho en portada, pero no define sola la selección.
   if(ageHours<=2) score+=55;
   else if(ageHours<=5) score+=40;
   else if(ageHours<=10) score+=28;
@@ -84,23 +99,50 @@
 
  window.ranaEditorialScore=editorialScore;
  window.ranaTrendScore=(card,now=Date.now())=>{
+  // La columna M (Destacada=SI) de la planilla manda sobre el algoritmo.
+  if(featuredTitles.size&&isSheetFeatured(card))return 1000000000;
   const editorial=editorialScore(card,now);
   const trend=trendScore(card,now);
   const trendBoost=trend>0?Math.min(65,Math.log10(trend+1)*16):0;
   return editorial+trendBoost;
  };
 
- async function refresh(){
+ async function refreshFeatured(){
   try{
-   const response=await fetch(url,{cache:'no-cache'});
+   const response=await fetch(CSV_URL+(CSV_URL.includes('?')?'&':'?')+'_featured='+Date.now(),{cache:'no-store',credentials:'omit'});
    if(!response.ok)return;
-   const data=await response.json();
-   if(!Array.isArray(data.trends))return;
-   snapshot=data;
+   const rows=parseCSV(await response.text());
+   if(!rows.length)return;
+   const headers=rows[0].map(v=>normalize(v).trim());
+   const titleIndex=headers.indexOf('titulo');
+   const featuredIndex=headers.indexOf('destacada');
+   const publishIndex=headers.indexOf('publicar');
+   if(titleIndex<0||featuredIndex<0)return;
+   const next=new Set();
+   for(const row of rows.slice(1)){
+    if(publishIndex>=0&&normalize(row[publishIndex]||'').trim()!=='si')continue;
+    if(normalize(row[featuredIndex]||'').trim()!=='si')continue;
+    const title=normalize(row[titleIndex]||'').trim();
+    if(title)next.add(title);
+   }
+   featuredTitles=next;
    document.dispatchEvent(new Event('ranasports:trends'));
   }catch{}
  }
+
+ async function refresh(){
+  try{
+   const response=await fetch(url,{cache:'no-cache'});
+   if(response.ok){
+    const data=await response.json();
+    if(Array.isArray(data.trends))snapshot=data;
+   }
+  }catch{}
+  document.dispatchEvent(new Event('ranasports:trends'));
+ }
  refresh();
+ refreshFeatured();
  setInterval(refresh,15*60*1000);
+ setInterval(refreshFeatured,5*60*1000);
  setInterval(()=>document.dispatchEvent(new Event('ranasports:trends')),60000);
 })();
