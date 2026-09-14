@@ -1,8 +1,28 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T14:56:52.393Z",
+  "updatedAt": "2026-09-14T15:29:03.820Z",
   "trends": [
+    {
+      "query": "asociación del fútbol argentino",
+      "startedAt": "2026-09-14T15:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "salario",
+      "startedAt": "2026-09-14T15:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "oasis",
+      "startedAt": "2026-09-14T15:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "club atlético boca juniors",
+      "startedAt": "2026-09-14T15:00:00.000Z",
+      "volume": 500
+    },
     {
       "query": "club atlético vélez sarsfield",
       "startedAt": "2026-09-14T14:30:00.000Z",
@@ -16,42 +36,22 @@
     {
       "query": "islas malvinas",
       "startedAt": "2026-09-14T14:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "hayden panettiere",
       "startedAt": "2026-09-14T14:00:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "fifa",
       "startedAt": "2026-09-14T13:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "inteligencia",
       "startedAt": "2026-09-14T12:50:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "sam altman",
-      "startedAt": "2026-09-14T12:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "juan pablo vojvoda",
-      "startedAt": "2026-09-14T12:00:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "harrison ford",
-      "startedAt": "2026-09-14T12:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "incendio",
-      "startedAt": "2026-09-14T11:50:00.000Z",
-      "volume": 500
     }
   ]
 }
