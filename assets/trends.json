@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T16:26:44.239Z",
+  "updatedAt": "2026-09-14T16:55:01.713Z",
   "trends": [
+    {
+      "query": "mercado cambiario",
+      "startedAt": "2026-09-14T16:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "ypf",
+      "startedAt": "2026-09-14T16:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "fecha de pago de jubilaciones y pensiones",
+      "startedAt": "2026-09-14T16:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "como - parma",
       "startedAt": "2026-09-14T15:40:00.000Z",
@@ -11,7 +26,7 @@
     {
       "query": "torino - roma",
       "startedAt": "2026-09-14T15:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "quiniela de tucumán",
@@ -37,21 +52,6 @@
       "query": "oasis",
       "startedAt": "2026-09-14T15:00:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "club atlético vélez sarsfield",
-      "startedAt": "2026-09-14T14:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "dólar estadounidense",
-      "startedAt": "2026-09-14T14:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "islas malvinas",
-      "startedAt": "2026-09-14T14:00:00.000Z",
-      "volume": 2000
     }
   ]
 }
