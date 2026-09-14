@@ -1,12 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T22:52:23.524Z",
+  "updatedAt": "2026-09-14T23:23:23.686Z",
   "trends": [
+    {
+      "query": "diego milito",
+      "startedAt": "2026-09-14T22:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "gladys la bomba tucumana",
+      "startedAt": "2026-09-14T22:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "estadio alberto j. armando",
+      "startedAt": "2026-09-14T22:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "condena",
       "startedAt": "2026-09-14T22:10:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "masterchef celebrity argentina",
+      "startedAt": "2026-09-14T22:10:00.000Z",
+      "volume": 500
     },
     {
       "query": "cristiano ronaldo",
@@ -14,44 +34,24 @@
       "volume": 500
     },
     {
-      "query": "masterchef celebrity argentina",
-      "startedAt": "2026-09-14T22:10:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "economía",
       "startedAt": "2026-09-14T22:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "la pampa",
       "startedAt": "2026-09-14T21:40:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "deportivo riestra - lanús",
       "startedAt": "2026-09-14T21:30:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "banfield - barracas central",
       "startedAt": "2026-09-14T21:30:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "crimen",
-      "startedAt": "2026-09-14T21:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "braga vs",
-      "startedAt": "2026-09-14T21:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "áfrica",
-      "startedAt": "2026-09-14T21:20:00.000Z",
-      "volume": 500
+      "volume": 10000
     }
   ]
 }
