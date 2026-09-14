@@ -1,11 +1,41 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T20:52:50.893Z",
+  "updatedAt": "2026-09-14T21:25:31.551Z",
   "trends": [
+    {
+      "query": "asociación trabajadores del estado",
+      "startedAt": "2026-09-14T21:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "sergio schoklender",
+      "startedAt": "2026-09-14T21:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "carlos rottemberg",
+      "startedAt": "2026-09-14T21:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "dólar hoy",
+      "startedAt": "2026-09-14T20:50:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "braga fc",
+      "startedAt": "2026-09-14T20:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "administración nacional de la seguridad social",
       "startedAt": "2026-09-14T20:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "club sportivo independiente rivadavia",
+      "startedAt": "2026-09-14T20:00:00.000Z",
       "volume": 500
     },
     {
@@ -14,44 +44,14 @@
       "volume": 2000
     },
     {
-      "query": "club sportivo independiente rivadavia",
+      "query": "wisconsin",
       "startedAt": "2026-09-14T20:00:00.000Z",
       "volume": 200
     },
     {
       "query": "tenis",
       "startedAt": "2026-09-14T20:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "wisconsin",
-      "startedAt": "2026-09-14T20:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "denuncia",
-      "startedAt": "2026-09-14T19:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "kevin mac allister",
-      "startedAt": "2026-09-14T19:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "inter vs udinese",
-      "startedAt": "2026-09-14T19:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "newcastle",
-      "startedAt": "2026-09-14T19:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "luděk mikloško",
-      "startedAt": "2026-09-14T19:20:00.000Z",
-      "volume": 2000
+      "volume": 500
     }
   ]
 }
