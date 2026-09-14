@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T07:53:41.491Z",
+  "updatedAt": "2026-09-14T08:28:41.913Z",
   "trends": [
     {
       "query": "gobernador",
@@ -14,14 +14,14 @@
       "volume": 100
     },
     {
-      "query": "granhermano mitelefe com",
-      "startedAt": "2026-09-14T02:30:00.000Z",
-      "volume": 2000
-    },
-    {
       "query": "olivia agüero",
       "startedAt": "2026-09-14T02:20:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "santiago del moro",
+      "startedAt": "2026-09-14T01:40:00.000Z",
+      "volume": 2000
     },
     {
       "query": "charlotte caniggia",
