@@ -1,11 +1,21 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T10:53:25.217Z",
+  "updatedAt": "2026-09-14T11:26:47.203Z",
   "trends": [
+    {
+      "query": "justicia",
+      "startedAt": "2026-09-14T11:10:00.000Z",
+      "volume": 200
+    },
     {
       "query": "calor",
       "startedAt": "2026-09-14T10:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "18 de septiembre",
+      "startedAt": "2026-09-14T10:20:00.000Z",
       "volume": 100
     },
     {
@@ -16,7 +26,7 @@
     {
       "query": "bono",
       "startedAt": "2026-09-14T09:50:00.000Z",
-      "volume": 500
+      "volume": 2000
     },
     {
       "query": "flavio briatore",
@@ -26,7 +36,7 @@
     {
       "query": "candidato",
       "startedAt": "2026-09-14T09:20:00.000Z",
-      "volume": 200
+      "volume": 1000
     },
     {
       "query": "1",
@@ -41,16 +51,6 @@
     {
       "query": "enfrentados marfil película",
       "startedAt": "2026-09-14T08:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "gobernador",
-      "startedAt": "2026-09-14T03:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "santos laguna",
-      "startedAt": "2026-09-14T02:50:00.000Z",
       "volume": 100
     }
   ]
