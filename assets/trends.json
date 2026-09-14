@@ -1,17 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T21:52:23.956Z",
+  "updatedAt": "2026-09-14T22:26:34.261Z",
   "trends": [
     {
-      "query": "banfield - barracas central",
-      "startedAt": "2026-09-14T21:30:00.000Z",
-      "volume": 500
+      "query": "masterchef celebrity argentina",
+      "startedAt": "2026-09-14T22:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "cristiano ronaldo",
+      "startedAt": "2026-09-14T22:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "condena",
+      "startedAt": "2026-09-14T22:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "economía",
+      "startedAt": "2026-09-14T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "la pampa",
+      "startedAt": "2026-09-14T21:40:00.000Z",
+      "volume": 100
     },
     {
       "query": "deportivo riestra - lanús",
       "startedAt": "2026-09-14T21:30:00.000Z",
-      "volume": 200
+      "volume": 5000
+    },
+    {
+      "query": "banfield - barracas central",
+      "startedAt": "2026-09-14T21:30:00.000Z",
+      "volume": 5000
     },
     {
       "query": "crimen",
@@ -24,34 +49,9 @@
       "volume": 200
     },
     {
-      "query": "matías biscay",
+      "query": "áfrica",
       "startedAt": "2026-09-14T21:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "braga",
-      "startedAt": "2026-09-14T21:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "asociación trabajadores del estado",
-      "startedAt": "2026-09-14T21:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "sergio schoklender",
-      "startedAt": "2026-09-14T21:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "bodega",
-      "startedAt": "2026-09-14T21:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "carlos rottemberg",
-      "startedAt": "2026-09-14T21:00:00.000Z",
-      "volume": 100
+      "volume": 200
     }
   ]
 }
