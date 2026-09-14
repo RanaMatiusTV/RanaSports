@@ -1,22 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T11:26:47.203Z",
+  "updatedAt": "2026-09-14T11:54:08.075Z",
   "trends": [
+    {
+      "query": "manuel adorni",
+      "startedAt": "2026-09-14T11:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "kosovo",
+      "startedAt": "2026-09-14T11:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "justicia",
       "startedAt": "2026-09-14T11:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "calor",
       "startedAt": "2026-09-14T10:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "18 de septiembre",
       "startedAt": "2026-09-14T10:20:00.000Z",
-      "volume": 100
+      "volume": 2000
     },
     {
       "query": "pronostico extendido",
@@ -36,22 +46,12 @@
     {
       "query": "candidato",
       "startedAt": "2026-09-14T09:20:00.000Z",
-      "volume": 1000
+      "volume": 500
     },
     {
       "query": "1",
       "startedAt": "2026-09-14T08:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "quini 6 13 de septiembre",
-      "startedAt": "2026-09-14T08:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "enfrentados marfil película",
-      "startedAt": "2026-09-14T08:20:00.000Z",
-      "volume": 100
     }
   ]
 }
