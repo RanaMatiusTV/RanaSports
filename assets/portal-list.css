@@ -30,6 +30,10 @@
 #ultimas .category-tabs{margin-bottom:16px!important}
 #featuredNotice{margin:12px 0!important}
 #moreNewsTitle{margin-top:26px!important}
+
+/* En tema claro, los titulares que van sobre fondo claro deben ser oscuros. */
+html[data-theme="light"] #newsGrid h3 a{color:#171b21!important}
+
 @media(max-width:699px){
  #ultimas.portal-layout{width:100%!important;padding-left:12px!important;padding-right:12px!important}
  #newsGrid .news-card,
@@ -42,6 +46,16 @@
  #newsGrid .news-image{border-radius:9px!important}
  #newsGrid .card-body{padding:11px 0 0!important}
  #newsGrid h3{font-size:1.2rem!important;line-height:1.18!important}
+
+ /* La noticia destacada vuelve a tener el titular encima de la foto en celular. */
+ #newsGrid .lead-story:has(.news-image){position:relative!important;aspect-ratio:16/9!important;min-height:235px!important;overflow:hidden!important;border-radius:9px!important;padding:0!important;background:#111820!important}
+ #newsGrid .lead-story:has(.news-image)>.news-image{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;aspect-ratio:auto!important;max-height:none!important;border-radius:0!important;z-index:1!important}
+ #newsGrid .lead-story:has(.news-image)>.news-image img{width:100%!important;height:100%!important;object-fit:cover!important;object-position:50% 24%!important}
+ #newsGrid .lead-story:has(.news-image)::after{content:"";display:block!important;position:absolute!important;inset:0!important;z-index:2!important;pointer-events:none!important;background:linear-gradient(180deg,rgba(5,8,12,0) 30%,rgba(5,8,12,.18) 48%,rgba(5,8,12,.93) 100%)!important}
+ #newsGrid .lead-story:has(.news-image) .card-body{position:absolute!important;left:0!important;right:0!important;bottom:0!important;z-index:3!important;padding:70px 14px 14px!important;background:transparent!important}
+ #newsGrid .lead-story:has(.news-image) h3{font-size:1.28rem!important;line-height:1.12!important;text-shadow:0 2px 8px rgba(0,0,0,.65)!important}
+ #newsGrid .lead-story:has(.news-image) h3 a,
+ html[data-theme="light"] #newsGrid .lead-story:has(.news-image) h3 a{color:#fff!important}
 }
 
 /* Escritorio: portada tipo portal deportivo. El diseño móvil de arriba queda intacto. */
@@ -80,7 +94,10 @@
  #newsGrid.single-featured .more-story:nth-of-type(3) h3{font-size:1.18rem!important;line-height:1.08!important;letter-spacing:-.025em!important;text-shadow:0 2px 8px rgba(0,0,0,.55)!important}
  #newsGrid.single-featured .lead-story h3 a,
  #newsGrid.single-featured .more-story:nth-of-type(2) h3 a,
- #newsGrid.single-featured .more-story:nth-of-type(3) h3 a{color:#fff!important}
+ #newsGrid.single-featured .more-story:nth-of-type(3) h3 a,
+ html[data-theme="light"] #newsGrid.single-featured .lead-story h3 a,
+ html[data-theme="light"] #newsGrid.single-featured .more-story:nth-of-type(2) h3 a,
+ html[data-theme="light"] #newsGrid.single-featured .more-story:nth-of-type(3) h3 a{color:#fff!important}
 
  /* Quita los separadores del modo lista en la portada de escritorio. */
  #newsGrid.single-featured .lead-story+.news-card,
