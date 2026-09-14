@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T00:55:40.756Z",
+  "updatedAt": "2026-09-14T01:25:37.024Z",
   "trends": [
+    {
+      "query": "pedro troglio",
+      "startedAt": "2026-09-14T01:10:00.000Z",
+      "volume": 100
+    },
     {
       "query": "cuando termina gran hermano 2026",
       "startedAt": "2026-09-14T00:40:00.000Z",
@@ -34,11 +39,6 @@
       "volume": 500
     },
     {
-      "query": "facundo farias",
-      "startedAt": "2026-09-13T23:20:00.000Z",
-      "volume": 1000
-    },
-    {
       "query": "céline dion",
       "startedAt": "2026-09-13T23:10:00.000Z",
       "volume": 200
@@ -49,8 +49,8 @@
       "volume": 100
     },
     {
-      "query": "macarena ceballos",
-      "startedAt": "2026-09-13T22:50:00.000Z",
+      "query": "chimy avila",
+      "startedAt": "2026-09-13T22:40:00.000Z",
       "volume": 200
     }
   ]
