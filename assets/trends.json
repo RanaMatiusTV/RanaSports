@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T12:32:58.146Z",
+  "updatedAt": "2026-09-14T12:57:24.216Z",
   "trends": [
+    {
+      "query": "sam altman",
+      "startedAt": "2026-09-14T12:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "juan pablo vojvoda",
       "startedAt": "2026-09-14T12:00:00.000Z",
@@ -21,12 +26,12 @@
     {
       "query": "manuel adorni",
       "startedAt": "2026-09-14T11:40:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "kosovo",
       "startedAt": "2026-09-14T11:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "justicia",
@@ -39,19 +44,14 @@
       "volume": 500
     },
     {
+      "query": "18 de septiembre",
+      "startedAt": "2026-09-14T10:20:00.000Z",
+      "volume": 200
+    },
+    {
       "query": "pronostico extendido",
       "startedAt": "2026-09-14T10:00:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "bono",
-      "startedAt": "2026-09-14T09:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "flavio briatore",
-      "startedAt": "2026-09-14T09:40:00.000Z",
-      "volume": 50000
     }
   ]
 }
