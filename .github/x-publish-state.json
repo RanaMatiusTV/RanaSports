@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MzQ0OTAwMDAwLCJJTkRFUEVORElFTlRFIFkgU0FOIExPUkVOWk8gRU1QQVRBUk9OIDEtMSBFTiBBVkVMTEFORURBIl0": {
+      "account": "main",
+      "title": "INDEPENDIENTE Y SAN LORENZO EMPATARON 1-1 EN AVELLANEDA",
+      "dueAt": "2026-09-14T00:55:00.000Z",
+      "bufferPostId": "6aa7451af7a3dd26517ee595",
+      "createdAt": "2026-09-14T00:51:38.591Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MzM4MTIwMDAwLCJBUlJBWUFHTyBNQVJDw5MgU1UgUFJJTUVSIEdPTCBFTiBQUklNRVJBIFkgUFVTTyBFTCAxLTAgREUgSU5ERVBFTkRJRU5URSBFTiBFTCBDTMOBU0lDTyJd": {
       "account": "main",
       "title": "ARRAYAGO MARCÓ SU PRIMER GOL EN PRIMERA Y PUSO EL 1-0 DE INDEPENDIENTE EN EL CLÁSICO",
@@ -333,7 +340,7 @@
   },
   "nextAt": {
     "f1": "2026-09-13T21:30:00.000Z",
-    "main": "2026-09-13T23:05:00.000Z"
+    "main": "2026-09-14T01:00:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
