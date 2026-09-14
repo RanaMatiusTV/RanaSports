@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T20:25:41.318Z",
+  "updatedAt": "2026-09-14T20:52:50.893Z",
   "trends": [
+    {
+      "query": "administración nacional de la seguridad social",
+      "startedAt": "2026-09-14T20:30:00.000Z",
+      "volume": 500
+    },
     {
       "query": "2026",
       "startedAt": "2026-09-14T20:00:00.000Z",
@@ -16,22 +21,12 @@
     {
       "query": "tenis",
       "startedAt": "2026-09-14T20:00:00.000Z",
-      "volume": 500
+      "volume": 200
     },
     {
       "query": "wisconsin",
       "startedAt": "2026-09-14T20:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "defensores de belgrano",
-      "startedAt": "2026-09-14T20:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "leeds vs",
-      "startedAt": "2026-09-14T20:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "denuncia",
@@ -44,7 +39,12 @@
       "volume": 100
     },
     {
-      "query": "inter vs. udinese",
+      "query": "inter vs udinese",
+      "startedAt": "2026-09-14T19:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "newcastle",
       "startedAt": "2026-09-14T19:40:00.000Z",
       "volume": 200
     },
