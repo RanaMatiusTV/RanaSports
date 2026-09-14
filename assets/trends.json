@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T19:51:16.903Z",
+  "updatedAt": "2026-09-14T20:25:41.318Z",
   "trends": [
+    {
+      "query": "2026",
+      "startedAt": "2026-09-14T20:00:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "club sportivo independiente rivadavia",
+      "startedAt": "2026-09-14T20:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "tenis",
+      "startedAt": "2026-09-14T20:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "wisconsin",
+      "startedAt": "2026-09-14T20:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "defensores de belgrano",
+      "startedAt": "2026-09-14T20:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "leeds vs",
+      "startedAt": "2026-09-14T20:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "denuncia",
+      "startedAt": "2026-09-14T19:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "kevin mac allister",
+      "startedAt": "2026-09-14T19:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "inter vs. udinese",
+      "startedAt": "2026-09-14T19:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "luděk mikloško",
       "startedAt": "2026-09-14T19:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "inter",
-      "startedAt": "2026-09-14T19:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "inter milan",
-      "startedAt": "2026-09-14T19:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "paulo dybala",
-      "startedAt": "2026-09-14T19:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "quiniela chaqueña",
-      "startedAt": "2026-09-14T19:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sebastián montoya",
-      "startedAt": "2026-09-14T18:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "bolivia",
-      "startedAt": "2026-09-14T18:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "hebe casado",
-      "startedAt": "2026-09-14T18:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "helada",
-      "startedAt": "2026-09-14T18:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "instituto de obra social de las fuerzas armadas",
-      "startedAt": "2026-09-14T18:20:00.000Z",
-      "volume": 200
+      "volume": 2000
     }
   ]
 }
