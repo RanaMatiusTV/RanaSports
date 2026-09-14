@@ -1,8 +1,43 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T18:29:48.097Z",
+  "updatedAt": "2026-09-14T18:55:52.824Z",
   "trends": [
+    {
+      "query": "gira oasis 2027",
+      "startedAt": "2026-09-14T18:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "sebastián montoya",
+      "startedAt": "2026-09-14T18:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "bolivia",
+      "startedAt": "2026-09-14T18:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "instituto de obra social de las fuerzas armadas",
+      "startedAt": "2026-09-14T18:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "helada",
+      "startedAt": "2026-09-14T18:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "como fc",
+      "startedAt": "2026-09-14T18:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "hebe casado",
+      "startedAt": "2026-09-14T18:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "villarreal - real betis",
       "startedAt": "2026-09-14T18:10:00.000Z",
@@ -11,47 +46,12 @@
     {
       "query": "leeds - newcastle",
       "startedAt": "2026-09-14T18:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "ruta nacional 237",
       "startedAt": "2026-09-14T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "the economist",
-      "startedAt": "2026-09-14T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "invierno",
-      "startedAt": "2026-09-14T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "inter - udinese",
-      "startedAt": "2026-09-14T17:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "fenerbahçe",
-      "startedAt": "2026-09-14T17:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "como",
-      "startedAt": "2026-09-14T17:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "dolar oficial hoy",
-      "startedAt": "2026-09-14T17:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "bob mackie",
-      "startedAt": "2026-09-14T17:20:00.000Z",
-      "volume": 100
+      "volume": 1000
     }
   ]
 }
