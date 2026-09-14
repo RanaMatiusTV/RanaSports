@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T12:57:24.216Z",
+  "updatedAt": "2026-09-14T13:29:06.738Z",
   "trends": [
+    {
+      "query": "inteligencia",
+      "startedAt": "2026-09-14T12:50:00.000Z",
+      "volume": 200
+    },
     {
       "query": "sam altman",
       "startedAt": "2026-09-14T12:40:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "juan pablo vojvoda",
       "startedAt": "2026-09-14T12:00:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "harrison ford",
@@ -21,7 +26,7 @@
     {
       "query": "incendio",
       "startedAt": "2026-09-14T11:50:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "manuel adorni",
@@ -47,11 +52,6 @@
       "query": "18 de septiembre",
       "startedAt": "2026-09-14T10:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "pronostico extendido",
-      "startedAt": "2026-09-14T10:00:00.000Z",
-      "volume": 100
     }
   ]
 }
