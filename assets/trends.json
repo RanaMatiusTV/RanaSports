@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T15:29:03.820Z",
+  "updatedAt": "2026-09-14T15:53:55.804Z",
   "trends": [
     {
       "query": "asociación del fútbol argentino",
@@ -21,7 +21,7 @@
     {
       "query": "club atlético boca juniors",
       "startedAt": "2026-09-14T15:00:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "club atlético vélez sarsfield",
@@ -51,7 +51,7 @@
     {
       "query": "inteligencia",
       "startedAt": "2026-09-14T12:50:00.000Z",
-      "volume": 200
+      "volume": 500
     }
   ]
 }
