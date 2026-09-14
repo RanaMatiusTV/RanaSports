@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T03:27:42.313Z",
+  "updatedAt": "2026-09-14T03:53:42.852Z",
   "trends": [
     {
       "query": "gobernador",
@@ -14,14 +14,19 @@
       "volume": 100
     },
     {
-      "query": "gran hermano.mitelefe.com",
+      "query": "granhermano mitelefe com",
       "startedAt": "2026-09-14T02:30:00.000Z",
       "volume": 2000
     },
     {
       "query": "olivia agüero",
       "startedAt": "2026-09-14T02:20:00.000Z",
-      "volume": 100
+      "volume": 200
+    },
+    {
+      "query": "charlotte caniggia",
+      "startedAt": "2026-09-14T01:40:00.000Z",
+      "volume": 1000
     },
     {
       "query": "posiciones de barcelona sc contra delfin sc",
@@ -47,11 +52,6 @@
       "query": "pedro troglio",
       "startedAt": "2026-09-14T01:10:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "cuando termina gran hermano 2026",
-      "startedAt": "2026-09-14T00:40:00.000Z",
-      "volume": 1000
     }
   ]
 }
