@@ -1,17 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T23:23:23.686Z",
+  "updatedAt": "2026-09-14T23:50:24.228Z",
   "trends": [
+    {
+      "query": "la reina del flow",
+      "startedAt": "2026-09-14T23:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "gladys la bomba tucumana",
+      "startedAt": "2026-09-14T22:50:00.000Z",
+      "volume": 200
+    },
     {
       "query": "diego milito",
       "startedAt": "2026-09-14T22:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "gladys la bomba tucumana",
-      "startedAt": "2026-09-14T22:50:00.000Z",
-      "volume": 100
+      "query": "horario de verano",
+      "startedAt": "2026-09-14T22:40:00.000Z",
+      "volume": 1000
     },
     {
       "query": "estadio alberto j. armando",
@@ -21,7 +31,7 @@
     {
       "query": "condena",
       "startedAt": "2026-09-14T22:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "masterchef celebrity argentina",
@@ -42,16 +52,6 @@
       "query": "la pampa",
       "startedAt": "2026-09-14T21:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "deportivo riestra - lanús",
-      "startedAt": "2026-09-14T21:30:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "banfield - barracas central",
-      "startedAt": "2026-09-14T21:30:00.000Z",
-      "volume": 10000
     }
   ]
 }
