@@ -1,22 +1,47 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T14:53:55.363Z",
+  "updatedAt": "2026-09-15T15:25:38.349Z",
   "trends": [
+    {
+      "query": "al ain - al-nassr",
+      "startedAt": "2026-09-15T15:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "cantante",
+      "startedAt": "2026-09-15T15:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "movistar arena",
+      "startedAt": "2026-09-15T15:00:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "kaley cuoco",
+      "startedAt": "2026-09-15T14:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "alfredo cornejo",
       "startedAt": "2026-09-15T14:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "lunes",
       "startedAt": "2026-09-15T14:00:00.000Z",
-      "volume": 500
+      "volume": 2000
+    },
+    {
+      "query": "estadio",
+      "startedAt": "2026-09-15T13:40:00.000Z",
+      "volume": 100
     },
     {
       "query": "balón de oro 2026",
       "startedAt": "2026-09-15T13:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "hyrox",
@@ -27,31 +52,6 @@
       "query": "fauda",
       "startedAt": "2026-09-15T12:10:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "tom pelphrey",
-      "startedAt": "2026-09-15T12:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "marco trungelliti",
-      "startedAt": "2026-09-15T11:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "bebé",
-      "startedAt": "2026-09-15T11:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "la política online",
-      "startedAt": "2026-09-15T10:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "voluntariado",
-      "startedAt": "2026-09-15T10:30:00.000Z",
-      "volume": 1000
     }
   ]
 }
