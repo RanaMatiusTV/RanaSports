@@ -21,3 +21,41 @@
  script.defer=true;
  document.head.append(script);
 })();
+
+// En el menú móvil, separa los clubes de "Más Deportes".
+(() => {
+ const normalize=value=>(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase().replace(/\s+/g,' ');
+ const clubs=new Set([
+  'aldosivi','all boys','argentinos juniors','arsenal','atletico tucuman','banfield','barracas central','belgrano','boca','boca juniors',
+  'central cordoba','chacarita','colon','defensa y justicia','deportivo riestra','estudiantes','estudiantes de la plata','estudiantes de rio cuarto',
+  'ferro','gimnasia','gimnasia de la plata','gimnasia de mendoza','godoy cruz','huracan','independiente','independiente rivadavia','instituto',
+  'lanus','newells','newells old boys','nueva chicago','platense','quilmes','racing','racing club','river','river plate','rosario central',
+  'san lorenzo','san martin de san juan','san martin de tucuman','sarmiento','talleres','temperley','tigre','union','union de santa fe','velez','velez sarsfield'
+ ]);
+ const isClub=link=>{
+  const label=normalize(link.textContent);
+  if(clubs.has(label))return true;
+  const key=normalize(decodeURIComponent((link.hash||'').replace(/^#/,''))).replace(/-/g,' ');
+  return clubs.has(key);
+ };
+ function splitMobileMenu(){
+  const drawerNav=document.querySelector('#navDrawer .drawer-nav');
+  if(!drawerNav)return;
+  const more=[...drawerNav.querySelectorAll(':scope > details.nav-more')].find(details=>normalize(details.querySelector('summary')?.textContent)==='mas deportes');
+  if(!more||drawerNav.querySelector(':scope > details.nav-clubs'))return;
+  const sportsList=more.querySelector('.nav-more-list');
+  if(!sportsList)return;
+  const clubLinks=[...sportsList.querySelectorAll(':scope > a')].filter(isClub);
+  if(!clubLinks.length)return;
+
+  const clubMenu=document.createElement('details');
+  clubMenu.className='nav-more nav-clubs';
+  const summary=document.createElement('summary');summary.textContent='Clubes';
+  const clubList=document.createElement('div');clubList.className='nav-more-list';
+  clubLinks.forEach(link=>clubList.append(link));
+  clubMenu.append(summary,clubList);
+  drawerNav.insertBefore(clubMenu,more);
+ }
+ document.addEventListener('ranasports:navigation-ready',splitMobileMenu);
+ queueMicrotask(splitMobileMenu);
+})();
