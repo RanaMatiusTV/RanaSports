@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T12:55:31.912Z",
+  "updatedAt": "2026-09-15T13:27:43.483Z",
   "trends": [
+    {
+      "query": "balón de oro 2026",
+      "startedAt": "2026-09-15T13:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "hyrox",
+      "startedAt": "2026-09-15T13:00:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "fauda",
       "startedAt": "2026-09-15T12:10:00.000Z",
@@ -19,19 +29,14 @@
       "volume": 500
     },
     {
-      "query": "policía",
-      "startedAt": "2026-09-15T11:00:00.000Z",
-      "volume": 1000
-    },
-    {
       "query": "la política online",
       "startedAt": "2026-09-15T10:50:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "voluntariado",
       "startedAt": "2026-09-15T10:30:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "sequía",
@@ -47,11 +52,6 @@
       "query": "mike amigorena",
       "startedAt": "2026-09-15T09:40:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "concurso de acreedores",
-      "startedAt": "2026-09-15T09:30:00.000Z",
-      "volume": 200
     }
   ]
 }
