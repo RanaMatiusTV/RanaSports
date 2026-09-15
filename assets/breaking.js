@@ -22,7 +22,7 @@
  document.head.append(script);
 })();
 
-// En el menú móvil, separa los clubes de "Más Deportes".
+// Separa los clubes de "Más Deportes" tanto en escritorio como en el menú móvil.
 (() => {
  const normalize=value=>(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase().replace(/\s+/g,' ');
  const clubs=new Set([
@@ -38,11 +38,10 @@
   const key=normalize(decodeURIComponent((link.hash||'').replace(/^#/,''))).replace(/-/g,' ');
   return clubs.has(key);
  };
- function splitMobileMenu(){
-  const drawerNav=document.querySelector('#navDrawer .drawer-nav');
-  if(!drawerNav)return;
-  const more=[...drawerNav.querySelectorAll(':scope > details.nav-more')].find(details=>normalize(details.querySelector('summary')?.textContent)==='mas deportes');
-  if(!more||drawerNav.querySelector(':scope > details.nav-clubs'))return;
+ function splitMenu(parent,mobile){
+  if(!parent)return;
+  const more=[...parent.querySelectorAll(':scope > details.nav-more')].find(details=>normalize(details.querySelector('summary')?.textContent)==='mas deportes');
+  if(!more||parent.querySelector(':scope > details.nav-clubs'))return;
   const sportsList=more.querySelector('.nav-more-list');
   if(!sportsList)return;
   const clubLinks=[...sportsList.querySelectorAll(':scope > a')].filter(isClub);
@@ -50,12 +49,16 @@
 
   const clubMenu=document.createElement('details');
   clubMenu.className='nav-more nav-clubs';
-  const summary=document.createElement('summary');summary.textContent='Clubes';
+  const summary=document.createElement('summary');summary.textContent=mobile?'Clubes':'CLUBES';
   const clubList=document.createElement('div');clubList.className='nav-more-list';
   clubLinks.forEach(link=>clubList.append(link));
   clubMenu.append(summary,clubList);
-  drawerNav.insertBefore(clubMenu,more);
+  parent.insertBefore(clubMenu,more);
  }
- document.addEventListener('ranasports:navigation-ready',splitMobileMenu);
- queueMicrotask(splitMobileMenu);
+ function splitMenus(){
+  splitMenu(document.querySelector('.desktop-nav.dynamic-nav'),false);
+  splitMenu(document.querySelector('#navDrawer .drawer-nav'),true);
+ }
+ document.addEventListener('ranasports:navigation-ready',splitMenus);
+ queueMicrotask(splitMenus);
 })();
