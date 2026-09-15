@@ -1,27 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T11:51:09.870Z",
+  "updatedAt": "2026-09-15T12:31:06.128Z",
   "trends": [
+    {
+      "query": "tom pelphrey",
+      "startedAt": "2026-09-15T12:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "fauda",
+      "startedAt": "2026-09-15T12:10:00.000Z",
+      "volume": 100
+    },
     {
       "query": "marco trungelliti",
       "startedAt": "2026-09-15T11:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "policía",
-      "startedAt": "2026-09-15T11:00:00.000Z",
-      "volume": 1000
-    },
-    {
       "query": "la política online",
       "startedAt": "2026-09-15T10:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "voluntariado",
       "startedAt": "2026-09-15T10:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "sequía",
@@ -31,7 +36,7 @@
     {
       "query": "gustavo sofovich",
       "startedAt": "2026-09-15T09:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "mike amigorena",
@@ -46,12 +51,7 @@
     {
       "query": "darío barassi",
       "startedAt": "2026-09-15T09:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "herencia",
-      "startedAt": "2026-09-15T09:00:00.000Z",
-      "volume": 500
+      "volume": 2000
     }
   ]
 }
