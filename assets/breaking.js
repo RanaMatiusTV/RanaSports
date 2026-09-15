@@ -45,13 +45,15 @@
   const sportsList=more.querySelector('.nav-more-list');
   if(!sportsList)return;
   const clubLinks=[...sportsList.querySelectorAll(':scope > a')].filter(isClub);
-  if(!clubLinks.length)return;
+  const independiente=[...parent.querySelectorAll(':scope > a')].find(link=>normalize(link.textContent)==='independiente'||normalize(decodeURIComponent((link.hash||'').replace(/^#/,'')))==='independiente');
+  if(!clubLinks.length&&!independiente)return;
 
   const clubMenu=document.createElement('details');
   clubMenu.className='nav-more nav-clubs';
   const summary=document.createElement('summary');summary.textContent=mobile?'Clubes':'CLUBES';
   const clubList=document.createElement('div');clubList.className='nav-more-list';
-  clubLinks.forEach(link=>clubList.append(link));
+  if(independiente)clubList.append(independiente.cloneNode(true));
+  clubLinks.filter(link=>normalize(link.textContent)!=='independiente').forEach(link=>clubList.append(link));
   clubMenu.append(summary,clubList);
   parent.insertBefore(clubMenu,more);
  }
