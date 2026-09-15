@@ -1,22 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T09:54:57.384Z",
+  "updatedAt": "2026-09-15T10:27:36.109Z",
   "trends": [
+    {
+      "query": "gustavo sofovich",
+      "startedAt": "2026-09-15T09:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "mike amigorena",
       "startedAt": "2026-09-15T09:40:00.000Z",
       "volume": 100
     },
     {
+      "query": "concurso de acreedores",
+      "startedAt": "2026-09-15T09:30:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "darío barassi",
       "startedAt": "2026-09-15T09:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "herencia",
       "startedAt": "2026-09-15T09:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "gh",
@@ -26,11 +36,6 @@
     {
       "query": "eva bargiela",
       "startedAt": "2026-09-15T03:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "emmy",
-      "startedAt": "2026-09-15T02:50:00.000Z",
       "volume": 100
     },
     {
@@ -47,11 +52,6 @@
       "query": "posiciones de instituto atlético central córdoba contra estudiantes de río cuarto",
       "startedAt": "2026-09-15T02:20:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "cristian pavón",
-      "startedAt": "2026-09-15T02:10:00.000Z",
-      "volume": 500
     }
   ]
 }
