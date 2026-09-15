@@ -1,22 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T22:49:35.332Z",
+  "updatedAt": "2026-09-15T23:23:33.456Z",
   "trends": [
+    {
+      "query": "palermo",
+      "startedAt": "2026-09-15T23:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "bruno sepúlveda",
+      "startedAt": "2026-09-15T22:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "vasco",
+      "startedAt": "2026-09-15T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "javier bardem",
+      "startedAt": "2026-09-15T22:50:00.000Z",
+      "volume": 200
+    },
     {
       "query": "a que hora juega boca",
       "startedAt": "2026-09-15T22:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "fluminense",
       "startedAt": "2026-09-15T22:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "meteored",
       "startedAt": "2026-09-15T22:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "balón de oro",
@@ -26,32 +46,12 @@
     {
       "query": "google deepmind",
       "startedAt": "2026-09-15T22:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "peatón",
       "startedAt": "2026-09-15T21:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "kylian mbappé",
-      "startedAt": "2026-09-15T21:50:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "alex saab",
-      "startedAt": "2026-09-15T21:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "agustin lopez gagliasso",
-      "startedAt": "2026-09-15T21:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ed sheeran",
-      "startedAt": "2026-09-15T21:50:00.000Z",
-      "volume": 100
     }
   ]
 }
