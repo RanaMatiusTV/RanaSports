@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T11:25:21.944Z",
+  "updatedAt": "2026-09-15T11:51:09.870Z",
   "trends": [
+    {
+      "query": "marco trungelliti",
+      "startedAt": "2026-09-15T11:30:00.000Z",
+      "volume": 200
+    },
     {
       "query": "policía",
       "startedAt": "2026-09-15T11:00:00.000Z",
@@ -21,7 +26,7 @@
     {
       "query": "sequía",
       "startedAt": "2026-09-15T10:20:00.000Z",
-      "volume": 2000
+      "volume": 200
     },
     {
       "query": "gustavo sofovich",
@@ -47,11 +52,6 @@
       "query": "herencia",
       "startedAt": "2026-09-15T09:00:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "gh",
-      "startedAt": "2026-09-15T03:10:00.000Z",
-      "volume": 2000
     }
   ]
 }
