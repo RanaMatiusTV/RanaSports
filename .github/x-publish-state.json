@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODk0MzgyMDAwMDAsIklOU1RJVFVUTyBMRSBHQU7DkyAyLTEgQSBFU1RVRElBTlRFUyBERSBSw41PIENVQVJUTyBZIFFVRUTDkyBMw41ERVIgREUgU1UgWk9OQSJd": {
+      "account": "main",
+      "title": "INSTITUTO LE GANÓ 2-1 A ESTUDIANTES DE RÍO CUARTO Y QUEDÓ LÍDER DE SU ZONA",
+      "dueAt": "2026-09-15T02:40:00.000Z",
+      "bufferPostId": "6aa8afb37a172fa74f85eb27",
+      "createdAt": "2026-09-15T02:38:43.877Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODk0MzA0MDAwMDAsIkxBTsOaUyBHT0xFw5MgMy0wIEEgUklFU1RSQSBZIFNFIE1FVEnDkyBFTiBaT05BIERFIFBMQVlPRkZTIl0": {
       "account": "main",
       "title": "LANÚS GOLEÓ 3-0 A RIESTRA Y SE METIÓ EN ZONA DE PLAYOFFS",
@@ -396,7 +403,7 @@
   },
   "nextAt": {
     "f1": "2026-09-14T16:10:00.000Z",
-    "main": "2026-09-15T01:45:00.000Z"
+    "main": "2026-09-15T02:45:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
