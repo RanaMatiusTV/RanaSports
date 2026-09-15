@@ -1,8 +1,38 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T19:51:00.985Z",
+  "updatedAt": "2026-09-15T20:25:16.958Z",
   "trends": [
+    {
+      "query": "instituto de previsión social",
+      "startedAt": "2026-09-15T20:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "mateo pellegrino",
+      "startedAt": "2026-09-15T20:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "max dowman",
+      "startedAt": "2026-09-15T20:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "federico redondo",
+      "startedAt": "2026-09-15T20:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "juez",
+      "startedAt": "2026-09-15T19:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "griselda gambaro",
+      "startedAt": "2026-09-15T19:50:00.000Z",
+      "volume": 200
+    },
     {
       "query": "educación privada",
       "startedAt": "2026-09-15T19:30:00.000Z",
@@ -14,11 +44,6 @@
       "volume": 100
     },
     {
-      "query": "liverpool vs",
-      "startedAt": "2026-09-15T19:20:00.000Z",
-      "volume": 500
-    },
-    {
       "query": "escuela",
       "startedAt": "2026-09-15T19:10:00.000Z",
       "volume": 1000
@@ -26,32 +51,7 @@
     {
       "query": "hipódromo de san isidro",
       "startedAt": "2026-09-15T19:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "militarización del espacio",
-      "startedAt": "2026-09-15T19:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "maluma",
-      "startedAt": "2026-09-15T19:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "alaves vs",
-      "startedAt": "2026-09-15T19:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ajax vs",
-      "startedAt": "2026-09-15T19:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "cronograma",
-      "startedAt": "2026-09-15T18:50:00.000Z",
-      "volume": 500
+      "volume": 200
     }
   ]
 }
