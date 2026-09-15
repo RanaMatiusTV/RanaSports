@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T17:51:13.195Z",
+  "updatedAt": "2026-09-15T18:27:04.062Z",
   "trends": [
     {
-      "query": "alavés - valencia c. f.",
-      "startedAt": "2026-09-15T17:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "leonardo ponzio",
-      "startedAt": "2026-09-15T17:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "benin",
-      "startedAt": "2026-09-15T17:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "burkina faso",
-      "startedAt": "2026-09-15T17:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "liga de campeones de la afc",
-      "startedAt": "2026-09-15T16:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "emanuel ortega",
-      "startedAt": "2026-09-15T16:20:00.000Z",
+      "query": "ipswich - arsenal",
+      "startedAt": "2026-09-15T18:10:00.000Z",
       "volume": 1000
     },
     {
-      "query": "rayo vallecano - rcd espanyol",
-      "startedAt": "2026-09-15T16:10:00.000Z",
+      "query": "posiciones de al ain contra al-nassr",
+      "startedAt": "2026-09-15T18:10:00.000Z",
       "volume": 1000
     },
     {
-      "query": "genoa",
-      "startedAt": "2026-09-15T16:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "valle salvaje",
-      "startedAt": "2026-09-15T15:50:00.000Z",
+      "query": "reforma",
+      "startedAt": "2026-09-15T18:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "genoa - fc südtirol",
-      "startedAt": "2026-09-15T15:40:00.000Z",
+      "query": "liverpool - tottenham",
+      "startedAt": "2026-09-15T18:00:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "west ham - fulham",
+      "startedAt": "2026-09-15T18:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "ajax",
+      "startedAt": "2026-09-15T18:00:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "clarity act",
+      "startedAt": "2026-09-15T18:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "yuri nakamura",
+      "startedAt": "2026-09-15T17:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "entrenador",
+      "startedAt": "2026-09-15T17:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "al hilal - al gharafa",
+      "startedAt": "2026-09-15T17:50:00.000Z",
+      "volume": 200
     }
   ]
 }
