@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T10:52:15.863Z",
+  "updatedAt": "2026-09-15T11:25:21.944Z",
   "trends": [
+    {
+      "query": "policía",
+      "startedAt": "2026-09-15T11:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "la política online",
+      "startedAt": "2026-09-15T10:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "voluntariado",
       "startedAt": "2026-09-15T10:30:00.000Z",
-      "volume": 100
+      "volume": 200
+    },
+    {
+      "query": "sequía",
+      "startedAt": "2026-09-15T10:20:00.000Z",
+      "volume": 2000
     },
     {
       "query": "gustavo sofovich",
@@ -16,7 +31,7 @@
     {
       "query": "mike amigorena",
       "startedAt": "2026-09-15T09:40:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "concurso de acreedores",
@@ -26,32 +41,17 @@
     {
       "query": "darío barassi",
       "startedAt": "2026-09-15T09:00:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "herencia",
       "startedAt": "2026-09-15T09:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "gh",
       "startedAt": "2026-09-15T03:10:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "eva bargiela",
-      "startedAt": "2026-09-15T03:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "gran hermano en vivo",
-      "startedAt": "2026-09-15T02:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "rob reiner",
-      "startedAt": "2026-09-15T02:30:00.000Z",
-      "volume": 200
     }
   ]
 }
