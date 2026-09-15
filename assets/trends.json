@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T10:27:36.109Z",
+  "updatedAt": "2026-09-15T10:52:15.863Z",
   "trends": [
+    {
+      "query": "voluntariado",
+      "startedAt": "2026-09-15T10:30:00.000Z",
+      "volume": 100
+    },
     {
       "query": "gustavo sofovich",
       "startedAt": "2026-09-15T09:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "mike amigorena",
@@ -16,7 +21,7 @@
     {
       "query": "concurso de acreedores",
       "startedAt": "2026-09-15T09:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "darío barassi",
@@ -47,11 +52,6 @@
       "query": "rob reiner",
       "startedAt": "2026-09-15T02:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "posiciones de instituto atlético central córdoba contra estudiantes de río cuarto",
-      "startedAt": "2026-09-15T02:20:00.000Z",
-      "volume": 10000
     }
   ]
 }
