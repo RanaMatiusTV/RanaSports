@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODk0MzA0MDAwMDAsIkxBTsOaUyBHT0xFw5MgMy0wIEEgUklFU1RSQSBZIFNFIE1FVEnDkyBFTiBaT05BIERFIFBMQVlPRkZTIl0": {
+      "account": "main",
+      "title": "LANÚS GOLEÓ 3-0 A RIESTRA Y SE METIÓ EN ZONA DE PLAYOFFS",
+      "dueAt": "2026-09-15T01:40:00.000Z",
+      "bufferPostId": "6aa8a12d7a172fa74f84b398",
+      "createdAt": "2026-09-15T01:36:45.596Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjb3BhIGFyZ2VudGluYSIsMTc4OTQyMzUwMDAwMCwiQk9DQS1SQUNJTkcgQ0FNQknDkyBERSBTRURFOiBTRSBKVUdBUsOBIEVOIEVMIEdJR0FOVEUgREUgQVJST1lJVE8iXQ": {
       "account": "main",
       "title": "BOCA-RACING CAMBIÓ DE SEDE: SE JUGARÁ EN EL GIGANTE DE ARROYITO",
@@ -389,7 +396,7 @@
   },
   "nextAt": {
     "f1": "2026-09-14T16:10:00.000Z",
-    "main": "2026-09-14T23:40:00.000Z"
+    "main": "2026-09-15T01:45:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
