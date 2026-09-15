@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-14T23:50:24.228Z",
+  "updatedAt": "2026-09-15T00:34:27.923Z",
   "trends": [
+    {
+      "query": "instituto",
+      "startedAt": "2026-09-15T00:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "mariska hargitay",
+      "startedAt": "2026-09-15T00:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "emmys",
+      "startedAt": "2026-09-14T23:50:00.000Z",
+      "volume": 500
+    },
     {
       "query": "la reina del flow",
       "startedAt": "2026-09-14T23:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "gladys la bomba tucumana",
@@ -21,7 +36,7 @@
     {
       "query": "horario de verano",
       "startedAt": "2026-09-14T22:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "estadio alberto j. armando",
@@ -36,22 +51,7 @@
     {
       "query": "masterchef celebrity argentina",
       "startedAt": "2026-09-14T22:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "cristiano ronaldo",
-      "startedAt": "2026-09-14T22:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "economía",
-      "startedAt": "2026-09-14T22:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "la pampa",
-      "startedAt": "2026-09-14T21:40:00.000Z",
-      "volume": 200
+      "volume": 1000
     }
   ]
 }
