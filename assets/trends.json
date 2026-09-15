@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T13:27:43.483Z",
+  "updatedAt": "2026-09-15T13:53:28.795Z",
   "trends": [
     {
       "query": "balón de oro 2026",
       "startedAt": "2026-09-15T13:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "hyrox",
@@ -41,7 +41,7 @@
     {
       "query": "sequía",
       "startedAt": "2026-09-15T10:20:00.000Z",
-      "volume": 500
+      "volume": 2000
     },
     {
       "query": "gustavo sofovich",
