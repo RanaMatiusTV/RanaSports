@@ -1,22 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T00:34:27.923Z",
+  "updatedAt": "2026-09-15T00:55:55.502Z",
   "trends": [
+    {
+      "query": "chiefs - broncos",
+      "startedAt": "2026-09-15T00:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "u. católica - orense",
+      "startedAt": "2026-09-15T00:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "emmys 2026",
+      "startedAt": "2026-09-15T00:10:00.000Z",
+      "volume": 200
+    },
     {
       "query": "instituto",
       "startedAt": "2026-09-15T00:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "mariska hargitay",
-      "startedAt": "2026-09-15T00:00:00.000Z",
-      "volume": 200
+      "volume": 2000
     },
     {
       "query": "emmys",
       "startedAt": "2026-09-14T23:50:00.000Z",
-      "volume": 500
+      "volume": 200
     },
     {
       "query": "la reina del flow",
@@ -42,16 +52,6 @@
       "query": "estadio alberto j. armando",
       "startedAt": "2026-09-14T22:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "condena",
-      "startedAt": "2026-09-14T22:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "masterchef celebrity argentina",
-      "startedAt": "2026-09-14T22:10:00.000Z",
-      "volume": 1000
     }
   ]
 }
