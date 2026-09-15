@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T00:55:55.502Z",
+  "updatedAt": "2026-09-15T01:28:15.712Z",
   "trends": [
+    {
+      "query": "sally field",
+      "startedAt": "2026-09-15T01:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "león - san luis",
+      "startedAt": "2026-09-15T01:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "widows bay",
+      "startedAt": "2026-09-15T01:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pluribus",
+      "startedAt": "2026-09-15T01:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "premios hugo",
+      "startedAt": "2026-09-15T01:00:00.000Z",
+      "volume": 100
+    },
     {
       "query": "chiefs - broncos",
       "startedAt": "2026-09-15T00:30:00.000Z",
@@ -21,36 +46,11 @@
     {
       "query": "instituto",
       "startedAt": "2026-09-15T00:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
-      "query": "emmys",
-      "startedAt": "2026-09-14T23:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "la reina del flow",
-      "startedAt": "2026-09-14T23:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gladys la bomba tucumana",
-      "startedAt": "2026-09-14T22:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "diego milito",
-      "startedAt": "2026-09-14T22:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "horario de verano",
-      "startedAt": "2026-09-14T22:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "estadio alberto j. armando",
-      "startedAt": "2026-09-14T22:40:00.000Z",
+      "query": "mariska hargitay",
+      "startedAt": "2026-09-15T00:00:00.000Z",
       "volume": 200
     }
   ]
