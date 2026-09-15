@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T07:28:30.859Z",
+  "updatedAt": "2026-09-15T07:54:43.939Z",
   "trends": [
     {
       "query": "eva bargiela",
       "startedAt": "2026-09-15T03:10:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "emmy",
+      "startedAt": "2026-09-15T02:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "gran hermano en vivo",
+      "startedAt": "2026-09-15T02:40:00.000Z",
+      "volume": 200
     },
     {
       "query": "rob reiner",
@@ -42,16 +52,6 @@
       "query": "luis barrionuevo",
       "startedAt": "2026-09-15T01:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "américa de cali",
-      "startedAt": "2026-09-15T01:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "rhea seehorn",
-      "startedAt": "2026-09-15T01:20:00.000Z",
-      "volume": 500
     }
   ]
 }
