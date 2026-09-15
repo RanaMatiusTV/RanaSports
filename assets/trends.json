@@ -1,15 +1,40 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T01:28:15.712Z",
+  "updatedAt": "2026-09-15T01:53:54.307Z",
   "trends": [
     {
-      "query": "sally field",
-      "startedAt": "2026-09-15T01:10:00.000Z",
+      "query": "matías galarza",
+      "startedAt": "2026-09-15T01:20:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "américa - pasto",
+      "startedAt": "2026-09-15T01:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "león - san luis",
+      "query": "rhea seehorn",
+      "startedAt": "2026-09-15T01:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "sandra borghi",
+      "startedAt": "2026-09-15T01:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "matthew rhys",
+      "startedAt": "2026-09-15T01:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "cuando es la final de gran hermano",
+      "startedAt": "2026-09-15T01:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "sally field",
       "startedAt": "2026-09-15T01:10:00.000Z",
       "volume": 200
     },
@@ -19,39 +44,14 @@
       "volume": 200
     },
     {
-      "query": "pluribus",
+      "query": "león - san luis",
       "startedAt": "2026-09-15T01:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "premios hugo",
       "startedAt": "2026-09-15T01:00:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "chiefs - broncos",
-      "startedAt": "2026-09-15T00:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "u. católica - orense",
-      "startedAt": "2026-09-15T00:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "emmys 2026",
-      "startedAt": "2026-09-15T00:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "instituto",
-      "startedAt": "2026-09-15T00:00:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "mariska hargitay",
-      "startedAt": "2026-09-15T00:00:00.000Z",
-      "volume": 200
     }
   ]
 }
