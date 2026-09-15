@@ -23,6 +23,7 @@
 })();
 
 // Separa los clubes de "Más Deportes" tanto en escritorio como en el menú móvil.
+// Independiente queda únicamente dentro de "Clubes", no como acceso principal.
 (() => {
  const normalize=value=>(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase().replace(/\s+/g,' ');
  const clubs=new Set([
@@ -38,24 +39,32 @@
   const key=normalize(decodeURIComponent((link.hash||'').replace(/^#/,''))).replace(/-/g,' ');
   return clubs.has(key);
  };
+ const isIndependiente=link=>normalize(link.textContent)==='independiente'||normalize(decodeURIComponent((link.hash||'').replace(/^#/,'')))==='independiente';
  function splitMenu(parent,mobile){
   if(!parent)return;
   const more=[...parent.querySelectorAll(':scope > details.nav-more')].find(details=>normalize(details.querySelector('summary')?.textContent)==='mas deportes');
-  if(!more||parent.querySelector(':scope > details.nav-clubs'))return;
+  if(!more)return;
   const sportsList=more.querySelector('.nav-more-list');
   if(!sportsList)return;
-  const clubLinks=[...sportsList.querySelectorAll(':scope > a')].filter(isClub);
-  const independiente=[...parent.querySelectorAll(':scope > a')].find(link=>normalize(link.textContent)==='independiente'||normalize(decodeURIComponent((link.hash||'').replace(/^#/,'')))==='independiente');
-  if(!clubLinks.length&&!independiente)return;
 
-  const clubMenu=document.createElement('details');
-  clubMenu.className='nav-more nav-clubs';
-  const summary=document.createElement('summary');summary.textContent=mobile?'Clubes':'CLUBES';
-  const clubList=document.createElement('div');clubList.className='nav-more-list';
-  if(independiente)clubList.append(independiente.cloneNode(true));
-  clubLinks.filter(link=>normalize(link.textContent)!=='independiente').forEach(link=>clubList.append(link));
-  clubMenu.append(summary,clubList);
-  parent.insertBefore(clubMenu,more);
+  const directIndependent=[...parent.querySelectorAll(':scope > a')].find(isIndependiente);
+  let clubMenu=parent.querySelector(':scope > details.nav-clubs');
+  if(!clubMenu){
+   const clubLinks=[...sportsList.querySelectorAll(':scope > a')].filter(isClub);
+   if(!clubLinks.length&&!directIndependent)return;
+
+   clubMenu=document.createElement('details');
+   clubMenu.className='nav-more nav-clubs';
+   const summary=document.createElement('summary');summary.textContent=mobile?'Clubes':'CLUBES';
+   const clubList=document.createElement('div');clubList.className='nav-more-list';
+   const extraIndependent=clubLinks.find(isIndependiente);
+   if(extraIndependent)clubList.append(extraIndependent);
+   else if(directIndependent)clubList.append(directIndependent.cloneNode(true));
+   clubLinks.filter(link=>!isIndependiente(link)).forEach(link=>clubList.append(link));
+   clubMenu.append(summary,clubList);
+   parent.insertBefore(clubMenu,more);
+  }
+  directIndependent?.remove();
  }
  function splitMenus(){
   splitMenu(document.querySelector('.desktop-nav.dynamic-nav'),false);
