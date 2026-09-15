@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T13:53:28.795Z",
+  "updatedAt": "2026-09-15T14:26:56.726Z",
   "trends": [
+    {
+      "query": "alfredo cornejo",
+      "startedAt": "2026-09-15T14:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "lunes",
+      "startedAt": "2026-09-15T14:00:00.000Z",
+      "volume": 500
+    },
     {
       "query": "balón de oro 2026",
       "startedAt": "2026-09-15T13:10:00.000Z",
@@ -29,6 +39,11 @@
       "volume": 500
     },
     {
+      "query": "bebé",
+      "startedAt": "2026-09-15T11:20:00.000Z",
+      "volume": 1000
+    },
+    {
       "query": "la política online",
       "startedAt": "2026-09-15T10:50:00.000Z",
       "volume": 500
@@ -37,21 +52,6 @@
       "query": "voluntariado",
       "startedAt": "2026-09-15T10:30:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "sequía",
-      "startedAt": "2026-09-15T10:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "gustavo sofovich",
-      "startedAt": "2026-09-15T09:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "mike amigorena",
-      "startedAt": "2026-09-15T09:40:00.000Z",
-      "volume": 500
     }
   ]
 }
