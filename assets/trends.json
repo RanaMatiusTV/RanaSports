@@ -1,10 +1,20 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T09:32:19.444Z",
+  "updatedAt": "2026-09-15T09:54:57.384Z",
   "trends": [
     {
+      "query": "mike amigorena",
+      "startedAt": "2026-09-15T09:40:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "darío barassi",
+      "startedAt": "2026-09-15T09:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "herencia",
       "startedAt": "2026-09-15T09:00:00.000Z",
       "volume": 100
     },
@@ -42,16 +52,6 @@
       "query": "cristian pavón",
       "startedAt": "2026-09-15T02:10:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "cotización dólar oficial dólar blue hoy",
-      "startedAt": "2026-09-15T02:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "leon fc",
-      "startedAt": "2026-09-15T02:00:00.000Z",
-      "volume": 100
     }
   ]
 }
