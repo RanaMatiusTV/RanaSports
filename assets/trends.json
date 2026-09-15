@@ -1,8 +1,28 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T15:53:13.515Z",
+  "updatedAt": "2026-09-15T16:26:36.476Z",
   "trends": [
+    {
+      "query": "rayo vallecano - rcd espanyol",
+      "startedAt": "2026-09-15T16:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "genoa",
+      "startedAt": "2026-09-15T16:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "valle salvaje",
+      "startedAt": "2026-09-15T15:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "genoa - fc südtirol",
+      "startedAt": "2026-09-15T15:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "popstars",
       "startedAt": "2026-09-15T15:20:00.000Z",
@@ -11,7 +31,12 @@
     {
       "query": "al ain - al-nassr",
       "startedAt": "2026-09-15T15:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
+    },
+    {
+      "query": "cantante",
+      "startedAt": "2026-09-15T15:10:00.000Z",
+      "volume": 100
     },
     {
       "query": "movistar arena",
@@ -26,32 +51,7 @@
     {
       "query": "lunes",
       "startedAt": "2026-09-15T14:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "estadio",
-      "startedAt": "2026-09-15T13:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "balón de oro 2026",
-      "startedAt": "2026-09-15T13:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "hyrox",
-      "startedAt": "2026-09-15T13:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "fauda",
-      "startedAt": "2026-09-15T12:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tom pelphrey",
-      "startedAt": "2026-09-15T12:10:00.000Z",
-      "volume": 100
+      "volume": 5000
     }
   ]
 }
