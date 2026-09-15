@@ -1,8 +1,28 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T21:24:00.336Z",
+  "updatedAt": "2026-09-15T21:50:24.859Z",
   "trends": [
+    {
+      "query": "misil",
+      "startedAt": "2026-09-15T21:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "vasco da gama",
+      "startedAt": "2026-09-15T21:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "platense - fluminense",
+      "startedAt": "2026-09-15T21:20:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "dolar blue",
+      "startedAt": "2026-09-15T21:20:00.000Z",
+      "volume": 500
+    },
     {
       "query": "río paraná",
       "startedAt": "2026-09-15T21:10:00.000Z",
@@ -16,7 +36,7 @@
     {
       "query": "testamento",
       "startedAt": "2026-09-15T21:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "ramón díaz",
@@ -24,34 +44,14 @@
       "volume": 100
     },
     {
-      "query": "a qué hora juega platense",
-      "startedAt": "2026-09-15T20:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "crimen",
-      "startedAt": "2026-09-15T20:50:00.000Z",
+      "query": "inteligencia artificial",
+      "startedAt": "2026-09-15T20:40:00.000Z",
       "volume": 200
     },
     {
       "query": "venecia",
       "startedAt": "2026-09-15T20:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "inteligencia artificial",
-      "startedAt": "2026-09-15T20:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "brentford",
-      "startedAt": "2026-09-15T20:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "scott eastwood",
-      "startedAt": "2026-09-15T20:40:00.000Z",
-      "volume": 100
     }
   ]
 }
