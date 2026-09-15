@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T18:27:04.062Z",
+  "updatedAt": "2026-09-15T18:54:03.913Z",
   "trends": [
     {
-      "query": "ipswich - arsenal",
-      "startedAt": "2026-09-15T18:10:00.000Z",
+      "query": "american",
+      "startedAt": "2026-09-15T18:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "elche c. f. - real madrid",
+      "startedAt": "2026-09-15T18:30:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "administration",
+      "startedAt": "2026-09-15T18:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "against",
+      "startedAt": "2026-09-15T18:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "air",
+      "startedAt": "2026-09-15T18:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "above",
+      "startedAt": "2026-09-15T18:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "action",
+      "startedAt": "2026-09-15T18:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "fiorentina - pisa",
+      "startedAt": "2026-09-15T18:20:00.000Z",
       "volume": 1000
     },
     {
-      "query": "posiciones de al ain contra al-nassr",
-      "startedAt": "2026-09-15T18:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "reforma",
-      "startedAt": "2026-09-15T18:10:00.000Z",
+      "query": "china",
+      "startedAt": "2026-09-15T18:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "liverpool - tottenham",
-      "startedAt": "2026-09-15T18:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "west ham - fulham",
-      "startedAt": "2026-09-15T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ajax",
-      "startedAt": "2026-09-15T18:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "clarity act",
-      "startedAt": "2026-09-15T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "yuri nakamura",
-      "startedAt": "2026-09-15T17:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "entrenador",
-      "startedAt": "2026-09-15T17:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "al hilal - al gharafa",
-      "startedAt": "2026-09-15T17:50:00.000Z",
+      "query": "ezequiel lavezzi",
+      "startedAt": "2026-09-15T18:20:00.000Z",
       "volume": 200
     }
   ]
