@@ -1,15 +1,15 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T15:25:38.349Z",
+  "updatedAt": "2026-09-15T15:53:13.515Z",
   "trends": [
     {
-      "query": "al ain - al-nassr",
-      "startedAt": "2026-09-15T15:10:00.000Z",
-      "volume": 500
+      "query": "popstars",
+      "startedAt": "2026-09-15T15:20:00.000Z",
+      "volume": 200
     },
     {
-      "query": "cantante",
+      "query": "al ain - al-nassr",
       "startedAt": "2026-09-15T15:10:00.000Z",
       "volume": 1000
     },
@@ -17,11 +17,6 @@
       "query": "movistar arena",
       "startedAt": "2026-09-15T15:00:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "kaley cuoco",
-      "startedAt": "2026-09-15T14:50:00.000Z",
-      "volume": 100
     },
     {
       "query": "alfredo cornejo",
@@ -52,6 +47,11 @@
       "query": "fauda",
       "startedAt": "2026-09-15T12:10:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "tom pelphrey",
+      "startedAt": "2026-09-15T12:10:00.000Z",
+      "volume": 100
     }
   ]
 }
