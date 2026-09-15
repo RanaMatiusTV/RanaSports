@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T06:33:08.432Z",
+  "updatedAt": "2026-09-15T06:56:49.273Z",
   "trends": [
     {
       "query": "eva bargiela",
@@ -12,11 +12,6 @@
       "query": "rob reiner",
       "startedAt": "2026-09-15T02:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "posiciones de instituto atlético central córdoba contra estudiantes de río cuarto",
-      "startedAt": "2026-09-15T02:20:00.000Z",
-      "volume": 10000
     },
     {
       "query": "charlotte caniggia",
@@ -50,6 +45,11 @@
     },
     {
       "query": "rhea seehorn",
+      "startedAt": "2026-09-15T01:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "matías galarza",
       "startedAt": "2026-09-15T01:20:00.000Z",
       "volume": 500
     }
