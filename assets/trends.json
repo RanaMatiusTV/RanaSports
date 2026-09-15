@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T14:26:56.726Z",
+  "updatedAt": "2026-09-15T14:53:55.363Z",
   "trends": [
     {
       "query": "alfredo cornejo",
@@ -26,7 +26,7 @@
     {
       "query": "fauda",
       "startedAt": "2026-09-15T12:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "tom pelphrey",
