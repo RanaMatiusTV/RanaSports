@@ -1,17 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T22:24:54.295Z",
+  "updatedAt": "2026-09-15T22:49:35.332Z",
   "trends": [
+    {
+      "query": "a que hora juega boca",
+      "startedAt": "2026-09-15T22:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "fluminense",
+      "startedAt": "2026-09-15T22:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "meteored",
+      "startedAt": "2026-09-15T22:20:00.000Z",
+      "volume": 500
+    },
     {
       "query": "balón de oro",
       "startedAt": "2026-09-15T22:10:00.000Z",
       "volume": 500
     },
     {
-      "query": "sao paulo vs boca",
+      "query": "google deepmind",
       "startedAt": "2026-09-15T22:00:00.000Z",
-      "volume": 200
+      "volume": 100
     },
     {
       "query": "peatón",
@@ -19,14 +34,14 @@
       "volume": 200
     },
     {
-      "query": "alex saab",
-      "startedAt": "2026-09-15T21:50:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "kylian mbappé",
       "startedAt": "2026-09-15T21:50:00.000Z",
-      "volume": 100
+      "volume": 500
+    },
+    {
+      "query": "alex saab",
+      "startedAt": "2026-09-15T21:50:00.000Z",
+      "volume": 200
     },
     {
       "query": "agustin lopez gagliasso",
@@ -34,24 +49,9 @@
       "volume": 100
     },
     {
-      "query": "franco mastantuono",
+      "query": "ed sheeran",
       "startedAt": "2026-09-15T21:50:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "quiniela en vivo",
-      "startedAt": "2026-09-15T21:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "cotización",
-      "startedAt": "2026-09-15T21:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "ceuta",
-      "startedAt": "2026-09-15T21:40:00.000Z",
-      "volume": 200
     }
   ]
 }
