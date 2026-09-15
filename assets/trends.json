@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T20:25:16.958Z",
+  "updatedAt": "2026-09-15T20:51:42.886Z",
   "trends": [
+    {
+      "query": "luis barrionuevo",
+      "startedAt": "2026-09-15T20:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "fiorentina vs. pisa",
+      "startedAt": "2026-09-15T20:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "supercopa internacional",
+      "startedAt": "2026-09-15T20:30:00.000Z",
+      "volume": 100
+    },
     {
       "query": "instituto de previsión social",
       "startedAt": "2026-09-15T20:10:00.000Z",
-      "volume": 200
+      "volume": 1000
     },
     {
       "query": "mateo pellegrino",
@@ -16,7 +31,7 @@
     {
       "query": "max dowman",
       "startedAt": "2026-09-15T20:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "federico redondo",
@@ -24,34 +39,19 @@
       "volume": 100
     },
     {
-      "query": "juez",
-      "startedAt": "2026-09-15T19:50:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "griselda gambaro",
       "startedAt": "2026-09-15T19:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "educación privada",
-      "startedAt": "2026-09-15T19:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "jurado",
-      "startedAt": "2026-09-15T19:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "escuela",
-      "startedAt": "2026-09-15T19:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "hipódromo de san isidro",
-      "startedAt": "2026-09-15T19:10:00.000Z",
+      "query": "juez",
+      "startedAt": "2026-09-15T19:50:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "liverpool",
+      "startedAt": "2026-09-15T19:40:00.000Z",
+      "volume": 5000
     }
   ]
 }
