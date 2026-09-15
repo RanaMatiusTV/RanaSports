@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T21:50:24.859Z",
+  "updatedAt": "2026-09-15T22:24:54.295Z",
   "trends": [
     {
-      "query": "misil",
-      "startedAt": "2026-09-15T21:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "vasco da gama",
-      "startedAt": "2026-09-15T21:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "platense - fluminense",
-      "startedAt": "2026-09-15T21:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "dolar blue",
-      "startedAt": "2026-09-15T21:20:00.000Z",
+      "query": "balón de oro",
+      "startedAt": "2026-09-15T22:10:00.000Z",
       "volume": 500
     },
     {
-      "query": "río paraná",
-      "startedAt": "2026-09-15T21:10:00.000Z",
+      "query": "sao paulo vs boca",
+      "startedAt": "2026-09-15T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "peatón",
+      "startedAt": "2026-09-15T21:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "alex saab",
+      "startedAt": "2026-09-15T21:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "discapacidad",
-      "startedAt": "2026-09-15T21:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "testamento",
-      "startedAt": "2026-09-15T21:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ramón díaz",
-      "startedAt": "2026-09-15T21:00:00.000Z",
+      "query": "kylian mbappé",
+      "startedAt": "2026-09-15T21:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "inteligencia artificial",
-      "startedAt": "2026-09-15T20:40:00.000Z",
-      "volume": 200
+      "query": "agustin lopez gagliasso",
+      "startedAt": "2026-09-15T21:50:00.000Z",
+      "volume": 100
     },
     {
-      "query": "venecia",
-      "startedAt": "2026-09-15T20:40:00.000Z",
+      "query": "franco mastantuono",
+      "startedAt": "2026-09-15T21:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "quiniela en vivo",
+      "startedAt": "2026-09-15T21:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "cotización",
+      "startedAt": "2026-09-15T21:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "ceuta",
+      "startedAt": "2026-09-15T21:40:00.000Z",
       "volume": 200
     }
   ]
