@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T18:54:03.913Z",
+  "updatedAt": "2026-09-15T19:24:11.743Z",
   "trends": [
+    {
+      "query": "escuela",
+      "startedAt": "2026-09-15T19:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "militarización del espacio",
+      "startedAt": "2026-09-15T19:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "maluma",
+      "startedAt": "2026-09-15T19:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "hipódromo de san isidro",
+      "startedAt": "2026-09-15T19:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "ajax vs",
+      "startedAt": "2026-09-15T19:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "alaves vs",
+      "startedAt": "2026-09-15T19:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "cronograma",
+      "startedAt": "2026-09-15T18:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "quiniela de tucumán",
+      "startedAt": "2026-09-15T18:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "american",
       "startedAt": "2026-09-15T18:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "elche c. f. - real madrid",
       "startedAt": "2026-09-15T18:30:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "administration",
-      "startedAt": "2026-09-15T18:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "against",
-      "startedAt": "2026-09-15T18:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "air",
-      "startedAt": "2026-09-15T18:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "above",
-      "startedAt": "2026-09-15T18:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "action",
-      "startedAt": "2026-09-15T18:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fiorentina - pisa",
-      "startedAt": "2026-09-15T18:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "china",
-      "startedAt": "2026-09-15T18:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ezequiel lavezzi",
-      "startedAt": "2026-09-15T18:20:00.000Z",
-      "volume": 200
     }
   ]
 }
