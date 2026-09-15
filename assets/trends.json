@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T16:26:36.476Z",
+  "updatedAt": "2026-09-15T16:53:22.028Z",
   "trends": [
+    {
+      "query": "emanuel ortega",
+      "startedAt": "2026-09-15T16:20:00.000Z",
+      "volume": 500
+    },
     {
       "query": "rayo vallecano - rcd espanyol",
       "startedAt": "2026-09-15T16:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "genoa",
@@ -26,7 +31,7 @@
     {
       "query": "popstars",
       "startedAt": "2026-09-15T15:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "al ain - al-nassr",
@@ -36,22 +41,17 @@
     {
       "query": "cantante",
       "startedAt": "2026-09-15T15:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "movistar arena",
       "startedAt": "2026-09-15T15:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "alfredo cornejo",
       "startedAt": "2026-09-15T14:10:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "lunes",
-      "startedAt": "2026-09-15T14:00:00.000Z",
-      "volume": 5000
     }
   ]
 }
