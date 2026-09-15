@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T16:53:22.028Z",
+  "updatedAt": "2026-09-15T17:23:31.907Z",
   "trends": [
+    {
+      "query": "liga de campeones de la afc",
+      "startedAt": "2026-09-15T16:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "rayo vallecano",
+      "startedAt": "2026-09-15T16:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "emanuel ortega",
       "startedAt": "2026-09-15T16:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "rayo vallecano - rcd espanyol",
@@ -21,12 +31,12 @@
     {
       "query": "valle salvaje",
       "startedAt": "2026-09-15T15:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "genoa - fc südtirol",
       "startedAt": "2026-09-15T15:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "popstars",
@@ -36,22 +46,12 @@
     {
       "query": "al ain - al-nassr",
       "startedAt": "2026-09-15T15:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "cantante",
       "startedAt": "2026-09-15T15:10:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "movistar arena",
-      "startedAt": "2026-09-15T15:00:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "alfredo cornejo",
-      "startedAt": "2026-09-15T14:10:00.000Z",
-      "volume": 500
     }
   ]
 }
