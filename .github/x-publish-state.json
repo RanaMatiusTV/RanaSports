@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3ODk0MzQwNjAwMDAsIkJPQ0EgTExFR8OTIEEgU0FOIFBBQkxPIENPTiBSSVFVRUxNRSBZIFRSRVMgUkVHUkVTT1MgUEFSQSBMQSBSRVZBTkNIQSJd": {
+      "account": "main",
+      "title": "BOCA LLEGÓ A SAN PABLO CON RIQUELME Y TRES REGRESOS PARA LA REVANCHA",
+      "dueAt": "2026-09-15T03:45:00.000Z",
+      "bufferPostId": "6aa8be52a283eff81a55bcd8",
+      "createdAt": "2026-09-15T03:41:07.101Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODk0MzgyMDAwMDAsIklOU1RJVFVUTyBMRSBHQU7DkyAyLTEgQSBFU1RVRElBTlRFUyBERSBSw41PIENVQVJUTyBZIFFVRUTDkyBMw41ERVIgREUgU1UgWk9OQSJd": {
       "account": "main",
       "title": "INSTITUTO LE GANÓ 2-1 A ESTUDIANTES DE RÍO CUARTO Y QUEDÓ LÍDER DE SU ZONA",
@@ -403,7 +410,7 @@
   },
   "nextAt": {
     "f1": "2026-09-14T16:10:00.000Z",
-    "main": "2026-09-15T02:45:00.000Z"
+    "main": "2026-09-15T03:50:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
