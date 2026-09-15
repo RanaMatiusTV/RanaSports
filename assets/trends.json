@@ -1,12 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T19:24:11.743Z",
+  "updatedAt": "2026-09-15T19:51:00.985Z",
   "trends": [
+    {
+      "query": "educación privada",
+      "startedAt": "2026-09-15T19:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "jurado",
+      "startedAt": "2026-09-15T19:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "liverpool vs",
+      "startedAt": "2026-09-15T19:20:00.000Z",
+      "volume": 500
+    },
     {
       "query": "escuela",
       "startedAt": "2026-09-15T19:10:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "hipódromo de san isidro",
+      "startedAt": "2026-09-15T19:10:00.000Z",
+      "volume": 100
     },
     {
       "query": "militarización del espacio",
@@ -19,8 +39,8 @@
       "volume": 100
     },
     {
-      "query": "hipódromo de san isidro",
-      "startedAt": "2026-09-15T19:10:00.000Z",
+      "query": "alaves vs",
+      "startedAt": "2026-09-15T19:00:00.000Z",
       "volume": 100
     },
     {
@@ -29,29 +49,9 @@
       "volume": 100
     },
     {
-      "query": "alaves vs",
-      "startedAt": "2026-09-15T19:00:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "cronograma",
       "startedAt": "2026-09-15T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "quiniela de tucumán",
-      "startedAt": "2026-09-15T18:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "american",
-      "startedAt": "2026-09-15T18:40:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "elche c. f. - real madrid",
-      "startedAt": "2026-09-15T18:30:00.000Z",
-      "volume": 5000
     }
   ]
 }
