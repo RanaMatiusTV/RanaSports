@@ -1,22 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T12:31:06.128Z",
+  "updatedAt": "2026-09-15T12:55:31.912Z",
   "trends": [
-    {
-      "query": "tom pelphrey",
-      "startedAt": "2026-09-15T12:10:00.000Z",
-      "volume": 100
-    },
     {
       "query": "fauda",
       "startedAt": "2026-09-15T12:10:00.000Z",
       "volume": 100
     },
     {
+      "query": "tom pelphrey",
+      "startedAt": "2026-09-15T12:10:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "marco trungelliti",
       "startedAt": "2026-09-15T11:30:00.000Z",
-      "volume": 200
+      "volume": 500
+    },
+    {
+      "query": "policía",
+      "startedAt": "2026-09-15T11:00:00.000Z",
+      "volume": 1000
     },
     {
       "query": "la política online",
@@ -31,7 +36,7 @@
     {
       "query": "sequía",
       "startedAt": "2026-09-15T10:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "gustavo sofovich",
@@ -41,17 +46,12 @@
     {
       "query": "mike amigorena",
       "startedAt": "2026-09-15T09:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "concurso de acreedores",
       "startedAt": "2026-09-15T09:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "darío barassi",
-      "startedAt": "2026-09-15T09:00:00.000Z",
-      "volume": 2000
     }
   ]
 }
