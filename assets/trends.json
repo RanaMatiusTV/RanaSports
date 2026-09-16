@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T03:52:54.940Z",
+  "updatedAt": "2026-09-16T04:26:30.524Z",
   "trends": [
+    {
+      "query": "michael j fox",
+      "startedAt": "2026-09-16T03:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "essence",
       "startedAt": "2026-09-16T03:30:00.000Z",
@@ -14,19 +19,14 @@
       "volume": 100
     },
     {
-      "query": "kick",
-      "startedAt": "2026-09-16T03:00:00.000Z",
-      "volume": 1000
-    },
-    {
       "query": "promedio industrial dow jones",
       "startedAt": "2026-09-16T03:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "virginia messi",
-      "startedAt": "2026-09-16T02:50:00.000Z",
-      "volume": 200
+      "query": "kick",
+      "startedAt": "2026-09-16T03:00:00.000Z",
+      "volume": 1000
     },
     {
       "query": "s&p 500",
@@ -34,7 +34,7 @@
       "volume": 200
     },
     {
-      "query": "cómo salió boca juniors",
+      "query": "virginia messi",
       "startedAt": "2026-09-16T02:50:00.000Z",
       "volume": 200
     },
