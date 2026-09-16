@@ -91,3 +91,54 @@
   document.addEventListener('ranasports:news-updated',schedule);
   schedule();
 })();
+
+// Mejora de calidad visual: intenta una variante grande cuando la planilla trae una miniatura de TyC.
+// El diseño móvil queda exactamente con las mismas dimensiones; solo se compacta levemente el ancho máximo de escritorio.
+(()=>{
+  if(window.__ranaImageQuality)return;
+  window.__ranaImageQuality=true;
+
+  if(!document.querySelector('#rs-image-quality-style')){
+    const s=document.createElement('style');
+    s.id='rs-image-quality-style';
+    s.textContent='@media(min-width:1050px){#ultimas.portal-layout{max-width:1180px!important}}';
+    document.head.append(s);
+  }
+
+  function hdCandidate(src){
+    try{
+      const u=new URL(src,location.href);
+      if(u.hostname!=='media.tycsports.com')return'';
+      if(!/_416x234\.webp$/i.test(u.pathname))return'';
+      u.pathname=u.pathname.replace(/_416x234\.webp$/i,'_w862.webp');
+      return u.href;
+    }catch{return''}
+  }
+
+  function upgrade(img){
+    if(!img||img.dataset.rsQualityChecked==='1')return;
+    const original=img.currentSrc||img.src||'';
+    const candidate=hdCandidate(original);
+    img.dataset.rsQualityChecked='1';
+    if(!candidate||candidate===original)return;
+    const probe=new Image();
+    probe.referrerPolicy='no-referrer';
+    probe.onload=()=>{
+      if(!img.isConnected)return;
+      if((probe.naturalWidth||0)>=700){
+        img.dataset.rsOriginalSrc=original;
+        img.src=candidate;
+        img.dataset.rsQuality='hd';
+      }
+    };
+    probe.src=candidate;
+  }
+
+  function scan(){
+    document.querySelectorAll('#newsGrid .news-image img,#newsDetail .article-image').forEach(upgrade);
+  }
+
+  document.addEventListener('ranasports:news-updated',()=>requestAnimationFrame(scan));
+  new MutationObserver(()=>requestAnimationFrame(scan)).observe(document.documentElement,{childList:true,subtree:true});
+  scan();
+})();
