@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T20:26:27.064Z",
+  "updatedAt": "2026-09-16T20:52:38.156Z",
   "trends": [
+    {
+      "query": "ypf",
+      "startedAt": "2026-09-16T20:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "inter de milán",
+      "startedAt": "2026-09-16T20:10:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "barca",
       "startedAt": "2026-09-16T20:10:00.000Z",
@@ -11,12 +21,7 @@
     {
       "query": "bayer leverkusen",
       "startedAt": "2026-09-16T20:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "carabao cup",
-      "startedAt": "2026-09-16T20:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "amiga traidora",
@@ -46,12 +51,7 @@
     {
       "query": "norte",
       "startedAt": "2026-09-16T19:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "anderlecht - lyon",
-      "startedAt": "2026-09-16T19:30:00.000Z",
-      "volume": 200
+      "volume": 1000
     }
   ]
 }
