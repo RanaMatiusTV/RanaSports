@@ -128,24 +128,29 @@ if (document.body.dataset.category === 'f1' && !document.querySelector('[data-f1
  }
 }
 
-// Resultados en vivo: fallback seguro mientras se conectan widgets oficiales por torneo/partido.
+// Resultados en vivo: widget gratuito embebido directamente en la pestaña EN VIVO.
 if (liveModule) {
- liveModule.dataset.sourceStatus = 'external-live';
+ liveModule.dataset.sourceStatus = 'scorebat-live';
  liveModule.innerHTML = `
   <div class="module-heading">
    <h2 id="liveTitle"><span class="live-dot"></span> EN VIVO AHORA</h2>
-   <span class="module-status">SOFASCORE</span>
+   <span class="module-status">SCOREBAT</span>
   </div>
   <div class="module-topics"><span>RESULTADOS EN VIVO</span><span>FÚTBOL</span></div>
-  <div class="live-empty" style="padding:24px 18px">
-   <span class="score-symbol" aria-hidden="true">⚽</span>
-   <h3>Resultados y partidos en vivo</h3>
-   <p>El widget genérico anterior no existe en Sofascore. Para evitar mostrar un 404, el acceso queda temporalmente en modo directo mientras integramos widgets oficiales específicos por torneo y partido.</p>
-   <a class="primary-btn" href="https://www.sofascore.com/es-la/" target="_blank" rel="noopener noreferrer">VER RESULTADOS EN VIVO ↗</a>
+  <div style="background:#fff;overflow:hidden;border-radius:0 0 8px 8px">
+   <iframe
+    src="https://www.scorebat.com/embed/livescore/"
+    title="Resultados de fútbol en vivo"
+    width="100%"
+    height="900"
+    loading="eager"
+    referrerpolicy="strict-origin-when-cross-origin"
+    style="display:block;width:100%;min-height:760px;border:0;background:#fff"
+    allowfullscreen></iframe>
   </div>
   <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;padding:10px 12px;border-top:1px solid #29313a;font-size:11px;color:#aeb7c2">
-   <span>Datos y marcadores: Sofascore.</span>
-   <a href="https://www.sofascore.com/es-la/football/tournament/argentina/liga-profesional-de-futbol/155" target="_blank" rel="noopener noreferrer" style="color:#fff;text-decoration:none;font-weight:800">FÚTBOL ARGENTINO ↗</a>
+   <span>Marcadores en tiempo real provistos por ScoreBat.</span>
+   <a href="https://www.scorebat.com/embed/livescore/" target="_blank" rel="noopener noreferrer" style="color:#fff;text-decoration:none;font-weight:800">ABRIR MARCADOR ↗</a>
   </div>`;
 }
 
