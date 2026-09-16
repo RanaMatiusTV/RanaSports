@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTU1Njk0MDAwMCwiTEEgRjEgQ09ORklSTcOTIEVMIENBTEVOREFSSU8gMjAyNzogMjQgQ0FSUkVSQVMsIE3DgVMgU1BSSU5UIFkgQVJHRU5USU5BIE9UUkEgVkVaIEFGVUVSQSJd": {
+      "account": "f1",
+      "title": "LA F1 CONFIRMÓ EL CALENDARIO 2027: 24 CARRERAS, MÁS SPRINT Y ARGENTINA OTRA VEZ AFUERA",
+      "dueAt": "2026-09-16T12:20:00.000Z",
+      "bufferPostId": "6aaa883a260ced176a496b4f",
+      "createdAt": "2026-09-16T12:14:50.364Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTUxNDIyMDAwMCwiQ09MQVBJTlRPIENPTlTDkyBDw5NNTyBTRSBDVUlEQSBBTlRFUyBERSBMT1MgRklORVMgREUgU0VNQU5BIERFIEYxIl0": {
       "account": "f1",
       "title": "COLAPINTO CONTÓ CÓMO SE CUIDA ANTES DE LOS FINES DE SEMANA DE F1",
@@ -493,7 +500,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-16T00:35:00.000Z",
+    "f1": "2026-09-16T12:25:00.000Z",
     "main": "2026-09-16T00:35:00.000Z"
   },
   "buffer": {
