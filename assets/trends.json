@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T18:28:42.182Z",
+  "updatedAt": "2026-09-16T18:53:34.738Z",
   "trends": [
+    {
+      "query": "barcelona - racing de santander",
+      "startedAt": "2026-09-16T18:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "sunderland afc - az",
+      "startedAt": "2026-09-16T18:30:00.000Z",
+      "volume": 200
+    },
     {
       "query": "coventry city - aston villa",
       "startedAt": "2026-09-16T18:10:00.000Z",
@@ -19,19 +29,14 @@
       "volume": 2000
     },
     {
-      "query": "everton - wolves",
-      "startedAt": "2026-09-16T18:00:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "fed",
       "startedAt": "2026-09-16T18:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "sorteo",
+      "query": "everton - wolves",
       "startedAt": "2026-09-16T18:00:00.000Z",
-      "volume": 500
+      "volume": 200
     },
     {
       "query": "massimo moratti",
@@ -45,11 +50,6 @@
     },
     {
       "query": "diario jornada",
-      "startedAt": "2026-09-16T17:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "celta de vigo",
       "startedAt": "2026-09-16T17:30:00.000Z",
       "volume": 200
     }
