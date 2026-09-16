@@ -1,15 +1,20 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T17:24:07.800Z",
+  "updatedAt": "2026-09-16T17:51:54.831Z",
   "trends": [
     {
-      "query": "europa league",
+      "query": "diario jornada",
+      "startedAt": "2026-09-16T17:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "web app fc 27",
       "startedAt": "2026-09-16T16:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "web app fc 27",
+      "query": "europa league",
       "startedAt": "2026-09-16T16:50:00.000Z",
       "volume": 200
     },
@@ -24,14 +29,14 @@
       "volume": 2000
     },
     {
-      "query": "submarino",
-      "startedAt": "2026-09-16T16:30:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "lena dunham",
       "startedAt": "2026-09-16T16:30:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "submarino",
+      "startedAt": "2026-09-16T16:30:00.000Z",
+      "volume": 200
     },
     {
       "query": "atlético madrid - osasuna",
@@ -46,11 +51,6 @@
     {
       "query": "eliana moreno",
       "startedAt": "2026-09-16T16:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "omonia - celta de vigo",
-      "startedAt": "2026-09-16T16:00:00.000Z",
       "volume": 200
     }
   ]
