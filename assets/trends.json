@@ -1,22 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T14:54:07.260Z",
+  "updatedAt": "2026-09-16T15:26:17.786Z",
   "trends": [
+    {
+      "query": "rodolfo arruabarrena",
+      "startedAt": "2026-09-16T14:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "facundo colidio",
+      "startedAt": "2026-09-16T14:00:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "atragantamiento",
       "startedAt": "2026-09-16T13:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "tom cruise",
       "startedAt": "2026-09-16T13:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "argentina sub-20 - selección femenina de fútbol sub-20 de corea del sur",
       "startedAt": "2026-09-16T13:20:00.000Z",
-      "volume": 200
+      "volume": 5000
     },
     {
       "query": "edificio",
@@ -31,7 +41,7 @@
     {
       "query": "venta",
       "startedAt": "2026-09-16T12:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "acuerdo",
@@ -41,17 +51,7 @@
     {
       "query": "16 de septiembre",
       "startedAt": "2026-09-16T11:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tuberculosis",
-      "startedAt": "2026-09-16T11:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "noche de los lapices",
-      "startedAt": "2026-09-16T10:50:00.000Z",
-      "volume": 1000
+      "volume": 500
     }
   ]
 }
