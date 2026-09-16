@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T21:25:54.763Z",
+  "updatedAt": "2026-09-16T21:51:22.538Z",
   "trends": [
+    {
+      "query": "lamine yamal",
+      "startedAt": "2026-09-16T21:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "alumno",
+      "startedAt": "2026-09-16T21:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "independiente rivadavia - atlético tucumán",
+      "startedAt": "2026-09-16T21:10:00.000Z",
+      "volume": 5000
+    },
     {
       "query": "ldu quito - palmeiras",
       "startedAt": "2026-09-16T21:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "atlético mineiro - santos",
@@ -14,12 +29,17 @@
       "volume": 1000
     },
     {
-      "query": "independiente rivadavia - atlético tucumán",
+      "query": "jack doohan",
       "startedAt": "2026-09-16T21:10:00.000Z",
       "volume": 200
     },
     {
       "query": "liga de quito",
+      "startedAt": "2026-09-16T21:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "quien gana gran hermano 2026",
       "startedAt": "2026-09-16T21:10:00.000Z",
       "volume": 100
     },
@@ -31,27 +51,7 @@
     {
       "query": "leverkusen",
       "startedAt": "2026-09-16T20:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ypf",
-      "startedAt": "2026-09-16T20:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "raphinha",
-      "startedAt": "2026-09-16T20:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "inter de milán",
-      "startedAt": "2026-09-16T20:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "barca",
-      "startedAt": "2026-09-16T20:10:00.000Z",
-      "volume": 1000
+      "volume": 500
     }
   ]
 }
