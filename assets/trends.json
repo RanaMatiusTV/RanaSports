@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T06:32:04.285Z",
+  "updatedAt": "2026-09-16T06:56:23.451Z",
   "trends": [
     {
       "query": "michael j fox",
@@ -46,7 +46,7 @@
     {
       "query": "el nine",
       "startedAt": "2026-09-16T02:40:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "boca vs river",
