@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T11:52:44.545Z",
+  "updatedAt": "2026-09-16T12:32:03.098Z",
   "trends": [
+    {
+      "query": "venta",
+      "startedAt": "2026-09-16T12:00:00.000Z",
+      "volume": 200
+    },
     {
       "query": "acuerdo",
       "startedAt": "2026-09-16T11:20:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "16 de septiembre",
       "startedAt": "2026-09-16T11:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "tuberculosis",
@@ -26,7 +31,7 @@
     {
       "query": "calor",
       "startedAt": "2026-09-16T08:10:00.000Z",
-      "volume": 500
+      "volume": 5000
     },
     {
       "query": "twitter",
@@ -47,11 +52,6 @@
       "query": "quien gano gran hermano 2026",
       "startedAt": "2026-09-16T03:20:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "promedio industrial dow jones",
-      "startedAt": "2026-09-16T03:00:00.000Z",
-      "volume": 200
     }
   ]
 }
