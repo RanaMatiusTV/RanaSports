@@ -1,27 +1,47 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T19:24:33.354Z",
+  "updatedAt": "2026-09-16T19:49:44.509Z",
   "trends": [
+    {
+      "query": "anderlecht - lyon",
+      "startedAt": "2026-09-16T19:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "leverkusen - celje",
+      "startedAt": "2026-09-16T19:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "everton",
+      "startedAt": "2026-09-16T19:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "frente frío",
+      "startedAt": "2026-09-16T19:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "maría becerra",
+      "startedAt": "2026-09-16T19:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "inflación",
+      "startedAt": "2026-09-16T19:10:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "río paraná",
       "startedAt": "2026-09-16T19:10:00.000Z",
       "volume": 1000
     },
     {
-      "query": "milan vs",
-      "startedAt": "2026-09-16T19:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "inflación",
-      "startedAt": "2026-09-16T19:10:00.000Z",
-      "volume": 500
-    },
-    {
       "query": "milan",
       "startedAt": "2026-09-16T19:00:00.000Z",
-      "volume": 200
+      "volume": 1000
     },
     {
       "query": "juicio",
@@ -31,27 +51,7 @@
     {
       "query": "levante - athletic",
       "startedAt": "2026-09-16T18:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "sevilla",
-      "startedAt": "2026-09-16T18:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "jorge porcel",
-      "startedAt": "2026-09-16T18:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "barcelona - racing de santander",
-      "startedAt": "2026-09-16T18:30:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "sunderland afc - az",
-      "startedAt": "2026-09-16T18:30:00.000Z",
-      "volume": 200
+      "volume": 1000
     }
   ]
 }
