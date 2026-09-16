@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T12:32:03.098Z",
+  "updatedAt": "2026-09-16T12:56:30.339Z",
   "trends": [
+    {
+      "query": "edificio",
+      "startedAt": "2026-09-16T12:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "roberto cachanosky",
+      "startedAt": "2026-09-16T12:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "venta",
       "startedAt": "2026-09-16T12:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "acuerdo",
@@ -31,7 +41,7 @@
     {
       "query": "calor",
       "startedAt": "2026-09-16T08:10:00.000Z",
-      "volume": 5000
+      "volume": 500
     },
     {
       "query": "twitter",
@@ -42,16 +52,6 @@
       "query": "michael j fox",
       "startedAt": "2026-09-16T03:50:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "essence",
-      "startedAt": "2026-09-16T03:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "quien gano gran hermano 2026",
-      "startedAt": "2026-09-16T03:20:00.000Z",
-      "volume": 500
     }
   ]
 }
