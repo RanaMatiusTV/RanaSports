@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T18:53:34.738Z",
+  "updatedAt": "2026-09-16T19:24:33.354Z",
   "trends": [
+    {
+      "query": "río paraná",
+      "startedAt": "2026-09-16T19:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "milan vs",
+      "startedAt": "2026-09-16T19:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "inflación",
+      "startedAt": "2026-09-16T19:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "milan",
+      "startedAt": "2026-09-16T19:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "juicio",
+      "startedAt": "2026-09-16T18:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "levante - athletic",
+      "startedAt": "2026-09-16T18:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "sevilla",
+      "startedAt": "2026-09-16T18:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jorge porcel",
+      "startedAt": "2026-09-16T18:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "barcelona - racing de santander",
       "startedAt": "2026-09-16T18:30:00.000Z",
-      "volume": 500
+      "volume": 10000
     },
     {
       "query": "sunderland afc - az",
       "startedAt": "2026-09-16T18:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "coventry city - aston villa",
-      "startedAt": "2026-09-16T18:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "milan - benfica",
-      "startedAt": "2026-09-16T18:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "manchester united - brighton",
-      "startedAt": "2026-09-16T18:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "fed",
-      "startedAt": "2026-09-16T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "everton - wolves",
-      "startedAt": "2026-09-16T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "massimo moratti",
-      "startedAt": "2026-09-16T17:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "jonathan david",
-      "startedAt": "2026-09-16T17:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "diario jornada",
-      "startedAt": "2026-09-16T17:30:00.000Z",
       "volume": 200
     }
   ]
