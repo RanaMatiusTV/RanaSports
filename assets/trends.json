@@ -1,22 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T13:27:56.899Z",
+  "updatedAt": "2026-09-16T13:54:24.951Z",
   "trends": [
+    {
+      "query": "atragantamiento",
+      "startedAt": "2026-09-16T13:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tom cruise",
+      "startedAt": "2026-09-16T13:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "argentina sub-20 - selección femenina de fútbol sub-20 de corea del sur",
+      "startedAt": "2026-09-16T13:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "edificio",
       "startedAt": "2026-09-16T12:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "roberto cachanosky",
       "startedAt": "2026-09-16T12:40:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "venta",
       "startedAt": "2026-09-16T12:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "acuerdo",
@@ -34,23 +49,8 @@
       "volume": 100
     },
     {
-      "query": "noche de los lapices",
-      "startedAt": "2026-09-16T10:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "clima la plata",
+      "query": "clima tucuman",
       "startedAt": "2026-09-16T09:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "calor",
-      "startedAt": "2026-09-16T08:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "twitter",
-      "startedAt": "2026-09-16T06:50:00.000Z",
       "volume": 100
     }
   ]
