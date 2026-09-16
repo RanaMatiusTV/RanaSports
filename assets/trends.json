@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T22:24:30.984Z",
+  "updatedAt": "2026-09-16T22:50:53.974Z",
   "trends": [
     {
-      "query": "santos",
-      "startedAt": "2026-09-16T22:00:00.000Z",
+      "query": "mineiro",
+      "startedAt": "2026-09-16T22:20:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "a qué hora juega estudiantes",
+      "startedAt": "2026-09-16T22:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "marcela tinayre",
+      "startedAt": "2026-09-16T22:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "josé coronado",
+      "startedAt": "2026-09-16T22:20:00.000Z",
+      "volume": 200
     },
     {
       "query": "67",
@@ -16,7 +31,7 @@
     {
       "query": "apuesta",
       "startedAt": "2026-09-16T22:00:00.000Z",
-      "volume": 500
+      "volume": 100
     },
     {
       "query": "botafogo - grêmio",
@@ -37,21 +52,6 @@
       "query": "fbi",
       "startedAt": "2026-09-16T21:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "tiziano gravier",
-      "startedAt": "2026-09-16T21:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "lamine yamal",
-      "startedAt": "2026-09-16T21:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "alumno",
-      "startedAt": "2026-09-16T21:20:00.000Z",
-      "volume": 100
     }
   ]
 }
