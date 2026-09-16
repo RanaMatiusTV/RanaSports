@@ -3,39 +3,59 @@
   window.__ranaScoreboardEvents=true;
 
   const nativeFetch=window.fetch.bind(window);
+  const ESPN_BASE='https://site.api.espn.com/apis/site/v2/sports/soccer/';
   const store=new Map();
+  const summarySeen=new Set();
   let scheduled=false;
 
   const fold=v=>String(v??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
   const norm=v=>fold(v).replace(/\b(fc|cf|sc|ac|club|deportivo|athletic|futbol club)\b/g,' ').replace(/\s+-\s+(sp|rj|mg|rs|ba|pr|go)$/,'').replace(/[^a-z0-9]+/g,' ').replace(/\s+/g,' ').trim();
   const key=(h,a)=>`${norm(h)}|${norm(a)}`;
-  const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot',"'":'&#39;'}[c]));
 
+  function athleteLabel(a){
+    if(!a)return'';
+    const p=a?.athlete||a;
+    return String(p?.shortName||p?.displayName||p?.fullName||p?.name||'').trim();
+  }
   function playerName(d){
-    const p=d?.participants?.[0]?.athlete||d?.athletes?.[0]||d?.athlete||{};
-    return String(p.shortName||p.displayName||p.fullName||d?.shortText||d?.text||'').replace(/^Goal\s*[-:]?\s*/i,'').trim();
+    const candidates=[
+      ...(Array.isArray(d?.athletesInvolved)?d.athletesInvolved:[]),
+      ...(Array.isArray(d?.participants)?d.participants:[]),
+      ...(Array.isArray(d?.athletes)?d.athletes:[]),
+      d?.athlete
+    ];
+    for(const c of candidates){const n=athleteLabel(c);if(n)return n}
+    const raw=String(d?.shortText||d?.text||'').replace(/^Goal\s*[-:]?\s*/i,'').trim();
+    if(!raw||/^(goal|gol|scoring play|red card|tarjeta roja)$/i.test(raw))return'';
+    return raw;
   }
   function minute(d){
-    const raw=String(d?.clock?.displayValue||d?.displayClock||d?.clock||'').trim();
+    const raw=String(d?.clock?.displayValue||d?.displayClock||d?.clock||d?.time||'').trim();
     return raw.replace(/\s+/g,'');
   }
   function sideFor(d,homeId,awayId){
-    const ids=[d?.team?.id,d?.team?.uid,d?.participants?.[0]?.athlete?.team?.id,d?.athletes?.[0]?.team?.id].filter(Boolean).map(String);
+    const ids=[
+      d?.team?.id,d?.team?.uid,
+      d?.athletesInvolved?.[0]?.team?.id,d?.athletesInvolved?.[0]?.team?.uid,
+      d?.participants?.[0]?.athlete?.team?.id,d?.participants?.[0]?.athlete?.team?.uid,
+      d?.participants?.[0]?.team?.id,d?.participants?.[0]?.team?.uid,
+      d?.athletes?.[0]?.team?.id,d?.athletes?.[0]?.team?.uid
+    ].filter(Boolean).map(String);
     if(ids.some(x=>x===homeId||x.endsWith(`~t:${homeId}`)))return'home';
     if(ids.some(x=>x===awayId||x.endsWith(`~t:${awayId}`)))return'away';
     const ha=fold(d?.homeAway||d?.team?.homeAway||'');
     return ha==='home'||ha==='away'?ha:'';
   }
-  function parseEvent(ev){
-    const c=ev?.competitions?.[0],teams=c?.competitors||[];
+  function parseCompetition(c,details){
+    const teams=c?.competitors||[];
     const h=teams.find(x=>x.homeAway==='home'),a=teams.find(x=>x.homeAway==='away');
     if(!h||!a)return null;
     const home=String(h.team?.displayName||h.team?.shortDisplayName||''),away=String(a.team?.displayName||a.team?.shortDisplayName||'');
     if(!home||!away)return null;
     const homeId=String(h.team?.id||''),awayId=String(a.team?.id||'');
     const goals={home:[],away:[]},reds={home:[],away:[]};
-    const details=Array.isArray(c?.details)?c.details:[];
-    for(const d of details){
+    for(const d of (Array.isArray(details)?details:[])){
       const type=fold(d?.type?.text||d?.type?.name||d?.type?.abbreviation||d?.text||d?.shortText||'');
       const side=sideFor(d,homeId,awayId);if(!side)continue;
       const isGoal=d?.scoringPlay===true||(/goal|gol/.test(type)&&!/missed|anulado|disallowed/.test(type));
@@ -53,8 +73,47 @@
     }
     return{home,away,goals,reds};
   }
-  function ingest(data){
-    for(const ev of data?.events||[]){const m=parseEvent(ev);if(m)store.set(key(m.home,m.away),m)}
+  function parseEvent(ev){
+    const c=ev?.competitions?.[0];
+    return parseCompetition(c,Array.isArray(c?.details)?c.details:[]);
+  }
+  function mergeRicher(base,rich){
+    if(!rich)return base;
+    return{
+      home:base?.home||rich.home,
+      away:base?.away||rich.away,
+      goals:{
+        home:rich.goals.home.length?rich.goals.home:(base?.goals?.home||[]),
+        away:rich.goals.away.length?rich.goals.away:(base?.goals?.away||[])
+      },
+      reds:{
+        home:rich.reds.home.length?rich.reds.home:(base?.reds?.home||[]),
+        away:rich.reds.away.length?rich.reds.away:(base?.reds?.away||[])
+      }
+    };
+  }
+  async function enrichFromSummary(league,ev,base){
+    const id=String(ev?.id||'');if(!id||summarySeen.has(id))return;
+    const competitors=ev?.competitions?.[0]?.competitors||[];
+    const total=competitors.reduce((sum,t)=>sum+(Number(t?.score?.value??t?.score??0)||0),0);
+    if(total<=0)return;
+    summarySeen.add(id);
+    try{
+      const r=await nativeFetch(`${ESPN_BASE}${encodeURIComponent(league)}/summary?event=${encodeURIComponent(id)}`,{cache:'no-store',credentials:'omit'});
+      if(!r.ok)return;
+      const d=await r.json(),c=d?.header?.competitions?.[0];
+      const details=[...(Array.isArray(d?.keyEvents)?d.keyEvents:[]),...(Array.isArray(d?.plays)?d.plays:[])];
+      const rich=parseCompetition(c,details);
+      const merged=mergeRicher(base,rich);
+      if(merged){store.set(key(merged.home,merged.away),merged);scheduleRender()}
+    }catch{}
+  }
+  function ingest(data,league){
+    for(const ev of data?.events||[]){
+      const m=parseEvent(ev);if(!m)continue;
+      store.set(key(m.home,m.away),m);
+      enrichFromSummary(league,ev,m);
+    }
     scheduleRender();
   }
 
@@ -63,8 +122,9 @@
     try{
       const raw=typeof input==='string'?input:input?.url;
       const url=new URL(raw,location.href);
-      if(url.hostname==='site.api.espn.com'&&/\/sports\/soccer\/[^/]+\/scoreboard$/.test(url.pathname)&&response.ok){
-        ingest(await response.clone().json());
+      const hit=url.pathname.match(/\/sports\/soccer\/([^/]+)\/scoreboard$/);
+      if(url.hostname==='site.api.espn.com'&&hit&&response.ok){
+        ingest(await response.clone().json(),decodeURIComponent(hit[1]));
       }
     }catch{}
     return response;
@@ -81,7 +141,7 @@
     `;document.head.append(s)
   }
   function redHtml(list){return list.length?`<span class="rs-reds" aria-label="${list.length} expulsado${list.length===1?'':'s'}">${list.map(()=>'<i class="rs-red-card" aria-hidden="true"></i>').join('')}</span>`:''}
-  function goalsHtml(list){return list.map(g=>`<span class="rs-goal"><span class="rs-goal-ball">⚽</span>${g.minute?`<b>${esc(g.minute)}</b> `:''}${esc(g.player||'Gol')}</span>`).join('')}
+  function goalsHtml(list){return list.map(g=>`<span class="rs-goal"><span class="rs-goal-ball">⚽</span>${g.minute?`<b>${esc(g.minute)}</b>`:''}${g.player?` ${esc(g.player)}`:''}</span>`).join('')}
 
   function render(){
     scheduled=false;style();
