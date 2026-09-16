@@ -1,6 +1,6 @@
 const PREFIX = 'ranasports-' + self.registration.scope;
-const CACHE = PREFIX + 'v24';
-const BUILD = '20260915-2212';
+const CACHE = PREFIX + 'v25';
+const BUILD = '20260915-2218';
 const CORE = ['./', './index.html', './noticia.html', './assets/styles.css', './assets/redesign.css', './assets/portal-list.css', './assets/app.js', './assets/live-fix.js', './assets/navigation.js', './assets/highlights.js', './assets/breaking.js', './assets/hot-topics-v2.js', './assets/live-scores.js', './assets/trends.json', './assets/news-feed.js', './assets/icon.svg', './assets/icon-192.png', './assets/icon-512.png', './assets/apple-touch-icon.png', './manifest.webmanifest', './noticias/bienvenidos.html', './noticias/agenda-deportiva.html', './noticias/rana-f1.html', './legal/acerca-de.html', './legal/contacto.html', './legal/privacidad.html'];
 const coreURLs = new Set(CORE.map(path=>new URL(path,self.registration.scope).href));
 const APP_URL = new URL('./assets/app.js',self.registration.scope).href;
@@ -24,7 +24,7 @@ async function combinedApp(cache){
   headers.set('content-type','application/javascript; charset=utf-8');
   headers.delete('content-length');
   headers.delete('content-encoding');
-  const merged=new Response(appText+'\n\n/* RanaSports EN VIVO v24 */\n'+fixText,{status:200,statusText:'OK',headers});
+  const merged=new Response(appText+'\n\n/* RanaSports EN VIVO v25 */\n'+fixText,{status:200,statusText:'OK',headers});
   await cache.put(APP_URL,merged.clone());
   return merged;
  }catch(error){
