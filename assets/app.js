@@ -141,30 +141,40 @@ if (document.body.dataset.category === 'f1' && !document.querySelector('[data-f1
  }
 }
 
-// Resultados en vivo: widget gratuito embebido directamente en la pestaña EN VIVO.
+// Resultados en vivo: widget gratuito de Footballdata.io dentro de la pestaña EN VIVO.
 if (liveModule) {
- liveModule.dataset.sourceStatus = 'scorebat-live';
+ liveModule.dataset.sourceStatus = 'footballdata-live';
+ liveModule.style.cssText='grid-column:1/-1;width:100%;max-width:100%;margin:0;padding:0;background:transparent;border:0;box-shadow:none;';
  liveModule.innerHTML = `
-  <div class="module-heading">
-   <h2 id="liveTitle"><span class="live-dot"></span> EN VIVO AHORA</h2>
-   <span class="module-status">SCOREBAT</span>
+  <div style="display:flex;align-items:center;justify-content:space-between;gap:12px;margin:0 0 12px;padding:12px 14px;border:1px solid #27303a;border-radius:10px;background:#10161d">
+   <div><div style="font-size:11px;font-weight:900;letter-spacing:.08em;color:#ff123b">● EN DIRECTO</div><h2 id="liveTitle" style="margin:3px 0 0;font-size:clamp(1.15rem,2vw,1.5rem)">RESULTADOS EN VIVO</h2></div>
+   <span style="font-size:10px;color:#9ca7b4;font-weight:800">FÚTBOL</span>
   </div>
-  <div class="module-topics"><span>RESULTADOS EN VIVO</span><span>FÚTBOL</span></div>
-  <div style="background:#fff;overflow:hidden;border-radius:0 0 8px 8px">
+  <div style="width:100%;overflow:hidden;border:1px solid #27303a;border-radius:12px;background:#0b1016">
    <iframe
-    src="https://www.scorebat.com/embed/livescore/"
+    id="rs-footballdata-live"
+    src="https://footballdata.io/widget/live-scores?theme=dark&accent=ff123b"
     title="Resultados de fútbol en vivo"
     width="100%"
     height="900"
     loading="eager"
     referrerpolicy="strict-origin-when-cross-origin"
-    style="display:block;width:100%;min-height:760px;border:0;background:#fff"
-    allowfullscreen></iframe>
+    style="display:block;width:100%;min-height:720px;border:0;background:#0b1016"></iframe>
   </div>
-  <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;padding:10px 12px;border-top:1px solid #29313a;font-size:11px;color:#aeb7c2">
-   <span>Marcadores en tiempo real provistos por ScoreBat.</span>
-   <a href="https://www.scorebat.com/embed/livescore/" target="_blank" rel="noopener noreferrer" style="color:#fff;text-decoration:none;font-weight:800">ABRIR MARCADOR ↗</a>
+  <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;padding:9px 2px 0;font-size:10px;color:#8f9aa7">
+   <span>Marcadores actualizados automáticamente por Footballdata.io.</span>
+   <a href="https://footballdata.io/widgets/" target="_blank" rel="noopener noreferrer" style="color:inherit;text-decoration:none;font-weight:800">FUENTE ↗</a>
   </div>`;
+
+ const liveFrame=liveModule.querySelector('#rs-footballdata-live');
+ const syncLiveTheme=()=>{
+  if(!liveFrame)return;
+  const theme=document.documentElement.dataset.theme==='light'?'light':'dark';
+  const next=`https://footballdata.io/widget/live-scores?theme=${theme}&accent=ff123b`;
+  if(liveFrame.src!==next)liveFrame.src=next;
+ };
+ syncLiveTheme();
+ new MutationObserver(syncLiveTheme).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
 }
 
 // Aviso legal común para todas las páginas que cargan app.js.
