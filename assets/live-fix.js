@@ -8,6 +8,10 @@
   const esc=value=>String(value??'').replace(/[&<>"']/g,char=>({
     '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
   }[char]));
+  const fold=value=>String(value??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
+  const label=value=>typeof value==='string'
+    ? value
+    : (value?.name||value?.title||value?.short_name||value?.competition_name||value?.league_name||'');
 
   function ensureStyles(){
     if(document.querySelector('#rs-live-fix-style')) return;
@@ -47,50 +51,96 @@
   }
 
   function shell(module){
-    module.dataset.sourceStatus='sportscore-live-v1';
+    module.dataset.sourceStatus='sportscore-live-v2';
     module.innerHTML=`
       <div class="rs-live-head"><div><span>● EN DIRECTO</span><h2>RESULTADOS EN VIVO</h2></div><b>FÚTBOL</b></div>
       <div id="rs-live-state" class="rs-live-state">Cargando marcadores…</div>
       <div id="rs-live-list" class="rs-live-list"></div>
-      <div class="rs-live-foot"><span>Actualización automática cada 60 s.</span><a href="${SOURCE_URL}" rel="dofollow" target="_blank" title="Datos deportivos por SportScore">Powered by SportScore ↗</a></div>`;
+      <div class="rs-live-foot"><span>Argentina y competencias principales · actualización cada 60 s.</span><a href="${SOURCE_URL}" rel="dofollow" target="_blank" title="Datos deportivos por SportScore">Powered by SportScore ↗</a></div>`;
   }
 
   const isLiveStatus=status=>{
-    const value=String(status||'').trim().toLowerCase();
+    const value=fold(status);
     if(!value) return false;
-    if(/finished|full.?time|ft|scheduled|not.?started|upcoming|postponed|cancelled|canceled|abandoned/.test(value)) return false;
-    return /live|in.?play|playing|1h|2h|first.?half|second.?half|half.?time|ht|extra.?time|penalt|ongoing/.test(value);
+    if(/finished|full.?time|\bft\b|scheduled|not.?started|upcoming|postponed|cancelled|canceled|abandoned/.test(value)) return false;
+    return /live|in.?play|playing|\b1h\b|\b2h\b|first.?half|second.?half|half.?time|\bht\b|extra.?time|penalt|ongoing/.test(value);
   };
 
   function normalize(match){
+    const competitionRaw=match?.competition||match?.league||match?.tournament||'Otra competencia';
+    const countryRaw=match?.country||match?.competition?.country||match?.league?.country||match?.tournament?.country||'';
     return {
-      home:match?.home||match?.home_name||match?.teams?.home?.name||'',
-      away:match?.away||match?.away_name||match?.teams?.away?.name||'',
+      home:label(match?.home||match?.home_name||match?.teams?.home)||'',
+      away:label(match?.away||match?.away_name||match?.teams?.away)||'',
       homeScore:match?.home_score ?? match?.score?.home ?? match?.scores?.home ?? '-',
       awayScore:match?.away_score ?? match?.score?.away ?? match?.scores?.away ?? '-',
-      status:String(match?.status||match?.status_name||match?.state||''),
-      competition:match?.competition||match?.league||match?.tournament||'Otra competencia',
+      status:String(match?.status?.name||match?.status||match?.status_name||match?.state||''),
+      competition:label(competitionRaw)||'Otra competencia',
+      country:label(countryRaw),
       minute:match?.minute ?? match?.elapsed ?? match?.status?.elapsed ?? ''
     };
+  }
+
+  function isWanted(match){
+    const competition=fold(match.competition);
+    const country=fold(match.country);
+    const context=`${country} ${competition}`;
+    const teams=fold(`${match.home} ${match.away}`);
+
+    // Selección Argentina: siempre entra, sin importar el torneo.
+    if(/(^|\s)argentina(\s|$)/.test(teams)) return true;
+
+    // Fútbol argentino prioritario.
+    if(/argentina/.test(context) && /(liga profesional|primera division|primera nacional|copa argentina|torneo apertura|torneo clausura)/.test(competition)) return true;
+
+    // CONMEBOL / FIFA.
+    if(/libertadores|sudamericana|recopa sudamericana|conmebol|copa america|eliminatorias.*sudamerican|sudamerican.*eliminatorias/.test(competition)) return true;
+    if(/fifa|world cup|copa mundial|mundial de clubes|club world cup/.test(competition)) return true;
+
+    // Copas UEFA principales.
+    if(/champions league/.test(competition)) return true;
+    if(/europa league/.test(competition) && !/conference/.test(competition)) return true;
+
+    // Las cinco grandes ligas europeas.
+    if(/england|inglaterra/.test(context) && /premier league/.test(competition)) return true;
+    if(/spain|espana/.test(context) && /(la ?liga|primera division)/.test(competition)) return true;
+    if(/italy|italia/.test(context) && /serie a/.test(competition)) return true;
+    if(/germany|alemania/.test(context) && /bundesliga/.test(competition)) return true;
+    if(/france|francia/.test(context) && /ligue 1/.test(competition)) return true;
+
+    return false;
+  }
+
+  function priority(match){
+    const competition=fold(match.competition);
+    const country=fold(match.country);
+    const teams=fold(`${match.home} ${match.away}`);
+    if(/(^|\s)argentina(\s|$)/.test(teams)) return 0;
+    if(/argentina/.test(`${country} ${competition}`) && /(liga profesional|primera division|primera nacional|copa argentina|torneo apertura|torneo clausura)/.test(competition)) return 1;
+    if(/libertadores|sudamericana|recopa|conmebol|copa america/.test(competition)) return 2;
+    if(/fifa|world cup|copa mundial|mundial de clubes|club world cup/.test(competition)) return 3;
+    if(/champions league|europa league/.test(competition)) return 4;
+    return 5;
   }
 
   function render(matches,module){
     const state=module.querySelector('#rs-live-state');
     const list=module.querySelector('#rs-live-list');
-    const live=matches.map(normalize).filter(item=>item.home&&item.away&&isLiveStatus(item.status));
+    const live=matches
+      .map(normalize)
+      .filter(item=>item.home&&item.away&&isLiveStatus(item.status)&&isWanted(item))
+      .sort((a,b)=>priority(a)-priority(b)||a.competition.localeCompare(b.competition,'es'));
 
     if(!live.length){
       state.hidden=false;
-      state.textContent='No hay partidos en vivo en este momento.';
+      state.textContent='No hay partidos en vivo de las competencias seleccionadas en este momento.';
       list.replaceChildren();
       return;
     }
 
     const groups=new Map();
     for(const match of live){
-      const competition=typeof match.competition==='string'
-        ? match.competition
-        : (match.competition?.name||'Otra competencia');
+      const competition=match.competition||'Otra competencia';
       if(!groups.has(competition)) groups.set(competition,[]);
       groups.get(competition).push(match);
     }
@@ -115,7 +165,7 @@
     if(loading||location.hash!=='#en-vivo') return;
     const module=document.querySelector('#en-vivo');
     if(!module) return;
-    if(module.dataset.sourceStatus!=='sportscore-live-v1') shell(module);
+    if(module.dataset.sourceStatus!=='sportscore-live-v2') shell(module);
     const state=module.querySelector('#rs-live-state');
     const list=module.querySelector('#rs-live-list');
     loading=true;
@@ -138,7 +188,7 @@
     const module=document.querySelector('#en-vivo');
     if(!module) return;
     ensureStyles();
-    if(module.dataset.sourceStatus!=='sportscore-live-v1') shell(module);
+    if(module.dataset.sourceStatus!=='sportscore-live-v2') shell(module);
     refresh();
     clearInterval(timer);
     timer=setInterval(refresh,REFRESH_MS);
