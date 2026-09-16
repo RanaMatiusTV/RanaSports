@@ -1,17 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-15T23:49:40.126Z",
+  "updatedAt": "2026-09-16T00:32:06.082Z",
   "trends": [
+    {
+      "query": "fabián mazzei",
+      "startedAt": "2026-09-16T00:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "canobbio fluminense",
+      "startedAt": "2026-09-15T23:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "martinelli",
+      "startedAt": "2026-09-15T23:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "lluvia",
+      "startedAt": "2026-09-15T23:40:00.000Z",
+      "volume": 5000
+    },
     {
       "query": "cristina kirchner",
       "startedAt": "2026-09-15T23:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "paulo henrique ganso",
       "startedAt": "2026-09-15T23:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "sepulveda",
@@ -19,39 +39,19 @@
       "volume": 200
     },
     {
+      "query": "canobbio",
+      "startedAt": "2026-09-15T23:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "agustín canobbio",
+      "startedAt": "2026-09-15T23:10:00.000Z",
+      "volume": 500
+    },
+    {
       "query": "mar",
       "startedAt": "2026-09-15T23:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "palermo",
-      "startedAt": "2026-09-15T23:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "vasco",
-      "startedAt": "2026-09-15T22:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "javier bardem",
-      "startedAt": "2026-09-15T22:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "a que hora juega boca",
-      "startedAt": "2026-09-15T22:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "meteored",
-      "startedAt": "2026-09-15T22:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "balón de oro",
-      "startedAt": "2026-09-15T22:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     }
   ]
 }
