@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T11:26:08.480Z",
+  "updatedAt": "2026-09-16T11:52:44.545Z",
   "trends": [
+    {
+      "query": "acuerdo",
+      "startedAt": "2026-09-16T11:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "16 de septiembre",
       "startedAt": "2026-09-16T11:10:00.000Z",
@@ -21,7 +26,7 @@
     {
       "query": "calor",
       "startedAt": "2026-09-16T08:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "twitter",
@@ -47,11 +52,6 @@
       "query": "promedio industrial dow jones",
       "startedAt": "2026-09-16T03:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "kick",
-      "startedAt": "2026-09-16T03:00:00.000Z",
-      "volume": 1000
     }
   ]
 }
