@@ -10,6 +10,14 @@ const standingsModule=document.querySelector('#posiciones');
 const moreTitle=document.querySelector('#moreNewsTitle');
 function layoutNews() {
  if(!newsGrid)return;
+ const liveOnly=location.hash==='#en-vivo';
+ if(liveOnly){
+  const notice=document.querySelector('#featuredNotice');if(notice)notice.hidden=true;
+  moreTitle.hidden=true;
+  newsGrid.append(liveModule,...cards,moreTitle);
+  return;
+ }
+ if(liveModule.isConnected)liveModule.remove();
  const seen=new Set();
  const visible=cards.filter(card=>{
   if(card.hidden)return false;const url=card.querySelector('h3 a')?.href;
@@ -31,7 +39,7 @@ function layoutNews() {
  latest.forEach((card,index)=>{card.classList.add('more-story');card.style.setProperty('--more-row',Math.floor(index/3)+(featured.length?5:3));card.style.setProperty('--more-col',index%3+1);card.style.setProperty('--mobile-row',Math.floor(index/2)+(featured.length?6:4));card.style.setProperty('--mobile-col',(index%2)*3+1);});
  const notice=document.querySelector('#featuredNotice');if(notice)notice.hidden=featured.length>0||active!=='todas'||Boolean(search?.value.trim());
  moreTitle.hidden=false;moreTitle.textContent='ÚLTIMAS NOTICIAS';
- const modules=[liveModule,standingsModule].filter(Boolean);
+ const modules=[standingsModule].filter(Boolean);
  newsGrid.append(...featured,...modules,moreTitle,...latest,...cards.filter(card=>card.hidden));
 }
 const publishedAt = card => Date.parse(card.querySelector('time')?.dateTime || '') || 0;
@@ -45,24 +53,28 @@ cards.forEach(card => {
 });
 const normalize = value => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 function apply() {
+ const liveView=location.hash==='#en-vivo';
  const q = normalize(search?.value.trim() || '');
  let count = 0;
  cards.forEach(card => {
-  const matches = (active === 'todas' || (card.dataset.sport === active || (active==='otros' && card.dataset.category==='otros') || (!card.dataset.sport && card.dataset.category===active))) && normalize((card.dataset.search || '') + ' ' + card.textContent).includes(q);
+  const matches = !liveView && (active === 'todas' || (card.dataset.sport === active || (active==='otros' && card.dataset.category==='otros') || (!card.dataset.sport && card.dataset.category===active))) && normalize((card.dataset.search || '') + ' ' + card.textContent).includes(q);
   card.hidden = !matches;
   if (matches) count++;
  });
- tabs.forEach(tab => { const selected = tab.dataset.filter === active; tab.classList.toggle('active', selected); tab.setAttribute('aria-pressed', String(selected)); });
+ tabs.forEach(tab => { const selected = tab.dataset.filter === active && !liveView; tab.classList.toggle('active', selected); tab.setAttribute('aria-pressed', String(selected)); });
  layoutNews();
- const key = location.hash==='#en-vivo' ? 'en-vivo' : active === 'todas' ? 'ultimas' : active;
+ const key = liveView ? 'en-vivo' : active === 'todas' ? 'ultimas' : active;
  const heading = document.querySelector('#feedTitle');
- if (heading) heading.textContent = active==='todas'&&!search?.value.trim()?'DESTACADAS':sections[key] || sections.ultimas;
+ if (heading) heading.textContent = liveView?'EN VIVO':(active==='todas'&&!search?.value.trim()?'DESTACADAS':sections[key] || sections.ultimas);
  document.querySelectorAll('.desktop-nav a, .mobile-nav a').forEach(link => {const selected = link.getAttribute('href') === '#' + key || (key === 'ultimas' && link.getAttribute('href') === './');link.classList.toggle('active',selected); if(selected) link.setAttribute('aria-current','true');else link.removeAttribute('aria-current');});
  const f1Channel = document.querySelector('#f1Channel');
- if (f1Channel) f1Channel.hidden = active !== 'f1';
+ if (f1Channel) f1Channel.hidden = liveView || active !== 'f1';
  const presentations = document.querySelector('#presentations');
- if (presentations) presentations.hidden = active !== 'todas' || Boolean(q);
- if (empty) { empty.hidden = count > 0; empty.textContent = q ? 'No encontramos noticias para esa búsqueda.' : (active === 'todas' ? 'Todavía no hay noticias deportivas publicadas. Próximamente sumaremos información verificada.' : 'Todavía no hay noticias publicadas en ' + sections[key] + '. Podés consultar la Agenda Deportiva.'); }
+ if (presentations) presentations.hidden = liveView || active !== 'todas' || Boolean(q);
+ if (empty) {
+  if(liveView)empty.hidden=true;
+  else{empty.hidden = count > 0; empty.textContent = q ? 'No encontramos noticias para esa búsqueda.' : (active === 'todas' ? 'Todavía no hay noticias deportivas publicadas. Próximamente sumaremos información verificada.' : 'Todavía no hay noticias publicadas en ' + sections[key] + '. Podés consultar la Agenda Deportiva.');}
+ }
 }
 function applyHashFilter() {
  if (!newsGrid) return;
