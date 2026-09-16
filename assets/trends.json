@@ -1,10 +1,45 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T20:52:38.156Z",
+  "updatedAt": "2026-09-16T21:25:54.763Z",
   "trends": [
     {
+      "query": "ldu quito - palmeiras",
+      "startedAt": "2026-09-16T21:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "atlético mineiro - santos",
+      "startedAt": "2026-09-16T21:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "independiente rivadavia - atlético tucumán",
+      "startedAt": "2026-09-16T21:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "liga de quito",
+      "startedAt": "2026-09-16T21:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "enriquecimiento ilícito",
+      "startedAt": "2026-09-16T20:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "leverkusen",
+      "startedAt": "2026-09-16T20:20:00.000Z",
+      "volume": 200
+    },
+    {
       "query": "ypf",
+      "startedAt": "2026-09-16T20:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "raphinha",
       "startedAt": "2026-09-16T20:20:00.000Z",
       "volume": 200
     },
@@ -16,41 +51,6 @@
     {
       "query": "barca",
       "startedAt": "2026-09-16T20:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "bayer leverkusen",
-      "startedAt": "2026-09-16T20:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "amiga traidora",
-      "startedAt": "2026-09-16T20:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "alejandro garnacho",
-      "startedAt": "2026-09-16T19:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "invierno",
-      "startedAt": "2026-09-16T19:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "benfica",
-      "startedAt": "2026-09-16T19:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "olympiacos",
-      "startedAt": "2026-09-16T19:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "norte",
-      "startedAt": "2026-09-16T19:40:00.000Z",
       "volume": 1000
     }
   ]
