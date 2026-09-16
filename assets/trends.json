@@ -1,8 +1,28 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T16:26:29.991Z",
+  "updatedAt": "2026-09-16T16:52:59.680Z",
   "trends": [
+    {
+      "query": "atleta",
+      "startedAt": "2026-09-16T16:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "submarino",
+      "startedAt": "2026-09-16T16:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "lena dunham",
+      "startedAt": "2026-09-16T16:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "atlético madrid - osasuna",
+      "startedAt": "2026-09-16T16:20:00.000Z",
+      "volume": 500
+    },
     {
       "query": "deportivo - sevilla",
       "startedAt": "2026-09-16T16:10:00.000Z",
@@ -19,6 +39,11 @@
       "volume": 200
     },
     {
+      "query": "industria automotriz",
+      "startedAt": "2026-09-16T16:00:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "one ui 9",
       "startedAt": "2026-09-16T15:40:00.000Z",
       "volume": 200
@@ -27,31 +52,6 @@
       "query": "las heras",
       "startedAt": "2026-09-16T15:20:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "premios óscar",
-      "startedAt": "2026-09-16T15:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "max vs 100",
-      "startedAt": "2026-09-16T15:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "rodolfo arruabarrena",
-      "startedAt": "2026-09-16T14:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "atragantamiento",
-      "startedAt": "2026-09-16T13:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "tom cruise",
-      "startedAt": "2026-09-16T13:30:00.000Z",
-      "volume": 500
     }
   ]
 }
