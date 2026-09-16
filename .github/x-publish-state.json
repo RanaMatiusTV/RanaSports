@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTUxNDIyMDAwMCwiQ09MQVBJTlRPIENPTlTDkyBDw5NNTyBTRSBDVUlEQSBBTlRFUyBERSBMT1MgRklORVMgREUgU0VNQU5BIERFIEYxIl0": {
+      "account": "f1",
+      "title": "COLAPINTO CONTÓ CÓMO SE CUIDA ANTES DE LOS FINES DE SEMANA DE F1",
+      "dueAt": "2026-09-16T00:30:00.000Z",
+      "bufferPostId": "6aa9e264ce2285243e068531",
+      "createdAt": "2026-09-16T00:27:16.157Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk1MTM0NDAwMDAsIlJPTcOBTiBWRUdBIFJFQ0lCScOTIFNVIFBSSU1FUkEgQ09OVk9DQVRPUklBIEEgTEEgU0VMRUNDScOTTiBBUkdFTlRJTkEiXQ": {
+      "account": "main",
+      "title": "ROMÁN VEGA RECIBIÓ SU PRIMERA CONVOCATORIA A LA SELECCIÓN ARGENTINA",
+      "dueAt": "2026-09-16T00:30:00.000Z",
+      "bufferPostId": "6aa9e263dfcd8cd99b7f5521",
+      "createdAt": "2026-09-16T00:27:15.676Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk1MDYxODAwMDAsIk1FU1NJIFRFTkRSw4EgU1UgREVTUEVESURBIERFIExBIFNFTEVDQ0nDk04gRUwgNiBERSBPQ1RVQlJFIEFOVEUgQkVOw41OIl0": {
       "account": "main",
       "title": "MESSI TENDRÁ SU DESPEDIDA DE LA SELECCIÓN EL 6 DE OCTUBRE ANTE BENÍN",
@@ -479,8 +493,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-14T16:10:00.000Z",
-    "main": "2026-09-15T22:30:00.000Z"
+    "f1": "2026-09-16T00:35:00.000Z",
+    "main": "2026-09-16T00:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
