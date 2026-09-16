@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk1ODc4NDAwMDAsIlNDQUxPTkkgWUEgTUlSQSBNw4FTIEFMTMOBOiBMQSBMSVNUQSBRVUUgQUxJTUVOVEEgTEEgSUxVU0nDk04gREUgU1UgQ09OVElOVUlEQUQgRU4gTEEgU0VMRUNDScOTTiJd": {
+      "account": "main",
+      "title": "SCALONI YA MIRA MÁS ALLÁ: LA LISTA QUE ALIMENTA LA ILUSIÓN DE SU CONTINUIDAD EN LA SELECCIÓN",
+      "dueAt": "2026-09-16T22:15:00.000Z",
+      "bufferPostId": "6aab1446246d54e666ad926f",
+      "createdAt": "2026-09-16T22:12:22.690Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTU4NDg0MDAwMCwiVkVSU1RBUFBFTiBIVU1JTEzDkyBBIDEwMCBLQVJUSU5HUzogTEFSR8OTIMOaTFRJTU8gWSBMT1MgUEFTw5MgQSBUT0RPUyBFTiBTT0xPIDE0IFZVRUxUQVMiXQ": {
       "account": "f1",
       "title": "VERSTAPPEN HUMILLÓ A 100 KARTINGS: LARGÓ ÚLTIMO Y LOS PASÓ A TODOS EN SOLO 14 VUELTAS",
@@ -557,7 +564,7 @@
   },
   "nextAt": {
     "f1": "2026-09-16T19:30:00.000Z",
-    "main": "2026-09-16T19:30:00.000Z"
+    "main": "2026-09-16T22:20:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
