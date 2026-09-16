@@ -3,6 +3,7 @@
 #ultimas .main-feed{width:100%!important;max-width:none!important;min-width:0!important}
 #ultimas .sidebar{display:none!important}
 #newsGrid.editorial-grid{display:block!important;width:100%!important;max-width:none!important;margin:0!important;padding:0!important}
+#newsGrid .news-card[hidden]{display:none!important}
 #newsGrid .news-card,
 #newsGrid .lead-story,
 #newsGrid .secondary-story{display:block!important;width:100%!important;max-width:none!important;min-height:0!important;margin:0!important;padding:0 0 28px!important;background:transparent!important;border:0!important;border-radius:0!important;box-shadow:none!important;overflow:visible!important}
