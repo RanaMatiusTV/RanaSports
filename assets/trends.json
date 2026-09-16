@@ -1,8 +1,38 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T02:26:10.712Z",
+  "updatedAt": "2026-09-16T02:52:39.049Z",
   "trends": [
+    {
+      "query": "leandro paredes",
+      "startedAt": "2026-09-16T02:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "santos",
+      "startedAt": "2026-09-16T02:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "cienciano",
+      "startedAt": "2026-09-16T02:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "enner valencia",
+      "startedAt": "2026-09-16T02:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "promedios",
+      "startedAt": "2026-09-16T02:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "colidio",
+      "startedAt": "2026-09-16T02:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "sporting",
       "startedAt": "2026-09-16T02:00:00.000Z",
@@ -21,36 +51,6 @@
     {
       "query": "puebla - toluca",
       "startedAt": "2026-09-16T01:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "paredes",
-      "startedAt": "2026-09-16T01:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "álvaro montero",
-      "startedAt": "2026-09-16T01:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "super niño",
-      "startedAt": "2026-09-16T01:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "leonel flores",
-      "startedAt": "2026-09-16T00:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "boca",
-      "startedAt": "2026-09-16T00:40:00.000Z",
-      "volume": 200000
-    },
-    {
-      "query": "brasileirao",
-      "startedAt": "2026-09-16T00:40:00.000Z",
       "volume": 500
     }
   ]
