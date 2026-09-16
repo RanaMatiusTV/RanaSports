@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTU1Njk0MDAwMCwiQVJHRU5USU5BLCBPVFJBIFZFWiBBRlVFUkE6IExBIEYxIENPTkZJUk3DkyBTVSBDQUxFTkRBUklPIDIwMjciXQ": {
+      "account": "f1",
+      "title": "ARGENTINA, OTRA VEZ AFUERA: LA F1 CONFIRMÓ SU CALENDARIO 2027",
+      "dueAt": "2026-09-16T12:40:00.000Z",
+      "bufferPostId": "6aaa8d6a0a1c3e6d66020e34",
+      "createdAt": "2026-09-16T12:36:58.768Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTU1Njk0MDAwMCwiTEEgRjEgQ09ORklSTcOTIEVMIENBTEVOREFSSU8gMjAyNzogMjQgQ0FSUkVSQVMsIE3DgVMgU1BSSU5UIFkgQVJHRU5USU5BIE9UUkEgVkVaIEFGVUVSQSJd": {
       "account": "f1",
       "title": "LA F1 CONFIRMÓ EL CALENDARIO 2027: 24 CARRERAS, MÁS SPRINT Y ARGENTINA OTRA VEZ AFUERA",
@@ -500,7 +507,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-16T12:25:00.000Z",
+    "f1": "2026-09-16T12:45:00.000Z",
     "main": "2026-09-16T00:35:00.000Z"
   },
   "buffer": {
