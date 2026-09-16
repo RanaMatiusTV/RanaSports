@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T07:52:49.542Z",
+  "updatedAt": "2026-09-16T08:27:58.029Z",
   "trends": [
     {
       "query": "twitter",
@@ -49,9 +49,9 @@
       "volume": 200
     },
     {
-      "query": "el nine",
+      "query": "diario ole",
       "startedAt": "2026-09-16T02:40:00.000Z",
-      "volume": 200
+      "volume": 2000
     }
   ]
 }
