@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T01:24:45.587Z",
+  "updatedAt": "2026-09-16T01:51:47.184Z",
   "trends": [
+    {
+      "query": "sao paulo vs palmeiras",
+      "startedAt": "2026-09-16T01:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "puebla - toluca",
+      "startedAt": "2026-09-16T01:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "álvaro montero",
+      "startedAt": "2026-09-16T01:10:00.000Z",
+      "volume": 200
+    },
     {
       "query": "paredes",
       "startedAt": "2026-09-16T01:10:00.000Z",
@@ -36,22 +51,7 @@
     {
       "query": "sao paulo fc",
       "startedAt": "2026-09-16T00:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "eduardo costantini",
-      "startedAt": "2026-09-16T00:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "alta montaña",
-      "startedAt": "2026-09-16T00:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "flow",
-      "startedAt": "2026-09-16T00:20:00.000Z",
-      "volume": 5000
+      "volume": 2000
     }
   ]
 }
