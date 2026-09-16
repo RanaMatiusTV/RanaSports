@@ -1,12 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T00:54:42.819Z",
+  "updatedAt": "2026-09-16T01:24:45.587Z",
   "trends": [
+    {
+      "query": "paredes",
+      "startedAt": "2026-09-16T01:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "super niño",
+      "startedAt": "2026-09-16T01:00:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "lozano boca",
+      "startedAt": "2026-09-16T01:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "leonel flores",
+      "startedAt": "2026-09-16T00:50:00.000Z",
+      "volume": 200
+    },
     {
       "query": "boca",
       "startedAt": "2026-09-16T00:40:00.000Z",
-      "volume": 100000
+      "volume": 200000
     },
     {
       "query": "brasileirao",
@@ -16,12 +36,12 @@
     {
       "query": "sao paulo fc",
       "startedAt": "2026-09-16T00:30:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "eduardo costantini",
       "startedAt": "2026-09-16T00:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "alta montaña",
@@ -29,29 +49,9 @@
       "volume": 100
     },
     {
-      "query": "elina costantini",
+      "query": "flow",
       "startedAt": "2026-09-16T00:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fabián mazzei",
-      "startedAt": "2026-09-16T00:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "canobbio fluminense",
-      "startedAt": "2026-09-15T23:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "martinelli",
-      "startedAt": "2026-09-15T23:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "cristina kirchner",
-      "startedAt": "2026-09-15T23:30:00.000Z",
-      "volume": 500
+      "volume": 5000
     }
   ]
 }
