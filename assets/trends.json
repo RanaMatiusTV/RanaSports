@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T10:27:07.276Z",
+  "updatedAt": "2026-09-16T10:52:32.213Z",
   "trends": [
     {
       "query": "clima la plata",
       "startedAt": "2026-09-16T09:50:00.000Z",
-      "volume": 200
+      "volume": 100
     },
     {
       "query": "calor",
@@ -31,7 +31,7 @@
     {
       "query": "quien gano gran hermano 2026",
       "startedAt": "2026-09-16T03:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "promedio industrial dow jones",
@@ -44,12 +44,12 @@
       "volume": 1000
     },
     {
-      "query": "virginia messi",
+      "query": "s&p 500",
       "startedAt": "2026-09-16T02:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "sebastián villa",
+      "query": "virginia messi",
       "startedAt": "2026-09-16T02:50:00.000Z",
       "volume": 200
     }
