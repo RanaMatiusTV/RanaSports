@@ -1,17 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T16:52:59.680Z",
+  "updatedAt": "2026-09-16T17:24:07.800Z",
   "trends": [
+    {
+      "query": "europa league",
+      "startedAt": "2026-09-16T16:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "web app fc 27",
+      "startedAt": "2026-09-16T16:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "armada",
+      "startedAt": "2026-09-16T16:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "atleta",
       "startedAt": "2026-09-16T16:30:00.000Z",
-      "volume": 200
+      "volume": 2000
     },
     {
       "query": "submarino",
       "startedAt": "2026-09-16T16:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "lena dunham",
@@ -21,37 +36,22 @@
     {
       "query": "atlético madrid - osasuna",
       "startedAt": "2026-09-16T16:20:00.000Z",
-      "volume": 500
+      "volume": 10000
     },
     {
       "query": "deportivo - sevilla",
       "startedAt": "2026-09-16T16:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "eliana moreno",
       "startedAt": "2026-09-16T16:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "omonia - celta de vigo",
       "startedAt": "2026-09-16T16:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "industria automotriz",
-      "startedAt": "2026-09-16T16:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "one ui 9",
-      "startedAt": "2026-09-16T15:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "las heras",
-      "startedAt": "2026-09-16T15:20:00.000Z",
-      "volume": 100
     }
   ]
 }
