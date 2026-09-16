@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T10:52:32.213Z",
+  "updatedAt": "2026-09-16T11:26:08.480Z",
   "trends": [
+    {
+      "query": "16 de septiembre",
+      "startedAt": "2026-09-16T11:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tuberculosis",
+      "startedAt": "2026-09-16T11:00:00.000Z",
+      "volume": 100
+    },
     {
       "query": "clima la plata",
       "startedAt": "2026-09-16T09:50:00.000Z",
@@ -42,16 +52,6 @@
       "query": "kick",
       "startedAt": "2026-09-16T03:00:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "s&p 500",
-      "startedAt": "2026-09-16T02:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "virginia messi",
-      "startedAt": "2026-09-16T02:50:00.000Z",
-      "volume": 200
     }
   ]
 }
