@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T09:53:09.789Z",
+  "updatedAt": "2026-09-16T10:27:07.276Z",
   "trends": [
+    {
+      "query": "clima la plata",
+      "startedAt": "2026-09-16T09:50:00.000Z",
+      "volume": 200
+    },
     {
       "query": "calor",
       "startedAt": "2026-09-16T08:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "twitter",
@@ -29,14 +34,14 @@
       "volume": 200
     },
     {
-      "query": "kick",
-      "startedAt": "2026-09-16T03:00:00.000Z",
-      "volume": 1000
-    },
-    {
       "query": "promedio industrial dow jones",
       "startedAt": "2026-09-16T03:00:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "kick",
+      "startedAt": "2026-09-16T03:00:00.000Z",
+      "volume": 1000
     },
     {
       "query": "virginia messi",
@@ -45,11 +50,6 @@
     },
     {
       "query": "sebastián villa",
-      "startedAt": "2026-09-16T02:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "angel romero",
       "startedAt": "2026-09-16T02:50:00.000Z",
       "volume": 200
     }
