@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk1NzIzMDAwMDAsIkdPTFBFIFBBUkEgQVJHRU5USU5BOiBMQSBTVUIgMjAgRkVNRU5JTkEgUVVFRMOTIEFGVUVSQSBERUwgTVVORElBTCBQT1IgTEEgTcONTklNQSJd": {
+      "account": "main",
+      "title": "GOLPE PARA ARGENTINA: LA SUB 20 FEMENINA QUEDÓ AFUERA DEL MUNDIAL POR LA MÍNIMA",
+      "dueAt": "2026-09-16T17:35:00.000Z",
+      "bufferPostId": "6aaad12efc5a886931899f48",
+      "createdAt": "2026-09-16T17:26:06.395Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk1Njk2NjAwMDAsIkFMQVJNQSBFTiBMQSBTRUxFQ0NJw5NOOiBKVUxJw4FOIMOBTFZBUkVaIFkgRk9ZVEggTExFR0FSw41BTiBFTlRSRSBBTEdPRE9ORVMgQSBMT1MgQU1JU1RPU09TIl0": {
+      "account": "main",
+      "title": "ALARMA EN LA SELECCIÓN: JULIÁN ÁLVAREZ Y FOYTH LLEGARÍAN ENTRE ALGODONES A LOS AMISTOSOS",
+      "dueAt": "2026-09-16T17:30:00.000Z",
+      "bufferPostId": "6aaad12d9c269640efb58dec",
+      "createdAt": "2026-09-16T17:26:05.320Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NTc0MTAwMDAwLCJBQkFMRE8gRU5DRU5EScOTIExBIEFMQVJNQSBFTiBJTkRFUEVORElFTlRFOiBFU0dVSU5DRSBZIERVREEgUEFSQSBWSVNJVEFSIEEgVU5Jw5NOIl0": {
       "account": "main",
       "title": "ABALDO ENCENDIÓ LA ALARMA EN INDEPENDIENTE: ESGUINCE Y DUDA PARA VISITAR A UNIÓN",
@@ -529,7 +543,7 @@
   },
   "nextAt": {
     "f1": "2026-09-16T12:45:00.000Z",
-    "main": "2026-09-16T16:25:00.000Z"
+    "main": "2026-09-16T17:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
