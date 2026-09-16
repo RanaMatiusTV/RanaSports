@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T05:25:15.824Z",
+  "updatedAt": "2026-09-16T05:52:26.800Z",
   "trends": [
     {
       "query": "michael j fox",
@@ -11,7 +11,7 @@
     {
       "query": "essence",
       "startedAt": "2026-09-16T03:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "quien gano gran hermano 2026",
