@@ -1,8 +1,38 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T00:32:06.082Z",
+  "updatedAt": "2026-09-16T00:54:42.819Z",
   "trends": [
+    {
+      "query": "boca",
+      "startedAt": "2026-09-16T00:40:00.000Z",
+      "volume": 100000
+    },
+    {
+      "query": "brasileirao",
+      "startedAt": "2026-09-16T00:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "sao paulo fc",
+      "startedAt": "2026-09-16T00:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "eduardo costantini",
+      "startedAt": "2026-09-16T00:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "alta montaña",
+      "startedAt": "2026-09-16T00:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "elina costantini",
+      "startedAt": "2026-09-16T00:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "fabián mazzei",
       "startedAt": "2026-09-16T00:00:00.000Z",
@@ -19,39 +49,9 @@
       "volume": 100
     },
     {
-      "query": "lluvia",
-      "startedAt": "2026-09-15T23:40:00.000Z",
-      "volume": 5000
-    },
-    {
       "query": "cristina kirchner",
       "startedAt": "2026-09-15T23:30:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "paulo henrique ganso",
-      "startedAt": "2026-09-15T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sepulveda",
-      "startedAt": "2026-09-15T23:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "canobbio",
-      "startedAt": "2026-09-15T23:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "agustín canobbio",
-      "startedAt": "2026-09-15T23:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "mar",
-      "startedAt": "2026-09-15T23:10:00.000Z",
-      "volume": 1000
     }
   ]
 }
