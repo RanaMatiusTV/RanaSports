@@ -4,7 +4,8 @@ const search = document.querySelector('#searchInput');
 const empty = document.querySelector('#emptyState');
 const sections = {ultimas:'Últimas noticias', independiente:'Independiente', futbol:'Fútbol', f1:'F1', seleccion:'Selección Argentina', otros:'Más deportes', agenda:'Agenda'};
 let active = 'todas';
-const liveModule=document.querySelector('#en-vivo');
+let liveModule=document.querySelector('#en-vivo');
+if(!liveModule){liveModule=document.createElement('section');liveModule.id='en-vivo';liveModule.className='dashboard-module live-module';}
 const standingsModule=document.querySelector('#posiciones');
 const moreTitle=document.querySelector('#moreNewsTitle');
 function layoutNews() {
