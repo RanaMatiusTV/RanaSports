@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T03:26:09.024Z",
+  "updatedAt": "2026-09-16T03:52:54.940Z",
   "trends": [
+    {
+      "query": "essence",
+      "startedAt": "2026-09-16T03:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "quien gano gran hermano 2026",
+      "startedAt": "2026-09-16T03:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "kick",
       "startedAt": "2026-09-16T03:00:00.000Z",
@@ -19,17 +29,12 @@
       "volume": 200
     },
     {
-      "query": "cómo salió boca juniors",
-      "startedAt": "2026-09-16T02:50:00.000Z",
-      "volume": 500
-    },
-    {
       "query": "s&p 500",
       "startedAt": "2026-09-16T02:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "sebastián villa",
+      "query": "cómo salió boca juniors",
       "startedAt": "2026-09-16T02:50:00.000Z",
       "volume": 200
     },
@@ -39,19 +44,14 @@
       "volume": 200
     },
     {
+      "query": "diario ole",
+      "startedAt": "2026-09-16T02:40:00.000Z",
+      "volume": 2000
+    },
+    {
       "query": "el nine",
       "startedAt": "2026-09-16T02:40:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "juan izquierdo",
-      "startedAt": "2026-09-16T02:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "leandro paredes",
-      "startedAt": "2026-09-16T02:30:00.000Z",
-      "volume": 2000
     }
   ]
 }
