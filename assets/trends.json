@@ -1,13 +1,8 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T14:26:48.175Z",
+  "updatedAt": "2026-09-16T14:54:07.260Z",
   "trends": [
-    {
-      "query": "facundo colidio",
-      "startedAt": "2026-09-16T14:00:00.000Z",
-      "volume": 2000
-    },
     {
       "query": "atragantamiento",
       "startedAt": "2026-09-16T13:40:00.000Z",
@@ -52,6 +47,11 @@
       "query": "tuberculosis",
       "startedAt": "2026-09-16T11:00:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "noche de los lapices",
+      "startedAt": "2026-09-16T10:50:00.000Z",
+      "volume": 1000
     }
   ]
 }
