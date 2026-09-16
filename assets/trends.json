@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T22:50:53.974Z",
+  "updatedAt": "2026-09-16T23:24:15.857Z",
   "trends": [
     {
-      "query": "mineiro",
-      "startedAt": "2026-09-16T22:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "a qué hora juega estudiantes",
-      "startedAt": "2026-09-16T22:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "marcela tinayre",
-      "startedAt": "2026-09-16T22:20:00.000Z",
+      "query": "botafogo",
+      "startedAt": "2026-09-16T23:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "josé coronado",
-      "startedAt": "2026-09-16T22:20:00.000Z",
+      "query": "faiq bolkiah",
+      "startedAt": "2026-09-16T23:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "67",
-      "startedAt": "2026-09-16T22:00:00.000Z",
+      "query": "barrio",
+      "startedAt": "2026-09-16T23:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "apuesta",
-      "startedAt": "2026-09-16T22:00:00.000Z",
+      "query": "carlos sainz jr.",
+      "startedAt": "2026-09-16T23:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "botafogo - grêmio",
-      "startedAt": "2026-09-16T21:50:00.000Z",
+      "query": "adrian newey",
+      "startedAt": "2026-09-16T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "médico",
+      "startedAt": "2026-09-16T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "hacker",
+      "startedAt": "2026-09-16T22:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "inter de miami",
+      "startedAt": "2026-09-16T22:40:00.000Z",
       "volume": 2000
     },
     {
-      "query": "cuerpo de marines de los estados unidos",
-      "startedAt": "2026-09-16T21:50:00.000Z",
-      "volume": 100
+      "query": "palmeiras",
+      "startedAt": "2026-09-16T22:30:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "vix index",
-      "startedAt": "2026-09-16T21:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "fbi",
-      "startedAt": "2026-09-16T21:40:00.000Z",
-      "volume": 200
+      "query": "mineiro",
+      "startedAt": "2026-09-16T22:20:00.000Z",
+      "volume": 2000
     }
   ]
 }
