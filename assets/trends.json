@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T19:49:44.509Z",
+  "updatedAt": "2026-09-16T20:26:27.064Z",
   "trends": [
+    {
+      "query": "barca",
+      "startedAt": "2026-09-16T20:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "bayer leverkusen",
+      "startedAt": "2026-09-16T20:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "carabao cup",
+      "startedAt": "2026-09-16T20:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "amiga traidora",
+      "startedAt": "2026-09-16T20:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "alejandro garnacho",
+      "startedAt": "2026-09-16T19:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "invierno",
+      "startedAt": "2026-09-16T19:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "benfica",
+      "startedAt": "2026-09-16T19:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "olympiacos",
+      "startedAt": "2026-09-16T19:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "norte",
+      "startedAt": "2026-09-16T19:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "anderlecht - lyon",
       "startedAt": "2026-09-16T19:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "leverkusen - celje",
-      "startedAt": "2026-09-16T19:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "everton",
-      "startedAt": "2026-09-16T19:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "frente frío",
-      "startedAt": "2026-09-16T19:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "maría becerra",
-      "startedAt": "2026-09-16T19:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "inflación",
-      "startedAt": "2026-09-16T19:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "río paraná",
-      "startedAt": "2026-09-16T19:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "milan",
-      "startedAt": "2026-09-16T19:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "juicio",
-      "startedAt": "2026-09-16T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "levante - athletic",
-      "startedAt": "2026-09-16T18:40:00.000Z",
-      "volume": 1000
     }
   ]
 }
