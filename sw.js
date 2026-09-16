@@ -1,11 +1,29 @@
 const PREFIX = 'ranasports-' + self.registration.scope;
-const CACHE = PREFIX + 'v22';
+const CACHE = PREFIX + 'v23';
+const BUILD = '20260915-2205';
 const CORE = ['./', './index.html', './noticia.html', './assets/styles.css', './assets/redesign.css', './assets/portal-list.css', './assets/app.js', './assets/navigation.js', './assets/highlights.js', './assets/breaking.js', './assets/hot-topics-v2.js', './assets/live-scores.js', './assets/trends.json', './assets/news-feed.js', './assets/icon.svg', './assets/icon-192.png', './assets/icon-512.png', './assets/apple-touch-icon.png', './manifest.webmanifest', './noticias/bienvenidos.html', './noticias/agenda-deportiva.html', './noticias/rana-f1.html', './legal/acerca-de.html', './legal/contacto.html', './legal/privacidad.html'];
 const coreURLs = new Set(CORE.map(path=>new URL(path,self.registration.scope).href));
 const NEWS_CSV_HOST='docs.google.com';
 const NEWS_CSV_PATH='/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub';
-self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting())));
-self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));
+
+self.addEventListener('install',event=>event.waitUntil((async()=>{
+ const cache=await caches.open(CACHE);
+ await Promise.all(CORE.map(async path=>{
+  const url=new URL(path,self.registration.scope);
+  url.searchParams.set('_rsbuild',BUILD);
+  try{const response=await fetch(url.href,{cache:'reload'});if(response.ok)await cache.put(new URL(path,self.registration.scope).href,response.clone());}catch{}
+ }));
+ await self.skipWaiting();
+})()));
+
+self.addEventListener('activate',event=>event.waitUntil((async()=>{
+ const keys=await caches.keys();
+ await Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)));
+ await self.clients.claim();
+ const clients=await self.clients.matchAll({type:'window',includeUncontrolled:true});
+ for(const client of clients){try{await client.navigate(client.url);}catch{}}
+})()));
+
 self.addEventListener('fetch',event=>{
  const url = new URL(event.request.url);
  if(event.request.method!=='GET')return;
@@ -19,7 +37,14 @@ self.addEventListener('fetch',event=>{
  if(!coreURLs.has(normalized.href))return;
  event.respondWith((async()=>{
   const cache=await caches.open(CACHE);
-  try {const response=await fetch(event.request,{cache:'no-store'});if(response.ok && response.type==='basic')event.waitUntil(cache.put(normalized.href,response.clone()));return response;}
-  catch {const cached=await cache.match(normalized.href);return cached || Response.error();}
+  const fresh=new URL(normalized.href);fresh.searchParams.set('_rsbuild',BUILD);
+  try{
+   const response=await fetch(fresh.href,{cache:'reload',credentials:'same-origin'});
+   if(response.ok&&response.type==='basic')event.waitUntil(cache.put(normalized.href,response.clone()));
+   return response;
+  }catch{
+   const cached=await cache.match(normalized.href);
+   return cached||Response.error();
+  }
  })());
 });
