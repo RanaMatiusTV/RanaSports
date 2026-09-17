@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTYxNjQwMDAwMCwiQk9NQkEgRU4gRjI6IE5JQ08gVkFSUk9ORSBERUrDkyBWQU4gQU1FUlNGT09SVCBZIFNVIEZVVFVSTyBRVUVEw5MgQUJJRVJUTyJd": {
+      "account": "f1",
+      "title": "BOMBA EN F2: NICO VARRONE DEJÓ VAN AMERSFOORT Y SU FUTURO QUEDÓ ABIERTO",
+      "dueAt": "2026-09-17T04:20:00.000Z",
+      "bufferPostId": "6aab690fdd75fed8a09beda5",
+      "createdAt": "2026-09-17T04:14:08.238Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJlc3R1ZGlhbnRlcyBkZSBsYSBwbGF0YSIsMTc4OTYxNDAwMDAwMCwiRVNUVURJQU5URVMgSElaTyBISVNUT1JJQSBFTiBCUkFTSUw6IEVMSU1JTsOTIEEgQ09SSU5USElBTlMgWSBWT0xWScOTIEEgU0VNSVMgREVTUFXDiVMgREUgMTcgQcORT1MiXQ": {
+      "account": "main",
+      "title": "ESTUDIANTES HIZO HISTORIA EN BRASIL: ELIMINÓ A CORINTHIANS Y VOLVIÓ A SEMIS DESPUÉS DE 17 AÑOS",
+      "dueAt": "2026-09-17T04:20:00.000Z",
+      "bufferPostId": "6aab690f6b78718a3935d700",
+      "createdAt": "2026-09-17T04:14:07.310Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk1ODc4NDAwMDAsIlNDQUxPTkkgWUEgTUlSQSBNw4FTIEFMTMOBOiBMQSBMSVNUQSBRVUUgQUxJTUVOVEEgTEEgSUxVU0nDk04gREUgU1UgQ09OVElOVUlEQUQgRU4gTEEgU0VMRUNDScOTTiJd": {
       "account": "main",
       "title": "SCALONI YA MIRA MÁS ALLÁ: LA LISTA QUE ALIMENTA LA ILUSIÓN DE SU CONTINUIDAD EN LA SELECCIÓN",
@@ -563,8 +577,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-16T19:30:00.000Z",
-    "main": "2026-09-16T22:20:00.000Z"
+    "f1": "2026-09-17T04:25:00.000Z",
+    "main": "2026-09-17T04:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
