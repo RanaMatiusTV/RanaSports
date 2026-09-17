@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T12:55:18.511Z",
+  "updatedAt": "2026-09-17T13:27:19.033Z",
   "trends": [
+    {
+      "query": "instituto de previsión social",
+      "startedAt": "2026-09-17T13:00:00.000Z",
+      "volume": 100
+    },
     {
       "query": "sporting",
       "startedAt": "2026-09-17T12:30:00.000Z",
-      "volume": 1000
+      "volume": 200
+    },
+    {
+      "query": "cat frazier",
+      "startedAt": "2026-09-17T12:20:00.000Z",
+      "volume": 200
     },
     {
       "query": "aguara guazu",
@@ -16,12 +26,12 @@
     {
       "query": "humedad",
       "startedAt": "2026-09-17T11:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
-      "query": "efemerides de hoy",
+      "query": "hoy es el dia de",
       "startedAt": "2026-09-17T11:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "josé maría muscari",
@@ -29,9 +39,9 @@
       "volume": 200
     },
     {
-      "query": "día del profesor en argentina",
-      "startedAt": "2026-09-17T10:40:00.000Z",
-      "volume": 1000
+      "query": "gerardo zamora",
+      "startedAt": "2026-09-17T10:20:00.000Z",
+      "volume": 500
     },
     {
       "query": "ari lijalad",
@@ -39,18 +49,8 @@
       "volume": 500
     },
     {
-      "query": "gerardo zamora",
-      "startedAt": "2026-09-17T10:20:00.000Z",
-      "volume": 500
-    },
-    {
       "query": "loto plus",
       "startedAt": "2026-09-17T10:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "clima mar del plata",
-      "startedAt": "2026-09-17T09:40:00.000Z",
       "volume": 200
     }
   ]
