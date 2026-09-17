@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T06:32:29.393Z",
+  "updatedAt": "2026-09-17T06:55:56.183Z",
   "trends": [
     {
       "query": "renaper",
@@ -29,14 +29,14 @@
       "volume": 100
     },
     {
-      "query": "nico varrone",
-      "startedAt": "2026-09-17T02:30:00.000Z",
-      "volume": 500
-    },
-    {
       "query": "flamengo",
       "startedAt": "2026-09-17T02:30:00.000Z",
       "volume": 2000
+    },
+    {
+      "query": "nico varrone",
+      "startedAt": "2026-09-17T02:30:00.000Z",
+      "volume": 500
     },
     {
       "query": "flamengo vs",
