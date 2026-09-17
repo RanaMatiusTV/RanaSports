@@ -1,10 +1,25 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T03:53:04.549Z",
+  "updatedAt": "2026-09-17T04:26:54.027Z",
   "trends": [
     {
+      "query": "don garber",
+      "startedAt": "2026-09-17T04:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "renaper",
+      "startedAt": "2026-09-17T04:00:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "17 de septiembre",
+      "startedAt": "2026-09-17T03:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "el dia",
       "startedAt": "2026-09-17T03:10:00.000Z",
       "volume": 100
     },
@@ -24,33 +39,18 @@
       "volume": 2000
     },
     {
+      "query": "nico varrone",
+      "startedAt": "2026-09-17T02:30:00.000Z",
+      "volume": 500
+    },
+    {
       "query": "flamengo vs",
       "startedAt": "2026-09-17T02:30:00.000Z",
       "volume": 1000
     },
     {
-      "query": "nico varrone",
-      "startedAt": "2026-09-17T02:30:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "roña castro",
       "startedAt": "2026-09-17T02:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "gonzalez pirez",
-      "startedAt": "2026-09-17T02:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "muslera",
-      "startedAt": "2026-09-17T02:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "quien gano gh",
-      "startedAt": "2026-09-17T02:10:00.000Z",
       "volume": 1000
     }
   ]
