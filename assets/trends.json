@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T11:52:34.967Z",
+  "updatedAt": "2026-09-17T12:31:23.748Z",
   "trends": [
     {
-      "query": "dia de que es hoy",
-      "startedAt": "2026-09-17T11:30:00.000Z",
+      "query": "aguara guazu",
+      "startedAt": "2026-09-17T12:10:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "humedad",
+      "startedAt": "2026-09-17T11:40:00.000Z",
+      "volume": 200
     },
     {
       "query": "efemerides de hoy",
@@ -21,17 +26,17 @@
     {
       "query": "día del profesor en argentina",
       "startedAt": "2026-09-17T10:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "ari lijalad",
+      "startedAt": "2026-09-17T10:20:00.000Z",
       "volume": 200
     },
     {
       "query": "gerardo zamora",
       "startedAt": "2026-09-17T10:20:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "ari lijalad",
-      "startedAt": "2026-09-17T10:20:00.000Z",
-      "volume": 200
     },
     {
       "query": "loto plus",
@@ -47,11 +52,6 @@
       "query": "meteorología",
       "startedAt": "2026-09-17T09:20:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "lotería de santa fe",
-      "startedAt": "2026-09-17T09:10:00.000Z",
-      "volume": 500
     }
   ]
 }
