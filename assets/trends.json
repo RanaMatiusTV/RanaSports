@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T04:52:58.994Z",
+  "updatedAt": "2026-09-17T05:25:30.382Z",
   "trends": [
-    {
-      "query": "don garber",
-      "startedAt": "2026-09-17T04:00:00.000Z",
-      "volume": 100
-    },
     {
       "query": "renaper",
       "startedAt": "2026-09-17T04:00:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "don garber",
+      "startedAt": "2026-09-17T04:00:00.000Z",
+      "volume": 200
     },
     {
       "query": "17 de septiembre",
