@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T18:54:19.063Z",
+  "updatedAt": "2026-09-17T19:23:49.010Z",
   "trends": [
+    {
+      "query": "juanita tinelli",
+      "startedAt": "2026-09-17T19:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "málaga - villarreal",
+      "startedAt": "2026-09-17T18:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "crystal palace - lech poznań",
       "startedAt": "2026-09-17T18:30:00.000Z",
@@ -26,17 +36,12 @@
     {
       "query": "europa league",
       "startedAt": "2026-09-17T17:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "manchester city - norwich",
       "startedAt": "2026-09-17T17:30:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "hoffenheim",
-      "startedAt": "2026-09-17T17:20:00.000Z",
-      "volume": 500
+      "volume": 20000
     },
     {
       "query": "claudio úbeda",
@@ -44,14 +49,9 @@
       "volume": 200
     },
     {
-      "query": "vaspia",
-      "startedAt": "2026-09-17T17:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "alpine f1 team",
-      "startedAt": "2026-09-17T17:00:00.000Z",
-      "volume": 200
+      "query": "hoffenheim",
+      "startedAt": "2026-09-17T17:20:00.000Z",
+      "volume": 500
     }
   ]
 }
