@@ -25,7 +25,7 @@ const apiDay=()=>selectedDay().replaceAll('-','');
 const clock=d=>new Intl.DateTimeFormat('es-AR',{timeZone:TZ,hour:'2-digit',minute:'2-digit',hour12:false}).format(d);
 const fullLabel=o=>new Intl.DateTimeFormat('es-AR',{timeZone:TZ,weekday:'short',day:'2-digit',month:'short'}).format(dateForOffset(o)).replaceAll('.','').toUpperCase();
 const chipLabel=o=>o===-1?'AYER':o===0?'HOY':o===1?'MAÑANA':new Intl.DateTimeFormat('es-AR',{timeZone:TZ,weekday:'short',day:'2-digit'}).format(dateForOffset(o)).replaceAll('.','').toUpperCase();
-const norm=v=>fold(v).replace(/\b(fc|cf|sc|ac|club|deportivo|athletic|futbol club)\b/g,' ').replace(/\s+-\s+(sp|rj|mg|rs|ba|pr|go)$/,'').replace(/[^a-z0-9]+/g,' ').replace(/\s+/g,' ').trim();
+const norm=v=>fold(v).replace(/\s*-\s*(sp|rj|mg|rs|ba|pr|go)\b/g,' ').replace(/\b(fc|cf|sc|ac|club|deportivo|athletic|futbol club|de|del|la|el)\b/g,' ').replace(/[^a-z0-9]+/g,' ').replace(/\s+/g,' ').trim();
 const same=(a,b)=>{a=norm(a);b=norm(b);return a&&b&&(a===b||(a.length>4&&b.includes(a))||(b.length>4&&a.includes(b)))};
 
 function css(){
