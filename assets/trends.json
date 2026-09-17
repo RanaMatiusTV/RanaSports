@@ -1,12 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T20:49:59.745Z",
+  "updatedAt": "2026-09-17T21:24:51.200Z",
   "trends": [
     {
-      "query": "asignación universal por hijo",
+      "query": "gran premio de brasil",
+      "startedAt": "2026-09-17T20:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "federico sturzenegger",
+      "startedAt": "2026-09-17T20:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "selección de fútbol de paraguay",
+      "startedAt": "2026-09-17T20:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "felipe vi de españa",
+      "startedAt": "2026-09-17T20:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "pampita",
       "startedAt": "2026-09-17T20:20:00.000Z",
-      "volume": 2000
+      "volume": 100
     },
     {
       "query": "telemundo",
@@ -14,44 +34,24 @@
       "volume": 100
     },
     {
+      "query": "arsenal football club",
+      "startedAt": "2026-09-17T20:10:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "millie bobby brown",
       "startedAt": "2026-09-17T20:00:00.000Z",
-      "volume": 100
+      "volume": 200
+    },
+    {
+      "query": "juventus vs",
+      "startedAt": "2026-09-17T19:30:00.000Z",
+      "volume": 200
     },
     {
       "query": "predicción",
       "startedAt": "2026-09-17T19:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "juventus",
-      "startedAt": "2026-09-17T19:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "juanita tinelli",
-      "startedAt": "2026-09-17T19:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "besiktas",
-      "startedAt": "2026-09-17T19:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "crystal palace",
-      "startedAt": "2026-09-17T19:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "málaga - villarreal",
-      "startedAt": "2026-09-17T18:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "crystal palace - lech poznań",
-      "startedAt": "2026-09-17T18:30:00.000Z",
-      "volume": 500
+      "volume": 2000
     }
   ]
 }
