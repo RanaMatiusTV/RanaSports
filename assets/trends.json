@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T02:52:52.660Z",
+  "updatedAt": "2026-09-17T03:26:28.291Z",
   "trends": [
+    {
+      "query": "17 de septiembre",
+      "startedAt": "2026-09-17T03:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "valentina ferrer",
+      "startedAt": "2026-09-17T03:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "cuantos titulos tiene messi",
+      "startedAt": "2026-09-17T03:00:00.000Z",
+      "volume": 100
+    },
     {
       "query": "flamengo",
       "startedAt": "2026-09-17T02:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "flamengo vs",
@@ -19,6 +34,16 @@
       "volume": 200
     },
     {
+      "query": "roña castro",
+      "startedAt": "2026-09-17T02:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "gonzalez pirez",
+      "startedAt": "2026-09-17T02:20:00.000Z",
+      "volume": 200
+    },
+    {
       "query": "muslera",
       "startedAt": "2026-09-17T02:20:00.000Z",
       "volume": 200
@@ -26,32 +51,7 @@
     {
       "query": "quien gano gh",
       "startedAt": "2026-09-17T02:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "caruso lombardi",
-      "startedAt": "2026-09-17T02:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "gh",
-      "startedAt": "2026-09-17T01:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "quien gano gran hermano 2026",
-      "startedAt": "2026-09-17T01:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "telefe",
-      "startedAt": "2026-09-17T01:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "mi telefe en vivo",
-      "startedAt": "2026-09-17T01:30:00.000Z",
-      "volume": 2000
+      "volume": 1000
     }
   ]
 }
