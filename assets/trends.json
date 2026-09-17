@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T01:25:55.400Z",
+  "updatedAt": "2026-09-17T01:52:52.539Z",
   "trends": [
+    {
+      "query": "mi telefe",
+      "startedAt": "2026-09-17T01:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "gran hermano en vivo",
+      "startedAt": "2026-09-17T01:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "rodrigo garro",
+      "startedAt": "2026-09-17T01:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "pipino cuevas",
       "startedAt": "2026-09-17T01:10:00.000Z",
@@ -37,21 +52,6 @@
       "query": "funcionario público",
       "startedAt": "2026-09-17T00:50:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "quiniela hoy",
-      "startedAt": "2026-09-17T00:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "cienciano",
-      "startedAt": "2026-09-17T00:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "santiago del moro",
-      "startedAt": "2026-09-17T00:20:00.000Z",
-      "volume": 500
     }
   ]
 }
