@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T08:51:40.215Z",
+  "updatedAt": "2026-09-17T09:26:55.130Z",
   "trends": [
     {
-      "query": "quini6",
-      "startedAt": "2026-09-17T08:30:00.000Z",
-      "volume": 2000
+      "query": "lotería de santa fe",
+      "startedAt": "2026-09-17T09:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "quiniela",
+      "startedAt": "2026-09-17T09:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "antonela roccuzzo",
+      "startedAt": "2026-09-17T08:40:00.000Z",
+      "volume": 100
     },
     {
       "query": "georgina barbarossa",
@@ -34,19 +44,9 @@
       "volume": 200
     },
     {
-      "query": "el dia",
-      "startedAt": "2026-09-17T03:10:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "valentina ferrer",
       "startedAt": "2026-09-17T03:00:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "flamengo",
-      "startedAt": "2026-09-17T02:30:00.000Z",
-      "volume": 2000
     },
     {
       "query": "nico varrone",
