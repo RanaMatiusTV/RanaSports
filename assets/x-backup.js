@@ -30,14 +30,20 @@
   if(!isXPost(url))return;
   const body=document.querySelector('#newsDetail .article-body');if(!body||body.querySelector('.x-backup-block'))return;
   const id=xPostId(url);if(!id)return;
+  if(body.querySelector('.x-embed[data-tweet-id="'+CSS.escape(id)+'"]'))return;
   const section=document.createElement('section');section.className='x-backup-block';
   const title=document.createElement('h3');title.textContent='PUBLICACIÓN EN X';title.style.margin='24px 0 10px';
-  const wrap=document.createElement('div');wrap.className='x-embed';wrap.dataset.tweetId=id;
-  const fallback=document.createElement('a');fallback.href=url;fallback.target='_blank';fallback.rel='noopener noreferrer';fallback.className='embed-fallback';fallback.textContent='Ver publicación en X ↗';
+  const wrap=document.createElement('div');wrap.className='x-embed';wrap.dataset.tweetId=id;wrap.style.cssText='width:100%;max-width:600px;height:680px;min-height:420px;margin:22px auto;border-radius:10px;overflow:hidden;background:#000';
+  const frame=document.createElement('iframe');
+  frame.src='https://platform.twitter.com/embed/Tweet.html?id='+encodeURIComponent(id)+'&theme=dark&dnt=true&conversation=none';
+  frame.title='Publicación de X embebida en RanaSports';
+  frame.loading='lazy';frame.allow='autoplay; encrypted-media; fullscreen; picture-in-picture';frame.allowFullscreen=true;
+  frame.referrerPolicy='strict-origin-when-cross-origin';
+  frame.setAttribute('sandbox','allow-scripts allow-same-origin allow-forms allow-presentation');
+  frame.style.cssText='display:block;width:100%;height:100%;border:0;background:#000';
+  wrap.append(frame);
+  const fallback=document.createElement('a');fallback.href=url;fallback.target='_blank';fallback.rel='noopener noreferrer';fallback.className='embed-fallback';fallback.textContent='Abrir publicación original ↗';
   section.append(title,wrap,fallback);body.append(section);
-  await ensureWidgets();
-  if(!window.twttr?.widgets?.createTweet)return;
-  try{const rendered=await window.twttr.widgets.createTweet(id,wrap,{theme:'dark',dnt:true,align:'center'});if(rendered)fallback.hidden=true;}catch{}
  }
  async function hydrate(){
   const h1=document.querySelector('#newsDetail h1');if(!h1)return false;
