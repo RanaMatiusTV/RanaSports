@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTYxNjQwMDAwMCwiTklDTyBWQVJST05FIERFSkEgTEEgRjI6IFNFIERFU1ZJTkNVTMOTIERFIFZBTiBBTUVSU0ZPT1JUIFkgRVhQTElDw5MgTE9TIE1PVElWT1MgREUgU1UgU0FMSURBIl0": {
+      "account": "f1",
+      "title": "NICO VARRONE DEJA LA F2: SE DESVINCULÓ DE VAN AMERSFOORT Y EXPLICÓ LOS MOTIVOS DE SU SALIDA",
+      "dueAt": "2026-09-17T12:30:00.000Z",
+      "bufferPostId": "6aabdcde2755c09b102813f6",
+      "createdAt": "2026-09-17T12:28:15.073Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTYxNjQwMDAwMCwiQk9NQkEgRU4gRjI6IE5JQ08gVkFSUk9ORSBERUrDkyBWQU4gQU1FUlNGT09SVCBZIFNVIEZVVFVSTyBRVUVEw5MgQUJJRVJUTyJd": {
       "account": "f1",
       "title": "BOMBA EN F2: NICO VARRONE DEJÓ VAN AMERSFOORT Y SU FUTURO QUEDÓ ABIERTO",
@@ -577,7 +584,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-17T04:25:00.000Z",
+    "f1": "2026-09-17T12:35:00.000Z",
     "main": "2026-09-17T04:25:00.000Z"
   },
   "buffer": {
