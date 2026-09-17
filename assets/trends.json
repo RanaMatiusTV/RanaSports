@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T22:49:40.272Z",
+  "updatedAt": "2026-09-17T23:21:09.956Z",
   "trends": [
+    {
+      "query": "alejandro garnacho",
+      "startedAt": "2026-09-17T23:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "juegos suramericanos de 2026",
+      "startedAt": "2026-09-17T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "el niño costero",
+      "startedAt": "2026-09-17T22:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "devaluación",
       "startedAt": "2026-09-17T22:30:00.000Z",
@@ -16,42 +31,27 @@
     {
       "query": "reestructuración",
       "startedAt": "2026-09-17T22:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "casa militar",
       "startedAt": "2026-09-17T21:50:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "leopardus tilcayo",
       "startedAt": "2026-09-17T21:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "charles spencer, ix conde de spencer",
       "startedAt": "2026-09-17T21:30:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "robo",
       "startedAt": "2026-09-17T21:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "tom hanks",
-      "startedAt": "2026-09-17T21:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "boca juniors vs vélez",
-      "startedAt": "2026-09-17T21:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "hernán drago",
-      "startedAt": "2026-09-17T21:20:00.000Z",
-      "volume": 200
+      "volume": 1000
     }
   ]
 }
