@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T10:26:08.647Z",
+  "updatedAt": "2026-09-17T10:52:46.182Z",
   "trends": [
+    {
+      "query": "gerardo zamora",
+      "startedAt": "2026-09-17T10:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "ari lijalad",
+      "startedAt": "2026-09-17T10:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "loto plus",
+      "startedAt": "2026-09-17T10:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "clima mar del plata",
       "startedAt": "2026-09-17T09:40:00.000Z",
@@ -11,7 +26,7 @@
     {
       "query": "meteorología",
       "startedAt": "2026-09-17T09:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "lotería de santa fe",
@@ -37,21 +52,6 @@
       "query": "antonela roccuzzo",
       "startedAt": "2026-09-17T08:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "quini6",
-      "startedAt": "2026-09-17T08:30:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "andrés blanco",
-      "startedAt": "2026-09-17T08:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "loto",
-      "startedAt": "2026-09-17T08:20:00.000Z",
-      "volume": 100
     }
   ]
 }
