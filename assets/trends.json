@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T07:27:47.794Z",
+  "updatedAt": "2026-09-17T07:52:10.171Z",
   "trends": [
     {
       "query": "don garber",
@@ -49,7 +49,7 @@
       "volume": 1000
     },
     {
-      "query": "muslera",
+      "query": "gonzalez pirez",
       "startedAt": "2026-09-17T02:20:00.000Z",
       "volume": 200
     }
