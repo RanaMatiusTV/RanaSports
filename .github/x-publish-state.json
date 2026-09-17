@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTY2NDcwMDAwMCwiWUEgSEFZIFJFRU1QTEFaTyBQQVJBIFZBUlJPTkU6IEhJWVUgWUFNQUtPU0hJIFNVQkUgREUgRjMgWSBDT1JSRVLDgSBDT04gVkFSIEVOIEJBS8OaIl0": {
+      "account": "f1",
+      "title": "YA HAY REEMPLAZO PARA VARRONE: HIYU YAMAKOSHI SUBE DE F3 Y CORRERÁ CON VAR EN BAKÚ",
+      "dueAt": "2026-09-17T17:15:00.000Z",
+      "bufferPostId": "6aac1ef0f277a0ad6efce73b",
+      "createdAt": "2026-09-17T17:10:08.459Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NjYxMjIwMDAwLCLDgVJCSVRSTyBDT05GSVJNQURPIFBBUkEgRUwgUk9KTzogTE9CTyBNRURJTkEgRElSSUdJUsOBIFVOScOTTuKAk0lOREVQRU5ESUVOVEUgRU4gU0FOVEEgRkUiXQ": {
       "account": "main",
       "title": "ÁRBITRO CONFIRMADO PARA EL ROJO: LOBO MEDINA DIRIGIRÁ UNIÓN–INDEPENDIENTE EN SANTA FE",
@@ -598,7 +605,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-17T13:30:00.000Z",
+    "f1": "2026-09-17T17:20:00.000Z",
     "main": "2026-09-17T16:25:00.000Z"
   },
   "buffer": {
