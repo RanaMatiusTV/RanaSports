@@ -31,7 +31,7 @@ function layoutNews() {
   if(/\b(murio|fallecio|muerte|grave|ileso|ilesa)\b/.test(title))impact+=1;
   return impact+(['independiente','seleccion','f1'].includes(card.dataset.sport)?1:0);
  };
- const featured=active==='todas'&&!search?.value.trim()?visible.filter(card=>publishedAt(card)<=now&&now-publishedAt(card)<=86400000).map(card=>({card,score:Math.max(0,Number(card.dataset.trendScore)||window.ranaTrendScore?.(card)||0),editorial:editorial(card)})).sort((a,b)=>b.score-a.score||b.editorial-a.editorial||publishedAt(b.card)-publishedAt(a.card)).slice(0,1).map(item=>item.card):[];
+ const featured=active==='todas'&&!search?.value.trim()?visible.filter(card=>publishedAt(card)<=now&&now-publishedAt(card)<=3*3600000).map(card=>({card,score:Math.max(0,Number(card.dataset.trendScore)||window.ranaTrendScore?.(card)||0),editorial:editorial(card)})).sort((a,b)=>b.score-a.score||b.editorial-a.editorial||publishedAt(b.card)-publishedAt(a.card)).slice(0,1).map(item=>item.card):[];
  newsGrid.classList.toggle('no-featured',featured.length===0);newsGrid.classList.toggle('single-featured',featured.length===1);
  const selected=new Set(featured);const latest=visible.filter(card=>!selected.has(card));
  cards.forEach(card=>{card.classList.remove('lead-story','secondary-story','more-story');card.dataset.section=selected.has(card)?'featured':'latest';});
@@ -52,6 +52,55 @@ cards.forEach(card => {
  if (time && publishedAt(card)) time.textContent = dateFormat.format(new Date(time.dateTime)) + ' (ARG)';
 });
 const normalize = value => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+const momentTopics=document.querySelector('.category-tabs');
+const momentTopicDefs=[
+ ['Independiente','Independiente',/\bindependiente\b/],
+ ['Boca','Boca',/\bboca\b/],
+ ['River','River',/\briver\b/],
+ ['Racing','Racing',/\bracing\b/],
+ ['San Lorenzo','San Lorenzo',/\bsan lorenzo\b/],
+ ['Huracán','Huracán',/\bhuracan\b/],
+ ['Selección Argentina','Selección Argentina',/seleccion argentina|sub-19|albiceleste/],
+ ['Messi','Messi',/\bmessi\b/],
+ ['Colapinto','Colapinto',/\bcolapinto\b/],
+ ['F1','F1',/formula 1|\bf1\b/],
+ ['F2','F2',/formula 2|\bf2\b|varrone/],
+ ['F3','F3',/formula 3|\bf3\b/],
+ ['Juegos Suramericanos','Juegos Suramericanos',/juegos suramericanos|santa fe 2026/],
+ ['Libertadores','Libertadores',/libertadores/],
+ ['Sudamericana','Sudamericana',/sudamericana/],
+ ['Tenis','Tenis',/\btenis\b|wta|atp/]
+];
+function refreshMomentTags(){
+ if(!momentTopics)return;
+ const now=Date.now(),maxAge=6*3600000,topics=new Map();
+ const add=(label,query,score,time)=>{
+  const key=normalize(label).trim();if(!key)return;
+  const prev=topics.get(key)||{label,query,score:0,last:0};
+  prev.score+=score;prev.last=Math.max(prev.last,time);topics.set(key,prev);
+ };
+ cards.forEach(card=>{
+  const time=publishedAt(card);if(!time||time>now||now-time>maxAge)return;
+  const ageHours=(now-time)/3600000;
+  const recency=Math.max(.5,7-ageHours);
+  const title=card.querySelector('h3')?.textContent||'';
+  const excerpt=card.querySelector('.news-excerpt')?.textContent||'';
+  const badge=(card.querySelector('.badge')?.textContent||'').trim();
+  const text=normalize(title+' '+excerpt+' '+badge);
+  for(const [label,query,pattern] of momentTopicDefs)if(pattern.test(text))add(label,query,recency*1.35,time);
+  const generic=new Set(['futbol','futbol argentino','otros deportes','mas deportes','noticias','agenda']);
+  if(badge&&!generic.has(normalize(badge).trim()))add(badge,badge,recency,time);
+ });
+ const chosen=[...topics.values()].sort((x,y)=>y.score-x.score||y.last-x.last).slice(0,10);
+ momentTopics.replaceChildren();
+ chosen.forEach(topic=>{
+  const button=document.createElement('button');
+  button.type='button';button.className='tab';button.dataset.topic=topic.query;button.textContent=topic.label;
+  momentTopics.append(button);
+ });
+ tabs=[...momentTopics.querySelectorAll('.tab')];
+ momentTopics.hidden=chosen.length===0;
+}
 function apply() {
  const liveView=location.hash==='#en-vivo';
  const q = normalize(search?.value.trim() || '');
@@ -61,7 +110,7 @@ function apply() {
   card.hidden = !matches;
   if (matches) count++;
  });
- tabs.forEach(tab => { const selected = tab.dataset.filter === active && !liveView; tab.classList.toggle('active', selected); tab.setAttribute('aria-pressed', String(selected)); });
+ tabs.forEach(tab => { const selected = tab.dataset.topic ? normalize(search?.value.trim()||'')===normalize(tab.dataset.topic) : (tab.dataset.filter === active && !liveView); tab.classList.toggle('active', selected); tab.setAttribute('aria-pressed', String(selected)); });
  layoutNews();
  const key = liveView ? 'en-vivo' : active === 'todas' ? 'ultimas' : active;
  const heading = document.querySelector('#feedTitle');
@@ -86,6 +135,15 @@ function applyHashFilter() {
  if (location.hash) document.querySelector(key==='agenda'?'#agendaModule':'#ultimas')?.scrollIntoView({behavior: 'instant'});
 }
 document.querySelector('.category-tabs')?.addEventListener('click',event=>{
+ const topic=event.target.closest('[data-topic]');
+ if(topic){
+  const next=topic.dataset.topic||'';
+  const same=normalize(search?.value.trim()||'')===normalize(next);
+  active='todas';
+  if(search)search.value=same?'':next;
+  if(location.hash!=='#ultimas')history.replaceState(null,'',location.pathname+location.search+'#ultimas');
+  apply();return;
+ }
  const tab=event.target.closest('[data-filter]');if(!tab)return;
  const key=tab.dataset.filter==='todas'?'ultimas':tab.dataset.filter;
  if(decodeURIComponent(location.hash.slice(1))===key)applyHashFilter();else location.hash=encodeURIComponent(key);
@@ -102,8 +160,10 @@ window.addEventListener('hashchange', applyHashFilter);
 applyHashFilter();
 document.addEventListener('ranasports:news-updated', () => {
  cards = [...document.querySelectorAll('#newsGrid .news-card')];
+ refreshMomentTags();
  apply();
 });
+setInterval(refreshMomentTags,60000);
 let deferredPrompt = null;
 const installButtons = [...document.querySelectorAll('#installBtn, #installBtn2')];
 const dialog = document.querySelector('#installDialog');
