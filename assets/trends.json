@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T12:31:23.748Z",
+  "updatedAt": "2026-09-17T12:55:18.511Z",
   "trends": [
+    {
+      "query": "sporting",
+      "startedAt": "2026-09-17T12:30:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "aguara guazu",
       "startedAt": "2026-09-17T12:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "humedad",
@@ -16,12 +21,12 @@
     {
       "query": "efemerides de hoy",
       "startedAt": "2026-09-17T11:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "josé maría muscari",
       "startedAt": "2026-09-17T11:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "día del profesor en argentina",
@@ -31,7 +36,7 @@
     {
       "query": "ari lijalad",
       "startedAt": "2026-09-17T10:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "gerardo zamora",
@@ -47,11 +52,6 @@
       "query": "clima mar del plata",
       "startedAt": "2026-09-17T09:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "meteorología",
-      "startedAt": "2026-09-17T09:20:00.000Z",
-      "volume": 1000
     }
   ]
 }
