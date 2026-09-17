@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T21:49:38.412Z",
+  "updatedAt": "2026-09-17T22:23:26.538Z",
   "trends": [
+    {
+      "query": "reestructuración",
+      "startedAt": "2026-09-17T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "casa militar",
+      "startedAt": "2026-09-17T21:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "leopardus tilcayo",
+      "startedAt": "2026-09-17T21:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "robo",
       "startedAt": "2026-09-17T21:30:00.000Z",
@@ -14,9 +29,9 @@
       "volume": 100
     },
     {
-      "query": "sorteo quini",
+      "query": "boca juniors vs vélez",
       "startedAt": "2026-09-17T21:30:00.000Z",
-      "volume": 5000
+      "volume": 100
     },
     {
       "query": "hernán drago",
@@ -36,22 +51,7 @@
     {
       "query": "paro universitario",
       "startedAt": "2026-09-17T20:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "federico sturzenegger",
-      "startedAt": "2026-09-17T20:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "selección de fútbol de paraguay",
-      "startedAt": "2026-09-17T20:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "felipe vi de españa",
-      "startedAt": "2026-09-17T20:40:00.000Z",
-      "volume": 100
+      "volume": 200
     }
   ]
 }
