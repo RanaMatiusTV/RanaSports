@@ -82,6 +82,18 @@
    return /^\d{10,}$/.test(id)?`https://players.brightcove.net/6057949432001/S1WMrhjlh_default/index.html?videoId=${id}`:'';
   }catch{return '';}
  }
+ function instagramEmbedURL(url){
+  if(!isInstagramPost(url))return '';
+  try{
+   const u=new URL(url);
+   const parts=u.pathname.split('/').filter(Boolean);
+   if(parts.length<2)return '';
+   const type=parts[0]==='reels'?'reel':parts[0];
+   const code=parts[1];
+   if(!['p','reel'].includes(type)||!/^[A-Za-z0-9_-]+$/.test(code||''))return '';
+   return `https://www.instagram.com/${type}/${code}/embed/`;
+  }catch{return '';}
+ }
  function videoEmbedURL(url){
   if(!url||isXPost(url)||isInstagramPost(url))return '';
   return youtubeEmbedURL(url)||formula1EmbedURL(url)||safeURL(url);
@@ -126,14 +138,17 @@
  }
  function renderInstagramPost(container,url){
   if(!isInstagramPost(url)||container.querySelector('.video-embed,.x-embed,.instagram-embed'))return false;
+  const embed=instagramEmbedURL(url);if(!embed)return false;
   const wrap=element('div','instagram-embed');
-  const quote=element('blockquote','instagram-media');
-  quote.dataset.instgrmPermalink=url;
-  quote.dataset.instgrmVersion='14';
-  quote.style.cssText='background:#fff;border:0;margin:0 auto;max-width:540px;min-width:280px;width:100%';
-  const fallback=link(url,'Ver publicación en Instagram ↗','embed-fallback');
-  quote.append(fallback);wrap.append(quote);container.append(wrap);
-  withInstagramEmbeds(()=>{if(wrap.isConnected)window.instgrm.Embeds.process();});
+  const frame=element('iframe');
+  frame.src=embed;
+  frame.title='Video de Instagram embebido en RanaSports';
+  frame.loading='lazy';
+  frame.allow='autoplay; encrypted-media; fullscreen; picture-in-picture';
+  frame.allowFullscreen=true;
+  frame.referrerPolicy='strict-origin-when-cross-origin';
+  wrap.append(frame);
+  container.append(wrap,link(url,'Abrir publicación original ↗','embed-fallback'));
   return true;
  }
  function renderEmbed(container,url){
