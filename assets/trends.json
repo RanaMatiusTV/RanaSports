@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T04:26:54.027Z",
+  "updatedAt": "2026-09-17T04:52:58.994Z",
   "trends": [
     {
       "query": "don garber",
@@ -29,19 +29,14 @@
       "volume": 100
     },
     {
-      "query": "cuantos titulos tiene messi",
-      "startedAt": "2026-09-17T03:00:00.000Z",
-      "volume": 100
+      "query": "nico varrone",
+      "startedAt": "2026-09-17T02:30:00.000Z",
+      "volume": 500
     },
     {
       "query": "flamengo",
       "startedAt": "2026-09-17T02:30:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "nico varrone",
-      "startedAt": "2026-09-17T02:30:00.000Z",
-      "volume": 500
     },
     {
       "query": "flamengo vs",
@@ -52,6 +47,11 @@
       "query": "roña castro",
       "startedAt": "2026-09-17T02:20:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "muslera",
+      "startedAt": "2026-09-17T02:20:00.000Z",
+      "volume": 200
     }
   ]
 }
