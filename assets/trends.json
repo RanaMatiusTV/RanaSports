@@ -1,17 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T09:52:41.224Z",
+  "updatedAt": "2026-09-17T10:26:08.647Z",
   "trends": [
+    {
+      "query": "clima mar del plata",
+      "startedAt": "2026-09-17T09:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "meteorología",
       "startedAt": "2026-09-17T09:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "lotería de santa fe",
       "startedAt": "2026-09-17T09:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "quiniela",
@@ -21,22 +26,22 @@
     {
       "query": "cipolletti",
       "startedAt": "2026-09-17T09:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "arresto domiciliario",
       "startedAt": "2026-09-17T08:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "antonela roccuzzo",
       "startedAt": "2026-09-17T08:40:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "quini6",
       "startedAt": "2026-09-17T08:30:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "andrés blanco",
@@ -47,11 +52,6 @@
       "query": "loto",
       "startedAt": "2026-09-17T08:20:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "georgina barbarossa",
-      "startedAt": "2026-09-17T08:20:00.000Z",
-      "volume": 200
     }
   ]
 }
