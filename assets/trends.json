@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T03:26:28.291Z",
+  "updatedAt": "2026-09-17T03:53:04.549Z",
   "trends": [
     {
       "query": "17 de septiembre",
@@ -36,7 +36,7 @@
     {
       "query": "roña castro",
       "startedAt": "2026-09-17T02:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "gonzalez pirez",
