@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-16T23:49:32.919Z",
+  "updatedAt": "2026-09-17T00:32:21.032Z",
   "trends": [
     {
-      "query": "once caldas - tolima",
-      "startedAt": "2026-09-16T23:30:00.000Z",
+      "query": "corinthians",
+      "startedAt": "2026-09-17T00:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "club atlético chacarita juniors",
-      "startedAt": "2026-09-16T23:30:00.000Z",
-      "volume": 100
+      "query": "armada argentina",
+      "startedAt": "2026-09-17T00:10:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "asociación de trabajadores del estado",
-      "startedAt": "2026-09-16T23:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "facundo moyano",
-      "startedAt": "2026-09-16T23:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "primera división",
-      "startedAt": "2026-09-16T23:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "inter miami - cruz azul",
-      "startedAt": "2026-09-16T23:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "botafogo",
-      "startedAt": "2026-09-16T23:10:00.000Z",
+      "query": "sociedade esportiva palmeiras",
+      "startedAt": "2026-09-17T00:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "faiq bolkiah",
-      "startedAt": "2026-09-16T23:00:00.000Z",
-      "volume": 500
+      "query": "palmeira",
+      "startedAt": "2026-09-17T00:10:00.000Z",
+      "volume": 100
     },
     {
-      "query": "barrio",
-      "startedAt": "2026-09-16T23:00:00.000Z",
+      "query": "apple tv",
+      "startedAt": "2026-09-17T00:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "carlos sainz jr.",
-      "startedAt": "2026-09-16T23:00:00.000Z",
-      "volume": 100
+      "query": "gabigol",
+      "startedAt": "2026-09-17T00:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "mineiro santos",
+      "startedAt": "2026-09-16T23:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "irán",
+      "startedAt": "2026-09-16T23:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "corinthians - estudiantes",
+      "startedAt": "2026-09-16T23:40:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "río uruguay",
+      "startedAt": "2026-09-16T23:40:00.000Z",
+      "volume": 200
     }
   ]
 }
