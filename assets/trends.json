@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T18:29:10.391Z",
+  "updatedAt": "2026-09-17T18:54:19.063Z",
   "trends": [
+    {
+      "query": "crystal palace - lech poznań",
+      "startedAt": "2026-09-17T18:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "gasoducto",
+      "startedAt": "2026-09-17T18:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "juventus - nec",
+      "startedAt": "2026-09-17T18:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "real sociedad - bournemouth",
       "startedAt": "2026-09-17T18:10:00.000Z",
@@ -11,7 +26,7 @@
     {
       "query": "europa league",
       "startedAt": "2026-09-17T17:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "manchester city - norwich",
@@ -19,18 +34,13 @@
       "volume": 10000
     },
     {
-      "query": "claudio úbeda",
-      "startedAt": "2026-09-17T17:20:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "hoffenheim",
       "startedAt": "2026-09-17T17:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
-      "query": "alpine f1 team",
-      "startedAt": "2026-09-17T17:00:00.000Z",
+      "query": "claudio úbeda",
+      "startedAt": "2026-09-17T17:20:00.000Z",
       "volume": 200
     },
     {
@@ -39,18 +49,8 @@
       "volume": 200
     },
     {
-      "query": "real betis - getafe",
-      "startedAt": "2026-09-17T16:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "david beckham",
-      "startedAt": "2026-09-17T16:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "camionero",
-      "startedAt": "2026-09-17T16:30:00.000Z",
+      "query": "alpine f1 team",
+      "startedAt": "2026-09-17T17:00:00.000Z",
       "volume": 200
     }
   ]
