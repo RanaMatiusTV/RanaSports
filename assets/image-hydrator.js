@@ -83,7 +83,7 @@
     const url = await findImage(title); if (!url) return;
     if (card.querySelector('.news-image img')) return;
     const link = document.createElement('a'); link.className = 'card-visual news-image'; link.href = card.querySelector('h3 a')?.href || '#';
-    const img = document.createElement('img'); img.src = url; img.alt = title; img.width = 800; img.height = 450; img.loading = 'lazy'; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
+    const img = document.createElement('img'); img.src = url; img.alt = title; img.width = 800; img.height = 450; img.loading = 'lazy'; img.decoding = 'async'; 
     link.append(img); card.insertBefore(link, card.firstChild);
   }
   async function hydrateArticle(root) {
@@ -94,7 +94,7 @@
     const url = await findImage(title); if (!url) return;
     if (root.querySelector('.article-photo img')) return;
     const figure = document.createElement('figure'); figure.className = 'article-photo';
-    const img = document.createElement('img'); img.className = 'article-image'; img.src = url; img.alt = title; img.width = 800; img.height = 450; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
+    const img = document.createElement('img'); img.className = 'article-image'; img.src = url; img.alt = title; img.width = 800; img.height = 450; img.decoding = 'async'; 
     figure.append(img); const body = root.querySelector('.article-body'); body ? root.insertBefore(figure, body) : root.append(figure);
     const og = document.querySelector('meta[property="og:image"]'); if (og) og.content = url;
   }
