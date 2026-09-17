@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T15:52:42.681Z",
+  "updatedAt": "2026-09-17T16:26:42.521Z",
   "trends": [
+    {
+      "query": "allanamiento",
+      "startedAt": "2026-09-17T15:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "longevidad",
+      "startedAt": "2026-09-17T15:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "thomas tuchel",
       "startedAt": "2026-09-17T15:30:00.000Z",
@@ -24,6 +34,11 @@
       "volume": 200
     },
     {
+      "query": "argentina sub 20",
+      "startedAt": "2026-09-17T14:30:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "argentina vs paraguay",
       "startedAt": "2026-09-17T14:20:00.000Z",
       "volume": 1000
@@ -37,21 +52,6 @@
       "query": "sporting",
       "startedAt": "2026-09-17T12:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "cat frazier",
-      "startedAt": "2026-09-17T12:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "aguara guazu",
-      "startedAt": "2026-09-17T12:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "humedad",
-      "startedAt": "2026-09-17T11:40:00.000Z",
-      "volume": 1000
     }
   ]
 }
