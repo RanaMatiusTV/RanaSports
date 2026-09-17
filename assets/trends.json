@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T08:28:22.379Z",
+  "updatedAt": "2026-09-17T08:51:40.215Z",
   "trends": [
+    {
+      "query": "quini6",
+      "startedAt": "2026-09-17T08:30:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "georgina barbarossa",
+      "startedAt": "2026-09-17T08:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "weather tomorrow",
+      "startedAt": "2026-09-17T07:10:00.000Z",
+      "volume": 100
+    },
     {
       "query": "don garber",
       "startedAt": "2026-09-17T04:00:00.000Z",
@@ -37,21 +52,6 @@
       "query": "nico varrone",
       "startedAt": "2026-09-17T02:30:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "flamengo vs",
-      "startedAt": "2026-09-17T02:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "roña castro",
-      "startedAt": "2026-09-17T02:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "gonzalez pirez",
-      "startedAt": "2026-09-17T02:20:00.000Z",
-      "volume": 200
     }
   ]
 }
