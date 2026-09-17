@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T16:26:42.521Z",
+  "updatedAt": "2026-09-17T16:52:30.685Z",
   "trends": [
+    {
+      "query": "david beckham",
+      "startedAt": "2026-09-17T16:30:00.000Z",
+      "volume": 100
+    },
     {
       "query": "allanamiento",
       "startedAt": "2026-09-17T15:50:00.000Z",
@@ -24,6 +29,11 @@
       "volume": 100
     },
     {
+      "query": "trabajo",
+      "startedAt": "2026-09-17T15:20:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "bna",
       "startedAt": "2026-09-17T15:10:00.000Z",
       "volume": 200
@@ -34,11 +44,6 @@
       "volume": 200
     },
     {
-      "query": "argentina sub 20",
-      "startedAt": "2026-09-17T14:30:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "argentina vs paraguay",
       "startedAt": "2026-09-17T14:20:00.000Z",
       "volume": 1000
@@ -46,11 +51,6 @@
     {
       "query": "instituto de previsión social",
       "startedAt": "2026-09-17T13:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sporting",
-      "startedAt": "2026-09-17T12:30:00.000Z",
       "volume": 200
     }
   ]
