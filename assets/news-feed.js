@@ -120,13 +120,17 @@
  function renderXPost(container,url){
   if(!isXPost(url)||container.querySelector('.video-embed,.x-embed,.instagram-embed'))return false;
   const id=xPostId(url);if(!id)return false;
-  const wrap=element('div','x-embed');wrap.dataset.tweetId=id;container.append(wrap);
-  let started=false;
-  withXWidgets(()=>{
-   if(started||!wrap.isConnected||wrap.dataset.rendered==='1')return;
-   started=true;wrap.dataset.rendered='1';wrap.replaceChildren();
-   window.twttr.widgets.createTweet(id,wrap,{theme:'dark',dnt:true,align:'center'}).catch(()=>{wrap.replaceChildren(link(url,'Ver publicación en X'));});
-  });
+  const wrap=element('div','x-embed');wrap.dataset.tweetId=id;
+  const frame=element('iframe');
+  frame.src='https://platform.twitter.com/embed/Tweet.html?id='+encodeURIComponent(id)+'&theme=dark&dnt=true&conversation=none';
+  frame.title='Publicación de X embebida en RanaSports';
+  frame.loading='lazy';
+  frame.allow='autoplay; encrypted-media; fullscreen; picture-in-picture';
+  frame.allowFullscreen=true;
+  frame.referrerPolicy='strict-origin-when-cross-origin';
+  frame.setAttribute('sandbox','allow-scripts allow-same-origin allow-forms allow-presentation');
+  wrap.append(frame);
+  container.append(wrap,link(url,'Abrir publicación original ↗','embed-fallback'));
   return true;
  }
  function withInstagramEmbeds(callback){
@@ -164,7 +168,8 @@
    .video-embed{position:relative;width:100%;aspect-ratio:16/9;margin:22px 0 8px;border-radius:10px;overflow:hidden;background:#000}
    .video-embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
    .embed-fallback{display:inline-block;margin:0 0 22px;font-size:.9rem}
-   .x-embed{width:100%;max-width:600px;min-height:120px;margin:22px auto}
+   .x-embed{width:100%;max-width:600px;height:680px;min-height:420px;margin:22px auto;border-radius:10px;overflow:hidden;background:#000}
+   .x-embed iframe{display:block;width:100%;height:100%;border:0;background:#000}
    .x-embed .twitter-tweet{margin-left:auto!important;margin-right:auto!important}
    .article-image{display:block;width:100%;height:auto;object-fit:contain;object-position:center;border-radius:8px}
    .card-visual.news-image{aspect-ratio:16/9!important;min-height:0!important;padding:0!important;background:#171d24}
