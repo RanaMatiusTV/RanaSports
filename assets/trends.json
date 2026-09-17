@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T19:23:49.010Z",
+  "updatedAt": "2026-09-17T19:50:14.842Z",
   "trends": [
+    {
+      "query": "juventus vs",
+      "startedAt": "2026-09-17T19:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "predicción",
+      "startedAt": "2026-09-17T19:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "juventus",
+      "startedAt": "2026-09-17T19:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "floyd samba",
+      "startedAt": "2026-09-17T19:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "allan",
+      "startedAt": "2026-09-17T19:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "crystal palace",
+      "startedAt": "2026-09-17T19:00:00.000Z",
+      "volume": 200
+    },
     {
       "query": "juanita tinelli",
       "startedAt": "2026-09-17T19:00:00.000Z",
       "volume": 100
     },
     {
+      "query": "besiktas",
+      "startedAt": "2026-09-17T19:00:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "málaga - villarreal",
       "startedAt": "2026-09-17T18:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "crystal palace - lech poznań",
       "startedAt": "2026-09-17T18:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gasoducto",
-      "startedAt": "2026-09-17T18:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "juventus - nec",
-      "startedAt": "2026-09-17T18:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "real sociedad - bournemouth",
-      "startedAt": "2026-09-17T18:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "europa league",
-      "startedAt": "2026-09-17T17:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "manchester city - norwich",
-      "startedAt": "2026-09-17T17:30:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "claudio úbeda",
-      "startedAt": "2026-09-17T17:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "hoffenheim",
-      "startedAt": "2026-09-17T17:20:00.000Z",
       "volume": 500
     }
   ]
