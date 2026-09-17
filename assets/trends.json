@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T10:52:46.182Z",
+  "updatedAt": "2026-09-17T11:25:20.894Z",
   "trends": [
+    {
+      "query": "día del profesor en argentina",
+      "startedAt": "2026-09-17T10:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "gerardo zamora",
       "startedAt": "2026-09-17T10:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "ari lijalad",
@@ -31,7 +36,7 @@
     {
       "query": "lotería de santa fe",
       "startedAt": "2026-09-17T09:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "quiniela",
@@ -41,17 +46,12 @@
     {
       "query": "cipolletti",
       "startedAt": "2026-09-17T09:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "arresto domiciliario",
       "startedAt": "2026-09-17T08:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "antonela roccuzzo",
-      "startedAt": "2026-09-17T08:40:00.000Z",
-      "volume": 200
+      "volume": 500
     }
   ]
 }
