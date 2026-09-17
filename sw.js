@@ -1,6 +1,6 @@
 const PREFIX='ranasports-'+self.registration.scope;
-const CACHE=PREFIX+'v48';
-const BUILD='20260917-2046';
+const CACHE=PREFIX+'v49';
+const BUILD='20260917-2056';
 const CORE=['./','./index.html','./noticia.html','./assets/styles.css','./assets/redesign.css','./assets/portal-list.css','./assets/app.js','./assets/fresh-news-gate.js','./assets/sportscore-competition-filter.js','./assets/scoreboard-events.js','./assets/live-fix.js','./assets/live-animations.js','./assets/header-socials.js','./assets/navigation.js','./assets/highlights.js','./assets/breaking.js','./assets/hot-topics-v2.js','./assets/live-scores.js','./assets/trends.json','./assets/news-feed.js','./assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png','./assets/apple-touch-icon.png','./manifest.webmanifest','./noticias/bienvenidos.html','./noticias/agenda-deportiva.html','./noticias/rana-f1.html','./legal/acerca-de.html','./legal/contacto.html','./legal/privacidad.html'];
 const coreURLs=new Set(CORE.map(path=>new URL(path,self.registration.scope).href));
 const APP_URL=new URL('./assets/app.js',self.registration.scope).href;
