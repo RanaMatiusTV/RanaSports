@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk2Nzk0MDAwMDAsIlBMQUNFTlRFLCBUUkFTIEVMIEdPTFBFIENPTiBQQVJBR1VBWTog4oCcSEFZIFVOIE1PTlTDk04gREUgQ09TQVMgUE9SIE1FSk9SQVLigJ0iXQ": {
+      "account": "main",
+      "title": "PLACENTE, TRAS EL GOLPE CON PARAGUAY: “HAY UN MONTÓN DE COSAS POR MEJORAR”",
+      "dueAt": "2026-09-17T22:15:00.000Z",
+      "bufferPostId": "6aac651145834e06ccdce09a",
+      "createdAt": "2026-09-17T22:09:21.394Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTY2ODg0MDAwMCwiQUxQSU5FIFNFIFJFRlVFUlpBIFBBUkEgQ09MQVBJTlRPOiBTVU3DkyBBIE1JS0UgRUxMSU9UVCwgRVhESVJFQ1RPUiBUw4lDTklDTyBERSBNRVJDRURFUyJd": {
       "account": "f1",
       "title": "ALPINE SE REFUERZA PARA COLAPINTO: SUMÓ A MIKE ELLIOTT, EXDIRECTOR TÉCNICO DE MERCEDES",
@@ -613,7 +620,7 @@
   },
   "nextAt": {
     "f1": "2026-09-17T19:25:00.000Z",
-    "main": "2026-09-17T16:25:00.000Z"
+    "main": "2026-09-17T22:20:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
