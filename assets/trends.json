@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T15:26:25.157Z",
+  "updatedAt": "2026-09-17T15:52:42.681Z",
   "trends": [
+    {
+      "query": "thomas tuchel",
+      "startedAt": "2026-09-17T15:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "quiniela de tucuman",
+      "startedAt": "2026-09-17T15:30:00.000Z",
+      "volume": 100
+    },
     {
       "query": "bna",
       "startedAt": "2026-09-17T15:10:00.000Z",
@@ -16,7 +26,7 @@
     {
       "query": "argentina vs paraguay",
       "startedAt": "2026-09-17T14:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "instituto de previsión social",
@@ -42,16 +52,6 @@
       "query": "humedad",
       "startedAt": "2026-09-17T11:40:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "efemerides de hoy",
-      "startedAt": "2026-09-17T11:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "josé maría muscari",
-      "startedAt": "2026-09-17T11:20:00.000Z",
-      "volume": 200
     }
   ]
 }
