@@ -19,7 +19,6 @@
    parent.replaceChildren();primary.forEach(([key,label])=>parent.append(anchor(key,label,mobile)));
    const more=document.createElement('details');more.className='nav-more';const summary=document.createElement('summary');summary.textContent=mobile?'Más Deportes':'MÁS DEPORTES';const list=document.createElement('div');list.className='nav-more-list';extras.forEach(([key,label])=>list.append(anchor(key,label,mobile)));if(!extras.length){const p=document.createElement('p');p.textContent='Sin otras categorías publicadas.';list.append(p);}more.append(summary,list);parent.append(more,anchor('agenda','Agenda',mobile),anchor('en-vivo','En Vivo',mobile));
   }
-  const tabs=document.querySelector('.category-tabs');if(tabs){tabs.replaceChildren();[['todas','Todas'],...primary.slice(1),...extras,['otros','Más deportes'],['agenda','Agenda']].forEach(([key,label])=>{const b=document.createElement('button');b.className='tab';b.dataset.filter=key;b.textContent=label;b.type='button';tabs.append(b);});}
   document.dispatchEvent(new Event('ranasports:navigation-ready'));
  }
  document.addEventListener('ranasports:categories',event=>{build(event.detail);try{localStorage.setItem('ranasports-nav-categories:'+base.pathname,JSON.stringify(event.detail));}catch{}});
