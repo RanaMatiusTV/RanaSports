@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T17:23:08.504Z",
+  "updatedAt": "2026-09-17T17:51:37.237Z",
   "trends": [
+    {
+      "query": "manchester city - norwich",
+      "startedAt": "2026-09-17T17:30:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "hoffenheim",
+      "startedAt": "2026-09-17T17:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "claudio úbeda",
+      "startedAt": "2026-09-17T17:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "alpine f1 team",
       "startedAt": "2026-09-17T17:00:00.000Z",
@@ -12,6 +27,11 @@
       "query": "vaspia",
       "startedAt": "2026-09-17T17:00:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "jorge porcel",
+      "startedAt": "2026-09-17T16:50:00.000Z",
+      "volume": 1000
     },
     {
       "query": "real betis - getafe",
@@ -26,32 +46,12 @@
     {
       "query": "camionero",
       "startedAt": "2026-09-17T16:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "allanamiento",
       "startedAt": "2026-09-17T15:50:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "longevidad",
-      "startedAt": "2026-09-17T15:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "thomas tuchel",
-      "startedAt": "2026-09-17T15:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "quiniela de tucuman",
-      "startedAt": "2026-09-17T15:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "trabajo",
-      "startedAt": "2026-09-17T15:20:00.000Z",
-      "volume": 100
     }
   ]
 }
