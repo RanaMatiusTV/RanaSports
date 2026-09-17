@@ -1,12 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T02:26:37.438Z",
+  "updatedAt": "2026-09-17T02:52:52.660Z",
   "trends": [
+    {
+      "query": "flamengo",
+      "startedAt": "2026-09-17T02:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "flamengo vs",
+      "startedAt": "2026-09-17T02:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "nico varrone",
+      "startedAt": "2026-09-17T02:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "muslera",
+      "startedAt": "2026-09-17T02:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "quien gano gh",
       "startedAt": "2026-09-17T02:10:00.000Z",
-      "volume": 100
+      "volume": 500
     },
     {
       "query": "caruso lombardi",
@@ -14,44 +34,24 @@
       "volume": 100
     },
     {
+      "query": "gh",
+      "startedAt": "2026-09-17T01:50:00.000Z",
+      "volume": 5000
+    },
+    {
       "query": "quien gano gran hermano 2026",
       "startedAt": "2026-09-17T01:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "joaquin correa",
-      "startedAt": "2026-09-17T01:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gran hermano en vivo",
-      "startedAt": "2026-09-17T01:30:00.000Z",
       "volume": 2000
     },
     {
       "query": "telefe",
       "startedAt": "2026-09-17T01:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
-      "query": "mi telefe",
+      "query": "mi telefe en vivo",
       "startedAt": "2026-09-17T01:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "rodrigo garro",
-      "startedAt": "2026-09-17T01:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "inter miami cf",
-      "startedAt": "2026-09-17T01:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "pipino cuevas",
-      "startedAt": "2026-09-17T01:10:00.000Z",
-      "volume": 200
+      "volume": 2000
     }
   ]
 }
