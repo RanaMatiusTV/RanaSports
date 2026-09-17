@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T13:52:39.685Z",
+  "updatedAt": "2026-09-17T14:27:55.985Z",
   "trends": [
     {
       "query": "sorteo quini6",
@@ -11,7 +11,7 @@
     {
       "query": "instituto de previsión social",
       "startedAt": "2026-09-17T13:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "sporting",
@@ -34,9 +34,9 @@
       "volume": 500
     },
     {
-      "query": "hoy es el dia de",
+      "query": "efemerides de hoy",
       "startedAt": "2026-09-17T11:30:00.000Z",
-      "volume": 500
+      "volume": 200
     },
     {
       "query": "josé maría muscari",
@@ -46,7 +46,7 @@
     {
       "query": "gerardo zamora",
       "startedAt": "2026-09-17T10:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "ari lijalad",
