@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T14:27:55.985Z",
+  "updatedAt": "2026-09-17T14:52:55.232Z",
   "trends": [
+    {
+      "query": "argentina sub 19",
+      "startedAt": "2026-09-17T14:20:00.000Z",
+      "volume": 500
+    },
     {
       "query": "sorteo quini6",
       "startedAt": "2026-09-17T13:30:00.000Z",
@@ -47,11 +52,6 @@
       "query": "gerardo zamora",
       "startedAt": "2026-09-17T10:20:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "ari lijalad",
-      "startedAt": "2026-09-17T10:20:00.000Z",
-      "volume": 500
     }
   ]
 }
