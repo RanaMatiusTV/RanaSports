@@ -1,25 +1,40 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T13:51:58.367Z",
+  "updatedAt": "2026-09-18T14:25:40.021Z",
   "trends": [
+    {
+      "query": "noticia",
+      "startedAt": "2026-09-18T14:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "marco trungelliti",
+      "startedAt": "2026-09-18T13:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "ala delta",
+      "startedAt": "2026-09-18T13:40:00.000Z",
+      "volume": 500
+    },
     {
       "query": "harry kane",
       "startedAt": "2026-09-18T13:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "diario el eco de tandil",
       "startedAt": "2026-09-18T13:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "copa davis",
+      "startedAt": "2026-09-18T13:10:00.000Z",
       "volume": 200
     },
     {
       "query": "venti",
-      "startedAt": "2026-09-18T13:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "copa davis",
       "startedAt": "2026-09-18T13:10:00.000Z",
       "volume": 100
     },
@@ -37,21 +52,6 @@
       "query": "estudiante",
       "startedAt": "2026-09-18T12:40:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "tom hardy",
-      "startedAt": "2026-09-18T12:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "hechos reales",
-      "startedAt": "2026-09-18T12:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "axel kicillof",
-      "startedAt": "2026-09-18T11:50:00.000Z",
-      "volume": 100
     }
   ]
 }
