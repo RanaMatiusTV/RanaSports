@@ -1,8 +1,43 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T08:52:21.246Z",
+  "updatedAt": "2026-09-18T09:51:22.486Z",
   "trends": [
+    {
+      "query": "clima",
+      "startedAt": "2026-09-18T09:30:00.000Z",
+      "volume": 50000
+    },
+    {
+      "query": "choque frontal",
+      "startedAt": "2026-09-18T09:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "pronostico posadas",
+      "startedAt": "2026-09-18T09:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "la plata",
+      "startedAt": "2026-09-18T09:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "2027",
+      "startedAt": "2026-09-18T08:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "valle salvaje",
+      "startedAt": "2026-09-18T08:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tiempo tucuman",
+      "startedAt": "2026-09-18T08:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "avenida brasil",
       "startedAt": "2026-09-18T04:10:00.000Z",
@@ -11,47 +46,12 @@
     {
       "query": "jack doohan",
       "startedAt": "2026-09-18T03:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "partidos de copa libertadores",
       "startedAt": "2026-09-18T02:40:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "antonela roccuzzo",
-      "startedAt": "2026-09-18T02:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "sudamericana",
-      "startedAt": "2026-09-18T02:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "accidente rosario",
-      "startedAt": "2026-09-18T02:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "brad pitt",
-      "startedAt": "2026-09-18T02:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "charlie hunnam",
-      "startedAt": "2026-09-18T02:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "jorginho",
-      "startedAt": "2026-09-18T01:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "pozo",
-      "startedAt": "2026-09-18T01:30:00.000Z",
-      "volume": 200
     }
   ]
 }
