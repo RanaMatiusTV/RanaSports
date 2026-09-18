@@ -120,79 +120,13 @@
  function renderXPost(container,url){
   if(!isXPost(url)||container.querySelector('.video-embed,.x-embed,.instagram-embed'))return false;
   const id=xPostId(url);if(!id)return false;
-
-  const wrap=element('article','x-embed x-card-native');
-  wrap.dataset.tweetId=id;
-  wrap.append(element('p','embed-loading','Cargando publicación de X…'));
-  container.append(wrap);
-
-  const formatCount=n=>new Intl.NumberFormat('es-AR',{notation:'compact',maximumFractionDigits:1}).format(Number(n)||0);
-  const parseXDate=value=>{
-   const d=new Date(value);return Number.isNaN(d.getTime())?'':new Intl.DateTimeFormat('es-AR',{dateStyle:'medium',timeStyle:'short'}).format(d);
-  };
-
-  fetch('https://api.fxtwitter.com/status/'+id,{cache:'no-store',credentials:'omit'})
-   .then(r=>{if(!r.ok)throw new Error('API '+r.status);return r.json();})
-   .then(data=>{
-    const tweet=data?.tweet;if(!tweet)throw new Error('NO_TWEET');
-    const author=tweet.author||{};
-    const head=element('div','x-card-head');
-    if(author.avatar_url){
-      const avatar=element('img','x-card-avatar');avatar.src=author.avatar_url;avatar.alt='';avatar.loading='lazy';head.append(avatar);
-    }
-    const who=element('div','x-card-who');
-    who.append(element('strong','x-card-name',author.name||author.screen_name||'X'));
-    if(author.screen_name)who.append(element('span','x-card-handle','@'+author.screen_name));
-    const logo=element('span','x-card-logo','𝕏');
-    head.append(who,logo);
-
-    const body=element('div','x-card-text',tweet.text||'');
-    wrap.replaceChildren(head,body);
-
-    const media=tweet.media||{};
-    const videos=Array.isArray(media.videos)?media.videos:[];
-    if(videos.length){
-      const info=videos[0]||{};
-      const formats=(Array.isArray(info.formats)?info.formats:[])
-       .filter(f=>f?.url&&(f.container==='mp4'||String(f.url).includes('.mp4'))&&f.codec!=='hevc')
-       .sort((a,b)=>(Number(b.bitrate)||0)-(Number(a.bitrate)||0));
-      const urls=[...new Set([...formats.map(f=>f.url),info.url].filter(Boolean))];
-      const mediaWrap=element('div','x-card-media');
-      const video=element('video');
-      video.controls=true;video.playsInline=true;video.preload='metadata';
-      video.referrerPolicy='no-referrer';
-      if(info.thumbnail_url)video.poster=info.thumbnail_url;
-      urls.forEach(src=>{
-        const source=element('source');source.src=src;source.type='video/mp4';video.append(source);
-      });
-      video.append('Tu navegador no pudo reproducir este video.');
-      mediaWrap.append(video);wrap.append(mediaWrap);
-    }else if(Array.isArray(media.photos)&&media.photos.length){
-      const grid=element('div','x-card-photos');
-      media.photos.slice(0,4).forEach(p=>{if(!p?.url)return;const img=element('img');img.src=p.url;img.alt=p.altText||'';img.loading='lazy';grid.append(img);});
-      if(grid.children.length)wrap.append(grid);
-    }
-
-    const meta=element('div','x-card-meta');
-    const when=parseXDate(tweet.created_at);
-    if(when)meta.append(element('span','',when));
-    const metrics=element('div','x-card-metrics');
-    if(tweet.replies!=null)metrics.append(element('span','','💬 '+formatCount(tweet.replies)));
-    if(tweet.retweets!=null)metrics.append(element('span','','↻ '+formatCount(tweet.retweets)));
-    if(tweet.likes!=null)metrics.append(element('span','','♥ '+formatCount(tweet.likes)));
-    meta.append(metrics);
-    wrap.append(meta,link(url,'Ver publicación original en X ↗','embed-fallback'));
-   })
-   .catch(()=>{
-    wrap.replaceChildren();
-    const fallback=element('div','x-widget-fallback');
-    fallback.dataset.tweetId=id;wrap.append(fallback);
-    withXWidgets(()=>{
-      if(!fallback.isConnected)return;
-      window.twttr.widgets.createTweet(id,fallback,{theme:'dark',dnt:true,align:'center'})
-       .catch(()=>fallback.replaceChildren(element('p','embed-error','No se pudo cargar la publicación de X.'),link(url,'Abrir en X ↗','embed-fallback')));
-    });
-   });
+  const wrap=element('div','x-embed');wrap.dataset.tweetId=id;container.append(wrap);
+  let started=false;
+  withXWidgets(()=>{
+   if(started||!wrap.isConnected||wrap.dataset.rendered==='1')return;
+   started=true;wrap.dataset.rendered='1';wrap.replaceChildren();
+   window.twttr.widgets.createTweet(id,wrap,{theme:'dark',dnt:true,align:'center'}).catch(()=>{wrap.replaceChildren(link(url,'Ver publicación en X'));});
+  });
   return true;
  }
  function withInstagramEmbeds(callback){
@@ -230,7 +164,8 @@
    .video-embed{position:relative;width:100%;aspect-ratio:16/9;margin:22px 0 8px;border-radius:10px;overflow:hidden;background:#000}
    .video-embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
    .embed-fallback{display:inline-block;margin:0 0 22px;font-size:.9rem}
-   .x-embed{width:100%;max-width:760px;margin:22px auto;border-radius:10px;overflow:hidden;background:#000}\n   .x-video-native video{display:block;width:100%;max-height:78vh;background:#000}\n   .x-embed .twitter-tweet{margin-left:auto!important;margin-right:auto!important}
+   .x-embed{width:100%;max-width:600px;min-height:120px;margin:22px auto}
+   .x-embed .twitter-tweet{margin-left:auto!important;margin-right:auto!important}
    .article-image{display:block;width:100%;height:auto;object-fit:contain;object-position:center;border-radius:8px}
    .card-visual.news-image{aspect-ratio:16/9!important;min-height:0!important;padding:0!important;background:#171d24}
    .news-image img{display:block;width:100%;height:100%;object-fit:cover;object-position:50% 24%;transition:transform .25s}
