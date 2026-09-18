@@ -128,7 +128,7 @@
   frame.allow='autoplay; encrypted-media; fullscreen; picture-in-picture';
   frame.allowFullscreen=true;
   frame.referrerPolicy='strict-origin-when-cross-origin';
-  frame.setAttribute('sandbox','allow-scripts allow-same-origin allow-forms allow-presentation');
+  frame.setAttribute('sandbox','allow-scripts allow-same-origin allow-forms allow-presentation allow-popups allow-popups-to-escape-sandbox allow-modals');
   wrap.append(frame);
   container.append(wrap,link(url,'Abrir publicación original ↗','embed-fallback'));
   return true;
