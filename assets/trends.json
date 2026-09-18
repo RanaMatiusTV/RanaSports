@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T11:24:21.026Z",
+  "updatedAt": "2026-09-18T11:50:13.329Z",
   "trends": [
+    {
+      "query": "todo noticias",
+      "startedAt": "2026-09-18T11:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "sanciones internacionales contra irán",
+      "startedAt": "2026-09-18T11:10:00.000Z",
+      "volume": 100
+    },
     {
       "query": "18 de septiembre",
       "startedAt": "2026-09-18T11:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "hyrox",
@@ -21,7 +31,7 @@
     {
       "query": "prisión preventiva",
       "startedAt": "2026-09-18T10:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "clima mar del plata",
@@ -42,16 +52,6 @@
       "query": "clima",
       "startedAt": "2026-09-18T09:30:00.000Z",
       "volume": 200000
-    },
-    {
-      "query": "choque frontal",
-      "startedAt": "2026-09-18T09:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "misiones",
-      "startedAt": "2026-09-18T09:20:00.000Z",
-      "volume": 200
     }
   ]
 }
