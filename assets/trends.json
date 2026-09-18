@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T06:54:12.965Z",
+  "updatedAt": "2026-09-18T07:25:45.408Z",
   "trends": [
+    {
+      "query": "gato",
+      "startedAt": "2026-09-18T07:00:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "avenida brasil",
       "startedAt": "2026-09-18T04:10:00.000Z",
@@ -47,11 +52,6 @@
       "query": "brad pitt",
       "startedAt": "2026-09-18T02:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "charlie hunnam",
-      "startedAt": "2026-09-18T02:10:00.000Z",
-      "volume": 100
     }
   ]
 }
