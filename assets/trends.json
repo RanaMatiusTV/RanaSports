@@ -1,8 +1,28 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T21:49:35.366Z",
+  "updatedAt": "2026-09-18T22:24:03.779Z",
   "trends": [
+    {
+      "query": "la cámpora",
+      "startedAt": "2026-09-18T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "parense de manos",
+      "startedAt": "2026-09-18T22:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "a qué hora juega racing",
+      "startedAt": "2026-09-18T21:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "máximo kirchner",
+      "startedAt": "2026-09-18T21:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "circuito callejero de bakú",
       "startedAt": "2026-09-18T21:30:00.000Z",
@@ -32,26 +52,6 @@
       "query": "clima mendoza",
       "startedAt": "2026-09-18T21:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "jonathan silva",
-      "startedAt": "2026-09-18T20:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "dólar estadounidense",
-      "startedAt": "2026-09-18T20:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "la marcha de la bronca",
-      "startedAt": "2026-09-18T20:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "chelsea vs",
-      "startedAt": "2026-09-18T20:40:00.000Z",
-      "volume": 500
     }
   ]
 }
