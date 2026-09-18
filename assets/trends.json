@@ -1,17 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T21:24:13.154Z",
+  "updatedAt": "2026-09-18T21:49:35.366Z",
   "trends": [
+    {
+      "query": "circuito callejero de bakú",
+      "startedAt": "2026-09-18T21:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "promedio industrial dow jones",
+      "startedAt": "2026-09-18T21:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "paso internacional los libertadores",
+      "startedAt": "2026-09-18T21:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "manuel adorni",
       "startedAt": "2026-09-18T21:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "kick",
       "startedAt": "2026-09-18T21:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "clima mendoza",
@@ -24,34 +39,19 @@
       "volume": 500
     },
     {
-      "query": "la marcha de la bronca",
-      "startedAt": "2026-09-18T20:40:00.000Z",
-      "volume": 500
-    },
-    {
       "query": "dólar estadounidense",
       "startedAt": "2026-09-18T20:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "roberto cachanosky",
-      "startedAt": "2026-09-18T20:30:00.000Z",
-      "volume": 200
+      "query": "la marcha de la bronca",
+      "startedAt": "2026-09-18T20:40:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "hugo moyano",
-      "startedAt": "2026-09-18T20:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lamine yamal",
-      "startedAt": "2026-09-18T20:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "club estudiantes de la plata",
-      "startedAt": "2026-09-18T20:30:00.000Z",
-      "volume": 200
+      "query": "chelsea vs",
+      "startedAt": "2026-09-18T20:40:00.000Z",
+      "volume": 500
     }
   ]
 }
