@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTcyOTU2MDAwMCwiTEEgRjEgUFVTTyBBIENPTEFQSU5UTyBFTlRSRSBMT1MgTUVKT1JFUyBERSBNQURSSUQ6IENVQVJUTyBFTiBFTCBQT1dFUiBSQU5LSU5HIl0": {
+      "account": "f1",
+      "title": "LA F1 PUSO A COLAPINTO ENTRE LOS MEJORES DE MADRID: CUARTO EN EL POWER RANKING",
+      "dueAt": "2026-09-18T11:10:00.000Z",
+      "bufferPostId": "6aad1b8b15159f403b45bf7e",
+      "createdAt": "2026-09-18T11:07:56.109Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3MjU5NjAwMDAsIkxBIFNFTEVDQ0nDk04gUE9EUsONQSBNVURBUiBFTCBBTUlTVE9TTyBDT04gQlVSS0lOQSBGQVNPIEEgTEEgQk9NQk9ORVJBIl0": {
       "account": "main",
       "title": "LA SELECCIÓN PODRÍA MUDAR EL AMISTOSO CON BURKINA FASO A LA BOMBONERA",
@@ -661,7 +668,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-18T01:30:00.000Z",
+    "f1": "2026-09-18T11:15:00.000Z",
     "main": "2026-09-18T10:35:00.000Z"
   },
   "buffer": {
