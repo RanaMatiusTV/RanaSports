@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5Njk2MzIwMDAwLCJCT0NISU5JIFFVSUVSRSBWT0xWRVIgQSBJTkRFUEVORElFTlRFOiDigJxNRSBHVVNUQVLDjUEgRVNUQVIgRU4gRUwgQ0xVQuKAnSJd": {
+      "account": "main",
+      "title": "BOCHINI QUIERE VOLVER A INDEPENDIENTE: “ME GUSTARÍA ESTAR EN EL CLUB”",
+      "dueAt": "2026-09-18T08:15:00.000Z",
+      "bufferPostId": "6aacf22a41757aa564b26744",
+      "createdAt": "2026-09-18T08:11:23.055Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3MDg1MDAwMDAsIkZBQ1VORE8gTUVESU5BIFRBTUJJw4lOIE1PSsOTIEVOIEVVUk9QQTogVk9MRUEgWSBHT0wgUEFSQSBFTCBUUklVTkZPIERFTCBMRVZFUktVU0VOIl0": {
       "account": "main",
       "title": "FACUNDO MEDINA TAMBIÉN MOJÓ EN EUROPA: VOLEA Y GOL PARA EL TRIUNFO DEL LEVERKUSEN",
@@ -634,7 +641,7 @@
   },
   "nextAt": {
     "f1": "2026-09-18T01:30:00.000Z",
-    "main": "2026-09-18T06:20:00.000Z"
+    "main": "2026-09-18T08:20:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
