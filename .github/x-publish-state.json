@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NzcyODgwMDAwLCJWQUxEw4laIFZPTFZJw5MgWSBDQUJSQUwgRU5UUsOTIEEgw5pMVElNTyBNT01FTlRPOiBMT1MgQ09OVk9DQURPUyBERSBJTkRFUEVORElFTlRFIFBBUkEgVklTSVRBUiBBIFVOScOTTiJd": {
+      "account": "main",
+      "title": "VALDÉZ VOLVIÓ Y CABRAL ENTRÓ A ÚLTIMO MOMENTO: LOS CONVOCADOS DE INDEPENDIENTE PARA VISITAR A UNIÓN",
+      "dueAt": "2026-09-18T23:25:00.000Z",
+      "bufferPostId": "6aadc742988279488767ff32",
+      "createdAt": "2026-09-18T23:20:34.673Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc4OTc2OTA0MDAwMCwiTE9TIExFT05FUyBHT0xFQVJPTiA1LTEgQSBDSElMRSBZIFlBIEVTVMOBTiBFTiBMQSBGSU5BTCBQT1IgRUwgT1JPIl0": {
       "account": "main",
       "title": "LOS LEONES GOLEARON 5-1 A CHILE Y YA ESTÁN EN LA FINAL POR EL ORO",
@@ -760,7 +767,7 @@
   },
   "nextAt": {
     "f1": "2026-09-18T14:35:00.000Z",
-    "main": "2026-09-18T22:30:00.000Z"
+    "main": "2026-09-18T23:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
