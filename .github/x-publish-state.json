@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3MDg1MDAwMDAsIkZBQ1VORE8gTUVESU5BIFRBTUJJw4lOIE1PSsOTIEVOIEVVUk9QQTogVk9MRUEgWSBHT0wgUEFSQSBFTCBUUklVTkZPIERFTCBMRVZFUktVU0VOIl0": {
+      "account": "main",
+      "title": "FACUNDO MEDINA TAMBIÉN MOJÓ EN EUROPA: VOLEA Y GOL PARA EL TRIUNFO DEL LEVERKUSEN",
+      "dueAt": "2026-09-18T06:15:00.000Z",
+      "bufferPostId": "6aacd60941757aa564af84e5",
+      "createdAt": "2026-09-18T06:11:21.482Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTY5Mzg2MDAwMCwiQUxQSU5FIFNVTcOTIEEgTUlLRSBFTExJT1RUOiBVTiBFWCBNRVJDRURFUyBQQVJBIFBPVEVOQ0lBUiBFTCBBVVRPIERFIENPTEFQSU5UTyJd": {
       "account": "f1",
       "title": "ALPINE SUMÓ A MIKE ELLIOTT: UN EX MERCEDES PARA POTENCIAR EL AUTO DE COLAPINTO",
@@ -627,7 +634,7 @@
   },
   "nextAt": {
     "f1": "2026-09-18T01:30:00.000Z",
-    "main": "2026-09-17T22:20:00.000Z"
+    "main": "2026-09-18T06:20:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
