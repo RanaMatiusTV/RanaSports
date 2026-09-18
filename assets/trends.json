@@ -1,12 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T16:50:02.745Z",
+  "updatedAt": "2026-09-18T17:22:40.831Z",
   "trends": [
+    {
+      "query": "taller mecánico",
+      "startedAt": "2026-09-18T17:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "club de fútbol",
+      "startedAt": "2026-09-18T17:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "base naval",
+      "startedAt": "2026-09-18T17:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "encuesta",
+      "startedAt": "2026-09-18T16:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "lockheed martin f-35 lightning ii",
+      "startedAt": "2026-09-18T16:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "ángel correa",
       "startedAt": "2026-09-18T16:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "bullrich",
@@ -16,7 +41,7 @@
     {
       "query": "administración nacional de la seguridad social",
       "startedAt": "2026-09-18T16:00:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "ceferino reato",
@@ -24,34 +49,9 @@
       "volume": 200
     },
     {
-      "query": "fuerzas armadas de los estados unidos",
-      "startedAt": "2026-09-18T15:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tom cruise",
-      "startedAt": "2026-09-18T15:40:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "serie de televisión",
       "startedAt": "2026-09-18T15:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "limpieza",
-      "startedAt": "2026-09-18T15:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "club atlético nueva chicago",
-      "startedAt": "2026-09-18T15:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ea sports fc 27",
-      "startedAt": "2026-09-18T15:20:00.000Z",
-      "volume": 200
+      "volume": 500
     }
   ]
 }
