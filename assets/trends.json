@@ -1,8 +1,28 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T11:50:13.329Z",
+  "updatedAt": "2026-09-18T12:29:55.256Z",
   "trends": [
+    {
+      "query": "tom hardy",
+      "startedAt": "2026-09-18T12:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "hechos reales",
+      "startedAt": "2026-09-18T12:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "axel kicillof",
+      "startedAt": "2026-09-18T11:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "avión de caza",
+      "startedAt": "2026-09-18T11:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "todo noticias",
       "startedAt": "2026-09-18T11:20:00.000Z",
@@ -11,7 +31,7 @@
     {
       "query": "sanciones internacionales contra irán",
       "startedAt": "2026-09-18T11:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "18 de septiembre",
@@ -32,26 +52,6 @@
       "query": "prisión preventiva",
       "startedAt": "2026-09-18T10:20:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "clima mar del plata",
-      "startedAt": "2026-09-18T10:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "bombero",
-      "startedAt": "2026-09-18T10:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "horóscopo",
-      "startedAt": "2026-09-18T09:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "clima",
-      "startedAt": "2026-09-18T09:30:00.000Z",
-      "volume": 200000
     }
   ]
 }
