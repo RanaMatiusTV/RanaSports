@@ -1,16 +1,26 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T09:51:22.486Z",
+  "updatedAt": "2026-09-18T10:25:40.819Z",
   "trends": [
+    {
+      "query": "horóscopo",
+      "startedAt": "2026-09-18T09:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "clima",
       "startedAt": "2026-09-18T09:30:00.000Z",
-      "volume": 50000
+      "volume": 100000
     },
     {
       "query": "choque frontal",
       "startedAt": "2026-09-18T09:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "control de alcoholemia",
+      "startedAt": "2026-09-18T09:10:00.000Z",
       "volume": 100
     },
     {
@@ -21,12 +31,12 @@
     {
       "query": "la plata",
       "startedAt": "2026-09-18T09:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "2027",
       "startedAt": "2026-09-18T08:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "valle salvaje",
@@ -41,16 +51,6 @@
     {
       "query": "avenida brasil",
       "startedAt": "2026-09-18T04:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "jack doohan",
-      "startedAt": "2026-09-18T03:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "partidos de copa libertadores",
-      "startedAt": "2026-09-18T02:40:00.000Z",
       "volume": 100
     }
   ]
