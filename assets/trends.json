@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T23:23:56.482Z",
+  "updatedAt": "2026-09-18T23:50:33.391Z",
   "trends": [
+    {
+      "query": "refinanciación",
+      "startedAt": "2026-09-18T23:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "ricardo darín",
+      "startedAt": "2026-09-18T23:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "autódromo",
+      "startedAt": "2026-09-18T23:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "racing",
       "startedAt": "2026-09-18T22:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "emiliano martínez",
@@ -26,7 +41,7 @@
     {
       "query": "agustín marchesín",
       "startedAt": "2026-09-18T22:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "uber",
@@ -36,22 +51,7 @@
     {
       "query": "la cámpora",
       "startedAt": "2026-09-18T22:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "parense de manos",
-      "startedAt": "2026-09-18T22:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "a qué hora juega racing",
-      "startedAt": "2026-09-18T21:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "máximo kirchner",
-      "startedAt": "2026-09-18T21:40:00.000Z",
-      "volume": 200
+      "volume": 2000
     }
   ]
 }
