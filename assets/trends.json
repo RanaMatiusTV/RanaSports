@@ -1,27 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T15:25:20.233Z",
+  "updatedAt": "2026-09-18T15:52:16.467Z",
   "trends": [
+    {
+      "query": "limpieza",
+      "startedAt": "2026-09-18T15:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "lucas blondel",
+      "startedAt": "2026-09-18T15:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "indio solari",
+      "startedAt": "2026-09-18T14:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "premio",
       "startedAt": "2026-09-18T14:30:00.000Z",
-      "volume": 2000
+      "volume": 5000
+    },
+    {
+      "query": "ala delta motorizada",
+      "startedAt": "2026-09-18T14:30:00.000Z",
+      "volume": 1000
     },
     {
       "query": "noticia",
       "startedAt": "2026-09-18T14:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "marco trungelliti",
       "startedAt": "2026-09-18T13:50:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "auh",
-      "startedAt": "2026-09-18T13:40:00.000Z",
-      "volume": 100
     },
     {
       "query": "harry kane",
@@ -37,21 +52,6 @@
       "query": "copa davis",
       "startedAt": "2026-09-18T13:10:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "venti",
-      "startedAt": "2026-09-18T13:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "cuti romero",
-      "startedAt": "2026-09-18T12:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "causa de los cuadernos",
-      "startedAt": "2026-09-18T12:40:00.000Z",
-      "volume": 2000
     }
   ]
 }
