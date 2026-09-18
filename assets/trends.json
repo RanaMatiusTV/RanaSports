@@ -1,8 +1,28 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T00:53:43.492Z",
+  "updatedAt": "2026-09-18T01:24:11.639Z",
   "trends": [
+    {
+      "query": "subsidio",
+      "startedAt": "2026-09-18T01:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "city torque",
+      "startedAt": "2026-09-18T00:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "marta kostiuk",
+      "startedAt": "2026-09-18T00:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "ben saunders",
+      "startedAt": "2026-09-18T00:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "sol pérez",
       "startedAt": "2026-09-18T00:30:00.000Z",
@@ -14,44 +34,24 @@
       "volume": 200
     },
     {
+      "query": "senado",
+      "startedAt": "2026-09-18T00:10:00.000Z",
+      "volume": 500
+    },
+    {
       "query": "juicio",
       "startedAt": "2026-09-18T00:10:00.000Z",
       "volume": 500
     },
     {
-      "query": "senado",
-      "startedAt": "2026-09-18T00:10:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "bucaramanga - medellín",
       "startedAt": "2026-09-18T00:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "masterchef",
       "startedAt": "2026-09-18T00:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "tiempo de mañana",
-      "startedAt": "2026-09-17T23:50:00.000Z",
-      "volume": 200000
-    },
-    {
-      "query": "flamengo",
-      "startedAt": "2026-09-17T23:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "eduardo costantini",
-      "startedAt": "2026-09-17T23:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "flamengo - independiente del valle",
-      "startedAt": "2026-09-17T23:40:00.000Z",
-      "volume": 10000
     }
   ]
 }
