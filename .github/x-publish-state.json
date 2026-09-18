@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NzUxNzAwMDAwLCJCT0NISU5JIFNFIE1FVEUgRU4gTEEgUE9Mw41USUNBIERFTCBST0pPOiDigJxNRSBHVVNUQVLDjUEgRVNUQVIgRU4gRUwgQ0xVQuKAnSJd": {
+      "account": "main",
+      "title": "BOCHINI SE METE EN LA POLÍTICA DEL ROJO: “ME GUSTARÍA ESTAR EN EL CLUB”",
+      "dueAt": "2026-09-18T17:25:00.000Z",
+      "bufferPostId": "6aad718d83858d26973ca816",
+      "createdAt": "2026-09-18T17:14:53.566Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NzUxNDAwMDAwLCJVTknDk07igJNJTkRFUEVORElFTlRFLCBQQVJUSURPIEJJU0FHUkE6IEVMIFJPSk8gU0UgSlVFR0EgU1UgTFVHQVIgRU4gTE9TIFBMQVlPRkZTIl0": {
+      "account": "main",
+      "title": "UNIÓN–INDEPENDIENTE, PARTIDO BISAGRA: EL ROJO SE JUEGA SU LUGAR EN LOS PLAYOFFS",
+      "dueAt": "2026-09-18T17:20:00.000Z",
+      "bufferPostId": "6aad718ca8ad4ba21679cb33",
+      "createdAt": "2026-09-18T17:14:53.198Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3NDczMjAwMDAsIktBTkUgUkVDT1JEw5MgTEEgQ0HDjURBIEFOVEUgQVJHRU5USU5BIFkgQ09OVMOTIFFVw4kgTEUgRElKTyBBIE1FU1NJIERFU1BVw4lTIERFTCBNVU5ESUFMIl0": {
       "account": "main",
       "title": "KANE RECORDÓ LA CAÍDA ANTE ARGENTINA Y CONTÓ QUÉ LE DIJO A MESSI DESPUÉS DEL MUNDIAL",
@@ -711,7 +725,7 @@
   },
   "nextAt": {
     "f1": "2026-09-18T14:35:00.000Z",
-    "main": "2026-09-18T16:20:00.000Z"
+    "main": "2026-09-18T17:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
