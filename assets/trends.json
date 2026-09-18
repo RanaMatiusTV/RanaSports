@@ -1,8 +1,28 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T13:25:07.227Z",
+  "updatedAt": "2026-09-18T13:51:58.367Z",
   "trends": [
+    {
+      "query": "harry kane",
+      "startedAt": "2026-09-18T13:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "diario el eco de tandil",
+      "startedAt": "2026-09-18T13:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "venti",
+      "startedAt": "2026-09-18T13:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "copa davis",
+      "startedAt": "2026-09-18T13:10:00.000Z",
+      "volume": 100
+    },
     {
       "query": "cuti romero",
       "startedAt": "2026-09-18T12:50:00.000Z",
@@ -14,9 +34,9 @@
       "volume": 2000
     },
     {
-      "query": "tilcayo",
-      "startedAt": "2026-09-18T12:30:00.000Z",
-      "volume": 2000
+      "query": "estudiante",
+      "startedAt": "2026-09-18T12:40:00.000Z",
+      "volume": 500
     },
     {
       "query": "tom hardy",
@@ -32,26 +52,6 @@
       "query": "axel kicillof",
       "startedAt": "2026-09-18T11:50:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "avión de caza",
-      "startedAt": "2026-09-18T11:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "iván schargrodsky",
-      "startedAt": "2026-09-18T11:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "sanciones internacionales contra irán",
-      "startedAt": "2026-09-18T11:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "18 de septiembre",
-      "startedAt": "2026-09-18T11:00:00.000Z",
-      "volume": 500
     }
   ]
 }
