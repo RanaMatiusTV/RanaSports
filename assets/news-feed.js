@@ -47,14 +47,6 @@
  function xPostId(url){
   try{const u=new URL(url);const parts=u.pathname.split('/').filter(Boolean);const si=parts.indexOf('status');const id=parts[si+1];return /^\d+$/.test(id||'')?id:'';}catch{return '';}
  }
- function xDirectVideoURL(url){
-  try{
-   const u=new URL(url),parts=u.pathname.split('/').filter(Boolean),si=parts.indexOf('status');
-   const handle=parts[0],id=parts[si+1];
-   if(!handle||!/^\d+$/.test(id||''))return '';
-   return 'https://fxtwitter.com/'+encodeURIComponent(handle)+'/status/'+id+'.mp4';
-  }catch{return '';}
- }
  function xPostToDirectImage(url){
   try{
    const u=new URL(url);const parts=u.pathname.split('/').filter(Boolean);const si=parts.indexOf('status');
@@ -127,23 +119,47 @@
  }
  function renderXPost(container,url){
   if(!isXPost(url)||container.querySelector('.video-embed,.x-embed,.instagram-embed'))return false;
-  const direct=xDirectVideoURL(url);if(!direct)return false;
+  const id=xPostId(url);if(!id)return false;
+  let handle='';
+  try{handle=new URL(url).pathname.split('/').filter(Boolean)[0]||'';}catch{}
+  if(!handle)return false;
+
   const wrap=element('div','x-embed x-video-native');
-  const video=element('video');
-  video.controls=true;
-  video.playsInline=true;
-  video.preload='metadata';
-  video.src=direct;
-  video.setAttribute('controlsList','nodownload');
-  video.setAttribute('disablePictureInPicture','false');
-  video.addEventListener('error',()=>{
-   wrap.replaceChildren(
-    element('p','embed-error','No se pudo cargar el video dentro de RanaSports.'),
-    link(url,'Abrir publicación original ↗','embed-fallback')
-   );
-  },{once:true});
-  wrap.append(video);
+  wrap.dataset.tweetId=id;
+  const loading=element('p','embed-loading','Cargando video…');
+  wrap.append(loading);
   container.append(wrap,link(url,'Fuente: publicación original en X ↗','embed-fallback'));
+
+  fetch('https://api.fxtwitter.com/'+encodeURIComponent(handle)+'/status/'+id,{cache:'no-store',credentials:'omit'})
+   .then(r=>{if(!r.ok)throw new Error('API '+r.status);return r.json();})
+   .then(data=>{
+    const media=data?.tweet?.media||{};
+    const candidates=Array.isArray(media.videos)?media.videos:[];
+    const videoInfo=candidates.find(v=>v&&v.url&&String(v.format||'').includes('video'))||candidates[0];
+    const direct=videoInfo?.url||'';
+    if(!direct)throw new Error('NO_VIDEO');
+    const video=element('video');
+    video.controls=true;
+    video.playsInline=true;
+    video.preload='metadata';
+    video.src=direct;
+    if(videoInfo?.thumbnail_url)video.poster=videoInfo.thumbnail_url;
+    video.setAttribute('controlsList','nodownload');
+    video.addEventListener('error',()=>{throw new Error('VIDEO_LOAD');},{once:true});
+    wrap.replaceChildren(video);
+   })
+   .catch(()=>{
+    wrap.replaceChildren();
+    const id2=xPostId(url);
+    const fallbackWrap=element('div','x-widget-fallback');
+    fallbackWrap.dataset.tweetId=id2;
+    wrap.append(fallbackWrap);
+    withXWidgets(()=>{
+      if(!fallbackWrap.isConnected)return;
+      window.twttr.widgets.createTweet(id2,fallbackWrap,{theme:'dark',dnt:true,align:'center'})
+       .catch(()=>fallbackWrap.replaceChildren(element('p','embed-error','No se pudo cargar el video.'),link(url,'Abrir publicación original ↗','embed-fallback')));
+    });
+   });
   return true;
  }
  function withInstagramEmbeds(callback){
