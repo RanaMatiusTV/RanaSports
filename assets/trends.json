@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T22:50:15.920Z",
+  "updatedAt": "2026-09-18T23:23:56.482Z",
   "trends": [
+    {
+      "query": "racing",
+      "startedAt": "2026-09-18T22:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "emiliano martínez",
+      "startedAt": "2026-09-18T22:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "brian sarmiento",
+      "startedAt": "2026-09-18T22:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "gobierno",
       "startedAt": "2026-09-18T22:30:00.000Z",
@@ -11,47 +26,32 @@
     {
       "query": "agustín marchesín",
       "startedAt": "2026-09-18T22:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "uber",
       "startedAt": "2026-09-18T22:10:00.000Z",
-      "volume": 200
+      "volume": 1000
     },
     {
       "query": "la cámpora",
       "startedAt": "2026-09-18T22:00:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "parense de manos",
       "startedAt": "2026-09-18T22:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "a qué hora juega racing",
       "startedAt": "2026-09-18T21:50:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "máximo kirchner",
       "startedAt": "2026-09-18T21:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "circuito callejero de bakú",
-      "startedAt": "2026-09-18T21:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "promedio industrial dow jones",
-      "startedAt": "2026-09-18T21:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "paso internacional los libertadores",
-      "startedAt": "2026-09-18T21:20:00.000Z",
-      "volume": 100
     }
   ]
 }
