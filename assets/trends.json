@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-17T23:50:07.239Z",
+  "updatedAt": "2026-09-18T00:31:51.477Z",
   "trends": [
     {
-      "query": "marley",
-      "startedAt": "2026-09-17T23:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "tormenta",
-      "startedAt": "2026-09-17T23:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "boca velez copa argentina",
-      "startedAt": "2026-09-17T23:20:00.000Z",
+      "query": "juicio",
+      "startedAt": "2026-09-18T00:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "los ángeles",
-      "startedAt": "2026-09-17T23:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "alejandro garnacho",
-      "startedAt": "2026-09-17T23:00:00.000Z",
+      "query": "senado",
+      "startedAt": "2026-09-18T00:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "juegos suramericanos de 2026",
-      "startedAt": "2026-09-17T22:50:00.000Z",
+      "query": "bucaramanga - medellín",
+      "startedAt": "2026-09-18T00:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "el niño costero",
-      "startedAt": "2026-09-17T22:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "devaluación",
-      "startedAt": "2026-09-17T22:30:00.000Z",
+      "query": "masterchef",
+      "startedAt": "2026-09-18T00:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "adrián ravier",
-      "startedAt": "2026-09-17T22:20:00.000Z",
-      "volume": 500
+      "query": "tiempo de mañana",
+      "startedAt": "2026-09-17T23:50:00.000Z",
+      "volume": 200000
     },
     {
-      "query": "reestructuración",
-      "startedAt": "2026-09-17T22:00:00.000Z",
-      "volume": 500
+      "query": "flamengo",
+      "startedAt": "2026-09-17T23:50:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "eduardo costantini",
+      "startedAt": "2026-09-17T23:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "flamengo - independiente del valle",
+      "startedAt": "2026-09-17T23:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "torque - cienciano",
+      "startedAt": "2026-09-17T23:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "josé mayans",
+      "startedAt": "2026-09-17T23:40:00.000Z",
+      "volume": 200
     }
   ]
 }
