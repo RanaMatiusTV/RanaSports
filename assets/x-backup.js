@@ -28,7 +28,7 @@
  }
  async function renderBackup(url){
   if(!isXPost(url))return;
-  const body=document.querySelector('#newsDetail .article-body');if(!body||body.querySelector('.x-backup-block'))return;
+  const body=document.querySelector('#newsDetail .article-body');if(!body||body.querySelector('.x-backup-block')||body.querySelector('.x-card-native'))return;
   const id=xPostId(url);if(!id)return;
   if(body.querySelector('[data-tweet-id="'+CSS.escape(id)+'"]'))return;
   let handle='';
