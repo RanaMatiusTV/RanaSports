@@ -1,5 +1,5 @@
 (() => {
-  const CACHE_KEY = 'ranasports-real-images-v4';
+  const CACHE_KEY = 'ranasports-real-images-v5';
   const cache = () => { try { return JSON.parse(localStorage.getItem(CACHE_KEY) || '{}'); } catch { return {}; } };
   const save = value => { try { localStorage.setItem(CACHE_KEY, JSON.stringify(value)); } catch {} };
   const clean = value => (value || '').replace(/[^\p{L}\p{N}\s-]/gu, ' ').replace(/\s+/g, ' ').trim();
@@ -39,7 +39,7 @@
     } catch {}
     return '';
   }
-  let sheetRowsPromise=null;
+  let sheetRowsPromise=null,sheetRowsAt=0;
   function parseCSV(text){
     const rows=[];let row=[],field='',quoted=false;
     text=text.replace(/^\uFEFF/,'');
@@ -54,7 +54,8 @@
     return rows;
   }
   async function sheetRows(){
-    if(sheetRowsPromise)return sheetRowsPromise;
+    if(sheetRowsPromise&&Date.now()-sheetRowsAt<30000)return sheetRowsPromise;
+    sheetRowsAt=Date.now();
     sheetRowsPromise=fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv&_img='+Date.now(),{cache:'no-store',credentials:'omit'})
       .then(r=>{if(!r.ok)throw new Error('CSV');return r.text();})
       .then(text=>{
@@ -137,7 +138,7 @@
     const candidates = await findCandidates(title); if (!candidates.length) return;
     if (card.querySelector('.news-image img')) return;
     const link = document.createElement('a'); link.className = 'card-visual news-image'; link.href = card.querySelector('h3 a')?.href || '#';
-    const img = document.createElement('img'); img.alt = title; img.width = 800; img.height = 450; img.loading = 'lazy'; img.decoding = 'async';
+    const img = document.createElement('img'); img.alt = title; img.width = 800; img.height = 450; img.loading = 'lazy'; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
     mountCandidateImage(link,img,candidates,()=>link.remove());
     link.append(img); card.insertBefore(link, card.firstChild);
   }
@@ -149,7 +150,7 @@
     const candidates = await findCandidates(title); if (!candidates.length) return;
     if (root.querySelector('.article-photo img')) return;
     const figure = document.createElement('figure'); figure.className = 'article-photo';
-    const img = document.createElement('img'); img.className = 'article-image'; img.alt = title; img.width = 800; img.height = 450; img.decoding = 'async';
+    const img = document.createElement('img'); img.className = 'article-image'; img.alt = title; img.width = 800; img.height = 450; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
     mountCandidateImage(figure,img,candidates,()=>figure.remove());
     figure.append(img); const body = root.querySelector('.article-body'); body ? root.insertBefore(figure, body) : root.append(figure);
     const og = document.querySelector('meta[property="og:image"]'); if (og && candidates[0]) og.content = candidates[0];
