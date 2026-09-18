@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T05:24:04.366Z",
+  "updatedAt": "2026-09-18T05:51:02.564Z",
   "trends": [
     {
       "query": "avenida brasil",
@@ -41,7 +41,7 @@
     {
       "query": "accidente rosario",
       "startedAt": "2026-09-18T02:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "brad pitt",
