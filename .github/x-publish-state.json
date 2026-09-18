@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3MjU5NjAwMDAsIkxBIFNFTEVDQ0nDk04gUE9EUsONQSBNVURBUiBFTCBBTUlTVE9TTyBDT04gQlVSS0lOQSBGQVNPIEEgTEEgQk9NQk9ORVJBIl0": {
+      "account": "main",
+      "title": "LA SELECCIÓN PODRÍA MUDAR EL AMISTOSO CON BURKINA FASO A LA BOMBONERA",
+      "dueAt": "2026-09-18T10:30:00.000Z",
+      "bufferPostId": "6aad0fd415159f403b445121",
+      "createdAt": "2026-09-18T10:17:56.752Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NzI1OTAwMDAwLCJBTEFSTUEgRU4gSU5ERVBFTkRJRU5URTogQUJBTERPIFNVRlJJw5MgVU4gRVNHVUlOQ0UgWSBFUyBEVURBIFBBUkEgVklTSVRBUiBBIFVOScOTTiJd": {
+      "account": "main",
+      "title": "ALARMA EN INDEPENDIENTE: ABALDO SUFRIÓ UN ESGUINCE Y ES DUDA PARA VISITAR A UNIÓN",
+      "dueAt": "2026-09-18T10:25:00.000Z",
+      "bufferPostId": "6aad0fd30785d24e873b6da9",
+      "createdAt": "2026-09-18T10:17:55.910Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NzI1ODQwMDAwLCJCT0NISU5JIERFU1RST1rDkyBFTCBQUkVTRU5URSBERUwgUk9KTzog4oCcQ09OIEVTVEUgUExBTlRFTCBOTyBTRSBQVUVERSBBUFVOVEFSIEEgTkFEQeKAnSJd": {
+      "account": "main",
+      "title": "BOCHINI DESTROZÓ EL PRESENTE DEL ROJO: “CON ESTE PLANTEL NO SE PUEDE APUNTAR A NADA”",
+      "dueAt": "2026-09-18T10:20:00.000Z",
+      "bufferPostId": "6aad0fd262784c860c8a5c24",
+      "createdAt": "2026-09-18T10:17:54.357Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5Njk2MzIwMDAwLCJCT0NISU5JIFFVSUVSRSBWT0xWRVIgQSBJTkRFUEVORElFTlRFOiDigJxNRSBHVVNUQVLDjUEgRVNUQVIgRU4gRUwgQ0xVQuKAnSJd": {
       "account": "main",
       "title": "BOCHINI QUIERE VOLVER A INDEPENDIENTE: “ME GUSTARÍA ESTAR EN EL CLUB”",
@@ -641,7 +662,7 @@
   },
   "nextAt": {
     "f1": "2026-09-18T01:30:00.000Z",
-    "main": "2026-09-18T08:20:00.000Z"
+    "main": "2026-09-18T10:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
