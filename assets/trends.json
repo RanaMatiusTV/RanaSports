@@ -1,12 +1,47 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T20:24:39.910Z",
+  "updatedAt": "2026-09-18T20:50:25.503Z",
   "trends": [
+    {
+      "query": "roberto cachanosky",
+      "startedAt": "2026-09-18T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "lamine yamal",
+      "startedAt": "2026-09-18T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "hugo moyano",
+      "startedAt": "2026-09-18T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "club estudiantes de la plata",
+      "startedAt": "2026-09-18T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "bayer",
+      "startedAt": "2026-09-18T20:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "central córdoba - defensa y justicia",
+      "startedAt": "2026-09-18T20:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "corteza terrestre",
+      "startedAt": "2026-09-18T20:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "ayrton costa",
       "startedAt": "2026-09-18T20:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "meteorología",
@@ -14,43 +49,8 @@
       "volume": 1000
     },
     {
-      "query": "bundesliga",
-      "startedAt": "2026-09-18T20:00:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "monaco",
       "startedAt": "2026-09-18T20:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "virginia mones ruiz",
-      "startedAt": "2026-09-18T19:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "pluribus",
-      "startedAt": "2026-09-18T19:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "club atlético platense",
-      "startedAt": "2026-09-18T19:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "roberto mouras",
-      "startedAt": "2026-09-18T19:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "neumopatia",
-      "startedAt": "2026-09-18T19:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "sassuolo",
-      "startedAt": "2026-09-18T19:20:00.000Z",
       "volume": 100
     }
   ]
