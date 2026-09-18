@@ -95,7 +95,7 @@
     const media=[vi>=0?(row[vi]||'').trim():'',ni>=0?(row[ni]||'').trim():''].filter(Boolean);
     for(const url of media){
       const yid=youtubeId(url);
-      if(yid)candidates.push('https://i.ytimg.com/vi/'+yid+'/maxresdefault.jpg','https://i.ytimg.com/vi/'+yid+'/hqdefault.jpg');
+      if(yid)candidates.push('https://i.ytimg.com/vi/'+yid+'/hqdefault.jpg','https://i.ytimg.com/vi/'+yid+'/maxresdefault.jpg');
       else if(isXPost(url)){
         const thumb=await xThumbnail(url);if(thumb)candidates.push(thumb);
       }
