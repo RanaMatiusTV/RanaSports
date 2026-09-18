@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T01:24:11.639Z",
+  "updatedAt": "2026-09-18T01:51:02.850Z",
   "trends": [
+    {
+      "query": "pozo",
+      "startedAt": "2026-09-18T01:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "vicentin",
+      "startedAt": "2026-09-18T01:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "subsidio",
       "startedAt": "2026-09-18T01:00:00.000Z",
@@ -26,12 +36,12 @@
     {
       "query": "sol pérez",
       "startedAt": "2026-09-18T00:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "base militar",
       "startedAt": "2026-09-18T00:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "senado",
@@ -42,16 +52,6 @@
       "query": "juicio",
       "startedAt": "2026-09-18T00:10:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "bucaramanga - medellín",
-      "startedAt": "2026-09-18T00:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "masterchef",
-      "startedAt": "2026-09-18T00:00:00.000Z",
-      "volume": 200
     }
   ]
 }
