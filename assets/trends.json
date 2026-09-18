@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T03:25:18.870Z",
+  "updatedAt": "2026-09-18T03:51:47.734Z",
   "trends": [
     {
       "query": "jack doohan",
@@ -21,17 +21,17 @@
     {
       "query": "partidos de copa libertadores",
       "startedAt": "2026-09-18T02:40:00.000Z",
-      "volume": 200
+      "volume": 100
+    },
+    {
+      "query": "antonela roccuzzo",
+      "startedAt": "2026-09-18T02:30:00.000Z",
+      "volume": 1000
     },
     {
       "query": "sudamericana",
       "startedAt": "2026-09-18T02:30:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "antonela roccuzzo",
-      "startedAt": "2026-09-18T02:30:00.000Z",
-      "volume": 500
     },
     {
       "query": "accidente rosario",
@@ -49,8 +49,8 @@
       "volume": 100
     },
     {
-      "query": "jorginho",
-      "startedAt": "2026-09-18T01:50:00.000Z",
+      "query": "pozo",
+      "startedAt": "2026-09-18T01:30:00.000Z",
       "volume": 200
     }
   ]
