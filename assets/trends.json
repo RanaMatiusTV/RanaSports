@@ -1,17 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T22:24:03.779Z",
+  "updatedAt": "2026-09-18T22:50:15.920Z",
   "trends": [
+    {
+      "query": "gobierno",
+      "startedAt": "2026-09-18T22:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "agustín marchesín",
+      "startedAt": "2026-09-18T22:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "uber",
+      "startedAt": "2026-09-18T22:10:00.000Z",
+      "volume": 200
+    },
     {
       "query": "la cámpora",
       "startedAt": "2026-09-18T22:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "parense de manos",
       "startedAt": "2026-09-18T22:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "a qué hora juega racing",
@@ -26,7 +41,7 @@
     {
       "query": "circuito callejero de bakú",
       "startedAt": "2026-09-18T21:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "promedio industrial dow jones",
@@ -37,21 +52,6 @@
       "query": "paso internacional los libertadores",
       "startedAt": "2026-09-18T21:20:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "manuel adorni",
-      "startedAt": "2026-09-18T21:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "kick",
-      "startedAt": "2026-09-18T21:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "clima mendoza",
-      "startedAt": "2026-09-18T21:00:00.000Z",
-      "volume": 200
     }
   ]
 }
