@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T18:27:05.000Z",
+  "updatedAt": "2026-09-18T18:50:54.079Z",
   "trends": [
     {
-      "query": "alavés gloriosas - barcelona",
-      "startedAt": "2026-09-18T18:10:00.000Z",
+      "query": "frontera entre argentina y bolivia",
+      "startedAt": "2026-09-18T18:30:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "julián vignolo",
+      "startedAt": "2026-09-18T18:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "rcd espanyol - elche c. f.",
+      "startedAt": "2026-09-18T18:20:00.000Z",
+      "volume": 500
     },
     {
       "query": "monza - sassuolo",
@@ -19,39 +29,29 @@
       "volume": 200
     },
     {
+      "query": "alavés gloriosas - barcelona",
+      "startedAt": "2026-09-18T18:10:00.000Z",
+      "volume": 200
+    },
+    {
       "query": "la página millonaria",
       "startedAt": "2026-09-18T18:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "brentford - chelsea",
       "startedAt": "2026-09-18T18:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "mónaco - lens",
       "startedAt": "2026-09-18T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "cadillac formula 1 team",
-      "startedAt": "2026-09-18T18:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "araceli gonzález",
       "startedAt": "2026-09-18T18:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "club atlético river plate",
-      "startedAt": "2026-09-18T17:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "bayern - fc union berlin",
-      "startedAt": "2026-09-18T17:40:00.000Z",
-      "volume": 2000
+      "volume": 200
     }
   ]
 }
