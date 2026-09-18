@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3NDczMjAwMDAsIktBTkUgUkVDT1JEw5MgTEEgQ0HDjURBIEFOVEUgQVJHRU5USU5BIFkgQ09OVMOTIFFVw4kgTEUgRElKTyBBIE1FU1NJIERFU1BVw4lTIERFTCBNVU5ESUFMIl0": {
+      "account": "main",
+      "title": "KANE RECORDÓ LA CAÍDA ANTE ARGENTINA Y CONTÓ QUÉ LE DIJO A MESSI DESPUÉS DEL MUNDIAL",
+      "dueAt": "2026-09-18T16:15:00.000Z",
+      "bufferPostId": "6aad62b56eac239c6c549c12",
+      "createdAt": "2026-09-18T16:11:33.539Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTc0MDQyMDAwMCwiQ09MQVBJTlRPIFlBIFRJRU5FIEhPUkFSSU9TIFBBUkEgQkFLw5o6IExBIEYxIENPUlJFUsOBIEVMIFPDgUJBRE8gMjYgQSBMQVMgOCJd": {
       "account": "f1",
       "title": "COLAPINTO YA TIENE HORARIOS PARA BAKÚ: LA F1 CORRERÁ EL SÁBADO 26 A LAS 8",
@@ -704,7 +711,7 @@
   },
   "nextAt": {
     "f1": "2026-09-18T14:35:00.000Z",
-    "main": "2026-09-18T11:30:00.000Z"
+    "main": "2026-09-18T16:20:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
