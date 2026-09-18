@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3NjE3MjAwMDAsIlBMQUNFTlRFLCBBVVRPQ1LDjVRJQ08gVFJBUyBFTCBERUJVVDog4oCcSEFZIFVOIE1PTlTDk04gREUgQ09TQVMgUE9SIE1FSk9SQVLigJ0iXQ": {
+      "account": "main",
+      "title": "PLACENTE, AUTOCRÍTICO TRAS EL DEBUT: “HAY UN MONTÓN DE COSAS POR MEJORAR”",
+      "dueAt": "2026-09-18T20:30:00.000Z",
+      "bufferPostId": "6aad9c8d5fe629aa2660181e",
+      "createdAt": "2026-09-18T20:18:21.235Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3NjE2MDAwMDAsIklNUFJFVklTVE8gUEFSQSBTQ0FMT05JOiBMRSBDQU5DRUxBUk9OIEVMIFZVRUxPIFkgUkVDScOJTiBMTEVHQVLDgSBFTCBTw4FCQURPIl0": {
+      "account": "main",
+      "title": "IMPREVISTO PARA SCALONI: LE CANCELARON EL VUELO Y RECIÉN LLEGARÁ EL SÁBADO",
+      "dueAt": "2026-09-18T20:25:00.000Z",
+      "bufferPostId": "6aad9c8be64415091ecb27d1",
+      "createdAt": "2026-09-18T20:18:19.904Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3NjE0ODAwMDAsIkJVRU5BIE5PVElDSUEgUEFSQSBBUkdFTlRJTkE6IExPUyBBTUlTVE9TT1MgU0VSVklSw4FOIFBBUkEgQ1VNUExJUiBMQVMgU0FOQ0lPTkVTIEZJRkEiXQ": {
+      "account": "main",
+      "title": "BUENA NOTICIA PARA ARGENTINA: LOS AMISTOSOS SERVIRÁN PARA CUMPLIR LAS SANCIONES FIFA",
+      "dueAt": "2026-09-18T20:20:00.000Z",
+      "bufferPostId": "6aad9c8a988279488764366b",
+      "createdAt": "2026-09-18T20:18:19.026Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NzUxNzAwMDAwLCJCT0NISU5JIFNFIE1FVEUgRU4gTEEgUE9Mw41USUNBIERFTCBST0pPOiDigJxNRSBHVVNUQVLDjUEgRVNUQVIgRU4gRUwgQ0xVQuKAnSJd": {
       "account": "main",
       "title": "BOCHINI SE METE EN LA POLÍTICA DEL ROJO: “ME GUSTARÍA ESTAR EN EL CLUB”",
@@ -725,7 +746,7 @@
   },
   "nextAt": {
     "f1": "2026-09-18T14:35:00.000Z",
-    "main": "2026-09-18T17:30:00.000Z"
+    "main": "2026-09-18T20:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
