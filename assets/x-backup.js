@@ -34,17 +34,28 @@
   let handle='';
   try{handle=new URL(url).pathname.split('/').filter(Boolean)[0]||'';}catch{}
   if(!handle)return;
-  const direct='https://fxtwitter.com/'+encodeURIComponent(handle)+'/status/'+id+'.mp4';
+
   const section=document.createElement('section');section.className='x-backup-block';section.dataset.tweetId=id;
   const title=document.createElement('h3');title.textContent='VIDEO EN X';title.style.margin='24px 0 10px';
   const wrap=document.createElement('div');wrap.style.cssText='width:100%;max-width:760px;margin:22px auto;border-radius:10px;overflow:hidden;background:#000';
-  const video=document.createElement('video');
-  video.controls=true;video.playsInline=true;video.preload='metadata';video.src=direct;
-  video.style.cssText='display:block;width:100%;max-height:78vh;background:#000';
-  video.addEventListener('error',()=>{wrap.remove();title.textContent='PUBLICACIÓN EN X';},{once:true});
-  wrap.append(video);
+  const loading=document.createElement('p');loading.textContent='Cargando video…';loading.style.cssText='padding:18px;margin:0;color:#dce3ea';
+  wrap.append(loading);
   const fallback=document.createElement('a');fallback.href=url;fallback.target='_blank';fallback.rel='noopener noreferrer';fallback.className='embed-fallback';fallback.textContent='Fuente: publicación original en X ↗';
   section.append(title,wrap,fallback);body.append(section);
+
+  try{
+    const r=await fetch('https://api.fxtwitter.com/'+encodeURIComponent(handle)+'/status/'+id,{cache:'no-store',credentials:'omit'});
+    if(!r.ok)throw new Error('API');
+    const data=await r.json(),media=data?.tweet?.media||{},videos=Array.isArray(media.videos)?media.videos:[];
+    const info=videos.find(v=>v&&v.url&&String(v.format||'').includes('video'))||videos[0];
+    if(!info?.url)throw new Error('NO_VIDEO');
+    const video=document.createElement('video');video.controls=true;video.playsInline=true;video.preload='metadata';video.src=info.url;
+    if(info.thumbnail_url)video.poster=info.thumbnail_url;
+    video.style.cssText='display:block;width:100%;max-height:78vh;background:#000';
+    wrap.replaceChildren(video);
+  }catch{
+    wrap.remove();title.textContent='PUBLICACIÓN EN X';
+  }
  }
  async function hydrate(){
   const h1=document.querySelector('#newsDetail h1');if(!h1)return false;
