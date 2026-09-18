@@ -1,21 +1,31 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T10:25:40.819Z",
+  "updatedAt": "2026-09-18T10:51:11.407Z",
   "trends": [
+    {
+      "query": "clima san luis",
+      "startedAt": "2026-09-18T10:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "prisión preventiva",
+      "startedAt": "2026-09-18T10:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "horóscopo",
       "startedAt": "2026-09-18T09:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "clima",
-      "startedAt": "2026-09-18T09:30:00.000Z",
-      "volume": 100000
-    },
-    {
       "query": "choque frontal",
       "startedAt": "2026-09-18T09:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "misiones",
+      "startedAt": "2026-09-18T09:20:00.000Z",
       "volume": 200
     },
     {
@@ -36,21 +46,11 @@
     {
       "query": "2027",
       "startedAt": "2026-09-18T08:50:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "valle salvaje",
       "startedAt": "2026-09-18T08:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "tiempo tucuman",
-      "startedAt": "2026-09-18T08:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "avenida brasil",
-      "startedAt": "2026-09-18T04:10:00.000Z",
       "volume": 100
     }
   ]
