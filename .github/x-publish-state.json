@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc4OTc2OTA0MDAwMCwiTE9TIExFT05FUyBHT0xFQVJPTiA1LTEgQSBDSElMRSBZIFlBIEVTVMOBTiBFTiBMQSBGSU5BTCBQT1IgRUwgT1JPIl0": {
+      "account": "main",
+      "title": "LOS LEONES GOLEARON 5-1 A CHILE Y YA ESTÁN EN LA FINAL POR EL ORO",
+      "dueAt": "2026-09-18T22:25:00.000Z",
+      "bufferPostId": "6aadb91904838aa1c453aaa3",
+      "createdAt": "2026-09-18T22:20:09.291Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc4OTc2NTM4MDAwMCwiTEFTIExFT05BUyBHT0xFQVJPTiA1LTEgQSBDSElMRSBZIFlBIEVTVMOBTiBFTiBMQSBGSU5BTCJd": {
       "account": "main",
       "title": "LAS LEONAS GOLEARON 5-1 A CHILE Y YA ESTÁN EN LA FINAL",
@@ -753,7 +760,7 @@
   },
   "nextAt": {
     "f1": "2026-09-18T14:35:00.000Z",
-    "main": "2026-09-18T21:30:00.000Z"
+    "main": "2026-09-18T22:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
