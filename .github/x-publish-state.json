@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTc0MDQyMDAwMCwiQ09MQVBJTlRPIFlBIFRJRU5FIEhPUkFSSU9TIFBBUkEgQkFLw5o6IExBIEYxIENPUlJFUsOBIEVMIFPDgUJBRE8gMjYgQSBMQVMgOCJd": {
+      "account": "f1",
+      "title": "COLAPINTO YA TIENE HORARIOS PARA BAKÚ: LA F1 CORRERÁ EL SÁBADO 26 A LAS 8",
+      "dueAt": "2026-09-18T14:30:00.000Z",
+      "bufferPostId": "6aad49f1af6af53ceac3bed5",
+      "createdAt": "2026-09-18T14:25:53.471Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTc0MDQyMDAwMCwiSEFNSUxUT04gU0FMScOTIEFMIENSVUNFIERFIExPUyBSVU1PUkVTIEVOIEZFUlJBUkk6IOKAnE5VTkNBIFBFRMONIFFVRSBSRUVNUExBQ0VOIEEgTkFESUXigJ0iXQ": {
       "account": "f1",
       "title": "HAMILTON SALIÓ AL CRUCE DE LOS RUMORES EN FERRARI: “NUNCA PEDÍ QUE REEMPLACEN A NADIE”",
@@ -696,7 +703,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-18T14:20:00.000Z",
+    "f1": "2026-09-18T14:35:00.000Z",
     "main": "2026-09-18T11:30:00.000Z"
   },
   "buffer": {
