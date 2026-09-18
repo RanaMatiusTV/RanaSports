@@ -1,15 +1,40 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T20:50:25.503Z",
+  "updatedAt": "2026-09-18T21:24:13.154Z",
   "trends": [
     {
-      "query": "roberto cachanosky",
-      "startedAt": "2026-09-18T20:30:00.000Z",
+      "query": "manuel adorni",
+      "startedAt": "2026-09-18T21:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "kick",
+      "startedAt": "2026-09-18T21:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "clima mendoza",
+      "startedAt": "2026-09-18T21:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "lamine yamal",
+      "query": "jonathan silva",
+      "startedAt": "2026-09-18T20:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "la marcha de la bronca",
+      "startedAt": "2026-09-18T20:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "dólar estadounidense",
+      "startedAt": "2026-09-18T20:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "roberto cachanosky",
       "startedAt": "2026-09-18T20:30:00.000Z",
       "volume": 200
     },
@@ -19,39 +44,14 @@
       "volume": 200
     },
     {
+      "query": "lamine yamal",
+      "startedAt": "2026-09-18T20:30:00.000Z",
+      "volume": 200
+    },
+    {
       "query": "club estudiantes de la plata",
       "startedAt": "2026-09-18T20:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "bayer",
-      "startedAt": "2026-09-18T20:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "central córdoba - defensa y justicia",
-      "startedAt": "2026-09-18T20:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "corteza terrestre",
-      "startedAt": "2026-09-18T20:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ayrton costa",
-      "startedAt": "2026-09-18T20:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "meteorología",
-      "startedAt": "2026-09-18T20:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "monaco",
-      "startedAt": "2026-09-18T20:00:00.000Z",
-      "volume": 100
     }
   ]
 }
