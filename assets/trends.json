@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T00:31:51.477Z",
+  "updatedAt": "2026-09-18T00:53:43.492Z",
   "trends": [
+    {
+      "query": "sol pérez",
+      "startedAt": "2026-09-18T00:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "base militar",
+      "startedAt": "2026-09-18T00:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "juicio",
       "startedAt": "2026-09-18T00:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "senado",
@@ -31,7 +41,7 @@
     {
       "query": "flamengo",
       "startedAt": "2026-09-17T23:50:00.000Z",
-      "volume": 10000
+      "volume": 5000
     },
     {
       "query": "eduardo costantini",
@@ -41,17 +51,7 @@
     {
       "query": "flamengo - independiente del valle",
       "startedAt": "2026-09-17T23:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "torque - cienciano",
-      "startedAt": "2026-09-17T23:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "josé mayans",
-      "startedAt": "2026-09-17T23:40:00.000Z",
-      "volume": 200
+      "volume": 10000
     }
   ]
 }
