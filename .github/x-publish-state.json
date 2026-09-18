@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTc0MDQyMDAwMCwiSEFNSUxUT04gU0FMScOTIEFMIENSVUNFIERFIExPUyBSVU1PUkVTIEVOIEZFUlJBUkk6IOKAnE5VTkNBIFBFRMONIFFVRSBSRUVNUExBQ0VOIEEgTkFESUXigJ0iXQ": {
+      "account": "f1",
+      "title": "HAMILTON SALIÓ AL CRUCE DE LOS RUMORES EN FERRARI: “NUNCA PEDÍ QUE REEMPLACEN A NADIE”",
+      "dueAt": "2026-09-18T14:15:00.000Z",
+      "bufferPostId": "6aad4633d7a2d94521e9dea9",
+      "createdAt": "2026-09-18T14:09:55.761Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTczNzI0MDAwMCwiVkVSU1RBUFBFTiBDT05UUkEgMTAwIEtBUlRJTkdTOiBMQVJHw5Mgw5pMVElNTyBZIExPUyBQQVPDkyBBIFRPRE9TIEVOIFNPTE8gMTQgVlVFTFRBUyJd": {
       "account": "f1",
       "title": "VERSTAPPEN CONTRA 100 KARTINGS: LARGÓ ÚLTIMO Y LOS PASÓ A TODOS EN SOLO 14 VUELTAS",
@@ -689,7 +696,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-18T13:30:00.000Z",
+    "f1": "2026-09-18T14:20:00.000Z",
     "main": "2026-09-18T11:30:00.000Z"
   },
   "buffer": {
