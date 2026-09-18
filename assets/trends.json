@@ -1,17 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T14:52:42.295Z",
+  "updatedAt": "2026-09-18T15:25:20.233Z",
   "trends": [
     {
       "query": "premio",
       "startedAt": "2026-09-18T14:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "ala delta motorizada",
-      "startedAt": "2026-09-18T14:30:00.000Z",
-      "volume": 500
+      "volume": 2000
     },
     {
       "query": "noticia",
@@ -21,15 +16,20 @@
     {
       "query": "marco trungelliti",
       "startedAt": "2026-09-18T13:50:00.000Z",
-      "volume": 500
+      "volume": 200
     },
     {
-      "query": "diario el eco de tandil",
+      "query": "auh",
+      "startedAt": "2026-09-18T13:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "harry kane",
       "startedAt": "2026-09-18T13:20:00.000Z",
       "volume": 1000
     },
     {
-      "query": "harry kane",
+      "query": "diario el eco de tandil",
       "startedAt": "2026-09-18T13:20:00.000Z",
       "volume": 1000
     },
