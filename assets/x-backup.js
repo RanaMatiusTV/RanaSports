@@ -30,19 +30,20 @@
   if(!isXPost(url))return;
   const body=document.querySelector('#newsDetail .article-body');if(!body||body.querySelector('.x-backup-block'))return;
   const id=xPostId(url);if(!id)return;
-  if(body.querySelector('.x-embed[data-tweet-id="'+CSS.escape(id)+'"]'))return;
-  const section=document.createElement('section');section.className='x-backup-block';
-  const title=document.createElement('h3');title.textContent='PUBLICACIÓN EN X';title.style.margin='24px 0 10px';
-  const wrap=document.createElement('div');wrap.className='x-embed';wrap.dataset.tweetId=id;wrap.style.cssText='width:100%;max-width:600px;height:680px;min-height:420px;margin:22px auto;border-radius:10px;overflow:hidden;background:#000';
-  const frame=document.createElement('iframe');
-  frame.src='https://platform.twitter.com/embed/Tweet.html?id='+encodeURIComponent(id)+'&theme=dark&dnt=true&conversation=none';
-  frame.title='Publicación de X embebida en RanaSports';
-  frame.loading='lazy';frame.allow='autoplay; encrypted-media; fullscreen; picture-in-picture';frame.allowFullscreen=true;
-  frame.referrerPolicy='strict-origin-when-cross-origin';
-  frame.setAttribute('sandbox','allow-scripts allow-same-origin allow-forms allow-presentation allow-popups allow-popups-to-escape-sandbox allow-modals');
-  frame.style.cssText='display:block;width:100%;height:100%;border:0;background:#000';
-  wrap.append(frame);
-  const fallback=document.createElement('a');fallback.href=url;fallback.target='_blank';fallback.rel='noopener noreferrer';fallback.className='embed-fallback';fallback.textContent='Abrir publicación original ↗';
+  if(body.querySelector('[data-tweet-id="'+CSS.escape(id)+'"]'))return;
+  let handle='';
+  try{handle=new URL(url).pathname.split('/').filter(Boolean)[0]||'';}catch{}
+  if(!handle)return;
+  const direct='https://fxtwitter.com/'+encodeURIComponent(handle)+'/status/'+id+'.mp4';
+  const section=document.createElement('section');section.className='x-backup-block';section.dataset.tweetId=id;
+  const title=document.createElement('h3');title.textContent='VIDEO EN X';title.style.margin='24px 0 10px';
+  const wrap=document.createElement('div');wrap.style.cssText='width:100%;max-width:760px;margin:22px auto;border-radius:10px;overflow:hidden;background:#000';
+  const video=document.createElement('video');
+  video.controls=true;video.playsInline=true;video.preload='metadata';video.src=direct;
+  video.style.cssText='display:block;width:100%;max-height:78vh;background:#000';
+  video.addEventListener('error',()=>{wrap.remove();title.textContent='PUBLICACIÓN EN X';},{once:true});
+  wrap.append(video);
+  const fallback=document.createElement('a');fallback.href=url;fallback.target='_blank';fallback.rel='noopener noreferrer';fallback.className='embed-fallback';fallback.textContent='Fuente: publicación original en X ↗';
   section.append(title,wrap,fallback);body.append(section);
  }
  async function hydrate(){
