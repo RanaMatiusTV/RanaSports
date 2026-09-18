@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T12:53:59.595Z",
+  "updatedAt": "2026-09-18T13:25:07.227Z",
   "trends": [
+    {
+      "query": "cuti romero",
+      "startedAt": "2026-09-18T12:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "causa de los cuadernos",
+      "startedAt": "2026-09-18T12:40:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "tilcayo",
       "startedAt": "2026-09-18T12:30:00.000Z",
@@ -11,7 +21,7 @@
     {
       "query": "tom hardy",
       "startedAt": "2026-09-18T12:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "hechos reales",
@@ -29,9 +39,9 @@
       "volume": 100
     },
     {
-      "query": "todo noticias",
+      "query": "iván schargrodsky",
       "startedAt": "2026-09-18T11:20:00.000Z",
-      "volume": 2000
+      "volume": 500
     },
     {
       "query": "sanciones internacionales contra irán",
@@ -41,17 +51,7 @@
     {
       "query": "18 de septiembre",
       "startedAt": "2026-09-18T11:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "hyrox",
-      "startedAt": "2026-09-18T10:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "clima san luis",
-      "startedAt": "2026-09-18T10:30:00.000Z",
-      "volume": 100
+      "volume": 500
     }
   ]
 }
