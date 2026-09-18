@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc4OTc2NTM4MDAwMCwiTEFTIExFT05BUyBHT0xFQVJPTiA1LTEgQSBDSElMRSBZIFlBIEVTVMOBTiBFTiBMQSBGSU5BTCJd": {
+      "account": "main",
+      "title": "LAS LEONAS GOLEARON 5-1 A CHILE Y YA ESTÁN EN LA FINAL",
+      "dueAt": "2026-09-18T21:25:00.000Z",
+      "bufferPostId": "6aadab30a4c300df329ec599",
+      "createdAt": "2026-09-18T21:20:48.372Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3NjE3MjAwMDAsIlBMQUNFTlRFLCBBVVRPQ1LDjVRJQ08gVFJBUyBFTCBERUJVVDog4oCcSEFZIFVOIE1PTlTDk04gREUgQ09TQVMgUE9SIE1FSk9SQVLigJ0iXQ": {
       "account": "main",
       "title": "PLACENTE, AUTOCRÍTICO TRAS EL DEBUT: “HAY UN MONTÓN DE COSAS POR MEJORAR”",
@@ -746,7 +753,7 @@
   },
   "nextAt": {
     "f1": "2026-09-18T14:35:00.000Z",
-    "main": "2026-09-18T20:35:00.000Z"
+    "main": "2026-09-18T21:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
