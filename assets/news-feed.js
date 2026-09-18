@@ -47,6 +47,14 @@
  function xPostId(url){
   try{const u=new URL(url);const parts=u.pathname.split('/').filter(Boolean);const si=parts.indexOf('status');const id=parts[si+1];return /^\d+$/.test(id||'')?id:'';}catch{return '';}
  }
+ function xDirectVideoURL(url){
+  try{
+   const u=new URL(url),parts=u.pathname.split('/').filter(Boolean),si=parts.indexOf('status');
+   const handle=parts[0],id=parts[si+1];
+   if(!handle||!/^\d+$/.test(id||''))return '';
+   return 'https://fxtwitter.com/'+encodeURIComponent(handle)+'/status/'+id+'.mp4';
+  }catch{return '';}
+ }
  function xPostToDirectImage(url){
   try{
    const u=new URL(url);const parts=u.pathname.split('/').filter(Boolean);const si=parts.indexOf('status');
@@ -119,18 +127,23 @@
  }
  function renderXPost(container,url){
   if(!isXPost(url)||container.querySelector('.video-embed,.x-embed,.instagram-embed'))return false;
-  const id=xPostId(url);if(!id)return false;
-  const wrap=element('div','x-embed');wrap.dataset.tweetId=id;
-  const frame=element('iframe');
-  frame.src='https://platform.twitter.com/embed/Tweet.html?id='+encodeURIComponent(id)+'&theme=dark&dnt=true&conversation=none';
-  frame.title='Publicación de X embebida en RanaSports';
-  frame.loading='lazy';
-  frame.allow='autoplay; encrypted-media; fullscreen; picture-in-picture';
-  frame.allowFullscreen=true;
-  frame.referrerPolicy='strict-origin-when-cross-origin';
-  frame.setAttribute('sandbox','allow-scripts allow-same-origin allow-forms allow-presentation allow-popups allow-popups-to-escape-sandbox allow-modals');
-  wrap.append(frame);
-  container.append(wrap,link(url,'Abrir publicación original ↗','embed-fallback'));
+  const direct=xDirectVideoURL(url);if(!direct)return false;
+  const wrap=element('div','x-embed x-video-native');
+  const video=element('video');
+  video.controls=true;
+  video.playsInline=true;
+  video.preload='metadata';
+  video.src=direct;
+  video.setAttribute('controlsList','nodownload');
+  video.setAttribute('disablePictureInPicture','false');
+  video.addEventListener('error',()=>{
+   wrap.replaceChildren(
+    element('p','embed-error','No se pudo cargar el video dentro de RanaSports.'),
+    link(url,'Abrir publicación original ↗','embed-fallback')
+   );
+  },{once:true});
+  wrap.append(video);
+  container.append(wrap,link(url,'Fuente: publicación original en X ↗','embed-fallback'));
   return true;
  }
  function withInstagramEmbeds(callback){
@@ -168,9 +181,7 @@
    .video-embed{position:relative;width:100%;aspect-ratio:16/9;margin:22px 0 8px;border-radius:10px;overflow:hidden;background:#000}
    .video-embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
    .embed-fallback{display:inline-block;margin:0 0 22px;font-size:.9rem}
-   .x-embed{width:100%;max-width:600px;height:680px;min-height:420px;margin:22px auto;border-radius:10px;overflow:hidden;background:#000}
-   .x-embed iframe{display:block;width:100%;height:100%;border:0;background:#000}
-   .x-embed .twitter-tweet{margin-left:auto!important;margin-right:auto!important}
+   .x-embed{width:100%;max-width:760px;margin:22px auto;border-radius:10px;overflow:hidden;background:#000}\n   .x-video-native video{display:block;width:100%;max-height:78vh;background:#000}\n   .x-embed .twitter-tweet{margin-left:auto!important;margin-right:auto!important}
    .article-image{display:block;width:100%;height:auto;object-fit:contain;object-position:center;border-radius:8px}
    .card-visual.news-image{aspect-ratio:16/9!important;min-height:0!important;padding:0!important;background:#171d24}
    .news-image img{display:block;width:100%;height:100%;object-fit:cover;object-position:50% 24%;transition:transform .25s}
