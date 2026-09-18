@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T07:25:45.408Z",
+  "updatedAt": "2026-09-18T07:51:29.658Z",
   "trends": [
     {
       "query": "gato",
@@ -22,11 +22,6 @@
       "query": "boca vs velez copa argentina",
       "startedAt": "2026-09-18T03:00:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "elina costantini",
-      "startedAt": "2026-09-18T02:40:00.000Z",
-      "volume": 1000
     },
     {
       "query": "partidos de copa libertadores",
@@ -52,6 +47,11 @@
       "query": "brad pitt",
       "startedAt": "2026-09-18T02:20:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "charlie hunnam",
+      "startedAt": "2026-09-18T02:10:00.000Z",
+      "volume": 100
     }
   ]
 }
