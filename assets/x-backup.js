@@ -39,7 +39,7 @@
   frame.title='Publicación de X embebida en RanaSports';
   frame.loading='lazy';frame.allow='autoplay; encrypted-media; fullscreen; picture-in-picture';frame.allowFullscreen=true;
   frame.referrerPolicy='strict-origin-when-cross-origin';
-  frame.setAttribute('sandbox','allow-scripts allow-same-origin allow-forms allow-presentation');
+  frame.setAttribute('sandbox','allow-scripts allow-same-origin allow-forms allow-presentation allow-popups allow-popups-to-escape-sandbox allow-modals');
   frame.style.cssText='display:block;width:100%;height:100%;border:0;background:#000';
   wrap.append(frame);
   const fallback=document.createElement('a');fallback.href=url;fallback.target='_blank';fallback.rel='noopener noreferrer';fallback.className='embed-fallback';fallback.textContent='Abrir publicación original ↗';
