@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTY5Mzg2MDAwMCwiQUxQSU5FIFNVTcOTIEEgTUlLRSBFTExJT1RUOiBVTiBFWCBNRVJDRURFUyBQQVJBIFBPVEVOQ0lBUiBFTCBBVVRPIERFIENPTEFQSU5UTyJd": {
+      "account": "f1",
+      "title": "ALPINE SUMÓ A MIKE ELLIOTT: UN EX MERCEDES PARA POTENCIAR EL AUTO DE COLAPINTO",
+      "dueAt": "2026-09-18T01:25:00.000Z",
+      "bufferPostId": "6aac926b8448254db2003a30",
+      "createdAt": "2026-09-18T01:22:51.399Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk2Nzk0MDAwMDAsIlBMQUNFTlRFLCBUUkFTIEVMIEdPTFBFIENPTiBQQVJBR1VBWTog4oCcSEFZIFVOIE1PTlTDk04gREUgQ09TQVMgUE9SIE1FSk9SQVLigJ0iXQ": {
       "account": "main",
       "title": "PLACENTE, TRAS EL GOLPE CON PARAGUAY: “HAY UN MONTÓN DE COSAS POR MEJORAR”",
@@ -619,7 +626,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-17T19:25:00.000Z",
+    "f1": "2026-09-18T01:30:00.000Z",
     "main": "2026-09-17T22:20:00.000Z"
   },
   "buffer": {
