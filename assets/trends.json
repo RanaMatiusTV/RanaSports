@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T17:22:40.831Z",
+  "updatedAt": "2026-09-18T17:49:28.825Z",
   "trends": [
     {
-      "query": "taller mecánico",
-      "startedAt": "2026-09-18T17:00:00.000Z",
+      "query": "dolarización",
+      "startedAt": "2026-09-18T17:30:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "2026",
+      "startedAt": "2026-09-18T17:20:00.000Z",
+      "volume": 2000
     },
     {
       "query": "club de fútbol",
@@ -15,6 +20,11 @@
     },
     {
       "query": "base naval",
+      "startedAt": "2026-09-18T17:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "taller mecánico",
       "startedAt": "2026-09-18T17:00:00.000Z",
       "volume": 100
     },
@@ -42,16 +52,6 @@
       "query": "administración nacional de la seguridad social",
       "startedAt": "2026-09-18T16:00:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "ceferino reato",
-      "startedAt": "2026-09-18T16:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "serie de televisión",
-      "startedAt": "2026-09-18T15:40:00.000Z",
-      "volume": 500
     }
   ]
 }
