@@ -30,7 +30,6 @@
   if(!isXPost(url))return;
   const body=document.querySelector('#newsDetail .article-body');if(!body||body.querySelector('.x-backup-block'))return;
   const id=xPostId(url);if(!id)return;
-  if(body.querySelector('.x-embed[data-tweet-id="'+CSS.escape(id)+'"]'))return;
   const section=document.createElement('section');section.className='x-backup-block';
   const title=document.createElement('h3');title.textContent='PUBLICACIÓN EN X';title.style.margin='24px 0 10px';
   const wrap=document.createElement('div');wrap.className='x-embed';wrap.dataset.tweetId=id;
