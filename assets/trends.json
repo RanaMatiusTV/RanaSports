@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T10:51:11.407Z",
+  "updatedAt": "2026-09-18T11:24:21.026Z",
   "trends": [
+    {
+      "query": "18 de septiembre",
+      "startedAt": "2026-09-18T11:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "hyrox",
+      "startedAt": "2026-09-18T10:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "clima san luis",
       "startedAt": "2026-09-18T10:30:00.000Z",
@@ -11,47 +21,37 @@
     {
       "query": "prisión preventiva",
       "startedAt": "2026-09-18T10:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "clima mar del plata",
+      "startedAt": "2026-09-18T10:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "bombero",
+      "startedAt": "2026-09-18T10:00:00.000Z",
       "volume": 200
     },
     {
       "query": "horóscopo",
       "startedAt": "2026-09-18T09:50:00.000Z",
-      "volume": 100
+      "volume": 200
+    },
+    {
+      "query": "clima",
+      "startedAt": "2026-09-18T09:30:00.000Z",
+      "volume": 200000
     },
     {
       "query": "choque frontal",
       "startedAt": "2026-09-18T09:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "misiones",
       "startedAt": "2026-09-18T09:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "control de alcoholemia",
-      "startedAt": "2026-09-18T09:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "pronostico posadas",
-      "startedAt": "2026-09-18T09:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "la plata",
-      "startedAt": "2026-09-18T09:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "2027",
-      "startedAt": "2026-09-18T08:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "valle salvaje",
-      "startedAt": "2026-09-18T08:30:00.000Z",
-      "volume": 100
     }
   ]
 }
