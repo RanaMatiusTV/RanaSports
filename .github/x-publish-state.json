@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk4MzQ2MjAwMDAsIlNDQUxPTkkgREVKw5MgVU4gR1VJw5FPIFNPQlJFIFNVIENPTlRJTlVJREFEOiDigJxMTyBJTlRFTlRBUkVNT1PigJ0iXQ": {
+      "account": "main",
+      "title": "SCALONI DEJÓ UN GUIÑO SOBRE SU CONTINUIDAD: “LO INTENTAREMOS”",
+      "dueAt": "2026-09-19T20:35:00.000Z",
+      "bufferPostId": "6aaef0f23916ba5b752df0c4",
+      "createdAt": "2026-09-19T20:30:42.208Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk4Mzg4MjAwMDAsIkxBIERFU1BFRElEQSBERSBNRVNTSSBZQSBUSUVORSBQUkVDSU9TOiBERSAkOTAuMDAwIEEgJDQ4MC4wMDAgUEFSQSBWRVIgRUwgw5pMVElNTyBUQU5HTyJd": {
       "account": "main",
       "title": "LA DESPEDIDA DE MESSI YA TIENE PRECIOS: DE $90.000 A $480.000 PARA VER EL ÚLTIMO TANGO",
@@ -844,7 +851,7 @@
   },
   "nextAt": {
     "f1": "2026-09-19T01:20:00.000Z",
-    "main": "2026-09-19T18:30:00.000Z"
+    "main": "2026-09-19T20:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
