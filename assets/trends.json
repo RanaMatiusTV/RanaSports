@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T13:24:03.277Z",
+  "updatedAt": "2026-09-19T13:49:36.477Z",
   "trends": [
+    {
+      "query": "maps",
+      "startedAt": "2026-09-19T12:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "la nacion",
       "startedAt": "2026-09-19T11:10:00.000Z",
@@ -16,12 +21,12 @@
     {
       "query": "infobae",
       "startedAt": "2026-09-19T10:50:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "clarin",
       "startedAt": "2026-09-19T10:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "tn",
@@ -47,11 +52,6 @@
       "query": "racing de cordoba",
       "startedAt": "2026-09-19T02:10:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "chechu bonelli",
-      "startedAt": "2026-09-19T01:50:00.000Z",
-      "volume": 5000
     }
   ]
 }
