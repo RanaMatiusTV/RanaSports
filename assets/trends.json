@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T04:50:28.726Z",
+  "updatedAt": "2026-09-19T05:23:26.859Z",
   "trends": [
     {
       "query": "west ham",
       "startedAt": "2026-09-19T03:40:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "juárez - tigres",
       "startedAt": "2026-09-19T03:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "racing de cordoba",
