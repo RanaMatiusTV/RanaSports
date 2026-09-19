@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODIyODAwMDAwLCJJTkRFUEVORElFTlRFIEZFTUVOSU5PIFZJU0lUQSBBIEJPQ0E6IFBBUlRJRE8gQlJBVk8gRU4gQ0FTQSBERSBMQVMgR0xBRElBRE9SQVMiXQ": {
+      "account": "main",
+      "title": "INDEPENDIENTE FEMENINO VISITA A BOCA: PARTIDO BRAVO EN CASA DE LAS GLADIADORAS",
+      "dueAt": "2026-09-19T13:35:00.000Z",
+      "bufferPostId": "6aae8e3d24705c9044a5ea3b",
+      "createdAt": "2026-09-19T13:29:33.887Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk4MjI2ODAwMDAsIlNDQUxPTkkgTExFR8OTIEFMIFBBw41TIENPTiBTVSBGVVRVUk8gQUJJRVJUTyBZIFJFVU5JT05FUyBDTEFWRSBDT04gVEFQSUEgRU4gQUdFTkRBIl0": {
       "account": "main",
       "title": "SCALONI LLEGÓ AL PAÍS CON SU FUTURO ABIERTO Y REUNIONES CLAVE CON TAPIA EN AGENDA",
@@ -809,7 +816,7 @@
   },
   "nextAt": {
     "f1": "2026-09-19T01:20:00.000Z",
-    "main": "2026-09-19T13:25:00.000Z"
+    "main": "2026-09-19T13:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
