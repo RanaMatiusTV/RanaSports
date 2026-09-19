@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T22:23:11.054Z",
+  "updatedAt": "2026-09-19T22:49:39.781Z",
   "trends": [
     {
-      "query": "river vs huracan",
-      "startedAt": "2026-09-19T21:50:00.000Z",
-      "volume": 200
+      "query": "river plate - huracán",
+      "startedAt": "2026-09-19T22:10:00.000Z",
+      "volume": 500
     },
     {
       "query": "roma fc",
@@ -26,7 +26,7 @@
     {
       "query": "weather tomorrow",
       "startedAt": "2026-09-19T13:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "play store",
