@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T11:23:10.218Z",
+  "updatedAt": "2026-09-19T11:49:31.187Z",
   "trends": [
+    {
+      "query": "la nacion",
+      "startedAt": "2026-09-19T11:10:00.000Z",
+      "volume": 500
+    },
     {
       "query": "google",
       "startedAt": "2026-09-19T11:00:00.000Z",
@@ -16,7 +21,7 @@
     {
       "query": "clarin",
       "startedAt": "2026-09-19T10:30:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "west ham",
@@ -47,11 +52,6 @@
       "query": "charlie hunnam",
       "startedAt": "2026-09-19T01:50:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "ella beatty",
-      "startedAt": "2026-09-19T01:50:00.000Z",
-      "volume": 100
     }
   ]
 }
