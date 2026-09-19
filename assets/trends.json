@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T03:50:41.779Z",
+  "updatedAt": "2026-09-19T04:25:06.598Z",
   "trends": [
+    {
+      "query": "west ham",
+      "startedAt": "2026-09-19T03:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "juárez - tigres",
       "startedAt": "2026-09-19T03:20:00.000Z",
@@ -19,14 +24,14 @@
       "volume": 5000
     },
     {
-      "query": "luiz inácio lula da silva",
+      "query": "charlie hunnam",
       "startedAt": "2026-09-19T01:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "charlie hunnam",
+      "query": "luiz inácio lula da silva",
       "startedAt": "2026-09-19T01:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "ella beatty",
@@ -37,11 +42,6 @@
       "query": "cazzu",
       "startedAt": "2026-09-19T01:40:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "alianza lima",
-      "startedAt": "2026-09-19T01:30:00.000Z",
-      "volume": 1000
     },
     {
       "query": "cautiva",
