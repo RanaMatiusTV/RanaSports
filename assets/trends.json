@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T12:29:03.135Z",
+  "updatedAt": "2026-09-19T12:52:42.426Z",
   "trends": [
     {
       "query": "la nacion",
@@ -39,6 +39,11 @@
       "volume": 500
     },
     {
+      "query": "resident evil noche cero",
+      "startedAt": "2026-09-19T02:50:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "racing de cordoba",
       "startedAt": "2026-09-19T02:10:00.000Z",
       "volume": 100
@@ -47,11 +52,6 @@
       "query": "chechu bonelli",
       "startedAt": "2026-09-19T01:50:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "luiz inácio lula da silva",
-      "startedAt": "2026-09-19T01:50:00.000Z",
-      "volume": 200
     }
   ]
 }
