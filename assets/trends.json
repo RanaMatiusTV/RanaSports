@@ -1,13 +1,8 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T02:24:42.587Z",
+  "updatedAt": "2026-09-19T02:50:35.163Z",
   "trends": [
-    {
-      "query": "racing de cordoba",
-      "startedAt": "2026-09-19T02:10:00.000Z",
-      "volume": 1000
-    },
     {
       "query": "luiz inácio lula da silva",
       "startedAt": "2026-09-19T01:50:00.000Z",
@@ -41,7 +36,7 @@
     {
       "query": "crónica",
       "startedAt": "2026-09-19T00:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "emilia attias",
@@ -52,6 +47,11 @@
       "query": "alianza lima - adt",
       "startedAt": "2026-09-19T00:20:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "aucas - macará",
+      "startedAt": "2026-09-19T00:20:00.000Z",
+      "volume": 200
     }
   ]
 }
