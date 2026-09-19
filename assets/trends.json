@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T13:49:36.477Z",
+  "updatedAt": "2026-09-19T14:23:48.177Z",
   "trends": [
+    {
+      "query": "tottenham",
+      "startedAt": "2026-09-19T12:30:00.000Z",
+      "volume": 100
+    },
     {
       "query": "maps",
       "startedAt": "2026-09-19T12:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "la nacion",
@@ -31,12 +36,12 @@
     {
       "query": "tn",
       "startedAt": "2026-09-19T10:20:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "west ham",
       "startedAt": "2026-09-19T03:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "juárez - tigres",
@@ -46,11 +51,6 @@
     {
       "query": "resident evil noche cero",
       "startedAt": "2026-09-19T02:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "racing de cordoba",
-      "startedAt": "2026-09-19T02:10:00.000Z",
       "volume": 100
     }
   ]
