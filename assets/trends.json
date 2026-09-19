@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T11:49:31.187Z",
+  "updatedAt": "2026-09-19T12:29:03.135Z",
   "trends": [
     {
       "query": "la nacion",
@@ -11,17 +11,22 @@
     {
       "query": "google",
       "startedAt": "2026-09-19T11:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "infobae",
       "startedAt": "2026-09-19T10:50:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "clarin",
       "startedAt": "2026-09-19T10:30:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "tn",
+      "startedAt": "2026-09-19T10:20:00.000Z",
+      "volume": 100
     },
     {
       "query": "west ham",
@@ -45,11 +50,6 @@
     },
     {
       "query": "luiz inácio lula da silva",
-      "startedAt": "2026-09-19T01:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "charlie hunnam",
       "startedAt": "2026-09-19T01:50:00.000Z",
       "volume": 200
     }
