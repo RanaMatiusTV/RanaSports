@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc4OTg1MTcyMDAwMCwiTEFVVEFSTyBSRVNDQVTDkyBBTCBJTlRFUjogRE9CTEVURSBQQVJBIExFVkFOVEFSIFVOIDAtMiBBTlRFIFJPTUEiXQ": {
+      "account": "main",
+      "title": "LAUTARO RESCATÓ AL INTER: DOBLETE PARA LEVANTAR UN 0-2 ANTE ROMA",
+      "dueAt": "2026-09-19T21:25:00.000Z",
+      "bufferPostId": "6aaefbf63916ba5b752f023c",
+      "createdAt": "2026-09-19T21:17:42.531Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODUxMDYwMDAwLCJJTkRFUEVORElFTlRFIFZJU0lUQSBBIFVOScOTTiBDT04gVVJHRU5DSUEgREUgVk9MVkVSIEEgR0FOQVIgRU4gRUwgQ0xBVVNVUkEiXQ": {
+      "account": "main",
+      "title": "INDEPENDIENTE VISITA A UNIÓN CON URGENCIA DE VOLVER A GANAR EN EL CLAUSURA",
+      "dueAt": "2026-09-19T21:20:00.000Z",
+      "bufferPostId": "6aaefbf513d908add2064474",
+      "createdAt": "2026-09-19T21:17:41.677Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk4MzQ2MjAwMDAsIlNDQUxPTkkgREVKw5MgVU4gR1VJw5FPIFNPQlJFIFNVIENPTlRJTlVJREFEOiDigJxMTyBJTlRFTlRBUkVNT1PigJ0iXQ": {
       "account": "main",
       "title": "SCALONI DEJÓ UN GUIÑO SOBRE SU CONTINUIDAD: “LO INTENTAREMOS”",
@@ -851,7 +865,7 @@
   },
   "nextAt": {
     "f1": "2026-09-19T01:20:00.000Z",
-    "main": "2026-09-19T20:40:00.000Z"
+    "main": "2026-09-19T21:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
