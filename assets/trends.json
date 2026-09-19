@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T12:52:42.426Z",
+  "updatedAt": "2026-09-19T13:24:03.277Z",
   "trends": [
     {
       "query": "la nacion",
       "startedAt": "2026-09-19T11:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "google",
       "startedAt": "2026-09-19T11:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "infobae",
