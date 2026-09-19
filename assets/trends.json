@@ -1,12 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-18T23:50:33.391Z",
+  "updatedAt": "2026-09-19T00:31:42.774Z",
   "trends": [
     {
-      "query": "refinanciación",
-      "startedAt": "2026-09-18T23:30:00.000Z",
-      "volume": 500
+      "query": "toronto tempo - fever",
+      "startedAt": "2026-09-19T00:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "julieta poggio",
+      "startedAt": "2026-09-19T00:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "dinamarca",
+      "startedAt": "2026-09-19T00:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "eugenio zanetti",
+      "startedAt": "2026-09-18T23:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "moria",
+      "startedAt": "2026-09-18T23:50:00.000Z",
+      "volume": 200
     },
     {
       "query": "ricardo darín",
@@ -14,44 +34,24 @@
       "volume": 500
     },
     {
+      "query": "refinanciación",
+      "startedAt": "2026-09-18T23:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "racing - sarmiento",
+      "startedAt": "2026-09-18T23:20:00.000Z",
+      "volume": 20000
+    },
+    {
       "query": "autódromo",
       "startedAt": "2026-09-18T23:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "racing",
-      "startedAt": "2026-09-18T22:50:00.000Z",
-      "volume": 5000
-    },
-    {
       "query": "emiliano martínez",
       "startedAt": "2026-09-18T22:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "brian sarmiento",
-      "startedAt": "2026-09-18T22:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gobierno",
-      "startedAt": "2026-09-18T22:30:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "agustín marchesín",
-      "startedAt": "2026-09-18T22:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "uber",
-      "startedAt": "2026-09-18T22:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "la cámpora",
-      "startedAt": "2026-09-18T22:00:00.000Z",
-      "volume": 2000
     }
   ]
 }
