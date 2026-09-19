@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T02:50:35.163Z",
+  "updatedAt": "2026-09-19T03:24:46.053Z",
   "trends": [
+    {
+      "query": "racing de cordoba",
+      "startedAt": "2026-09-19T02:10:00.000Z",
+      "volume": 100
+    },
     {
       "query": "luiz inácio lula da silva",
       "startedAt": "2026-09-19T01:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "charlie hunnam",
@@ -44,13 +49,8 @@
       "volume": 500
     },
     {
-      "query": "alianza lima - adt",
-      "startedAt": "2026-09-19T00:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "aucas - macará",
-      "startedAt": "2026-09-19T00:20:00.000Z",
+      "query": "masterchef",
+      "startedAt": "2026-09-19T00:30:00.000Z",
       "volume": 200
     }
   ]
