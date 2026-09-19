@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T20:49:35.199Z",
+  "updatedAt": "2026-09-19T21:23:05.609Z",
   "trends": [
     {
       "query": "roma fc",
@@ -19,12 +19,12 @@
       "volume": 100
     },
     {
-      "query": "weather tomorrow",
+      "query": "play store",
       "startedAt": "2026-09-19T13:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "play store",
+      "query": "weather tomorrow",
       "startedAt": "2026-09-19T13:10:00.000Z",
       "volume": 100
     },
