@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T14:49:25.424Z",
+  "updatedAt": "2026-09-19T15:23:35.344Z",
   "trends": [
+    {
+      "query": "arsenal",
+      "startedAt": "2026-09-19T14:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "tottenham",
       "startedAt": "2026-09-19T12:30:00.000Z",
@@ -11,17 +16,17 @@
     {
       "query": "maps",
       "startedAt": "2026-09-19T12:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "la nacion",
       "startedAt": "2026-09-19T11:10:00.000Z",
-      "volume": 1000
+      "volume": 500
     },
     {
       "query": "google",
       "startedAt": "2026-09-19T11:00:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "infobae",
@@ -46,11 +51,6 @@
     {
       "query": "west ham",
       "startedAt": "2026-09-19T03:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "juárez - tigres",
-      "startedAt": "2026-09-19T03:20:00.000Z",
       "volume": 500
     }
   ]
