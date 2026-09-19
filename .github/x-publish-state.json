@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk4Mzg4MjAwMDAsIkxBIERFU1BFRElEQSBERSBNRVNTSSBZQSBUSUVORSBQUkVDSU9TOiBERSAkOTAuMDAwIEEgJDQ4MC4wMDAgUEFSQSBWRVIgRUwgw5pMVElNTyBUQU5HTyJd": {
+      "account": "main",
+      "title": "LA DESPEDIDA DE MESSI YA TIENE PRECIOS: DE $90.000 A $480.000 PARA VER EL ÚLTIMO TANGO",
+      "dueAt": "2026-09-19T18:25:00.000Z",
+      "bufferPostId": "6aaed2156e039ccbc8221086",
+      "createdAt": "2026-09-19T18:19:01.380Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc4OTgzNzMyMDAwMCwiQkFUQUNBWk8gRU4gSU5HTEFURVJSQTogQlJJR0hUT04gR09MRcOTIDMtMCBBTCBBUlNFTkFMIFkgTEUgU0FDw5MgRUwgSU5WSUNUTyJd": {
       "account": "main",
       "title": "BATACAZO EN INGLATERRA: BRIGHTON GOLEÓ 3-0 AL ARSENAL Y LE SACÓ EL INVICTO",
@@ -837,7 +844,7 @@
   },
   "nextAt": {
     "f1": "2026-09-19T01:20:00.000Z",
-    "main": "2026-09-19T17:25:00.000Z"
+    "main": "2026-09-19T18:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
