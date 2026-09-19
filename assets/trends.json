@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T00:31:42.774Z",
+  "updatedAt": "2026-09-19T00:52:53.871Z",
   "trends": [
+    {
+      "query": "emilia attias",
+      "startedAt": "2026-09-19T00:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "crónica",
+      "startedAt": "2026-09-19T00:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "masterchef",
+      "startedAt": "2026-09-19T00:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "aucas - macará",
+      "startedAt": "2026-09-19T00:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "alianza lima - adt",
+      "startedAt": "2026-09-19T00:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "toronto tempo - fever",
       "startedAt": "2026-09-19T00:10:00.000Z",
@@ -27,31 +52,6 @@
       "query": "moria",
       "startedAt": "2026-09-18T23:50:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "ricardo darín",
-      "startedAt": "2026-09-18T23:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "refinanciación",
-      "startedAt": "2026-09-18T23:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "racing - sarmiento",
-      "startedAt": "2026-09-18T23:20:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "autódromo",
-      "startedAt": "2026-09-18T23:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "emiliano martínez",
-      "startedAt": "2026-09-18T22:40:00.000Z",
-      "volume": 1000
     }
   ]
 }
