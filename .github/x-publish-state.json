@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc4OTgzNzMyMDAwMCwiQkFUQUNBWk8gRU4gSU5HTEFURVJSQTogQlJJR0hUT04gR09MRcOTIDMtMCBBTCBBUlNFTkFMIFkgTEUgU0FDw5MgRUwgSU5WSUNUTyJd": {
+      "account": "main",
+      "title": "BATACAZO EN INGLATERRA: BRIGHTON GOLEÓ 3-0 AL ARSENAL Y LE SACÓ EL INVICTO",
+      "dueAt": "2026-09-19T17:20:00.000Z",
+      "bufferPostId": "6aaec3ed140a3024025b8c46",
+      "createdAt": "2026-09-19T17:18:37.120Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk4MjcwNjAwMDAsIkxBIFNVQiAxOSBTRSBKVUVHQSBNVUNITyBBTlRFIFVSVUdVQVkgVFJBUyBFTCBHT0xQRSBERUwgREVCVVQgRU4gU0FOVEEgRkUgMjAyNiJd": {
       "account": "main",
       "title": "LA SUB 19 SE JUEGA MUCHO ANTE URUGUAY TRAS EL GOLPE DEL DEBUT EN SANTA FE 2026",
@@ -830,7 +837,7 @@
   },
   "nextAt": {
     "f1": "2026-09-19T01:20:00.000Z",
-    "main": "2026-09-19T14:30:00.000Z"
+    "main": "2026-09-19T17:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
