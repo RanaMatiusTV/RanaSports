@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T14:23:48.177Z",
+  "updatedAt": "2026-09-19T14:49:25.424Z",
   "trends": [
     {
       "query": "tottenham",
@@ -26,7 +26,7 @@
     {
       "query": "infobae",
       "startedAt": "2026-09-19T10:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "clarin",
@@ -39,6 +39,11 @@
       "volume": 200
     },
     {
+      "query": "adidas",
+      "startedAt": "2026-09-19T07:20:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "west ham",
       "startedAt": "2026-09-19T03:40:00.000Z",
       "volume": 500
@@ -47,11 +52,6 @@
       "query": "juárez - tigres",
       "startedAt": "2026-09-19T03:20:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "resident evil noche cero",
-      "startedAt": "2026-09-19T02:50:00.000Z",
-      "volume": 100
     }
   ]
 }
