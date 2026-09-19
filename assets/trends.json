@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T16:24:30.662Z",
+  "updatedAt": "2026-09-19T16:50:41.605Z",
   "trends": [
     {
       "query": "arsenal",
       "startedAt": "2026-09-19T14:50:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "telefe",
+      "startedAt": "2026-09-19T14:20:00.000Z",
+      "volume": 100
     },
     {
       "query": "play store",
@@ -47,11 +52,6 @@
       "query": "tn",
       "startedAt": "2026-09-19T10:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "adidas",
-      "startedAt": "2026-09-19T07:20:00.000Z",
-      "volume": 100
     }
   ]
 }
