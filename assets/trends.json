@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T17:49:47.172Z",
+  "updatedAt": "2026-09-19T18:26:15.285Z",
   "trends": [
+    {
+      "query": "roma fc",
+      "startedAt": "2026-09-19T17:00:00.000Z",
+      "volume": 100
+    },
     {
       "query": "arsenal",
       "startedAt": "2026-09-19T14:50:00.000Z",
@@ -47,11 +52,6 @@
       "query": "infobae",
       "startedAt": "2026-09-19T10:50:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "clarin",
-      "startedAt": "2026-09-19T10:30:00.000Z",
-      "volume": 500
     }
   ]
 }
