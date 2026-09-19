@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzg5NzgwMDgwMDAwLCJBUkdFTlRJTkEgQUNFTEVSQSBQT1IgTEEgRjE6IE5VRVZBUyBHRVNUSU9ORVMgUEFSQSBSRUNVUEVSQVIgRUwgR1JBTiBQUkVNSU8iXQ": {
+      "account": "f1",
+      "title": "ARGENTINA ACELERA POR LA F1: NUEVAS GESTIONES PARA RECUPERAR EL GRAN PREMIO",
+      "dueAt": "2026-09-19T01:15:00.000Z",
+      "bufferPostId": "6aade1191e8bdcdb523573ac",
+      "createdAt": "2026-09-19T01:10:50.088Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NzcyODgwMDAwLCJWQUxEw4laIFZPTFZJw5MgWSBDQUJSQUwgRU5UUsOTIEEgw5pMVElNTyBNT01FTlRPOiBMT1MgQ09OVk9DQURPUyBERSBJTkRFUEVORElFTlRFIFBBUkEgVklTSVRBUiBBIFVOScOTTiJd": {
       "account": "main",
       "title": "VALDÉZ VOLVIÓ Y CABRAL ENTRÓ A ÚLTIMO MOMENTO: LOS CONVOCADOS DE INDEPENDIENTE PARA VISITAR A UNIÓN",
@@ -766,7 +773,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-18T14:35:00.000Z",
+    "f1": "2026-09-19T01:20:00.000Z",
     "main": "2026-09-18T23:30:00.000Z"
   },
   "buffer": {
