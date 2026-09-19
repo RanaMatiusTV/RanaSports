@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk4MjI2ODAwMDAsIlNDQUxPTkkgTExFR8OTIEFMIFBBw41TIENPTiBTVSBGVVRVUk8gQUJJRVJUTyBZIFJFVU5JT05FUyBDTEFWRSBDT04gVEFQSUEgRU4gQUdFTkRBIl0": {
+      "account": "main",
+      "title": "SCALONI LLEGÓ AL PAÍS CON SU FUTURO ABIERTO Y REUNIONES CLAVE CON TAPIA EN AGENDA",
+      "dueAt": "2026-09-19T13:20:00.000Z",
+      "bufferPostId": "6aae8b3e65e5b8cd5b35a495",
+      "createdAt": "2026-09-19T13:16:46.822Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3OTEzNjAwMDAsIkxBIFNVQiAxOSBWQSBQT1IgTEEgUkVDVVBFUkFDScOTTjogQVJHRU5USU5BIEVORlJFTlRBIEEgVVJVR1VBWSBFTiBST1NBUklPIl0": {
       "account": "main",
       "title": "LA SUB 19 VA POR LA RECUPERACIÓN: ARGENTINA ENFRENTA A URUGUAY EN ROSARIO",
@@ -802,7 +809,7 @@
   },
   "nextAt": {
     "f1": "2026-09-19T01:20:00.000Z",
-    "main": "2026-09-19T04:30:00.000Z"
+    "main": "2026-09-19T13:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
