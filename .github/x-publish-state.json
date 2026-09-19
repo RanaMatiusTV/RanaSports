@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODU1NTYwMDAwLCJJTkRFUEVORElFTlRFIExPIERJTyBWVUVMVEEgRU4gU0FOVEEgRkU6IDItMSBBIFVOScOTTiBDT04gVU5BIFLDgUZBR0EgREUgTU9OVElFTCBZIE1FWkEiXQ": {
+      "account": "main",
+      "title": "INDEPENDIENTE LO DIO VUELTA EN SANTA FE: 2-1 A UNIÓN CON UNA RÁFAGA DE MONTIEL Y MEZA",
+      "dueAt": "2026-09-19T22:25:00.000Z",
+      "bufferPostId": "6aaf09de3916ba5b753037c3",
+      "createdAt": "2026-09-19T22:17:02.661Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODU1NTAwMDAwLCJNRVpBIFZPTFZJw5MgQUwgR09MIENPTiBVTkEgSk9ZQTogRUwgREVSRUNIQVpPIFFVRSBTRUxMw5MgTEEgUkVNT05UQURBIERFTCBST0pPIl0": {
+      "account": "main",
+      "title": "MEZA VOLVIÓ AL GOL CON UNA JOYA: EL DERECHAZO QUE SELLÓ LA REMONTADA DEL ROJO",
+      "dueAt": "2026-09-19T22:20:00.000Z",
+      "bufferPostId": "6aaf09debb86436624a8f204",
+      "createdAt": "2026-09-19T22:17:02.287Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc4OTg1MTcyMDAwMCwiTEFVVEFSTyBSRVNDQVTDkyBBTCBJTlRFUjogRE9CTEVURSBQQVJBIExFVkFOVEFSIFVOIDAtMiBBTlRFIFJPTUEiXQ": {
       "account": "main",
       "title": "LAUTARO RESCATÓ AL INTER: DOBLETE PARA LEVANTAR UN 0-2 ANTE ROMA",
@@ -865,7 +879,7 @@
   },
   "nextAt": {
     "f1": "2026-09-19T01:20:00.000Z",
-    "main": "2026-09-19T21:30:00.000Z"
+    "main": "2026-09-19T22:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
