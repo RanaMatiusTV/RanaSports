@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T04:25:06.598Z",
+  "updatedAt": "2026-09-19T04:50:28.726Z",
   "trends": [
     {
       "query": "west ham",
@@ -24,12 +24,12 @@
       "volume": 5000
     },
     {
-      "query": "charlie hunnam",
+      "query": "luiz inácio lula da silva",
       "startedAt": "2026-09-19T01:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "luiz inácio lula da silva",
+      "query": "charlie hunnam",
       "startedAt": "2026-09-19T01:50:00.000Z",
       "volume": 200
     },
