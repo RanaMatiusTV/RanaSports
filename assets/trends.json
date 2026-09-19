@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T16:50:41.605Z",
+  "updatedAt": "2026-09-19T17:22:20.515Z",
   "trends": [
     {
       "query": "arsenal",
@@ -16,6 +16,11 @@
     {
       "query": "play store",
       "startedAt": "2026-09-19T13:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "lanacion",
+      "startedAt": "2026-09-19T12:50:00.000Z",
       "volume": 100
     },
     {
@@ -47,11 +52,6 @@
       "query": "clarin",
       "startedAt": "2026-09-19T10:30:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "tn",
-      "startedAt": "2026-09-19T10:20:00.000Z",
-      "volume": 200
     }
   ]
 }
