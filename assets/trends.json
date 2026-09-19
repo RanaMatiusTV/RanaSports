@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T20:23:56.685Z",
+  "updatedAt": "2026-09-19T20:49:35.199Z",
   "trends": [
     {
       "query": "roma fc",
@@ -16,6 +16,11 @@
     {
       "query": "telefe",
       "startedAt": "2026-09-19T14:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "weather tomorrow",
+      "startedAt": "2026-09-19T13:10:00.000Z",
       "volume": 100
     },
     {
@@ -47,11 +52,6 @@
       "query": "google",
       "startedAt": "2026-09-19T11:00:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "infobae",
-      "startedAt": "2026-09-19T10:50:00.000Z",
-      "volume": 2000
     }
   ]
 }
