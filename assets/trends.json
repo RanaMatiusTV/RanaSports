@@ -1,11 +1,16 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T15:49:38.968Z",
+  "updatedAt": "2026-09-19T16:24:30.662Z",
   "trends": [
     {
       "query": "arsenal",
       "startedAt": "2026-09-19T14:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "play store",
+      "startedAt": "2026-09-19T13:10:00.000Z",
       "volume": 100
     },
     {
@@ -47,11 +52,6 @@
       "query": "adidas",
       "startedAt": "2026-09-19T07:20:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "west ham",
-      "startedAt": "2026-09-19T03:40:00.000Z",
-      "volume": 500
     }
   ]
 }
