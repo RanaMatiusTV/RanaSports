@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T21:49:26.802Z",
+  "updatedAt": "2026-09-19T22:23:11.054Z",
   "trends": [
+    {
+      "query": "river vs huracan",
+      "startedAt": "2026-09-19T21:50:00.000Z",
+      "volume": 200
+    },
     {
       "query": "roma fc",
       "startedAt": "2026-09-19T17:00:00.000Z",
@@ -47,11 +52,6 @@
       "query": "la nacion",
       "startedAt": "2026-09-19T11:10:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "google",
-      "startedAt": "2026-09-19T11:00:00.000Z",
-      "volume": 1000
     }
   ]
 }
