@@ -59,6 +59,13 @@
   const url=safeURL(value);if(!url)return '';
   if(isXPost(url))return xPostToDirectImage(url);
   if(isInstagramPost(url))return '';
+  try{
+   const u=new URL(url);
+   if(/(^|\.)wikimedia\.org$/.test(u.hostname)&&u.pathname.startsWith('/wiki/Special:Redirect/file/')){
+    const file=decodeURIComponent(u.pathname.split('/').pop()||'');
+    if(file)return 'https://commons.wikimedia.org/wiki/Special:Redirect/file/'+encodeURIComponent(file)+'?width=1200';
+   }
+  }catch{}
   return url;
  }
  function proxiedImageURL(url){
@@ -181,7 +188,7 @@
  }
  function appendArticlePhoto(item){
   if(!item.image)return;
-  const figure=element('figure','article-photo'),img=element('img','article-image');img.src=item.image;img.alt=item.title;img.width=800;img.height=450;img.decoding='async';img.referrerPolicy='no-referrer';imageWithFallback(img,item.image,()=>{figure.remove();queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));});figure.append(img);if(item.photoCredit)figure.append(element('figcaption','photo-credit','Foto: '+item.photoCredit));detail.append(figure);
+  const figure=element('figure','article-photo'),img=element('img','article-image');img.src=item.image;img.alt=item.title;img.width=800;img.height=450;img.decoding='async';img.referrerPolicy='no-referrer';img.crossOrigin='anonymous';imageWithFallback(img,item.image,()=>{figure.remove();queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));});figure.append(img);if(item.photoCredit)figure.append(element('figcaption','photo-credit','Foto: '+item.photoCredit));detail.append(figure);
  }
  function renderDetail(news){
   const requested=new URL(location.href).searchParams.get('n');const item=news.find(x=>new URL(articleURL(x)).searchParams.get('n')===requested);detail.replaceChildren();
