@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T21:49:17.314Z",
+  "updatedAt": "2026-09-20T22:23:46.157Z",
   "trends": [
     {
       "query": "tabla anual",
@@ -19,6 +19,11 @@
       "volume": 10000
     },
     {
+      "query": "atletico",
+      "startedAt": "2026-09-20T16:10:00.000Z",
+      "volume": 200
+    },
+    {
       "query": "la liga",
       "startedAt": "2026-09-20T15:20:00.000Z",
       "volume": 200
@@ -31,7 +36,7 @@
     {
       "query": "atletico madrid",
       "startedAt": "2026-09-20T14:40:00.000Z",
-      "volume": 1000
+      "volume": 500
     },
     {
       "query": "real madrid",
@@ -47,11 +52,6 @@
       "query": "apagón eléctrico",
       "startedAt": "2026-09-20T12:10:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "smn",
-      "startedAt": "2026-09-20T11:50:00.000Z",
-      "volume": 200
     }
   ]
 }
