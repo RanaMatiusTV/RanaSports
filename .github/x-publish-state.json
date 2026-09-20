@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODY1ODIwMDAwLCJJTlNVTFRPUyBDT05UUkEgQ0hJUVVJIFRBUElBIEVOIFNBTlRBIEZFOiBMQSBUUklCVU5BIERFIFVOScOTTiBFWFBMT1TDkyBEVVJBTlRFIEVMIFBBUlRJRE8gQ09OIElOREVQRU5ESUVOVEUiXQ": {
+      "account": "main",
+      "title": "INSULTOS CONTRA CHIQUI TAPIA EN SANTA FE: LA TRIBUNA DE UNIÓN EXPLOTÓ DURANTE EL PARTIDO CON INDEPENDIENTE",
+      "dueAt": "2026-09-20T01:25:00.000Z",
+      "bufferPostId": "6aaf351ea490f1cf65d58824",
+      "createdAt": "2026-09-20T01:21:34.936Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODYxNTAwMDAwLCJWSUVSQSwgREVTUFXDiVMgREVMIFRSSVVORk8gREVMIFJPSk86IOKAnEVTVE9ZIEVOQ09OVFJBTkRPIEVMIEVRVUlQT-KAnSJd": {
       "account": "main",
       "title": "VIERA, DESPUÉS DEL TRIUNFO DEL ROJO: “ESTOY ENCONTRANDO EL EQUIPO”",
@@ -886,7 +893,7 @@
   },
   "nextAt": {
     "f1": "2026-09-19T01:20:00.000Z",
-    "main": "2026-09-20T00:30:00.000Z"
+    "main": "2026-09-20T01:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
