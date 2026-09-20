@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T15:24:03.760Z",
+  "updatedAt": "2026-09-20T15:50:12.045Z",
   "trends": [
+    {
+      "query": "city",
+      "startedAt": "2026-09-20T14:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "atletico madrid",
       "startedAt": "2026-09-20T14:40:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "real madrid",
@@ -22,6 +27,11 @@
       "query": "apagón eléctrico",
       "startedAt": "2026-09-20T12:10:00.000Z",
       "volume": 2000
+    },
+    {
+      "query": "smn",
+      "startedAt": "2026-09-20T11:50:00.000Z",
+      "volume": 100
     },
     {
       "query": "la nacion",
@@ -41,16 +51,6 @@
     {
       "query": "pelota",
       "startedAt": "2026-09-19T22:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "river vs huracan",
-      "startedAt": "2026-09-19T21:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "roma fc",
-      "startedAt": "2026-09-19T17:00:00.000Z",
       "volume": 100
     }
   ]
