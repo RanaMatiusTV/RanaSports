@@ -1,22 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T19:49:34.302Z",
+  "updatedAt": "2026-09-20T20:23:56.462Z",
   "trends": [
     {
-      "query": "boca vs san lorenzo",
-      "startedAt": "2026-09-20T16:20:00.000Z",
-      "volume": 5000
+      "query": "tabla anual",
+      "startedAt": "2026-09-20T19:50:00.000Z",
+      "volume": 200
     },
     {
-      "query": "city",
-      "startedAt": "2026-09-20T14:50:00.000Z",
+      "query": "lpf",
+      "startedAt": "2026-09-20T19:50:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "san lorenzo",
+      "startedAt": "2026-09-20T16:40:00.000Z",
+      "volume": 10000
     },
     {
       "query": "atletico madrid",
       "startedAt": "2026-09-20T14:40:00.000Z",
-      "volume": 1000
+      "volume": 500
     },
     {
       "query": "real madrid",
@@ -46,11 +51,6 @@
     {
       "query": "ufc",
       "startedAt": "2026-09-20T02:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "instituto",
-      "startedAt": "2026-09-20T01:40:00.000Z",
       "volume": 500
     }
   ]
