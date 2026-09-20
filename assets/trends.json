@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T21:23:39.853Z",
+  "updatedAt": "2026-09-20T21:49:17.314Z",
   "trends": [
     {
       "query": "tabla anual",
@@ -14,19 +14,9 @@
       "volume": 200
     },
     {
-      "query": "diario panorama",
-      "startedAt": "2026-09-20T17:40:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "boca vs san lorenzo",
       "startedAt": "2026-09-20T16:20:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "atletico",
-      "startedAt": "2026-09-20T16:10:00.000Z",
-      "volume": 200
     },
     {
       "query": "la liga",
@@ -41,7 +31,7 @@
     {
       "query": "atletico madrid",
       "startedAt": "2026-09-20T14:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "real madrid",
@@ -52,6 +42,16 @@
       "query": "manchester city",
       "startedAt": "2026-09-20T13:40:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "apagón eléctrico",
+      "startedAt": "2026-09-20T12:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "smn",
+      "startedAt": "2026-09-20T11:50:00.000Z",
+      "volume": 200
     }
   ]
 }
