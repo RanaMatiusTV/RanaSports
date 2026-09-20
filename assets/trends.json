@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T11:49:49.231Z",
+  "updatedAt": "2026-09-20T12:29:14.576Z",
   "trends": [
+    {
+      "query": "apagón eléctrico",
+      "startedAt": "2026-09-20T12:10:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "la nacion",
       "startedAt": "2026-09-20T11:10:00.000Z",
@@ -17,11 +22,6 @@
       "query": "instituto",
       "startedAt": "2026-09-20T01:40:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "corte de luz",
-      "startedAt": "2026-09-19T23:50:00.000Z",
-      "volume": 2000
     },
     {
       "query": "river plate - huracán",
