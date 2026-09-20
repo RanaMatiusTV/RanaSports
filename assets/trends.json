@@ -1,16 +1,31 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T01:50:50.938Z",
+  "updatedAt": "2026-09-20T02:25:16.587Z",
   "trends": [
+    {
+      "query": "ufc",
+      "startedAt": "2026-09-20T02:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "instituto",
+      "startedAt": "2026-09-20T01:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "corte de luz",
       "startedAt": "2026-09-19T23:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "river plate - huracán",
-      "startedAt": "2026-09-19T22:10:00.000Z",
+      "query": "como va river",
+      "startedAt": "2026-09-19T23:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "river vs huracan",
+      "startedAt": "2026-09-19T21:50:00.000Z",
       "volume": 5000
     },
     {
@@ -37,21 +52,6 @@
       "query": "play store",
       "startedAt": "2026-09-19T13:10:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "tottenham",
-      "startedAt": "2026-09-19T12:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "maps",
-      "startedAt": "2026-09-19T12:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "la nacion",
-      "startedAt": "2026-09-19T11:10:00.000Z",
-      "volume": 500
     }
   ]
 }
