@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T11:23:30.954Z",
+  "updatedAt": "2026-09-20T11:49:49.231Z",
   "trends": [
+    {
+      "query": "la nacion",
+      "startedAt": "2026-09-20T11:10:00.000Z",
+      "volume": 100
+    },
     {
       "query": "ufc",
       "startedAt": "2026-09-20T02:10:00.000Z",
@@ -47,11 +52,6 @@
       "query": "weather tomorrow",
       "startedAt": "2026-09-19T13:10:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "play store",
-      "startedAt": "2026-09-19T13:10:00.000Z",
-      "volume": 100
     }
   ]
 }
