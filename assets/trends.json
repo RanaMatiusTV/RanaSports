@@ -1,22 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T15:50:12.045Z",
+  "updatedAt": "2026-09-20T16:25:06.084Z",
   "trends": [
+    {
+      "query": "atletico madrid vs",
+      "startedAt": "2026-09-20T16:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "a que hora juega boca",
+      "startedAt": "2026-09-20T16:00:00.000Z",
+      "volume": 100
+    },
     {
       "query": "city",
       "startedAt": "2026-09-20T14:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "atletico madrid",
       "startedAt": "2026-09-20T14:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "real madrid",
       "startedAt": "2026-09-20T14:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "manchester city",
@@ -31,7 +41,7 @@
     {
       "query": "smn",
       "startedAt": "2026-09-20T11:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "la nacion",
@@ -42,16 +52,6 @@
       "query": "ufc",
       "startedAt": "2026-09-20T02:10:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "instituto",
-      "startedAt": "2026-09-20T01:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "pelota",
-      "startedAt": "2026-09-19T22:00:00.000Z",
-      "volume": 100
     }
   ]
 }
