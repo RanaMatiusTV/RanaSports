@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T13:50:34.374Z",
+  "updatedAt": "2026-09-20T14:23:50.511Z",
   "trends": [
+    {
+      "query": "real madrid",
+      "startedAt": "2026-09-20T14:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "manchester city",
+      "startedAt": "2026-09-20T13:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "apagón eléctrico",
       "startedAt": "2026-09-20T12:10:00.000Z",
@@ -42,11 +52,6 @@
       "query": "arsenal",
       "startedAt": "2026-09-19T14:50:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "telefe",
-      "startedAt": "2026-09-19T14:20:00.000Z",
-      "volume": 100
     }
   ]
 }
