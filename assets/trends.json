@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T12:29:14.576Z",
+  "updatedAt": "2026-09-20T12:53:03.781Z",
   "trends": [
     {
       "query": "apagón eléctrico",
       "startedAt": "2026-09-20T12:10:00.000Z",
-      "volume": 2000
+      "volume": 1000
     },
     {
       "query": "la nacion",
       "startedAt": "2026-09-20T11:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "ufc",
