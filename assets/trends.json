@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T12:53:03.781Z",
+  "updatedAt": "2026-09-20T13:24:03.912Z",
   "trends": [
     {
       "query": "apagón eléctrico",
       "startedAt": "2026-09-20T12:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "la nacion",
@@ -47,11 +47,6 @@
       "query": "telefe",
       "startedAt": "2026-09-19T14:20:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "weather tomorrow",
-      "startedAt": "2026-09-19T13:10:00.000Z",
-      "volume": 200
     }
   ]
 }
