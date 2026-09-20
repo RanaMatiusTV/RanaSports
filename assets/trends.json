@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T22:23:46.157Z",
+  "updatedAt": "2026-09-20T22:50:55.409Z",
   "trends": [
     {
       "query": "tabla anual",
@@ -17,11 +17,6 @@
       "query": "boca vs san lorenzo",
       "startedAt": "2026-09-20T16:20:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "atletico",
-      "startedAt": "2026-09-20T16:10:00.000Z",
-      "volume": 200
     },
     {
       "query": "la liga",
@@ -41,7 +36,7 @@
     {
       "query": "real madrid",
       "startedAt": "2026-09-20T14:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "manchester city",
@@ -52,6 +47,11 @@
       "query": "apagón eléctrico",
       "startedAt": "2026-09-20T12:10:00.000Z",
       "volume": 2000
+    },
+    {
+      "query": "smn",
+      "startedAt": "2026-09-20T11:50:00.000Z",
+      "volume": 200
     }
   ]
 }
