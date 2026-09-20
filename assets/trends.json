@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T03:51:49.875Z",
+  "updatedAt": "2026-09-20T04:25:40.196Z",
   "trends": [
     {
       "query": "ufc",
       "startedAt": "2026-09-20T02:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "instituto",
@@ -19,8 +19,8 @@
       "volume": 2000
     },
     {
-      "query": "river vs huracan",
-      "startedAt": "2026-09-19T21:50:00.000Z",
+      "query": "river plate - huracán",
+      "startedAt": "2026-09-19T22:10:00.000Z",
       "volume": 5000
     },
     {
