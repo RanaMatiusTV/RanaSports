@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T14:23:50.511Z",
+  "updatedAt": "2026-09-20T14:50:16.647Z",
   "trends": [
     {
       "query": "real madrid",
@@ -11,7 +11,7 @@
     {
       "query": "manchester city",
       "startedAt": "2026-09-20T13:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "apagón eléctrico",
@@ -34,24 +34,19 @@
       "volume": 500
     },
     {
-      "query": "river plate - huracán",
-      "startedAt": "2026-09-19T22:10:00.000Z",
-      "volume": 5000
-    },
-    {
       "query": "pelota",
       "startedAt": "2026-09-19T22:00:00.000Z",
       "volume": 100
     },
     {
+      "query": "river vs huracan",
+      "startedAt": "2026-09-19T21:50:00.000Z",
+      "volume": 5000
+    },
+    {
       "query": "roma fc",
       "startedAt": "2026-09-19T17:00:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "arsenal",
-      "startedAt": "2026-09-19T14:50:00.000Z",
-      "volume": 200
     }
   ]
 }
