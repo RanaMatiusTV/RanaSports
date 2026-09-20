@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T17:49:27.210Z",
+  "updatedAt": "2026-09-20T18:26:32.658Z",
   "trends": [
     {
       "query": "boca vs san lorenzo",
       "startedAt": "2026-09-20T16:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "atletico madrid vs",
