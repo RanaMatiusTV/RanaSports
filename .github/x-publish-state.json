@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJib2NhIiwxNzg5OTM0NTgwMDAwLCJCT0NBIEdBTsOTIEVMIENMw4FTSUNPOiAyLTAgQSBTQU4gTE9SRU5aTyBCQUpPIExBIExMVVZJQSBFTiBFTCBOVUVWTyBHQVPDk01FVFJPIl0": {
+      "account": "main",
+      "title": "BOCA GANÓ EL CLÁSICO: 2-0 A SAN LORENZO BAJO LA LLUVIA EN EL NUEVO GASÓMETRO",
+      "dueAt": "2026-09-20T20:20:00.000Z",
+      "bufferPostId": "6ab03f2ab07e536c5a1b579b",
+      "createdAt": "2026-09-20T20:16:42.398Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc4OTkyNDYyMDAwMCwiQVRMw4lUSUNPIEdBTsOTIEVMIERFUkJJOiAyLTEgQUwgUkVBTCBNQURSSUQgQ09OIERJRVogWSBHT0xQRSBBIExBIExJR0EiXQ": {
       "account": "main",
       "title": "ATLÉTICO GANÓ EL DERBI: 2-1 AL REAL MADRID CON DIEZ Y GOLPE A LA LIGA",
@@ -977,7 +984,7 @@
   },
   "nextAt": {
     "f1": "2026-09-20T13:45:00.000Z",
-    "main": "2026-09-20T18:00:00.000Z"
+    "main": "2026-09-20T20:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
