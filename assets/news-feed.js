@@ -6,7 +6,7 @@
  const script=document.querySelector('script[src*="assets/news-feed.js"]');
  const siteBase=new URL('../',script?.src||location.href);
  const CSV_URL='https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv';
- const CACHE_KEY='ranasports-news-csv-v101:'+siteBase.pathname;
+ const CACHE_KEY='ranasports-news-csv-v102:'+siteBase.pathname;
  const status=document.querySelector('#newsStatus');
  const categories={independiente:'Independiente',futbol:'Fútbol',f1:'F1',seleccion:'Selección Argentina',agenda:'Agenda'};
  const normalize=v=>(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase();
@@ -68,15 +68,54 @@
    return 'https://images.weserv.nl/?url='+encodeURIComponent(u.href)+'&w=1200&h=675&fit=cover&output=webp&q=82';
   }catch{return '';}
  }
- function imageWithFallback(img,primary,onFail){
-  let triedProxy=false;
-  img.addEventListener('error',()=>{
-   if(!triedProxy){
-    triedProxy=true;
-    const proxy=proxiedImageURL(img.currentSrc||img.src||primary);
-    if(proxy&&proxy!==img.src){img.src=proxy;return;}
+ function commonsFileName(url){
+  try{
+   const u=new URL(url);
+   if(!/(^|\\.)wikimedia\\.org$/.test(u.hostname)||!u.pathname.includes('/Special:Redirect/file/'))return '';
+   return decodeURIComponent(u.pathname.split('/Special:Redirect/file/')[1]||'').replace(/^File:/i,'').trim();
+  }catch{return '';}
+ }
+ async function commonsResolvedImage(url){
+  const file=commonsFileName(url);if(!file)return '';
+  const api='https://commons.wikimedia.org/w/api.php?';
+  const exact=new URLSearchParams({action:'query',titles:'File:'+file,prop:'imageinfo',iiprop:'url|mime',iiurlwidth:'1200',format:'json',formatversion:'2',origin:'*'});
+  try{
+   let r=await fetch(api+exact,{cache:'force-cache',credentials:'omit'});
+   if(r.ok){
+    let d=await r.json(),info=d?.query?.pages?.[0]?.imageinfo?.[0];
+    if(info&&/^image\\//i.test(info.mime||''))return info.thumburl||info.url||'';
    }
-   onFail?.();
+  }catch{}
+  const query=file.replace(/\\.[a-z0-9]+$/i,'').replace(/[_-]+/g,' ').trim();
+  if(!query)return '';
+  const search=new URLSearchParams({action:'query',generator:'search',gsrsearch:query,gsrnamespace:'6',gsrlimit:'8',prop:'imageinfo',iiprop:'url|mime',iiurlwidth:'1200',format:'json',formatversion:'2',origin:'*'});
+  try{
+   const r=await fetch(api+search,{cache:'force-cache',credentials:'omit'});if(!r.ok)return '';
+   const d=await r.json();
+   for(const page of d?.query?.pages||[]){
+    const info=page?.imageinfo?.[0];
+    if(info&&/^image\\/(jpeg|png|webp)$/i.test(info.mime||''))return info.thumburl||info.url||'';
+   }
+  }catch{}
+  return '';
+ }
+ function imageWithFallback(img,primary,onFail){
+  let stage=0,busy=false;
+  img.addEventListener('error',async()=>{
+   if(busy)return;busy=true;
+   try{
+    if(stage===0){
+     stage=1;
+     const resolved=await commonsResolvedImage(primary);
+     if(resolved&&resolved!==img.src){img.src=resolved;return;}
+    }
+    if(stage<=1){
+     stage=2;
+     const proxy=proxiedImageURL(img.currentSrc||img.src||primary);
+     if(proxy&&proxy!==img.src){img.src=proxy;return;}
+    }
+    stage=3;onFail?.();
+   }finally{busy=false;}
   });
  }
  function youtubeEmbedURL(url){
