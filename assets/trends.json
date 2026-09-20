@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-19T23:49:33.649Z",
+  "updatedAt": "2026-09-20T00:32:55.609Z",
   "trends": [
+    {
+      "query": "corte de luz",
+      "startedAt": "2026-09-19T23:50:00.000Z",
+      "volume": 500
+    },
     {
       "query": "river vs huracan",
       "startedAt": "2026-09-19T21:50:00.000Z",
-      "volume": 1000
+      "volume": 5000
     },
     {
       "query": "roma fc",
@@ -46,11 +51,6 @@
     {
       "query": "maps",
       "startedAt": "2026-09-19T12:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "la nacion",
-      "startedAt": "2026-09-19T11:10:00.000Z",
       "volume": 500
     }
   ]
