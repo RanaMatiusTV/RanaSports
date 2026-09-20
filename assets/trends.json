@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T23:23:13.072Z",
+  "updatedAt": "2026-09-20T23:49:25.768Z",
   "trends": [
     {
       "query": "belgrano",
@@ -17,6 +17,11 @@
       "query": "lpf",
       "startedAt": "2026-09-20T19:50:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "futbol en vivo",
+      "startedAt": "2026-09-20T17:50:00.000Z",
+      "volume": 100
     },
     {
       "query": "diario panorama",
@@ -36,11 +41,6 @@
     {
       "query": "la liga",
       "startedAt": "2026-09-20T15:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "city",
-      "startedAt": "2026-09-20T14:50:00.000Z",
       "volume": 200
     },
     {
