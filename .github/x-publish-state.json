@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODk4NjYyNDAwMDAsIkhVUkFDw4FOIExFIFBJTkNIw5MgRUwgR0xPQk8gQSBSSVZFUjogMi0xIEVOIEVMIE1PTlVNRU5UQUwgWSBQUklNRVJBIENBw41EQSBDT04gUE9OWklPIl0": {
+      "account": "main",
+      "title": "HURACÁN LE PINCHÓ EL GLOBO A RIVER: 2-1 EN EL MONUMENTAL Y PRIMERA CAÍDA CON PONZIO",
+      "dueAt": "2026-09-20T02:55:00.000Z",
+      "bufferPostId": "6aaf49e5b87fe81304576cc4",
+      "createdAt": "2026-09-20T02:50:13.461Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODY1ODIwMDAwLCJJTlNVTFRPUyBDT05UUkEgQ0hJUVVJIFRBUElBIEVOIFNBTlRBIEZFOiBMQSBUUklCVU5BIERFIFVOScOTTiBFWFBMT1TDkyBEVVJBTlRFIEVMIFBBUlRJRE8gQ09OIElOREVQRU5ESUVOVEUiXQ": {
       "account": "main",
       "title": "INSULTOS CONTRA CHIQUI TAPIA EN SANTA FE: LA TRIBUNA DE UNIÓN EXPLOTÓ DURANTE EL PARTIDO CON INDEPENDIENTE",
@@ -893,7 +900,7 @@
   },
   "nextAt": {
     "f1": "2026-09-19T01:20:00.000Z",
-    "main": "2026-09-20T02:40:00.000Z"
+    "main": "2026-09-20T03:00:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
