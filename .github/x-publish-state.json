@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODYxNTAwMDAwLCJWSUVSQSwgREVTUFXDiVMgREVMIFRSSVVORk8gREVMIFJPSk86IOKAnEVTVE9ZIEVOQ09OVFJBTkRPIEVMIEVRVUlQT-KAnSJd": {
+      "account": "main",
+      "title": "VIERA, DESPUÉS DEL TRIUNFO DEL ROJO: “ESTOY ENCONTRANDO EL EQUIPO”",
+      "dueAt": "2026-09-20T00:25:00.000Z",
+      "bufferPostId": "6aaf26d1bb86436624abe616",
+      "createdAt": "2026-09-20T00:20:33.374Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODU1NTYwMDAwLCJJTkRFUEVORElFTlRFIExPIERJTyBWVUVMVEEgRU4gU0FOVEEgRkU6IDItMSBBIFVOScOTTiBDT04gVU5BIFLDgUZBR0EgREUgTU9OVElFTCBZIE1FWkEiXQ": {
       "account": "main",
       "title": "INDEPENDIENTE LO DIO VUELTA EN SANTA FE: 2-1 A UNIÓN CON UNA RÁFAGA DE MONTIEL Y MEZA",
@@ -879,7 +886,7 @@
   },
   "nextAt": {
     "f1": "2026-09-19T01:20:00.000Z",
-    "main": "2026-09-19T22:30:00.000Z"
+    "main": "2026-09-20T00:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
