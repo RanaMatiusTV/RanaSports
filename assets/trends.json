@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T16:25:06.084Z",
+  "updatedAt": "2026-09-20T16:50:22.215Z",
   "trends": [
+    {
+      "query": "boca vs san lorenzo",
+      "startedAt": "2026-09-20T16:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "atletico madrid vs",
       "startedAt": "2026-09-20T16:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "a que hora juega boca",
-      "startedAt": "2026-09-20T16:00:00.000Z",
-      "volume": 100
     },
     {
       "query": "city",
