@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ0ZW5pcyIsMTc4OTg2OTg0MDAwMCwiUE9ET1JPU0tBIEJBSsOTIEEgQkFET1NBIFkgSlVHQVLDgSBMQSBQUklNRVJBIEZJTkFMIFdUQSBERSBTVSBDQVJSRVJBIl0": {
+      "account": "main",
+      "title": "PODOROSKA BAJÓ A BADOSA Y JUGARÁ LA PRIMERA FINAL WTA DE SU CARRERA",
+      "dueAt": "2026-09-20T03:50:00.000Z",
+      "bufferPostId": "6aaf56f313d908add20ddd34",
+      "createdAt": "2026-09-20T03:45:55.523Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODUzNjQwMDAwLCJWSUVSQSBURVJNSU7DkyBFWFBVTFNBRE8gRU4gU0FOVEEgRkUgRU4gRUwgQ0lFUlJFIENBTElFTlRFIEFOVEUgVU5Jw5NOIl0": {
       "account": "main",
       "title": "VIERA TERMINÓ EXPULSADO EN SANTA FE EN EL CIERRE CALIENTE ANTE UNIÓN",
@@ -914,7 +921,7 @@
   },
   "nextAt": {
     "f1": "2026-09-19T01:20:00.000Z",
-    "main": "2026-09-20T03:30:00.000Z"
+    "main": "2026-09-20T03:55:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
