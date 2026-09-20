@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODUzNjQwMDAwLCJWSUVSQSBURVJNSU7DkyBFWFBVTFNBRE8gRU4gU0FOVEEgRkUgRU4gRUwgQ0lFUlJFIENBTElFTlRFIEFOVEUgVU5Jw5NOIl0": {
+      "account": "main",
+      "title": "VIERA TERMINÓ EXPULSADO EN SANTA FE EN EL CIERRE CALIENTE ANTE UNIÓN",
+      "dueAt": "2026-09-20T03:25:00.000Z",
+      "bufferPostId": "6aaf50588d048c06b4f8081c",
+      "createdAt": "2026-09-20T03:17:44.865Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODQ4MzAwMDAwLCJBTEFSTUEgRU4gSU5ERVBFTkRJRU5URTogQ0hJTVkgw4FWSUxBIFNBTEnDkyBMRVNJT05BRE8gQU5URSBVTknDk04iXQ": {
+      "account": "main",
+      "title": "ALARMA EN INDEPENDIENTE: CHIMY ÁVILA SALIÓ LESIONADO ANTE UNIÓN",
+      "dueAt": "2026-09-20T03:20:00.000Z",
+      "bufferPostId": "6aaf50588d048c06b4f807f4",
+      "createdAt": "2026-09-20T03:17:44.349Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODk4NjYyNDAwMDAsIkhVUkFDw4FOIExFIFBJTkNIw5MgRUwgR0xPQk8gQSBSSVZFUjogMi0xIEVOIEVMIE1PTlVNRU5UQUwgWSBQUklNRVJBIENBw41EQSBDT04gUE9OWklPIl0": {
       "account": "main",
       "title": "HURACÁN LE PINCHÓ EL GLOBO A RIVER: 2-1 EN EL MONUMENTAL Y PRIMERA CAÍDA CON PONZIO",
@@ -900,7 +914,7 @@
   },
   "nextAt": {
     "f1": "2026-09-19T01:20:00.000Z",
-    "main": "2026-09-20T03:05:00.000Z"
+    "main": "2026-09-20T03:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
