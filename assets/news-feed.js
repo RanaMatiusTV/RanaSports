@@ -40,6 +40,10 @@
   if(!value?.trim())return '';
   try{const u=new URL(value.trim(),location.href);return ['http:','https:'].includes(u.protocol)?u.href:'';}catch{return '';}
  }
+ function imageDataURL(value){
+  const v=(value||'').trim();
+  return /^data:image\/(?:webp|png|jpeg);base64,[A-Za-z0-9+/=]+$/.test(v)?v:'';
+ }
  function isXPost(url){
   try{const u=new URL(url);return /(^|\.)x\.com$|(^|\.)twitter\.com$/.test(u.hostname)&&/\/status\/\d+/.test(u.pathname);}catch{return false;}
  }
@@ -176,8 +180,15 @@
   });
   return true;
  }
+ function renderImageEmbed(container,url){
+  if(!imageDataURL(url)||container.querySelector('.video-embed,.x-embed,.image-embed'))return false;
+  const wrap=element('figure','image-embed'),img=element('img');
+  img.src=url;img.alt='Captura relacionada con la noticia';img.loading='lazy';img.decoding='async';
+  wrap.append(img);container.append(wrap);return true;
+ }
  function renderEmbed(container,url){
-  if(container.querySelector('.video-embed,.x-embed'))return false;
+  if(container.querySelector('.video-embed,.x-embed,.image-embed'))return false;
+  if(imageDataURL(url))return renderImageEmbed(container,url);
   if(isXPost(url))return renderXPost(container,url);
   if(videoEmbedURL(url))return renderVideo(container,url);
   return false;
@@ -190,6 +201,8 @@
    .embed-fallback{display:inline-block;margin:0 0 22px;font-size:.9rem}
    .x-embed{width:100%;max-width:600px;min-height:120px;margin:22px auto}
    .x-embed .twitter-tweet{margin-left:auto!important;margin-right:auto!important}
+   .image-embed{width:min(100%,460px);margin:22px auto}
+   .image-embed img{display:block;width:100%;height:auto;max-height:78vh;object-fit:contain;border-radius:10px;background:#000}
    .article-image{display:block;width:100%;height:auto;object-fit:contain;object-position:center;border-radius:8px}
    .card-visual.news-image{aspect-ratio:16/9!important;min-height:0!important;padding:0!important;background:#171d24}
    .news-image img{display:block;width:100%;height:100%;object-fit:cover;object-position:50% 24%;transition:transform .25s}
@@ -216,7 +229,7 @@
    const row=Object.fromEntries(keys.map((k,i)=>[k,(values[i]||'').trim()]));if(normalize(row.publicar)!=='si')return [];
    let category=normalize(row.categoria);category=({'otros deportes':'otros','formula 1':'f1','formula uno':'f1','futbol argentino':'futbol'})[category]||category;
    const date=timestamp(row.fecha,row.hora);if(!category||!row.titulo||!row.resumen||date===null)return [];
-   const video=safeURL(row['url video']);const hasYouTubeVideo=!!youtubeEmbedURL(video),hasFormula1Video=!!formula1EmbedURL(video),hasXPost=isXPost(video),hasVideo=!!video&&!hasXPost,hasEmbed=!!video;
+   const video=imageDataURL(row['url video'])||safeURL(row['url video']);const hasYouTubeVideo=!!youtubeEmbedURL(video),hasFormula1Video=!!formula1EmbedURL(video),hasXPost=isXPost(video),hasVideo=!!video&&!hasXPost,hasEmbed=!!video;
    return [{category,group:Object.hasOwn(categories,category)?category:'otros',sport:category==='seleccion'?'Selección Argentina':row.categoria,photoCredit:row['credito foto']||'',date,title:row.titulo,summary:row.resumen,note:safeURL(row['url nota']),image:imageURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video,hasYouTubeVideo,hasFormula1Video,hasVideo,hasXPost,hasEmbed}];
   }).sort((a,b)=>b.date-a.date);
  }
