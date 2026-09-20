@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T01:24:24.730Z",
+  "updatedAt": "2026-09-20T01:50:50.938Z",
   "trends": [
     {
       "query": "corte de luz",
@@ -9,8 +9,8 @@
       "volume": 2000
     },
     {
-      "query": "river vs huracan",
-      "startedAt": "2026-09-19T21:50:00.000Z",
+      "query": "river plate - huracán",
+      "startedAt": "2026-09-19T22:10:00.000Z",
       "volume": 5000
     },
     {
