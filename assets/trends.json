@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T20:23:56.462Z",
+  "updatedAt": "2026-09-20T20:49:44.142Z",
   "trends": [
     {
       "query": "tabla anual",
@@ -14,14 +14,19 @@
       "volume": 200
     },
     {
-      "query": "san lorenzo",
-      "startedAt": "2026-09-20T16:40:00.000Z",
+      "query": "boca vs san lorenzo",
+      "startedAt": "2026-09-20T16:20:00.000Z",
       "volume": 10000
+    },
+    {
+      "query": "city",
+      "startedAt": "2026-09-20T14:50:00.000Z",
+      "volume": 200
     },
     {
       "query": "atletico madrid",
       "startedAt": "2026-09-20T14:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "real madrid",
@@ -47,11 +52,6 @@
       "query": "la nacion",
       "startedAt": "2026-09-20T11:10:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "ufc",
-      "startedAt": "2026-09-20T02:10:00.000Z",
-      "volume": 500
     }
   ]
 }
