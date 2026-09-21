@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T21:50:35.513Z",
+  "updatedAt": "2026-09-21T22:25:10.522Z",
   "trends": [
+    {
+      "query": "mercado libre",
+      "startedAt": "2026-09-21T22:10:00.000Z",
+      "volume": 500
+    },
     {
       "query": "aldosivi",
       "startedAt": "2026-09-21T18:10:00.000Z",
@@ -47,11 +52,6 @@
       "query": "infobae",
       "startedAt": "2026-09-21T10:10:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "presley gerber",
-      "startedAt": "2026-09-21T10:10:00.000Z",
-      "volume": 500
     }
   ]
 }
