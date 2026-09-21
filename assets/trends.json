@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T08:27:27.327Z",
+  "updatedAt": "2026-09-21T08:52:15.353Z",
   "trends": [
     {
       "query": "velez",
@@ -34,11 +34,6 @@
       "volume": 10000
     },
     {
-      "query": "atletico madrid vs",
-      "startedAt": "2026-09-20T16:00:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "la liga",
       "startedAt": "2026-09-20T15:20:00.000Z",
       "volume": 200
@@ -52,6 +47,11 @@
       "query": "atletico madrid",
       "startedAt": "2026-09-20T14:40:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "real madrid",
+      "startedAt": "2026-09-20T14:00:00.000Z",
+      "volume": 5000
     }
   ]
 }
