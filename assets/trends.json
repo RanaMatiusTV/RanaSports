@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T06:33:16.837Z",
+  "updatedAt": "2026-09-21T06:56:43.749Z",
   "trends": [
     {
       "query": "velez",
@@ -41,12 +41,12 @@
     {
       "query": "atletico madrid",
       "startedAt": "2026-09-20T14:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "real madrid",
       "startedAt": "2026-09-20T14:00:00.000Z",
-      "volume": 5000
+      "volume": 2000
     },
     {
       "query": "manchester city",
