@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T19:50:06.405Z",
+  "updatedAt": "2026-09-21T20:24:52.913Z",
   "trends": [
     {
       "query": "aldosivi",
@@ -34,6 +34,11 @@
       "volume": 500
     },
     {
+      "query": "cindy crawford",
+      "startedAt": "2026-09-21T11:20:00.000Z",
+      "volume": 200
+    },
+    {
       "query": "pagina 12",
       "startedAt": "2026-09-21T10:50:00.000Z",
       "volume": 100
@@ -47,11 +52,6 @@
       "query": "infobae",
       "startedAt": "2026-09-21T10:10:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "presley gerber",
-      "startedAt": "2026-09-21T10:10:00.000Z",
-      "volume": 500
     }
   ]
 }
