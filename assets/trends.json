@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T12:28:56.560Z",
+  "updatedAt": "2026-09-21T12:53:03.837Z",
   "trends": [
     {
       "query": "primavera",
@@ -16,7 +16,7 @@
     {
       "query": "la nacion",
       "startedAt": "2026-09-21T10:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "infobae",
@@ -26,7 +26,7 @@
     {
       "query": "presley gerber",
       "startedAt": "2026-09-21T10:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "rosario3",
