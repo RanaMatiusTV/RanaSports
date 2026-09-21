@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T00:32:39.989Z",
+  "updatedAt": "2026-09-21T00:54:29.416Z",
   "trends": [
+    {
+      "query": "velez",
+      "startedAt": "2026-09-21T00:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "belgrano",
       "startedAt": "2026-09-20T22:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "tabla anual",
@@ -19,19 +24,14 @@
       "volume": 200
     },
     {
-      "query": "futbol en vivo",
-      "startedAt": "2026-09-20T17:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "diario panorama",
-      "startedAt": "2026-09-20T17:40:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "boca vs san lorenzo",
       "startedAt": "2026-09-20T16:20:00.000Z",
       "volume": 10000
+    },
+    {
+      "query": "atletico",
+      "startedAt": "2026-09-20T16:10:00.000Z",
+      "volume": 200
     },
     {
       "query": "city",
@@ -41,12 +41,12 @@
     {
       "query": "atletico madrid",
       "startedAt": "2026-09-20T14:40:00.000Z",
-      "volume": 1000
+      "volume": 500
     },
     {
       "query": "real madrid",
       "startedAt": "2026-09-20T14:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "manchester city",
