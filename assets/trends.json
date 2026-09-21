@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T11:25:57.339Z",
+  "updatedAt": "2026-09-21T11:51:59.029Z",
   "trends": [
     {
       "query": "pagina 12",
@@ -19,19 +19,24 @@
       "volume": 1000
     },
     {
-      "query": "rosario3",
-      "startedAt": "2026-09-21T10:10:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "presley gerber",
       "startedAt": "2026-09-21T10:10:00.000Z",
-      "volume": 100
+      "volume": 200
+    },
+    {
+      "query": "rosario3",
+      "startedAt": "2026-09-21T10:10:00.000Z",
+      "volume": 200
     },
     {
       "query": "tn",
       "startedAt": "2026-09-21T10:00:00.000Z",
-      "volume": 100
+      "volume": 200
+    },
+    {
+      "query": "maps",
+      "startedAt": "2026-09-21T09:50:00.000Z",
+      "volume": 200
     },
     {
       "query": "velez",
@@ -45,11 +50,6 @@
     },
     {
       "query": "tabla anual",
-      "startedAt": "2026-09-20T19:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lpf",
       "startedAt": "2026-09-20T19:50:00.000Z",
       "volume": 200
     }
