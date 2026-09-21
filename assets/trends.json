@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T13:53:10.052Z",
+  "updatedAt": "2026-09-21T14:26:37.942Z",
   "trends": [
+    {
+      "query": "dia del estudiante",
+      "startedAt": "2026-09-21T13:40:00.000Z",
+      "volume": 100
+    },
     {
       "query": "primavera",
       "startedAt": "2026-09-21T12:10:00.000Z",
@@ -11,7 +16,12 @@
     {
       "query": "feliz primavera",
       "startedAt": "2026-09-21T11:50:00.000Z",
-      "volume": 200
+      "volume": 500
+    },
+    {
+      "query": "cindy crawford",
+      "startedAt": "2026-09-21T11:20:00.000Z",
+      "volume": 500
     },
     {
       "query": "pagina 12",
@@ -21,17 +31,12 @@
     {
       "query": "la nacion",
       "startedAt": "2026-09-21T10:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "infobae",
       "startedAt": "2026-09-21T10:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "presley gerber",
-      "startedAt": "2026-09-21T10:10:00.000Z",
-      "volume": 500
+      "volume": 5000
     },
     {
       "query": "rosario3",
@@ -46,12 +51,7 @@
     {
       "query": "maps",
       "startedAt": "2026-09-21T09:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "velez",
-      "startedAt": "2026-09-21T00:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     }
   ]
 }
