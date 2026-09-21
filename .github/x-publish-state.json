@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODk5NjAwMjAwMDAsIlbDiUxFWiBMTyBHQU7DkyBFTiBVTiBGSU5BTCBJTkZBUlRBTlRFOiAzLTIgQSBUSUdSRSBZIFBVTlRBIERFIExBIFRBQkxBIEFOVUFMIl0": {
+      "account": "main",
+      "title": "VÉLEZ LO GANÓ EN UN FINAL INFARTANTE: 3-2 A TIGRE Y PUNTA DE LA TABLA ANUAL",
+      "dueAt": "2026-09-21T03:25:00.000Z",
+      "bufferPostId": "6ab0a30ad03859abc75e300e",
+      "createdAt": "2026-09-21T03:22:50.367Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc4OTk1MjgyMDAwMCwiUExBVEEgUEFSQSBBUkdFTlRJTkEgRU4gVkVMT0NJREFEIFBPUiBFUVVJUE9TOiBWRVJBLCBEw41BWiBZIE3DiU5ERVogRlVFUk9OIFNVQkNBTVBFT05BUyJd": {
       "account": "main",
       "title": "PLATA PARA ARGENTINA EN VELOCIDAD POR EQUIPOS: VERA, DÍAZ Y MÉNDEZ FUERON SUBCAMPEONAS",
@@ -991,7 +998,7 @@
   },
   "nextAt": {
     "f1": "2026-09-20T13:45:00.000Z",
-    "main": "2026-09-21T03:15:00.000Z"
+    "main": "2026-09-21T03:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
