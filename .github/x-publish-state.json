@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwMDY1ODAwMDAsIkxBIERFU1BFRElEQSBERSBNRVNTSSBZQSBUSUVORSBQUkVDSU9TOiBFTlRSQURBUyBERSAkOTAuMDAwIEEgJDQ4MC4wMDAiXQ": {
+      "account": "main",
+      "title": "LA DESPEDIDA DE MESSI YA TIENE PRECIOS: ENTRADAS DE $90.000 A $480.000",
+      "dueAt": "2026-09-21T16:30:00.000Z",
+      "bufferPostId": "6ab1590466d53455ffc9be45",
+      "createdAt": "2026-09-21T16:19:16.539Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMDA2NTgwMDAwLCJJTkRFUEVORElFTlRFIFlBIFBJRU5TQSBFTiBJTlNUSVRVVE86IENISU1ZIMOBVklMQSBFUyBMQSBQUklOQ0lQQUwgRFVEQSBFTlRSRSBUUkVTIFRPQ0FET1MiXQ": {
+      "account": "main",
+      "title": "INDEPENDIENTE YA PIENSA EN INSTITUTO: CHIMY ÁVILA ES LA PRINCIPAL DUDA ENTRE TRES TOCADOS",
+      "dueAt": "2026-09-21T16:25:00.000Z",
+      "bufferPostId": "6ab1590366d53455ffc9be1d",
+      "createdAt": "2026-09-21T16:19:16.124Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk5OTk2MjAwMDAsIkNVVEkgUk9NRVJPIENBTEVOVMOTIEVMIERFUkJJOiDigJxTT1MgVU4gTExPUsOTTiBDT01PIE1CQVBQw4nigJ0gQSBCRUxMSU5HSEFNIl0": {
       "account": "main",
       "title": "CUTI ROMERO CALENTÓ EL DERBI: “SOS UN LLORÓN COMO MBAPPÉ” A BELLINGHAM",
@@ -1033,7 +1047,7 @@
   },
   "nextAt": {
     "f1": "2026-09-21T12:25:00.000Z",
-    "main": "2026-09-21T14:20:00.000Z"
+    "main": "2026-09-21T16:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
