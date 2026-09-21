@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T01:51:58.126Z",
+  "updatedAt": "2026-09-21T02:26:08.107Z",
   "trends": [
     {
       "query": "velez",
       "startedAt": "2026-09-21T00:40:00.000Z",
-      "volume": 200
+      "volume": 1000
     },
     {
       "query": "belgrano",
@@ -34,11 +34,6 @@
       "volume": 10000
     },
     {
-      "query": "atletico",
-      "startedAt": "2026-09-20T16:10:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "city",
       "startedAt": "2026-09-20T14:50:00.000Z",
       "volume": 200
@@ -46,12 +41,17 @@
     {
       "query": "atletico madrid",
       "startedAt": "2026-09-20T14:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "real madrid",
       "startedAt": "2026-09-20T14:00:00.000Z",
-      "volume": 5000
+      "volume": 2000
+    },
+    {
+      "query": "manchester city",
+      "startedAt": "2026-09-20T13:40:00.000Z",
+      "volume": 1000
     }
   ]
 }
