@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T10:25:46.383Z",
+  "updatedAt": "2026-09-21T10:51:22.403Z",
   "trends": [
+    {
+      "query": "la nacion",
+      "startedAt": "2026-09-21T10:20:00.000Z",
+      "volume": 100
+    },
     {
       "query": "infobae",
       "startedAt": "2026-09-21T10:10:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "smn",
-      "startedAt": "2026-09-21T09:50:00.000Z",
-      "volume": 200
     },
     {
       "query": "velez",
