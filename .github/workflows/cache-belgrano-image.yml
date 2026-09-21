@@ -1,0 +1,31 @@
+name: Cache Belgrano image
+
+on:
+  push:
+    paths:
+      - '.github/workflows/cache-belgrano-image.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  cache-image:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download exact match photo
+        run: |
+          mkdir -p assets/noticias
+          curl -fL --retry 3 \
+            -A "Mozilla/5.0" \
+            -e "https://www.cadena3.com/" \
+            "https://images-tools.cadena3.com/tools/r/db8d8796-b21f-4424-bc31-a8515429daab.jpg?height=740&width=1200" \
+            -o assets/noticias/belgrano-estudiantes-2026.jpg
+          test -s assets/noticias/belgrano-estudiantes-2026.jpg
+      - name: Commit cached image
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/noticias/belgrano-estudiantes-2026.jpg
+          git commit -m "Cache Belgrano vs Estudiantes photo" || exit 0
+          git push
