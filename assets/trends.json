@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-20T23:49:25.768Z",
+  "updatedAt": "2026-09-21T00:32:39.989Z",
   "trends": [
     {
       "query": "belgrano",
       "startedAt": "2026-09-20T22:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "tabla anual",
@@ -34,24 +34,24 @@
       "volume": 10000
     },
     {
-      "query": "atletico",
-      "startedAt": "2026-09-20T16:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "la liga",
-      "startedAt": "2026-09-20T15:20:00.000Z",
+      "query": "city",
+      "startedAt": "2026-09-20T14:50:00.000Z",
       "volume": 200
     },
     {
       "query": "atletico madrid",
       "startedAt": "2026-09-20T14:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "real madrid",
       "startedAt": "2026-09-20T14:00:00.000Z",
       "volume": 2000
+    },
+    {
+      "query": "manchester city",
+      "startedAt": "2026-09-20T13:40:00.000Z",
+      "volume": 1000
     }
   ]
 }
