@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T18:54:02.047Z",
+  "updatedAt": "2026-09-21T19:24:53.796Z",
   "trends": [
     {
       "query": "aldosivi",
@@ -34,6 +34,11 @@
       "volume": 500
     },
     {
+      "query": "pagina 12",
+      "startedAt": "2026-09-21T10:50:00.000Z",
+      "volume": 100
+    },
+    {
       "query": "la nacion",
       "startedAt": "2026-09-21T10:20:00.000Z",
       "volume": 1000
@@ -47,11 +52,6 @@
       "query": "presley gerber",
       "startedAt": "2026-09-21T10:10:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "rosario3",
-      "startedAt": "2026-09-21T10:10:00.000Z",
-      "volume": 200
     }
   ]
 }
