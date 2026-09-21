@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTk4ODU4MDAwMCwiRUwgUFJFU0lERU5URSBERUwgQUNBIFNFIEpVR8OTIFBPUiBFTCBSRUdSRVNPIERFIExBIEYxOiDigJxBUkdFTlRJTkEgVkEgQSBURU5FUiBOVUVWQU1FTlRFIEbDk1JNVUxBIDHigJ0iXQ": {
+      "account": "f1",
+      "title": "EL PRESIDENTE DEL ACA SE JUGÓ POR EL REGRESO DE LA F1: “ARGENTINA VA A TENER NUEVAMENTE FÓRMULA 1”",
+      "dueAt": "2026-09-21T11:25:00.000Z",
+      "bufferPostId": "6ab1130fca3714eb5599a48f",
+      "createdAt": "2026-09-21T11:20:47.363Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc4OTk4MTMyMDAwMCwiQVJHRU5USU5BIExMRUfDkyBBIDE2MCBNRURBTExBUyBZIFNJR1VFIFNFR1VOREEgRU4gU0FOVEEgRkUgMjAyNiJd": {
       "account": "main",
       "title": "ARGENTINA LLEGÓ A 160 MEDALLAS Y SIGUE SEGUNDA EN SANTA FE 2026",
@@ -1004,7 +1011,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-20T13:45:00.000Z",
+    "f1": "2026-09-21T11:30:00.000Z",
     "main": "2026-09-21T09:25:00.000Z"
   },
   "buffer": {
