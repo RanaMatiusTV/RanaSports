@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk5OTk2MjAwMDAsIkNVVEkgUk9NRVJPIENBTEVOVMOTIEVMIERFUkJJOiDigJxTT1MgVU4gTExPUsOTTiBDT01PIE1CQVBQw4nigJ0gQSBCRUxMSU5HSEFNIl0": {
+      "account": "main",
+      "title": "CUTI ROMERO CALENTÓ EL DERBI: “SOS UN LLORÓN COMO MBAPPÉ” A BELLINGHAM",
+      "dueAt": "2026-09-21T14:15:00.000Z",
+      "bufferPostId": "6ab13ba80774ddfe8f753edb",
+      "createdAt": "2026-09-21T14:14:01.023Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk5OTU5MDAwMDAsIkdJQVkgWSBUQUdMSUFGSUNPIFlBIEVTVMOBTiBFTiBFTCBQQcONUyBZIERFSkFST04gU1VTIE1FTlNBSkVTIFBBUkEgTEEgREVTUEVESURBIERFIE1FU1NJIl0": {
       "account": "main",
       "title": "GIAY Y TAGLIAFICO YA ESTÁN EN EL PAÍS Y DEJARON SUS MENSAJES PARA LA DESPEDIDA DE MESSI",
@@ -1026,7 +1033,7 @@
   },
   "nextAt": {
     "f1": "2026-09-21T12:25:00.000Z",
-    "main": "2026-09-21T13:25:00.000Z"
+    "main": "2026-09-21T14:20:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
