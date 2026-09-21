@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T19:24:53.796Z",
+  "updatedAt": "2026-09-21T19:50:06.405Z",
   "trends": [
     {
       "query": "aldosivi",
       "startedAt": "2026-09-21T18:10:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "deportick",
