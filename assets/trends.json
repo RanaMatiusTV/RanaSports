@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T17:50:50.366Z",
+  "updatedAt": "2026-09-21T18:28:16.831Z",
   "trends": [
+    {
+      "query": "aldosivi",
+      "startedAt": "2026-09-21T18:10:00.000Z",
+      "volume": 100
+    },
     {
       "query": "deportick",
       "startedAt": "2026-09-21T16:50:00.000Z",
@@ -29,11 +34,6 @@
       "volume": 500
     },
     {
-      "query": "pagina 12",
-      "startedAt": "2026-09-21T10:50:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "la nacion",
       "startedAt": "2026-09-21T10:20:00.000Z",
       "volume": 1000
@@ -41,7 +41,7 @@
     {
       "query": "infobae",
       "startedAt": "2026-09-21T10:10:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "presley gerber",
