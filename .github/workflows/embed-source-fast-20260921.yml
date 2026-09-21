@@ -1,0 +1,93 @@
+name: Fast source embed extraction 2026-09-21
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tmp/embed-source-trigger-20260921.txt'
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Extract source embeds
+        run: |
+          python - <<'PY'
+          import json,re,html,unicodedata,urllib.request,urllib.parse,concurrent.futures
+          from pathlib import Path
+          rows=json.loads(Path("tmp/embed-backlog-20260921.json").read_text(encoding="utf-8"))
+          STOP=set("""EL LA LOS LAS UN UNA UNOS UNAS DE DEL Y O EN POR PARA CON SIN A AL ANTE TRAS SOBRE QUE SE SU SUS ES SON FUE FUERON YA VA VAN COMO MAS ENTRE DESDE HASTA ESTA ESTE ESTOS ESTAS LO LE LES ARGENTINA ARGENTINO ARGENTINOS ARGENTINAS JUEGOS SURAMERICANOS SANTA FE 2026 HOY AYER MAÑANA NUEVO NUEVA OTRA OTRO DIA JORNADA PARTIDO PARTIDOS FINAL FINALES TORNEO COPA LIGA""".split())
+          def norm(s):
+            s=unicodedata.normalize("NFD",s or "")
+            s="".join(c for c in s if unicodedata.category(c)!="Mn")
+            return re.sub(r"[^A-Z0-9]+"," ",s.upper()).strip()
+          def toks(s): return [w for w in norm(s).split() if len(w)>=3 and w not in STOP]
+          def fetch(url,timeout=8):
+            req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36","Accept-Language":"es-AR,es;q=0.9,en;q=0.6"})
+            with urllib.request.urlopen(req,timeout=timeout) as r:return r.read().decode("utf-8","ignore")
+          def normurl(u):
+            u=html.unescape(u).replace("\\/","/")
+            if "twitter.com/" in u:u=u.replace("twitter.com/","x.com/")
+            m=re.search(r'https?://(?:www\.)?x\.com/([A-Za-z0-9_]+)/status/(\d+)',u)
+            if m:return f"https://x.com/{m.group(1)}/status/{m.group(2)}"
+            m=re.search(r'youtube\.com/(?:watch\?v=|embed/|shorts/)([A-Za-z0-9_-]{6,})',u)
+            if m:return "https://www.youtube.com/watch?v="+m.group(1)
+            m=re.search(r'youtu\.be/([A-Za-z0-9_-]{6,})',u)
+            if m:return "https://www.youtube.com/watch?v="+m.group(1)
+            return u
+          def extract(pg):
+            pg=html.unescape(pg or "").replace("\\/","/")
+            pats=[
+              r'https?://(?:www\.)?(?:x\.com|twitter\.com)/[A-Za-z0-9_]+/status/\d+',
+              r'https?://(?:www\.)?youtube\.com/watch\?v=[A-Za-z0-9_-]{6,}',
+              r'https?://youtu\.be/[A-Za-z0-9_-]{6,}',
+              r'https?://(?:www\.)?youtube\.com/(?:embed|shorts)/[A-Za-z0-9_-]{6,}'
+            ]
+            out=[]
+            for p in pats:
+              for u in re.findall(p,pg):
+                u=normurl(u)
+                if u not in out:out.append(u)
+            return out[:30]
+          def meta(u):
+            try:
+              if "youtube.com" in u:
+                api="https://www.youtube.com/oembed?format=json&url="+urllib.parse.quote(u,safe="")
+                d=json.loads(fetch(api,6)); txt=(d.get("title") or "")+" "+(d.get("author_name") or "")
+                return txt,d.get("title"),d.get("author_name")
+              if "x.com/" in u:
+                api="https://publish.twitter.com/oembed?omit_script=true&dnt=true&url="+urllib.parse.quote(u,safe="")
+                d=json.loads(fetch(api,6));txt=re.sub("<[^>]+>"," ",d.get("html") or "");txt=html.unescape(re.sub(r"\s+"," ",txt))
+                return txt+" "+(d.get("author_name") or ""),txt[:220],d.get("author_name")
+            except Exception:return None
+          def one(row):
+            src=row.get("source") or ""
+            if not src:return {**row,"accepted":None,"candidates":[]}
+            try:pg=fetch(src,8)
+            except Exception:return {**row,"accepted":None,"candidates":[]}
+            st=set(toks(row.get("title","")));cs=[]
+            for u in extract(pg):
+              md=meta(u)
+              if not md:continue
+              txt,ttl,auth=md; ct=set(toks(txt)); ov=sorted(st&ct); score=len(ov)+0.35*len([x for x in ov if len(x)>=5])+1.5
+              cs.append({"url":u,"score":score,"overlap":ov,"title":ttl,"author":auth})
+            cs.sort(key=lambda z:z["score"],reverse=True)
+            acc=cs[0] if cs and cs[0]["score"]>=2.5 else None
+            return {**row,"accepted":acc,"candidates":cs[:5]}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=24) as ex:
+            res=list(ex.map(one,rows))
+          Path("tmp/embed-source-results-20260921.json").write_text(json.dumps(res,ensure_ascii=False,indent=2),encoding="utf-8")
+          print("accepted",sum(1 for x in res if x.get("accepted")),"of",len(res))
+          PY
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp/embed-source-results-20260921.json
+          git commit -m "Extract source embed candidates" || exit 0
+          git push
