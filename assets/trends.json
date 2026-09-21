@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T11:51:59.029Z",
+  "updatedAt": "2026-09-21T12:28:56.560Z",
   "trends": [
+    {
+      "query": "primavera",
+      "startedAt": "2026-09-21T12:10:00.000Z",
+      "volume": 100
+    },
     {
       "query": "pagina 12",
       "startedAt": "2026-09-21T10:50:00.000Z",
@@ -16,7 +21,7 @@
     {
       "query": "infobae",
       "startedAt": "2026-09-21T10:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "presley gerber",
@@ -36,22 +41,17 @@
     {
       "query": "maps",
       "startedAt": "2026-09-21T09:50:00.000Z",
-      "volume": 200
+      "volume": 500
+    },
+    {
+      "query": "velez hoy",
+      "startedAt": "2026-09-21T02:10:00.000Z",
+      "volume": 100
     },
     {
       "query": "velez",
       "startedAt": "2026-09-21T00:40:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "belgrano",
-      "startedAt": "2026-09-20T22:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "tabla anual",
-      "startedAt": "2026-09-20T19:50:00.000Z",
-      "volume": 200
     }
   ]
 }
