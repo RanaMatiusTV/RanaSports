@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTk5MjM2MDAwMCwiQ09MQVBJTlRPIFlBIFRJRU5FIEhPUkFSSU9TIFBBUkEgQkFLw5o6IExBIEYxIENPUlJFIEVMIFPDgUJBRE8gRU4gQVpFUkJBSVnDgU4iXQ": {
+      "account": "f1",
+      "title": "COLAPINTO YA TIENE HORARIOS PARA BAKÚ: LA F1 CORRE EL SÁBADO EN AZERBAIYÁN",
+      "dueAt": "2026-09-21T12:20:00.000Z",
+      "bufferPostId": "6ab12007f799b8229e594dfd",
+      "createdAt": "2026-09-21T12:16:07.942Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTk4ODU4MDAwMCwiRUwgUFJFU0lERU5URSBERUwgQUNBIFNFIEpVR8OTIFBPUiBFTCBSRUdSRVNPIERFIExBIEYxOiDigJxBUkdFTlRJTkEgVkEgQSBURU5FUiBOVUVWQU1FTlRFIEbDk1JNVUxBIDHigJ0iXQ": {
       "account": "f1",
       "title": "EL PRESIDENTE DEL ACA SE JUGÓ POR EL REGRESO DE LA F1: “ARGENTINA VA A TENER NUEVAMENTE FÓRMULA 1”",
@@ -1011,7 +1018,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-21T11:30:00.000Z",
+    "f1": "2026-09-21T12:25:00.000Z",
     "main": "2026-09-21T09:25:00.000Z"
   },
   "buffer": {
