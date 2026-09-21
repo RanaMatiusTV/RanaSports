@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T05:25:37.927Z",
+  "updatedAt": "2026-09-21T05:52:31.979Z",
   "trends": [
     {
       "query": "velez",
@@ -24,6 +24,11 @@
       "volume": 200
     },
     {
+      "query": "san lorenzo hoy",
+      "startedAt": "2026-09-20T18:10:00.000Z",
+      "volume": 500
+    },
+    {
       "query": "boca vs san lorenzo",
       "startedAt": "2026-09-20T16:20:00.000Z",
       "volume": 10000
@@ -31,7 +36,7 @@
     {
       "query": "city",
       "startedAt": "2026-09-20T14:50:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "atletico madrid",
@@ -47,11 +52,6 @@
       "query": "manchester city",
       "startedAt": "2026-09-20T13:40:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "facebook",
-      "startedAt": "2026-09-20T13:10:00.000Z",
-      "volume": 2000
     }
   ]
 }
