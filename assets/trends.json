@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T04:53:14.056Z",
+  "updatedAt": "2026-09-21T05:25:37.927Z",
   "trends": [
     {
       "query": "velez",
@@ -29,11 +29,6 @@
       "volume": 10000
     },
     {
-      "query": "atletico",
-      "startedAt": "2026-09-20T16:10:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "city",
       "startedAt": "2026-09-20T14:50:00.000Z",
       "volume": 200
@@ -52,6 +47,11 @@
       "query": "manchester city",
       "startedAt": "2026-09-20T13:40:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "facebook",
+      "startedAt": "2026-09-20T13:10:00.000Z",
+      "volume": 2000
     }
   ]
 }
