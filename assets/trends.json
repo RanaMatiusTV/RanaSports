@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-21T01:25:43.703Z",
+  "updatedAt": "2026-09-21T01:51:58.126Z",
   "trends": [
     {
       "query": "velez",
@@ -22,6 +22,11 @@
       "query": "lpf",
       "startedAt": "2026-09-20T19:50:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "diario panorama",
+      "startedAt": "2026-09-20T17:40:00.000Z",
+      "volume": 100
     },
     {
       "query": "boca vs san lorenzo",
@@ -47,11 +52,6 @@
       "query": "real madrid",
       "startedAt": "2026-09-20T14:00:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "manchester city",
-      "startedAt": "2026-09-20T13:40:00.000Z",
-      "volume": 1000
     }
   ]
 }
