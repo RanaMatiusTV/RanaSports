@@ -1,0 +1,177 @@
+name: Backfill RanaSports embeds 2026-09-21
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tmp/embed-backlog-20260921.json'
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install search helper
+        run: pip install -q yt-dlp
+      - name: Find and validate embeds
+        run: |
+          python - <<'PY'
+          import json, re, html, time, unicodedata, urllib.request, urllib.parse
+          from pathlib import Path
+          import yt_dlp
+
+          DATA = Path("tmp/embed-backlog-20260921.json")
+          OUT = Path("tmp/embed-results-20260921.json")
+          rows = json.loads(DATA.read_text(encoding="utf-8"))
+
+          STOP = set("""EL LA LOS LAS UN UNA UNOS UNAS DE DEL Y O EN POR PARA CON SIN A AL ANTE TRAS SOBRE QUE SE SU SUS ES SON FUE FUERON YA VA VAN COMO MAS ENTRE DESDE HASTA ESTA ESTE ESTOS ESTAS LO LE LES ARGENTINA ARGENTINO ARGENTINA ARGENTINOS ARGENTINAS JUEGOS SURAMERICANOS SANTA FE 2026 HOY AYER MAÑANA NUEVO NUEVA OTRA OTRO ANTE TRAS VA VAN FUE ES SON DEL DIA JORNADA PARTIDO PARTIDOS FINAL FINALES TORNEO COPA LIGA""".split())
+
+          def norm(s):
+              s = unicodedata.normalize("NFD", s or "")
+              s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+              return re.sub(r"[^A-Z0-9]+"," ",s.upper()).strip()
+
+          def tokens(s):
+              return [w for w in norm(s).split() if len(w) >= 3 and w not in STOP]
+
+          def fetch(url, timeout=12):
+              req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130 Safari/537.36","Accept-Language":"es-AR,es;q=0.9,en;q=0.7"})
+              with urllib.request.urlopen(req,timeout=timeout) as r:
+                  return r.read().decode("utf-8","ignore")
+
+          def normalize_url(u):
+              u=html.unescape(u).replace("\\/","/").replace("\u0026","&")
+              if "twitter.com/" in u: u=u.replace("twitter.com/","x.com/")
+              if "youtube.com/embed/" in u:
+                  vid=u.split("youtube.com/embed/",1)[1].split("?",1)[0].split("&",1)[0].split('"',1)[0]
+                  u="https://www.youtube.com/watch?v="+vid
+              if "youtube.com/shorts/" in u:
+                  return u.split("?")[0].rstrip(".,);'\"")
+              if "youtu.be/" in u:
+                  return u.split("?")[0].rstrip(".,);'\"")
+              if "youtube.com/watch" in u:
+                  p=urllib.parse.urlparse(u)
+                  q=urllib.parse.parse_qs(p.query)
+                  if q.get("v"): return "https://www.youtube.com/watch?v="+q["v"][0]
+              if "x.com/" in u and "/status/" in u:
+                  m=re.search(r"https?://(?:www\.)?x\.com/([A-Za-z0-9_]+)/status/(\d+)",u)
+                  if m: return f"https://x.com/{m.group(1)}/status/{m.group(2)}"
+              return u
+
+          def extract_social(page):
+              if not page: return []
+              raw=html.unescape(page).replace("\\/","/")
+              pats=[
+                r'https?://(?:www\.)?(?:x\.com|twitter\.com)/[A-Za-z0-9_]+/status/\d+',
+                r'https?://(?:www\.)?youtube\.com/watch\?v=[A-Za-z0-9_-]{6,}',
+                r'https?://youtu\.be/[A-Za-z0-9_-]{6,}',
+                r'https?://(?:www\.)?youtube\.com/shorts/[A-Za-z0-9_-]{6,}',
+                r'https?://(?:www\.)?youtube\.com/embed/[A-Za-z0-9_-]{6,}'
+              ]
+              out=[]
+              for p in pats:
+                  for m in re.findall(p,raw):
+                      u=normalize_url(m)
+                      if u not in out: out.append(u)
+              return out[:20]
+
+          def meta(u):
+              try:
+                  if "youtube.com" in u or "youtu.be" in u:
+                      api="https://www.youtube.com/oembed?format=json&url="+urllib.parse.quote(u,safe="")
+                      d=json.loads(fetch(api,10))
+                      return {"text":(d.get("title") or "")+" "+(d.get("author_name") or ""),"title":d.get("title"),"author":d.get("author_name")}
+                  if "x.com/" in u:
+                      api="https://publish.twitter.com/oembed?omit_script=true&dnt=true&url="+urllib.parse.quote(u,safe="")
+                      d=json.loads(fetch(api,10))
+                      txt=re.sub("<[^>]+>"," ",d.get("html") or "")
+                      txt=html.unescape(re.sub(r"\s+"," ",txt))
+                      return {"text":txt+" "+(d.get("author_name") or ""),"title":txt[:220],"author":d.get("author_name")}
+              except Exception:
+                  return None
+              return None
+
+          def score(story, cand_text, from_source=False):
+              st=set(tokens(story))
+              ct=set(tokens(cand_text))
+              inter=st & ct
+              # reward distinctive overlaps; require entity/context evidence
+              sc=len(inter)
+              if from_source: sc += 1.5
+              # strong bonus for 2+ long tokens
+              longs=[x for x in inter if len(x)>=5]
+              sc += 0.35*len(longs)
+              return sc, sorted(inter)
+
+          def youtube_search(query):
+              try:
+                  opts={"quiet":True,"no_warnings":True,"extract_flat":"in_playlist","skip_download":True,"socket_timeout":12,"playlistend":5}
+                  with yt_dlp.YoutubeDL(opts) as ydl:
+                      info=ydl.extract_info("ytsearch5:"+query,download=False)
+                  out=[]
+                  for e in (info or {}).get("entries") or []:
+                      if not e: continue
+                      vid=e.get("id")
+                      if not vid: continue
+                      out.append({
+                          "url":"https://www.youtube.com/watch?v="+vid,
+                          "text":(e.get("title") or "")+" "+(e.get("uploader") or e.get("channel") or ""),
+                          "title":e.get("title"),
+                          "author":e.get("uploader") or e.get("channel")
+                      })
+                  return out
+              except Exception:
+                  return []
+
+          results=[]
+          for idx,row in enumerate(rows,1):
+              title=row.get("title","")
+              source=row.get("source","")
+              cands=[]
+              page=""
+              if source:
+                  try:
+                      page=fetch(source,10)
+                  except Exception:
+                      page=""
+              for u in extract_social(page):
+                  md=meta(u)
+                  if md:
+                      sc,ov=score(title,md["text"],True)
+                      cands.append({"url":u,"where":"source","score":sc,"overlap":ov,**md})
+              # If source-page candidates are weak/absent, search YouTube for the story.
+              if not cands or max(x["score"] for x in cands)<3.0:
+                  q=" ".join(tokens(title)[:10])
+                  for md in youtube_search(q):
+                      sc,ov=score(title,md["text"],False)
+                      cands.append({"where":"youtube_search","score":sc,"overlap":ov,**md})
+              cands.sort(key=lambda x:x["score"],reverse=True)
+              best=cands[0] if cands else None
+              # Strict acceptance: source embed with >=2.5, or search result with >=3.0.
+              accepted=None
+              if best:
+                  th=2.5 if best["where"]=="source" else 3.0
+                  if best["score"]>=th:
+                      accepted=best
+              results.append({"row":row["row"],"date":row.get("date"),"time":row.get("time"),"category":row.get("category"),"title":title,"source":source,"accepted":accepted,"top":cands[:3]})
+              if idx%20==0:
+                  print("processed",idx,"/",len(rows),flush=True)
+              time.sleep(0.05)
+
+          OUT.write_text(json.dumps(results,ensure_ascii=False,indent=2),encoding="utf-8")
+          print("accepted",sum(1 for x in results if x["accepted"]),"of",len(results))
+          PY
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp/embed-results-20260921.json
+          git commit -m "Generate embed backfill candidates" || exit 0
+          git push
