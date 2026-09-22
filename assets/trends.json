@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T19:23:18.681Z",
+  "updatedAt": "2026-09-22T19:50:45.552Z",
   "trends": [
+    {
+      "query": "bono",
+      "startedAt": "2026-09-22T19:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "encuesta",
+      "startedAt": "2026-09-22T19:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "nora cárpena",
+      "startedAt": "2026-09-22T19:10:00.000Z",
+      "volume": 500
+    },
     {
       "query": "capital humano",
       "startedAt": "2026-09-22T18:50:00.000Z",
@@ -37,21 +52,6 @@
       "query": "europa",
       "startedAt": "2026-09-22T10:50:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "universidad",
-      "startedAt": "2026-09-22T10:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "clima",
-      "startedAt": "2026-09-22T10:20:00.000Z",
-      "volume": 50000
-    },
-    {
-      "query": "la cueva del león",
-      "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 2000
     }
   ]
 }
