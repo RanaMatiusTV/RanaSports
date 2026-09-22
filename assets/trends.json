@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T21:50:55.577Z",
+  "updatedAt": "2026-09-22T22:24:11.513Z",
   "trends": [
+    {
+      "query": "juan otero",
+      "startedAt": "2026-09-22T21:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "primera división",
+      "startedAt": "2026-09-22T21:20:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "edinson cavani",
       "startedAt": "2026-09-22T21:10:00.000Z",
-      "volume": 100
+      "volume": 1000
     },
     {
       "query": "argentina vs",
@@ -16,7 +26,7 @@
     {
       "query": "club atlético river plate",
       "startedAt": "2026-09-22T20:40:00.000Z",
-      "volume": 5000
+      "volume": 2000
     },
     {
       "query": "bono",
@@ -26,7 +36,7 @@
     {
       "query": "encuesta",
       "startedAt": "2026-09-22T19:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "nora cárpena",
@@ -42,16 +52,6 @@
       "query": "taylor swift",
       "startedAt": "2026-09-22T17:20:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "hayden panettiere",
-      "startedAt": "2026-09-22T17:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "claude",
-      "startedAt": "2026-09-22T15:40:00.000Z",
-      "volume": 1000
     }
   ]
 }
