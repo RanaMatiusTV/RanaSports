@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwOTY1ODAwMDAsIk1FU1NJIE1PU1RSw5MgTEEgQ0FNSVNFVEEgRVNQRUNJQUwgREUgU1UgREVTUEVESURBOiBTT0wgR0lHQU5URSBZIEVMIDEwIEVOIERPUkFETyJd": {
+      "account": "main",
+      "title": "MESSI MOSTRÓ LA CAMISETA ESPECIAL DE SU DESPEDIDA: SOL GIGANTE Y EL 10 EN DORADO",
+      "dueAt": "2026-09-22T17:30:00.000Z",
+      "bufferPostId": "6ab2b8b3062917fee817bdbb",
+      "createdAt": "2026-09-22T17:19:47.421Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMDk2NTgwMDAwLCJJTkRFUEVORElFTlRFLCBERSBFWFRSRU1PIEEgRVhUUkVNTzogRVMgRUwgTUVKT1IgVklTSVRBTlRFIERFTCBDTEFVU1VSQSBZIFVOTyBERSBMT1MgUEVPUkVTIERFIExPQ0FMIl0": {
+      "account": "main",
+      "title": "INDEPENDIENTE, DE EXTREMO A EXTREMO: ES EL MEJOR VISITANTE DEL CLAUSURA Y UNO DE LOS PEORES DE LOCAL",
+      "dueAt": "2026-09-22T17:25:00.000Z",
+      "bufferPostId": "6ab2b8b21b467b83d918efb5",
+      "createdAt": "2026-09-22T17:19:46.485Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwODY1NjAwMDAsIkxJQ0hBIE1BUlTDjU5FWiBWT0xWScOTIFkgSEFCTMOTIERFTCBET0xPUiBQT1IgTEEgRklOQUw6IOKAnFZBTU9TIEEgRElTRlJVVEFS4oCdIl0": {
       "account": "main",
       "title": "LICHA MARTÍNEZ VOLVIÓ Y HABLÓ DEL DOLOR POR LA FINAL: “VAMOS A DISFRUTAR”",
@@ -1222,7 +1236,7 @@
   },
   "nextAt": {
     "f1": "2026-09-22T16:20:00.000Z",
-    "main": "2026-09-22T17:15:00.000Z"
+    "main": "2026-09-22T17:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
