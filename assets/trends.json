@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T10:52:09.497Z",
+  "updatedAt": "2026-09-22T11:25:00.512Z",
   "trends": [
+    {
+      "query": "classroom",
+      "startedAt": "2026-09-22T11:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "europa",
+      "startedAt": "2026-09-22T10:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "abc",
+      "startedAt": "2026-09-22T10:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "universidad",
       "startedAt": "2026-09-22T10:30:00.000Z",
-      "volume": 200
+      "volume": 1000
     },
     {
       "query": "clima",
@@ -26,32 +41,17 @@
     {
       "query": "entrenador",
       "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 500
+      "volume": 1000
+    },
+    {
+      "query": "pami",
+      "startedAt": "2026-09-22T09:20:00.000Z",
+      "volume": 1000
     },
     {
       "query": "meteorología",
       "startedAt": "2026-09-22T09:20:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "pami",
-      "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "tiempo",
-      "startedAt": "2026-09-22T09:10:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "temperatura",
-      "startedAt": "2026-09-22T09:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "posiciones de club atlético lanús contra estudiantes de la plata",
-      "startedAt": "2026-09-22T08:40:00.000Z",
-      "volume": 2000
     }
   ]
 }
