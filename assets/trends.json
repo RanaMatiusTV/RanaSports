@@ -1,13 +1,8 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T12:30:32.835Z",
+  "updatedAt": "2026-09-22T12:55:01.041Z",
   "trends": [
-    {
-      "query": "chatgpt",
-      "startedAt": "2026-09-22T12:10:00.000Z",
-      "volume": 500
-    },
     {
       "query": "classroom",
       "startedAt": "2026-09-22T11:00:00.000Z",
@@ -26,17 +21,17 @@
     {
       "query": "universidad",
       "startedAt": "2026-09-22T10:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "infobae",
-      "startedAt": "2026-09-22T10:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "clima",
       "startedAt": "2026-09-22T10:20:00.000Z",
       "volume": 50000
+    },
+    {
+      "query": "infobae",
+      "startedAt": "2026-09-22T10:20:00.000Z",
+      "volume": 1000
     },
     {
       "query": "posiciones de barracas central contra independiente rivadavia",
@@ -50,6 +45,11 @@
     },
     {
       "query": "pami",
+      "startedAt": "2026-09-22T09:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "22 de septiembre",
       "startedAt": "2026-09-22T09:20:00.000Z",
       "volume": 1000
     }
