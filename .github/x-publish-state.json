@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDA5MzA0MDAwMCwiQ09MQVBJTlRPIFJFVkVMw5MgQ1XDgU5UTyBDT0JSQUJBIEVOIFdJTExJQU1TOiDigJxQRVJEw41BIFBMQVRBIFBBUkEgQ09SUkVS4oCdIl0": {
+      "account": "f1",
+      "title": "COLAPINTO REVELÓ CUÁNTO COBRABA EN WILLIAMS: “PERDÍA PLATA PARA CORRER”",
+      "dueAt": "2026-09-22T16:15:00.000Z",
+      "bufferPostId": "6ab2a827a43e8fafe413e09d",
+      "createdAt": "2026-09-22T16:09:11.463Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkwMDkzMDQwMDAwLCJNVVJJw5MgVFVMSU8gQ1JFU1BJLCBMRVlFTkRBIERFTCBBVVRPTU9WSUxJU01PIEFSR0VOVElOTywgQSBMT1MgODggQcORT1MiXQ": {
+      "account": "main",
+      "title": "MURIÓ TULIO CRESPI, LEYENDA DEL AUTOMOVILISMO ARGENTINO, A LOS 88 AÑOS",
+      "dueAt": "2026-09-22T16:15:00.000Z",
+      "bufferPostId": "6ab2a826437a3efa8e55d5b7",
+      "createdAt": "2026-09-22T16:09:10.761Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwODk1MDAwMDAsIkVMIEtJTFksIFNPQlJFIE1FU1NJIEVOIE5FV0VMTCdTOiDigJxQT1IgTcONIFFVRSBOT-KAnSwgUEVSTyBSRVNQRVRBUsOBIFNVIERFQ0lTScOTTiJd": {
       "account": "main",
       "title": "EL KILY, SOBRE MESSI EN NEWELL'S: “POR MÍ QUE NO”, PERO RESPETARÁ SU DECISIÓN",
@@ -1186,8 +1200,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-22T14:45:00.000Z",
-    "main": "2026-09-22T15:30:00.000Z"
+    "f1": "2026-09-22T16:20:00.000Z",
+    "main": "2026-09-22T16:20:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
