@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDA1NzE2MDAwMCwiRMONQSBERSBGSU5BTEVTOiBMT1MgTEVPTkVTIFkgTEFTIExFT05BUyBWQU4gUE9SIERPUyBPUk9TIEFOVEUgQ0hJTEUiXQ": {
+      "account": "main",
+      "title": "DÍA DE FINALES: LOS LEONES Y LAS LEONAS VAN POR DOS OROS ANTE CHILE",
+      "dueAt": "2026-09-22T06:20:00.000Z",
+      "bufferPostId": "6ab21db6e2882add8db5b0cd",
+      "createdAt": "2026-09-22T06:18:30.284Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDAzNTUwMDAwMCwiTE9TIFBVTUFTIDdTIFNPTiBERSBPUk86IEFSR0VOVElOQSBWRU5DScOTIDE3LTcgQSBDSElMRSBFTiBST1NBUklPIl0": {
       "account": "main",
       "title": "LOS PUMAS 7S SON DE ORO: ARGENTINA VENCIÓ 17-7 A CHILE EN ROSARIO",
@@ -1096,7 +1103,7 @@
   },
   "nextAt": {
     "f1": "2026-09-21T12:25:00.000Z",
-    "main": "2026-09-22T01:20:00.000Z"
+    "main": "2026-09-22T06:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
