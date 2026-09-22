@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T15:25:32.805Z",
+  "updatedAt": "2026-09-22T15:51:25.534Z",
   "trends": [
     {
       "query": "tulio crespi",
@@ -39,12 +39,12 @@
       "volume": 2000
     },
     {
-      "query": "la cueva del león",
+      "query": "entrenador",
       "startedAt": "2026-09-22T09:20:00.000Z",
       "volume": 2000
     },
     {
-      "query": "entrenador",
+      "query": "la cueva del león",
       "startedAt": "2026-09-22T09:20:00.000Z",
       "volume": 2000
     },
