@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T01:50:08.551Z",
+  "updatedAt": "2026-09-22T02:25:50.839Z",
   "trends": [
     {
       "query": "lanus",
       "startedAt": "2026-09-22T01:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "independiente rivadavia",
