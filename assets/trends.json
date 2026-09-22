@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T22:24:11.513Z",
+  "updatedAt": "2026-09-22T22:50:25.497Z",
   "trends": [
     {
       "query": "juan otero",
@@ -11,7 +11,7 @@
     {
       "query": "primera división",
       "startedAt": "2026-09-22T21:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "edinson cavani",
