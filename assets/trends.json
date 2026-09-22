@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T22:50:25.497Z",
+  "updatedAt": "2026-09-22T23:22:53.957Z",
   "trends": [
     {
       "query": "juan otero",
       "startedAt": "2026-09-22T21:40:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "primera división",
@@ -31,7 +31,7 @@
     {
       "query": "bono",
       "startedAt": "2026-09-22T19:10:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "encuesta",
