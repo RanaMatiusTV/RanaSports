@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDExODEyMDAwMCwiQlJPTkNFIEFSR0VOVElOTyBFTiBURU5JUyBERSBNRVNBIFkgQ0lGVUVOVEVTLUxPUkVOWk8gVkFOIFBPUiBFTCBPUk8iXQ": {
+      "account": "main",
+      "title": "BRONCE ARGENTINO EN TENIS DE MESA Y CIFUENTES-LORENZO VAN POR EL ORO",
+      "dueAt": "2026-09-22T23:10:00.000Z",
+      "bufferPostId": "6ab309e464b56fca2b9de9d3",
+      "createdAt": "2026-09-22T23:06:12.572Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDExMTEwMDAwMCwiTEFTIExFT05BUyBTT04gREUgT1JPOiBHT0xFQVJPTiA1LTAgQSBDSElMRSBZIFJFQ1VQRVJBUk9OIEVMIFJFSU5BRE8gU1VSQU1FUklDQU5PIl0": {
       "account": "main",
       "title": "LAS LEONAS SON DE ORO: GOLEARON 5-0 A CHILE Y RECUPERARON EL REINADO SURAMERICANO",
@@ -1292,7 +1299,7 @@
   },
   "nextAt": {
     "f1": "2026-09-22T20:20:00.000Z",
-    "main": "2026-09-22T21:25:00.000Z"
+    "main": "2026-09-22T23:15:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
