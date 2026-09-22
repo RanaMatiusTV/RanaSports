@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDEwMDE4MDAwMCwiT1RSQSBQTEFUQSBQQVJBIEFSR0VOVElOQTogRUwgUkVMRVZPIE1JWFRPIDRYMTAwIFNVQknDkyBBTCBQT0RJTyBFTiBTQU5UQSBGRSAyMDI2Il0": {
+      "account": "main",
+      "title": "OTRA PLATA PARA ARGENTINA: EL RELEVO MIXTO 4X100 SUBIÓ AL PODIO EN SANTA FE 2026",
+      "dueAt": "2026-09-22T18:40:00.000Z",
+      "bufferPostId": "6ab2c87fd8f706980cdfeec4",
+      "createdAt": "2026-09-22T18:27:11.787Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3OTAxMDAxODAwMDAsIkFGQSBQUk9ZRUNUQSBVTkEgTlVFVkEgQ09QQSBQQVJBIDIwMjcgWSBMQVMgU0VNSUZJTkFMRVMgREVMIENMQVVTVVJBIFNFUsOBTiBFTiBTRURFIE5FVVRSQUwiXQ": {
+      "account": "main",
+      "title": "AFA PROYECTA UNA NUEVA COPA PARA 2027 Y LAS SEMIFINALES DEL CLAUSURA SERÁN EN SEDE NEUTRAL",
+      "dueAt": "2026-09-22T18:35:00.000Z",
+      "bufferPostId": "6ab2c87fb451d21e9baa8ebf",
+      "createdAt": "2026-09-22T18:27:11.209Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJiYXNxdWV0IiwxNzkwMTAwMTgwMDAwLCJCT0NBIEFSUkFOQ8OTIENPTiBUT0RPIEVOIENISU5BOiA4OC03OCBBIEJFSUpJTkcgRU4gTEEgQ09QQSBJTlRFUkNPTlRJTkVOVEFMIl0": {
+      "account": "main",
+      "title": "BOCA ARRANCÓ CON TODO EN CHINA: 88-78 A BEIJING EN LA COPA INTERCONTINENTAL",
+      "dueAt": "2026-09-22T18:30:00.000Z",
+      "bufferPostId": "6ab2c87ee7978127345fec03",
+      "createdAt": "2026-09-22T18:27:10.465Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwOTY1ODAwMDAsIk1FU1NJIE1PU1RSw5MgTEEgQ0FNSVNFVEEgRVNQRUNJQUwgREUgU1UgREVTUEVESURBOiBTT0wgR0lHQU5URSBZIEVMIDEwIEVOIERPUkFETyJd": {
       "account": "main",
       "title": "MESSI MOSTRÓ LA CAMISETA ESPECIAL DE SU DESPEDIDA: SOL GIGANTE Y EL 10 EN DORADO",
@@ -1236,7 +1257,7 @@
   },
   "nextAt": {
     "f1": "2026-09-22T16:20:00.000Z",
-    "main": "2026-09-22T17:35:00.000Z"
+    "main": "2026-09-22T18:45:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
