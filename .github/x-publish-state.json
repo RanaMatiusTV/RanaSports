@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkwMDc4NTIwMDAwLCJWQVJST05FIFJPTVBJw5MgRUwgU0lMRU5DSU8gVFJBUyBERUpBUiBMQSBGMjog4oCcUEVSRMONIFBMQVRB4oCdIl0": {
+      "account": "f1",
+      "title": "VARRONE ROMPIÓ EL SILENCIO TRAS DEJAR LA F2: “PERDÍ PLATA”",
+      "dueAt": "2026-09-22T12:25:00.000Z",
+      "bufferPostId": "6ab270728920619c8e5a2d07",
+      "createdAt": "2026-09-22T12:11:30.227Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDA3ODUyMDAwMCwiSEFESkFSIFJFQ0lCScOTIEVMIEFMVEEgWSBWVUVMVkUgQSBSRUQgQlVMTCBFTiBCQUvDmiJd": {
+      "account": "f1",
+      "title": "HADJAR RECIBIÓ EL ALTA Y VUELVE A RED BULL EN BAKÚ",
+      "dueAt": "2026-09-22T12:20:00.000Z",
+      "bufferPostId": "6ab27071b093a512d28c2769",
+      "createdAt": "2026-09-22T12:11:29.680Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDA3ODUyMDAwMCwiQ09MQVBJTlRPIFlBIE1JUkEgQSBCQUvDmjogTEEgRjEgQ09SUkVSw4EgRUwgU8OBQkFETyBZIEZSQU5DTyBMTEVHQSBFTiBTVSBNRUpPUiBNT01FTlRPIl0": {
+      "account": "f1",
+      "title": "COLAPINTO YA MIRA A BAKÚ: LA F1 CORRERÁ EL SÁBADO Y FRANCO LLEGA EN SU MEJOR MOMENTO",
+      "dueAt": "2026-09-22T12:15:00.000Z",
+      "bufferPostId": "6ab2707180cb27270aafc583",
+      "createdAt": "2026-09-22T12:11:29.160Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMDc1MTYwMDAwLCJJTkRFUEVORElFTlRFLCBFTlRSRSBBTEdPRE9ORVM6IENISU1ZIMOBVklMQSwgUEFMQUlTIFkgWkFCQUxBIEVOQ0VORElFUk9OIEFMQVJNQVMiXQ": {
       "account": "main",
       "title": "INDEPENDIENTE, ENTRE ALGODONES: CHIMY ÁVILA, PALAIS Y ZABALA ENCENDIERON ALARMAS",
@@ -1123,7 +1144,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-21T12:25:00.000Z",
+    "f1": "2026-09-22T12:30:00.000Z",
     "main": "2026-09-22T11:30:00.000Z"
   },
   "buffer": {
