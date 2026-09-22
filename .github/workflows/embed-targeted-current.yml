@@ -1,0 +1,71 @@
+name: Targeted current embed search
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tmp/embed-targeted-trigger-20260921.txt'
+permissions:
+  contents: write
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Search targeted YouTube queries
+        run: |
+          python - <<'PY'
+          import json,re,urllib.parse,urllib.request,concurrent.futures
+          from pathlib import Path
+          qs={
+            "villa":"Sebastian Villa Davoo La Cobra venden humo 2026",
+            "racing":"Racing Carboni Ortegoza secundario estudios 2026",
+            "platense":"Platense Newells puertas cerradas hincha 2026",
+            "julfa_profile":"Arsen Julfalakyan Argentina Santa Fe 2026 lucha",
+            "ditsch":"Ulf Kai Ditsch Santa Fe 2026 wakeboard",
+            "amarilla":"Camila Amarilla Santa Fe 2026 lucha",
+            "voley":"Argentina Bolivia voleibol Juegos Suramericanos Santa Fe 2026",
+            "julfa_gold":"Arsen Julfalakyan oro Juegos Suramericanos Santa Fe 2026",
+            "yaguaretes":"Yaguaretes Colombia 35 5 oro Juegos Suramericanos Santa Fe 2026"
+          }
+          def fetch(q):
+            u="https://www.youtube.com/results?search_query="+urllib.parse.quote(q)
+            req=urllib.request.Request(u,headers={"User-Agent":"Mozilla/5.0 Chrome/130 Safari/537.36","Accept-Language":"es-AR,es;q=0.9"})
+            with urllib.request.urlopen(req,timeout=12) as r:pg=r.read().decode("utf-8","ignore")
+            out=[]
+            for m in re.finditer(r'"videoRenderer":\{"videoId":"([^"]+)".{0,12000}?"title":\{"runs":\[\{"text":"((?:\\.|[^"])*)"',pg,re.S):
+              vid=m.group(1)
+              try:title=json.loads('"'+m.group(2)+'"')
+              except:title=m.group(2)
+              if vid not in [x["id"] for x in out]:
+                # oembed for channel
+                author=""
+                try:
+                  ou="https://www.youtube.com/oembed?format=json&url="+urllib.parse.quote("https://www.youtube.com/watch?v="+vid,safe="")
+                  rr=urllib.request.Request(ou,headers={"User-Agent":"Mozilla/5.0"})
+                  with urllib.request.urlopen(rr,timeout=6) as ro:
+                    d=json.loads(ro.read().decode())
+                    author=d.get("author_name","")
+                    title=d.get("title",title)
+                except: pass
+                out.append({"id":vid,"url":"https://www.youtube.com/watch?v="+vid,"title":title,"channel":author})
+              if len(out)>=10:break
+            return out
+          res={}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=9) as ex:
+            fut={ex.submit(fetch,q):k for k,q in qs.items()}
+            for f,k in [(f,k) for f,k in fut.items()]:
+              try:res[k]=f.result()
+              except Exception as e:res[k]=[{"error":str(e)}]
+          Path("tmp/embed-targeted-results-20260921.json").write_text(json.dumps(res,ensure_ascii=False,indent=2),encoding="utf-8")
+          PY
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp/embed-targeted-results-20260921.json
+          git commit -m "Generate targeted current embed candidates" || exit 0
+          git push
