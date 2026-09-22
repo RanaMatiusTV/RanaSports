@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDEwMzc4MDAwMCwiTE9TIExFT05FUyBTT04gREUgT1JPOiBMRSBHQU5BUk9OIEEgQ0hJTEUgWSBTRSBDT05TQUdSQVJPTiBFTiBTQU5UQSBGRSAyMDI2Il0": {
+      "account": "main",
+      "title": "LOS LEONES SON DE ORO: LE GANARON A CHILE Y SE CONSAGRARON EN SANTA FE 2026",
+      "dueAt": "2026-09-22T19:25:00.000Z",
+      "bufferPostId": "6ab2d25ed98e7b46aec4e74f",
+      "createdAt": "2026-09-22T19:09:18.757Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAxMDM3ODAwMDAsIkFGQSBQT1NURVJHw5MgTEEgVkVOVEEgREUgRU5UUkFEQVMgUEFSQSBMQSBERVNQRURJREEgREUgTUVTU0k6IFBBU8OTIEFMIEpVRVZFUyJd": {
+      "account": "main",
+      "title": "AFA POSTERGÓ LA VENTA DE ENTRADAS PARA LA DESPEDIDA DE MESSI: PASÓ AL JUEVES",
+      "dueAt": "2026-09-22T19:20:00.000Z",
+      "bufferPostId": "6ab2d25d1e19ddcbdf0acbfc",
+      "createdAt": "2026-09-22T19:09:18.006Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAxMDM3ODAwMDAsIlNDQUxPTkkgRElPIExBIFBSSU1FUkEgU0XDkUFMIFBPU0lUSVZBIFBBUkEgU0VHVUlSIEVOIExBIFNFTEVDQ0nDk04gREVTUFXDiVMgREUgRElDSUVNQlJFIl0": {
+      "account": "main",
+      "title": "SCALONI DIO LA PRIMERA SEÑAL POSITIVA PARA SEGUIR EN LA SELECCIÓN DESPUÉS DE DICIEMBRE",
+      "dueAt": "2026-09-22T19:15:00.000Z",
+      "bufferPostId": "6ab2d25dd98e7b46aec4e713",
+      "createdAt": "2026-09-22T19:09:17.589Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDEwMDE4MDAwMCwiT1RSQSBQTEFUQSBQQVJBIEFSR0VOVElOQTogRUwgUkVMRVZPIE1JWFRPIDRYMTAwIFNVQknDkyBBTCBQT0RJTyBFTiBTQU5UQSBGRSAyMDI2Il0": {
       "account": "main",
       "title": "OTRA PLATA PARA ARGENTINA: EL RELEVO MIXTO 4X100 SUBIÓ AL PODIO EN SANTA FE 2026",
@@ -1257,7 +1278,7 @@
   },
   "nextAt": {
     "f1": "2026-09-22T16:20:00.000Z",
-    "main": "2026-09-22T18:45:00.000Z"
+    "main": "2026-09-22T19:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
