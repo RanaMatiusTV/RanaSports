@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T11:50:44.205Z",
+  "updatedAt": "2026-09-22T12:30:32.835Z",
   "trends": [
+    {
+      "query": "chatgpt",
+      "startedAt": "2026-09-22T12:10:00.000Z",
+      "volume": 500
+    },
     {
       "query": "classroom",
       "startedAt": "2026-09-22T11:00:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "europa",
       "startedAt": "2026-09-22T10:50:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "abc",
@@ -41,12 +46,7 @@
     {
       "query": "entrenador",
       "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "22 de septiembre",
-      "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "pami",
