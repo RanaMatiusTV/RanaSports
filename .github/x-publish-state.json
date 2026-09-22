@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwODY1NjAwMDAsIkxJQ0hBIE1BUlTDjU5FWiBWT0xWScOTIFkgSEFCTMOTIERFTCBET0xPUiBQT1IgTEEgRklOQUw6IOKAnFZBTU9TIEEgRElTRlJVVEFS4oCdIl0": {
+      "account": "main",
+      "title": "LICHA MARTÍNEZ VOLVIÓ Y HABLÓ DEL DOLOR POR LA FINAL: “VAMOS A DISFRUTAR”",
+      "dueAt": "2026-09-22T17:10:00.000Z",
+      "bufferPostId": "6ab2b505b192c8cad190682f",
+      "createdAt": "2026-09-22T17:04:06.157Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDA1MDAyMDAwMCwiQVJHRU5USU5BIENFUlLDkyBFTCBMVU5FUyBDT04gMTc0IE1FREFMTEFTIFkgU0UgQUZJQU5aw5MgU0VHVU5EQSBFTiBTQU5UQSBGRSAyMDI2Il0": {
       "account": "main",
       "title": "ARGENTINA CERRÓ EL LUNES CON 174 MEDALLAS Y SE AFIANZÓ SEGUNDA EN SANTA FE 2026",
@@ -1215,7 +1222,7 @@
   },
   "nextAt": {
     "f1": "2026-09-22T16:20:00.000Z",
-    "main": "2026-09-22T17:05:00.000Z"
+    "main": "2026-09-22T17:15:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
