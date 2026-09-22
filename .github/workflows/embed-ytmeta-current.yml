@@ -1,0 +1,77 @@
+name: YouTube metadata search current backlog
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tmp/embed-ytmeta-trigger.txt'
+permissions:
+  contents: write
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Search YouTube with metadata
+        run: |
+          python - <<'PY'
+          import json,re,urllib.parse,urllib.request,concurrent.futures,html
+          from pathlib import Path
+          rows=json.loads(Path("tmp/embed-backlog-20260921.json").read_text(encoding="utf-8"))
+          def fetch(q):
+            url="https://www.youtube.com/results?search_query="+urllib.parse.quote(q)
+            req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 Chrome/130 Safari/537.36","Accept-Language":"es-AR,es;q=0.9"})
+            with urllib.request.urlopen(req,timeout=12) as r: page=r.read().decode("utf-8","ignore")
+            out=[]
+            # Work from videoRenderer objects by balanced-ish split.
+            for part in page.split('"videoRenderer":{')[1:30]:
+              vidm=re.search(r'"videoId":"([^"]+)"',part)
+              tm=re.search(r'"title":\{"runs":\[\{"text":"((?:\\.|[^"])*)"',part)
+              if not vidm or not tm: continue
+              vid=vidm.group(1)
+              try:title=json.loads('"'+tm.group(1)+'"')
+              except:title=tm.group(1)
+              pub=""
+              pm=re.search(r'"publishedTimeText":\{"simpleText":"((?:\\.|[^"])*)"',part)
+              if pm:
+                try:pub=json.loads('"'+pm.group(1)+'"')
+                except:pub=pm.group(1)
+              owner=""
+              om=re.search(r'"ownerText":\{"runs":\[\{"text":"((?:\\.|[^"])*)"',part)
+              if om:
+                try:owner=json.loads('"'+om.group(1)+'"')
+                except:owner=om.group(1)
+              if vid not in [x["id"] for x in out]:
+                out.append({"id":vid,"url":"https://www.youtube.com/watch?v="+vid,"title":title,"published":pub,"channel":owner})
+              if len(out)>=8: break
+            return out
+          def queries(row):
+            t=row["title"]
+            q=[t]
+            # Add category and date-specific context.
+            if "Juegos Suramericanos" in row.get("category","") or "Polideportivo" in row.get("category",""):
+              q.append(t+" Santa Fe 2026")
+            return q
+          def one(row):
+            seen={}
+            for q in queries(row):
+              try:
+                for c in fetch(q):
+                  seen.setdefault(c["id"],c)
+              except Exception: pass
+            return {**row,"candidates":list(seen.values())[:12]}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=24) as ex:
+            res=list(ex.map(one,rows))
+          Path("tmp/embed-ytmeta-results.json").write_text(json.dumps(res,ensure_ascii=False,indent=2),encoding="utf-8")
+          print("rows",len(res),"with",sum(bool(x["candidates"]) for x in res))
+          PY
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp/embed-ytmeta-results.json
+          git commit -m "Generate YouTube metadata candidates" || exit 0
+          git push
