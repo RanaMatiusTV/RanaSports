@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T00:53:55.418Z",
+  "updatedAt": "2026-09-22T01:23:25.555Z",
   "trends": [
+    {
+      "query": "lanus",
+      "startedAt": "2026-09-22T01:00:00.000Z",
+      "volume": 100
+    },
     {
       "query": "independiente rivadavia",
       "startedAt": "2026-09-21T23:20:00.000Z",
@@ -42,11 +47,6 @@
       "query": "feliz primavera",
       "startedAt": "2026-09-21T11:50:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "cindy crawford",
-      "startedAt": "2026-09-21T11:20:00.000Z",
-      "volume": 200
     },
     {
       "query": "pagina 12",
