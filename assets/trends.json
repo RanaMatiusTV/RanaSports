@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T13:53:02.508Z",
+  "updatedAt": "2026-09-22T14:26:30.718Z",
   "trends": [
     {
       "query": "classroom",
@@ -16,7 +16,7 @@
     {
       "query": "abc",
       "startedAt": "2026-09-22T10:50:00.000Z",
-      "volume": 100
+      "volume": 2000
     },
     {
       "query": "universidad",
@@ -39,12 +39,12 @@
       "volume": 500
     },
     {
-      "query": "entrenador",
+      "query": "pami",
       "startedAt": "2026-09-22T09:20:00.000Z",
       "volume": 2000
     },
     {
-      "query": "pami",
+      "query": "entrenador",
       "startedAt": "2026-09-22T09:20:00.000Z",
       "volume": 2000
     },
