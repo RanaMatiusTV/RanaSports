@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T17:49:37.601Z",
+  "updatedAt": "2026-09-22T18:29:22.257Z",
   "trends": [
     {
       "query": "taylor swift",
       "startedAt": "2026-09-22T17:20:00.000Z",
-      "volume": 200
+      "volume": 1000
     },
     {
       "query": "hayden panettiere",
       "startedAt": "2026-09-22T17:10:00.000Z",
-      "volume": 200
+      "volume": 2000
     },
     {
       "query": "chat gpt",
@@ -21,7 +21,7 @@
     {
       "query": "tulio crespi",
       "startedAt": "2026-09-22T14:30:00.000Z",
-      "volume": 500
+      "volume": 2000
     },
     {
       "query": "classroom",
@@ -46,10 +46,10 @@
     {
       "query": "pami",
       "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
-      "query": "entrenador",
+      "query": "la cueva del león",
       "startedAt": "2026-09-22T09:20:00.000Z",
       "volume": 2000
     }
