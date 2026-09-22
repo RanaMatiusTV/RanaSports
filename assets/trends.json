@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T02:52:00.904Z",
+  "updatedAt": "2026-09-22T03:25:59.730Z",
   "trends": [
     {
       "query": "lanus",
@@ -49,9 +49,9 @@
       "volume": 500
     },
     {
-      "query": "cindy crawford",
-      "startedAt": "2026-09-21T11:20:00.000Z",
-      "volume": 200
+      "query": "outlook",
+      "startedAt": "2026-09-21T11:40:00.000Z",
+      "volume": 500
     }
   ]
 }
