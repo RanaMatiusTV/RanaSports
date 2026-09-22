@@ -1,17 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T09:25:06.184Z",
+  "updatedAt": "2026-09-22T09:51:44.377Z",
   "trends": [
+    {
+      "query": "22 de septiembre",
+      "startedAt": "2026-09-22T09:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "meteorología",
+      "startedAt": "2026-09-22T09:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "entrenador",
+      "startedAt": "2026-09-22T09:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pami",
+      "startedAt": "2026-09-22T09:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "tiempo",
       "startedAt": "2026-09-22T09:10:00.000Z",
       "volume": 5000
     },
     {
-      "query": "lanús - estudiantes",
+      "query": "temperatura",
       "startedAt": "2026-09-22T09:10:00.000Z",
-      "volume": 500
+      "volume": 200
+    },
+    {
+      "query": "posiciones de club atlético lanús contra estudiantes de la plata",
+      "startedAt": "2026-09-22T08:40:00.000Z",
+      "volume": 1000
     },
     {
       "query": "betano",
@@ -27,31 +52,6 @@
       "query": "mercado libre",
       "startedAt": "2026-09-21T22:10:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "aldosivi",
-      "startedAt": "2026-09-21T18:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "deportick",
-      "startedAt": "2026-09-21T16:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "dia del estudiante",
-      "startedAt": "2026-09-21T13:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "primavera",
-      "startedAt": "2026-09-21T12:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "flores amarillas",
-      "startedAt": "2026-09-21T12:00:00.000Z",
-      "volume": 500
     }
   ]
 }
