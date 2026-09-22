@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDA1MDAyMDAwMCwiQVJHRU5USU5BIENFUlLDkyBFTCBMVU5FUyBDT04gMTc0IE1FREFMTEFTIFkgU0UgQUZJQU5aw5MgU0VHVU5EQSBFTiBTQU5UQSBGRSAyMDI2Il0": {
+      "account": "main",
+      "title": "ARGENTINA CERRÓ EL LUNES CON 174 MEDALLAS Y SE AFIANZÓ SEGUNDA EN SANTA FE 2026",
+      "dueAt": "2026-09-22T17:00:00.000Z",
+      "bufferPostId": "6ab2b26ba63ac4d7764a64f7",
+      "createdAt": "2026-09-22T16:52:59.550Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDAzMzQ2MDAwMCwiQVJTRU4gSlVMRkFMQUtZQU4gRVMgREUgT1JPOiBFTCBDQU1QRcOTTiBNVU5ESUFMIFFVRSBBSE9SQSBGRVNURUpBIFBBUkEgQVJHRU5USU5BIl0": {
+      "account": "main",
+      "title": "ARSEN JULFALAKYAN ES DE ORO: EL CAMPEÓN MUNDIAL QUE AHORA FESTEJA PARA ARGENTINA",
+      "dueAt": "2026-09-22T16:55:00.000Z",
+      "bufferPostId": "6ab2b26ab192c8cad1900f5b",
+      "createdAt": "2026-09-22T16:52:58.936Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDA5MzA0MDAwMCwiQ09MQVBJTlRPIFJFVkVMw5MgQ1XDgU5UTyBDT0JSQUJBIEVOIFdJTExJQU1TOiDigJxQRVJEw41BIFBMQVRBIFBBUkEgQ09SUkVS4oCdIl0": {
       "account": "f1",
       "title": "COLAPINTO REVELÓ CUÁNTO COBRABA EN WILLIAMS: “PERDÍA PLATA PARA CORRER”",
@@ -1201,7 +1215,7 @@
   },
   "nextAt": {
     "f1": "2026-09-22T16:20:00.000Z",
-    "main": "2026-09-22T16:20:00.000Z"
+    "main": "2026-09-22T17:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
