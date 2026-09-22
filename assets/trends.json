@@ -1,16 +1,21 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T08:52:52.185Z",
+  "updatedAt": "2026-09-22T09:25:06.184Z",
   "trends": [
+    {
+      "query": "tiempo",
+      "startedAt": "2026-09-22T09:10:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "lanús - estudiantes",
+      "startedAt": "2026-09-22T09:10:00.000Z",
+      "volume": 500
+    },
     {
       "query": "betano",
       "startedAt": "2026-09-22T08:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lanus",
-      "startedAt": "2026-09-22T01:00:00.000Z",
       "volume": 200
     },
     {
@@ -46,11 +51,6 @@
     {
       "query": "flores amarillas",
       "startedAt": "2026-09-21T12:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "feliz primavera",
-      "startedAt": "2026-09-21T11:50:00.000Z",
       "volume": 500
     }
   ]
