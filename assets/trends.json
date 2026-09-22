@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T18:52:58.133Z",
+  "updatedAt": "2026-09-22T19:23:18.681Z",
   "trends": [
+    {
+      "query": "capital humano",
+      "startedAt": "2026-09-22T18:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "taylor swift",
       "startedAt": "2026-09-22T17:20:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "hayden panettiere",
       "startedAt": "2026-09-22T17:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "chat gpt",
@@ -47,11 +52,6 @@
       "query": "la cueva del león",
       "startedAt": "2026-09-22T09:20:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "entrenador",
-      "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 5000
     }
   ]
 }
