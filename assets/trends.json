@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T16:52:11.912Z",
+  "updatedAt": "2026-09-22T17:24:38.176Z",
   "trends": [
+    {
+      "query": "hayden panettiere",
+      "startedAt": "2026-09-22T17:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "chat gpt",
+      "startedAt": "2026-09-22T16:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "tulio crespi",
       "startedAt": "2026-09-22T14:30:00.000Z",
@@ -29,9 +39,9 @@
       "volume": 50000
     },
     {
-      "query": "posiciones de barracas central contra independiente rivadavia",
-      "startedAt": "2026-09-22T09:50:00.000Z",
-      "volume": 500
+      "query": "entrenador",
+      "startedAt": "2026-09-22T09:20:00.000Z",
+      "volume": 2000
     },
     {
       "query": "pami",
@@ -39,19 +49,9 @@
       "volume": 2000
     },
     {
-      "query": "entrenador",
-      "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 2000
-    },
-    {
       "query": "la cueva del león",
       "startedAt": "2026-09-22T09:20:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "22 de septiembre",
-      "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 1000
     }
   ]
 }
