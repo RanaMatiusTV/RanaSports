@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T14:53:51.706Z",
+  "updatedAt": "2026-09-22T15:25:32.805Z",
   "trends": [
     {
       "query": "tulio crespi",
@@ -34,12 +34,12 @@
       "volume": 500
     },
     {
-      "query": "la cueva del león",
+      "query": "pami",
       "startedAt": "2026-09-22T09:20:00.000Z",
       "volume": 2000
     },
     {
-      "query": "pami",
+      "query": "la cueva del león",
       "startedAt": "2026-09-22T09:20:00.000Z",
       "volume": 2000
     },
