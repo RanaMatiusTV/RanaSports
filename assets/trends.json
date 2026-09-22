@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T23:22:53.957Z",
+  "updatedAt": "2026-09-22T23:49:44.415Z",
   "trends": [
     {
       "query": "juan otero",
       "startedAt": "2026-09-22T21:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "primera división",
