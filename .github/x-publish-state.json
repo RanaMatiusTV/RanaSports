@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMDc1MTYwMDAwLCJJTkRFUEVORElFTlRFLCBFTlRSRSBBTEdPRE9ORVM6IENISU1ZIMOBVklMQSwgUEFMQUlTIFkgWkFCQUxBIEVOQ0VORElFUk9OIEFMQVJNQVMiXQ": {
+      "account": "main",
+      "title": "INDEPENDIENTE, ENTRE ALGODONES: CHIMY ÁVILA, PALAIS Y ZABALA ENCENDIERON ALARMAS",
+      "dueAt": "2026-09-22T11:25:00.000Z",
+      "bufferPostId": "6ab264878920619c8e5880f6",
+      "createdAt": "2026-09-22T11:20:39.343Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDA3MTUwMDAwMCwiR09MQVpPIEEgTE9TIDk0JzogQVJHRU5USU5BIEVNUEFUw5MgQ09OIFZFTkVaVUVMQSBZIFNFIE1FVEnDkyBFTiBTRU1JRklOQUxFUyJd": {
       "account": "main",
       "title": "GOLAZO A LOS 94': ARGENTINA EMPATÓ CON VENEZUELA Y SE METIÓ EN SEMIFINALES",
@@ -1117,7 +1124,7 @@
   },
   "nextAt": {
     "f1": "2026-09-21T12:25:00.000Z",
-    "main": "2026-09-22T10:20:00.000Z"
+    "main": "2026-09-22T11:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
