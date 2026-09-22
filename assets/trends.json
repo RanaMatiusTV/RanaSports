@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T14:26:30.718Z",
+  "updatedAt": "2026-09-22T14:53:51.706Z",
   "trends": [
+    {
+      "query": "tulio crespi",
+      "startedAt": "2026-09-22T14:30:00.000Z",
+      "volume": 200
+    },
     {
       "query": "classroom",
       "startedAt": "2026-09-22T11:00:00.000Z",
@@ -12,11 +17,6 @@
       "query": "europa",
       "startedAt": "2026-09-22T10:50:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "abc",
-      "startedAt": "2026-09-22T10:50:00.000Z",
-      "volume": 2000
     },
     {
       "query": "universidad",
@@ -29,14 +29,14 @@
       "volume": 50000
     },
     {
-      "query": "infobae",
-      "startedAt": "2026-09-22T10:20:00.000Z",
-      "volume": 1000
-    },
-    {
       "query": "posiciones de barracas central contra independiente rivadavia",
       "startedAt": "2026-09-22T09:50:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "la cueva del león",
+      "startedAt": "2026-09-22T09:20:00.000Z",
+      "volume": 2000
     },
     {
       "query": "pami",
