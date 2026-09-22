@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJiYXNxdWV0IiwxNzkwMDY0MzAwMDAwLCJCT0NBIERFQlVUQSBFTiBMQSBDT1BBIElOVEVSQ09OVElORU5UQUw6IFZBIFBPUiBVTiBUw41UVUxPIEhJU1TDk1JJQ08gRU4gQ0hJTkEiXQ": {
+      "account": "main",
+      "title": "BOCA DEBUTA EN LA COPA INTERCONTINENTAL: VA POR UN TÍTULO HISTÓRICO EN CHINA",
+      "dueAt": "2026-09-22T08:20:00.000Z",
+      "bufferPostId": "6ab239d7e49f2a98454de673",
+      "createdAt": "2026-09-22T08:18:31.812Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDA1NzE2MDAwMCwiRMONQSBERSBGSU5BTEVTOiBMT1MgTEVPTkVTIFkgTEFTIExFT05BUyBWQU4gUE9SIERPUyBPUk9TIEFOVEUgQ0hJTEUiXQ": {
       "account": "main",
       "title": "DÍA DE FINALES: LOS LEONES Y LAS LEONAS VAN POR DOS OROS ANTE CHILE",
@@ -1103,7 +1110,7 @@
   },
   "nextAt": {
     "f1": "2026-09-21T12:25:00.000Z",
-    "main": "2026-09-22T06:25:00.000Z"
+    "main": "2026-09-22T08:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
