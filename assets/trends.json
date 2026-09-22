@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T10:26:53.017Z",
+  "updatedAt": "2026-09-22T10:52:09.497Z",
   "trends": [
+    {
+      "query": "universidad",
+      "startedAt": "2026-09-22T10:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "clima",
+      "startedAt": "2026-09-22T10:20:00.000Z",
+      "volume": 50000
+    },
+    {
+      "query": "infobae",
+      "startedAt": "2026-09-22T10:20:00.000Z",
+      "volume": 500
+    },
     {
       "query": "posiciones de barracas central contra independiente rivadavia",
       "startedAt": "2026-09-22T09:50:00.000Z",
@@ -11,22 +26,17 @@
     {
       "query": "entrenador",
       "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "meteorología",
       "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "22 de septiembre",
-      "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "pami",
       "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "tiempo",
@@ -36,22 +46,12 @@
     {
       "query": "temperatura",
       "startedAt": "2026-09-22T09:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "posiciones de club atlético lanús contra estudiantes de la plata",
       "startedAt": "2026-09-22T08:40:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "betano",
-      "startedAt": "2026-09-22T08:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "mercado libre",
-      "startedAt": "2026-09-21T22:10:00.000Z",
-      "volume": 1000
     }
   ]
 }
