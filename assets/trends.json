@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T21:23:24.366Z",
+  "updatedAt": "2026-09-22T21:50:55.577Z",
   "trends": [
+    {
+      "query": "edinson cavani",
+      "startedAt": "2026-09-22T21:10:00.000Z",
+      "volume": 100
+    },
     {
       "query": "argentina vs",
       "startedAt": "2026-09-22T21:00:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "club atlético river plate",
       "startedAt": "2026-09-22T20:40:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "bono",
@@ -47,11 +52,6 @@
       "query": "claude",
       "startedAt": "2026-09-22T15:40:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "tulio crespi",
-      "startedAt": "2026-09-22T14:30:00.000Z",
-      "volume": 2000
     }
   ]
 }
