@@ -1,117 +1,5 @@
 [
   {
-    "row": 7,
-    "date": "21/9/2026",
-    "time": "18:03",
-    "category": "Boca",
-    "title": "“VENDEN HUMO”: VILLA APUNTÓ CONTRA DAVOO Y LA COBRA Y ENCENDIÓ LAS REDES",
-    "source": "https://tn.com.ar/deportes/futbol/2026/09/21/venden-humo-la-explosiva-declaracion-de-sebastian-villa-contra-los-dos-streamers-mas-famosos-de-boca/"
-  },
-  {
-    "row": 8,
-    "date": "21/9/2026",
-    "time": "13:03",
-    "category": "Independiente",
-    "title": "INDEPENDIENTE YA PIENSA EN INSTITUTO: CHIMY ÁVILA ES LA PRINCIPAL DUDA ENTRE TRES TOCADOS",
-    "source": "https://www.tycsports.com/independiente/los-jugadores-entre-algodones-que-tiene-independiente-en-la-previa-de-un-duelo-clave-ante-instituto--id762296.html"
-  },
-  {
-    "row": 11,
-    "date": "21/9/2026",
-    "time": "13:03",
-    "category": "Racing",
-    "title": "OCHO FUTBOLISTAS DE RACING RETOMAN EL SECUNDARIO CON APOYO DEL CLUB",
-    "source": "https://www.tycsports.com/racing-club/los-ocho-futbolistas-de-racing-que-retoman-el-secundario-id762286.html"
-  },
-  {
-    "row": 12,
-    "date": "21/9/2026",
-    "time": "13:03",
-    "category": "Fútbol argentino",
-    "title": "INSÓLITO EN VICENTE LÓPEZ: FUE A VER A PLATENSE Y RECIÉN EN LA CANCHA SUPO QUE ERA A PUERTAS CERRADAS",
-    "source": "https://www.tycsports.com/liga-profesional-de-futbol/insolito-fue-a-ver-a-platense-y-se-entero-en-la-cancha-que-jugaba-a-puertas-cerradas-id762280.html"
-  },
-  {
-    "row": 14,
-    "date": "21/9/2026",
-    "time": "13:03",
-    "category": "Juegos Suramericanos",
-    "title": "DE ARMENIA A LA ALBICELESTE: UN MEDALLISTA OLÍMPICO LUCHA POR ARGENTINA EN SANTA FE 2026",
-    "source": "https://www.tycsports.com/polideportivo/el-campeon-olimpico-armenio-que-ahora-lucha-por-argentina-en-los-juegos-suramericanos-2026-id762264.html"
-  },
-  {
-    "row": 19,
-    "date": "21/9/2026",
-    "time": "09:06",
-    "category": "Automovilismo",
-    "title": "SE PICÓ EN NASCAR: BLANEY Y HOCEVAR TERMINARON A LAS PIÑAS EN BRISTOL",
-    "source": "https://www.nascar.com/news-media/2026/09/19/blaney-wrecks-late-after-contact-with-hocevar-at-bristol/"
-  },
-  {
-    "row": 20,
-    "date": "21/9/2026",
-    "time": "09:06",
-    "category": "F1",
-    "title": "COLAPINTO YA TIENE HORARIOS PARA BAKÚ: LA F1 CORRE EL SÁBADO EN AZERBAIYÁN",
-    "source": "https://www.tycsports.com/automovilismo/f1-los-horarios-y-el-cronograma-completo-del-gp-de-azerbaiyan-id760835.html"
-  },
-  {
-    "row": 22,
-    "date": "21/9/2026",
-    "time": "09:06",
-    "category": "Fútbol argentino",
-    "title": "INDEPENDIENTE RIVADAVIA DEFIENDE LA CIMA ANUAL ANTE UN BARRACAS QUE NO LEVANTA",
-    "source": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-barracas-central-vs-independiente-riv-m-fecha-10-id762122.html"
-  },
-  {
-    "row": 23,
-    "date": "21/9/2026",
-    "time": "09:06",
-    "category": "Fútbol argentino",
-    "title": "ALDOSIVI RECIBE A ATLÉTICO TUCUMÁN: EL TIBURÓN NECESITA SALIR DEL FONDO",
-    "source": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-aldosivi-vs-atletico-tucuman-fecha-10-id762057.html"
-  },
-  {
-    "row": 33,
-    "date": "21/9/2026",
-    "time": "04:05",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA CERRÓ EL DÍA 8 CON 160 MEDALLAS Y SIGUE SEGUNDA EN SANTA FE 2026",
-    "source": "https://deportv.gob.ar/polideportivo/medallero-juegos-suramericanos-dia-8-argentina-reune-159-medallas-42-oro-nid:17277"
-  },
-  {
-    "row": 34,
-    "date": "21/9/2026",
-    "time": "04:05",
-    "category": "Fútbol argentino",
-    "title": "LANÚS RECIBE A ESTUDIANTES: EL GRANATE VA POR SU TERCER TRIUNFO SEGUIDO Y EL PINCHA LLEGA DE LA LIBERTADORES",
-    "source": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-lanus-vs-estudiantes-fecha-10-id762145.html"
-  },
-  {
-    "row": 41,
-    "date": "21/9/2026",
-    "time": "00:07",
-    "category": "Juegos Suramericanos",
-    "title": "LA GARRA ES DE ORO: CAMPEONA SURAMERICANA DESPUÉS DE 16 AÑOS",
-    "source": "https://deportv.gob.ar/polideportivo/garra-medalla-oro-handball-juegos-suramericanos-nid:17279"
-  },
-  {
-    "row": 42,
-    "date": "21/9/2026",
-    "time": "00:07",
-    "category": "Juegos Suramericanos",
-    "title": "ORO Y PLATA EN FAMILIA: ULF Y KAI DITSCH HICIERON EL 1-2 ARGENTINO EN WAKEBOARD",
-    "source": "https://www.argentina.gob.ar/noticias/el-esqui-nautico-y-una-coleccion-de-medallas-en-santa-fe-2026"
-  },
-  {
-    "row": 43,
-    "date": "21/9/2026",
-    "time": "00:07",
-    "category": "Juegos Suramericanos",
-    "title": "CAMILA AMARILLA SE QUEDÓ CON EL BRONCE EN LUCHA LIBRE",
-    "source": "https://www.argentina.gob.ar/noticias/el-esqui-nautico-y-una-coleccion-de-medallas-en-santa-fe-2026"
-  },
-  {
     "row": 53,
     "date": "20/9/2026",
     "time": "18:42",
@@ -120,36 +8,12 @@
     "source": "https://www.universoturadio.com.ar/articulo/insolito-momento-en-el-nuevo-gasometro-un-hincha-de-san-lorenzo-se-metio-a-abrazar-a-leandro-paredes.php"
   },
   {
-    "row": 56,
-    "date": "20/9/2026",
-    "time": "18:11",
-    "category": "Ciclismo",
-    "title": "ARGENTINA METIÓ CUATRO EQUIPOS EN LAS FINALES DEL CICLISMO DE PISTA Y VA POR MÁS MEDALLAS",
-    "source": "https://diariocastellanos.com.ar/deportes/2026/09/20/argentina-aseguro-cuatro-finales-en-el-ciclismo-de-pista-y-va-por-mas-medallas.htm"
-  },
-  {
     "row": 57,
     "date": "20/9/2026",
     "time": "18:07",
     "category": "Juegos Suramericanos",
     "title": "GUARAGNA Y ALSOGARAY, BRONCE: FALASCA FUE LA CAMPEONA ARGENTINA EN VELA",
     "source": "https://www.coarg.org.ar/component/k2/item/16616-con-un-oro-de-falasca-y-cuatro-bronces-la-vela-argentina-brillo-en-santa-fe-2026"
-  },
-  {
-    "row": 58,
-    "date": "20/9/2026",
-    "time": "18:07",
-    "category": "Juegos Suramericanos",
-    "title": "CELESTE D'ARCÁNGELO ES DE BRONCE: PODIO ARGENTINO EN EL ALL AROUND DE GIMNASIA RÍTMICA",
-    "source": "https://www.coarg.org.ar/component/k2/item/16625-bronce-para-celeste-d-arcangelo-en-la-individual-de-gimnasia-ritmica"
-  },
-  {
-    "row": 59,
-    "date": "20/9/2026",
-    "time": "17:41",
-    "category": "Juegos Suramericanos",
-    "title": "EUGENIA DE ARMAS FUE ORO Y VICKY BRONCE: PODIO ARGENTINO EN WAKEBOARD",
-    "source": "https://deportv.gob.ar/polideportivo/eugenia-armas-oro-santa-fe-podio-compartido-hermana-vicky-nid:17262"
   },
   {
     "row": 60,
@@ -176,14 +40,6 @@
     "source": "https://www.coarg.org.ar/component/k2/item/16613-el-equipo-mixto-argentino-logro-la-medalla-de-bronce-al-vencer-a-colombia"
   },
   {
-    "row": 67,
-    "date": "20/9/2026",
-    "time": "17:03",
-    "category": "Juegos Suramericanos",
-    "title": "ORO Y PLATA EN TIRO: EBERHARDT Y ZOCCALI HICIERON EL 1-2 ARGENTINO",
-    "source": "https://www.coarg.org.ar/component/k2/item/16615-eberhardt-y-zoccali-albizu-hicieron-historia-con-un-1-2-argentino-en-el-tiro"
-  },
-  {
     "row": 69,
     "date": "20/9/2026",
     "time": "16:03",
@@ -208,36 +64,12 @@
     "source": "https://www.tycsports.com/copa-sudamericana/grave-denuncia-soborno-copa-sudamericana-id762188.html"
   },
   {
-    "row": 75,
-    "date": "20/9/2026",
-    "time": "14:17",
-    "category": "Fútbol internacional",
-    "title": "ATLÉTICO GANÓ EL DERBI: 2-1 AL REAL MADRID CON DIEZ Y GOLPE A LA LIGA",
-    "source": "https://www.ctpost.com/sports/article/atletico-madrid-beats-10-man-real-madrid-2-1-in-22440763.php"
-  },
-  {
     "row": 77,
     "date": "20/9/2026",
     "time": "14:07",
     "category": "Automovilismo",
     "title": "EL TURISMO NACIONAL CAMBIA SAN NICOLÁS POR CONCORDIA PARA LA PENÚLTIMA FECHA",
     "source": "https://www.elonce.com/amp/el-turismo-nacional-confirmo-que-concordia-recibira-la-penultima-fecha-de-la-temporada.htm"
-  },
-  {
-    "row": 79,
-    "date": "20/9/2026",
-    "time": "13:23",
-    "category": "Juegos Suramericanos",
-    "title": "LAS YAGUARETÉS VAN POR LAS MEDALLAS Y UNA PLAZA A LIMA 2027",
-    "source": "https://www.tycsports.com/rugby/los-pumas-7s-las-yaguaretes-juegos-suramericanos-2026-id761635.html"
-  },
-  {
-    "row": 80,
-    "date": "20/9/2026",
-    "time": "13:23",
-    "category": "Juegos Suramericanos",
-    "title": "LOS PUMAS 7'S CIERRAN ANTE BRASIL Y VAN POR OTRO ORO SURAMERICANO",
-    "source": "https://www.tycsports.com/rugby/los-pumas-7s-las-yaguaretes-juegos-suramericanos-2026-id761635.html"
   },
   {
     "row": 81,
@@ -256,76 +88,12 @@
     "source": "https://www.tycsports.com/seleccion-argentina/barco-palpito-despedida-messi-seleccion-argentina-id762191.html"
   },
   {
-    "row": 83,
-    "date": "20/9/2026",
-    "time": "13:15",
-    "category": "San Lorenzo",
-    "title": "SAN LORENZO REAVIVÓ LA POLÉMICA DEL HISTORIAL CON BOCA: ASEGURA QUE LA DIFERENCIA ES DE 13 PARTIDOS",
-    "source": "https://www.tycsports.com/san-lorenzo/san-lorenzo-historial-boca-id762178.html"
-  },
-  {
-    "row": 89,
-    "date": "20/9/2026",
-    "time": "11:29",
-    "category": "Fútbol argentino",
-    "title": "PLATENSE–NEWELL'S SE JUEGA A PUERTAS CERRADAS: UNA TARDE ATÍPICA EN VICENTE LÓPEZ",
-    "source": "https://www.365scores.com/es/news/platense-vs-newells-puertas-cerradas-hoy/"
-  },
-  {
-    "row": 91,
-    "date": "20/9/2026",
-    "time": "11:27",
-    "category": "Fútbol argentino",
-    "title": "BELGRANO RECIBE A ESTUDIANTES DE RÍO CUARTO ANTES DEL CLÁSICO CORDOBÉS",
-    "source": "https://www.directvsports.com/futbol/belgrano-vs.-estudiantes-rc-juegan-hoy-todo-lo-que-tenes-que-saber-del-partido-del-clausura-20260917-0054.html"
-  },
-  {
-    "row": 92,
-    "date": "20/9/2026",
-    "time": "11:26",
-    "category": "Fútbol argentino",
-    "title": "VÉLEZ–TIGRE CIERRA EL DOMINGO DEL CLAUSURA CON PUNTOS PESADOS EN JUEGO",
-    "source": "https://www.directvsports.com/futbol/velez-vs.-tigre-juegan-hoy-todo-lo-que-tenes-que-saber-del-partido-del-clausura-20260917-0057.html"
-  },
-  {
     "row": 98,
     "date": "20/9/2026",
     "time": "10:24",
     "category": "Automovilismo",
     "title": "SIMÓN BULBARELLA, LA PROMESA ARGENTINA DE 17 AÑOS QUE SUEÑA CON LLEGAR A LA F1",
     "source": "https://tn.com.ar/deportes/formula-1/2026/09/20/tiene-17-anos-corre-en-las-categorias-donde-empezo-colapinto-y-suena-con-llegar-a-la-formula-1-quien-es-simon-bulbarela/"
-  },
-  {
-    "row": 99,
-    "date": "20/9/2026",
-    "time": "10:23",
-    "category": "F1",
-    "title": "COLAPINTO Y PECHITO INTERCAMBIARON CASCOS: EL MENSAJE DE FRANCO QUE EMOCIONÓ AL CORDOBÉS",
-    "source": "https://tn.com.ar/deportes/formula-1/2026/09/20/franco-colapinto-intercambio-cascos-con-pechito-lopez-y-lo-emociono-con-una-frase/"
-  },
-  {
-    "row": 100,
-    "date": "20/9/2026",
-    "time": "10:22",
-    "category": "Atletismo",
-    "title": "MAINETTI FUE LA PRIMERA ARGENTINA EN CRUZAR LA META DE LA MARATÓN DE BUENOS AIRES",
-    "source": "https://tn.com.ar/deportes/polideportivo/2026/09/20/el-keniata-bethwel-kibet-chumba-gano-la-maraton-de-buenos-aires/"
-  },
-  {
-    "row": 103,
-    "date": "20/9/2026",
-    "time": "10:15",
-    "category": "River",
-    "title": "RIVER QUEDÓ CONTRA LAS CUERDAS EN LA PELEA POR LA LIBERTADORES 2027",
-    "source": "https://www.mdzol.com/deportes/river-y-un-escenario-incomodo-que-necesita-jugar-la-proxima-libertadores-n1610762"
-  },
-  {
-    "row": 104,
-    "date": "20/9/2026",
-    "time": "09:05",
-    "category": "Fútbol argentino",
-    "title": "ALDOSIVI SE JUEGA UNA FINAL ANTE ATLÉTICO TUCUMÁN: EL TIBURÓN NECESITA REACCIONAR",
-    "source": ""
   },
   {
     "row": 106,
@@ -336,108 +104,12 @@
     "source": "https://www.mdzol.com/deportes/video-el-exabrupto-otamendi-una-nota-la-tv-la-dura-caida-river-huracan-n1610712"
   },
   {
-    "row": 107,
-    "date": "20/9/2026",
-    "time": "08:08",
-    "category": "Selección Argentina",
-    "title": "LA SUB 19 REVIVIÓ EN SANTA FE 2026: LE GANÓ A URUGUAY Y SIGUE EN CARRERA",
-    "source": ""
-  },
-  {
-    "row": 108,
-    "date": "20/9/2026",
-    "time": "05:12",
-    "category": "Boxeo",
-    "title": "PÁRENSE DE MANOS IV CONFIRMÓ TODA LA CARTELERA: BRIAN SARMIENTO VA CONTRA EL POLACO",
-    "source": "https://www.infobae.com/deportes/2026/09/18/se-conoceran-las-peleas-del-parense-de-manos-iv-hora-y-todo-lo-que-tenes-que-saber/"
-  },
-  {
-    "row": 109,
-    "date": "20/9/2026",
-    "time": "05:11",
-    "category": "Fútbol argentino",
-    "title": "LA TABLA ANUAL ARDE: LA PELEA POR LIBERTADORES Y SUDAMERICANA ENTRA EN ZONA CALIENTE",
-    "source": "https://www.tycsports.com/copa-sudamericana/tabla-anual-2026-clasificacion-libertadores-sudamericana-2027-id751165.html"
-  },
-  {
-    "row": 110,
-    "date": "20/9/2026",
-    "time": "05:10",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA YA SUMA 136 MEDALLAS Y SIGUE SEGUNDA EN SANTA FE 2026",
-    "source": "https://www.infobae.com/deportes/2026/09/20/las-15-medallas-que-argentina-consiguio-en-la-septima-jornada-de-los-juegos-suramericanos-santa-fe-2026-asi-estan-las-posiciones/"
-  },
-  {
-    "row": 113,
-    "date": "20/9/2026",
-    "time": "04:22",
-    "category": "Messi",
-    "title": "MESSI VUELVE A ESCENA: INTER MIAMI RECIBE A SAN DIEGO TRAS SER CAMPEÓN",
-    "source": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-takes-on-san-diego-fc-for-the-first-time-on-sunday"
-  },
-  {
-    "row": 114,
-    "date": "20/9/2026",
-    "time": "04:21",
-    "category": "Fútbol Internacional",
-    "title": "LE CLASSIQUE SE ROBA FRANCIA: MARSELLA RECIBE AL PSG EN EL VÉLODROME",
-    "source": "https://www.goal.com/en-us/news/watch-marseille-v-paris-saint-germain-live-stream-online-tv-channel/blt16e2c4e92d031569"
-  },
-  {
-    "row": 115,
-    "date": "20/9/2026",
-    "time": "04:20",
-    "category": "Fútbol Internacional",
-    "title": "MADRID SE PARALIZA: ATLÉTICO Y REAL JUEGAN EL PRIMER DERBI DE LA TEMPORADA",
-    "source": "https://www.directvsports.com/amp/futbol/atletico-de-madrid-vs.-real-madrid-todo-lo-que-tenes-que-saber-del-duelo-de-la-liga-20260917-0030.html"
-  },
-  {
-    "row": 117,
-    "date": "20/9/2026",
-    "time": "04:18",
-    "category": "Fútbol Internacional",
-    "title": "IRAOLA VUELVE A BOURNEMOUTH, PERO AHORA AL MANDO DEL LIVERPOOL",
-    "source": "https://as.com/futbol/internacional/bournemouth-liverpool-tv-horario-como-y-donde-ver-hoy-la-premier-league-online-f202609-n/"
-  },
-  {
     "row": 118,
     "date": "20/9/2026",
     "time": "04:17",
     "category": "Fútbol Internacional",
     "title": "UNITED, BAJO PRESIÓN: VISITA A FULHAM CON CARRICK EN EL CENTRO DE LA ESCENA",
     "source": "https://theanalyst.com/articles/fulham-vs-man-utd-prediction-premier-league-09-2026"
-  },
-  {
-    "row": 119,
-    "date": "20/9/2026",
-    "time": "04:16",
-    "category": "Fútbol Internacional",
-    "title": "JUVENTUS–ATALANTA, CRUCE PESADO EN TURÍN ANTES DEL PARATE",
-    "source": "https://www.blackwhitereadallover.com/previews-reviews/41556/juventus-atalanta-2026-serie-a-matchday-5-preview-team-news-schedule-how-to-watch"
-  },
-  {
-    "row": 120,
-    "date": "20/9/2026",
-    "time": "04:15",
-    "category": "Fútbol Internacional",
-    "title": "FIORENTINA–NAPOLI ABRE EL DOMINGO ITALIANO CON UN DUELO DE PESO",
-    "source": "https://www.clarin.com/deportes/agenda-deportiva"
-  },
-  {
-    "row": 122,
-    "date": "20/9/2026",
-    "time": "04:13",
-    "category": "Juegos Suramericanos",
-    "title": "JUDO POR EQUIPOS: ARGENTINA VA POR OTRA MEDALLA EN EL TATAMI",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-domingo-20-de-septiembre-cronograma-y-resultados-id762141.html"
-  },
-  {
-    "row": 123,
-    "date": "20/9/2026",
-    "time": "04:12",
-    "category": "Ciclismo",
-    "title": "CICLISMO DE PISTA: ARGENTINA BUSCA PODIOS EN PERSECUCIÓN Y VELOCIDAD POR EQUIPOS",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-domingo-20-de-septiembre-cronograma-y-resultados-id762141.html"
   },
   {
     "row": 125,
@@ -448,59 +120,11 @@
     "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-domingo-20-de-septiembre-cronograma-y-resultados-id762141.html"
   },
   {
-    "row": 126,
-    "date": "20/9/2026",
-    "time": "04:09",
-    "category": "Juegos Suramericanos",
-    "title": "GIMNASIA RÍTMICA: SCHAFFER Y LAS ARGENTINAS VAN POR LAS FINALES DEL DOMINGO",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-domingo-20-de-septiembre-cronograma-y-resultados-id762141.html"
-  },
-  {
-    "row": 127,
-    "date": "20/9/2026",
-    "time": "04:08",
-    "category": "Juegos Suramericanos",
-    "title": "TRAMPOLÍN: WEISE, FERRARI, MALDONADO Y PODESTÁ BUSCAN OTRA FINAL PARA ARGENTINA",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-domingo-20-de-septiembre-cronograma-y-resultados-id762141.html"
-  },
-  {
-    "row": 130,
-    "date": "20/9/2026",
-    "time": "03:03",
-    "category": "Fútbol Internacional",
-    "title": "ARTETA ADMITIÓ EL GOLPE TRAS EL 0-3 DEL ARSENAL",
-    "source": "https://www.theguardian.com/football/2026/sep/19/mikel-arteta-arsenal-humbled-brighton-defeat"
-  },
-  {
-    "row": 136,
-    "date": "20/9/2026",
-    "time": "02:01",
-    "category": "Fútbol argentino",
-    "title": "BARRACAS E INDEPENDIENTE RIVADAVIA CIERRAN SU PREPARACIÓN PARA UN CRUCE CLAVE DE LA ZONA B",
-    "source": "https://www.lanacion.com.ar/deportes/futbol/barracas-central-vs-independiente-rivadavia-por-el-torneo-clausura-2026-dia-hora-y-como-ver-online-nid20092026/"
-  },
-  {
     "row": 138,
     "date": "20/9/2026",
     "time": "02:00",
     "category": "Fútbol argentino",
     "title": "PLATENSE Y NEWELL'S ABREN OTRA PELEA IMPORTANTE POR LOS PUNTOS EN VICENTE LÓPEZ",
-    "source": "https://www.tycsports.com/liga-profesional-de-futbol/fecha-10-del-clausura-2026-resultados-y-partidos-de-la-liga-profesional-argentina-id761584.html"
-  },
-  {
-    "row": 139,
-    "date": "20/9/2026",
-    "time": "01:59",
-    "category": "Fútbol argentino",
-    "title": "BELGRANO RECIBE A ESTUDIANTES DE RÍO CUARTO EN UN DUELO CORDOBÉS POR EL CLAUSURA",
-    "source": "https://www.tycsports.com/liga-profesional-de-futbol/fecha-10-del-clausura-2026-resultados-y-partidos-de-la-liga-profesional-argentina-id761584.html"
-  },
-  {
-    "row": 140,
-    "date": "20/9/2026",
-    "time": "01:58",
-    "category": "Fútbol argentino",
-    "title": "VÉLEZ-TIGRE CIERRA EL DOMINGO: INTERZONAL CON PUNTOS PESADOS EN LINIERS",
     "source": "https://www.tycsports.com/liga-profesional-de-futbol/fecha-10-del-clausura-2026-resultados-y-partidos-de-la-liga-profesional-argentina-id761584.html"
   },
   {
@@ -520,14 +144,6 @@
     "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-domingo-20-de-septiembre-cronograma-y-resultados-id762141.html"
   },
   {
-    "row": 143,
-    "date": "20/9/2026",
-    "time": "01:55",
-    "category": "Rugby",
-    "title": "LOS PUMAS 7'S VAN POR OTRA FINAL: BRASIL, EL PRÓXIMO OBSTÁCULO EN ROSARIO",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-domingo-20-de-septiembre-cronograma-y-resultados-id762141.html"
-  },
-  {
     "row": 149,
     "date": "19/9/2026",
     "time": "18:42",
@@ -542,14 +158,6 @@
     "category": "Juegos Suramericanos",
     "title": "ORO ARGENTINO EN JUDO: SURACE Y BENEDETTO GANARON EL KATA CON 385,5 PUNTOS",
     "source": "https://aadeporte.com.ar/2026/09/19/juegos-suramericanos-tres-oros-mas-para-la-delegacion-nacional/"
-  },
-  {
-    "row": 151,
-    "date": "19/9/2026",
-    "time": "20:39",
-    "category": "Juegos Suramericanos",
-    "title": "AGUSTÍN GIL FUE PLATA EN JUDO: PODIO ARGENTINO EN LOS 81 KILOS",
-    "source": ""
   },
   {
     "row": 152,
@@ -576,14 +184,6 @@
     "source": ""
   },
   {
-    "row": 155,
-    "date": "19/9/2026",
-    "time": "20:35",
-    "category": "Sóftbol",
-    "title": "BRONCE PARA ARGENTINA EN SÓFTBOL: 4-3 A PERÚ EN UN PARTIDAZO",
-    "source": "https://aadeporte.com.ar/2026/09/19/juegos-suramericanos-tres-oros-mas-para-la-delegacion-nacional/"
-  },
-  {
     "row": 156,
     "date": "19/9/2026",
     "time": "20:34",
@@ -597,14 +197,6 @@
     "time": "20:33",
     "category": "Juegos Suramericanos",
     "title": "ALBERTO GALLARDO QUEDÓ PRIMERO EN CROSS COUNTRY DEL CONCURSO COMPLETO",
-    "source": "https://aadeporte.com.ar/2026/09/19/juegos-suramericanos-tres-oros-mas-para-la-delegacion-nacional/"
-  },
-  {
-    "row": 158,
-    "date": "19/9/2026",
-    "time": "20:32",
-    "category": "Juegos Suramericanos",
-    "title": "TRAMPOLÍN: ARGENTINA METIÓ DOS DUPLAS EN LAS FINALES SINCRONIZADAS",
     "source": "https://aadeporte.com.ar/2026/09/19/juegos-suramericanos-tres-oros-mas-para-la-delegacion-nacional/"
   },
   {
@@ -624,60 +216,12 @@
     "source": "https://aadeporte.com.ar/2026/09/19/juegos-suramericanos-tres-oros-mas-para-la-delegacion-nacional/"
   },
   {
-    "row": 161,
-    "date": "19/9/2026",
-    "time": "20:29",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA CERRÓ EL SÁBADO CON 15 MEDALLAS Y SIGUE SEGUNDA EN SANTA FE 2026",
-    "source": "https://aadeporte.com.ar/2026/09/19/juegos-suramericanos-tres-oros-mas-para-la-delegacion-nacional/"
-  },
-  {
-    "row": 163,
-    "date": "19/9/2026",
-    "time": "22:30",
-    "category": "Fútbol Internacional",
-    "title": "CALLERI CORTÓ EL SILENCIO EN EL MORUMBÍ: GOL Y TRIUNFO DE SAN PABLO TRAS LA ELIMINACIÓN",
-    "source": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/19/sao-paulo-x-internacional-como-foi-o-jogo-pelo-brasileirao-2026.ghtm"
-  },
-  {
-    "row": 164,
-    "date": "19/9/2026",
-    "time": "18:59",
-    "category": "Fútbol Internacional",
-    "title": "VAR, ROJA POR SIMULAR Y POLÉMICA EN LA PREMIER: EVERTON SUFRIÓ PARA GANARLE A IPSWICH",
-    "source": "https://www.theguardian.com/football/2026/sep/19/everton-ipswich-premier-league-match-report"
-  },
-  {
     "row": 165,
     "date": "19/9/2026",
     "time": "19:58",
     "category": "Fútbol argentino",
     "title": "MADELÓN, DOLIDO TRAS LA REMONTADA DEL ROJO: “CON POCO, INDEPENDIENTE SE LLEVÓ EL PARTIDO”",
     "source": "https://www.airedesantafe.com.ar/deportes/leonardo-madelon-la-derrota-union-con-poco-independiente-se-llevo-el-partido-n670710"
-  },
-  {
-    "row": 166,
-    "date": "19/9/2026",
-    "time": "18:34",
-    "category": "Independiente",
-    "title": "VIERA TERMINÓ EXPULSADO EN SANTA FE EN EL CIERRE CALIENTE ANTE UNIÓN",
-    "source": "https://santafedeportivo.com.ar/2026/09/19/por-la-recuperacion-union-recibe-a-independiente-en-santa-fe/"
-  },
-  {
-    "row": 167,
-    "date": "19/9/2026",
-    "time": "17:05",
-    "category": "Independiente",
-    "title": "ALARMA EN INDEPENDIENTE: CHIMY ÁVILA SALIÓ LESIONADO ANTE UNIÓN",
-    "source": ""
-  },
-  {
-    "row": 171,
-    "date": "19/9/2026",
-    "time": "20:48",
-    "category": "Huracán",
-    "title": "BLONDEL APARECIÓ EN EL MOMENTO JUSTO: GOLAZO PARA BAJAR A RIVER EN EL MONUMENTAL",
-    "source": ""
   },
   {
     "row": 172,
@@ -696,22 +240,6 @@
     "source": "https://eldoce.tv/videos/deportes/2026/09/19/jugadon-de-lazaro-y-gol-en-contra-de-unsain-para-el-3-a-1-de-instituto-sobre-talleres/"
   },
   {
-    "row": 174,
-    "date": "19/9/2026",
-    "time": "23:18",
-    "category": "Fútbol argentino",
-    "title": "ALARCÓN ESTIRÓ LA VENTAJA: INSTITUTO GOLPEÓ DOS VECES EN OCHO MINUTOS",
-    "source": "https://www.directvsports.com/futbol/instituto-paseo-a-talleres-y-sello-su-triunfo-3-a-1-20260916-0046.html"
-  },
-  {
-    "row": 175,
-    "date": "19/9/2026",
-    "time": "23:19",
-    "category": "Fútbol argentino",
-    "title": "CERATO ABRIÓ EL CLÁSICO: DERECHAZO Y 1-0 DE INSTITUTO ANTE TALLERES",
-    "source": "https://tributv.com.ar/2026/09/19/instituto-le-gana-a-talleres-en-alta-cordoba/"
-  },
-  {
     "row": 178,
     "date": "19/9/2026",
     "time": "23:03",
@@ -726,22 +254,6 @@
     "category": "Rugby",
     "title": "LOS PUMAS 7'S CERRARON EL SÁBADO CON OTRO TRIUNFO: 38-7 A URUGUAY",
     "source": "https://radiofonica.com/cuatro-medallas-rosarinas-en-un-sabado-memorable-de-podios-en-los-juegos-suramericanos/"
-  },
-  {
-    "row": 180,
-    "date": "19/9/2026",
-    "time": "23:01",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA FUE QUINTA EN EQUIPOS DE NATACIÓN ARTÍSTICA EN SANTA FE 2026",
-    "source": "https://radiofonica.com/cuatro-medallas-rosarinas-en-un-sabado-memorable-de-podios-en-los-juegos-suramericanos/"
-  },
-  {
-    "row": 181,
-    "date": "19/9/2026",
-    "time": "23:00",
-    "category": "Juegos Suramericanos",
-    "title": "JORGE LLANO RESCATÓ EL BRONCE EN LUCHA: 4-1 A TAFUR EN LOS 86 KG",
-    "source": "https://radiofonica.com/lucha-libre-argentina-venezuela-y-brasil-conquistaron-las-medallas-de-oro-en-los-juegos-suramericanos-2026/"
   },
   {
     "row": 182,
@@ -768,14 +280,6 @@
     "source": ""
   },
   {
-    "row": 185,
-    "date": "19/9/2026",
-    "time": "22:56",
-    "category": "River",
-    "title": "PARTE MÉDICO EN RIVER: ALMADA Y ANDRADA TIENEN CONTRACTURAS Y PREOCUPAN A SCALONI",
-    "source": ""
-  },
-  {
     "row": 186,
     "date": "19/9/2026",
     "time": "22:55",
@@ -792,14 +296,6 @@
     "source": "https://www.lacapitalmdp.com/notable-comienzo-para-surfiel-gil-en-el-longboard-de-los-odesur/"
   },
   {
-    "row": 188,
-    "date": "19/9/2026",
-    "time": "22:53",
-    "category": "Juegos Suramericanos",
-    "title": "D'ARCANGELO Y VARGAS SE METIERON EN VARIAS FINALES DE GIMNASIA RÍTMICA",
-    "source": "https://aadeporte.com.ar/2026/09/19/juegos-suramericanos-tres-oros-mas-para-la-delegacion-nacional/"
-  },
-  {
     "row": 191,
     "date": "19/9/2026",
     "time": "22:02",
@@ -808,36 +304,12 @@
     "source": "https://feva.org.ar/selecciones-nacionales/seleccion-nacional-femenina/triunfo-ante-colombia-y-medalla-de-plata-en-los-juegos-suramericanos/"
   },
   {
-    "row": 192,
-    "date": "19/9/2026",
-    "time": "22:01",
-    "category": "Juegos Suramericanos",
-    "title": "MAURO IGLESIAS FUE BRONCE EN SKATE STREET: PODIO ARGENTINO EN RAFAELA",
-    "source": "https://diariolaopinion.com.ar/deportes/el-peruano.htm"
-  },
-  {
-    "row": 193,
-    "date": "19/9/2026",
-    "time": "22:00",
-    "category": "Fútbol Internacional",
-    "title": "MURIÓ SANDRO MAZZOLA, LEYENDA DEL INTER QUE LE GANÓ DOS INTERCONTINENTALES A INDEPENDIENTE",
-    "source": "https://tn.com.ar/deportes/futbol/2026/09/19/dolor-en-el-futbol-murio-una-leyenda-italiana-que-hizo-historia-con-un-dt-argentino-y-le-gano-dos-finales-a-independiente/"
-  },
-  {
     "row": 196,
     "date": "19/9/2026",
     "time": "21:57",
     "category": "Independiente",
     "title": "INSULTOS CONTRA CHIQUI TAPIA EN SANTA FE: LA TRIBUNA DE UNIÓN EXPLOTÓ DURANTE EL PARTIDO CON INDEPENDIENTE",
     "source": "https://www.lanacion.com.ar/deportes/futbol/independiente-retrocedio-en-el-juego-pero-se-llevo-los-tres-puntos-de-santa-fe-vencio-a-union-2-1-nid19092026/"
-  },
-  {
-    "row": 197,
-    "date": "19/9/2026",
-    "time": "21:56",
-    "category": "Fútbol argentino",
-    "title": "CLÁSICO CORDOBÉS EN MARCHA: INSTITUTO Y TALLERES ARRANCARON 0-0 EN ALTA CÓRDOBA",
-    "source": "https://canalshowsport.com.ar/en-juego-instituto-y-talleres-igualan-sin-goles-en-alta-cordoba/"
   },
   {
     "row": 201,
@@ -856,52 +328,12 @@
     "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-sabado-19-de-septiembre-cronograma-y-resultados-id761897.html"
   },
   {
-    "row": 203,
-    "date": "19/9/2026",
-    "time": "21:50",
-    "category": "Boca / San Lorenzo",
-    "title": "SAN LORENZO–BOCA, EL CLÁSICO DEL DOMINGO: EL XENEIZE VA AL NUEVO GASÓMETRO SIN ENNER VALENCIA",
-    "source": "https://www.lanacion.com.ar/deportes/futbol/agenda-de-tv-y-streaming-del-domingo-san-lorenzo-boca-el-clasico-de-madrid-argentina-por-copa-davis-nid19092026/"
-  },
-  {
-    "row": 204,
-    "date": "19/9/2026",
-    "time": "20:54",
-    "category": "River",
-    "title": "ANDRADA SALIÓ LESIONADO Y ENTRE LÁGRIMAS EN RIVER: OTRA BAJA EN PLENO PARTIDO",
-    "source": "https://www.rionegro.com.ar/deportes/alarma-en-la-seleccion-argentina-thiago-almada-se-retiro-lesionado-ante-huracan-y-peligra-su-presencia-en-los-amistosos-4728879/"
-  },
-  {
-    "row": 205,
-    "date": "19/9/2026",
-    "time": "20:50",
-    "category": "River",
-    "title": "GALVÁN ROMPIÓ EL ARCO: EL GOLAZO QUE HABÍA EMPATADO RIVER ANTE HURACÁN",
-    "source": ""
-  },
-  {
     "row": 206,
     "date": "19/9/2026",
     "time": "20:45",
     "category": "Independiente",
     "title": "VIERA, DESPUÉS DEL TRIUNFO DEL ROJO: “ESTOY ENCONTRANDO EL EQUIPO”",
     "source": "https://www.directvsports.com/futbol/la-palabra-de-jadson-viera-tras-el-buen-triunfo-de-independiente-ante-union-estoy-encontrando-el-equipo-20260919-0036.html"
-  },
-  {
-    "row": 209,
-    "date": "19/9/2026",
-    "time": "20:30",
-    "category": "Boca",
-    "title": "SORPRESA EN BOCA: ENNER VALENCIA QUEDÓ AFUERA DEL CLÁSICO ANTE SAN LORENZO",
-    "source": "https://la100.cienradios.com/deportes/sorpresa-en-boca-rodolfo-arruabarrena-dejo-a-un-jugador-afuera-de-los-convocados-para-el-partido-contra-san-lorenzo/"
-  },
-  {
-    "row": 210,
-    "date": "19/9/2026",
-    "time": "20:25",
-    "category": "Racing",
-    "title": "RACING VOLVIÓ A GANAR: 3-1 A SARMIENTO Y UN GOLAZO DE ESCUDERO",
-    "source": "https://radiomitre.cienradios.com/deportes/racing-club-se-impuso-3-a-1-frente-a-sarmiento-en-la-fecha-10-del-torneo-clausura-2026/"
   },
   {
     "row": 212,
@@ -936,60 +368,12 @@
     "source": "https://www.ellitoral.com/deportes/juegossuramericanossantafe2026-alexisplakoudakis-bowling-argentina-julianafranco_0_I25XjHU8l5.html"
   },
   {
-    "row": 216,
-    "date": "19/9/2026",
-    "time": "19:55",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA YA LLEGÓ A 136 MEDALLAS Y SIGUE SEGUNDA EN SANTA FE 2026",
-    "source": "https://www.ellitoral.com/deportes/juegossuramericanossantafe2026-medallero-brasil-argentina-juegossuramericanos-medallerooficial-colombia_0_OViGuRTEUC.html"
-  },
-  {
     "row": 217,
     "date": "19/9/2026",
     "time": "19:50",
     "category": "Atletismo",
     "title": "BUENOS AIRES SE PREPARA PARA SU MARATÓN: MÁS DE 16 MIL CORREDORES DE 64 PAÍSES",
     "source": "https://deportv.gob.ar/polideportivo/maraton-internacional-aires-2026-horario-recorrido-cortes-transito-nid%3A17225"
-  },
-  {
-    "row": 218,
-    "date": "19/9/2026",
-    "time": "20:18",
-    "category": "Fútbol Internacional",
-    "title": "LONDON CITY GOLEÓ 4-1 A CHARLTON Y SE METIÓ TERCERO EN LA WSL",
-    "source": "https://www.reuters.com/sports/soccer/holmbergs-stoppage-time-goal-rescues-arsenal-draw-man-united-wsl-2026-09-19/"
-  },
-  {
-    "row": 219,
-    "date": "19/9/2026",
-    "time": "20:17",
-    "category": "Fútbol Internacional",
-    "title": "CHELSEA SE ACOMODÓ EN LA WSL: 2-0 A BIRMINGHAM CON GOL DE MALARD EN SU DEBUT",
-    "source": "https://sports.yahoo.com/articles/chelsea-2-0-birmingham-women-133910382.html"
-  },
-  {
-    "row": 220,
-    "date": "19/9/2026",
-    "time": "20:16",
-    "category": "Fútbol Internacional",
-    "title": "HOLMBERG SALVÓ AL ARSENAL EN EL 95': 1-1 ANTE MANCHESTER UNITED EN LA WSL",
-    "source": "https://www.reuters.com/sports/soccer/holmbergs-stoppage-time-goal-rescues-arsenal-draw-man-united-wsl-2026-09-19/"
-  },
-  {
-    "row": 221,
-    "date": "19/9/2026",
-    "time": "20:15",
-    "category": "Fútbol Internacional",
-    "title": "ANGERS FUE CONTUNDENTE: 2-0 A TROYES PARA SUMAR DE A TRES EN LA LIGUE 1",
-    "source": "https://www.sofascore.com/news/angers-2-0-troyes-sbai-leads-a-clinical-ligue-1-win"
-  },
-  {
-    "row": 222,
-    "date": "19/9/2026",
-    "time": "20:14",
-    "category": "Fútbol Internacional",
-    "title": "BERNARDESCHI MARCÓ Y BOLOGNA EMPATÓ 1-1 CON TORINO EN EL DEBUT DE PALLADINO",
-    "source": "https://football-italia.net/serie-a-bologna-1-1-torino-palladino-debut/"
   },
   {
     "row": 223,
@@ -1048,38 +432,6 @@
     "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-sabado-19-de-septiembre-cronograma-y-resultados-id761897.html"
   },
   {
-    "row": 230,
-    "date": "19/9/2026",
-    "time": "20:06",
-    "category": "Juegos Suramericanos",
-    "title": "FRANCISCO GIORGIS TAMBIÉN AL PODIO: BRONCE ARGENTINO EN EL OVERALL DE ESQUÍ NÁUTICO",
-    "source": "https://www.redboing.com/otra-jornada-repleta-de-medallas-para-argentina-en-los-suramericanos-2026/"
-  },
-  {
-    "row": 231,
-    "date": "19/9/2026",
-    "time": "20:05",
-    "category": "Juegos Suramericanos",
-    "title": "TOBÍAS GIORGIS FUE PLATA EN OVERALL Y VOLVIÓ A SUBIR AL PODIO EN SANTA FE 2026",
-    "source": "https://www.redboing.com/otra-jornada-repleta-de-medallas-para-argentina-en-los-suramericanos-2026/"
-  },
-  {
-    "row": 232,
-    "date": "19/9/2026",
-    "time": "20:04",
-    "category": "Juegos Suramericanos",
-    "title": "LAS YAGUARETÉS TAMBIÉN BAJARON A COLOMBIA: 24-5 Y CUATRO TRIUNFOS AL HILO",
-    "source": "https://www.analisisdigital.com.ar/deportes/2026/09/19/con-aporte-entrerriano-las-yaguaretes-superaron-paraguay-y-colombia"
-  },
-  {
-    "row": 233,
-    "date": "19/9/2026",
-    "time": "19:06",
-    "category": "Independiente",
-    "title": "INDEPENDIENTE LO DIO VUELTA EN SANTA FE: 2-1 A UNIÓN CON UNA RÁFAGA DE MONTIEL Y MEZA",
-    "source": "https://bolavip.com/ar/futbolargentino/union-independiente-fecha-10-torneo-clausura-videos-goles-resumen"
-  },
-  {
     "row": 234,
     "date": "19/9/2026",
     "time": "19:05",
@@ -1104,44 +456,12 @@
     "source": "https://www.reuters.com/sports/soccer/wrapup-soccer-manzambi-jackson-buendia-fire-villa-first-win-spurs-misery-deepens-2026-09-19/"
   },
   {
-    "row": 239,
-    "date": "19/9/2026",
-    "time": "19:00",
-    "category": "Fútbol Internacional",
-    "title": "EVERTON SE METIÓ ENTRE LOS DE ARRIBA: 1-0 A IPSWICH EN LA PREMIER",
-    "source": "https://www.reuters.com/sports/soccer/wrapup-soccer-manzambi-jackson-buendia-fire-villa-first-win-spurs-misery-deepens-2026-09-19/"
-  },
-  {
-    "row": 240,
-    "date": "19/9/2026",
-    "time": "18:59",
-    "category": "Fútbol Internacional",
-    "title": "CELTA SE DESTAPÓ CON CINCO: 5-0 A RACING Y PRIMER TRIUNFO EN LALIGA",
-    "source": "https://www.reuters.com/sports/soccer/raphinha-hat-trick-maintains-barcelonas-perfect-laliga-start-2026-09-19/"
-  },
-  {
-    "row": 241,
-    "date": "19/9/2026",
-    "time": "18:58",
-    "category": "Fútbol Internacional",
-    "title": "DANIEL MALDINI LE DIO EL TRIUNFO A CAGLIARI Y LO DEJÓ A UN PUNTO DE LA CIMA",
-    "source": "https://www.reuters.com/sports/soccer/martinez-nets-double-inter-come-back-draw-2-2-with-roma-2026-09-19/"
-  },
-  {
     "row": 242,
     "date": "19/9/2026",
     "time": "18:57",
     "category": "Fútbol Internacional",
     "title": "LAZIO NO AFLOJA: 2-0 A VENEZIA Y TRIPLE EMPATE EN LA CIMA DE ITALIA",
     "source": "https://www.reuters.com/sports/soccer/martinez-nets-double-inter-come-back-draw-2-2-with-roma-2026-09-19/"
-  },
-  {
-    "row": 243,
-    "date": "19/9/2026",
-    "time": "18:56",
-    "category": "Juegos Suramericanos",
-    "title": "BRONCE PARA ARGENTINA EN SÓFTBOL: 4-3 A PERÚ EN UNA DEFINICIÓN INFARTANTE",
-    "source": "https://www.elonce.com/deportes/argentina-celebro-el-bronce-en-softbol-femenino-este-equipo-lo-merecia.htm"
   },
   {
     "row": 244,
@@ -1152,36 +472,12 @@
     "source": "https://deportv.gob.ar/rugby/actuacion-solida-yaguaretes-golearon-paraguay-juegos-suramericanos-nid%3A17217"
   },
   {
-    "row": 245,
-    "date": "19/9/2026",
-    "time": "18:54",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA YA SUMA 127 MEDALLAS Y SE MANTIENE SEGUNDA EN SANTA FE 2026",
-    "source": "https://www.tycsports.com/polideportivo/asi-esta-el-medallero-argentino-en-los-juegos-suramericanos-santa-fe-2026-id761128.html"
-  },
-  {
     "row": 246,
     "date": "19/9/2026",
     "time": "18:53",
     "category": "Fútbol Internacional",
     "title": "TOULOUSE GANÓ POR PRIMERA VEZ: 3-2 A LE HAVRE CON DOBLETE DE TENGSTEDT",
     "source": "https://www.reuters.com/sports/soccer/ligue-1-clash-briefly-halted-after-lyon-fans-unveil-offensive-banner-2026-09-19/"
-  },
-  {
-    "row": 247,
-    "date": "21/9/2026",
-    "time": "16:05",
-    "category": "Juegos Suramericanos",
-    "title": "PLATA PARA ARGENTINA EN TRAMPOLÍN: MALDONADO Y WEISE, SEGUNDOS EN SANTA FE 2026",
-    "source": "https://www.ellitoral.com/deportes/lucilamaldonado-tobiasweise-juegossuramericanos-gimnasia-trampolin-sincronizado-mixto-medalla-plata_0_thN0wJACnL.html"
-  },
-  {
-    "row": 248,
-    "date": "21/9/2026",
-    "time": "16:05",
-    "category": "Juegos Suramericanos",
-    "title": "AGOSTINA VARGAS SUMÓ OTRO PODIO: BRONCE ARGENTINO EN LA FINAL DE ARO",
-    "source": "https://tn.com.ar/deportes/polideportivo/2026/09/21/argentina-busca-ganar-mas-medallas-en-los-juegos-suramericanos-cuales-seran-las-competencias-mas-destacadas-de-la-agenda-de-hoy/"
   },
   {
     "row": 255,
@@ -1216,30 +512,6 @@
     "source": "https://www.reuters.com/sports/soccer/real-madrids-strength-mind-gives-mourinho-confidence-atletico-derby-2026-09-19/"
   },
   {
-    "row": 259,
-    "date": "19/9/2026",
-    "time": "17:53",
-    "category": "Fútbol argentino",
-    "title": "INSTITUTO DEFIENDE LA PUNTA ANTE TALLERES EN UN DUELO CORDOBÉS CON MUCHO EN JUEGO",
-    "source": "https://www.infobae.com/deportes/2026/09/19/instituto-defendera-la-cima-de-la-zona-a-en-el-duelo-cordobes-ante-talleres-hora-tv-y-formaciones/"
-  },
-  {
-    "row": 260,
-    "date": "19/9/2026",
-    "time": "17:52",
-    "category": "River Plate",
-    "title": "RIVER VA POR EL CUARTO TRIUNFO AL HILO ANTE HURACÁN Y PONZIO REPITE EL EQUIPO",
-    "source": "https://www.infobae.com/deportes/2026/09/19/river-plate-buscara-arrimarse-a-la-cima-de-la-zona-b-en-su-choque-ante-huracan-hora-tv-y-formaciones/"
-  },
-  {
-    "row": 261,
-    "date": "19/9/2026",
-    "time": "17:51",
-    "category": "Independiente",
-    "title": "INDEPENDIENTE VISITA A UNIÓN CON URGENCIA DE VOLVER A GANAR EN EL CLAUSURA",
-    "source": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-union-vs-independiente-fecha-10-id761606.html"
-  },
-  {
     "row": 263,
     "date": "19/9/2026",
     "time": "17:49",
@@ -1248,28 +520,12 @@
     "source": "https://www.reuters.com/sports/soccer/ligue-1-clash-briefly-halted-after-lyon-fans-unveil-offensive-banner-2026-09-19/"
   },
   {
-    "row": 264,
-    "date": "19/9/2026",
-    "time": "17:08",
-    "category": "Juegos Suramericanos",
-    "title": "LOS PUMAS 7'S SIGUEN PERFECTOS: 29-7 A COLOMBIA Y TERCER TRIUNFO AL HILO",
-    "source": "https://deportv.gob.ar/rugby/pumas-7s-sumaron-tercer-victoria-consecutiva-torneo-derrotar-colombia-nid%3A17214"
-  },
-  {
     "row": 265,
     "date": "19/9/2026",
     "time": "17:07",
     "category": "Juegos Suramericanos",
     "title": "ORO EN NORCENTER: ALEXIS PLAKOUDAKIS SE QUEDÓ CON EL INDIVIDUAL DE BOWLING",
     "source": "https://www.ellitoral.com/deportes/juegossuramericanossantafe2026-alexisplakoudakis-bowling-argentina-julianafranco_0_I25XjHU8l5.html"
-  },
-  {
-    "row": 266,
-    "date": "19/9/2026",
-    "time": "16:36",
-    "category": "Juegos Suramericanos",
-    "title": "DE LUCIA FUE PLATA EN CASA: ARGENTINA SUMÓ TRES MEDALLAS MÁS EN EL JUDO",
-    "source": "https://nuestrasantafe.com/2026/09/19/juegos-suramericanos-santa-fe-2026-argentina-sumo-tres-medallas-en-judo/"
   },
   {
     "row": 267,
@@ -1288,14 +544,6 @@
     "source": "https://nuestrasantafe.com/2026/09/19/juegos-suramericanos-santa-fe-2026-argentina-sumo-tres-medallas-en-judo/"
   },
   {
-    "row": 271,
-    "date": "19/9/2026",
-    "time": "14:19",
-    "category": "Juegos Suramericanos",
-    "title": "AGUSTÍN GIL FUE PLATA EN JUDO: CAYÓ EN LA FINAL DE -81 KG ANTE EL BRASILEÑO FALCAO",
-    "source": "https://deportv.gob.ar/polideportivo/medalla-plata-agustin-gil-juegos-suramericanos-2026-nid%3A17211"
-  },
-  {
     "row": 272,
     "date": "19/9/2026",
     "time": "14:05",
@@ -1312,14 +560,6 @@
     "source": "https://www.cahockey.org.ar/noticia/cuatro-argentinos-entre-los-mejores-del-mundo-del-2026/3955"
   },
   {
-    "row": 280,
-    "date": "19/9/2026",
-    "time": "13:57",
-    "category": "Fútbol Internacional",
-    "title": "JUVENTUS–ATALANTA, OTRO PLATO FUERTE DE LA SERIE A: SE MIDEN DOS EQUIPOS DE ARRIBA",
-    "source": "https://www.tycsports.com/serie-a/juventus-vs-atalanta-en-vivo-donde-ver-por-tv-y-online-id762046.html"
-  },
-  {
     "row": 283,
     "date": "19/9/2026",
     "time": "13:16",
@@ -1328,100 +568,12 @@
     "source": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/17271146/liga-mx-jornada-9-como-ver-horarios-partidos-de-hoy-apertura-2026"
   },
   {
-    "row": 289,
-    "date": "19/9/2026",
-    "time": "13:10",
-    "category": "Racing Club",
-    "title": "VOJVODA RESPIRÓ EN RACING: “SIENTO ALIVIO” TRAS CORTAR LA RACHA Y YA PIENSA EN BOCA",
-    "source": "https://deportv.gob.ar/futbol/vojvoda-admitio-sintio-aliviado-triunfo-racing-sarmiento-nid%3A17199"
-  },
-  {
-    "row": 292,
-    "date": "19/9/2026",
-    "time": "13:07",
-    "category": "Boca Juniors",
-    "title": "ENNER VALENCIA QUEDÓ AFUERA DEL CLÁSICO CON SAN LORENZO: ARRUABARRENA PRIORIZÓ OTROS EXTRANJEROS",
-    "source": "https://www.tycsports.com/boca-juniors/boca-enner-valencia-fuera-de-los-convocados-san-lorenzo-cupo-de-extranjeros-id762039.html"
-  },
-  {
-    "row": 293,
-    "date": "19/9/2026",
-    "time": "12:17",
-    "category": "Fútbol Internacional",
-    "title": "ESTADOS UNIDOS PIERDE A UNA PROMESA: NOAHKAI BANKS ELIGIÓ JUGAR PARA ALEMANIA",
-    "source": "https://www.reuters.com/sports/soccer/d-noahkai-banks-chooses-germany-over-us--flm-2026-09-18/"
-  },
-  {
-    "row": 294,
-    "date": "19/9/2026",
-    "time": "12:16",
-    "category": "Fútbol Internacional",
-    "title": "IRLANDA PIDIÓ NO CRUZARSE CON ISRAEL Y UEFA LE DIJO QUE NO: CRECE LA TENSIÓN ANTES DE LA NATIONS LEAGUE",
-    "source": "https://www.reuters.com/sports/soccer/uefa-defends-draw-policy-after-ireland-request-israel-dismisses-fai-comments-2026-09-19/"
-  },
-  {
-    "row": 296,
-    "date": "19/9/2026",
-    "time": "12:14",
-    "category": "Fútbol Internacional",
-    "title": "UEFA Y CONCACAF LE METEN PRESIÓN A FIFA: PIDEN REPARTIR US$ 2.100 MILLONES",
-    "source": "https://www.reuters.com/sports/soccer/uefa-concacaf-chiefs-demand-independent-review-fifa-reserves-letter-shows-2026-09-18/"
-  },
-  {
-    "row": 301,
-    "date": "19/9/2026",
-    "time": "12:09",
-    "category": "Boca Juniors",
-    "title": "SE MUEVE LA POLÍTICA DE BOCA: LEANDRO PETERSEN QUIERE SER PRESIDENTE EN 2027",
-    "source": "https://www.infobae.com/deportes/2026/09/19/leandro-petersen-se-lanza-como-candidato-a-presidente-de-boca-juniors-con-un-proyecto-y-siendo-profesional-los-resultados-llegan/"
-  },
-  {
-    "row": 302,
-    "date": "19/9/2026",
-    "time": "12:08",
-    "category": "Boxeo",
-    "title": "KEVIN RAMÍREZ VA POR OTRO CINTURÓN: EL BARRENDERO ARGENTINO PELEA INVICTO EN CERDEÑA",
-    "source": "https://www.infobae.com/deportes/2026/09/19/la-historia-del-boxeador-argentino-que-es-barrendero-gano-100-mil-dolares-en-una-pelea-y-va-por-otro-titulo-internacional/"
-  },
-  {
-    "row": 303,
-    "date": "19/9/2026",
-    "time": "11:17",
-    "category": "Juegos Suramericanos",
-    "title": "JUDO ARGENTINO, A PURA DEFINICIÓN: CINCO REPRESENTANTES BUSCAN METERSE EN LAS MEDALLAS",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-sabado-19-de-septiembre-cronograma-y-resultados-id761897.html"
-  },
-  {
-    "row": 304,
-    "date": "19/9/2026",
-    "time": "11:16",
-    "category": "Juegos Suramericanos",
-    "title": "DESTRIBATS SALE A BUSCAR OTRO ORO: EL TITÁN ARGENTINO COMPITE EN LOS 65 KILOS",
-    "source": "https://www.tycsports.com/polideportivo/agustin-destribats-el-titan-juegos-suramericanos-refugio-lucha-sequia-olimpica-25-anos-id761932.html"
-  },
-  {
     "row": 305,
     "date": "19/9/2026",
     "time": "11:15",
     "category": "Juegos Suramericanos",
     "title": "MORENA DOMÍNGUEZ VA POR MEDALLA: EL SKATE ARGENTINO ENTRA EN LA FINAL DE RAFAELA",
     "source": "https://entradas.santafe2026.ar/SKATEBOARDING/"
-  },
-  {
-    "row": 306,
-    "date": "19/9/2026",
-    "time": "11:14",
-    "category": "Juegos Suramericanos",
-    "title": "EL SÓFTBOL FEMENINO ARGENTINO VA POR EL BRONCE EN PARANÁ",
-    "source": "https://entradas.santafe2026.ar/SOFTBOL/"
-  },
-  {
-    "row": 307,
-    "date": "19/9/2026",
-    "time": "11:13",
-    "category": "Juegos Suramericanos",
-    "title": "LAS PANTERAS CIERRAN ANTE COLOMBIA: PARTIDO FUERTE EN EL VÓLEY DE SANTA FE 2026",
-    "source": "https://entradas.santafe2026.ar/VOLEIBOL/"
   },
   {
     "row": 308,
@@ -1440,84 +592,12 @@
     "source": "https://www.coarg.org.ar/noticias/item/16555-en-el-pentatlon-moderno-luna-y-armanazqui-se-llevaron-la-plata"
   },
   {
-    "row": 312,
-    "date": "19/9/2026",
-    "time": "11:08",
-    "category": "Independiente",
-    "title": "INDEPENDIENTE VA POR UN TRIUNFO CLAVE EN SANTA FE: CHIMY ÁVILA APARECE EN EL ONCE ANTE UNIÓN",
-    "source": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-union-vs-independiente-fecha-10-id761606.html"
-  },
-  {
-    "row": 315,
-    "date": "19/9/2026",
-    "time": "10:01",
-    "category": "Tenis",
-    "title": "PODOROSKA VOLVIÓ A UNA SEMIFINAL WTA DESPUÉS DE TRES AÑOS Y AHORA VA POR BADOSA",
-    "source": "https://matchtenis.com/wta-250-sao-paulo-nadia-podoroska-regresa-a-las-semifinales-de-un-torneo-del-circuito-despues-de-tres-anos/"
-  },
-  {
-    "row": 316,
-    "date": "19/9/2026",
-    "time": "10:00",
-    "category": "Independiente",
-    "title": "INDEPENDIENTE FEMENINO VISITA A BOCA: PARTIDO BRAVO EN CASA DE LAS GLADIADORAS",
-    "source": "https://www.tycsports.com/futbol-femenino/argentina-torneo-clausura-femenino-2026-boca-juniors-vs-independiente-fecha-9-id761501.html"
-  },
-  {
-    "row": 317,
-    "date": "19/9/2026",
-    "time": "09:59",
-    "category": "Juegos Suramericanos",
-    "title": "DESTRIBATS VA POR OTRO CAPÍTULO: EL OLÍMPICO ARGENTINO BUSCA ORO EN LA LUCHA DE SANTA FE 2026",
-    "source": "https://www.tycsports.com/polideportivo/agustin-destribats-el-titan-juegos-suramericanos-refugio-lucha-sequia-olimpica-25-anos-id761932.html"
-  },
-  {
-    "row": 318,
-    "date": "19/9/2026",
-    "time": "09:58",
-    "category": "Selección Argentina",
-    "title": "SCALONI LLEGÓ AL PAÍS CON SU FUTURO ABIERTO Y REUNIONES CLAVE CON TAPIA EN AGENDA",
-    "source": "https://www.rionegro.com.ar/deportes/cuando-llega-lionel-scaloni-a-la-argentina-y-por-que-se-demoro-su-regreso-4727761/"
-  },
-  {
-    "row": 319,
-    "date": "19/9/2026",
-    "time": "09:57",
-    "category": "Messi",
-    "title": "MESSI YA MANDA EN EL ELDENSE: PRIMER PARTIDO EN CASA DE SU NUEVA ERA COMO DUEÑO",
-    "source": "https://as.com/futbol/segunda/comienza-la-era-de-messi-y-calleja-en-elda-f202609-n/"
-  },
-  {
     "row": 321,
     "date": "19/9/2026",
     "time": "09:55",
     "category": "Polideportivo",
     "title": "INSÓLITO EN LOS JUEGOS ASIÁTICOS: INDIA CAMBIÓ A SU ABANDERADO PORQUE NO LE LLEGÓ EL UNIFORME",
     "source": "https://www.reuters.com/sports/kit-blunder-forces-india-change-asian-games-flagbearer-2026-09-19/"
-  },
-  {
-    "row": 322,
-    "date": "19/9/2026",
-    "time": "10:04",
-    "category": "Tenis",
-    "title": "COPA DAVIS: CERÚNDOLO ABRE ANTE EREL Y ARGENTINA YA CONOCE TODO EL ORDEN ANTE TURQUÍA",
-    "source": "https://deportv.gob.ar/tenis/copa-davis-serie-argentinaturquia-neuquen-nid:17179"
-  },
-  {
-    "row": 323,
-    "date": "19/9/2026",
-    "time": "07:00",
-    "category": "River Plate",
-    "title": "RIVER–HURACÁN, DUELO DE ALTO VOLTAJE EN EL MONUMENTAL: HORA Y TV",
-    "source": "https://tn.com.ar/deportes/futbol/2026/09/19/donde-ver-river-vs-huracan-en-vivo-por-la-liga-profesional-y-que-canal-lo-transmite/"
-  },
-  {
-    "row": 325,
-    "date": "19/9/2026",
-    "time": "06:50",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA YA PASÓ LAS 120 MEDALLAS Y SIGUE SEGUNDA EN SANTA FE 2026",
-    "source": "https://www.ellitoral.com/deportes/quedo-medallero-juegos-suramericanos-viernes-18-septiembre-santafe-2026_0_lvFiikrYhn.html"
   },
   {
     "row": 326,
@@ -1528,28 +608,12 @@
     "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-sabado-19-de-septiembre-cronograma-y-resultados-id761897.html"
   },
   {
-    "row": 327,
-    "date": "19/9/2026",
-    "time": "05:09",
-    "category": "Polideportivo",
-    "title": "LOS JUEGOS ASIÁTICOS ABRIERON EN NAGOYA ENTRE FUEGOS ARTIFICIALES Y PROBLEMAS LOGÍSTICOS",
-    "source": "https://www.reuters.com/sports/asian-games-open-nagoya-after-troubled-buildup-2026-09-19/"
-  },
-  {
     "row": 329,
     "date": "19/9/2026",
     "time": "07:46",
     "category": "Motociclismo",
     "title": "MARTÍN LE GANÓ LA POLE A MÁRQUEZ POR 15 MILÉSIMAS Y LA PELEA DE MOTOGP ARDE",
     "source": "https://www.reuters.com/sports/aprilias-martin-beats-title-rival-marquez-austrian-motogp-pole-2026-09-19/"
-  },
-  {
-    "row": 330,
-    "date": "19/9/2026",
-    "time": "08:25",
-    "category": "Huracán",
-    "title": "HURACÁN SE ILUSIONA ANTE RIVER: LLEGA INVICTO EN CUATRO Y CON CAICEDO ENCENDIDO",
-    "source": "https://www.tycsports.com/liga-profesional-de-futbol/huracan-ante-un-partido-que-puede-ser-un-punto-de-inflexion-como-llega-al-duelo-con-river-id761922.html"
   },
   {
     "row": 332,
@@ -1584,14 +648,6 @@
     "source": "https://www.reuters.com/sports/tennis/davis-cup-roundup-ben-shelton-falls-leaves-us-tied-with-czechs--flm-2026-09-19/"
   },
   {
-    "row": 341,
-    "date": "19/9/2026",
-    "time": "04:16",
-    "category": "Tenis",
-    "title": "JOVIC VA POR EL BICAMPEONATO: VOLVIÓ A LA FINAL DE GUADALAJARA CON 18 AÑOS",
-    "source": "https://www.reuters.com/sports/tennis/wta-roundup-defending-champ-iva-jovic-returns-guadalajara-final--flm-2026-09-19/"
-  },
-  {
     "row": 342,
     "date": "19/9/2026",
     "time": "03:14",
@@ -1606,22 +662,6 @@
     "category": "Fútbol argentino",
     "title": "ALARMA POR EL DESCENSO: ESTUDIANTES DE RÍO CUARTO Y ALDOSIVI, HOY ESTARÍAN BAJANDO",
     "source": "https://www.tycsports.com/liga-profesional-de-futbol/tabla-del-descenso-quien-se-va-a-la-b-en-la-liga-argentina-2026-primera-nacional-2027-id751227.html"
-  },
-  {
-    "row": 344,
-    "date": "19/9/2026",
-    "time": "03:12",
-    "category": "Fútbol Internacional",
-    "title": "MURIÓ SANDRO MAZZOLA, LEYENDA ETERNA DE LA GRAN INTER, A LOS 83 AÑOS",
-    "source": "https://www.thestar.com.my/sport/football/2026/09/19/soccer-famed-inter-milan-and-italy-forward-mazzola-dies-at-83"
-  },
-  {
-    "row": 347,
-    "date": "19/9/2026",
-    "time": "03:09",
-    "category": "Fútbol Internacional",
-    "title": "INFANTINO BUSCA RESPALDO EN ÁFRICA EN MEDIO DE LA MAYOR PRESIÓN SOBRE SU LIDERAZGO",
-    "source": "https://www.reuters.com/sports/soccer/infantino-invited-african-summit-he-faces-challenge-fifa-leadership-2026-09-18/"
   },
   {
     "row": 350,
@@ -1648,22 +688,6 @@
     "source": "https://deportv.gob.ar/hockey/juegos-suramericanos-santa-fe-hockey-sobre-cesped-leones-chile-nid:17192"
   },
   {
-    "row": 363,
-    "date": "19/9/2026",
-    "time": "00:19",
-    "category": "Juegos Suramericanos",
-    "title": "EBERHARDT COMPLETÓ EL DOBLE PODIO ARGENTINO: BRONCE EN RIFLE DE AIRE",
-    "source": "https://deportv.gob.ar/polideportivo/juegos-suramericanos-santa-fe-2026-dia-6-julian-gutierrez-gano-oro-tiro-nid:17178"
-  },
-  {
-    "row": 364,
-    "date": "19/9/2026",
-    "time": "00:18",
-    "category": "Juegos Suramericanos",
-    "title": "CELES FUE PLATA EN 60 KG Y CERRÓ LA COSECHA DEL BOXEO ARGENTINO",
-    "source": "https://www.coarg.org.ar/noticias/item/16579-argentina-acumulo-cuatro-medallas-de-plata-en-la-jornada-de-cierre-del-boxeo"
-  },
-  {
     "row": 365,
     "date": "19/9/2026",
     "time": "00:17",
@@ -1680,22 +704,6 @@
     "source": "https://www.coarg.org.ar/noticias/item/16579-argentina-acumulo-cuatro-medallas-de-plata-en-la-jornada-de-cierre-del-boxeo"
   },
   {
-    "row": 367,
-    "date": "19/9/2026",
-    "time": "00:15",
-    "category": "Juegos Suramericanos",
-    "title": "MELANIE MARTÍNEZ ROZÓ EL ORO Y SE QUEDÓ CON LA PLATA EN 54 KG",
-    "source": "https://deportv.gob.ar/boxeo/cosecha-medallas-boxeo-argentino-juegos-suramericanos-nid:17189"
-  },
-  {
-    "row": 368,
-    "date": "19/9/2026",
-    "time": "00:14",
-    "category": "Juegos Suramericanos",
-    "title": "TOVAGLIARI SE REPUSO DEL GOLPE Y FUE BRONCE EN -66 KG",
-    "source": "https://deportv.gob.ar/olimpismo/judo-aporto-medallas-argentinas-jornada-juegos-nid:17180"
-  },
-  {
     "row": 369,
     "date": "19/9/2026",
     "time": "00:13",
@@ -1704,36 +712,12 @@
     "source": "https://deportv.gob.ar/olimpismo/judo-aporto-medallas-argentinas-jornada-juegos-nid:17180"
   },
   {
-    "row": 370,
-    "date": "19/9/2026",
-    "time": "00:12",
-    "category": "Juegos Suramericanos",
-    "title": "DE LUCÍA FUE PLATA EN CASA: ROSARIO LA EMPUJÓ HASTA LA FINAL DEL JUDO",
-    "source": "https://deportv.gob.ar/olimpismo/judo-aporto-medallas-argentinas-jornada-juegos-nid:17180"
-  },
-  {
-    "row": 371,
-    "date": "19/9/2026",
-    "time": "00:11",
-    "category": "Juegos Suramericanos",
-    "title": "JULIÁN GUTIÉRREZ, ORO OTRA VEZ: CAMPEÓN EN RIFLE DE AIRE 10 METROS",
-    "source": "https://deportv.gob.ar/polideportivo/juegos-suramericanos-santa-fe-2026-dia-6-julian-gutierrez-gano-oro-tiro-nid:17178"
-  },
-  {
     "row": 372,
     "date": "19/9/2026",
     "time": "00:10",
     "category": "Juegos Suramericanos",
     "title": "BENEDETTI GANÓ UN ORO DE FOTO FINISH: SEIS CICLISTAS TERMINARON CON EL MISMO TIEMPO",
     "source": "https://www.lanacion.com.ar/deportes/ciclismo/julieta-benedetti-se-impuso-a-cinco-ciclistas-con-el-mismo-tiempo-y-gano-el-oro-en-los-juegos-nid18092026/"
-  },
-  {
-    "row": 375,
-    "date": "18/9/2026",
-    "time": "23:08",
-    "category": "Fútbol Internacional",
-    "title": "UEFA Y CONCACAF LE MARCAN LA CANCHA A FIFA: PIDEN REPARTIR US$ 2.100 MILLONES",
-    "source": "https://www.reuters.com/sports/soccer/uefa-concacaf-chiefs-demand-independent-review-fifa-reserves-letter-shows-2026-09-18/"
   },
   {
     "row": 377,
@@ -1752,22 +736,6 @@
     "source": "https://tn.com.ar/deportes/polideportivo/2026/09/18/juegos-suramericanos-2026-dia-6-resultados-medallas-y-noticias-de-la-delegacion-argentina/"
   },
   {
-    "row": 381,
-    "date": "18/9/2026",
-    "time": "22:11",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA LLEGÓ A 120 MEDALLAS Y SIGUE SEGUNDA EN SANTA FE 2026",
-    "source": "https://www.ellitoral.com/deportes/quedo-medallero-juegos-suramericanos-viernes-18-septiembre-santafe-2026_0_lvFiikrYhn.html"
-  },
-  {
-    "row": 387,
-    "date": "18/9/2026",
-    "time": "22:05",
-    "category": "Boca Juniors",
-    "title": "BOCA RECUPERA DOS PIEZAS PARA EL CLÁSICO: COSTA Y BATTAGLIA, OTRA VEZ A DISPOSICIÓN",
-    "source": "https://diarioelnorte.com.ar/boca-recupera-a-costa-y-battaglia-para-visitar-a-san-lorenzo/"
-  },
-  {
     "row": 389,
     "date": "18/9/2026",
     "time": "22:03",
@@ -1782,14 +750,6 @@
     "category": "Juegos Suramericanos",
     "title": "LAS YAGUARETÉS VOLVIERON A ARRASAR: 40-0 A CHILE Y 86 PUNTOS SIN RECIBIR",
     "source": "https://www.primeraedicion.com.ar/nota/101143998/las-yaguaretes-arrasaron-ante-chile-con-doblete-de-pula-pedrozo/"
-  },
-  {
-    "row": 394,
-    "date": "18/9/2026",
-    "time": "21:11",
-    "category": "Juegos Suramericanos",
-    "title": "SERIO Y SERRANO ROZARON EL ORO: PLATA ARGENTINA EN EL RELEVO MIXTO",
-    "source": "https://deportv.gob.ar/polideportivo/catalina-serio-nid:17187"
   },
   {
     "row": 395,
@@ -1816,28 +776,12 @@
     "source": ""
   },
   {
-    "row": 399,
-    "date": "18/9/2026",
-    "time": "21:06",
-    "category": "Juegos Suramericanos",
-    "title": "LOS PUMAS 7'S NO TUVIERON PIEDAD: 80-0 A PERÚ EN ROSARIO",
-    "source": "https://www.espn.cl/rugby/nota/_/id/17272657/rugby-juegos-suramericanos-pumas-7-sevens-vivo-yaguaretes-fixture-resultados"
-  },
-  {
     "row": 400,
     "date": "18/9/2026",
     "time": "20:05",
     "category": "Juegos Suramericanos",
     "title": "VICTORIA LUNA QUEDÓ A UN PASO DE LA FINAL: TOP 10 EN PISTOLA DE AIRE",
     "source": "https://www.launion.digital/deportes/luna-avellaneda-top-10-pistola-aire-10-metros-suramericanos-2026-n243074"
-  },
-  {
-    "row": 401,
-    "date": "18/9/2026",
-    "time": "20:06",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA BLANQUEÓ A PERÚ Y QUEDÓ A UN TRIUNFO DE LA FINAL DE SÓFTBOL",
-    "source": "https://www.analisisdigital.com.ar/deportes/2026/09/18/softbol-argentina-volvio-la-victoria-y-sigue-en-carrera-por-las-medallas-en-los-juegos"
   },
   {
     "row": 402,
@@ -1864,22 +808,6 @@
     "source": "https://www.revistamundociclistico.com/2026/thomas-silva-se-bana-de-oro-en-el-ciclismo-de-ruta-de-los-juegos-suramericanos-jordan-parra-4/amp/"
   },
   {
-    "row": 414,
-    "date": "18/9/2026",
-    "time": "19:04",
-    "category": "Juegos Suramericanos",
-    "title": "LOS LEONES GOLEARON 5-1 A CHILE Y YA ESTÁN EN LA FINAL POR EL ORO",
-    "source": "https://www.airedesantafe.com.ar/deportes/argentina-goleo-5-1-chile-y-se-metio-la-final-el-oro-del-hockey-masculino-los-juegos-suramericanos-n670625"
-  },
-  {
-    "row": 415,
-    "date": "18/9/2026",
-    "time": "18:05",
-    "category": "Juegos Suramericanos",
-    "title": "CELES CERRÓ CON PLATA: EL BRASILEÑO OLIVEIRA LE NEGÓ EL ORO EN RAFAELA",
-    "source": "https://deportv.gob.ar/boxeo/cosecha-medallas-boxeo-argentino-juegos-suramericanos-nid:17189"
-  },
-  {
     "row": 416,
     "date": "18/9/2026",
     "time": "18:04",
@@ -1896,35 +824,11 @@
     "source": "https://www.airedesantafe.com.ar/deportes/paliza-las-leonas-golearon-5-1-chile-y-lideran-el-grupo-hockey-femenino-los-juegos-suramericanos-n670615"
   },
   {
-    "row": 418,
-    "date": "18/9/2026",
-    "time": "18:02",
-    "category": "Juegos Suramericanos",
-    "title": "GUTIÉRREZ ROMPIÓ EL RÉCORD Y GANÓ OTRO ORO EN RIFLE DE AIRE",
-    "source": "https://deportv.gob.ar/polideportivo/juegos-suramericanos-santa-fe-2026-dia-6-julian-gutierrez-gano-oro-tiro-nid:17178"
-  },
-  {
-    "row": 419,
-    "date": "18/9/2026",
-    "time": "18:01",
-    "category": "Juegos Suramericanos",
-    "title": "DE LUCÍA FUE PLATA EN CASA: PODIO ARGENTINO EN EL JUDO DE ROSARIO",
-    "source": "https://deportv.gob.ar/olimpismo/judo-aporto-medallas-argentinas-jornada-juegos-nid:17180"
-  },
-  {
     "row": 420,
     "date": "18/9/2026",
     "time": "18:00",
     "category": "Juegos Suramericanos",
     "title": "VILLAVICENCIO GANÓ UN BRONCE DE ORO: SE IMPUSO EN GOLDEN SCORE",
-    "source": "https://deportv.gob.ar/olimpismo/judo-aporto-medallas-argentinas-jornada-juegos-nid:17180"
-  },
-  {
-    "row": 421,
-    "date": "18/9/2026",
-    "time": "17:59",
-    "category": "Juegos Suramericanos",
-    "title": "TOVAGLIARI TAMBIÉN ES BRONCE: VENCIÓ A ORTIZ Y SUBIÓ AL PODIO",
     "source": "https://deportv.gob.ar/olimpismo/judo-aporto-medallas-argentinas-jornada-juegos-nid:17180"
   },
   {
@@ -1934,62 +838,6 @@
     "category": "Juegos Suramericanos",
     "title": "JOAQUÍN CISNEROS SE SUBIÓ AL PODIO: PLATA ARGENTINA EN TRAP",
     "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-viernes-18-de-septiembre-cronograma-y-resultados-id761650.html"
-  },
-  {
-    "row": 432,
-    "date": "18/9/2026",
-    "time": "16:57",
-    "category": "Juegos Suramericanos",
-    "title": "ORO ARGENTINO EN SABLE: ESPINOSA, PERRONE Y PÉREZ VENCIERON A BRASIL",
-    "source": "https://www.unosantafe.com.ar/ovacion/argentina-volvio-festejar-esgrima-oro-sable-y-triunfo-brasil-n10281860.html"
-  },
-  {
-    "row": 433,
-    "date": "18/9/2026",
-    "time": "16:56",
-    "category": "Juegos Suramericanos",
-    "title": "LUCÍA MUELLO TAMBIÉN ES PLATA: ARGENTINA SUMÓ OTRO PODIO EN EL BOXEO",
-    "source": "https://www.unosantafe.com.ar/ovacion/lucia-muello-gano-la-plata-argentina-boxeo-una-final-brasil-n10281866.html"
-  },
-  {
-    "row": 434,
-    "date": "18/9/2026",
-    "time": "16:55",
-    "category": "Juegos Suramericanos",
-    "title": "MELANIE MARTÍNEZ CERRÓ CON PLATA: ORGULLO ARGENTINO EN EL RING DE RAFAELA",
-    "source": "https://www.ellitoral.com/deportes/melaniemartinez-juegossuramericanos-medalladeplata-boxeo-santafe2026-estadioinvenciblerafaela_0_Ur0yA8ggbR.html"
-  },
-  {
-    "row": 435,
-    "date": "18/9/2026",
-    "time": "16:11",
-    "category": "Juegos Suramericanos",
-    "title": "CUATRO FINALES DE BOXEO PARA ARGENTINA: TARDE A PURO ORO EN RAFAELA",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-viernes-18-de-septiembre-cronograma-y-resultados-id761650.html"
-  },
-  {
-    "row": 436,
-    "date": "18/9/2026",
-    "time": "16:10",
-    "category": "Juegos Suramericanos",
-    "title": "DOBLE TRIUNFO EN ESGRIMA: LOS EQUIPOS ARGENTINOS AVANZARON CON AUTORIDAD",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-viernes-18-de-septiembre-cronograma-y-resultados-id761650.html"
-  },
-  {
-    "row": 437,
-    "date": "18/9/2026",
-    "time": "16:09",
-    "category": "Juegos Suramericanos",
-    "title": "LAS LEONAS, ANTE CHILE: SEGUNDO PASO EN SANTA FE DESPUÉS DE UN DEBUT ARROLLADOR",
-    "source": "https://www.tycsports.com/polideportivo/las-leonas-vs-chile-por-los-juegos-suramericanos-en-vivo-donde-ver-por-tv-y-online-id761770.html"
-  },
-  {
-    "row": 438,
-    "date": "18/9/2026",
-    "time": "16:08",
-    "category": "Juegos Suramericanos",
-    "title": "ARRANCA EL RUGBY 7 EN ROSARIO: LOS PUMAS Y LAS YAGUARETÉS VAN POR EL ORO",
-    "source": "https://www.tycsports.com/rugby/los-pumas-7s-las-yaguaretes-juegos-suramericanos-2026-id761635.html"
   },
   {
     "row": 442,
@@ -2008,14 +856,6 @@
     "source": "https://www.aag.org.ar/gran-comienzo-del-equipo-argentino-en-los-juegos-odesur-2026/"
   },
   {
-    "row": 447,
-    "date": "18/9/2026",
-    "time": "15:10",
-    "category": "Juegos Suramericanos",
-    "title": "EL JUDO ARGENTINO ARRANCÓ CON TODO: UNA PLATA Y DOS BRONCES EN ROSARIO",
-    "source": "https://deportv.gob.ar/olimpismo/judo-aporto-medallas-argentinas-jornada-juegos-nid:17180"
-  },
-  {
     "row": 448,
     "date": "18/9/2026",
     "time": "15:09",
@@ -2030,38 +870,6 @@
     "category": "Juegos Suramericanos",
     "title": "OTRA PLATA EN LA LAGUNA: CERRUDO, DEANDREA, BALUZZO Y SIMONITTI FUERON SEGUNDAS",
     "source": "https://www.lacapital.com.ar/juegos-suramericanos/el-remo-argentino-volvio-subirse-al-podio-varios-rosarinos-n10281743.html/amp"
-  },
-  {
-    "row": 510,
-    "date": "17/9/2026",
-    "time": "17:55",
-    "category": "Juegos Suramericanos",
-    "title": "PLATA PARA EL OCHO ARGENTINO: QUEDÓ A SOLO 2,27 SEGUNDOS DEL ORO EN REMO",
-    "source": "https://www.analisisdigital.com.ar/deportes/2026/09/17/remo-el-paranaense-emiliano-calderon-logro-la-medalla-plateada-en-santa-fe"
-  },
-  {
-    "row": 536,
-    "date": "17/9/2026",
-    "time": "20:05",
-    "category": "Boca Juniors",
-    "title": "EL FALLO BOCA–VÉLEZ SE POSTERGÓ: AFA RESOLVERÁ EL MARTES TRAS EL DESCARGO XENEIZE",
-    "source": "https://noticiasargentinas.com/deportes/se-postergo-el-fallo-por-la-controversia-en-boca-velez-por-la-copa-argentina_a6aac3227e7a604f2d606d20f"
-  },
-  {
-    "row": 569,
-    "date": "17/9/2026",
-    "time": "01:01",
-    "category": "Estudiantes de La Plata",
-    "title": "ESTUDIANTES YA TIENE SU PRÓXIMA HOJA DE RUTA: LANÚS, DOS FINALES Y LA SEMI DE LIBERTADORES",
-    "source": "https://www.infocielo.com/deportes/cuando-vuelve-a-jugar-estudiantes-y-como-continua-su-fixture"
-  },
-  {
-    "row": 570,
-    "date": "17/9/2026",
-    "time": "00:55",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA CERRÓ EL DÍA CON 88 MEDALLAS: 24 PRESEAS EN UNA JORNADA DEMOLEDORA",
-    "source": "https://www.infobae.com/deportes/2026/09/17/argentina-sumo-24-medallas-en-el-cuarto-dia-de-los-juegos-suramericanos-santa-fe-2026-como-esta-en-el-ranking/"
   },
   {
     "row": 573,
@@ -2080,28 +888,12 @@
     "source": "https://www.infocielo.com/deportes/el-cacique-medina-fusionado-con-la-historia-pincharrata-cruzamos-el-rubicon-como-dijera-el-gran-sabella"
   },
   {
-    "row": 575,
-    "date": "17/9/2026",
-    "time": "00:12",
-    "category": "Estudiantes de La Plata",
-    "title": "ESTUDIANTES QUIERE JUGAR LA SEMI EN UNO: YA NEGOCIA POR EL CUPO DE VISITANTES",
-    "source": "https://www.infocielo.com/deportes/estudiantes-busca-jugar-la-semifinal-en-uno-que-tiene-que-pasar-para-que-pueda-ser-local-en-su-estadio"
-  },
-  {
     "row": 576,
     "date": "17/9/2026",
     "time": "00:02",
     "category": "Messi",
     "title": "EDUL SE CRUZÓ CON MESSI EN PLENA FINAL Y LE DEJÓ UN MENSAJE POR SU DESPEDIDA",
     "source": "https://www.tycsports.com/curiosidades/el-curioso-momento-entre-messi-y-gaston-edul-durante-la-final-de-inter-miami-en-la-campeones-cup-id761432.html"
-  },
-  {
-    "row": 577,
-    "date": "17/9/2026",
-    "time": "00:02",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA DEBUTA ANTE PARAGUAY: EL FÚTBOL MASCULINO SALE A ESCENA EN SANTA FE 2026",
-    "source": "https://www.tycsports.com/polideportivo/seleccion-argentina-vs-paraguay-por-los-juegos-suramericanos-en-vivo-donde-ver-por-tv-y-online-id761288.html"
   },
   {
     "row": 579,
@@ -2112,44 +904,12 @@
     "source": "https://www.tycsports.com/copa-libertadores/las-malas-dentro-de-la-gran-alegria-dos-jugadores-clave-suspendidos-y-el-desgarro-de-tucu-correa-id761435.html"
   },
   {
-    "row": 583,
-    "date": "16/9/2026",
-    "time": "21:39",
-    "category": "Copa Sudamericana",
-    "title": "ATLÉTICO MINEIRO RESUCITÓ EN EL 92, GANÓ POR PENALES Y ELIMINÓ A SANTOS",
-    "source": "https://www.tycsports.com/copa-sudamericana/atletico-mineiro-vs-santos-en-vivo-donde-ver-por-tv-y-online-id760813.html"
-  },
-  {
     "row": 587,
     "date": "16/9/2026",
     "time": "20:50",
     "category": "Juegos Suramericanos",
     "title": "LA GARRA DEBUTÓ A PURO GOL: 34-11 A COLOMBIA EN SANTA FE 2026",
     "source": "https://handballargentina.org/cah/2026/09/debut-con-triunfo-para-la-garra-en-los-juegos-suramericanos/"
-  },
-  {
-    "row": 588,
-    "date": "16/9/2026",
-    "time": "20:44",
-    "category": "San Lorenzo",
-    "title": "AUZMENDI, ATRAPADO EN EL CAOS DE SAN LORENZO: SEIS ENTRENADORES EN APENAS 25 PARTIDOS",
-    "source": "https://www.tycsports.com/san-lorenzo/el-curioso-caso-de-auzmendi-en-san-lorenzo-seis-entrenadores-en-solo-25-partidos-id761420.html"
-  },
-  {
-    "row": 589,
-    "date": "16/9/2026",
-    "time": "20:30",
-    "category": "Juegos Suramericanos",
-    "title": "ORO ARGENTINO EN VALORANT: LE GANÓ 2-1 A CHILE EN UNA FINAL INFARTANTE",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-miercoles-16-de-septiembre-cronograma-y-resultados-id761242.html"
-  },
-  {
-    "row": 590,
-    "date": "16/9/2026",
-    "time": "20:12",
-    "category": "Juegos Suramericanos",
-    "title": "CELES ARRASÓ EN UN ROUND Y VA POR EL ORO EN EL BOXEO DE SANTA FE 2026",
-    "source": "https://www.tycsports.com/boxeo/santiago-celes-va-por-la-dorada-en-el-boxeo-en-santa-fe-2026-espectacular-definicion-para-clasificar-a-la-final-id761415.html"
   },
   {
     "row": 591,
@@ -2168,76 +928,12 @@
     "source": "https://www.tycsports.com/boxeo/santiago-celes-va-por-la-dorada-en-el-boxeo-en-santa-fe-2026-espectacular-definicion-para-clasificar-a-la-final-id761415.html"
   },
   {
-    "row": 593,
-    "date": "16/9/2026",
-    "time": "19:58",
-    "category": "Juegos Suramericanos",
-    "title": "JULIETA LUCAS SUMÓ PLATA EN VIGA Y SIGUE AGRANDANDO SU COSECHA",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-miercoles-16-de-septiembre-cronograma-y-resultados-id761242.html"
-  },
-  {
-    "row": 594,
-    "date": "16/9/2026",
-    "time": "19:56",
-    "category": "Juegos Suramericanos",
-    "title": "FILA DALINGER COMPLETÓ EL DOBLE PODIO ARGENTINO CON BRONCE EN VIGA",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-miercoles-16-de-septiembre-cronograma-y-resultados-id761242.html"
-  },
-  {
     "row": 595,
     "date": "16/9/2026",
     "time": "19:52",
     "category": "Juegos Suramericanos",
     "title": "JULIETA LUCAS CERRÓ UNA LOCURA: ORO EN SUELO Y CUATRO TÍTULOS CON 16 AÑOS",
     "source": "https://www.tycsports.com/polideportivo/julieta-lucas-la-gimnasta-argentina-de-16-anos-que-gano-cuatro-oros-y-rompio-32-anos-de-historia-en-los-juegos-suramericanos-2026-id761413.html"
-  },
-  {
-    "row": 596,
-    "date": "16/9/2026",
-    "time": "19:47",
-    "category": "Juegos Suramericanos",
-    "title": "IVO CHIAPPONI SE COLGÓ EL BRONCE EN BARRAS PARALELAS",
-    "source": "https://vovetucuman.com/deportes/el-tucumano-ivo-chiapponi-se-subio-al-podio-en-los-juegos-suramericanos-y-consiguio-el-bronce-en-barras-paralelas/"
-  },
-  {
-    "row": 597,
-    "date": "16/9/2026",
-    "time": "19:40",
-    "category": "Juegos Suramericanos",
-    "title": "GRASSI VOLVIÓ AL PODIO: BRONCE EN LOS 50 LIBRE",
-    "source": "https://www.ellitoral.com/deportes/santiagograssi-natacion-medalladebronce-juegossuramericanossantafe2026-50metrosestilolibre-pedrosilva-rosario_0_isTwhEEGmw.html"
-  },
-  {
-    "row": 598,
-    "date": "16/9/2026",
-    "time": "19:36",
-    "category": "Juegos Suramericanos",
-    "title": "MALENA SANTILLÁN SUMÓ OTRA PLATA EN LOS 400 LIBRE",
-    "source": "https://www.ellitoral.com/deportes/malenasantillan-juegossuramericanos-natacion-uniondesantafe-medalladeplata-400metrosestilolibre-rosario_0_od3Bvjb1QC.html"
-  },
-  {
-    "row": 599,
-    "date": "16/9/2026",
-    "time": "19:32",
-    "category": "Juegos Suramericanos",
-    "title": "PLATA PARA LA POSTA MIXTA: ARGENTINA VOLVIÓ A PEGAR FUERTE EN NATACIÓN",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-miercoles-16-de-septiembre-cronograma-y-resultados-id761242.html"
-  },
-  {
-    "row": 600,
-    "date": "16/9/2026",
-    "time": "19:22",
-    "category": "Banfield",
-    "title": "TROGLIO PRESENTÓ LA RENUNCIA EN BANFIELD, PERO LA DIRIGENCIA NO SE LA ACEPTÓ",
-    "source": "https://www.tycsports.com/liga-profesional-de-futbol/pedro-troglio-presento-la-renuncia-en-banfield-id761409.html"
-  },
-  {
-    "row": 601,
-    "date": "16/9/2026",
-    "time": "19:20",
-    "category": "Juegos Suramericanos",
-    "title": "LUCAS HECKER GANÓ 41-29 Y SE METIÓ EN LA FINAL DE BOCHAS",
-    "source": "https://radiodon.com.ar/2026/09/16/el-castense-lucas-hecker-finalista-de-los-juegos-suramericanos-2026/"
   },
   {
     "row": 602,
@@ -2256,68 +952,12 @@
     "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-miercoles-16-de-septiembre-cronograma-y-resultados-id761242.html"
   },
   {
-    "row": 604,
-    "date": "16/9/2026",
-    "time": "19:05",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA LLEGÓ A 85 MEDALLAS Y SIGUE SEGUNDA DETRÁS DE BRASIL",
-    "source": "https://deportv.gob.ar/polideportivo/medallero-argentino-vivo-juegos-suramericanos-santa-fe-2026-nid:17059"
-  },
-  {
-    "row": 605,
-    "date": "16/9/2026",
-    "time": "18:40",
-    "category": "Juegos Suramericanos",
-    "title": "JULIETA LUCAS NO PARA: CUARTO ORO Y NUEVA CONSAGRACIÓN EN SUELO CON SOLO 16 AÑOS",
-    "source": "https://www.ellitoral.com/deportes/julietalucas-juegossuramericanossantafe2026-gimnasiaartistica-suelofemenino-allaround-juliapereira-invenciblearena_0_Ya8L123yoM.html"
-  },
-  {
-    "row": 606,
-    "date": "16/9/2026",
-    "time": "18:22",
-    "category": "Juegos Suramericanos",
-    "title": "MALENA SANTILLÁN CERRÓ CON OTRA MEDALLA: PLATA EN 400 LIBRE Y TRES PODIOS EN SANTA FE 2026",
-    "source": "https://www.ellitoral.com/deportes/malenasantillan-juegossuramericanos-natacion-uniondesantafe-medalladeplata-400metrosestilolibre-rosario_0_od3Bvjb1QC.html"
-  },
-  {
     "row": 607,
     "date": "16/9/2026",
     "time": "18:12",
     "category": "Racing Club",
     "title": "VOJVODA SORPRENDIÓ EN RACING: PROBÓ A ZARACHO COMO CARRILERO PARA TAPAR LAS BAJAS",
     "source": "https://www.tycsports.com/racing-club/las-opciones-de-vojvoda-para-reemplazar-a-los-lesionados-de-racing-club-id761310.html"
-  },
-  {
-    "row": 608,
-    "date": "16/9/2026",
-    "time": "17:56",
-    "category": "Boca Juniors",
-    "title": "ALIVIO PARA BOCA: MERENTIEL QUEDÓ AFUERA DE URUGUAY Y PODRÁ JUGAR EL CLÁSICO CON RACING",
-    "source": "https://www.tycsports.com/boca-juniors/lista-convocados-seleccion-de-uruguay-merentiel-boca-id761391.html"
-  },
-  {
-    "row": 609,
-    "date": "16/9/2026",
-    "time": "16:44",
-    "category": "Selección Argentina",
-    "title": "SCALONI YA MIRA MÁS ALLÁ: LA LISTA QUE ALIMENTA LA ILUSIÓN DE SU CONTINUIDAD EN LA SELECCIÓN",
-    "source": "https://www.tycsports.com/seleccion-argentina/scaloni-armo-la-lista-como-si-fuera-a-quedarse-op-id761383.html"
-  },
-  {
-    "row": 610,
-    "date": "16/9/2026",
-    "time": "16:24",
-    "category": "River Plate",
-    "title": "RIVER PODRÍA VOLVER A LLEVAR VISITANTES: BELGRANO EVALÚA MUDAR EL PARTIDO AL KEMPES",
-    "source": "https://www.tycsports.com/river-plate/river-podria-llevar-visitantes-a-cordoba-para-enfrentar-a-belgrano-id761353.html"
-  },
-  {
-    "row": 611,
-    "date": "16/9/2026",
-    "time": "15:59",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA APLASTÓ A BRASIL Y ES ORO: EL SABLE MASCULINO CERRÓ UNA CAMPAÑA INVICTA",
-    "source": "https://deporteargentino.com/noticias/camino-invicto-a-la-gloria-el-sable-masculino-derroto-a-brasil-y-se-corono-campeon-suramericano"
   },
   {
     "row": 612,
@@ -2328,92 +968,12 @@
     "source": "https://www.tycsports.com/seleccion-argentina/antonio-mohamed-se-postulo-para-dirigir-la-seleccion-argentina-estoy-preparado-id761358.html"
   },
   {
-    "row": 614,
-    "date": "16/9/2026",
-    "time": "15:32",
-    "category": "Juegos Suramericanos",
-    "title": "JULIETTE DUHAIME HIZO DOBLETE DE ORO Y ARGENTINA METIÓ EL 1-2 EN EL SUP FEMENINO",
-    "source": "https://deportv.gob.ar/polideportivo/juliette-duhaime-medalla-oro-stand-up-paddle-juegos-suramericanos-nid:17114"
-  },
-  {
-    "row": 615,
-    "date": "16/9/2026",
-    "time": "14:08",
-    "category": "River Plate",
-    "title": "RIVER PODRÍA TENER SIETE CONVOCADOS: LA DESPEDIDA DE MESSI YA LE CAMBIÓ EL CALENDARIO",
-    "source": "https://www.tycsports.com/river-plate/river-convocados-seleccion-argentina-benin-despedida-messi-sarmiento-junin-id761332.html"
-  },
-  {
-    "row": 616,
-    "date": "16/9/2026",
-    "time": "14:04",
-    "category": "Messi",
-    "title": "EL MENSAJE QUE EMOCIONA EN LA DESPEDIDA DE MESSI: PIDEN QUE SU FÚTBOL QUEDE COMO LEGADO",
-    "source": "https://www.tycsports.com/seleccion-argentina/la-sentida-carta-desde-el-cuerpo-tecnico-de-la-seleccion-para-messi-ojala-perdure-tu-manera-de-sentir-el-juego-id761338.html"
-  },
-  {
-    "row": 617,
-    "date": "16/9/2026",
-    "time": "14:01",
-    "category": "Argentinos en el exterior",
-    "title": "EL VAR ADMITIÓ EL ERROR QUE INVOLUCRÓ A ENZO Y LISANDRO: MARESCA LE BAJÓ EL TONO AL ESCÁNDALO",
-    "source": "https://www.tycsports.com/premier-league/la-postura-del-dt-de-enzo-fernandez-en-el-city-por-el-polemico-gol-en-el-derbi-de-manchester-id761337.html"
-  },
-  {
-    "row": 619,
-    "date": "16/9/2026",
-    "time": "13:59",
-    "category": "Juegos Suramericanos",
-    "title": "LOS LEONES PASARON POR ARRIBA A BRASIL: 4-1 Y PUNTAJE PERFECTO EN SANTA FE 2026",
-    "source": "https://radiorafaela.com.ar/deportes/los-leones-superaron-a-brasil-y-volvieron-a-ganar-en-los-juegos-suramericanos-santa-fe-2026"
-  },
-  {
-    "row": 621,
-    "date": "16/9/2026",
-    "time": "13:32",
-    "category": "San Lorenzo",
-    "title": "INSUA MUEVE EL EQUIPO PARA BOCA: DOS CAMBIOS Y UN REGRESO QUE LE DA AIRE A SAN LORENZO",
-    "source": "https://www.tycsports.com/san-lorenzo/ruben-dario-insua-recupera-a-un-soldado-y-piensa-dos-variantes-en-san-lorenzo-para-recibir-a-boca-id761333.html"
-  },
-  {
-    "row": 622,
-    "date": "16/9/2026",
-    "time": "13:18",
-    "category": "Boca Juniors",
-    "title": "RIQUELME SE SORPRENDIÓ CON BRASIL: MÁS DE 31 MIL PERSONAS LLEVAN SU NOMBRE",
-    "source": "https://www.tycsports.com/boca-juniors/reaccion-riquelme-30000-brasilenos-nombre--id761330.html"
-  },
-  {
-    "row": 623,
-    "date": "16/9/2026",
-    "time": "12:55",
-    "category": "Independiente",
-    "title": "ABALDO ENCENDIÓ LA ALARMA EN INDEPENDIENTE: ESGUINCE Y DUDA PARA VISITAR A UNIÓN",
-    "source": "https://www.tycsports.com/independiente/matias-abaldo-independiente-union--id761328.html"
-  },
-  {
-    "row": 626,
-    "date": "16/9/2026",
-    "time": "12:29",
-    "category": "Vélez Sarsfield",
-    "title": "ALIVIO EN VÉLEZ: MAMMANA RECIBIÓ EL ALTA TRAS LA GRAVE LESIÓN EN LAS COSTILLAS",
-    "source": "https://www.tycsports.com/liga-profesional-de-futbol/grandes-noticias-en-velez-emanuel-mammana-recibio-el-alta-id761327.html"
-  },
-  {
     "row": 629,
     "date": "16/9/2026",
     "time": "11:39",
     "category": "Juegos Suramericanos",
     "title": "DOBLETE DE ORO Y PASAJE A LIMA 2027: BASALDELLA VOLVIÓ A DOMINAR EL SUP",
     "source": "https://tn.com.ar/deportes/polideportivo/2026/09/16/nuevo-oro-para-argentina-santino-basaldella-fue-campeon-suramericano-en-stand-up-paddle-y-se-clasifico-a-lima-2027/"
-  },
-  {
-    "row": 632,
-    "date": "16/9/2026",
-    "time": "11:31",
-    "category": "Europa League",
-    "title": "ARRANCA LA EUROPA LEAGUE: MILAN-BENFICA SE ROBA TODAS LAS MIRADAS",
-    "source": "https://www.tycsports.com/europa-league/partidos-de-hoy-miercoles-por-la-europa-league-cruces-horarios-estadios-y-tv-id761094.html"
   },
   {
     "row": 634,
@@ -2440,30 +1000,6 @@
     "source": "https://www.tycsports.com/racing-club/las-opciones-de-vojvoda-para-reemplazar-a-los-lesionados-de-racing-club-id761310.html"
   },
   {
-    "row": 639,
-    "date": "16/9/2026",
-    "time": "10:24",
-    "category": "Messi",
-    "title": "INTER OFRECIÓ €500 MILLONES POR MESSI Y ÉL NI QUISO LEER LA PROPUESTA",
-    "source": "https://www.tycsports.com/serie-a/revelan-la-oferta-de-un-gigante-de-europa-que-pudo-haberlo-cambiado-todo-hice-una-locura-por-messi-pero-id761308.html"
-  },
-  {
-    "row": 642,
-    "date": "16/9/2026",
-    "time": "08:51",
-    "category": "Boca Juniors",
-    "title": "VASCO NO PODRÁ RECIBIR A BOCA EN SÃO JANUÁRIO Y BUSCA SEDE PARA LA REVANCHA",
-    "source": "https://www.tycsports.com/boca-juniors/vasco-da-gama-no-jugara-su-estadio-vuelta-boca-podria-ser-local-maracana-id761287.html"
-  },
-  {
-    "row": 643,
-    "date": "16/9/2026",
-    "time": "08:38",
-    "category": "Juegos Suramericanos",
-    "title": "LA FUERZA INVISIBLE DE SANTA FE 2026: MÁS DE 5.000 VOLUNTARIOS SOSTIENEN LOS JUEGOS",
-    "source": "https://www.tycsports.com/polideportivo/voluntarios-de-los-juegos-suramericanos-santa-fe-2026-quienes-son-y-que-hacen-id761147.html"
-  },
-  {
     "row": 649,
     "date": "16/9/2026",
     "time": "00:02",
@@ -2480,68 +1016,12 @@
     "source": "https://www.tycsports.com/boca-juniors/boca-san-pablo-final-caliente-pelea-copa-sudamericana-leandro-paredes-djhordney-id761255.html"
   },
   {
-    "row": 654,
-    "date": "15/9/2026",
-    "time": "21:30",
-    "category": "Boca Juniors",
-    "title": "BOCA YA JUEGA ANTE SAN PABLO POR EL PASE A SEMIFINALES",
-    "source": "https://www.tycsports.com/copa-sudamericana/conmebol-copa-sudamericana-2026-sao-paulo-vs-boca-juniors-llave-1-id760911.html"
-  },
-  {
     "row": 656,
     "date": "15/9/2026",
     "time": "21:09",
     "category": "Juegos Suramericanos",
     "title": "ARGENTINA CERRÓ OTRA JORNADA CARGADA DE RESULTADOS EN SANTA FE 2026",
     "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-martes-15-de-septiembre-cronograma-y-resultados-id761054.html"
-  },
-  {
-    "row": 662,
-    "date": "15/9/2026",
-    "time": "20:04",
-    "category": "Selección Argentina",
-    "title": "ROMÁN VEGA RECIBIÓ SU PRIMERA CONVOCATORIA A LA SELECCIÓN ARGENTINA",
-    "source": "https://www.tycsports.com/seleccion-argentina/quien-es-roman-vega-scaloni-lista-seleccion-argentina-id761237.html"
-  },
-  {
-    "row": 663,
-    "date": "15/9/2026",
-    "time": "19:21",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA SE AFIRMA SEGUNDA EN EL MEDALLERO DE SANTA FE 2026",
-    "source": "https://www.tycsports.com/polideportivo/asi-esta-el-medallero-argentino-en-los-juegos-suramericanos-santa-fe-2026-id761128.html"
-  },
-  {
-    "row": 665,
-    "date": "15/9/2026",
-    "time": "18:16",
-    "category": "Juegos Suramericanos",
-    "title": "KEN KUWADA FUE PLATA Y ARGENTINA HIZO 1-2 EN EL PATÍN CARRERA",
-    "source": "https://www.tycsports.com/polideportivo/ken-kuwada-juegos-suramericanos-2026-samurai-argentino-patin-carrera-id760940.html"
-  },
-  {
-    "row": 666,
-    "date": "15/9/2026",
-    "time": "18:03",
-    "category": "Selección Argentina",
-    "title": "MESSI TENDRÁ SU DESPEDIDA DE LA SELECCIÓN EL 6 DE OCTUBRE ANTE BENÍN",
-    "source": "https://www.tycsports.com/seleccion-argentina/messi-partido-despedida-seleccion-argentina-6-octubre-benin-amistoso-id761211.html"
-  },
-  {
-    "row": 667,
-    "date": "15/9/2026",
-    "time": "17:54",
-    "category": "Selección Argentina",
-    "title": "SCALONI DIO LA PRIMERA LISTA POST MUNDIAL: MESSI Y VARIAS CARAS NUEVAS",
-    "source": "https://www.tycsports.com/seleccion-argentina/lista-seleccion-argentina-amistosos-luego-del-mundial-2026-lionel-scaloni-id761127.html"
-  },
-  {
-    "row": 668,
-    "date": "15/9/2026",
-    "time": "15:53",
-    "category": "Fútbol Internacional",
-    "title": "JAMES RODRÍGUEZ ANUNCIÓ SU RETIRO DE LA SELECCIÓN DE COLOMBIA",
-    "source": "https://www.tycsports.com/futbol-internacional/james-rodriguez-se-retiro-de-la-seleccion-de-colombia-una-de-las-etapas-mas-importantes-de-mi-vida-id761184.html"
   },
   {
     "row": 669,
@@ -2552,14 +1032,6 @@
     "source": "https://www.tycsports.com/seleccion-argentina/seleccion-de-benin-africa-amistoso-seleccion-argentina-historia-id761150.html"
   },
   {
-    "row": 670,
-    "date": "15/9/2026",
-    "time": "15:27",
-    "category": "Selección Argentina",
-    "title": "BURKINA FASO, LA PRUEBA AFRICANA QUE TENDRÁ LA SELECCIÓN EN EL MONUMENTAL",
-    "source": "https://www.tycsports.com/seleccion-argentina/rival-burkina-faso-interesante-prueba-seleccion-argentina-id761182.html"
-  },
-  {
     "row": 671,
     "date": "15/9/2026",
     "time": "15:18",
@@ -2568,60 +1040,12 @@
     "source": "https://www.tycsports.com/futbol-internacional/simeone-sin-vueltas-sobre-su-candidato-para-el-balon-de-oro-messi-sin-ninguna-duda-id761181.html"
   },
   {
-    "row": 672,
-    "date": "15/9/2026",
-    "time": "14:51",
-    "category": "Argentinos en el exterior",
-    "title": "GATTUSO LE BAJÓ EL PULGAR A ICARDI Y LAZIO SE RETIRÓ DE LA CARRERA",
-    "source": "https://www.tycsports.com/futbol-internacional/el-dt-de-un-grande-de-italia-le-bajo-el-pulgar-a-mauro-icardi-id761179.html"
-  },
-  {
-    "row": 673,
-    "date": "15/9/2026",
-    "time": "14:15",
-    "category": "Selección Argentina",
-    "title": "ARGENTINA CONFIRMÓ TRES AMISTOSOS: BOLIVIA, BURKINA FASO Y BENÍN",
-    "source": "https://www.tycsports.com/seleccion-argentina/la-seleccion-argentina-confirmo-sus-proximos-amistosos-mientras-suena-con-la-despedida-de-messi-id759921.html"
-  },
-  {
     "row": 674,
     "date": "15/9/2026",
     "time": "13:57",
     "category": "Argentinos en el exterior",
     "title": "JULIÁN ÁLVAREZ SIGUE LESIONADO Y SE PIERDE OTRO PARTIDO DEL ATLÉTICO",
     "source": "https://www.tycsports.com/espana/la-liga/julian-alvarez-descartado-simeone-atletico-de-madrid--id761172.html"
-  },
-  {
-    "row": 675,
-    "date": "15/9/2026",
-    "time": "13:41",
-    "category": "Independiente",
-    "title": "INDEPENDIENTE TIENE UN PROBLEMA DE ALOJAMIENTO ANTES DE VISITAR A UNIÓN",
-    "source": "https://www.tycsports.com/independiente/el-inesperado-problema-de-independiente-antes-de-visitar-a-union-id761165.html"
-  },
-  {
-    "row": 676,
-    "date": "15/9/2026",
-    "time": "13:21",
-    "category": "River Plate",
-    "title": "RIVER PREPARA A HURACÁN: ANÍBAL MORENO SIGUE DIFERENCIADO Y NO LLEGARÍA",
-    "source": "https://bolavip.com/ar/amp/river/river-hoy-la-situacion-de-anibal-moreno-y-el-retiro-de-la-historica-pantalla"
-  },
-  {
-    "row": 677,
-    "date": "15/9/2026",
-    "time": "12:44",
-    "category": "Racing",
-    "title": "RACING SUMÓ DOS BAJAS Y VOJVODA ESPERA POR CANNAVO ANTE SARMIENTO",
-    "source": "https://www.tycsports.com/racing-club/la-enfermeria-de-racing-un-titular-se-salvo-de-la-lesion-y-otros-dos-se-pierden-el-partido-clave-con-sarmiento-id761158.html"
-  },
-  {
-    "row": 678,
-    "date": "15/9/2026",
-    "time": "12:31",
-    "category": "Messi",
-    "title": "ARRANCÓ EL CICLO DEL KILY GONZÁLEZ EN INTER MIAMI Y DEBUTA EN UNA FINAL",
-    "source": "https://www.tycsports.com/estados-unidos/mls/arranco-el-ciclo-del-kily-gonzalez-en-inter-miami-primer-entrenamiento-a-horas-de-una-final-id761156.html"
   },
   {
     "row": 679,
@@ -2648,68 +1072,12 @@
     "source": "https://www.tycsports.com/espana/la-liga/la-reaccion-de-julian-alvarez-ante-el-gesto-de-un-grupo-de-hinchas-de-atletico-de-madrid-id761130.html"
   },
   {
-    "row": 683,
-    "date": "15/9/2026",
-    "time": "08:41",
-    "category": "Boca Juniors",
-    "title": "BOCA YA CONOCE EL CAMINO QUE TENDRÍA EN SEMIFINALES DE LA SUDAMERICANA",
-    "source": "https://www.tycsports.com/copa-sudamericana/semifinales-sudamericana-2026-fechas-cuando-se-juegan-horarios-y-cruces-id761125.html"
-  },
-  {
-    "row": 684,
-    "date": "15/9/2026",
-    "time": "08:40",
-    "category": "Juegos Suramericanos",
-    "title": "SANTA FE 2026: 4.000 ATLETAS, 60 DISCIPLINAS Y 26 CLASIFICACIONES A LIMA 2027",
-    "source": "https://www.tycsports.com/polideportivo/juegos-suramericanos-santa-fe-2026-fechas-sedes-deportes-y-todo-lo-que-hay-que-saber-id760635.html"
-  },
-  {
-    "row": 685,
-    "date": "15/9/2026",
-    "time": "08:16",
-    "category": "Copa Libertadores",
-    "title": "ASÍ SERÁ EL CAMINO A SEMIFINALES DE LA LIBERTADORES: PLATENSE Y ESTUDIANTES SIGUEN EN CARRERA",
-    "source": "https://www.tycsports.com/copa-libertadores/semifinales-libertadores-2026-fechas-cuando-se-juegan-horarios-y-cruces-id761118.html"
-  },
-  {
-    "row": 686,
-    "date": "15/9/2026",
-    "time": "08:16",
-    "category": "Platense",
-    "title": "PLATENSE VA POR UNA REMONTADA HISTÓRICA ANTE FLUMINENSE EN VICENTE LÓPEZ",
-    "source": "https://www.tycsports.com/copa-libertadores/platense-fluminense-copa-libertadores-2026-id761029.html"
-  },
-  {
-    "row": 688,
-    "date": "15/9/2026",
-    "time": "05:40",
-    "category": "Racing",
-    "title": "VOJVODA SIGUE AL FRENTE Y YA REARMA RACING PARA RECIBIR A SARMIENTO",
-    "source": "https://superdeportivo.publisher.highstack.com.ar/vojvoda-dirigio-la-practica-en-racing-las-decisiones-que-tiene-que-tomar/"
-  },
-  {
     "row": 692,
     "date": "14/9/2026",
     "time": "22:17",
     "category": "Independiente",
     "title": "CHIMY ÁVILA: “ESTUVE MUCHO TIEMPO PARADO Y TRATO DE BUSCAR MI MEJOR VERSIÓN”",
     "source": "https://www.ole.com.ar/independiente/independiente-sanlorenzo-jadsonviera-betis_0_mVtkOpnGM7.html"
-  },
-  {
-    "row": 693,
-    "date": "14/9/2026",
-    "time": "22:01",
-    "category": "Boca Juniors",
-    "title": "BOCA LLEGÓ A SAN PABLO CON RIQUELME Y TRES REGRESOS PARA LA REVANCHA",
-    "source": "https://tn.com.ar/deportes/futbol/2026/09/14/con-riquelme-a-la-cabeza-boca-llego-a-brasil-para-jugar-la-revancha-contra-san-pablo/"
-  },
-  {
-    "row": 694,
-    "date": "14/9/2026",
-    "time": "21:00",
-    "category": "Fútbol Argentino",
-    "title": "LANÚS GOLEÓ 3-0 A RIESTRA Y SE METIÓ EN ZONA DE PLAYOFFS",
-    "source": "https://www.corrienteshoy.com/deportes/lanus-goleo-a-deportivo-riestra-para-meterse-en-puestos-de-playoffs-del-torneo-clausura.htm"
   },
   {
     "row": 696,
@@ -2728,30 +1096,6 @@
     "source": "https://www.lanacion.com.ar/deportes/la-natacion-argentina-sumo-en-grande-en-los-juegos-suramericanos-2026-nueve-medallas-en-la-jornada-nid14092026/"
   },
   {
-    "row": 699,
-    "date": "14/9/2026",
-    "time": "19:30",
-    "category": "Natación",
-    "title": "ARGENTINA GANÓ EL ORO EN LA POSTA 4X100 COMBINADO FEMENINA",
-    "source": "https://www.lanacion.com.ar/deportes/la-natacion-argentina-sumo-en-grande-en-los-juegos-suramericanos-2026-nueve-medallas-en-la-jornada-nid14092026/"
-  },
-  {
-    "row": 700,
-    "date": "14/9/2026",
-    "time": "19:07",
-    "category": "Polideportivo",
-    "title": "ISABEL DI TELLA GANÓ EL ORO EN ESPADA INDIVIDUAL EN SANTA FE 2026",
-    "source": "https://www.lacapital.com.ar/juegos-suramericanos/los-di-tella-hicieron-historia-los-juegos-suramericanos-isabel-gano-el-oro-un-dia-despues-que-su-hermano-pascual-n10281061.html"
-  },
-  {
-    "row": 701,
-    "date": "14/9/2026",
-    "time": "19:06",
-    "category": "Polideportivo",
-    "title": "AUGUSTO SERVELLO FUE ORO Y RETUVO EL TÍTULO SURAMERICANO EN FLORETE",
-    "source": "https://www.primeraedicion.com.ar/nota/101142447/el-misionero-augusto-servello-se-consagro-bicampeon-suramericano-de-esgrima/"
-  },
-  {
     "row": 702,
     "date": "14/9/2026",
     "time": "19:05",
@@ -2760,51 +1104,11 @@
     "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-lunes-14-de-septiembre-cronograma-y-resultados-id760853.html"
   },
   {
-    "row": 703,
-    "date": "14/9/2026",
-    "time": "19:05",
-    "category": "Natación",
-    "title": "ULISES CAZAU FUE BRONCE EN LOS 50 METROS MARIPOSA",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-lunes-14-de-septiembre-cronograma-y-resultados-id760853.html"
-  },
-  {
-    "row": 704,
-    "date": "14/9/2026",
-    "time": "19:05",
-    "category": "Copa Argentina",
-    "title": "BOCA-RACING CAMBIÓ DE SEDE: SE JUGARÁ EN EL GIGANTE DE ARROYITO",
-    "source": "https://bolavip.com/ar/copa-argentina/cambio-la-sede-del-partido-entre-boca-y-racing-por-los-cuartos-de-final-de-la-copa-argentina-se-jugara-en-rosario"
-  },
-  {
-    "row": 705,
-    "date": "14/9/2026",
-    "time": "19:05",
-    "category": "Polideportivo",
-    "title": "ANDREA NIGOSANTI GANÓ LA PLATA EN UNA FINAL ARGENTINA DE FLORETE",
-    "source": "https://www.ellitoral.com/deportes/isabelditella-juegossuramericanossantafe2026-esgrima-espadaindividualfemenino-pascualditella-rosario_0_BvY6l41yop.html"
-  },
-  {
     "row": 706,
     "date": "14/9/2026",
     "time": "18:43",
     "category": "Polideportivo",
     "title": "ARGENTINA FUE BRONCE POR EQUIPOS EN ADIESTRAMIENTO ECUESTRE",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-lunes-14-de-septiembre-cronograma-y-resultados-id760853.html"
-  },
-  {
-    "row": 708,
-    "date": "14/9/2026",
-    "time": "18:28",
-    "category": "Natación",
-    "title": "MACARENA CEBALLOS VOLVIÓ A SER ORO: CAMPEONA EN LOS 200 METROS PECHO",
-    "source": "https://tn.com.ar/deportes/polideportivo/2026/09/14/no-estoy-contenta-la-curiosa-respuesta-de-una-nadadora-argentina-tras-ganar-la-medalla-de-oro-en-los-juegos-suramericanos/"
-  },
-  {
-    "row": 709,
-    "date": "14/9/2026",
-    "time": "18:28",
-    "category": "Natación",
-    "title": "MARTINA BARBEITO GANÓ EL BRONCE EN LOS 200 METROS PECHO",
     "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-lunes-14-de-septiembre-cronograma-y-resultados-id760853.html"
   },
   {
@@ -2816,164 +1120,12 @@
     "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-lunes-14-de-septiembre-cronograma-y-resultados-id760853.html"
   },
   {
-    "row": 711,
-    "date": "14/9/2026",
-    "time": "18:12",
-    "category": "Natación",
-    "title": "CECILIA DIELEKE SE CONSAGRÓ CAMPEONA EN LOS 100 METROS ESPALDA",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-lunes-14-de-septiembre-cronograma-y-resultados-id760853.html"
-  },
-  {
     "row": 712,
     "date": "14/9/2026",
     "time": "18:00",
     "category": "Natación",
     "title": "LAILA CHAIN GANÓ LA PLATA EN LOS 400 METROS COMBINADOS",
     "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-lunes-14-de-septiembre-cronograma-y-resultados-id760853.html"
-  },
-  {
-    "row": 713,
-    "date": "14/9/2026",
-    "time": "17:36",
-    "category": "Polideportivo",
-    "title": "NAIARA SAGASTI GANÓ EL BRONCE EN LOS 1000 METROS SPRINT",
-    "source": "https://www.airedesantafe.com.ar/deportes/juegos-suramericanos-2026-naiara-sagasti-gano-el-bronce-patinaje-velocidad-n670102"
-  },
-  {
-    "row": 714,
-    "date": "14/9/2026",
-    "time": "17:22",
-    "category": "Polideportivo",
-    "title": "EMILIA ACOSTA GANÓ EL BRONCE INDIVIDUAL EN EL ALL AROUND",
-    "source": "https://radiorafaela.com.ar/deportes/una-rafaelina-hizo-historia-emilia-acosta-gano-el-oro-por-equipos-y-fue-bronce-individual-en-los-juegos-suramericanos"
-  },
-  {
-    "row": 715,
-    "date": "14/9/2026",
-    "time": "17:21",
-    "category": "Esports",
-    "title": "BRUNO COLEFF HIZO HISTORIA CON LA PLATA EN ASSETTO CORSA GT",
-    "source": "https://www.airedesantafe.com.ar/deportes/argentina-hizo-historia-y-gano-su-primer-medalla-esports-los-juegos-sudamericanos-n670100"
-  },
-  {
-    "row": 716,
-    "date": "14/9/2026",
-    "time": "17:16",
-    "category": "Polideportivo",
-    "title": "JULIETA LUCAS GANÓ EL ORO EN EL ALL AROUND DE GIMNASIA ARTÍSTICA",
-    "source": "https://www.airedesantafe.com.ar/deportes/juegos-suramericanos-2026-argentina-gano-dos-medallas-oro-y-una-bronce-gimnasia-artistica-n670101"
-  },
-  {
-    "row": 717,
-    "date": "14/9/2026",
-    "time": "17:15",
-    "category": "Polideportivo",
-    "title": "ARGENTINA CORTÓ LA HEGEMONÍA DE BRASIL Y FUE ORO POR EQUIPOS EN GIMNASIA",
-    "source": "https://www.airedesantafe.com.ar/deportes/juegos-suramericanos-2026-argentina-gano-dos-medallas-oro-y-una-bronce-gimnasia-artistica-n670101"
-  },
-  {
-    "row": 718,
-    "date": "14/9/2026",
-    "time": "17:00",
-    "category": "Racing",
-    "title": "RACING RATIFICÓ A VOJVODA: SEGUIRÁ COMO ENTRENADOR PESE A LA CRISIS",
-    "source": "https://www.tycsports.com/racing-club/juan-pablo-vojvoda-racing-club-reunion-clave-id760948.html"
-  },
-  {
-    "row": 719,
-    "date": "14/9/2026",
-    "time": "17:00",
-    "category": "Esports",
-    "title": "LAUTARO ZUVIRÍA GANÓ EL BRONCE EN EA SPORTS FC EN SANTA FE 2026",
-    "source": "https://deportv.gob.ar/polideportivo/daniela-arias-argentina-historia-juegos-suramericanos-gano-oro-historia-esports-nid:17023"
-  },
-  {
-    "row": 720,
-    "date": "14/9/2026",
-    "time": "16:48",
-    "category": "Boca Juniors",
-    "title": "SE CAYÓ DEFINITIVAMENTE EL PASE DE MATÍAS GALARZA A BOCA",
-    "source": "https://www.tycsports.com/boca-juniors/boca-negociacion-talleres-matias-galarza-genk-belgica-contrato-mercado-de-pases-id760944.html"
-  },
-  {
-    "row": 721,
-    "date": "14/9/2026",
-    "time": "15:56",
-    "category": "Boca Juniors",
-    "title": "SE TRABÓ LA LLEGADA DE GALARZA A BOCA POR EL 40% QUE CONSERVA GENK",
-    "source": "https://bolavip.com/ar/amp/boca/el-motivo-por-el-cual-se-trabo-la-llegada-de-matias-galarza-a-boca"
-  },
-  {
-    "row": 722,
-    "date": "14/9/2026",
-    "time": "15:37",
-    "category": "Copa Argentina",
-    "title": "PELIGRA EL KEMPES PARA BOCA-RACING POR UN AMISTOSO DE LA SELECCIÓN",
-    "source": "https://bolavip.com/ar/amp/copa-argentina/peligra-la-sede-de-boca-vs-racing-por-un-amistoso-de-la-seleccion-argentina"
-  },
-  {
-    "row": 725,
-    "date": "14/9/2026",
-    "time": "14:32",
-    "category": "Hockey",
-    "title": "LAS LEONAS GOLEARON 14-0 A PARAGUAY EN LOS SURAMERICANOS",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-lunes-14-de-septiembre-cronograma-y-resultados-id760853.html"
-  },
-  {
-    "row": 728,
-    "date": "14/9/2026",
-    "time": "13:03",
-    "category": "Polideportivo",
-    "title": "FERNANDO CONTRERAS GANÓ EL ORO EN MOUNTAIN BIKE EN SANTA FE 2026",
-    "source": "https://www.airedesantafe.com.ar/deportes/juegos-suramericanos-2026-aire-todas-las-medallas-argentina-dia-dia-n669995"
-  },
-  {
-    "row": 729,
-    "date": "14/9/2026",
-    "time": "12:20",
-    "category": "F1",
-    "title": "BUENOS AIRES ACELERA POR EL REGRESO DE LA F1 Y AVANZA CON LIBERTY MEDIA",
-    "source": "https://campeones.com.ar/avances-de-la-ciudad-de-buenos-aires-buscando-el-regreso-de-la-formula-1/"
-  },
-  {
-    "row": 731,
-    "date": "14/9/2026",
-    "time": "11:43",
-    "category": "Racing",
-    "title": "RACING DEFINE EL FUTURO DE VOJVODA EN UNA REUNIÓN CLAVE DE LA DIRIGENCIA",
-    "source": "https://www.tycsports.com/racing-club/juan-pablo-vojvoda-racing-club-reunion-clave-id760948.html"
-  },
-  {
-    "row": 732,
-    "date": "14/9/2026",
-    "time": "11:38",
-    "category": "San Lorenzo",
-    "title": "SAN LORENZO AFRONTA UN RECLAMO DE $766 MILLONES DE RAMÓN CLEMENTE",
-    "source": "https://sanlorenzo.com.ar/club/noticias/1789396729_ramon-clemente-reclama-%24766-millones-a-san-lorenzo"
-  },
-  {
-    "row": 733,
-    "date": "14/9/2026",
-    "time": "11:38",
-    "category": "Polideportivo",
-    "title": "SANTA FE 2026: GRASSI ROMPIÓ EL RÉCORD DE LOS JUEGOS Y ARGENTINA SUMÓ VARIAS FINALES",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-lunes-14-de-septiembre-cronograma-y-resultados-id760853.html"
-  },
-  {
-    "row": 734,
-    "date": "14/9/2026",
-    "time": "10:41",
-    "category": "Boca Juniors",
-    "title": "BOCA ACELERA POR GALARZA: YA ARREGLÓ CON EL JUGADOR Y SIGUE NEGOCIANDO CON TALLERES",
-    "source": "https://www.tycsports.com/boca-juniors/boca-negociacion-talleres-matias-galarza-genk-belgica-contrato-mercado-de-pases-id760944.html"
-  },
-  {
-    "row": 740,
-    "date": "14/9/2026",
-    "time": "09:10",
-    "category": "Tenis",
-    "title": "DÍAZ ACOSTA SE CONSAGRÓ CAMPEÓN EN SEVILLA Y SUMÓ SU SEXTO CHALLENGER DEL AÑO",
-    "source": "https://www.infobae.com/deportes/2026/09/14/facundo-diaz-acosta-otra-vez-campeon-se-corono-en-sevilla-y-sumo-su-sexto-titulo-challenger-en-el-ano/"
   },
   {
     "row": 741,
@@ -2984,27 +1136,11 @@
     "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-lunes-14-de-septiembre-cronograma-y-resultados-id760853.html"
   },
   {
-    "row": 742,
-    "date": "14/9/2026",
-    "time": "08:36",
-    "category": "Rugby",
-    "title": "LA MADRE DE FEDERICO ARAMBURÚ DECLARÓ EN FRANCIA Y HABLÓ DE “UN CRIMEN DE ODIO”",
-    "source": "https://www.tycsports.com/rugby/el-desgarrador-testimonio-de-la-madre-de-federico-aramburu-el-rugbier-asesinado-en-paris-id760937.html"
-  },
-  {
     "row": 757,
     "date": "13/9/2026",
     "time": "19:51",
     "category": "Polideportivo",
     "title": "ANDREA BERRINO GANÓ EL BRONCE EN LOS 50 ESPALDA DE SANTA FE 2026",
-    "source": "https://www.airedesantafe.com.ar/deportes/juegos-suramericanos-2026-aire-todas-las-medallas-argentina-dia-dia-n669995"
-  },
-  {
-    "row": 759,
-    "date": "13/9/2026",
-    "time": "19:30",
-    "category": "Polideportivo",
-    "title": "MARTINA BARBEITO FUE PLATA Y COMPLETÓ EL 1-2 ARGENTINO EN LOS 100 PECHO",
     "source": "https://www.airedesantafe.com.ar/deportes/juegos-suramericanos-2026-aire-todas-las-medallas-argentina-dia-dia-n669995"
   },
   {
@@ -3016,14 +1152,6 @@
     "source": "https://www.airedesantafe.com.ar/deportes/juegos-suramericanos-2026-aire-todas-las-medallas-argentina-dia-dia-n669995"
   },
   {
-    "row": 776,
-    "date": "14/9/2026",
-    "time": "12:51",
-    "category": "Boca Juniors",
-    "title": "BOCA RECUPERÓ TRES JUGADORES PARA LA REVANCHA CON SAN PABLO",
-    "source": "https://www.tycsports.com/boca-juniors/los-convocados-de-boca-para-la-revancha-con-san-pablo-copa-sudamericana-id760964.html"
-  },
-  {
     "row": 778,
     "date": "14/9/2026",
     "time": "10:14",
@@ -3032,51 +1160,11 @@
     "source": "https://www.tycsports.com/futbol-internacional/kevin-mac-allister-grave-lesion-rodilla-derecha-union-saint-gilloise--id760921.html"
   },
   {
-    "row": 888,
-    "date": "10/9/2026",
-    "time": "23:58",
-    "category": "Vóley",
-    "title": "LAS PANTERAS BARRIERON A CHILE Y SIGUEN INVICTAS EN EL SUDAMERICANO",
-    "source": ""
-  },
-  {
     "row": 899,
     "date": "10/9/2026",
     "time": "16:00",
     "category": "Básquet",
     "title": "LA CAB LLEVA SU PROGRAMA DE DESARROLLO FEDERAL AL ALTO VALLE",
-    "source": ""
-  },
-  {
-    "row": 900,
-    "date": "10/9/2026",
-    "time": "15:33",
-    "category": "Boca",
-    "title": "ARRUABARRENA SUBIÓ A BACIDALUPE Y MENDIETA PARA REFORZAR UN BOCA DIEZMADO",
-    "source": ""
-  },
-  {
-    "row": 902,
-    "date": "10/9/2026",
-    "time": "15:25",
-    "category": "Básquet",
-    "title": "ALFREDO VENTURA JUGARÁ EL MUNDIAL U23 DE BÁSQUET 3X3 CON ARGENTINA",
-    "source": ""
-  },
-  {
-    "row": 903,
-    "date": "10/9/2026",
-    "time": "15:16",
-    "category": "Selección Argentina",
-    "title": "WALTER SAMUEL DEJARÁ LA SELECCIÓN ARGENTINA EN 2027",
-    "source": "https://www.tycsports.com/seleccion-argentina/walter-samuel-dejara-el-cuerpo-tecnico-de-la-seleccion-argentina-y-se-lanzara-como-dt-id760184.html"
-  },
-  {
-    "row": 904,
-    "date": "10/9/2026",
-    "time": "15:08",
-    "category": "Lucha libre",
-    "title": "WWE VUELVE A LA ARGENTINA DESPUÉS DE SIETE AÑOS CON UN SHOW EN EL MOVISTAR ARENA",
     "source": ""
   },
   {
@@ -3096,22 +1184,6 @@
     "source": ""
   },
   {
-    "row": 910,
-    "date": "10/9/2026",
-    "time": "14:00",
-    "category": "Atletismo",
-    "title": "TOMÁS MONDINO, LA CARTA ARGENTINA DE LOS 100 METROS EN SANTA FE 2026",
-    "source": ""
-  },
-  {
-    "row": 911,
-    "date": "10/9/2026",
-    "time": "13:52",
-    "category": "Boca",
-    "title": "MONTERO SE QUEDA EN COLOMBIA Y BREY ATAJARÁ EN BOCA ANTE CENTRAL CÓRDOBA",
-    "source": ""
-  },
-  {
     "row": 912,
     "date": "10/9/2026",
     "time": "13:49",
@@ -3126,14 +1198,6 @@
     "category": "San Lorenzo",
     "title": "SAN LORENZO LEVANTÓ TRES EMBARGOS QUE SUPERABAN LOS US$650 MIL",
     "source": ""
-  },
-  {
-    "row": 914,
-    "date": "10/9/2026",
-    "time": "12:47",
-    "category": "San Lorenzo",
-    "title": "INSÚA PROBÓ EL EQUIPO DE SAN LORENZO PARA VISITAR A INDEPENDIENTE",
-    "source": "https://www.tycsports.com/san-lorenzo/el-equipo-que-paro-insua-para-su-debut-en-san-lorenzo-id760128.html"
   },
   {
     "row": 915,
@@ -3168,14 +1232,6 @@
     "source": ""
   },
   {
-    "row": 923,
-    "date": "10/9/2026",
-    "time": "10:35",
-    "category": "River",
-    "title": "FABRICIO BUSTOS NEGOCIA SU RESCISIÓN Y PODRÍA DEJAR RIVER LIBRE",
-    "source": ""
-  },
-  {
     "row": 924,
     "date": "10/9/2026",
     "time": "10:30",
@@ -3192,54 +1248,6 @@
     "source": ""
   },
   {
-    "row": 926,
-    "date": "10/9/2026",
-    "time": "10:09",
-    "category": "Independiente",
-    "title": "INDEPENDIENTE OFICIALIZÓ LA VENTA DE MAXI GUTIÉRREZ AL DÍNAMO MOSCÚ",
-    "source": ""
-  },
-  {
-    "row": 927,
-    "date": "10/9/2026",
-    "time": "10:06",
-    "category": "River",
-    "title": "ANÍBAL MORENO SIGUE AFUERA EN RIVER POR UNA DISCOPATÍA LUMBAR",
-    "source": ""
-  },
-  {
-    "row": 932,
-    "date": "10/9/2026",
-    "time": "07:29",
-    "category": "Fútbol",
-    "title": "COPA ARGENTINA: SE ORDENÓ EL CUADRO DE CUARTOS DE FINAL",
-    "source": ""
-  },
-  {
-    "row": 933,
-    "date": "10/9/2026",
-    "time": "07:11",
-    "category": "Boca",
-    "title": "LA ROTACIÓN, EL PROBLEMA QUE ARRUABARRENA TODAVÍA NO PUDO RESOLVER EN BOCA",
-    "source": ""
-  },
-  {
-    "row": 942,
-    "date": "10/9/2026",
-    "time": "00:00",
-    "category": "Fútbol",
-    "title": "GIMNASIA REPETIRÍA EL EQUIPO PARA VISITAR AL LÍDER ARGENTINOS JUNIORS",
-    "source": ""
-  },
-  {
-    "row": 947,
-    "date": "9/9/2026",
-    "time": "20:00",
-    "category": "Automovilismo",
-    "title": "ROBIN RÄIKKÖNEN, HIJO DE KIMI, SE SUMÓ AL PROGRAMA DE JÓVENES DE RED BULL",
-    "source": ""
-  },
-  {
     "row": 948,
     "date": "9/9/2026",
     "time": "19:23",
@@ -3248,59 +1256,11 @@
     "source": ""
   },
   {
-    "row": 949,
-    "date": "9/9/2026",
-    "time": "19:22",
-    "category": "Selección",
-    "title": "SCALONI TODAVÍA NO RENOVÓ Y SU CONTINUIDAD EN LA SELECCIÓN SIGUE ABIERTA",
-    "source": ""
-  },
-  {
-    "row": 950,
-    "date": "9/9/2026",
-    "time": "19:21",
-    "category": "Selección",
-    "title": "CUTI ROMERO SERÁ EL NUEVO CAPITÁN DE LA SELECCIÓN ARGENTINA",
-    "source": ""
-  },
-  {
-    "row": 961,
-    "date": "9/9/2026",
-    "time": "09:02",
-    "category": "Fútbol",
-    "title": "EL ELDENSE CONFIRMÓ EL PRINCIPIO DE ACUERDO PARA QUE MESSI SEA SU NUEVO DUEÑO",
-    "source": ""
-  },
-  {
     "row": 962,
     "date": "9/9/2026",
     "time": "09:02",
     "category": "Vóley",
     "title": "LAS PANTERAS DEBUTARON CON REMONTADA Y TRIUNFO ANTE PERÚ",
-    "source": ""
-  },
-  {
-    "row": 964,
-    "date": "9/9/2026",
-    "time": "08:00",
-    "category": "Fútbol",
-    "title": "MESSI ACORDÓ EN PRINCIPIO LA COMPRA DEL 100% DEL ELDENSE",
-    "source": ""
-  },
-  {
-    "row": 965,
-    "date": "9/9/2026",
-    "time": "05:58",
-    "category": "F1",
-    "title": "EL PROMOTOR DE INTERLAGOS APOYÓ UN POSIBLE REGRESO DE LA F1 A BUENOS AIRES",
-    "source": ""
-  },
-  {
-    "row": 966,
-    "date": "9/9/2026",
-    "time": "03:01",
-    "category": "Racing",
-    "title": "RACING CEDIÓ A TOBÍAS RUBIO A UNIÓN HASTA JUNIO DE 2027",
     "source": ""
   },
   {
@@ -3320,46 +1280,6 @@
     "source": ""
   },
   {
-    "row": 969,
-    "date": "9/9/2026",
-    "time": "02:00",
-    "category": "F1",
-    "title": "BRIATORE RESPALDÓ A COLAPINTO DESPUÉS DE SU CARRERA MÁS AGRIDULCE EN MONZA",
-    "source": ""
-  },
-  {
-    "row": 970,
-    "date": "9/9/2026",
-    "time": "02:00",
-    "category": "Selección",
-    "title": "ARGENTINA YA TIENE FIXTURE PARA EL FÚTBOL MASCULINO DE LOS JUEGOS SURAMERICANOS",
-    "source": ""
-  },
-  {
-    "row": 971,
-    "date": "9/9/2026",
-    "time": "00:58",
-    "category": "Fútbol",
-    "title": "DORIVAL HABLÓ DE UN “DESCUIDO” Y PIDIÓ UN MORUMBIS LLENO PARA RECIBIR A BOCA",
-    "source": ""
-  },
-  {
-    "row": 972,
-    "date": "9/9/2026",
-    "time": "00:01",
-    "category": "Boca",
-    "title": "BOCA GANÓ 1-0 A SAN PABLO Y CLASIFICA CON UN EMPATE EN BRASIL",
-    "source": ""
-  },
-  {
-    "row": 973,
-    "date": "8/9/2026",
-    "time": "23:01",
-    "category": "Fútbol",
-    "title": "EXPULSIÓN DE POR VIDA Y EQUIPO AFUERA: LA SANCIÓN POR LA AGRESIÓN EN EL SENIOR",
-    "source": ""
-  },
-  {
     "row": 974,
     "date": "8/9/2026",
     "time": "23:01",
@@ -3373,14 +1293,6 @@
     "time": "21:57",
     "category": "Independiente",
     "title": "INDEPENDIENTE OFICIALIZÓ A IVÁN MORALES Y ACLARÓ LOS TÉRMINOS DEL ACUERDO",
-    "source": ""
-  },
-  {
-    "row": 976,
-    "date": "8/9/2026",
-    "time": "20:58",
-    "category": "Fútbol",
-    "title": "PLATENSE CAYÓ 2-0 ANTE FLUMINENSE Y DEBERÁ REMONTAR EN VICENTE LÓPEZ",
     "source": ""
   },
   {
@@ -3400,22 +1312,6 @@
     "source": ""
   },
   {
-    "row": 979,
-    "date": "8/9/2026",
-    "time": "19:01",
-    "category": "San Lorenzo",
-    "title": "SAN LORENZO TIENE CINCO JUGADORES ENTRE ALGODONES ANTES DE VISITAR A INDEPENDIENTE",
-    "source": ""
-  },
-  {
-    "row": 980,
-    "date": "8/9/2026",
-    "time": "19:01",
-    "category": "Fútbol",
-    "title": "SIMEONE CONFIRMÓ QUE JULIÁN ÁLVAREZ SERÁ SUPLENTE ANTE LIVERPOOL",
-    "source": ""
-  },
-  {
     "row": 981,
     "date": "8/9/2026",
     "time": "19:01",
@@ -3429,54 +1325,6 @@
     "time": "19:01",
     "category": "Fútbol",
     "title": "LAUTARO ASISTIÓ, PERO EL REAL MADRID VENCIÓ 2-1 AL INTER EN LA CHAMPIONS",
-    "source": ""
-  },
-  {
-    "row": 983,
-    "date": "8/9/2026",
-    "time": "19:01",
-    "category": "Fútbol",
-    "title": "ENZO FERNÁNDEZ ASISTIÓ A HAALAND EN EL 2-0 DEL CITY SOBRE PORTO",
-    "source": ""
-  },
-  {
-    "row": 984,
-    "date": "8/9/2026",
-    "time": "15:58",
-    "category": "Fútbol",
-    "title": "BUENDÍA MARCÓ Y ASTON VILLA ESTRENÓ LA CHAMPIONS CON UN 3-2 EN BRUJAS",
-    "source": ""
-  },
-  {
-    "row": 985,
-    "date": "8/9/2026",
-    "time": "15:58",
-    "category": "F1",
-    "title": "SACHA FENESTRAZ TRABAJA CON FERRARI Y SUEÑA CON PROBAR UN FÓRMULA 1",
-    "source": ""
-  },
-  {
-    "row": 986,
-    "date": "8/9/2026",
-    "time": "15:58",
-    "category": "River",
-    "title": "WOISKI CONTÓ CÓMO VIVIÓ EL AISLAMIENTO DE LOS MARGINADOS DE RIVER EN CANTILO",
-    "source": ""
-  },
-  {
-    "row": 987,
-    "date": "8/9/2026",
-    "time": "14:58",
-    "category": "F1",
-    "title": "LECLERC PROBARÁ EN MADRID Y FERRARI EVALUARÁ SI ESTÁ EN CONDICIONES DE CORRER",
-    "source": ""
-  },
-  {
-    "row": 990,
-    "date": "8/9/2026",
-    "time": "14:58",
-    "category": "Fútbol",
-    "title": "SAN PABLO ACTIVÓ UN PREMIO ESPECIAL PARA LA SERIE CONTRA BOCA",
     "source": ""
   },
   {
@@ -3501,54 +1349,6 @@
     "time": "14:58",
     "category": "Fútbol",
     "title": "LAMINE YAMAL PALPITÓ LA CHAMPIONS SIN FILTRO: “SI NO CORRÉS, PERDÉS”",
-    "source": ""
-  },
-  {
-    "row": 994,
-    "date": "8/9/2026",
-    "time": "13:58",
-    "category": "Selección",
-    "title": "ARGENTINA HIZO HISTORIA EN EL MUNDIAL SUB-20 FEMENINO CON UN 8-0 A BENÍN",
-    "source": ""
-  },
-  {
-    "row": 995,
-    "date": "8/9/2026",
-    "time": "13:58",
-    "category": "Selección",
-    "title": "ANNIKA PAZ, LA JOYA ARGENTINA QUE MARCÓ CUATRO GOLES Y ROMPIÓ EL MUNDIAL SUB-20",
-    "source": ""
-  },
-  {
-    "row": 996,
-    "date": "8/9/2026",
-    "time": "13:58",
-    "category": "Fútbol",
-    "title": "MESSI VOLVIÓ A LA CARRERA POR EL BALÓN DE ORO Y VA POR SU NOVENO TROFEO",
-    "source": ""
-  },
-  {
-    "row": 997,
-    "date": "8/9/2026",
-    "time": "13:58",
-    "category": "Fútbol",
-    "title": "MAC ALLISTER EXPUSO SU TRISTEZA POR LA FALTA DE UNA OFERTA PARA RENOVAR EN LIVERPOOL",
-    "source": ""
-  },
-  {
-    "row": 998,
-    "date": "8/9/2026",
-    "time": "13:58",
-    "category": "Tenis",
-    "title": "CERÚNDOLO REVELÓ QUE LLEGÓ CON FIEBRE AL US OPEN Y VALORÓ SU MEJOR CAMPAÑA",
-    "source": ""
-  },
-  {
-    "row": 999,
-    "date": "8/9/2026",
-    "time": "10:59",
-    "category": "MMA",
-    "title": "SOFÍA MONTENEGRO MOSTRÓ LAS HERIDAS DE SU DURO DEBUT EN UFC: “ME DUELE EL ALMA”",
     "source": ""
   },
   {
@@ -3584,75 +1384,11 @@
     "source": ""
   },
   {
-    "row": 1004,
-    "date": "8/9/2026",
-    "time": "09:58",
-    "category": "Fútbol",
-    "title": "MESSI Y EL INTER MIAMI VISITAN A CHICAGO EN UN DUELO CLAVE DE LA MLS",
-    "source": ""
-  },
-  {
-    "row": 1005,
-    "date": "8/9/2026",
-    "time": "09:58",
-    "category": "Fútbol",
-    "title": "PLATENSE VA POR OTRO GOLPE EN BRASIL Y SUEÑA CON UN MARACANAZO",
-    "source": ""
-  },
-  {
     "row": 1006,
     "date": "8/9/2026",
     "time": "09:58",
     "category": "Fútbol",
     "title": "MATHEUS NUNES SE RINDIÓ ANTE ENZO FERNÁNDEZ: “ES UNO DE LOS MEJORES”",
-    "source": ""
-  },
-  {
-    "row": 1007,
-    "date": "8/9/2026",
-    "time": "09:58",
-    "category": "F1",
-    "title": "MADRING ENCIENDE LAS ALARMAS: NUEVE BANDERAS ROJAS ANTES DEL DEBUT DE LA F1",
-    "source": ""
-  },
-  {
-    "row": 1008,
-    "date": "8/9/2026",
-    "time": "09:58",
-    "category": "River",
-    "title": "PONZIO MARCÓ LA RECETA PARA EL CINCO DE RIVER Y RESPALDÓ A FAUSTO VERA",
-    "source": ""
-  },
-  {
-    "row": 1016,
-    "date": "7/9/2026",
-    "time": "20:29",
-    "category": "River",
-    "title": "PONZIO BAJÓ A FACUNDO GONZÁLEZ A LA RESERVA DE RIVER",
-    "source": ""
-  },
-  {
-    "row": 1017,
-    "date": "7/9/2026",
-    "time": "19:31",
-    "category": "Tenis",
-    "title": "CERÚNDOLO CAYÓ EN OCTAVOS Y ARGENTINA SE QUEDÓ SIN REPRESENTANTES EN EL US OPEN",
-    "source": ""
-  },
-  {
-    "row": 1018,
-    "date": "7/9/2026",
-    "time": "17:47",
-    "category": "Boca",
-    "title": "BOCA CONFIRMÓ LOS CONVOCADOS PARA SAN PABLO: VUELVE PAREDES Y HAY TRES BAJAS",
-    "source": ""
-  },
-  {
-    "row": 1019,
-    "date": "7/9/2026",
-    "time": "16:56",
-    "category": "Racing",
-    "title": "RACING GOLEÓ 3-0 AL REAL MADRID Y ES FINALISTA DEL MUNDIAL SUB-18",
     "source": ""
   },
   {
@@ -3664,35 +1400,11 @@
     "source": ""
   },
   {
-    "row": 1024,
-    "date": "7/9/2026",
-    "time": "14:58",
-    "category": "F1",
-    "title": "ECCLESTONE FUE DEMORADO EN PORTUGAL POR UNA ESCOPETA SIN DOCUMENTACIÓN",
-    "source": ""
-  },
-  {
     "row": 1025,
     "date": "7/9/2026",
     "time": "14:57",
     "category": "F1",
     "title": "HADJAR SE PIERDE MADRID: LAWSON SEGUIRÁ EN RED BULL",
-    "source": ""
-  },
-  {
-    "row": 1026,
-    "date": "7/9/2026",
-    "time": "14:48",
-    "category": "Rugby",
-    "title": "EL PRINCIPAL ACUSADO CONFESÓ HABER MATADO AL EX PUMA FEDERICO ARAMBURU",
-    "source": ""
-  },
-  {
-    "row": 1027,
-    "date": "7/9/2026",
-    "time": "12:38",
-    "category": "San Lorenzo",
-    "title": "INSÚA VUELVE A UN SAN LORENZO EN CRISIS: SIETE PRESIDENTES Y US$67 MILLONES DE DEUDA",
     "source": ""
   },
   {
@@ -3704,179 +1416,11 @@
     "source": ""
   },
   {
-    "row": 1033,
-    "date": "7/9/2026",
-    "time": "09:16",
-    "category": "Fútbol",
-    "title": "MESSI SE CRUZÓ FUERTE CON JUNIOR ALONSO Y TUVIERON QUE SEPARARLOS",
-    "source": ""
-  },
-  {
     "row": 1034,
     "date": "7/9/2026",
     "time": "09:15",
     "category": "F1",
     "title": "COLAPINTO SE QUEBRÓ TRAS MONZA: “DESAPROVECHÉ UNA GRAN OPORTUNIDAD”",
     "source": ""
-  },
-  {
-    "row": 1038,
-    "date": "7/9/2026",
-    "time": "07:14",
-    "category": "River",
-    "title": "LA CHARLA DE PONZIO QUE CAMBIÓ EL ÁNIMO DE RIVER: CALMA, CONFIANZA Y DOS TRIUNFOS",
-    "source": ""
-  },
-  {
-    "row": 1060,
-    "date": "21/9/2026",
-    "time": "06:02",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA LLEGÓ A 160 MEDALLAS Y SIGUE SEGUNDA EN SANTA FE 2026",
-    "source": "https://www.infobae.com/deportes/2026/09/21/argentina-llego-a-160-medallas-en-los-juegos-suramericanos-santa-fe-2026-la-marca-que-supero-y-como-esta-en-el-ranking/"
-  },
-  {
-    "row": 1061,
-    "date": "21/9/2026",
-    "time": "07:04",
-    "category": "Fútbol",
-    "title": "RONALDO MARTÍNEZ ESTÁ ENCENDIDO: DOBLETE AGÓNICO Y VÉLEZ SE SUBIÓ A LA CIMA ANUAL",
-    "source": "https://www.eldiariodelarepublica.com/nota/2026-9-20-17-21-0-central-le-gano-a-argentinos-y-newell-s-con-gol-de-maluma-solari-vencio-a-platense?type=AMP"
-  },
-  {
-    "row": 1063,
-    "date": "21/9/2026",
-    "time": "15:07",
-    "category": "Juegos Suramericanos",
-    "title": "BRONCE PARA JULIETA BENEDETTI EN UN ÓMNIUM MARCADO POR UN TREMENDO CHOQUE EN CADENA",
-    "source": "https://www.tycsports.com/polideportivo/tremendo-choque-en-cadena-en-el-ciclismo-de-los-juegos-suramericanos-id762305.html"
-  },
-  {
-    "row": 1064,
-    "date": "21/9/2026",
-    "time": "17:04",
-    "category": "Fútbol argentino",
-    "title": "ALDOSIVI VOLVIÓ A GANAR: 1-0 A ATLÉTICO TUCUMÁN CON GOL DE TOMÁS FERNÁNDEZ",
-    "source": "https://www.corrienteshoy.com/deportes/aldosivi-volvio-a-la-victoria-frente-a-atletico-tucuman-con-un-resultado-favorable-para-river.htm"
-  },
-  {
-    "row": 1065,
-    "date": "21/9/2026",
-    "time": "17:04",
-    "category": "Tenis",
-    "title": "PODOROSKA QUEDÓ A UN PASO DEL TÍTULO: CAYÓ EN TRES SETS EN LA FINAL DE SÃO PAULO",
-    "source": "https://www.lanacion.com.ar/deportes/tenis/nadia-podoroska-cayo-en-tres-sets-en-la-final-del-wta-de-san-pablo-nid21092026/"
-  },
-  {
-    "row": 1066,
-    "date": "21/9/2026",
-    "time": "19:05",
-    "category": "Juegos Suramericanos",
-    "title": "ARGENTINA DEBUTÓ CON TRIUNFO CONTUNDENTE EN EL VÓLEIBOL: 3-0 A BOLIVIA",
-    "source": "https://www.primeraedicion.com.ar/nota/101144599/con-los-misioneros-maciel-y-klaczynski-argentina-debuto-con-victoria-en-voleibol-ante-bolivia/"
-  },
-  {
-    "row": 1067,
-    "date": "21/9/2026",
-    "time": "20:05",
-    "category": "Juegos Suramericanos",
-    "title": "TRIPLE PLATA ARGENTINA EN TRAMPOLÍN: MALDONADO-WEISE, FERRARI-WEISE Y PODESTÁ SUBIERON AL PODIO",
-    "source": "https://www.ellitoral.com/deportes/santiagoferrari-tobiasweise-trampolinsincronizado-santafe2026-juegossuramericanos-argentina_0_Q86pvDjPhZ.html"
-  },
-  {
-    "row": 1068,
-    "date": "21/9/2026",
-    "time": "20:05",
-    "category": "Juegos Suramericanos",
-    "title": "CELESTE D’ARCANGELO SUMÓ OTRO BRONCE PARA ARGENTINA EN MAZAS",
-    "source": "https://clavelitoral.com/2026/09/21/juegos-suramericanos-valentina-podesta-plata-gimnasia-trampolin/"
-  },
-  {
-    "row": 1069,
-    "date": "21/9/2026",
-    "time": "20:05",
-    "category": "Juegos Suramericanos",
-    "title": "BRONCE ARGENTINO EN LA VELOCIDAD POR EQUIPOS DEL CICLISMO DE PISTA",
-    "source": "https://prensa.lacosta.gob.ar/lucas-vilar-consiguio-el-bronce-con-argentina-en-los-juegos-suramericanos-santa-fe-2026/"
-  },
-  {
-    "row": 1071,
-    "date": "21/9/2026",
-    "time": "20:31",
-    "category": "Juegos Suramericanos",
-    "title": "ARSEN JULFALAKYAN ES DE ORO: EL CAMPEÓN MUNDIAL QUE AHORA FESTEJA PARA ARGENTINA",
-    "source": "https://www.ellitoral.com/deportes/arsenjulfalakyan-luchagrecorromana-juegossuramericanossantafe2026-armenia-jaircuero-rosario-clubprovincial_0_GSq7elisrP.html"
-  },
-  {
-    "row": 1072,
-    "date": "21/9/2026",
-    "time": "20:31",
-    "category": "Juegos Suramericanos",
-    "title": "LAS YAGUARETÉS SON DE ORO: GOLEARON 35-5 A COLOMBIA Y SACARON PASAJE A LIMA 2027",
-    "source": "https://www.diarionorte.com/333720-las-yaguaretes-son-de-oro-35-5-a-colombia-y-boleto-a-lima-2027"
-  },
-  {
-    "row": 1073,
-    "date": "21/9/2026",
-    "time": "20:31",
-    "category": "Juegos Suramericanos",
-    "title": "LUCAS VILAR SUMÓ OTRO BRONCE PARA ARGENTINA EN EL SPRINT INDIVIDUAL",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-lunes-21-de-septiembre-cronograma-y-resultados-id762199.html"
-  },
-  {
-    "row": 1074,
-    "date": "21/9/2026",
-    "time": "20:31",
-    "category": "Juegos Suramericanos",
-    "title": "AGOSTINA VARGAS GANÓ EL BRONCE EN ARO Y SUMÓ OTRA MEDALLA PARA ARGENTINA",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-lunes-21-de-septiembre-cronograma-y-resultados-id762199.html"
-  },
-  {
-    "row": 1075,
-    "date": "21/9/2026",
-    "time": "20:31",
-    "category": "Juegos Suramericanos",
-    "title": "CELESTE D'ARCANGELO TAMBIÉN FUE BRONCE EN PELOTA Y COMPLETÓ OTRA FINAL DE PODIO",
-    "source": "https://www.tycsports.com/polideportivo/argentina-en-los-juegos-suramericanos-santa-fe-2026-hoy-lunes-21-de-septiembre-cronograma-y-resultados-id762199.html"
-  },
-  {
-    "row": 1076,
-    "date": "21/9/2026",
-    "time": "20:31",
-    "category": "Selección",
-    "title": "MESSI MOSTRÓ LA CAMISETA ESPECIAL QUE USARÁ EN SU ÚLTIMO PARTIDO CON ARGENTINA",
-    "source": "https://www.tycsports.com/seleccion-argentina/seleccion-argentina-camiseta-especial-lionel-messi-despedida-id762363.html"
-  },
-  {
-    "row": 1077,
-    "date": "21/9/2026",
-    "time": "20:31",
-    "category": "River",
-    "title": "RIVER VUELVE AL COMITÉ DE AFA CON UN DOCUMENTO CRÍTICO Y SEIS REFORMAS",
-    "source": "https://www.infobae.com/deportes/2026/09/21/river-plate-presentara-ante-el-comite-ejecutivo-de-afa-un-documento-critico-con-pedido-de-reformas/"
-  },
-  {
-    "row": 1078,
-    "date": "21/9/2026",
-    "time": "20:31",
-    "category": "Selección",
-    "title": "MAC ALLISTER PIDIÓ QUE SCALONI SIGA: “ESTE GRUPO LO QUIERE MUCHÍSIMO”",
-    "source": "https://www.tycsports.com/seleccion-argentina/mac-allister-pidio-por-la-continuidad-de-scaloni-ojala-el-proceso-sea-con-el-id762338.html"
-  },
-  {
-    "row": 1079,
-    "date": "21/9/2026",
-    "time": "20:31",
-    "category": "Selección",
-    "title": "LA SELECCIÓN EMPIEZA A ASIMILAR EL ADIÓS DE MESSI: “FUE UNA SORPRESA”",
-    "source": "https://www.infobae.com/deportes/2026/09/21/los-jugadores-de-la-seleccion-argentina-revelaron-como-se-enteraron-del-retiro-de-lionel-messi-fue-una-sorpresa/"
-  },
-  {
-    "row": 1080,
-    "date": "21/9/2026",
-    "time": "20:31",
-    "category": "San Lorenzo",
-    "title": "ALARMA EN SAN LORENZO: GANÓ SOLO UNO DE SUS ÚLTIMOS 28 CLÁSICOS",
-    "source": "https://www.tycsports.com/san-lorenzo/la-preocupante-mala-racha-de-san-lorenzo-en-los-clasicos-id762236.html"
   }
 ]
