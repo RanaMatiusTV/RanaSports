@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-22T18:29:22.257Z",
+  "updatedAt": "2026-09-22T18:52:58.133Z",
   "trends": [
     {
       "query": "taylor swift",
       "startedAt": "2026-09-22T17:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "hayden panettiere",
@@ -44,14 +44,14 @@
       "volume": 50000
     },
     {
-      "query": "pami",
-      "startedAt": "2026-09-22T09:20:00.000Z",
-      "volume": 5000
-    },
-    {
       "query": "la cueva del león",
       "startedAt": "2026-09-22T09:20:00.000Z",
       "volume": 2000
+    },
+    {
+      "query": "entrenador",
+      "startedAt": "2026-09-22T09:20:00.000Z",
+      "volume": 5000
     }
   ]
 }
