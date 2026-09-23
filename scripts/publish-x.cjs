@@ -190,6 +190,12 @@ function linkEmojiFor(item, account) {
 function hashtagFor(item, account) {
   const corpus = normalize(`${item.sport} ${item.category} ${item.title} ${item.summary}`);
 
+  // Prioridad editorial: Selección / deportistas argentinos antes que clubes.
+  if (
+    item.category === 'seleccion' ||
+    /\bseleccion argentina\b|\bargentin[oa]s?\b|\bmessi\b|\bdibu\b|\bjulian alvarez\b|\blautaro\b|\bmac allister\b|\benzo fernandez\b|\bgarnacho\b|\bmastantuono\b|\bvarrone\b|\bcolnaghi\b|\bfenestraz\b|\balmada\b|\bfoyth\b/.test(corpus)
+  ) return '#Argentina';
+
   // Protagonistas/equipos con etiqueta editorial propia.
   if (/\bcolapinto\b/.test(corpus)) return '#Colapinto';
   if (item.category === 'f2' || /\bformula 2\b|\bf2\b/.test(corpus)) return '#F2';
@@ -204,12 +210,6 @@ function hashtagFor(item, account) {
   if (/\bracing( club)?\b/.test(corpus)) return '#Racing';
   if (/\bsan lorenzo\b/.test(corpus)) return '#SanLorenzo';
   if (/\bhuracan\b/.test(corpus)) return '#Huracan';
-
-  // Selección y deportistas argentinos.
-  if (
-    item.category === 'seleccion' ||
-    /\bseleccion argentina\b|\bargentin[oa]s?\b|\bmessi\b|\bdibu\b|\bjulian alvarez\b|\blautaro\b|\bmac allister\b|\benzo fernandez\b|\bgarnacho\b|\bmastantuono\b|\bvarrone\b|\bcolnaghi\b|\bfenestraz\b/.test(corpus)
-  ) return '#Argentina';
 
   if (account === 'f1' || item.category === 'f1' || /\bformula 1\b|\bf1\b/.test(corpus)) return '#F1';
 
