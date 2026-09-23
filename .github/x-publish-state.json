@@ -1,6 +1,34 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE2ODgyMDAwMCwiQ09MQVBJTlRPIERFRkVOREnDkyBBIEdBU0xZIFkgUElEScOTIEZSRU5BUiBMT1MgQVRBUVVFUyBFTiBSRURFUyJd": {
+      "account": "f1",
+      "title": "COLAPINTO DEFENDIÓ A GASLY Y PIDIÓ FRENAR LOS ATAQUES EN REDES",
+      "dueAt": "2026-09-23T13:25:00.000Z",
+      "bufferPostId": "6ab3d09c94410856d59056d6",
+      "createdAt": "2026-09-23T13:14:04.362Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE2ODgyMDAwMCwiQkFLw5ogQ0FNQklBIExBIFJVVElOQSBERSBMQSBGMTogQ09MQVBJTlRPIENPUlJFIEVMIFPDgUJBRE8gWSBZQSBFU1TDgSBFTCBDUk9OT0dSQU1BIl0": {
+      "account": "f1",
+      "title": "BAKÚ CAMBIA LA RUTINA DE LA F1: COLAPINTO CORRE EL SÁBADO Y YA ESTÁ EL CRONOGRAMA",
+      "dueAt": "2026-09-23T13:20:00.000Z",
+      "bufferPostId": "6ab3d09b634a91d308ec4523",
+      "createdAt": "2026-09-23T13:14:03.400Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDE2NTIyMDAwMCwiQVJHRU5USU5BIExMRUfDkyBBIDE4NSBNRURBTExBUyBFTiBTQU5UQSBGRSAyMDI2OiBTSUdVRSBTRUdVTkRBIERFVFLDgVMgREUgQlJBU0lMIl0": {
+      "account": "main",
+      "title": "ARGENTINA LLEGÓ A 185 MEDALLAS EN SANTA FE 2026: SIGUE SEGUNDA DETRÁS DE BRASIL",
+      "dueAt": "2026-09-23T13:20:00.000Z",
+      "bufferPostId": "6ab3d099a35e956e9d3193f5",
+      "createdAt": "2026-09-23T13:14:02.157Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAxNjg4MjAwMDAsIkRFU1BFRElEQSBERSBNRVNTSTogTEFTIEVOVFJBREFTIFNBTEVOIEVMIEpVRVZFUyBZIExBIFBPUFVMQVIgQ09TVEFSw4EgJDkwLjAwMCJd": {
+      "account": "main",
+      "title": "DESPEDIDA DE MESSI: LAS ENTRADAS SALEN EL JUEVES Y LA POPULAR COSTARÁ $90.000",
+      "dueAt": "2026-09-23T13:15:00.000Z",
+      "bufferPostId": "6ab3d09794410856d5905655",
+      "createdAt": "2026-09-23T13:13:59.483Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDE2NTIyMDAwMCwiQ0FNQklPIERFIEhPUkFSSU86IEFSR0VOVElOQS1QRVLDmiBQT1IgTEEgU0VNSUZJTkFMIFNFIEpVR0FSw4EgQSBMQVMgMTQiXQ": {
       "account": "main",
       "title": "CAMBIO DE HORARIO: ARGENTINA-PERÚ POR LA SEMIFINAL SE JUGARÁ A LAS 14",
@@ -1438,8 +1466,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-23T11:35:00.000Z",
-    "main": "2026-09-23T12:45:00.000Z"
+    "f1": "2026-09-23T13:30:00.000Z",
+    "main": "2026-09-23T13:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
