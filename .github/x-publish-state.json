@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjaWNsaXNtbyIsMTc5MDE4MjkyMDAwMCwiTkFUQUxJQSBWRVJBIFNVTcOTIE9UUkEgUExBVEE6IFNFR1VOREEgRU4gRUwgS0VJUklOIERFIFNBTlRBIEZFIDIwMjYiXQ": {
+      "account": "main",
+      "title": "NATALIA VERA SUMÓ OTRA PLATA: SEGUNDA EN EL KEIRIN DE SANTA FE 2026",
+      "dueAt": "2026-09-23T17:15:00.000Z",
+      "bufferPostId": "6ab40870158cddaee30879fa",
+      "createdAt": "2026-09-23T17:12:16.696Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjaWNsaXNtbyIsMTc5MDEyMTg0MDAwMCwiQlJPTkNFIFBBUkEgTkFUQUxJQSBWRVJBIEVOIFZFTE9DSURBRDogTlVFVk8gUE9ESU8gQVJHRU5USU5PIEVOIFJBRkFFTEEiXQ": {
       "account": "main",
       "title": "BRONCE PARA NATALIA VERA EN VELOCIDAD: NUEVO PODIO ARGENTINO EN RAFAELA",
@@ -1537,7 +1544,7 @@
   },
   "nextAt": {
     "f1": "2026-09-23T16:25:00.000Z",
-    "main": "2026-09-23T16:40:00.000Z"
+    "main": "2026-09-23T17:20:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
