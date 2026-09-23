@@ -168,11 +168,52 @@ function emojiFor(item, account) {
   return '⚽';
 }
 
+function hashtagFor(item, account) {
+  const corpus = normalize(`${item.sport} ${item.category} ${item.title} ${item.summary}`);
+
+  // Protagonistas/equipos con etiqueta editorial propia.
+  if (/\bcolapinto\b/.test(corpus)) return '#Colapinto';
+  if (/\blos pumas\b/.test(corpus)) return '#Pumas';
+  if (/\blas leonas\b/.test(corpus)) return '#Leonas';
+  if (/\blos leones\b/.test(corpus)) return '#Leones';
+  if (/\bindependiente rivadavia\b/.test(corpus)) return '#IndependienteRivadavia';
+  if (item.category === 'independiente') return '#Independiente';
+  if (/\bboca( juniors)?\b/.test(corpus)) return '#Boca';
+  if (/\briver( plate)?\b/.test(corpus)) return '#River';
+  if (/\bracing( club)?\b/.test(corpus)) return '#Racing';
+  if (/\bsan lorenzo\b/.test(corpus)) return '#SanLorenzo';
+  if (/\bhuracan\b/.test(corpus)) return '#Huracan';
+
+  // Selección y deportistas argentinos.
+  if (
+    item.category === 'seleccion' ||
+    /\bseleccion argentina\b|\bargentin[oa]s?\b|\bmessi\b|\bdibu\b|\bjulian alvarez\b|\blautaro\b|\bmac allister\b|\benzo fernandez\b|\bgarnacho\b|\bmastantuono\b/.test(corpus)
+  ) return '#Argentina';
+
+  if (account === 'f1' || item.category === 'f1' || /\bformula 1\b|\bf1\b/.test(corpus)) return '#F1';
+
+  // Fallback por deporte/categoría: siempre un solo hashtag.
+  if (/\btenis\b/.test(corpus)) return '#Tenis';
+  if (/\brugby\b/.test(corpus)) return '#Rugby';
+  if (/\bbasquet\b|\bbasket\b/.test(corpus)) return '#Basquet';
+  if (/\bhockey\b/.test(corpus)) return '#Hockey';
+  if (/\bboxeo\b/.test(corpus)) return '#Boxeo';
+  if (/\bautomovilismo\b/.test(corpus)) return '#Automovilismo';
+  if (/\bvoley\b|\bvolley\b/.test(corpus)) return '#Voley';
+  if (/\bhandball\b/.test(corpus)) return '#Handball';
+  if (/\bciclismo\b/.test(corpus)) return '#Ciclismo';
+  if (/\batletismo\b/.test(corpus)) return '#Atletismo';
+  if (/\bnatacion\b/.test(corpus)) return '#Natacion';
+  if (item.category === 'futbol' || /\bfutbol\b/.test(corpus)) return '#Futbol';
+  return '#Deportes';
+}
+
 function postText(item, account, url) {
   const emoji = emojiFor(item, account);
+  const hashtag = hashtagFor(item, account);
   let title = item.title.trim();
   if (title.length > 190) title = title.slice(0, 187).trimEnd() + '…';
-  return `${emoji} ${title}\n\n${url}`;
+  return `${emoji} ${title}\n\n${hashtag}\n${url}`;
 }
 
 async function validateImage(url) {
