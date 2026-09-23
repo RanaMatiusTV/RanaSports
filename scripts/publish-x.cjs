@@ -142,7 +142,7 @@ function readNews(text) {
 function accountFor(item) {
   const c = item.category;
   const corpus = normalize(`${item.sport} ${item.title} ${item.summary}`);
-  const isF1 = c === 'f1' || /\bformula 1\b|\bf1\b/.test(normalize(item.sport));
+  const isF1 = ['f1', 'f2', 'f3'].includes(c) || /\bformula [123]\b|\bf[123]\b/.test(corpus);
   if (isF1) return 'f1';
 
   const isIndependiente = c === 'independiente';
@@ -168,11 +168,32 @@ function emojiFor(item, account) {
   return '⚽';
 }
 
+function linkEmojiFor(item, account) {
+  const corpus = normalize(`${item.sport} ${item.title} ${item.summary}`);
+  if (/choque|choco|accidente|golpe|contra el muro|se estrello|impacto/.test(corpus)) return '💥';
+  if (/lesion|lesionado|lesionada|parte medico|hospital|operacion/.test(corpus)) return '🤕';
+  if (/campeon|titulo|consagro|gano|victoria|triunfo/.test(corpus)) return '🏆';
+  if (/gol|goleo|hat-trick|doblete/.test(corpus)) return '⚽';
+  if (/record|historico/.test(corpus)) return '📈';
+  if (/pole|clasificacion|qualifying|largara/.test(corpus)) return '⏱️';
+  if (/mercado|refuerzo|fichaje|transferencia|contrato|firma|llega|se va|venta|prestamo/.test(corpus)) return '🔄';
+  if (/declar|dijo|afirmo|hablo|explico|conto|revelo/.test(corpus)) return '🗣️';
+  if (/sancion|suspendido|suspension|expulsado|expulsion|inhabilitado/.test(corpus)) return '🚫';
+  if (/polemica|escandalo|cruce|pelea|tension/.test(corpus)) return '🔥';
+  if (item.category === 'independiente') return '🔴';
+  if (item.category === 'seleccion') return '🇦🇷';
+  if (/\bcolapinto\b|\bvarrone\b|\bcolnaghi\b|\bfenestraz\b|\bargentin[oa]s?\b/.test(corpus)) return '🇦🇷';
+  if (account === 'f1') return '🏁';
+  return '⚽';
+}
+
 function hashtagFor(item, account) {
   const corpus = normalize(`${item.sport} ${item.category} ${item.title} ${item.summary}`);
 
   // Protagonistas/equipos con etiqueta editorial propia.
   if (/\bcolapinto\b/.test(corpus)) return '#Colapinto';
+  if (item.category === 'f2' || /\bformula 2\b|\bf2\b/.test(corpus)) return '#F2';
+  if (item.category === 'f3' || /\bformula 3\b|\bf3\b/.test(corpus)) return '#F3';
   if (/\blos pumas\b/.test(corpus)) return '#Pumas';
   if (/\blas leonas\b/.test(corpus)) return '#Leonas';
   if (/\blos leones\b/.test(corpus)) return '#Leones';
@@ -187,7 +208,7 @@ function hashtagFor(item, account) {
   // Selección y deportistas argentinos.
   if (
     item.category === 'seleccion' ||
-    /\bseleccion argentina\b|\bargentin[oa]s?\b|\bmessi\b|\bdibu\b|\bjulian alvarez\b|\blautaro\b|\bmac allister\b|\benzo fernandez\b|\bgarnacho\b|\bmastantuono\b/.test(corpus)
+    /\bseleccion argentina\b|\bargentin[oa]s?\b|\bmessi\b|\bdibu\b|\bjulian alvarez\b|\blautaro\b|\bmac allister\b|\benzo fernandez\b|\bgarnacho\b|\bmastantuono\b|\bvarrone\b|\bcolnaghi\b|\bfenestraz\b/.test(corpus)
   ) return '#Argentina';
 
   if (account === 'f1' || item.category === 'f1' || /\bformula 1\b|\bf1\b/.test(corpus)) return '#F1';
@@ -211,9 +232,10 @@ function hashtagFor(item, account) {
 function postText(item, account, url) {
   const emoji = emojiFor(item, account);
   const hashtag = hashtagFor(item, account);
+  const linkEmoji = linkEmojiFor(item, account);
   let title = item.title.trim();
   if (title.length > 190) title = title.slice(0, 187).trimEnd() + '…';
-  return `${emoji} ${title}\n\n${hashtag}\n${url}`;
+  return `${emoji} ${title}\n\n${hashtag}\n🔗${linkEmoji} ${url}`;
 }
 
 async function validateImage(url) {
