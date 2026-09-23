@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-23T16:52:48.861Z",
+  "updatedAt": "2026-09-23T17:25:39.503Z",
   "trends": [
+    {
+      "query": "rick sollo",
+      "startedAt": "2026-09-23T16:50:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "caballito",
       "startedAt": "2026-09-23T16:10:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "pensión",
       "startedAt": "2026-09-23T13:40:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "inpres",
@@ -47,11 +52,6 @@
       "query": "primera división",
       "startedAt": "2026-09-22T21:20:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "edinson cavani",
-      "startedAt": "2026-09-22T21:10:00.000Z",
-      "volume": 2000
     }
   ]
 }
