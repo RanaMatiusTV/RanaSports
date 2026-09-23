@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ0YWVrd29uZG8iLDE3OTAyMDExNjAwMDAsIkpPU8OJIEFDVcORQSBFUyBERSBPUk86IEFSR0VOVElOQSBWT0xWScOTIEEgR0FOQVIgRUwgVEFFS1dPTkRPIFNVUkFNRVJJQ0FOTyBERVNQVcOJUyBERSAxMiBBw5FPUyJd": {
+      "account": "main",
+      "title": "JOSÉ ACUÑA ES DE ORO: ARGENTINA VOLVIÓ A GANAR EL TAEKWONDO SURAMERICANO DESPUÉS DE 12 AÑOS",
+      "dueAt": "2026-09-23T22:25:00.000Z",
+      "bufferPostId": "6ab450e389ff6678593ff0bb",
+      "createdAt": "2026-09-23T22:21:23.182Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE5NzQ0MDAwMCwiQ09MQVBJTlRPIEFSUkFOQ0EgRUwgSlVFVkVTIEVOIEJBS8OaOiBET1MgUFLDgUNUSUNBUyBFTiBVTkEgRkVDSEEgUVVFIFRFUk1JTkEgRUwgU8OBQkFETyJd": {
       "account": "f1",
       "title": "COLAPINTO ARRANCA EL JUEVES EN BAKÚ: DOS PRÁCTICAS EN UNA FECHA QUE TERMINA EL SÁBADO",
@@ -1635,7 +1642,7 @@
   },
   "nextAt": {
     "f1": "2026-09-23T21:30:00.000Z",
-    "main": "2026-09-23T21:30:00.000Z"
+    "main": "2026-09-23T22:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
