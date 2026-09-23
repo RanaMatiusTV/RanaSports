@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE3NjIwMDAwMCwiQ09MQVBJTlRPIFlBIEVTVMOBIEVOIEJBS8OaIFkgQUJSScOTIEVMIE1FRElBIERBWSBBTlRFUyBERUwgR1AgREUgQVpFUkJBSVnDgU4iXQ": {
+      "account": "f1",
+      "title": "COLAPINTO YA ESTÁ EN BAKÚ Y ABRIÓ EL MEDIA DAY ANTES DEL GP DE AZERBAIYÁN",
+      "dueAt": "2026-09-23T15:20:00.000Z",
+      "bufferPostId": "6ab3ed0a94e8c40aa82d95d9",
+      "createdAt": "2026-09-23T15:15:22.761Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAxNzYyMDAwMDAsIkRPUyBCQUpBUyBQQVJBIFNDQUxPTkk6IFRISUFHTyBBTE1BREEgWSBKVUFOIEZPWVRILCBBRlVFUkEgREUgTE9TIEFNSVNUT1NPUyJd": {
+      "account": "main",
+      "title": "DOS BAJAS PARA SCALONI: THIAGO ALMADA Y JUAN FOYTH, AFUERA DE LOS AMISTOSOS",
+      "dueAt": "2026-09-23T15:20:00.000Z",
+      "bufferPostId": "6ab3ed0994e8c40aa82d958e",
+      "createdAt": "2026-09-23T15:15:21.462Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE3NTkwMDAwMCwiRE9SSUFORSBQSU4gU0UgUFVTTyBVTiBQTEFaTzogUVVJRVJFIExMRUdBUiBBIExBIEYxIEVOIENJTkNPIEHDkU9TIl0": {
       "account": "f1",
       "title": "DORIANE PIN SE PUSO UN PLAZO: QUIERE LLEGAR A LA F1 EN CINCO AÑOS",
@@ -1480,8 +1494,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-23T15:20:00.000Z",
-    "main": "2026-09-23T14:20:00.000Z"
+    "f1": "2026-09-23T15:25:00.000Z",
+    "main": "2026-09-23T15:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
