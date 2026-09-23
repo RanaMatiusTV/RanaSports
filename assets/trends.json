@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-23T12:31:01.928Z",
+  "updatedAt": "2026-09-23T12:55:21.289Z",
   "trends": [
     {
       "query": "inpres",
@@ -11,6 +11,11 @@
     {
       "query": "temblor en la rioja",
       "startedAt": "2026-09-23T09:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "posiciones de independiente santa fe contra deportivo cali",
+      "startedAt": "2026-09-23T03:50:00.000Z",
       "volume": 500
     },
     {
@@ -41,17 +46,12 @@
     {
       "query": "edinson cavani",
       "startedAt": "2026-09-22T21:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "argentina vs",
       "startedAt": "2026-09-22T21:00:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "club atlético river plate",
-      "startedAt": "2026-09-22T20:40:00.000Z",
-      "volume": 2000
     }
   ]
 }
