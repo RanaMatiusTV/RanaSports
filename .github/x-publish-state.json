@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDEzNjI0MDAwMCwiSEFESkFSIFZVRUxWRSBBIExBIEYxIEVOIEJBS8OaIERFU1BVw4lTIERFIFBFUkRFUlNFIFRSRVMgR1JBTkRFUyBQUkVNSU9TIl0": {
+      "account": "f1",
+      "title": "HADJAR VUELVE A LA F1 EN BAKÚ DESPUÉS DE PERDERSE TRES GRANDES PREMIOS",
+      "dueAt": "2026-09-23T04:30:00.000Z",
+      "bufferPostId": "6ab353f998ae6feaa624503e",
+      "createdAt": "2026-09-23T04:22:17.273Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkwMTM2MjQwMDAwLCJNVVJJw5MgVFVMSU8gQ1JFU1BJLCBISVNUw5NSSUNPIENPTlNUUlVDVE9SIERFTCBBVVRPTU9WSUxJU01PIEFSR0VOVElOTyJd": {
+      "account": "f1",
+      "title": "MURIÓ TULIO CRESPI, HISTÓRICO CONSTRUCTOR DEL AUTOMOVILISMO ARGENTINO",
+      "dueAt": "2026-09-23T04:25:00.000Z",
+      "bufferPostId": "6ab353f8340f92dcbe2009fc",
+      "createdAt": "2026-09-23T04:22:16.952Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDEyOTEwMDAwMCwiQVJHRU5USU5BIENFUlLDkyBFTCBNQVJURVMgQ09OIDE4NCBNRURBTExBUzogNDggT1JPUywgNTEgUExBVEFTIFkgODUgQlJPTkNFUyJd": {
       "account": "main",
       "title": "ARGENTINA CERRÓ EL MARTES CON 184 MEDALLAS: 48 OROS, 51 PLATAS Y 85 BRONCES",
@@ -1333,7 +1347,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-22T20:20:00.000Z",
+    "f1": "2026-09-23T04:35:00.000Z",
     "main": "2026-09-23T02:35:00.000Z"
   },
   "buffer": {
