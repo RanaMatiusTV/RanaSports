@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-23T23:21:28.015Z",
+  "updatedAt": "2026-09-23T23:49:34.317Z",
   "trends": [
     {
       "query": "javier milei",
       "startedAt": "2026-09-23T22:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "viento",
       "startedAt": "2026-09-23T22:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "escrache",
@@ -36,7 +36,7 @@
     {
       "query": "canto 4",
       "startedAt": "2026-09-23T19:10:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "2027",
