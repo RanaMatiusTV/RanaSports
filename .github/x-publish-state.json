@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDE2NTIyMDAwMCwiQ0FNQklPIERFIEhPUkFSSU86IEFSR0VOVElOQS1QRVLDmiBQT1IgTEEgU0VNSUZJTkFMIFNFIEpVR0FSw4EgQSBMQVMgMTQiXQ": {
+      "account": "main",
+      "title": "CAMBIO DE HORARIO: ARGENTINA-PERÚ POR LA SEMIFINAL SE JUGARÁ A LAS 14",
+      "dueAt": "2026-09-23T12:25:00.000Z",
+      "bufferPostId": "6ab3c4acdc095c63f58cbd3a",
+      "createdAt": "2026-09-23T12:23:08.444Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE2MTU2MDAwMCwiRE9PSEFOIFRJRU5FIENPTVBFVEVOQ0lBIFBBUkEgVk9MVkVSIEEgTEEgRjE6IENBTUFSQSBTRSBNRVRJw5MgRU4gTEEgUEVMRUEgUE9SIEhBQVMiXQ": {
       "account": "f1",
       "title": "DOOHAN TIENE COMPETENCIA PARA VOLVER A LA F1: CAMARA SE METIÓ EN LA PELEA POR HAAS",
@@ -1432,7 +1439,7 @@
   },
   "nextAt": {
     "f1": "2026-09-23T11:35:00.000Z",
-    "main": "2026-09-23T11:30:00.000Z"
+    "main": "2026-09-23T12:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
