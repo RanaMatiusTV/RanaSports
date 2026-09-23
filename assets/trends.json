@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-23T09:26:08.249Z",
+  "updatedAt": "2026-09-23T09:52:47.014Z",
   "trends": [
+    {
+      "query": "inpres",
+      "startedAt": "2026-09-23T09:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "temblor",
+      "startedAt": "2026-09-23T09:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "cuenta dni",
       "startedAt": "2026-09-23T00:40:00.000Z",
@@ -42,16 +52,6 @@
       "query": "bono",
       "startedAt": "2026-09-22T19:10:00.000Z",
       "volume": 20000
-    },
-    {
-      "query": "encuesta",
-      "startedAt": "2026-09-22T19:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "nora cárpena",
-      "startedAt": "2026-09-22T19:10:00.000Z",
-      "volume": 500
     }
   ]
 }
