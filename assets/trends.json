@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-23T09:52:47.014Z",
+  "updatedAt": "2026-09-23T10:25:59.541Z",
   "trends": [
     {
       "query": "inpres",
       "startedAt": "2026-09-23T09:20:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "temblor en la rioja",
+      "startedAt": "2026-09-23T09:20:00.000Z",
+      "volume": 200
     },
     {
       "query": "temblor",
@@ -47,11 +52,6 @@
       "query": "argentina vs",
       "startedAt": "2026-09-22T21:00:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "bono",
-      "startedAt": "2026-09-22T19:10:00.000Z",
-      "volume": 20000
     }
   ]
 }
