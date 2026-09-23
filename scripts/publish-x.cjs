@@ -190,19 +190,42 @@ function linkEmojiFor(item, account) {
 function hashtagFor(item, account) {
   const corpus = normalize(`${item.sport} ${item.category} ${item.title} ${item.summary}`);
 
-  // Prioridad editorial: Selección / deportistas argentinos antes que clubes.
+  // 1) Selección Argentina explícita.
   if (
     item.category === 'seleccion' ||
-    /\bseleccion argentina\b|\bargentin[oa]s?\b|\bmessi\b|\bdibu\b|\bjulian alvarez\b|\blautaro\b|\bmac allister\b|\benzo fernandez\b|\bgarnacho\b|\bmastantuono\b|\bvarrone\b|\bcolnaghi\b|\bfenestraz\b|\balmada\b|\bfoyth\b/.test(corpus)
+    /\bseleccion argentina\b|\bseleccion mayor\b|\bscaloneta\b/.test(corpus)
   ) return '#Argentina';
 
-  // Protagonistas/equipos con etiqueta editorial propia.
+  // 2) Disciplina concreta: tiene prioridad sobre una mención genérica a "argentino/a".
+  if (/\bbasquet\b|\bbasket\b|\bbaloncesto\b|\bfiba\b/.test(corpus)) return '#Basket';
+  if (/\btenis\b/.test(corpus)) return '#Tenis';
+  if (/\brugby\b/.test(corpus)) return '#Rugby';
+  if (/\bhockey\b/.test(corpus)) return '#Hockey';
+  if (/\bboxeo\b/.test(corpus)) return '#Boxeo';
+  if (/\bvoley\b|\bvolley\b/.test(corpus)) return '#Voley';
+  if (/\bhandball\b/.test(corpus)) return '#Handball';
+  if (/\bciclismo\b/.test(corpus)) return '#Ciclismo';
+  if (/\batletismo\b/.test(corpus)) return '#Atletismo';
+  if (/\bnatacion\b/.test(corpus)) return '#Natacion';
+
+  // 3) Automovilismo y fórmulas.
   if (/\bcolapinto\b/.test(corpus)) return '#Colapinto';
   if (item.category === 'f2' || /\bformula 2\b|\bf2\b/.test(corpus)) return '#F2';
   if (item.category === 'f3' || /\bformula 3\b|\bf3\b/.test(corpus)) return '#F3';
+  if (account === 'f1' || item.category === 'f1' || /\bformula 1\b|\bf1\b/.test(corpus)) return '#F1';
+  if (/\bautomovilismo\b/.test(corpus)) return '#Automovilismo';
+
+  // 4) Selecciones/equipos nacionales de otros deportes.
   if (/\blos pumas\b/.test(corpus)) return '#Pumas';
   if (/\blas leonas\b/.test(corpus)) return '#Leonas';
   if (/\blos leones\b/.test(corpus)) return '#Leones';
+
+  // 5) Futbolistas argentinos / Selección cuando el protagonista individual es el eje.
+  if (
+    /\bmessi\b|\bdibu\b|\bjulian alvarez\b|\blautaro\b|\bmac allister\b|\benzo fernandez\b|\bgarnacho\b|\bmastantuono\b|\balmada\b|\bfoyth\b/.test(corpus)
+  ) return '#Argentina';
+
+  // 6) Clubes de fútbol.
   if (/\bindependiente rivadavia\b/.test(corpus)) return '#IndependienteRivadavia';
   if (item.category === 'independiente') return '#Independiente';
   if (/\bboca( juniors)?\b/.test(corpus)) return '#Boca';
@@ -211,20 +234,9 @@ function hashtagFor(item, account) {
   if (/\bsan lorenzo\b/.test(corpus)) return '#SanLorenzo';
   if (/\bhuracan\b/.test(corpus)) return '#Huracan';
 
-  if (account === 'f1' || item.category === 'f1' || /\bformula 1\b|\bf1\b/.test(corpus)) return '#F1';
+  // 7) Deportista argentino individual sin disciplina más específica detectada.
+  if (/\bargentin[oa]s?\b/.test(corpus)) return '#Argentina';
 
-  // Fallback por deporte/categoría: siempre un solo hashtag.
-  if (/\btenis\b/.test(corpus)) return '#Tenis';
-  if (/\brugby\b/.test(corpus)) return '#Rugby';
-  if (/\bbasquet\b|\bbasket\b/.test(corpus)) return '#Basquet';
-  if (/\bhockey\b/.test(corpus)) return '#Hockey';
-  if (/\bboxeo\b/.test(corpus)) return '#Boxeo';
-  if (/\bautomovilismo\b/.test(corpus)) return '#Automovilismo';
-  if (/\bvoley\b|\bvolley\b/.test(corpus)) return '#Voley';
-  if (/\bhandball\b/.test(corpus)) return '#Handball';
-  if (/\bciclismo\b/.test(corpus)) return '#Ciclismo';
-  if (/\batletismo\b/.test(corpus)) return '#Atletismo';
-  if (/\bnatacion\b/.test(corpus)) return '#Natacion';
   if (item.category === 'futbol' || /\bfutbol\b/.test(corpus)) return '#Futbol';
   return '#Deportes';
 }
