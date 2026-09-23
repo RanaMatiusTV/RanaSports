@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-23T21:50:10.110Z",
+  "updatedAt": "2026-09-23T22:24:15.486Z",
   "trends": [
+    {
+      "query": "viento",
+      "startedAt": "2026-09-23T22:00:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "escrache",
+      "startedAt": "2026-09-23T21:50:00.000Z",
+      "volume": 500
+    },
     {
       "query": "selección de fútbol de argentina",
       "startedAt": "2026-09-23T21:00:00.000Z",
@@ -11,7 +21,7 @@
     {
       "query": "mirtha legrand",
       "startedAt": "2026-09-23T20:00:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "adt - cienciano",
@@ -19,19 +29,14 @@
       "volume": 500
     },
     {
-      "query": "canto 4",
+      "query": "2027",
       "startedAt": "2026-09-23T19:10:00.000Z",
       "volume": 5000
     },
     {
-      "query": "2027",
+      "query": "canto 4",
       "startedAt": "2026-09-23T19:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "zonda",
-      "startedAt": "2026-09-23T18:20:00.000Z",
-      "volume": 1000
+      "volume": 5000
     },
     {
       "query": "rick sollo",
@@ -47,11 +52,6 @@
       "query": "uocra",
       "startedAt": "2026-09-23T15:50:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "pensión",
-      "startedAt": "2026-09-23T13:40:00.000Z",
-      "volume": 20000
     }
   ]
 }
