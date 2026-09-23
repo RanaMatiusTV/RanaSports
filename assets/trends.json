@@ -1,15 +1,15 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-23T19:24:24.479Z",
+  "updatedAt": "2026-09-23T19:51:21.501Z",
   "trends": [
     {
-      "query": "2027",
+      "query": "canto 4",
       "startedAt": "2026-09-23T19:10:00.000Z",
       "volume": 1000
     },
     {
-      "query": "canto 4",
+      "query": "2027",
       "startedAt": "2026-09-23T19:10:00.000Z",
       "volume": 1000
     },
