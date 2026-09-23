@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjaWNsaXNtbyIsMTc5MDEyMTg0MDAwMCwiQlJPTkNFIFBBUkEgTkFUQUxJQSBWRVJBIEVOIFZFTE9DSURBRDogTlVFVk8gUE9ESU8gQVJHRU5USU5PIEVOIFJBRkFFTEEiXQ": {
+      "account": "main",
+      "title": "BRONCE PARA NATALIA VERA EN VELOCIDAD: NUEVO PODIO ARGENTINO EN RAFAELA",
+      "dueAt": "2026-09-23T16:35:00.000Z",
+      "bufferPostId": "6ab3fecc062c9074d14d9902",
+      "createdAt": "2026-09-23T16:31:08.477Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE3OTUwMDAwMCwiQ09MQVBJTlRPIExMRUdBIEEgQkFLw5ogQ09OIERPUyBDQVJSRVJBUyBTRUdVSURBUyBFTiBMT1MgUFVOVE9TIl0": {
       "account": "f1",
       "title": "COLAPINTO LLEGA A BAKÚ CON DOS CARRERAS SEGUIDAS EN LOS PUNTOS",
@@ -1530,7 +1537,7 @@
   },
   "nextAt": {
     "f1": "2026-09-23T16:25:00.000Z",
-    "main": "2026-09-23T16:25:00.000Z"
+    "main": "2026-09-23T16:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
