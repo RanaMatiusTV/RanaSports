@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMTkwMzAwMDAwLCJMQVMgRElBQkxBUyBSRUNJQkVOIEEgRkVSUk8gRUwgVklFUk5FUyBFTiBWSUxMQSBET03DjU5JQ08gUE9SIEVMIENMQVVTVVJBIEZFTUVOSU5PIl0": {
+      "account": "main",
+      "title": "LAS DIABLAS RECIBEN A FERRO EL VIERNES EN VILLA DOMÍNICO POR EL CLAUSURA FEMENINO",
+      "dueAt": "2026-09-23T20:45:00.000Z",
+      "bufferPostId": "6ab439104fec6b6b1d7d1133",
+      "createdAt": "2026-09-23T20:39:44.349Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ0ZW5pcyBkZSBtZXNhIiwxNzkwMTkzOTAwMDAwLCJDSUZVRU5URVMgWSBMT1JFTlpPIFNPTiBERSBPUk86IEFSR0VOVElOQSBHQU7DkyBVTkEgRklOQUwgSU5GQVJUQU5URSBFTiBET0JMRVMiXQ": {
       "account": "main",
       "title": "CIFUENTES Y LORENZO SON DE ORO: ARGENTINA GANÓ UNA FINAL INFARTANTE EN DOBLES",
@@ -1600,7 +1607,7 @@
   },
   "nextAt": {
     "f1": "2026-09-23T19:25:00.000Z",
-    "main": "2026-09-23T20:25:00.000Z"
+    "main": "2026-09-23T20:50:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
