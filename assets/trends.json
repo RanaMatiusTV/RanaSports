@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-23T11:52:13.789Z",
+  "updatedAt": "2026-09-23T12:31:01.928Z",
   "trends": [
     {
       "query": "inpres",
       "startedAt": "2026-09-23T09:20:00.000Z",
-      "volume": 1000
+      "volume": 500
+    },
+    {
+      "query": "temblor en la rioja",
+      "startedAt": "2026-09-23T09:20:00.000Z",
+      "volume": 500
     },
     {
       "query": "cuenta dni",
@@ -44,14 +49,9 @@
       "volume": 100
     },
     {
-      "query": "bono",
-      "startedAt": "2026-09-22T19:10:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "encuesta",
-      "startedAt": "2026-09-22T19:10:00.000Z",
-      "volume": 5000
+      "query": "club atlético river plate",
+      "startedAt": "2026-09-22T20:40:00.000Z",
+      "volume": 2000
     }
   ]
 }
