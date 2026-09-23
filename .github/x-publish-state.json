@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAxNTA3MDAwMDAsIlNDQUxPTkkgU0UgQUNFUkNBIEEgTEEgUkVOT1ZBQ0nDk046IEFGQSBORUdPQ0lBIERPUyBBw5FPUyBNw4FTIFkgT1BDScOTTiBIQVNUQSAyMDMwIl0": {
+      "account": "main",
+      "title": "SCALONI SE ACERCA A LA RENOVACIÓN: AFA NEGOCIA DOS AÑOS MÁS Y OPCIÓN HASTA 2030",
+      "dueAt": "2026-09-23T08:20:00.000Z",
+      "bufferPostId": "6ab38ad56e74a46647e961c7",
+      "createdAt": "2026-09-23T08:16:21.830Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAxNDY5MjAwMDAsIk1BUkNJUEFSIFkgRUwgQVBPRE8g4oCcRVVST1BJQkXigJ06IOKAnEEgVkVDRVMgTk9TIEVYQ0xVWUUsIE1FIFNJRU5UTyBVTiBBUkdFTlRJTk8gTcOBU-KAnSJd": {
       "account": "main",
       "title": "MARCIPAR Y EL APODO “EUROPIBE”: “A VECES NOS EXCLUYE, ME SIENTO UN ARGENTINO MÁS”",
@@ -1404,7 +1411,7 @@
   },
   "nextAt": {
     "f1": "2026-09-23T06:30:00.000Z",
-    "main": "2026-09-23T07:35:00.000Z"
+    "main": "2026-09-23T08:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
