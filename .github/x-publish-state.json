@@ -1,6 +1,34 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE5NzQ0MDAwMCwiQ09MQVBJTlRPIEFSUkFOQ0EgRUwgSlVFVkVTIEVOIEJBS8OaOiBET1MgUFLDgUNUSUNBUyBFTiBVTkEgRkVDSEEgUVVFIFRFUk1JTkEgRUwgU8OBQkFETyJd": {
+      "account": "f1",
+      "title": "COLAPINTO ARRANCA EL JUEVES EN BAKÚ: DOS PRÁCTICAS EN UNA FECHA QUE TERMINA EL SÁBADO",
+      "dueAt": "2026-09-23T21:25:00.000Z",
+      "bufferPostId": "6ab4421d4c1a8853af0d848e",
+      "createdAt": "2026-09-23T21:18:21.827Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE5NzQ0MDAwMCwiQU5UT05FTExJIExMRUdBIEEgQkFLw5ogQ09OIDgxIFBVTlRPUyBERSBWRU5UQUpBIFkgQ09MQVBJTlRPIEVTIDEywrAgRU4gRUwgTVVORElBTCJd": {
+      "account": "f1",
+      "title": "ANTONELLI LLEGA A BAKÚ CON 81 PUNTOS DE VENTAJA Y COLAPINTO ES 12° EN EL MUNDIAL",
+      "dueAt": "2026-09-23T21:20:00.000Z",
+      "bufferPostId": "6ab4421c4c1a8853af0d845d",
+      "createdAt": "2026-09-23T21:18:20.964Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ0aXJvIGNvbiBhcmNvIiwxNzkwMTk3NDQwMDAwLCJBUkdFTlRJTkEgU0UgTUVUScOTIEVOIExBIEZJTkFMIERFTCBBUkNPIENPTVBVRVNUTyBQT1IgRVFVSVBPUyBZIFZBIFBPUiBFTCBPUk8gRU4gUk9TQVJJTyJd": {
+      "account": "main",
+      "title": "ARGENTINA SE METIÓ EN LA FINAL DEL ARCO COMPUESTO POR EQUIPOS Y VA POR EL ORO EN ROSARIO",
+      "dueAt": "2026-09-23T21:25:00.000Z",
+      "bufferPostId": "6ab4421b53e6d219763685b9",
+      "createdAt": "2026-09-23T21:18:19.912Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJyaXZlciIsMTc5MDE5NzQ0MDAwMCwiQUZBIExFIFBJREnDkyBBIFJJVkVSIE5PIENPQlJBUiBFTCBNT05VTUVOVEFMIFBBUkEgTEEgREVTUEVESURBIERFIE1FU1NJIFkgRE9OQVIgRUwgQ0FOT04iXQ": {
+      "account": "main",
+      "title": "AFA LE PIDIÓ A RIVER NO COBRAR EL MONUMENTAL PARA LA DESPEDIDA DE MESSI Y DONAR EL CANON",
+      "dueAt": "2026-09-23T21:20:00.000Z",
+      "bufferPostId": "6ab4421ac4a5f409786f203d",
+      "createdAt": "2026-09-23T21:18:18.687Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMTkwMzAwMDAwLCJMQVMgRElBQkxBUyBSRUNJQkVOIEEgRkVSUk8gRUwgVklFUk5FUyBFTiBWSUxMQSBET03DjU5JQ08gUE9SIEVMIENMQVVTVVJBIEZFTUVOSU5PIl0": {
       "account": "main",
       "title": "LAS DIABLAS RECIBEN A FERRO EL VIERNES EN VILLA DOMÍNICO POR EL CLAUSURA FEMENINO",
@@ -1606,8 +1634,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-23T19:25:00.000Z",
-    "main": "2026-09-23T20:50:00.000Z"
+    "f1": "2026-09-23T21:30:00.000Z",
+    "main": "2026-09-23T21:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
