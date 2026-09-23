@@ -235,7 +235,7 @@ function postText(item, account, url) {
   const linkEmoji = linkEmojiFor(item, account);
   let title = item.title.trim();
   if (title.length > 190) title = title.slice(0, 187).trimEnd() + '…';
-  return `${emoji} ${title}\n${hashtag}\n\n🔗${linkEmoji} ${url}`;
+  return `${emoji}${linkEmoji} ${title}\n${hashtag}\n\n🔗 ${url}`;
 }
 
 async function validateImage(url) {
