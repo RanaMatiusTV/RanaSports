@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-23T22:24:15.486Z",
+  "updatedAt": "2026-09-23T22:50:55.266Z",
   "trends": [
+    {
+      "query": "javier milei",
+      "startedAt": "2026-09-23T22:30:00.000Z",
+      "volume": 500
+    },
     {
       "query": "viento",
       "startedAt": "2026-09-23T22:00:00.000Z",
@@ -29,12 +34,12 @@
       "volume": 500
     },
     {
-      "query": "2027",
+      "query": "canto 4",
       "startedAt": "2026-09-23T19:10:00.000Z",
       "volume": 5000
     },
     {
-      "query": "canto 4",
+      "query": "2027",
       "startedAt": "2026-09-23T19:10:00.000Z",
       "volume": 5000
     },
@@ -47,11 +52,6 @@
       "query": "caballito",
       "startedAt": "2026-09-23T16:10:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "uocra",
-      "startedAt": "2026-09-23T15:50:00.000Z",
-      "volume": 2000
     }
   ]
 }
