@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE5MDMwMDAwMCwiQ09MQVBJTlRPLCBBTlRFUyBERSBCQUvDmjog4oCcTUkgT0JKRVRJVk8gRVMgTExFVkFSIEEgTEEgQVJHRU5USU5BIEEgTE8gTcOBUyBBTFRP4oCdIl0": {
+      "account": "f1",
+      "title": "COLAPINTO, ANTES DE BAKÚ: “MI OBJETIVO ES LLEVAR A LA ARGENTINA A LO MÁS ALTO”",
+      "dueAt": "2026-09-23T19:20:00.000Z",
+      "bufferPostId": "6ab42600746aac800cfb831d",
+      "createdAt": "2026-09-23T19:18:24.444Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjYW5vdGFqZSIsMTc5MDE5MDMwMDAwMCwiTUFUw41BUyBDT05UUkVSQVMgRlVFIEJST05DRSBFTiBLQVlBSyBDUk9TUyBZIFNVTcOTIE9UUkEgTUVEQUxMQSBBUkdFTlRJTkEiXQ": {
+      "account": "main",
+      "title": "MATÍAS CONTRERAS FUE BRONCE EN KAYAK CROSS Y SUMÓ OTRA MEDALLA ARGENTINA",
+      "dueAt": "2026-09-23T19:25:00.000Z",
+      "bufferPostId": "6ab425ff73cc0d10c75cccbf",
+      "createdAt": "2026-09-23T19:18:23.504Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMTkwMzAwMDAwLCJDSElNWSDDgVZJTEEgU0UgREVTR0FSUsOTIFkgRVMgTVVZIERJRsONQ0lMIFFVRSBMTEVHVUUgQUwgRFVFTE8gQ0xBVkUgQ09OIElOU1RJVFVUTyJd": {
+      "account": "main",
+      "title": "CHIMY ÁVILA SE DESGARRÓ Y ES MUY DIFÍCIL QUE LLEGUE AL DUELO CLAVE CON INSTITUTO",
+      "dueAt": "2026-09-23T19:20:00.000Z",
+      "bufferPostId": "6ab425fe2ed4dc0831d60970",
+      "createdAt": "2026-09-23T19:18:22.354Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE4Njc2MDAwMCwiQlJJQVRPUkUgUFVTTyBVTiBMw41NSVRFIEEgTE9TIEFUQVFVRVM6IOKAnEZSQU5DTyBERUpBUsOBIERFIEhBQkxBUuKAnSBTSSBDT05USU7DmkFOIl0": {
       "account": "f1",
       "title": "BRIATORE PUSO UN LÍMITE A LOS ATAQUES: “FRANCO DEJARÁ DE HABLAR” SI CONTINÚAN",
@@ -1564,8 +1585,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-23T18:30:00.000Z",
-    "main": "2026-09-23T18:30:00.000Z"
+    "f1": "2026-09-23T19:25:00.000Z",
+    "main": "2026-09-23T19:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
