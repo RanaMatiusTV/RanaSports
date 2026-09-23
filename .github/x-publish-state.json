@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE4Njc2MDAwMCwiQlJJQVRPUkUgUFVTTyBVTiBMw41NSVRFIEEgTE9TIEFUQVFVRVM6IOKAnEZSQU5DTyBERUpBUsOBIERFIEhBQkxBUuKAnSBTSSBDT05USU7DmkFOIl0": {
+      "account": "f1",
+      "title": "BRIATORE PUSO UN LÍMITE A LOS ATAQUES: “FRANCO DEJARÁ DE HABLAR” SI CONTINÚAN",
+      "dueAt": "2026-09-23T18:25:00.000Z",
+      "bufferPostId": "6ab418de40567a7a60b801c2",
+      "createdAt": "2026-09-23T18:22:22.336Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjaWNsaXNtbyIsMTc5MDE4Njc2MDAwMCwiT1JPIFBBUkEgQVJHRU5USU5BOiBSVULDiU4gUkFNT1MgWSBNQVJDT1MgTcOJTkRFWiBHQU5BUk9OIExBIE1BRElTT04gRU4gUkFGQUVMQSJd": {
+      "account": "main",
+      "title": "ORO PARA ARGENTINA: RUBÉN RAMOS Y MARCOS MÉNDEZ GANARON LA MADISON EN RAFAELA",
+      "dueAt": "2026-09-23T18:25:00.000Z",
+      "bufferPostId": "6ab418ddb6396f8b6e4c62e3",
+      "createdAt": "2026-09-23T18:22:21.670Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjaWNsaXNtbyIsMTc5MDE4MjkyMDAwMCwiQlJPTkNFIFBBUkEgQUdVSVJSRSBZIEdBUlrDk04gRU4gTEEgTUFESVNPTjogT1RSQSBNRURBTExBIEFSR0VOVElOQSBFTiBSQUZBRUxBIl0": {
       "account": "main",
       "title": "BRONCE PARA AGUIRRE Y GARZÓN EN LA MADISON: OTRA MEDALLA ARGENTINA EN RAFAELA",
@@ -1550,8 +1564,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-23T16:25:00.000Z",
-    "main": "2026-09-23T17:50:00.000Z"
+    "f1": "2026-09-23T18:30:00.000Z",
+    "main": "2026-09-23T18:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
