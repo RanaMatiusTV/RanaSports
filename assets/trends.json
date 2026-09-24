@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T15:28:11.527Z",
+  "updatedAt": "2026-09-24T15:52:40.566Z",
   "trends": [
     {
       "query": "trabajo",
       "startedAt": "2026-09-24T15:10:00.000Z",
-      "volume": 100
+      "volume": 1000
     },
     {
       "query": "propiedad",
       "startedAt": "2026-09-24T13:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "juan manuel cerúndolo",
