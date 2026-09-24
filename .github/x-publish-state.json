@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJyYWNpbmciLDE3OTAyNzQzNjAwMDAsIlZPSlZPREEgREVGSU5FIEVMIFJBQ0lORyBQQVJBIEJPQ0E6IENBTk5BVk8gTyBFU0NVREVSTywgTEEgRFVEQSBFTiBERUZFTlNBIl0": {
+      "account": "main",
+      "title": "VOJVODA DEFINE EL RACING PARA BOCA: CANNAVO O ESCUDERO, LA DUDA EN DEFENSA",
+      "dueAt": "2026-09-24T18:30:00.000Z",
+      "bufferPostId": "6ab56b66f4139be9153067d6",
+      "createdAt": "2026-09-24T18:26:46.632Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJyYXF1ZXRib2wiLDE3OTAyNjg5MDAwMDAsIk1BUsONQSBKT1PDiSBWQVJHQVMgQkFSUknDkyAzLTAgQSBNVcORT1ogWSBWQSBQT1IgRUwgT1JPIEVOIFLDgVFVRVRCT0wiXQ": {
       "account": "main",
       "title": "MARÍA JOSÉ VARGAS BARRIÓ 3-0 A MUÑOZ Y VA POR EL ORO EN RÁQUETBOL",
@@ -1964,7 +1971,7 @@
   },
   "nextAt": {
     "f1": "2026-09-24T15:40:00.000Z",
-    "main": "2026-09-24T18:10:00.000Z"
+    "main": "2026-09-24T18:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
