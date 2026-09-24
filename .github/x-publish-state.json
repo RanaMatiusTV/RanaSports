@@ -1,6 +1,48 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI2Mzk4MDAwMCwiSEFESkFSIFZPTFZJw5MgVFJBUyBET1MgTUVTRVMgWSBTRSBFTlRVU0lBU03DkyBDT04gRUwgUkVEIEJVTEw6IOKAnEVTVMOBIE1FSk9SIFFVRSBDVUFORE8gTE8gREVKw4nigJ0iXQ": {
+      "account": "f1",
+      "title": "HADJAR VOLVIÓ TRAS DOS MESES Y SE ENTUSIASMÓ CON EL RED BULL: “ESTÁ MEJOR QUE CUANDO LO DEJÉ”",
+      "dueAt": "2026-09-24T21:30:00.000Z",
+      "bufferPostId": "6ab593019a9996eef172f1df",
+      "createdAt": "2026-09-24T21:15:45.491Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJwYWRlbCIsMTc5MDI4MDA2MDAwMCwiQ09OVFJFUkFTIFkgUElPVFRPIFNPTiBGSU5BTElTVEFTOiBBUkdFTlRJTkEgQVNFR1VSw5MgTUVEQUxMQSBFTiBFTCBQw4FERUwgTUFTQ1VMSU5PIl0": {
+      "account": "main",
+      "title": "CONTRERAS Y PIOTTO SON FINALISTAS: ARGENTINA ASEGURÓ MEDALLA EN EL PÁDEL MASCULINO",
+      "dueAt": "2026-09-24T21:30:00.000Z",
+      "bufferPostId": "6ab59300fb65dbc70b0e9540",
+      "createdAt": "2026-09-24T21:15:44.536Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJlc3R1ZGlhbnRlcyIsMTc5MDI3NTYyMDAwMCwiRVNUVURJQU5URVMgTExBTcOTIEEgTUFSQ09TIFJPSk86IFFVSUVSRSBSRVBBVFJJQVJMTyBQQVJBIExBIFNFTUlGSU5BTCBERSBMSUJFUlRBRE9SRVMiXQ": {
+      "account": "main",
+      "title": "ESTUDIANTES LLAMÓ A MARCOS ROJO: QUIERE REPATRIARLO PARA LA SEMIFINAL DE LIBERTADORES",
+      "dueAt": "2026-09-24T21:25:00.000Z",
+      "bufferPostId": "6ab592ff7794ad3835666501",
+      "createdAt": "2026-09-24T21:15:43.665Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI3MzIyMDAwMCwiTEEgU0FMVkFEQSBERSBDT0xBUElOVE8gUVVFIE5PIE1PU1RSw5MgTEEgVFY6IEVWSVTDkyBFTCBNVVJPIFBPUiBDRU5Uw41NRVRST1MgRU4gQkFLw5oiXQ": {
+      "account": "f1",
+      "title": "LA SALVADA DE COLAPINTO QUE NO MOSTRÓ LA TV: EVITÓ EL MURO POR CENTÍMETROS EN BAKÚ",
+      "dueAt": "2026-09-24T21:25:00.000Z",
+      "bufferPostId": "6ab592ff9a9996eef172f147",
+      "createdAt": "2026-09-24T21:15:43.195Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI3MzEwMDAwMCwiQ09MQVBJTlRPIFBJREUgTcOBUyBQQVJBIExBIENMQVNJRklDQUNJw5NOOiDigJxRVUVEQSBUUkFCQUpPIFBPUiBIQUNFUuKAnSJd": {
+      "account": "f1",
+      "title": "COLAPINTO PIDE MÁS PARA LA CLASIFICACIÓN: “QUEDA TRABAJO POR HACER”",
+      "dueAt": "2026-09-24T21:20:00.000Z",
+      "bufferPostId": "6ab592fe03180a4897a12138",
+      "createdAt": "2026-09-24T21:15:42.887Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyODM2MDAwMDAsIllBIEVTVMOBIEVOIE1BUkNIQSBMQSBWRU5UQSBQQVJBIExBIERFU1BFRElEQSBERSBNRVNTSTogRU5UUkFEQVMgREVTREUgJDkwLjAwMCJd": {
+      "account": "main",
+      "title": "YA ESTÁ EN MARCHA LA VENTA PARA LA DESPEDIDA DE MESSI: ENTRADAS DESDE $90.000",
+      "dueAt": "2026-09-24T21:20:00.000Z",
+      "bufferPostId": "6ab592f27794ad3835666344",
+      "createdAt": "2026-09-24T21:15:30.253Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ2ZWxleiIsMTc5MDI2Mjc4MDAwMCwiVsOJTEVaIEFQRUzDkyBZIFBJREnDkyBGUkVOQVIgUkFDSU5H4oCTQk9DQSBIQVNUQSBRVUUgU0UgUkVTVUVMVkEgRUwgUkVDVVJTTyJd": {
       "account": "main",
       "title": "VÉLEZ APELÓ Y PIDIÓ FRENAR RACING–BOCA HASTA QUE SE RESUELVA EL RECURSO",
@@ -2019,8 +2061,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-24T19:00:00.000Z",
-    "main": "2026-09-24T21:00:00.000Z"
+    "f1": "2026-09-24T21:35:00.000Z",
+    "main": "2026-09-24T21:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
