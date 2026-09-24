@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T13:53:55.599Z",
+  "updatedAt": "2026-09-24T14:27:31.998Z",
   "trends": [
     {
       "query": "propiedad",
       "startedAt": "2026-09-24T13:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "juan manuel cerúndolo",
@@ -21,7 +21,7 @@
     {
       "query": "moneda",
       "startedAt": "2026-09-24T10:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "lotería de santa fe",
