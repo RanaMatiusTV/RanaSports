@@ -1,22 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T17:51:08.009Z",
+  "updatedAt": "2026-09-24T18:29:22.065Z",
   "trends": [
+    {
+      "query": "países bajos - alemania",
+      "startedAt": "2026-09-24T17:50:00.000Z",
+      "volume": 5000
+    },
     {
       "query": "fecha de cobro jubilados octubre 2026",
       "startedAt": "2026-09-24T17:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "trabajo",
       "startedAt": "2026-09-24T15:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "propiedad",
       "startedAt": "2026-09-24T13:10:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "juan manuel cerúndolo",
@@ -46,11 +51,6 @@
     {
       "query": "club atlético river plate",
       "startedAt": "2026-09-24T09:00:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "ingreso",
-      "startedAt": "2026-09-24T08:50:00.000Z",
       "volume": 5000
     }
   ]
