@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T20:27:13.133Z",
+  "updatedAt": "2026-09-24T20:53:02.325Z",
   "trends": [
     {
       "query": "fondo monetario internacional",
@@ -14,12 +14,12 @@
       "volume": 1000
     },
     {
-      "query": "nations league",
+      "query": "noruega vs",
       "startedAt": "2026-09-24T19:20:00.000Z",
       "volume": 1000
     },
     {
-      "query": "noruega vs",
+      "query": "nations league",
       "startedAt": "2026-09-24T19:20:00.000Z",
       "volume": 1000
     },
