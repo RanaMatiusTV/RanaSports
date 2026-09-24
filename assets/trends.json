@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T11:52:12.909Z",
+  "updatedAt": "2026-09-24T12:31:38.147Z",
   "trends": [
+    {
+      "query": "japón - uruguay",
+      "startedAt": "2026-09-24T12:00:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "moneda",
       "startedAt": "2026-09-24T10:20:00.000Z",
@@ -16,7 +21,7 @@
     {
       "query": "corea del sur - ecuador",
       "startedAt": "2026-09-24T10:10:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "club atlético river plate",
@@ -47,11 +52,6 @@
       "query": "viento",
       "startedAt": "2026-09-23T22:00:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "escrache",
-      "startedAt": "2026-09-23T21:50:00.000Z",
-      "volume": 1000
     }
   ]
 }
