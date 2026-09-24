@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T21:24:41.689Z",
+  "updatedAt": "2026-09-24T21:50:01.952Z",
   "trends": [
+    {
+      "query": "árbitro",
+      "startedAt": "2026-09-24T21:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "o'higgins - santa cruz",
+      "startedAt": "2026-09-24T21:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "erling haaland",
       "startedAt": "2026-09-24T21:00:00.000Z",
@@ -16,12 +26,12 @@
     {
       "query": "arnaud denis",
       "startedAt": "2026-09-24T20:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "marcos franchi",
       "startedAt": "2026-09-24T20:40:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "fondo monetario internacional",
@@ -42,16 +52,6 @@
       "query": "noruega vs",
       "startedAt": "2026-09-24T19:20:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "nations league",
-      "startedAt": "2026-09-24T19:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "deportick",
-      "startedAt": "2026-09-24T19:00:00.000Z",
-      "volume": 20000
     }
   ]
 }
