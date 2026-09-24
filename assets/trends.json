@@ -1,17 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T20:53:02.325Z",
+  "updatedAt": "2026-09-24T21:24:41.689Z",
   "trends": [
     {
+      "query": "erling haaland",
+      "startedAt": "2026-09-24T21:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "cristiano ronaldo",
+      "startedAt": "2026-09-24T20:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "arnaud denis",
+      "startedAt": "2026-09-24T20:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "marcos franchi",
+      "startedAt": "2026-09-24T20:40:00.000Z",
+      "volume": 2000
+    },
+    {
       "query": "fondo monetario internacional",
+      "startedAt": "2026-09-24T19:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "portugal fc",
       "startedAt": "2026-09-24T19:50:00.000Z",
       "volume": 500
     },
     {
       "query": "portugal",
       "startedAt": "2026-09-24T19:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "noruega vs",
@@ -26,32 +51,7 @@
     {
       "query": "deportick",
       "startedAt": "2026-09-24T19:00:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "portugal vs",
-      "startedAt": "2026-09-24T19:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "austria - israel",
-      "startedAt": "2026-09-24T18:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "países bajos - alemania",
-      "startedAt": "2026-09-24T17:50:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "fecha de cobro jubilados octubre 2026",
-      "startedAt": "2026-09-24T17:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "trabajo",
-      "startedAt": "2026-09-24T15:10:00.000Z",
-      "volume": 5000
+      "volume": 20000
     }
   ]
 }
