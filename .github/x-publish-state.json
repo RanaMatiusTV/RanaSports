@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMjI5OTAwMDAwLCJBTEFSTUEgRU4gSU5ERVBFTkRJRU5URTogQ0hJTVkgw4FWSUxBIFNVRlJJw5MgVU4gREVTR0FSUk8gWSBFUyBEVURBIEFOVEUgSU5TVElUVVRPIl0": {
+      "account": "main",
+      "title": "ALARMA EN INDEPENDIENTE: CHIMY ÁVILA SUFRIÓ UN DESGARRO Y ES DUDA ANTE INSTITUTO",
+      "dueAt": "2026-09-24T06:30:00.000Z",
+      "bufferPostId": "6ab4c2d81a0af48426258310",
+      "createdAt": "2026-09-24T06:27:36.280Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJoYW5kYmFsbCIsMTc5MDIxNTUwMDAwMCwiVFJJVU5GQVpPIERFIExPUyBHTEFESUFET1JFUzogMTgtMTcgQSBCUkFTSUwgRU4gVU4gQ0zDgVNJQ08gUEFSQSBFTCBJTkZBUlRPIl0": {
       "account": "main",
       "title": "TRIUNFAZO DE LOS GLADIADORES: 18-17 A BRASIL EN UN CLÁSICO PARA EL INFARTO",
@@ -1761,7 +1768,7 @@
   },
   "nextAt": {
     "f1": "2026-09-24T00:35:00.000Z",
-    "main": "2026-09-24T03:00:00.000Z"
+    "main": "2026-09-24T06:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
