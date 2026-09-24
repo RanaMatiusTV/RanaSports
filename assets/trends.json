@@ -1,15 +1,15 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T22:25:45.737Z",
+  "updatedAt": "2026-09-24T22:51:48.449Z",
   "trends": [
     {
-      "query": "lionel scaloni",
+      "query": "miniserie",
       "startedAt": "2026-09-24T22:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "miniserie",
+      "query": "lionel scaloni",
       "startedAt": "2026-09-24T22:00:00.000Z",
       "volume": 500
     },
@@ -19,9 +19,14 @@
       "volume": 1000
     },
     {
+      "query": "evento de el niño de 2026 2027",
+      "startedAt": "2026-09-24T21:30:00.000Z",
+      "volume": 1000
+    },
+    {
       "query": "árbitro",
       "startedAt": "2026-09-24T21:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "o'higgins - santa cruz",
@@ -41,17 +46,12 @@
     {
       "query": "arnaud denis",
       "startedAt": "2026-09-24T20:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "cristiano ronaldo",
       "startedAt": "2026-09-24T20:50:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "marcos franchi",
-      "startedAt": "2026-09-24T20:40:00.000Z",
-      "volume": 5000
     }
   ]
 }
