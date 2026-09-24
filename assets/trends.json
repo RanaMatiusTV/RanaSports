@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T12:55:15.391Z",
+  "updatedAt": "2026-09-24T13:27:52.381Z",
   "trends": [
+    {
+      "query": "propiedad",
+      "startedAt": "2026-09-24T13:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "juan manuel cerúndolo",
+      "startedAt": "2026-09-24T13:10:00.000Z",
+      "volume": 500
+    },
     {
       "query": "japón - uruguay",
       "startedAt": "2026-09-24T12:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "moneda",
@@ -42,16 +52,6 @@
       "query": "u. la calera - u. católica",
       "startedAt": "2026-09-23T23:50:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "javier milei",
-      "startedAt": "2026-09-23T22:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "viento",
-      "startedAt": "2026-09-23T22:00:00.000Z",
-      "volume": 10000
     }
   ]
 }
