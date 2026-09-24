@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T14:27:31.998Z",
+  "updatedAt": "2026-09-24T14:54:56.692Z",
   "trends": [
+    {
+      "query": "dge",
+      "startedAt": "2026-09-24T14:20:00.000Z",
+      "volume": 20000
+    },
     {
       "query": "propiedad",
       "startedAt": "2026-09-24T13:10:00.000Z",
@@ -41,17 +46,12 @@
     {
       "query": "ingreso",
       "startedAt": "2026-09-24T08:50:00.000Z",
-      "volume": 200
+      "volume": 1000
     },
     {
       "query": "mora bianchi",
       "startedAt": "2026-09-24T02:10:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "u. la calera - u. católica",
-      "startedAt": "2026-09-23T23:50:00.000Z",
-      "volume": 1000
     }
   ]
 }
