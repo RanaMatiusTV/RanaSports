@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T21:50:01.952Z",
+  "updatedAt": "2026-09-24T22:25:45.737Z",
   "trends": [
+    {
+      "query": "lionel scaloni",
+      "startedAt": "2026-09-24T22:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "miniserie",
+      "startedAt": "2026-09-24T22:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "futbolista",
+      "startedAt": "2026-09-24T21:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "árbitro",
       "startedAt": "2026-09-24T21:20:00.000Z",
@@ -19,9 +34,9 @@
       "volume": 1000
     },
     {
-      "query": "cristiano ronaldo",
-      "startedAt": "2026-09-24T20:50:00.000Z",
-      "volume": 2000
+      "query": "argentina vs benin",
+      "startedAt": "2026-09-24T21:00:00.000Z",
+      "volume": 1000
     },
     {
       "query": "arnaud denis",
@@ -29,29 +44,14 @@
       "volume": 2000
     },
     {
-      "query": "marcos franchi",
-      "startedAt": "2026-09-24T20:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "fondo monetario internacional",
-      "startedAt": "2026-09-24T19:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "portugal fc",
-      "startedAt": "2026-09-24T19:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "portugal",
-      "startedAt": "2026-09-24T19:20:00.000Z",
+      "query": "cristiano ronaldo",
+      "startedAt": "2026-09-24T20:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "noruega vs",
-      "startedAt": "2026-09-24T19:20:00.000Z",
-      "volume": 1000
+      "query": "marcos franchi",
+      "startedAt": "2026-09-24T20:40:00.000Z",
+      "volume": 5000
     }
   ]
 }
