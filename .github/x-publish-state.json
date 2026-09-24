@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI0MDcwMDAwMCwiQ09MQVBJTlRPIEFSUkFOQ0EgRU4gQkFLw5o6IFVOIEZJTiBERSBTRU1BTkEgQVTDjVBJQ08gREUgRjEgQ09OIENBUlJFUkEgRUwgU8OBQkFETyJd": {
+      "account": "f1",
+      "title": "COLAPINTO ARRANCA EN BAKÚ: UN FIN DE SEMANA ATÍPICO DE F1 CON CARRERA EL SÁBADO",
+      "dueAt": "2026-09-24T11:45:00.000Z",
+      "bufferPostId": "6ab50c7e5a88b19996245abc",
+      "createdAt": "2026-09-24T11:41:50.331Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzYW50YSBmZSAyMDI2IiwxNzkwMjQwNzAwMDAwLCJBUkdFTlRJTkEgVkEgUE9SIE3DgVMgTUVEQUxMQVM6IEFHRU5EQSBDT01QTEVUQSBERUwgSlVFVkVTIEVOIFNBTlRBIEZFIDIwMjYiXQ": {
       "account": "main",
       "title": "ARGENTINA VA POR MÁS MEDALLAS: AGENDA COMPLETA DEL JUEVES EN SANTA FE 2026",
@@ -1823,8 +1830,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-24T10:25:00.000Z",
-    "main": "2026-09-24T11:30:00.000Z"
+    "f1": "2026-09-24T11:50:00.000Z",
+    "main": "2026-09-24T11:45:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
