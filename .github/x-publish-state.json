@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJib2R5Ym9hcmQiLDE3OTAyMzM1MDAwMDAsIklTQUJFTExBIEFTU01BTk4gWUEgVElFTkUgTUVEQUxMQTogRVMgRklOQUxJU1RBIERFIEJPRFlCT0FSRCBZIFZBIFBPUiBFTCBPUk8iXQ": {
+      "account": "main",
+      "title": "ISABELLA ASSMANN YA TIENE MEDALLA: ES FINALISTA DE BODYBOARD Y VA POR EL ORO",
+      "dueAt": "2026-09-24T07:25:00.000Z",
+      "bufferPostId": "6ab4cee81a0af4842626f401",
+      "createdAt": "2026-09-24T07:19:04.814Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMjI5OTAwMDAwLCJBTEFSTUEgRU4gSU5ERVBFTkRJRU5URTogQ0hJTVkgw4FWSUxBIFNVRlJJw5MgVU4gREVTR0FSUk8gWSBFUyBEVURBIEFOVEUgSU5TVElUVVRPIl0": {
       "account": "main",
       "title": "ALARMA EN INDEPENDIENTE: CHIMY ÁVILA SUFRIÓ UN DESGARRO Y ES DUDA ANTE INSTITUTO",
@@ -1768,7 +1775,7 @@
   },
   "nextAt": {
     "f1": "2026-09-24T00:35:00.000Z",
-    "main": "2026-09-24T07:05:00.000Z"
+    "main": "2026-09-24T07:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
