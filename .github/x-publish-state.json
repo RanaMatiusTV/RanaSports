@@ -1,6 +1,55 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJyYXF1ZXRib2wiLDE3OTAyNjg5MDAwMDAsIk1BUsONQSBKT1PDiSBWQVJHQVMgQkFSUknDkyAzLTAgQSBNVcORT1ogWSBWQSBQT1IgRUwgT1JPIEVOIFLDgVFVRVRCT0wiXQ": {
+      "account": "main",
+      "title": "MARÍA JOSÉ VARGAS BARRIÓ 3-0 A MUÑOZ Y VA POR EL ORO EN RÁQUETBOL",
+      "dueAt": "2026-09-24T18:05:00.000Z",
+      "bufferPostId": "6ab55e27f2f88235921b8334",
+      "createdAt": "2026-09-24T17:30:15.160Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJyYXF1ZXRib2wiLDE3OTAyNjg5MDAwMDAsIk5BVEFMSUEgTcOJTkRFWiBHQU7DkyAzLTIgWSBTRSBNRVRJw5MgRU4gTEEgRklOQUwgSU5ESVZJRFVBTCBERSBSw4FRVUVUQk9MIl0": {
+      "account": "main",
+      "title": "NATALIA MÉNDEZ GANÓ 3-2 Y SE METIÓ EN LA FINAL INDIVIDUAL DE RÁQUETBOL",
+      "dueAt": "2026-09-24T18:00:00.000Z",
+      "bufferPostId": "6ab55e2639867fa0e5115afb",
+      "createdAt": "2026-09-24T17:30:14.420Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJlc2NhbGFkYSIsMTc5MDI2NTcyMDAwMCwiQlJPTkNFIFBBUkEgVkFMRU5Uw41OIFNURVJOSUsgRU4gVkVMT0NJREFEOiBOVUVWQSBNRURBTExBIEFSR0VOVElOQSBFTiBFU0NBTEFEQSJd": {
+      "account": "main",
+      "title": "BRONCE PARA VALENTÍN STERNIK EN VELOCIDAD: NUEVA MEDALLA ARGENTINA EN ESCALADA",
+      "dueAt": "2026-09-24T17:55:00.000Z",
+      "bufferPostId": "6ab55e25f2f88235921b82e9",
+      "createdAt": "2026-09-24T17:30:13.955Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNjYzMjAwMDAsIlNDQUxPTkkgUFJPQsOTIEEgSlVMScOBTiBZIExBVVRBUk8gSlVOVE9TOiBFTCBQUklNRVIgRVFVSVBPIFBBUkEgTE9TIEFNSVNUT1NPUyJd": {
+      "account": "main",
+      "title": "SCALONI PROBÓ A JULIÁN Y LAUTARO JUNTOS: EL PRIMER EQUIPO PARA LOS AMISTOSOS",
+      "dueAt": "2026-09-24T17:50:00.000Z",
+      "bufferPostId": "6ab55e1d39867fa0e51158ce",
+      "createdAt": "2026-09-24T17:30:05.301Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNjU2MDAwMDAsIlNDQUxPTkkgQ09OVMOTIEPDk01PIENPTlZFTkNJw5MgQSBNRVNTSSBQQVJBIFNVIERFU1BFRElEQTog4oCcU0UgTUVSRUNFIEVTVE_igJ0iXQ": {
+      "account": "main",
+      "title": "SCALONI CONTÓ CÓMO CONVENCIÓ A MESSI PARA SU DESPEDIDA: “SE MERECE ESTO”",
+      "dueAt": "2026-09-24T17:45:00.000Z",
+      "bufferPostId": "6ab55e1c39867fa0e5115897",
+      "createdAt": "2026-09-24T17:30:04.931Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNjUwNjAwMDAsIlNDQUxPTkkgQUJSScOTIExBIFBVRVJUQSBBIFNFR1VJUjog4oCcVEVOR08gR0FOQVMgREUgRVNUQVIgQUPDgeKAnSJd": {
+      "account": "main",
+      "title": "SCALONI ABRIÓ LA PUERTA A SEGUIR: “TENGO GANAS DE ESTAR ACÁ”",
+      "dueAt": "2026-09-24T17:40:00.000Z",
+      "bufferPostId": "6ab55e1c7cb0c4ddfc0a808e",
+      "createdAt": "2026-09-24T17:30:04.601Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMjY0NDAwMDAwLCJLVU4gQUfDnEVSTyBTRSBNRVRFIEVOIExBIEVMRUNDScOTTiBERSBJTkRFUEVORElFTlRFOiBBUE9ZQSBBIE5BS0lTIFkgUVVJRVJFIFZPTFZFUiBBTCBDTFVCIl0": {
+      "account": "main",
+      "title": "KUN AGÜERO SE METE EN LA ELECCIÓN DE INDEPENDIENTE: APOYA A NAKIS Y QUIERE VOLVER AL CLUB",
+      "dueAt": "2026-09-24T17:35:00.000Z",
+      "bufferPostId": "6ab55e1bf2f88235921b7d11",
+      "createdAt": "2026-09-24T17:30:04.043Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzYW50YSBmZSAyMDI2IiwxNzkwMjYyODQwMDAwLCJBUkdFTlRJTkEgWUEgTExFR8OTIEEgMjE1IE1FREFMTEFTOiA1NSBPUk9TIFkgU0lHVUUgU0VHVU5EQSJd": {
       "account": "main",
       "title": "ARGENTINA YA LLEGÓ A 215 MEDALLAS: 55 OROS Y SIGUE SEGUNDA",
@@ -1915,7 +1964,7 @@
   },
   "nextAt": {
     "f1": "2026-09-24T15:40:00.000Z",
-    "main": "2026-09-24T17:20:00.000Z"
+    "main": "2026-09-24T18:10:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
