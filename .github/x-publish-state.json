@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzYW50YSBmZSAyMDI2IiwxNzkwMjQwNzAwMDAwLCJBUkdFTlRJTkEgVkEgUE9SIE3DgVMgTUVEQUxMQVM6IEFHRU5EQSBDT01QTEVUQSBERUwgSlVFVkVTIEVOIFNBTlRBIEZFIDIwMjYiXQ": {
+      "account": "main",
+      "title": "ARGENTINA VA POR MÁS MEDALLAS: AGENDA COMPLETA DEL JUEVES EN SANTA FE 2026",
+      "dueAt": "2026-09-24T10:35:00.000Z",
+      "bufferPostId": "6ab4fc188c1ce9654ae3d687",
+      "createdAt": "2026-09-24T10:31:52.960Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjb3BhIGFyZ2VudGluYSIsMTc5MDI0NDM2MDAwMCwiVsOJTEVaIEFQRUxBIFkgUElERSBGUkVOQVIgUkFDSU5H4oCTQk9DQSBIQVNUQSBRVUUgU0UgUkVTVUVMVkEgRUwgUkVDTEFNTyJd": {
       "account": "main",
       "title": "VÉLEZ APELA Y PIDE FRENAR RACING–BOCA HASTA QUE SE RESUELVA EL RECLAMO",
@@ -1817,7 +1824,7 @@
   },
   "nextAt": {
     "f1": "2026-09-24T10:25:00.000Z",
-    "main": "2026-09-24T10:30:00.000Z"
+    "main": "2026-09-24T10:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
