@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjb3BhIGFyZ2VudGluYSIsMTc5MDI0OTcwMDAwMCwiQk9DQeKAk1JBQ0lORyBZQSBUSUVORSDDgVJCSVRSTzogR0FSw41BTk8gRElSSUdJUsOBIEVMIENSVUNFIERFTCBET01JTkdPIEVOIFJPU0FSSU8iXQ": {
+      "account": "main",
+      "title": "BOCA–RACING YA TIENE ÁRBITRO: GARÍANO DIRIGIRÁ EL CRUCE DEL DOMINGO EN ROSARIO",
+      "dueAt": "2026-09-24T12:30:00.000Z",
+      "bufferPostId": "6ab51784c5da0890db82a380",
+      "createdAt": "2026-09-24T12:28:53.028Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MDIxNzkwMDAwMCwiSU5Tw5NMSVRPIEVOIEJPTElWSUE6IFVOIEFSUVVFUk8gQVJHRU5USU5PIERFSsOTIFFVRSBMRSBISUNJRVJBTiBVTiBQRU5BTCBFTiBQUk9URVNUQSBZIFNVU1BFTkRJRVJPTiBBTCDDgVJCSVRSTyJd": {
       "account": "main",
       "title": "INSÓLITO EN BOLIVIA: UN ARQUERO ARGENTINO DEJÓ QUE LE HICIERAN UN PENAL EN PROTESTA Y SUSPENDIERON AL ÁRBITRO",
@@ -1838,7 +1845,7 @@
   },
   "nextAt": {
     "f1": "2026-09-24T11:50:00.000Z",
-    "main": "2026-09-24T12:10:00.000Z"
+    "main": "2026-09-24T12:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
