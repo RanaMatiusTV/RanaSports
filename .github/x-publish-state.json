@@ -1,6 +1,48 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDIwODMwMDAwMCwiQ09MQVBJTlRPIExFIEVTQ1JJQknDkyBBIE1FU1NJIEFOVEVTIERFIFNVIERFU1BFRElEQTog4oCcTk8gVEUgVkFZQVMgTlVOQ0HigJ0iXQ": {
+      "account": "f1",
+      "title": "COLAPINTO LE ESCRIBIÓ A MESSI ANTES DE SU DESPEDIDA: “NO TE VAYAS NUNCA”",
+      "dueAt": "2026-09-24T00:30:00.000Z",
+      "bufferPostId": "6ab46e0ccdc0a64118080b0d",
+      "createdAt": "2026-09-24T00:25:48.823Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjb3BhIGFyZ2VudGluYSIsMTc5MDIwODMwMDAwMCwiQk9DQSBTSUdVRSBFTiBDT1BBIEFSR0VOVElOQSwgUEVSTyBQQUdBUsOBIFVOQSBNVUxUQSBNSUxMT05BUklBIFBPUiBMQSBQTEFOSUxMQSBBTlRFIFbDiUxFWiJd": {
+      "account": "main",
+      "title": "BOCA SIGUE EN COPA ARGENTINA, PERO PAGARÁ UNA MULTA MILLONARIA POR LA PLANILLA ANTE VÉLEZ",
+      "dueAt": "2026-09-24T00:50:00.000Z",
+      "bufferPostId": "6ab46e0b4ee8bfc2fd247805",
+      "createdAt": "2026-09-24T00:25:47.606Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyMDgzMDAwMDAsIkVOWk8gRkVSTsOBTkRFWiBQSURJw5MgUVVFIFNDQUxPTkkgU0lHQTog4oCcRVMgTVVZIElNUE9SVEFOVEUgUEFSQSBOT1NPVFJPU-KAnSJd": {
+      "account": "main",
+      "title": "ENZO FERNÁNDEZ PIDIÓ QUE SCALONI SIGA: “ES MUY IMPORTANTE PARA NOSOTROS”",
+      "dueAt": "2026-09-24T00:45:00.000Z",
+      "bufferPostId": "6ab46e00a9da2eb42fbf7fe9",
+      "createdAt": "2026-09-24T00:25:36.387Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyMDgzMDAwMDAsIkxBIFNFTEVDQ0nDk04gWUEgVFJBQkFKQSBFTiBFWkVJWkE6IE1BU1RBTlRVT05PLCBESUJVLCBKVUxJw4FOIFkgQ1VUSSBTRSBTVU1BUk9OIEFMIFBMQU5URUwiXQ": {
+      "account": "main",
+      "title": "LA SELECCIÓN YA TRABAJA EN EZEIZA: MASTANTUONO, DIBU, JULIÁN Y CUTI SE SUMARON AL PLANTEL",
+      "dueAt": "2026-09-24T00:40:00.000Z",
+      "bufferPostId": "6ab46dfea9da2eb42fbf7f9b",
+      "createdAt": "2026-09-24T00:25:34.318Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyMDgzMDAwMDAsIkVMIFJFQ0FNQklPIFlBIEVNUEVaw5M6IExBIFNFTEVDQ0nDk04gQkFKw5MgVFJFUyBBw5FPUyBTVSBQUk9NRURJTyBERSBFREFEIl0": {
+      "account": "main",
+      "title": "EL RECAMBIO YA EMPEZÓ: LA SELECCIÓN BAJÓ TRES AÑOS SU PROMEDIO DE EDAD",
+      "dueAt": "2026-09-24T00:35:00.000Z",
+      "bufferPostId": "6ab46dfd4ee8bfc2fd247723",
+      "createdAt": "2026-09-24T00:25:33.695Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyMDgzMDAwMDAsIlNDQUxPTkkgRVNUw4EgQ0VSQ0EgREUgUkVOT1ZBUjogQUZBIFFVSUVSRSBCTElOREFSIEVMIFBST1lFQ1RPIEhBU1RBIDIwMzAiXQ": {
+      "account": "main",
+      "title": "SCALONI ESTÁ CERCA DE RENOVAR: AFA QUIERE BLINDAR EL PROYECTO HASTA 2030",
+      "dueAt": "2026-09-24T00:30:00.000Z",
+      "bufferPostId": "6ab46dfcccbef1e0a53f61ba",
+      "createdAt": "2026-09-24T00:25:33.046Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjb3BhIGFyZ2VudGluYSIsMTc5MDIwNDc2MDAwMCwiUkFDSU5H4oCTQk9DQSBZQSBUSUVORSBIT1JBUklPIE9GSUNJQUw6IEVMIENVQVJUTyBERSBGSU5BTCBTRVLDgSBFTCBET01JTkdPIEEgTEFTIDE3Il0": {
       "account": "main",
       "title": "RACING–BOCA YA TIENE HORARIO OFICIAL: EL CUARTO DE FINAL SERÁ EL DOMINGO A LAS 17",
@@ -1662,8 +1704,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-23T21:30:00.000Z",
-    "main": "2026-09-23T23:35:00.000Z"
+    "f1": "2026-09-24T00:35:00.000Z",
+    "main": "2026-09-24T00:55:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
