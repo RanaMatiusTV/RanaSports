@@ -1,6 +1,48 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI2MTUyMDAwMCwiTk9SUklTIFFVRUTDkyBBIENBU0kgMSw1IFNFR1VORE9TIERFIFJVU1NFTEwgWSBBRE1JVEnDkzog4oCcRVNUQU1PUyBMRUrDjVNJTU9T4oCdIl0": {
+      "account": "f1",
+      "title": "NORRIS QUEDÓ A CASI 1,5 SEGUNDOS DE RUSSELL Y ADMITIÓ: “ESTAMOS LEJÍSIMOS”",
+      "dueAt": "2026-09-24T18:55:00.000Z",
+      "bufferPostId": "6ab56f51ac73a45b8da58c02",
+      "createdAt": "2026-09-24T18:43:29.645Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI1OTk2MDAwMCwiQVNUT04gTUFSVElOIENBTUJJw5MgQ09NUE9ORU5URVMgRU4gQkFLw5ogWSBTVVMgRE9TIEFVVE9TIFJFQ0lCSVLDgU4gUEVOQUxJWkFDSU9ORVMiXQ": {
+      "account": "f1",
+      "title": "ASTON MARTIN CAMBIÓ COMPONENTES EN BAKÚ Y SUS DOS AUTOS RECIBIRÁN PENALIZACIONES",
+      "dueAt": "2026-09-24T18:50:00.000Z",
+      "bufferPostId": "6ab56f51a286641c0b1e1624",
+      "createdAt": "2026-09-24T18:43:29.248Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3OTAyNzIwMjAwMDAsIkJPUkpBIFJFVkVMw5MgUVVFIEhBQkzDkyBDT04gUklRVUVMTUUgQU5URVMgREUgTExFR0FSIEEgUklWRVIiXQ": {
+      "account": "main",
+      "title": "BORJA REVELÓ QUE HABLÓ CON RIQUELME ANTES DE LLEGAR A RIVER",
+      "dueAt": "2026-09-24T18:55:00.000Z",
+      "bufferPostId": "6ab56f4fac73a45b8da58bc0",
+      "createdAt": "2026-09-24T18:43:28.050Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJyYXF1ZXRib2wiLDE3OTAyNjg5MDAwMDAsIlZBUkdBUyBZIENFTlRFTExBUyBTT04gRklOQUxJU1RBUyBFTiBET0JMRVMgWSBBU0VHVVJBUk9OIE9UUkEgTUVEQUxMQSBBUkdFTlRJTkEiXQ": {
+      "account": "main",
+      "title": "VARGAS Y CENTELLAS SON FINALISTAS EN DOBLES Y ASEGURARON OTRA MEDALLA ARGENTINA",
+      "dueAt": "2026-09-24T18:50:00.000Z",
+      "bufferPostId": "6ab56f4eafab7d440a2aae74",
+      "createdAt": "2026-09-24T18:43:26.701Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI1ODUyMDAwMCwiQUxQSU5FIFNFIElMVVNJT05BIEVOIEJBS8OaOiBWRSBBIENPTEFQSU5UTyBDT04gQ0hBTkNFUyBERSBRMyBZIFBVTlRPUyJd": {
+      "account": "f1",
+      "title": "ALPINE SE ILUSIONA EN BAKÚ: VE A COLAPINTO CON CHANCES DE Q3 Y PUNTOS",
+      "dueAt": "2026-09-24T18:45:00.000Z",
+      "bufferPostId": "6ab56f4ca286641c0b1e15ed",
+      "createdAt": "2026-09-24T18:43:24.569Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNjk4NjAwMDAsIlNDQUxPTkkgQUNMQVLDkyBFTCBGVVRVUk8gREUgREUgUEFVTCBZIExPIENFTFNPIEVOIExBIFNFTEVDQ0nDk04iXQ": {
+      "account": "main",
+      "title": "SCALONI ACLARÓ EL FUTURO DE DE PAUL Y LO CELSO EN LA SELECCIÓN",
+      "dueAt": "2026-09-24T18:45:00.000Z",
+      "bufferPostId": "6ab56f4473e53e7453af0070",
+      "createdAt": "2026-09-24T18:43:16.963Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJyYWNpbmciLDE3OTAyNzQzNjAwMDAsIlZPSlZPREEgREVGSU5FIEVMIFJBQ0lORyBQQVJBIEJPQ0E6IENBTk5BVk8gTyBFU0NVREVSTywgTEEgRFVEQSBFTiBERUZFTlNBIl0": {
       "account": "main",
       "title": "VOJVODA DEFINE EL RACING PARA BOCA: CANNAVO O ESCUDERO, LA DUDA EN DEFENSA",
@@ -1970,8 +2012,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-24T15:40:00.000Z",
-    "main": "2026-09-24T18:35:00.000Z"
+    "f1": "2026-09-24T19:00:00.000Z",
+    "main": "2026-09-24T19:00:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
