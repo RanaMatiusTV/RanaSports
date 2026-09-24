@@ -1,6 +1,48 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI1MDU0MDAwMCwiRlVFR08gRU4gTE9TIEZSRU5PUyBERSBTQUlOWjogV0lMTElBTVMgUEVSREnDkyBUSUVNUE8gQ0xBVkUgRU4gTEEgRlAxIERFIEJBS8OaIl0": {
+      "account": "f1",
+      "title": "FUEGO EN LOS FRENOS DE SAINZ: WILLIAMS PERDIÓ TIEMPO CLAVE EN LA FP1 DE BAKÚ",
+      "dueAt": "2026-09-24T15:35:00.000Z",
+      "bufferPostId": "6ab54018c81dcef2407344fd",
+      "createdAt": "2026-09-24T15:22:00.859Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI2MDI2MDAwMCwiQ09MQVBJTlRPIEZVRSBBVVRPQ1LDjVRJQ08gVFJBUyBMQSBGUDI6IOKAnE5PIE1FIFNJRU5UTyBNVVkgQ8OTTU9ET-KAnSJd": {
+      "account": "f1",
+      "title": "COLAPINTO FUE AUTOCRÍTICO TRAS LA FP2: “NO ME SIENTO MUY CÓMODO”",
+      "dueAt": "2026-09-24T15:30:00.000Z",
+      "bufferPostId": "6ab540178333eb39f0e3228d",
+      "createdAt": "2026-09-24T15:21:59.390Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI1NDgwMDAwMCwiQ09MQVBJTlRPIFBFR8OTIFVOIFNBTFRPIEVOIEJBS8OaOiAxMcKwIEVOIExBIEZQMiBZIEEgTEFTIFBVRVJUQVMgREVMIFRPUCAxMCJd": {
+      "account": "f1",
+      "title": "COLAPINTO PEGÓ UN SALTO EN BAKÚ: 11° EN LA FP2 Y A LAS PUERTAS DEL TOP 10",
+      "dueAt": "2026-09-24T15:25:00.000Z",
+      "bufferPostId": "6ab54016c81dcef2407344c9",
+      "createdAt": "2026-09-24T15:21:59.068Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJwYWRlbCIsMTc5MDI1MjQ2MDAwMCwiQVBBIEFQQVJUw5MgQSBGTE9SRU5DSUEgR1VFUlJBIFNPREVSTyBERSBMQSBTRUxFQ0NJw5NOIERFIFDDgURFTCBQT1IgRVhQUkVTSU9ORVMgQU5USVNFTUlUQVMiXQ": {
+      "account": "main",
+      "title": "APA APARTÓ A FLORENCIA GUERRA SODERO DE LA SELECCIÓN DE PÁDEL POR EXPRESIONES ANTISEMITAS",
+      "dueAt": "2026-09-24T15:35:00.000Z",
+      "bufferPostId": "6ab5401602742bba8b51ad54",
+      "createdAt": "2026-09-24T15:21:58.510Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzYW50YSBmZSAyMDI2IiwxNzkwMjUwNjAwMDAwLCJBUkdFTlRJTkEgWUEgVElFTkUgRklOQUw6IFZBIFBPUiBFTCBPUk8gQU5URSBQQVJBR1VBWSBFTiBFTCBNQVJDRUxPIEJJRUxTQSJd": {
+      "account": "main",
+      "title": "ARGENTINA YA TIENE FINAL: VA POR EL ORO ANTE PARAGUAY EN EL MARCELO BIELSA",
+      "dueAt": "2026-09-24T15:30:00.000Z",
+      "bufferPostId": "6ab54015ed952d22bacd1bc5",
+      "createdAt": "2026-09-24T15:21:58.097Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNTYwNjAwMDAsIkNVVEkgUk9NRVJPIFNFIEpVR8OTIFBPUiBNRVNTSSBQQVJBIEVMIEJBTMOTTiBERSBPUk86IOKAnE5PIEhBWSBPVFJPIENPTU8gw4lM4oCdIl0": {
+      "account": "main",
+      "title": "CUTI ROMERO SE JUGÓ POR MESSI PARA EL BALÓN DE ORO: “NO HAY OTRO COMO ÉL”",
+      "dueAt": "2026-09-24T15:25:00.000Z",
+      "bufferPostId": "6ab5400a1af2d8014e2d53ab",
+      "createdAt": "2026-09-24T15:21:46.338Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNDU5ODAwMDAsIlNDQUxPTkkgVElFTkUgMzMgSlVHQURPUkVTIERJU1BPTklCTEVTOiBBU8ONIFFVRURBUk9OIExBUyBWQVJJQU5URVMgREUgTEEgU0VMRUNDScOTTiJd": {
       "account": "main",
       "title": "SCALONI TIENE 33 JUGADORES DISPONIBLES: ASÍ QUEDARON LAS VARIANTES DE LA SELECCIÓN",
@@ -1858,8 +1900,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-24T11:50:00.000Z",
-    "main": "2026-09-24T15:05:00.000Z"
+    "f1": "2026-09-24T15:40:00.000Z",
+    "main": "2026-09-24T15:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
