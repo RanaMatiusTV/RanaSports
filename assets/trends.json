@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T18:29:22.065Z",
+  "updatedAt": "2026-09-24T18:53:42.581Z",
   "trends": [
+    {
+      "query": "austria - israel",
+      "startedAt": "2026-09-24T18:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "países bajos - alemania",
       "startedAt": "2026-09-24T17:50:00.000Z",
@@ -47,11 +52,6 @@
       "query": "corea del sur - ecuador",
       "startedAt": "2026-09-24T10:10:00.000Z",
       "volume": 20000
-    },
-    {
-      "query": "club atlético river plate",
-      "startedAt": "2026-09-24T09:00:00.000Z",
-      "volume": 5000
     }
   ]
 }
