@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T12:31:38.147Z",
+  "updatedAt": "2026-09-24T12:55:15.391Z",
   "trends": [
     {
       "query": "japón - uruguay",
@@ -16,7 +16,7 @@
     {
       "query": "lotería de santa fe",
       "startedAt": "2026-09-24T10:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "corea del sur - ecuador",
