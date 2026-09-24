@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNDA3MDAwMDAsIkxBIFNFTEVDQ0nDk04gVlVFTFZFIEEgRU5UUkVOQVJTRSBFTiBFWkVJWkE6IFRFUkNFUkEgUFLDgUNUSUNBIFkgUFVFUlRBUyBBQklFUlRBUyBBIExBIFBSRU5TQSJd": {
+      "account": "main",
+      "title": "LA SELECCIÓN VUELVE A ENTRENARSE EN EZEIZA: TERCERA PRÁCTICA Y PUERTAS ABIERTAS A LA PRENSA",
+      "dueAt": "2026-09-24T09:40:00.000Z",
+      "bufferPostId": "6ab4ee8a9058aff9a5dbc545",
+      "createdAt": "2026-09-24T09:34:02.596Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI0MDcwMDAwMCwiQ09MQVBJTlRPIFlBIEVTVMOBIEVOIFBJU1RBIEVOIEJBS8OaOiBBUlJBTkPDkyBVTiBGSU4gREUgU0VNQU5BIEFUw41QSUNPIERFIEYxIl0": {
       "account": "f1",
       "title": "COLAPINTO YA ESTÁ EN PISTA EN BAKÚ: ARRANCÓ UN FIN DE SEMANA ATÍPICO DE F1",
@@ -1789,7 +1796,7 @@
   },
   "nextAt": {
     "f1": "2026-09-24T09:30:00.000Z",
-    "main": "2026-09-24T09:25:00.000Z"
+    "main": "2026-09-24T09:45:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
