@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjb3BhIGFyZ2VudGluYSIsMTc5MDI0NDM2MDAwMCwiVsOJTEVaIEFQRUxBIFkgUElERSBGUkVOQVIgUkFDSU5H4oCTQk9DQSBIQVNUQSBRVUUgU0UgUkVTVUVMVkEgRUwgUkVDTEFNTyJd": {
+      "account": "main",
+      "title": "VÉLEZ APELA Y PIDE FRENAR RACING–BOCA HASTA QUE SE RESUELVA EL RECLAMO",
+      "dueAt": "2026-09-24T10:25:00.000Z",
+      "bufferPostId": "6ab4f850a3079861f480b00a",
+      "createdAt": "2026-09-24T10:15:44.217Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI0NDM2MDAwMCwiQ09MQVBJTlRPIEZVRSAxOMKwIEVOIExBIEZQMSBERSBCQUvDmjogUlVTU0VMTCBNQVJDw5MgRUwgUklUTU8gWSBBTFBJTkUgUVVFRMOTIEFUUsOBUyJd": {
+      "account": "f1",
+      "title": "COLAPINTO FUE 18° EN LA FP1 DE BAKÚ: RUSSELL MARCÓ EL RITMO Y ALPINE QUEDÓ ATRÁS",
+      "dueAt": "2026-09-24T10:20:00.000Z",
+      "bufferPostId": "6ab4f84fa3079861f480afe2",
+      "createdAt": "2026-09-24T10:15:43.800Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMjQ0MzYwMDAwLCJDTMOBU0lDTyBERSBSRVNFUlZBOiBJTkRFUEVORElFTlRFIERFRklFTkRFIExBIFBVTlRBIEhPWSBBTlRFIFJBQ0lORyJd": {
+      "account": "main",
+      "title": "CLÁSICO DE RESERVA: INDEPENDIENTE DEFIENDE LA PUNTA HOY ANTE RACING",
+      "dueAt": "2026-09-24T10:20:00.000Z",
+      "bufferPostId": "6ab4f8436396ba3b0ccf09ee",
+      "createdAt": "2026-09-24T10:15:32.025Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNDA3MDAwMDAsIkxBIFNFTEVDQ0nDk04gVlVFTFZFIEEgRU5UUkVOQVJTRSBFTiBFWkVJWkE6IFRFUkNFUkEgUFLDgUNUSUNBIFkgUFVFUlRBUyBBQklFUlRBUyBBIExBIFBSRU5TQSJd": {
       "account": "main",
       "title": "LA SELECCIÓN VUELVE A ENTRENARSE EN EZEIZA: TERCERA PRÁCTICA Y PUERTAS ABIERTAS A LA PRENSA",
@@ -1795,8 +1816,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-24T09:30:00.000Z",
-    "main": "2026-09-24T10:00:00.000Z"
+    "f1": "2026-09-24T10:25:00.000Z",
+    "main": "2026-09-24T10:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
