@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T11:26:06.920Z",
+  "updatedAt": "2026-09-24T11:52:12.909Z",
   "trends": [
     {
       "query": "moneda",
       "startedAt": "2026-09-24T10:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "lotería de santa fe",
