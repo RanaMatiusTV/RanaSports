@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T14:54:56.692Z",
+  "updatedAt": "2026-09-24T15:28:11.527Z",
   "trends": [
     {
-      "query": "dge",
-      "startedAt": "2026-09-24T14:20:00.000Z",
-      "volume": 20000
+      "query": "trabajo",
+      "startedAt": "2026-09-24T15:10:00.000Z",
+      "volume": 100
     },
     {
       "query": "propiedad",
@@ -41,7 +41,7 @@
     {
       "query": "club atlético river plate",
       "startedAt": "2026-09-24T09:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "ingreso",
