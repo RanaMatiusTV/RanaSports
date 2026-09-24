@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T03:25:49.012Z",
+  "updatedAt": "2026-09-24T03:52:32.587Z",
   "trends": [
     {
       "query": "mora bianchi",
@@ -46,7 +46,7 @@
     {
       "query": "canto 4",
       "startedAt": "2026-09-23T19:10:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "2027",
