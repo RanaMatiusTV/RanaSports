@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T17:24:54.407Z",
+  "updatedAt": "2026-09-24T17:51:08.009Z",
   "trends": [
     {
       "query": "fecha de cobro jubilados octubre 2026",
@@ -51,7 +51,7 @@
     {
       "query": "ingreso",
       "startedAt": "2026-09-24T08:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     }
   ]
 }
