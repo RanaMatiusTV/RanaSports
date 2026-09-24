@@ -147,7 +147,7 @@
  }
  function videoEmbedURL(url){
   if(!url||isXPost(url))return '';
-  return youtubeEmbedURL(url)||formula1EmbedURL(url)||safeURL(url);
+  return youtubeEmbedURL(url)||formula1EmbedURL(url);
  }
  function element(tag,className,text){const n=elementNode(tag);if(className)n.className=className;if(text!==undefined&&text!==null)n.textContent=text;return n;}
  function elementNode(tag){return document.createElement(tag);}
@@ -186,11 +186,21 @@
   img.src=url;img.alt='Captura relacionada con la noticia';img.loading='lazy';img.decoding='async';
   wrap.append(img);container.append(wrap);return true;
  }
+ function renderLinkEmbed(container,url){
+  const safe=safeURL(url);
+  if(!safe||container.querySelector('.video-embed,.x-embed,.image-embed,.external-embed-card'))return false;
+  const card=element('a','external-embed-card');
+  card.href=safe;card.target='_blank';card.rel='noopener noreferrer';
+  const strong=element('strong','','Contenido relacionado');
+  const small=element('span','','Abrir fuente actual ↗');
+  card.append(strong,small);container.append(card);return true;
+ }
  function renderEmbed(container,url){
-  if(container.querySelector('.video-embed,.x-embed,.image-embed'))return false;
+  if(container.querySelector('.video-embed,.x-embed,.image-embed,.external-embed-card'))return false;
   if(imageDataURL(url))return renderImageEmbed(container,url);
   if(isXPost(url))return renderXPost(container,url);
   if(videoEmbedURL(url))return renderVideo(container,url);
+  if(safeURL(url))return renderLinkEmbed(container,url);
   return false;
  }
  function renderSupplementalImage(container,url){
@@ -205,6 +215,8 @@
    .video-embed{position:relative;width:100%;aspect-ratio:16/9;margin:22px 0 8px;border-radius:10px;overflow:hidden;background:#000}
    .video-embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
    .embed-fallback{display:inline-block;margin:0 0 22px;font-size:.9rem}
+   .external-embed-card{display:flex;flex-direction:column;gap:5px;width:100%;margin:22px 0;padding:16px 18px;border:1px solid rgba(255,255,255,.14);border-radius:10px;background:#111820;color:#fff;text-decoration:none}
+   .external-embed-card strong{font-size:15px}.external-embed-card span{font-size:12px;opacity:.75}
    .x-embed{width:100%;max-width:600px;min-height:120px;margin:22px auto}
    .x-embed .twitter-tweet{margin-left:auto!important;margin-right:auto!important}
    .image-embed{width:min(100%,460px);margin:22px auto}
