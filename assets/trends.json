@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T13:27:52.381Z",
+  "updatedAt": "2026-09-24T13:53:55.599Z",
   "trends": [
     {
       "query": "propiedad",
@@ -11,7 +11,7 @@
     {
       "query": "juan manuel cerúndolo",
       "startedAt": "2026-09-24T13:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "japón - uruguay",
@@ -31,7 +31,7 @@
     {
       "query": "corea del sur - ecuador",
       "startedAt": "2026-09-24T10:10:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "club atlético river plate",
