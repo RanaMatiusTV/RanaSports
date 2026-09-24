@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T09:52:41.728Z",
+  "updatedAt": "2026-09-24T10:26:30.493Z",
   "trends": [
     {
       "query": "club atlético river plate",
       "startedAt": "2026-09-24T09:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "ingreso",
       "startedAt": "2026-09-24T08:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "mora bianchi",
