@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MDIxNzkwMDAwMCwiSU5Tw5NMSVRPIEVOIEJPTElWSUE6IFVOIEFSUVVFUk8gQVJHRU5USU5PIERFSsOTIFFVRSBMRSBISUNJRVJBTiBVTiBQRU5BTCBFTiBQUk9URVNUQSBZIFNVU1BFTkRJRVJPTiBBTCDDgVJCSVRSTyJd": {
+      "account": "main",
+      "title": "INSÓLITO EN BOLIVIA: UN ARQUERO ARGENTINO DEJÓ QUE LE HICIERAN UN PENAL EN PROTESTA Y SUSPENDIERON AL ÁRBITRO",
+      "dueAt": "2026-09-24T11:55:00.000Z",
+      "bufferPostId": "6ab50f47a4b44bcbaec45bd5",
+      "createdAt": "2026-09-24T11:53:43.719Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI0MDcwMDAwMCwiQ09MQVBJTlRPIEFSUkFOQ0EgRU4gQkFLw5o6IFVOIEZJTiBERSBTRU1BTkEgQVTDjVBJQ08gREUgRjEgQ09OIENBUlJFUkEgRUwgU8OBQkFETyJd": {
       "account": "f1",
       "title": "COLAPINTO ARRANCA EN BAKÚ: UN FIN DE SEMANA ATÍPICO DE F1 CON CARRERA EL SÁBADO",
@@ -1831,7 +1838,7 @@
   },
   "nextAt": {
     "f1": "2026-09-24T11:50:00.000Z",
-    "main": "2026-09-24T11:45:00.000Z"
+    "main": "2026-09-24T12:00:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
