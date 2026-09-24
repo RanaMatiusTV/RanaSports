@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJoYW5kYmFsbCIsMTc5MDIxNTUwMDAwMCwiVFJJVU5GQVpPIERFIExPUyBHTEFESUFET1JFUzogMTgtMTcgQSBCUkFTSUwgRU4gVU4gQ0zDgVNJQ08gUEFSQSBFTCBJTkZBUlRPIl0": {
+      "account": "main",
+      "title": "TRIUNFAZO DE LOS GLADIADORES: 18-17 A BRASIL EN UN CLÁSICO PARA EL INFARTO",
+      "dueAt": "2026-09-24T02:55:00.000Z",
+      "bufferPostId": "6ab48fad521044626fe1fca0",
+      "createdAt": "2026-09-24T02:49:17.989Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzYW50YSBmZSAyMDI2IiwxNzkwMjE1NTAwMDAwLCJBUkdFTlRJTkEgQ0VSUsOTIEVMIE1Jw4lSQ09MRVMgQ09OIDIwOSBNRURBTExBUzogNTQgT1JPUyBZIFNFR1VORE8gUFVFU1RPIEVOIFNBTlRBIEZFIDIwMjYiXQ": {
       "account": "main",
       "title": "ARGENTINA CERRÓ EL MIÉRCOLES CON 209 MEDALLAS: 54 OROS Y SEGUNDO PUESTO EN SANTA FE 2026",
@@ -1754,7 +1761,7 @@
   },
   "nextAt": {
     "f1": "2026-09-24T00:35:00.000Z",
-    "main": "2026-09-24T02:40:00.000Z"
+    "main": "2026-09-24T03:00:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
