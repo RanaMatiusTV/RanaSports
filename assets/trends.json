@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T15:51:48.356Z",
+  "updatedAt": "2026-09-25T16:28:18.719Z",
   "trends": [
+    {
+      "query": "gonzalez oro",
+      "startedAt": "2026-09-25T15:50:00.000Z",
+      "volume": 10000
+    },
     {
       "query": "avión",
       "startedAt": "2026-09-25T14:50:00.000Z",
@@ -19,11 +24,6 @@
       "volume": 2000
     },
     {
-      "query": "gp de azerbaiyán 2026",
-      "startedAt": "2026-09-25T13:00:00.000Z",
-      "volume": 5000
-    },
-    {
       "query": "francisco cerúndolo",
       "startedAt": "2026-09-25T12:20:00.000Z",
       "volume": 2000
@@ -36,7 +36,7 @@
     {
       "query": "brasil vs",
       "startedAt": "2026-09-25T10:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "clima hoy",
@@ -49,9 +49,9 @@
       "volume": 50000
     },
     {
-      "query": "trabajador doméstico",
-      "startedAt": "2026-09-25T08:50:00.000Z",
-      "volume": 1000
+      "query": "gran premio de azerbaiyán",
+      "startedAt": "2026-09-25T09:00:00.000Z",
+      "volume": 5000
     }
   ]
 }
