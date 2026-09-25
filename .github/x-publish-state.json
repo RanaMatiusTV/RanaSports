@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzYW50YSBmZSAyMDI2IiwxNzkwMzI3MTAwMDAwLCJBUkdFTlRJTkEgWUEgTExFR8OTIEEgMjQwIE1FREFMTEFTIFkgU0lHVUUgU0VHVU5EQSBFTiBTQU5UQSBGRSAyMDI2Il0": {
+      "account": "main",
+      "title": "ARGENTINA YA LLEGÓ A 240 MEDALLAS Y SIGUE SEGUNDA EN SANTA FE 2026",
+      "dueAt": "2026-09-25T09:20:00.000Z",
+      "bufferPostId": "6ab63c808c95968bb0337089",
+      "createdAt": "2026-09-25T09:18:56.269Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDMwNTgwMDAwMCwiQUxQSU5FIFNVTcOTIEEgREFOSUlMIEtWWUFUIFBBUkEgQVlVREFSIEEgQ09MQVBJTlRPIFkgR0FTTFkgREVTREUgRUwgU0lNVUxBRE9SIl0": {
       "account": "f1",
       "title": "ALPINE SUMÓ A DANIIL KVYAT PARA AYUDAR A COLAPINTO Y GASLY DESDE EL SIMULADOR",
@@ -2216,7 +2223,7 @@
   },
   "nextAt": {
     "f1": "2026-09-25T09:00:00.000Z",
-    "main": "2026-09-25T03:05:00.000Z"
+    "main": "2026-09-25T09:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
