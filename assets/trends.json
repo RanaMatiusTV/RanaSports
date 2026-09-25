@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T20:52:52.717Z",
+  "updatedAt": "2026-09-25T21:25:22.057Z",
   "trends": [
+    {
+      "query": "federico sturzenegger",
+      "startedAt": "2026-09-25T20:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "manchester city culpable",
       "startedAt": "2026-09-25T20:30:00.000Z",
@@ -16,12 +21,12 @@
     {
       "query": "mansión",
       "startedAt": "2026-09-25T19:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "camionero",
       "startedAt": "2026-09-25T19:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "malí - cabo verde",
@@ -47,11 +52,6 @@
       "query": "italia - bélgica",
       "startedAt": "2026-09-25T18:00:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "turquía - francia",
-      "startedAt": "2026-09-25T17:50:00.000Z",
-      "volume": 20000
     }
   ]
 }
