@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T07:52:29.077Z",
+  "updatedAt": "2026-09-25T08:28:00.129Z",
   "trends": [
+    {
+      "query": "estafa",
+      "startedAt": "2026-09-25T08:10:00.000Z",
+      "volume": 100
+    },
     {
       "query": "cleveland taylor swift",
       "startedAt": "2026-09-25T04:30:00.000Z",
@@ -45,11 +50,6 @@
     },
     {
       "query": "lionel scaloni",
-      "startedAt": "2026-09-24T22:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "miniserie",
       "startedAt": "2026-09-24T22:00:00.000Z",
       "volume": 2000
     }
