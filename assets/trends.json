@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T01:50:29.255Z",
+  "updatedAt": "2026-09-25T02:25:11.841Z",
   "trends": [
     {
       "query": "costa rica - curazao",
       "startedAt": "2026-09-25T01:30:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "joaquin levinton",
@@ -46,7 +46,7 @@
     {
       "query": "evento de el niño de 2026 2027",
       "startedAt": "2026-09-24T21:30:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "árbitro",
