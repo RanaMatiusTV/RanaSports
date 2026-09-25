@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDMyODYwMDAwMCwiQ09MQVBJTlRPIFNFIE1FVEnDkyBFTiBFTCBUT1AgMTAgREUgTEEgRlAzIEVOIEJBS8OaIFkgTExFR0EgRU4gQUxaQSBBIExBIENMQVNJRklDQUNJw5NOIl0": {
+      "account": "f1",
+      "title": "COLAPINTO SE METIÓ EN EL TOP 10 DE LA FP3 EN BAKÚ Y LLEGA EN ALZA A LA CLASIFICACIÓN",
+      "dueAt": "2026-09-25T10:50:00.000Z",
+      "bufferPostId": "6ab6512d607bee5b0330cc52",
+      "createdAt": "2026-09-25T10:47:09.363Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzYW50YSBmZSAyMDI2IiwxNzkwMzI3MTAwMDAwLCJBUkdFTlRJTkEgWUEgTExFR8OTIEEgMjQwIE1FREFMTEFTIFkgU0lHVUUgU0VHVU5EQSBFTiBTQU5UQSBGRSAyMDI2Il0": {
       "account": "main",
       "title": "ARGENTINA YA LLEGÓ A 240 MEDALLAS Y SIGUE SEGUNDA EN SANTA FE 2026",
@@ -2222,7 +2229,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-25T09:00:00.000Z",
+    "f1": "2026-09-25T10:55:00.000Z",
     "main": "2026-09-25T09:25:00.000Z"
   },
   "buffer": {
