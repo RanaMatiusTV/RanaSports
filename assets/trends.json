@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T10:52:45.121Z",
+  "updatedAt": "2026-09-25T11:25:46.334Z",
   "trends": [
     {
       "query": "brasil vs",
       "startedAt": "2026-09-25T10:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "clima hoy",
@@ -16,12 +16,17 @@
     {
       "query": "australia - brasil",
       "startedAt": "2026-09-25T09:10:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "gran premio de azerbaiyán",
       "startedAt": "2026-09-25T09:00:00.000Z",
-      "volume": 500
+      "volume": 1000
+    },
+    {
+      "query": "trabajador doméstico",
+      "startedAt": "2026-09-25T08:50:00.000Z",
+      "volume": 1000
     },
     {
       "query": "estafa",
@@ -47,11 +52,6 @@
       "query": "costa rica - curazao",
       "startedAt": "2026-09-25T01:30:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "joaquin levinton",
-      "startedAt": "2026-09-25T01:10:00.000Z",
-      "volume": 500
     }
   ]
 }
