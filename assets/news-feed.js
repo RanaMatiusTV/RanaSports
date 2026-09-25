@@ -6,7 +6,7 @@
  const script=document.querySelector('script[src*="assets/news-feed.js"]');
  const siteBase=new URL('../',script?.src||location.href);
  const CSV_URL='https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv';
- const CACHE_KEY='ranasports-news-csv-v105:'+siteBase.pathname;
+ const CACHE_KEY='ranasports-news-csv-v106:'+siteBase.pathname;
  const status=document.querySelector('#newsStatus');
  const searchInput=document.querySelector('#searchInput');
  let currentNews=[];
@@ -134,7 +134,6 @@
   for(const alt of alternates||[])push(alt);
   const direct=[...queue];
   for(const url of direct)push(proxiedImageURL(url));
-  push(new URL('assets/fallback-news.svg',siteBase).href);
   let index=0,busy=false;
   const next=()=>{
    while(index<queue.length){
@@ -275,12 +274,13 @@
   }).sort((a,b)=>b.date-a.date);
  }
  function appendArticlePhoto(item){
-  const primary=item.image||mediaFallbackImage(item.video)||new URL('assets/fallback-news.svg',siteBase).href;
+  const primary=item.image||mediaFallbackImage(item.video)||'';
+  if(!primary){queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));return;}
   const figure=element('figure','article-photo'),img=element('img','article-image');img.alt=item.title;img.width=800;img.height=450;img.decoding='async';img.referrerPolicy='no-referrer';
   const caption=item.photoCredit?element('figcaption','photo-credit','Foto: '+item.photoCredit):null;
   const syncCaption=()=>{if(!caption)return;const src=img.currentSrc||img.src||'';caption.hidden=/\/assets\/fallback-news\.svg(?:\?|$)/i.test(src);};
   img.addEventListener('load',syncCaption);
-  imageWithFallback(img,primary,[mediaFallbackImage(item.video)],()=>queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated'))));
+  imageWithFallback(img,primary,[mediaFallbackImage(item.video)],()=>{figure.remove();queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));});
   figure.append(img);if(caption)figure.append(caption);detail.append(figure);
  }
  function renderDetail(news){
@@ -303,7 +303,7 @@
   const query=normalize(searchInput?.value||'');
   const visibleNews=query?news.filter(item=>matchesSearch(item,query)):news.slice(0,300);
   visibleNews.forEach(item=>{const card=element('article','news-card');card.dataset.category=item.group;card.dataset.sport=item.category;const body=element('div','card-body');
-   {const primary=item.image||mediaFallbackImage(item.video)||new URL('assets/fallback-news.svg',siteBase).href;const visual=link(articleURL(item),'','card-visual news-image'),img=element('img');img.alt=item.title;img.width=800;img.height=450;img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';imageWithFallback(img,primary,[mediaFallbackImage(item.video)],()=>queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated'))));visual.append(img);card.append(visual);}
+   {const primary=item.image||mediaFallbackImage(item.video)||'';if(primary){const visual=link(articleURL(item),'','card-visual news-image'),img=element('img');img.alt=item.title;img.width=800;img.height=450;img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';imageWithFallback(img,primary,[mediaFallbackImage(item.video)],()=>{visual.remove();queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));});visual.append(img);card.append(visual);}else{queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));}}
    const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':item.category==='agenda'?'badge-agenda':'badge-site'),item.sport));const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);body.append(meta);const heading=element('h3');heading.append(link(articleURL(item),item.title));body.append(heading,element('p','news-excerpt',item.summary));const actions=element('div','hero-actions');actions.append(link(articleURL(item),'Leer →','read-more'));body.append(actions);card.append(body);fragment.append(card);});
   grid.replaceChildren(fragment);document.dispatchEvent(new Event('ranasports:news-updated'));
  }
