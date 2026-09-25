@@ -1,17 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T11:52:41.492Z",
+  "updatedAt": "2026-09-25T12:31:35.337Z",
   "trends": [
+    {
+      "query": "disney",
+      "startedAt": "2026-09-25T12:00:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "brasil vs",
       "startedAt": "2026-09-25T10:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "clima hoy",
       "startedAt": "2026-09-25T09:40:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "selección de fútbol de brasil",
+      "startedAt": "2026-09-25T09:40:00.000Z",
+      "volume": 200
     },
     {
       "query": "australia - brasil",
@@ -31,7 +41,7 @@
     {
       "query": "estafa",
       "startedAt": "2026-09-25T08:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "cleveland taylor swift",
@@ -42,16 +52,6 @@
       "query": "patient zero taylor swift",
       "startedAt": "2026-09-25T04:00:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "gualaceo - independiente del valle",
-      "startedAt": "2026-09-25T02:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "costa rica - curazao",
-      "startedAt": "2026-09-25T01:30:00.000Z",
-      "volume": 5000
     }
   ]
 }
