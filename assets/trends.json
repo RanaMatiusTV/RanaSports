@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T16:28:18.719Z",
+  "updatedAt": "2026-09-25T16:53:22.533Z",
   "trends": [
     {
       "query": "gonzalez oro",
       "startedAt": "2026-09-25T15:50:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "avión",
       "startedAt": "2026-09-25T14:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "peter thiel",
@@ -34,9 +34,14 @@
       "volume": 2000
     },
     {
+      "query": "brasil",
+      "startedAt": "2026-09-25T10:50:00.000Z",
+      "volume": 2000
+    },
+    {
       "query": "brasil vs",
       "startedAt": "2026-09-25T10:10:00.000Z",
-      "volume": 5000
+      "volume": 2000
     },
     {
       "query": "clima hoy",
@@ -47,11 +52,6 @@
       "query": "australia - brasil",
       "startedAt": "2026-09-25T09:10:00.000Z",
       "volume": 50000
-    },
-    {
-      "query": "gran premio de azerbaiyán",
-      "startedAt": "2026-09-25T09:00:00.000Z",
-      "volume": 5000
     }
   ]
 }
