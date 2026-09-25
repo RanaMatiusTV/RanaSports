@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T21:25:22.057Z",
+  "updatedAt": "2026-09-25T21:52:28.317Z",
   "trends": [
+    {
+      "query": "marley & mirko",
+      "startedAt": "2026-09-25T21:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "federico sturzenegger",
       "startedAt": "2026-09-25T20:50:00.000Z",
@@ -11,12 +16,12 @@
     {
       "query": "manchester city culpable",
       "startedAt": "2026-09-25T20:30:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "mirtha legrand",
       "startedAt": "2026-09-25T20:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "mansión",
@@ -47,11 +52,6 @@
       "query": "egipto - angola",
       "startedAt": "2026-09-25T18:10:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "italia - bélgica",
-      "startedAt": "2026-09-25T18:00:00.000Z",
-      "volume": 5000
     }
   ]
 }
