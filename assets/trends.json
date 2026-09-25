@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-24T23:49:55.070Z",
+  "updatedAt": "2026-09-25T00:33:43.278Z",
   "trends": [
+    {
+      "query": "pronóstico del tiempo",
+      "startedAt": "2026-09-24T23:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "camión",
       "startedAt": "2026-09-24T22:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "lionel scaloni",
@@ -47,11 +52,6 @@
       "query": "argentina vs benin",
       "startedAt": "2026-09-24T21:00:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "arnaud denis",
-      "startedAt": "2026-09-24T20:50:00.000Z",
-      "volume": 10000
     }
   ]
 }
