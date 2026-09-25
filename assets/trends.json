@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T02:52:12.203Z",
+  "updatedAt": "2026-09-25T03:24:51.097Z",
   "trends": [
     {
       "query": "gualaceo - independiente del valle",
       "startedAt": "2026-09-25T02:30:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "costa rica - curazao",
