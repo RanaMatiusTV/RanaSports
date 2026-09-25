@@ -1,5 +1,5 @@
 (() => {
-  const CACHE_KEY = 'ranasports-real-images-v6';
+  const CACHE_KEY = 'ranasports-real-images-v7';
   const cache = () => { try { return JSON.parse(localStorage.getItem(CACHE_KEY) || '{}'); } catch { return {}; } };
   const save = value => { try { localStorage.setItem(CACHE_KEY, JSON.stringify(value)); } catch {} };
   const clean = value => (value || '').replace(/[^\p{L}\p{N}\s-]/gu, ' ').replace(/\s+/g, ' ').trim();
@@ -123,16 +123,9 @@
   async function findCandidates(title) {
     const key = clean(title), cached = cache();
     if (Array.isArray(cached[key]) && cached[key].length) return cached[key];
+    // Solo candidatos vinculados a ESTA noticia (imagen candidata, YouTube o X).
+    // No usar búsquedas genéricas por título: podían introducir otro atleta/deporte.
     const candidates=await mediaCandidatesForTitle(title);
-    let url = await commons(key);
-    if (url) candidates.push(url);
-    if (!url) {
-      const words = key.split(/\s+/).filter(w => w.length > 3).slice(0, 8).join(' ');
-      if (words !== key) {
-        url = await commons(words);
-        if(url)candidates.push(url);
-      }
-    }
     const unique=[...new Set(candidates.filter(Boolean))];
     cached[key]=unique;save(cached);
     return unique;
