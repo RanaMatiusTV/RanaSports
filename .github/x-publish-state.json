@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjYW5vdGFqZSIsMTc5MDM0MTUwMDAwMCwiT1JPIFBBUkEgQVJHRU5USU5BOiBCUkVOREEgUk9KQVMgWSBNQUdEQUxFTkEgR0FSUk8gR0FOQVJPTiBFTCBLMiA1MDAgRU4gU0FOVEEgRkUgMjAyNiJd": {
+      "account": "main",
+      "title": "ORO PARA ARGENTINA: BRENDA ROJAS Y MAGDALENA GARRO GANARON EL K2 500 EN SANTA FE 2026",
+      "dueAt": "2026-09-25T16:40:00.000Z",
+      "bufferPostId": "6ab6a3518fd8a73566e3782a",
+      "createdAt": "2026-09-25T16:37:37.377Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDM0NjM2MDAwMCwiQ09MQVBJTlRPLCBBVVRPQ1LDjVRJQ08gUEVTRSBBTCBUT1AgMTA6IOKAnFFVRURBIE1VQ0hPIFBPUiBUUkFCQUpBUuKAnSJd": {
       "account": "f1",
       "title": "COLAPINTO, AUTOCRÍTICO PESE AL TOP 10: “QUEDA MUCHO POR TRABAJAR”",
@@ -2307,7 +2314,7 @@
   },
   "nextAt": {
     "f1": "2026-09-25T15:15:00.000Z",
-    "main": "2026-09-25T12:45:00.000Z"
+    "main": "2026-09-25T16:45:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
