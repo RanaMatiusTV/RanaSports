@@ -1,5 +1,5 @@
 (() => {
-  const CACHE_KEY = 'ranasports-real-images-v5';
+  const CACHE_KEY = 'ranasports-real-images-v6';
   const cache = () => { try { return JSON.parse(localStorage.getItem(CACHE_KEY) || '{}'); } catch { return {}; } };
   const save = value => { try { localStorage.setItem(CACHE_KEY, JSON.stringify(value)); } catch {} };
   const clean = value => (value || '').replace(/[^\p{L}\p{N}\s-]/gu, ' ').replace(/\s+/g, ' ').trim();
@@ -94,9 +94,9 @@
     const out=[];
     for(const raw of list||[]){
       if(!raw)continue;
+      out.push(raw);
       const p=proxied(raw);
       if(p)out.push(p);
-      out.push(raw);
     }
     return [...new Set(out)];
   }
@@ -146,13 +146,21 @@
     img.addEventListener('error',tryNext);
     tryNext();
   }
-  function imageIsUsable(img) { return !!img && !fallbackImage(img.currentSrc || img.src); }
+  function imageState(img) {
+    if(!img)return 'missing';
+    const src=img.currentSrc||img.src||'';
+    if(fallbackImage(src))return 'fallback';
+    if(!img.complete)return 'pending';
+    return img.naturalWidth>1?'loaded':'bad';
+  }
   async function hydrateCard(card) {
     const existing = card.querySelector('.news-image img');
-    if (imageIsUsable(existing)) return;
-    if (existing?.closest('.news-image')) existing.closest('.news-image').remove();
+    const state=imageState(existing);
+    if(state==='loaded'||state==='pending') return;
     const title = card.querySelector('h3')?.textContent?.trim(); if (!title) return;
-    const candidates = stabilizeCandidates(await findCandidates(title)); if (!candidates.length) return;
+    const candidates = stabilizeCandidates(await findCandidates(title));
+    if (!candidates.length) return;
+    if (state!=='missing'&&existing?.closest('.news-image')) existing.closest('.news-image').remove();
     if (card.querySelector('.news-image img')) return;
     const link = document.createElement('a'); link.className = 'card-visual news-image'; link.href = card.querySelector('h3 a')?.href || '#';
     const img = document.createElement('img'); img.alt = title; img.width = 800; img.height = 450; img.loading = 'lazy'; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
@@ -161,11 +169,14 @@
   }
   async function hydrateArticle(root) {
     const existing = root.querySelector('.article-photo img');
-    if (imageIsUsable(existing)) return;
-    if (existing?.closest('.article-photo')) existing.closest('.article-photo').remove();
+    const state=imageState(existing);
+    if(state==='loaded'||state==='pending') return;
     const title = root.querySelector('h1')?.textContent?.trim(); if (!title) return;
-    const candidates = stabilizeCandidates(await findCandidates(title)); if (!candidates.length) return;
-    if (root.querySelector('.article-photo img')) return;
+    const candidates = stabilizeCandidates(await findCandidates(title));
+    if (!candidates.length) return;
+    if (state!=='missing'&&existing?.closest('.article-photo')) existing.closest('.article-photo').remove();
+    if (root.querySelector('.article-photo img')&&!fallbackImage(root.querySelector('.article-photo img')?.currentSrc||root.querySelector('.article-photo img')?.src)) return;
+    root.querySelector('.article-photo')?.remove();
     const figure = document.createElement('figure'); figure.className = 'article-photo';
     const img = document.createElement('img'); img.className = 'article-image'; img.alt = title; img.width = 800; img.height = 450; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
     mountCandidateImage(figure,img,candidates,()=>figure.remove());
