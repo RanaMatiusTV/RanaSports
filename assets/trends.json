@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T12:55:46.040Z",
+  "updatedAt": "2026-09-25T13:27:40.104Z",
   "trends": [
+    {
+      "query": "gp de azerbaiyán 2026",
+      "startedAt": "2026-09-25T13:00:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "francisco cerúndolo",
       "startedAt": "2026-09-25T12:20:00.000Z",
@@ -27,11 +32,6 @@
       "query": "australia - brasil",
       "startedAt": "2026-09-25T09:10:00.000Z",
       "volume": 20000
-    },
-    {
-      "query": "gran premio de azerbaiyán",
-      "startedAt": "2026-09-25T09:00:00.000Z",
-      "volume": 1000
     },
     {
       "query": "trabajador doméstico",
