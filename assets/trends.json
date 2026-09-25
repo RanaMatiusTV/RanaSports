@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T12:31:35.337Z",
+  "updatedAt": "2026-09-25T12:55:46.040Z",
   "trends": [
+    {
+      "query": "francisco cerúndolo",
+      "startedAt": "2026-09-25T12:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "disney",
       "startedAt": "2026-09-25T12:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "brasil vs",
@@ -17,11 +22,6 @@
       "query": "clima hoy",
       "startedAt": "2026-09-25T09:40:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "selección de fútbol de brasil",
-      "startedAt": "2026-09-25T09:40:00.000Z",
-      "volume": 200
     },
     {
       "query": "australia - brasil",
