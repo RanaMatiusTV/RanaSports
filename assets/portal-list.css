@@ -118,6 +118,13 @@ html[data-theme="light"] #newsGrid h3 a{color:#171b21!important}
  #newsGrid.single-featured .more-story:nth-of-type(n+4) .card-body{position:relative!important;inset:auto!important;padding:11px 1px 0!important}
  #newsGrid.single-featured .more-story:nth-of-type(n+4) h3{font-size:1.16rem!important;line-height:1.16!important}
 
+
+ /* Masonry real para Últimas: evita huecos cuando una tarjeta no tiene imagen o tiene otra altura. */
+ #newsGrid.masonry-latest{grid-auto-flow:row dense!important;grid-auto-rows:8px!important}
+ #newsGrid.single-featured.masonry-latest .more-story:nth-of-type(n+4),
+ #newsGrid.no-featured.masonry-latest .more-story{align-self:start!important}
+ #newsGrid.no-featured.masonry-latest #moreNewsTitle{grid-row:auto / span 2!important;align-self:start!important}
+
  /* Si no hay destacada (búsqueda o filtro), usa una grilla limpia sin hero. */
  #newsGrid.no-featured{grid-template-columns:repeat(3,minmax(0,1fr))!important;grid-template-rows:auto!important}
  #newsGrid.no-featured #moreNewsTitle{grid-column:1 / -1!important;grid-row:auto!important;margin:0 0 4px!important}
