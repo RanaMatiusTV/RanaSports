@@ -83,6 +83,23 @@
       return photo?.url||'';
     }catch{return '';}
   }
+  function proxied(url){
+    try{
+      const u=new URL(url);
+      if(u.hostname==='images.weserv.nl')return u.href;
+      return 'https://images.weserv.nl/?url='+encodeURIComponent(u.href)+'&w=1200&h=675&fit=cover&output=webp&q=82';
+    }catch{return '';}
+  }
+  function stabilizeCandidates(list){
+    const out=[];
+    for(const raw of list||[]){
+      if(!raw)continue;
+      const p=proxied(raw);
+      if(p)out.push(p);
+      out.push(raw);
+    }
+    return [...new Set(out)];
+  }
   async function mediaCandidatesForTitle(title){
     const {rows,headers}=await sheetRows();
     const ti=headers.indexOf('título'),vi=headers.indexOf('url video'),ni=headers.indexOf('url x respaldo'),qi=headers.indexOf('url imagen candidata');
@@ -135,7 +152,7 @@
     if (imageIsUsable(existing)) return;
     if (existing?.closest('.news-image')) existing.closest('.news-image').remove();
     const title = card.querySelector('h3')?.textContent?.trim(); if (!title) return;
-    const candidates = await findCandidates(title); if (!candidates.length) return;
+    const candidates = stabilizeCandidates(await findCandidates(title)); if (!candidates.length) return;
     if (card.querySelector('.news-image img')) return;
     const link = document.createElement('a'); link.className = 'card-visual news-image'; link.href = card.querySelector('h3 a')?.href || '#';
     const img = document.createElement('img'); img.alt = title; img.width = 800; img.height = 450; img.loading = 'lazy'; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
@@ -147,7 +164,7 @@
     if (imageIsUsable(existing)) return;
     if (existing?.closest('.article-photo')) existing.closest('.article-photo').remove();
     const title = root.querySelector('h1')?.textContent?.trim(); if (!title) return;
-    const candidates = await findCandidates(title); if (!candidates.length) return;
+    const candidates = stabilizeCandidates(await findCandidates(title)); if (!candidates.length) return;
     if (root.querySelector('.article-photo img')) return;
     const figure = document.createElement('figure'); figure.className = 'article-photo';
     const img = document.createElement('img'); img.className = 'article-image'; img.alt = title; img.width = 800; img.height = 450; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
