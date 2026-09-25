@@ -8,6 +8,35 @@ let liveModule=document.querySelector('#en-vivo');
 if(!liveModule){liveModule=document.createElement('section');liveModule.id='en-vivo';liveModule.className='dashboard-module live-module';}
 const standingsModule=document.querySelector('#posiciones');
 const moreTitle=document.querySelector('#moreNewsTitle');
+let masonryFrame=0;
+function clearLatestMasonry(){
+ if(!newsGrid)return;
+ newsGrid.classList.remove('masonry-latest');
+ cards.forEach(card=>card.style.removeProperty('grid-row-end'));
+}
+function layoutLatestMasonry(){
+ if(!newsGrid)return;
+ const desktop=matchMedia('(min-width:1050px)').matches;
+ const liveOnly=location.hash==='#en-vivo';
+ if(!desktop||liveOnly){clearLatestMasonry();return;}
+ const allLatest=[...newsGrid.querySelectorAll('.more-story:not([hidden])')];
+ const targets=newsGrid.classList.contains('single-featured')?allLatest.slice(2):allLatest;
+ if(!targets.length){clearLatestMasonry();return;}
+ newsGrid.classList.add('masonry-latest');
+ allLatest.forEach(card=>card.style.removeProperty('grid-row-end'));
+ const styles=getComputedStyle(newsGrid);
+ const rowHeight=parseFloat(styles.gridAutoRows)||8;
+ const gap=parseFloat(styles.rowGap)||14;
+ targets.forEach(card=>{
+  const height=card.getBoundingClientRect().height;
+  const span=Math.max(1,Math.ceil((height+gap)/(rowHeight+gap)));
+  card.style.setProperty('grid-row-end',`span ${span}`,'important');
+ });
+}
+function scheduleLatestMasonry(){
+ cancelAnimationFrame(masonryFrame);
+ masonryFrame=requestAnimationFrame(()=>requestAnimationFrame(layoutLatestMasonry));
+}
 function layoutNews() {
  if(!newsGrid)return;
  const liveOnly=location.hash==='#en-vivo';
@@ -41,6 +70,7 @@ function layoutNews() {
  moreTitle.hidden=false;moreTitle.textContent='ÚLTIMAS NOTICIAS';
  const modules=[standingsModule].filter(Boolean);
  newsGrid.append(...featured,...modules,moreTitle,...latest,...cards.filter(card=>card.hidden));
+ scheduleLatestMasonry();
 }
 const publishedAt = card => Date.parse(card.querySelector('time')?.dateTime || '') || 0;
 cards.sort((a, b) => publishedAt(b) - publishedAt(a));
@@ -157,6 +187,10 @@ document.addEventListener('ranasports:categories',event=>{
 document.addEventListener('ranasports:trends',apply);
 search?.addEventListener('input', apply);
 window.addEventListener('hashchange', applyHashFilter);
+window.addEventListener('resize', scheduleLatestMasonry);
+if(newsGrid)new MutationObserver(mutations=>{
+ if(mutations.some(m=>m.type==='childList'))scheduleLatestMasonry();
+}).observe(newsGrid,{childList:true,subtree:true});
 applyHashFilter();
 document.addEventListener('ranasports:news-updated', () => {
  cards = [...document.querySelectorAll('#newsGrid .news-card')];
