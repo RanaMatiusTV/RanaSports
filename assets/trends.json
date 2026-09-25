@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T22:52:21.730Z",
+  "updatedAt": "2026-09-25T23:23:21.753Z",
   "trends": [
     {
       "query": "marley & mirko",
@@ -26,7 +26,7 @@
     {
       "query": "mansión",
       "startedAt": "2026-09-25T19:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "argentina sub 20",
