@@ -1,22 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T09:52:43.637Z",
+  "updatedAt": "2026-09-25T10:26:31.566Z",
   "trends": [
+    {
+      "query": "brasil vs",
+      "startedAt": "2026-09-25T10:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "clima hoy",
+      "startedAt": "2026-09-25T09:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "australia - brasil",
       "startedAt": "2026-09-25T09:10:00.000Z",
-      "volume": 2000
+      "volume": 10000
     },
     {
       "query": "gran premio de azerbaiyán",
       "startedAt": "2026-09-25T09:00:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "estafa",
       "startedAt": "2026-09-25T08:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "cleveland taylor swift",
@@ -42,16 +52,6 @@
       "query": "joaquin levinton",
       "startedAt": "2026-09-25T01:10:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "haití - trinidad y tobago",
-      "startedAt": "2026-09-25T00:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "pronóstico del tiempo",
-      "startedAt": "2026-09-24T23:50:00.000Z",
-      "volume": 2000
     }
   ]
 }
