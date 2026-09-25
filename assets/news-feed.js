@@ -72,9 +72,7 @@
  function imageURL(value){
   const url=safeURL(value);if(!url)return '';
   if(isInstagramPost(url))return '';
-  const direct=isXPost(url)?xPostToDirectImage(url):url;
-  if(!direct)return '';
-  return proxiedImageURL(direct)||direct;
+  return isXPost(url)?xPostToDirectImage(url):url;
  }
  function proxiedImageURL(url){
   try{
@@ -114,24 +112,39 @@
   }catch{}
   return '';
  }
- function imageWithFallback(img,primary,onFail){
-  let stage=0,busy=false;
-  img.addEventListener('error',async()=>{
-   if(busy)return;busy=true;
-   try{
-    if(stage===0){
-     stage=1;
-     const resolved=await commonsResolvedImage(primary);
-     if(resolved&&resolved!==img.src){img.src=resolved;return;}
-    }
-    if(stage<=1){
-     stage=2;
-     const proxy=proxiedImageURL(img.currentSrc||img.src||primary);
-     if(proxy&&proxy!==img.src){img.src=proxy;return;}
-    }
-    stage=3;onFail?.();
-   }finally{busy=false;}
-  });
+ function mediaFallbackImage(url){
+  if(!url)return '';
+  try{
+   const u=new URL(url);
+   let id='';
+   if(u.hostname==='youtu.be')id=u.pathname.split('/').filter(Boolean)[0]||'';
+   else if(/(^|\.)youtube\.com$/.test(u.hostname)){
+    if(u.pathname==='/watch')id=u.searchParams.get('v')||'';
+    else{const p=u.pathname.split('/').filter(Boolean);if(['shorts','embed','live'].includes(p[0]))id=p[1]||'';}
+   }
+   if(id)return 'https://i.ytimg.com/vi/'+id+'/hqdefault.jpg';
+   if(isXPost(url))return xPostToDirectImage(url);
+  }catch{}
+  return '';
+ }
+ function imageWithFallback(img,primary,alternates=[],onFail){
+  const queue=[];
+  const push=url=>{if(url&&!queue.includes(url))queue.push(url);};
+  push(primary);
+  for(const alt of alternates||[])push(alt);
+  const direct=[...queue];
+  for(const url of direct)push(proxiedImageURL(url));
+  push(new URL('assets/fallback-news.svg',siteBase).href);
+  let index=0,busy=false;
+  const next=()=>{
+   while(index<queue.length){
+    const url=queue[index++];
+    if(url&&url!==img.currentSrc&&url!==img.src){img.src=url;return true;}
+   }
+   onFail?.();return false;
+  };
+  img.addEventListener('error',()=>{if(busy)return;busy=true;next();busy=false;});
+  next();
  }
  function youtubeEmbedURL(url){
   if(!url)return '';
@@ -263,7 +276,7 @@
  }
  function appendArticlePhoto(item){
   if(!item.image)return;
-  const figure=element('figure','article-photo'),img=element('img','article-image');img.src=item.image;img.alt=item.title;img.width=800;img.height=450;img.decoding='async';img.referrerPolicy='no-referrer';imageWithFallback(img,item.image,()=>{figure.remove();queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));});figure.append(img);if(item.photoCredit)figure.append(element('figcaption','photo-credit','Foto: '+item.photoCredit));detail.append(figure);
+  const figure=element('figure','article-photo'),img=element('img','article-image');img.alt=item.title;img.width=800;img.height=450;img.decoding='async';img.referrerPolicy='no-referrer';imageWithFallback(img,item.image,[mediaFallbackImage(item.video)],()=>queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated'))));figure.append(img);if(item.photoCredit)figure.append(element('figcaption','photo-credit','Foto: '+item.photoCredit));detail.append(figure);
  }
  function renderDetail(news){
   const requested=new URL(location.href).searchParams.get('n');const item=news.find(x=>new URL(articleURL(x)).searchParams.get('n')===requested);detail.replaceChildren();
@@ -285,7 +298,7 @@
   const query=normalize(searchInput?.value||'');
   const visibleNews=query?news.filter(item=>matchesSearch(item,query)):news.slice(0,300);
   visibleNews.forEach(item=>{const card=element('article','news-card');card.dataset.category=item.group;card.dataset.sport=item.category;const body=element('div','card-body');
-   if(item.image){const visual=link(articleURL(item),'','card-visual news-image'),img=element('img');img.src=item.image;img.alt=item.title;img.width=800;img.height=450;img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';imageWithFallback(img,item.image,()=>{visual.remove();queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));});visual.append(img);card.append(visual);}
+   if(item.image){const visual=link(articleURL(item),'','card-visual news-image'),img=element('img');img.alt=item.title;img.width=800;img.height=450;img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';imageWithFallback(img,item.image,[mediaFallbackImage(item.video)],()=>queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated'))));visual.append(img);card.append(visual);}
    const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':item.category==='agenda'?'badge-agenda':'badge-site'),item.sport));const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);body.append(meta);const heading=element('h3');heading.append(link(articleURL(item),item.title));body.append(heading,element('p','news-excerpt',item.summary));const actions=element('div','hero-actions');actions.append(link(articleURL(item),'Leer →','read-more'));body.append(actions);card.append(body);fragment.append(card);});
   grid.replaceChildren(fragment);document.dispatchEvent(new Event('ranasports:news-updated'));
  }
