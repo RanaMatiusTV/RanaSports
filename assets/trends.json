@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T20:25:03.891Z",
+  "updatedAt": "2026-09-25T20:52:52.717Z",
   "trends": [
+    {
+      "query": "manchester city culpable",
+      "startedAt": "2026-09-25T20:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "mirtha legrand",
+      "startedAt": "2026-09-25T20:20:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "mansión",
       "startedAt": "2026-09-25T19:50:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "camionero",
@@ -42,16 +52,6 @@
       "query": "turquía - francia",
       "startedAt": "2026-09-25T17:50:00.000Z",
       "volume": 20000
-    },
-    {
-      "query": "ciclogénesis",
-      "startedAt": "2026-09-25T17:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "rodrigo de paul",
-      "startedAt": "2026-09-25T17:00:00.000Z",
-      "volume": 5000
     }
   ]
 }
