@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T08:53:18.405Z",
+  "updatedAt": "2026-09-25T09:27:17.404Z",
   "trends": [
+    {
+      "query": "australia - brasil",
+      "startedAt": "2026-09-25T09:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "gran premio de azerbaiyán",
+      "startedAt": "2026-09-25T09:00:00.000Z",
+      "volume": 100
+    },
     {
       "query": "estafa",
       "startedAt": "2026-09-25T08:10:00.000Z",
@@ -41,16 +51,6 @@
     {
       "query": "pronóstico del tiempo",
       "startedAt": "2026-09-24T23:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "camión",
-      "startedAt": "2026-09-24T22:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "lionel scaloni",
-      "startedAt": "2026-09-24T22:00:00.000Z",
       "volume": 2000
     }
   ]
