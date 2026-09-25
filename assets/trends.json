@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T19:51:25.105Z",
+  "updatedAt": "2026-09-25T20:25:03.891Z",
   "trends": [
+    {
+      "query": "mansión",
+      "startedAt": "2026-09-25T19:50:00.000Z",
+      "volume": 500
+    },
     {
       "query": "camionero",
       "startedAt": "2026-09-25T19:20:00.000Z",
@@ -11,17 +16,17 @@
     {
       "query": "malí - cabo verde",
       "startedAt": "2026-09-25T18:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "marruecos - gabón",
       "startedAt": "2026-09-25T18:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "argentina vs paraguay",
       "startedAt": "2026-09-25T18:10:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "egipto - angola",
@@ -31,7 +36,7 @@
     {
       "query": "italia - bélgica",
       "startedAt": "2026-09-25T18:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "turquía - francia",
@@ -41,17 +46,12 @@
     {
       "query": "ciclogénesis",
       "startedAt": "2026-09-25T17:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "rodrigo de paul",
       "startedAt": "2026-09-25T17:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "negro gonzález oro",
-      "startedAt": "2026-09-25T16:50:00.000Z",
-      "volume": 50000
+      "volume": 5000
     }
   ]
 }
