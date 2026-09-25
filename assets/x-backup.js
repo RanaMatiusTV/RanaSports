@@ -33,11 +33,10 @@
   const section=document.createElement('section');section.className='x-backup-block';
   const title=document.createElement('h3');title.textContent='PUBLICACIÓN EN X';title.style.margin='24px 0 10px';
   const wrap=document.createElement('div');wrap.className='x-embed';wrap.dataset.tweetId=id;
-  const fallback=document.createElement('a');fallback.href=url;fallback.target='_blank';fallback.rel='noopener noreferrer';fallback.className='embed-fallback';fallback.textContent='Ver publicación en X ↗';
-  section.append(title,wrap,fallback);body.append(section);
+  section.append(title,wrap);body.append(section);
   await ensureWidgets();
-  if(!window.twttr?.widgets?.createTweet)return;
-  try{const rendered=await window.twttr.widgets.createTweet(id,wrap,{theme:'dark',dnt:true,align:'center'});if(rendered)fallback.hidden=true;}catch{}
+  if(!window.twttr?.widgets?.createTweet){section.remove();return;}
+  try{const rendered=await window.twttr.widgets.createTweet(id,wrap,{theme:'dark',dnt:true,align:'center'});if(!rendered)section.remove();}catch{section.remove();}
  }
  async function hydrate(){
   const h1=document.querySelector('#newsDetail h1');if(!h1)return false;
