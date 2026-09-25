@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T18:27:42.014Z",
+  "updatedAt": "2026-09-25T18:53:37.290Z",
   "trends": [
     {
       "query": "argentina vs paraguay",
@@ -11,12 +11,12 @@
     {
       "query": "egipto - angola",
       "startedAt": "2026-09-25T18:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "italia - bélgica",
       "startedAt": "2026-09-25T18:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "turquía - francia",
@@ -26,7 +26,7 @@
     {
       "query": "ciclogénesis",
       "startedAt": "2026-09-25T17:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "rodrigo de paul",
