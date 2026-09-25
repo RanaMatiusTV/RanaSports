@@ -5,8 +5,12 @@
  if(!grid&&!detail&&!document.querySelector('.dynamic-nav'))return;
  const script=document.querySelector('script[src*="assets/news-feed.js"]');
  const siteBase=new URL('../',script?.src||location.href);
- const CSV_URL='https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv';
- const CACHE_KEY='ranasports-news-csv-v106:'+siteBase.pathname;
+ const CSV_URLS=[
+  'https://docs.google.com/spreadsheets/d/12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4/gviz/tq?tqx=out:csv&sheet=Noticias',
+  'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?gid=663081286&single=true&output=csv',
+  'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv'
+ ];
+ const CACHE_KEY='ranasports-news-csv-v107:'+siteBase.pathname;
  const status=document.querySelector('#newsStatus');
  const searchInput=document.querySelector('#searchInput');
  let currentNews=[];
@@ -324,9 +328,21 @@
   if(busy)return;busy=true;if(status){status.hidden=false;status.textContent=snapshot?'Actualizando noticias…':'Cargando noticias…';}
   const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),15000);
   try{
-   const response=await fetch(CSV_URL+(CSV_URL.includes('?')?'&':'?')+'_='+Date.now(),{signal:controller.signal,cache:'no-store',credentials:'omit'});
-   if(!response.ok)throw new Error('CSV no disponible');
-   const text=await response.text(),fresh=readNews(text);
+   const candidates=[];
+   for(const baseURL of CSV_URLS){
+    try{
+     const response=await fetch(baseURL+(baseURL.includes('?')?'&':'?')+'_='+Date.now(),{signal:controller.signal,cache:'no-store',credentials:'omit'});
+     if(!response.ok)continue;
+     const text=await response.text();
+     const news=readNews(text);
+     if(!news.length)continue;
+     const max=news.reduce((value,item)=>Math.max(value,item.date||0),0);
+     candidates.push({text,news,max});
+    }catch{}
+   }
+   if(!candidates.length)throw new Error('CSV no disponible');
+   candidates.sort((a,b)=>b.max-a.max||b.news.length-a.news.length);
+   const {text,news:fresh}=candidates[0];
    const protectedFeed=protectAgainstFeedRegression(fresh,lastGoodNews);
    const news=protectedFeed.news;
    render(news);lastGoodNews=news;snapshot=true;
@@ -337,5 +353,5 @@
   finally{clearTimeout(timeout);busy=false;}
  }
  searchInput?.addEventListener('input',()=>{if(currentNews.length)render(currentNews);});
- refresh();window.addEventListener('online',refresh);setInterval(()=>{if(document.visibilityState==='visible')refresh();},5*60*1000);
+ refresh();window.addEventListener('online',refresh);setInterval(()=>{if(document.visibilityState==='visible')refresh();},60*1000);
 })();
