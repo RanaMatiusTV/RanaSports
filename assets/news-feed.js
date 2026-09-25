@@ -71,9 +71,10 @@
  }
  function imageURL(value){
   const url=safeURL(value);if(!url)return '';
-  if(isXPost(url))return xPostToDirectImage(url);
   if(isInstagramPost(url))return '';
-  return url;
+  const direct=isXPost(url)?xPostToDirectImage(url):url;
+  if(!direct)return '';
+  return proxiedImageURL(direct)||direct;
  }
  function proxiedImageURL(url){
   try{
