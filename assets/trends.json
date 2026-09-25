@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T00:54:19.749Z",
+  "updatedAt": "2026-09-25T01:24:23.006Z",
   "trends": [
+    {
+      "query": "joaquin levinton",
+      "startedAt": "2026-09-25T01:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "haití - trinidad y tobago",
+      "startedAt": "2026-09-25T00:10:00.000Z",
+      "volume": 500
+    },
     {
       "query": "pronóstico del tiempo",
       "startedAt": "2026-09-24T23:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "camión",
@@ -42,16 +52,6 @@
       "query": "o'higgins - santa cruz",
       "startedAt": "2026-09-24T21:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "erling haaland",
-      "startedAt": "2026-09-24T21:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "argentina vs benin",
-      "startedAt": "2026-09-24T21:00:00.000Z",
-      "volume": 1000
     }
   ]
 }
