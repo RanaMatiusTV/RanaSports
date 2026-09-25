@@ -308,11 +308,31 @@
   grid.replaceChildren(fragment);document.dispatchEvent(new Event('ranasports:news-updated'));
  }
  let snapshot=false,busy=false;
- try{const cached=localStorage.getItem(CACHE_KEY);if(cached!==null){render(readNews(cached));snapshot=true;}}catch{}
+ let lastGoodNews=[];
+ const newsIdentity=item=>item.category+'\n'+item.date+'\n'+item.title;
+ function protectAgainstFeedRegression(fresh,previous){
+  if(!previous.length)return {news:fresh,regressed:false};
+  const freshMax=fresh.reduce((max,item)=>Math.max(max,item.date||0),0);
+  const previousMax=previous.reduce((max,item)=>Math.max(max,item.date||0),0);
+  if(!freshMax||previousMax<=freshMax)return {news:fresh,regressed:false};
+  const seen=new Set(fresh.map(newsIdentity));
+  const protectedRecent=previous.filter(item=>(item.date||0)>freshMax&&!seen.has(newsIdentity(item)));
+  return {news:[...fresh,...protectedRecent].sort((a,b)=>b.date-a.date),regressed:protectedRecent.length>0};
+ }
+ try{const cached=localStorage.getItem(CACHE_KEY);if(cached!==null){const cachedNews=readNews(cached);lastGoodNews=cachedNews;render(cachedNews);snapshot=true;}}catch{}
  async function refresh(){
   if(busy)return;busy=true;if(status){status.hidden=false;status.textContent=snapshot?'Actualizando noticias…':'Cargando noticias…';}
   const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),15000);
-  try{const response=await fetch(CSV_URL+(CSV_URL.includes('?')?'&':'?')+'_='+Date.now(),{signal:controller.signal,cache:'no-store',credentials:'omit'});if(!response.ok)throw new Error('CSV no disponible');const text=await response.text(),news=readNews(text);render(news);snapshot=true;try{localStorage.setItem(CACHE_KEY,text);}catch{}if(status){status.textContent='';status.hidden=true;}}
+  try{
+   const response=await fetch(CSV_URL+(CSV_URL.includes('?')?'&':'?')+'_='+Date.now(),{signal:controller.signal,cache:'no-store',credentials:'omit'});
+   if(!response.ok)throw new Error('CSV no disponible');
+   const text=await response.text(),fresh=readNews(text);
+   const protectedFeed=protectAgainstFeedRegression(fresh,lastGoodNews);
+   const news=protectedFeed.news;
+   render(news);lastGoodNews=news;snapshot=true;
+   if(!protectedFeed.regressed){try{localStorage.setItem(CACHE_KEY,text);}catch{}}
+   if(status){status.textContent=protectedFeed.regressed?'Sincronizando: se conservan las noticias más nuevas mientras Google actualiza la planilla.':'';status.hidden=!protectedFeed.regressed;}
+  }
   catch{if(status)status.textContent=snapshot?'Mostrando la última versión guardada. No se pudieron actualizar las noticias.':'No se pudieron cargar las noticias. Reintentaremos al recuperar la conexión.';}
   finally{clearTimeout(timeout);busy=false;}
  }
