@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDMwNTgwMDAwMCwiQUxQSU5FIFNVTcOTIEEgREFOSUlMIEtWWUFUIFBBUkEgQVlVREFSIEEgQ09MQVBJTlRPIFkgR0FTTFkgREVTREUgRUwgU0lNVUxBRE9SIl0": {
+      "account": "f1",
+      "title": "ALPINE SUMÓ A DANIIL KVYAT PARA AYUDAR A COLAPINTO Y GASLY DESDE EL SIMULADOR",
+      "dueAt": "2026-09-25T08:55:00.000Z",
+      "bufferPostId": "6ab6359f8c95968bb032acad",
+      "createdAt": "2026-09-25T08:49:36.027Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ2b2xleSIsMTc5MDI5NjI2MDAwMCwiQVJHRU5USU5BIEJBUlJJw5MgMy0wIEEgUEVSw5ogWSBKVUdBUsOBIFBPUiBFTCBPUk8gQU5URSBDSElMRSJd": {
       "account": "main",
       "title": "ARGENTINA BARRIÓ 3-0 A PERÚ Y JUGARÁ POR EL ORO ANTE CHILE",
@@ -2208,7 +2215,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-25T02:40:00.000Z",
+    "f1": "2026-09-25T09:00:00.000Z",
     "main": "2026-09-25T03:05:00.000Z"
   },
   "buffer": {
