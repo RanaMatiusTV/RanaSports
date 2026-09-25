@@ -1,10 +1,15 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T16:53:22.533Z",
+  "updatedAt": "2026-09-25T17:25:20.840Z",
   "trends": [
     {
-      "query": "gonzalez oro",
+      "query": "rodrigo de paul",
+      "startedAt": "2026-09-25T17:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "negro oro",
       "startedAt": "2026-09-25T15:50:00.000Z",
       "volume": 20000
     },
@@ -47,11 +52,6 @@
       "query": "clima hoy",
       "startedAt": "2026-09-25T09:40:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "australia - brasil",
-      "startedAt": "2026-09-25T09:10:00.000Z",
-      "volume": 50000
     }
   ]
 }
