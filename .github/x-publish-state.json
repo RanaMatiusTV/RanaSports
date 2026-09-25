@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDM0MTIwMDAwMCwiQ09MQVBJTlRPIENVTVBMScOTIEVMIE9CSkVUSVZPOiBTRSBNRVRJw5MgRU4gUTMgU09CUkUgTEEgSE9SQSBFTiBCQUvDmiJd": {
+      "account": "f1",
+      "title": "COLAPINTO CUMPLIÓ EL OBJETIVO: SE METIÓ EN Q3 SOBRE LA HORA EN BAKÚ",
+      "dueAt": "2026-09-25T13:10:00.000Z",
+      "bufferPostId": "6ab671ac41ce152764d25a04",
+      "createdAt": "2026-09-25T13:05:48.488Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDMyODYwMDAwMCwiSU5Tw5NMSVRPIEVOIEJBS8OaOiBVTiBJTlNFQ1RPIEdPTFBFw5MgQSBDT0xBUElOVE8gRU4gUExFTkEgRlAzIl0": {
       "account": "f1",
       "title": "INSÓLITO EN BAKÚ: UN INSECTO GOLPEÓ A COLAPINTO EN PLENA FP3",
@@ -2264,7 +2271,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-25T12:45:00.000Z",
+    "f1": "2026-09-25T13:15:00.000Z",
     "main": "2026-09-25T12:45:00.000Z"
   },
   "buffer": {
