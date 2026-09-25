@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDM1NDgyMDAwMCwiQ09MQVBJTlRPIEdBTsOTIFVOIFBVRVNUTzogTEFSR0FSw4EgOcKwIEVOIEJBS8OaIFBPUiBVTkEgU0FOQ0nDk04gQSBTQUlOWiJd": {
+      "account": "f1",
+      "title": "COLAPINTO GANÓ UN PUESTO: LARGARÁ 9° EN BAKÚ POR UNA SANCIÓN A SAINZ",
+      "dueAt": "2026-09-25T17:25:00.000Z",
+      "bufferPostId": "6ab6ad1430cf61defe78c64e",
+      "createdAt": "2026-09-25T17:19:16.546Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjYW5vdGFqZSIsMTc5MDM0MTUwMDAwMCwiT1JPIFBBUkEgQVJHRU5USU5BOiBCUkVOREEgUk9KQVMgWSBNQUdEQUxFTkEgR0FSUk8gR0FOQVJPTiBFTCBLMiA1MDAgRU4gU0FOVEEgRkUgMjAyNiJd": {
       "account": "main",
       "title": "ORO PARA ARGENTINA: BRENDA ROJAS Y MAGDALENA GARRO GANARON EL K2 500 EN SANTA FE 2026",
@@ -2313,7 +2320,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-25T15:15:00.000Z",
+    "f1": "2026-09-25T17:30:00.000Z",
     "main": "2026-09-25T16:45:00.000Z"
   },
   "buffer": {
