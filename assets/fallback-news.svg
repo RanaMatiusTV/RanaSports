@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="RanaSports">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#090b12"/><stop offset="1" stop-color="#250611"/></linearGradient></defs>
+<rect width="1200" height="675" fill="url(#g)"/>
+<circle cx="600" cy="300" r="86" fill="#ef1746"/>
+<text x="600" y="326" text-anchor="middle" font-family="Arial,sans-serif" font-size="92" font-weight="900" fill="#fff">R</text>
+<text x="600" y="445" text-anchor="middle" font-family="Arial,sans-serif" font-size="64" font-style="italic" font-weight="800" fill="#fff">Rana<tspan fill="#ef1746">Sports</tspan></text>
+</svg>
