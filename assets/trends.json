@@ -1,13 +1,8 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T04:53:11.396Z",
+  "updatedAt": "2026-09-25T05:25:20.282Z",
   "trends": [
-    {
-      "query": "cleveland taylor swift",
-      "startedAt": "2026-09-25T04:30:00.000Z",
-      "volume": 200
-    },
     {
       "query": "patient zero taylor swift",
       "startedAt": "2026-09-25T04:00:00.000Z",
@@ -51,6 +46,11 @@
     {
       "query": "miniserie",
       "startedAt": "2026-09-24T22:00:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "futbolista",
+      "startedAt": "2026-09-24T21:40:00.000Z",
       "volume": 2000
     }
   ]
