@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T03:52:25.304Z",
+  "updatedAt": "2026-09-25T04:26:57.714Z",
   "trends": [
+    {
+      "query": "patient zero taylor swift",
+      "startedAt": "2026-09-25T04:00:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "gualaceo - independiente del valle",
       "startedAt": "2026-09-25T02:30:00.000Z",
@@ -47,11 +52,6 @@
       "query": "futbolista",
       "startedAt": "2026-09-24T21:40:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "evento de el niño de 2026 2027",
-      "startedAt": "2026-09-24T21:30:00.000Z",
-      "volume": 5000
     }
   ]
 }
