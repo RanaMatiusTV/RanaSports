@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMjgxNjIwMDAwLCJET1MgSlVWRU5JTEVTIERFIElOREVQRU5ESUVOVEUsIENJVEFET1MgQSBMQSBTVUIgMTcgUEFSQSBESVNQVVRBUiBMQSBWRVJURVggQ1VQIEVOIExPTkRSRVMiXQ": {
+      "account": "main",
+      "title": "DOS JUVENILES DE INDEPENDIENTE, CITADOS A LA SUB 17 PARA DISPUTAR LA VERTEX CUP EN LONDRES",
+      "dueAt": "2026-09-25T02:10:00.000Z",
+      "bufferPostId": "6ab5d74fcbe818dd4ff566bb",
+      "createdAt": "2026-09-25T02:07:12.186Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI3NDMwMDAwMCwiU0FJTlogU1VGUknDkyBVTiBJTkNFTkRJTyBFTiBMT1MgRlJFTk9TIFkgV0lMTElBTVMgVFVWTyBVTiBKVUVWRVMgRU5UUkVDT1JUQURPIEVOIEJBS8OaIl0": {
       "account": "f1",
       "title": "SAINZ SUFRIÓ UN INCENDIO EN LOS FRENOS Y WILLIAMS TUVO UN JUEVES ENTRECORTADO EN BAKÚ",
@@ -2167,7 +2174,7 @@
   },
   "nextAt": {
     "f1": "2026-09-25T02:40:00.000Z",
-    "main": "2026-09-25T02:10:00.000Z"
+    "main": "2026-09-25T02:15:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
