@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T22:25:10.201Z",
+  "updatedAt": "2026-09-25T22:52:21.730Z",
   "trends": [
     {
       "query": "marley & mirko",
@@ -21,7 +21,7 @@
     {
       "query": "mirtha legrand",
       "startedAt": "2026-09-25T20:20:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "mansión",
