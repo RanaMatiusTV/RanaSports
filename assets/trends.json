@@ -1,22 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-25T14:54:16.582Z",
+  "updatedAt": "2026-09-25T15:27:10.979Z",
   "trends": [
+    {
+      "query": "avión",
+      "startedAt": "2026-09-25T14:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "peter thiel",
+      "startedAt": "2026-09-25T14:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "avenida general paz",
       "startedAt": "2026-09-25T13:30:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "aeronave",
-      "startedAt": "2026-09-25T13:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "gp de azerbaiyán 2026",
-      "startedAt": "2026-09-25T13:00:00.000Z",
-      "volume": 5000
     },
     {
       "query": "francisco cerúndolo",
@@ -44,14 +44,14 @@
       "volume": 50000
     },
     {
+      "query": "gran premio de azerbaiyán",
+      "startedAt": "2026-09-25T09:00:00.000Z",
+      "volume": 5000
+    },
+    {
       "query": "trabajador doméstico",
       "startedAt": "2026-09-25T08:50:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "estafa",
-      "startedAt": "2026-09-25T08:10:00.000Z",
-      "volume": 5000
     }
   ]
 }
