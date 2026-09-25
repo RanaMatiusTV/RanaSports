@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyMjk5MDAwMDAsIkRFU1BFRElEQSBERSBNRVNTSTogTEFTIEVOVFJBREFTIFNBTEVOIEhPWSBBIExBUyAxOCBZIENVRVNUQU4gRU5UUkUgJDkwLjAwMCBZICQ0ODAuMDAwIl0": {
+      "account": "main",
+      "title": "DESPEDIDA DE MESSI: LAS ENTRADAS SALEN HOY A LAS 18 Y CUESTAN ENTRE $90.000 Y $480.000",
+      "dueAt": "2026-09-25T01:25:00.000Z",
+      "bufferPostId": "6ab5cc8ca14029bcc71e838c",
+      "createdAt": "2026-09-25T01:21:16.731Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJtZXNzaSIsMTc5MDI4NTcwMDAwMCwiTEEgREVTUEVESURBIERFIE1FU1NJIFRFTkRSw4EgRkFOIEZFU1QgRU4gQ0lVREFEIFVOSVZFUlNJVEFSSUEgQ09OIFBBTlRBTExBIEdJR0FOVEUiXQ": {
       "account": "main",
       "title": "LA DESPEDIDA DE MESSI TENDRÁ FAN FEST EN CIUDAD UNIVERSITARIA CON PANTALLA GIGANTE",
@@ -2076,7 +2083,7 @@
   },
   "nextAt": {
     "f1": "2026-09-24T21:35:00.000Z",
-    "main": "2026-09-25T01:10:00.000Z"
+    "main": "2026-09-25T01:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
