@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJwZWxvdGEgdmFzY2EiLDE3OTAyOTgwMDAwMDAsIkdBUkPDjUEgWSBQSU5UTyBTT04gREUgT1JPOiBBUkdFTlRJTkEgU0UgUVVFRMOTIENPTiBFTCBUUklOUVVFVEUgRkVNRU5JTk8iXQ": {
+      "account": "main",
+      "title": "GARCÍA Y PINTO SON DE ORO: ARGENTINA SE QUEDÓ CON EL TRINQUETE FEMENINO",
+      "dueAt": "2026-09-25T11:10:00.000Z",
+      "bufferPostId": "6ab653a6607bee5b03310f20",
+      "createdAt": "2026-09-25T10:57:42.825Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMzI2ODAwMDAwLCJJTkRFUEVORElFTlRFIFJFQ0lCRSBBIEZFUlJPIEVOIFZJTExBIERPTcONTklDTyBQT1IgRUwgQ0xBVVNVUkEgRkVNRU5JTk8iXQ": {
+      "account": "main",
+      "title": "INDEPENDIENTE RECIBE A FERRO EN VILLA DOMÍNICO POR EL CLAUSURA FEMENINO",
+      "dueAt": "2026-09-25T11:05:00.000Z",
+      "bufferPostId": "6ab6539a4be5473030af2fc0",
+      "createdAt": "2026-09-25T10:57:30.772Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMjk0MTAwMDAwLCJIRVJPSUNPOiBMQSBSRVNFUlZBIERFIElOREVQRU5ESUVOVEUgRElPIFZVRUxUQSBFTCBDTMOBU0lDTyBDT04gRElFWiBZIExFIEdBTsOTIDItMSBBIFJBQ0lORyJd": {
+      "account": "main",
+      "title": "HEROICO: LA RESERVA DE INDEPENDIENTE DIO VUELTA EL CLÁSICO CON DIEZ Y LE GANÓ 2-1 A RACING",
+      "dueAt": "2026-09-25T11:00:00.000Z",
+      "bufferPostId": "6ab6539a607bee5b03310dea",
+      "createdAt": "2026-09-25T10:57:30.294Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDMyODYwMDAwMCwiQ09MQVBJTlRPIFNFIE1FVEnDkyBFTiBFTCBUT1AgMTAgREUgTEEgRlAzIEVOIEJBS8OaIFkgTExFR0EgRU4gQUxaQSBBIExBIENMQVNJRklDQUNJw5NOIl0": {
       "account": "f1",
       "title": "COLAPINTO SE METIÓ EN EL TOP 10 DE LA FP3 EN BAKÚ Y LLEGA EN ALZA A LA CLASIFICACIÓN",
@@ -2230,7 +2251,7 @@
   },
   "nextAt": {
     "f1": "2026-09-25T10:55:00.000Z",
-    "main": "2026-09-25T09:25:00.000Z"
+    "main": "2026-09-25T11:15:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
