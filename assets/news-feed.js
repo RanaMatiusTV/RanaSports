@@ -276,7 +276,12 @@
  }
  function appendArticlePhoto(item){
   const primary=item.image||mediaFallbackImage(item.video)||new URL('assets/fallback-news.svg',siteBase).href;
-  const figure=element('figure','article-photo'),img=element('img','article-image');img.alt=item.title;img.width=800;img.height=450;img.decoding='async';img.referrerPolicy='no-referrer';imageWithFallback(img,primary,[mediaFallbackImage(item.video)],()=>queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated'))));figure.append(img);if(item.photoCredit)figure.append(element('figcaption','photo-credit','Foto: '+item.photoCredit));detail.append(figure);
+  const figure=element('figure','article-photo'),img=element('img','article-image');img.alt=item.title;img.width=800;img.height=450;img.decoding='async';img.referrerPolicy='no-referrer';
+  const caption=item.photoCredit?element('figcaption','photo-credit','Foto: '+item.photoCredit):null;
+  const syncCaption=()=>{if(!caption)return;const src=img.currentSrc||img.src||'';caption.hidden=/\/assets\/fallback-news\.svg(?:\?|$)/i.test(src);};
+  img.addEventListener('load',syncCaption);
+  imageWithFallback(img,primary,[mediaFallbackImage(item.video)],()=>queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated'))));
+  figure.append(img);if(caption)figure.append(caption);detail.append(figure);
  }
  function renderDetail(news){
   const requested=new URL(location.href).searchParams.get('n');const item=news.find(x=>new URL(articleURL(x)).searchParams.get('n')===requested);detail.replaceChildren();
