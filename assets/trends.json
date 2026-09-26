@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-26T02:25:22.273Z",
+  "updatedAt": "2026-09-26T02:51:58.246Z",
   "trends": [
+    {
+      "query": "pedro rosemblat",
+      "startedAt": "2026-09-26T02:30:00.000Z",
+      "volume": 200
+    },
     {
       "query": "unión magdalena - santa fe",
       "startedAt": "2026-09-26T01:30:00.000Z",
@@ -24,6 +29,11 @@
       "volume": 2000
     },
     {
+      "query": "francia",
+      "startedAt": "2026-09-25T20:40:00.000Z",
+      "volume": 500
+    },
+    {
       "query": "manchester city culpable",
       "startedAt": "2026-09-25T20:30:00.000Z",
       "volume": 1000
@@ -42,16 +52,6 @@
       "query": "argentina sub 20",
       "startedAt": "2026-09-25T19:50:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "camionero",
-      "startedAt": "2026-09-25T19:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "malí - cabo verde",
-      "startedAt": "2026-09-25T18:40:00.000Z",
-      "volume": 5000
     }
   ]
 }
