@@ -137,14 +137,15 @@
  function fallbackVisualCandidates(item){
   const queue=[],push=url=>{if(url&&!queue.includes(url))queue.push(url);};
   const embedThumb=mediaFallbackImage(item?.video||'');
-  if(item?.imageStatus==='temporal'){
+  const preferEmbedThumb=item?.imageStatus==='temporal'&&item?.hasYouTubeVideo;
+  if(preferEmbedThumb){
    push(embedThumb);
    push(item?.image||'');
   }else{
    push(item?.image||'');
+   push(item?.extraImage||'');
    push(embedThumb);
   }
-  push(item?.extraImage||'');
   return queue;
  }
  function imageWithFallback(img,primary,alternates=[],onFail){
