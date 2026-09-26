@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDQyNjU4MDAwMCwiQ09MQVBJTlRPIENIT0PDkyBBIEdBU0xZIFkgQUJBTkRPTsOTIEVOIEJBS8OaOiBET0JMRSBHT0xQRSBQQVJBIEFMUElORSJd": {
+      "account": "f1",
+      "title": "COLAPINTO CHOCÓ A GASLY Y ABANDONÓ EN BAKÚ: DOBLE GOLPE PARA ALPINE",
+      "dueAt": "2026-09-26T13:20:00.000Z",
+      "bufferPostId": "6ab7c57e05811e57372c8c67",
+      "createdAt": "2026-09-26T13:15:43.071Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDM5NzU0MDAwMCwiQ09MQVBJTlRPIExBUkdBIE5PVkVOTyBFTiBCQUvDmjogSE9SQVJJTyBZIETDk05ERSBWRVIgTEEgQ0FSUkVSQSBERSBGMSJd": {
       "account": "f1",
       "title": "COLAPINTO LARGA NOVENO EN BAKÚ: HORARIO Y DÓNDE VER LA CARRERA DE F1",
@@ -2397,7 +2404,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-26T10:15:00.000Z",
+    "f1": "2026-09-26T13:25:00.000Z",
     "main": "2026-09-26T02:30:00.000Z"
   },
   "buffer": {
