@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAzNzkyNDAwMDAsIkFGQSBZQSBORUdPQ0lBIExBIFJFTk9WQUNJw5NOIERFIFNDQUxPTkk6IFRBUElBIEFCUknDkyBMQVMgQ0hBUkxBUyBFTiBFWkVJWkEiXQ": {
+      "account": "main",
+      "title": "AFA YA NEGOCIA LA RENOVACIÓN DE SCALONI: TAPIA ABRIÓ LAS CHARLAS EN EZEIZA",
+      "dueAt": "2026-09-26T00:50:00.000Z",
+      "bufferPostId": "6ab715fef59168c975301793",
+      "createdAt": "2026-09-26T00:46:54.856Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDM1MzgwMDAwMCwiU09Gw41BIFNPTMOBIEhBQkzDkyBERSBMT1MgUlVNT1JFUyBRVUUgTEEgVklOQ1VMQU4gQ09OIENPTEFQSU5UTyJd": {
       "account": "f1",
       "title": "SOFÍA SOLÁ HABLÓ DE LOS RUMORES QUE LA VINCULAN CON COLAPINTO",
@@ -2342,7 +2349,7 @@
   },
   "nextAt": {
     "f1": "2026-09-26T00:40:00.000Z",
-    "main": "2026-09-25T16:45:00.000Z"
+    "main": "2026-09-26T00:55:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
