@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-26T14:51:12.732Z",
+  "updatedAt": "2026-09-26T15:25:00.112Z",
   "trends": [
+    {
+      "query": "leo ramal",
+      "startedAt": "2026-09-26T14:40:00.000Z",
+      "volume": 500
+    },
     {
       "query": "dia del empleado de comercio 2026",
       "startedAt": "2026-09-26T12:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "google",
@@ -16,7 +21,7 @@
     {
       "query": "f1",
       "startedAt": "2026-09-26T11:20:00.000Z",
-      "volume": 20000
+      "volume": 50000
     },
     {
       "query": "f1 hoy",
@@ -26,7 +31,7 @@
     {
       "query": "gp de azerbaiyán 2026",
       "startedAt": "2026-09-26T11:00:00.000Z",
-      "volume": 10000
+      "volume": 5000
     },
     {
       "query": "luis caputo",
@@ -47,11 +52,6 @@
       "query": "disney plus",
       "startedAt": "2026-09-26T10:40:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "la nacion",
-      "startedAt": "2026-09-26T10:20:00.000Z",
-      "volume": 100
     }
   ]
 }
