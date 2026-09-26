@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-26T06:54:03.048Z",
+  "updatedAt": "2026-09-26T07:24:46.031Z",
   "trends": [
     {
       "query": "pedro rosemblat",
@@ -29,6 +29,11 @@
       "volume": 2000
     },
     {
+      "query": "liga de naciones",
+      "startedAt": "2026-09-25T20:40:00.000Z",
+      "volume": 1000
+    },
+    {
       "query": "francia",
       "startedAt": "2026-09-25T20:40:00.000Z",
       "volume": 500
@@ -47,11 +52,6 @@
       "query": "mansión",
       "startedAt": "2026-09-25T19:50:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "argentina sub 20",
-      "startedAt": "2026-09-25T19:50:00.000Z",
-      "volume": 1000
     }
   ]
 }
