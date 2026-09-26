@@ -1,27 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-26T23:23:52.027Z",
+  "updatedAt": "2026-09-26T23:50:32.003Z",
   "trends": [
+    {
+      "query": "ufc hoy",
+      "startedAt": "2026-09-26T23:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "tormenta",
+      "startedAt": "2026-09-26T23:10:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "cruz azul - toluca",
       "startedAt": "2026-09-26T23:00:00.000Z",
       "volume": 500
     },
     {
+      "query": "colegiales - chacarita",
+      "startedAt": "2026-09-26T22:50:00.000Z",
+      "volume": 2000
+    },
+    {
       "query": "lluvia",
       "startedAt": "2026-09-26T22:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "canadá - chile",
       "startedAt": "2026-09-26T22:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "ufc",
       "startedAt": "2026-09-26T22:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "fabiana araujo",
@@ -29,29 +44,14 @@
       "volume": 500
     },
     {
-      "query": "deportivo madryn - central norte",
-      "startedAt": "2026-09-26T22:00:00.000Z",
-      "volume": 1000
-    },
-    {
       "query": "cristina fernández de kirchner",
       "startedAt": "2026-09-26T22:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
-      "query": "peñarol - boston river",
+      "query": "deportivo madryn - central norte",
       "startedAt": "2026-09-26T22:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "perfil",
-      "startedAt": "2026-09-26T21:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "river vs vélez",
-      "startedAt": "2026-09-26T20:50:00.000Z",
-      "volume": 500
+      "volume": 2000
     }
   ]
 }
