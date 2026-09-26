@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDQzNDIwMDAwMCwiRUwgRE9CTEUgQUJBTkRPTk8gRU4gQkFLw5ogTEUgUEVHw5MgRlVFUlRFIEEgQUxQSU5FIEVOIEVMIE1VTkRJQUwgREUgQ09OU1RSVUNUT1JFUyJd": {
+      "account": "f1",
+      "title": "EL DOBLE ABANDONO EN BAKÚ LE PEGÓ FUERTE A ALPINE EN EL MUNDIAL DE CONSTRUCTORES",
+      "dueAt": "2026-09-26T17:00:00.000Z",
+      "bufferPostId": "6ab7f9123d66d464e5b6f818",
+      "createdAt": "2026-09-26T16:55:46.463Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA0MjQ0ODAwMDAsIlNDQUxPTkkgU0lHVUUgREUgQ0VSQ0EgQSBMQVVUQVJPIEJMQU5DTyBQQVJBIExBIFNFTEVDQ0nDk04gREUgTk9WSUVNQlJFIl0": {
+      "account": "main",
+      "title": "SCALONI SIGUE DE CERCA A LAUTARO BLANCO PARA LA SELECCIÓN DE NOVIEMBRE",
+      "dueAt": "2026-09-26T17:00:00.000Z",
+      "bufferPostId": "6ab7f90a9f89edbefe78bdf6",
+      "createdAt": "2026-09-26T16:55:39.049Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMzY0OTAwMDAwLCJMQVMgRElBQkxBUyBWT0xWSUVST04gQUwgVFJJVU5GTzogSU5ERVBFTkRJRU5URSBWRU5DScOTIDMtMiBBIEZFUlJPIEVOIFZJTExBIERPTcONTklDTyJd": {
       "account": "main",
       "title": "LAS DIABLAS VOLVIERON AL TRIUNFO: INDEPENDIENTE VENCIÓ 3-2 A FERRO EN VILLA DOMÍNICO",
@@ -2453,8 +2467,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-26T16:05:00.000Z",
-    "main": "2026-09-26T16:25:00.000Z"
+    "f1": "2026-09-26T17:05:00.000Z",
+    "main": "2026-09-26T17:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
