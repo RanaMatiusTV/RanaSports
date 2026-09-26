@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDM3NDMyMDAwMCwiR0FTTFkgQVBVTlTDkyBBTCBERVNQSVNURSBERSBDT0xBUElOVE86IOKAnFBFUkTDjSBET1MgRMOJQ0lNQVPigJ0iXQ": {
+      "account": "f1",
+      "title": "GASLY APUNTÓ AL DESPISTE DE COLAPINTO: “PERDÍ DOS DÉCIMAS”",
+      "dueAt": "2026-09-26T03:00:00.000Z",
+      "bufferPostId": "6ab7349880521ded551ed9d5",
+      "createdAt": "2026-09-26T02:57:29.126Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMzY0OTAwMDAwLCJEVVJPIEdPTFBFIFBBUkEgSU5ERVBFTkRJRU5URTogRkVSUk8gTEUgR0FOw5MgRU4gVklMTEEgRE9Nw41OSUNPIFBPUiBFTCBDTEFVU1VSQSBGRU1FTklOTyJd": {
       "account": "main",
       "title": "DURO GOLPE PARA INDEPENDIENTE: FERRO LE GANÓ EN VILLA DOMÍNICO POR EL CLAUSURA FEMENINO",
@@ -2376,7 +2383,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-26T00:40:00.000Z",
+    "f1": "2026-09-26T03:05:00.000Z",
     "main": "2026-09-26T02:30:00.000Z"
   },
   "buffer": {
