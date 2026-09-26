@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-26T11:24:06.447Z",
+  "updatedAt": "2026-09-26T11:50:13.988Z",
   "trends": [
+    {
+      "query": "gp de azerbaiyán 2026",
+      "startedAt": "2026-09-26T11:00:00.000Z",
+      "volume": 5000
+    },
     {
       "query": "luis caputo",
       "startedAt": "2026-09-26T11:00:00.000Z",
@@ -14,19 +19,14 @@
       "volume": 500
     },
     {
-      "query": "baku",
-      "startedAt": "2026-09-26T10:40:00.000Z",
-      "volume": 5000
-    },
-    {
       "query": "azerbaijan",
       "startedAt": "2026-09-26T10:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "disney plus",
       "startedAt": "2026-09-26T10:40:00.000Z",
-      "volume": 100
+      "volume": 500
     },
     {
       "query": "infobae",
@@ -39,12 +39,12 @@
       "volume": 200
     },
     {
-      "query": "administration",
+      "query": "after",
       "startedAt": "2026-09-26T10:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "after",
+      "query": "administration",
       "startedAt": "2026-09-26T10:00:00.000Z",
       "volume": 100
     },
