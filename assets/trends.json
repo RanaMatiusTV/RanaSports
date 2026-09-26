@@ -1,17 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-26T22:51:28.621Z",
+  "updatedAt": "2026-09-26T23:23:52.027Z",
   "trends": [
     {
-      "query": "ufc",
-      "startedAt": "2026-09-26T22:30:00.000Z",
+      "query": "cruz azul - toluca",
+      "startedAt": "2026-09-26T23:00:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "lluvia",
+      "startedAt": "2026-09-26T22:50:00.000Z",
+      "volume": 1000
     },
     {
       "query": "canadá - chile",
       "startedAt": "2026-09-26T22:30:00.000Z",
-      "volume": 500
+      "volume": 1000
+    },
+    {
+      "query": "ufc",
+      "startedAt": "2026-09-26T22:30:00.000Z",
+      "volume": 1000
     },
     {
       "query": "fabiana araujo",
@@ -31,7 +41,7 @@
     {
       "query": "peñarol - boston river",
       "startedAt": "2026-09-26T22:00:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "perfil",
@@ -42,16 +52,6 @@
       "query": "river vs vélez",
       "startedAt": "2026-09-26T20:50:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "flavio briatore",
-      "startedAt": "2026-09-26T19:20:00.000Z",
-      "volume": 50000
-    },
-    {
-      "query": "club ciudad de bolívar - chaco for ever",
-      "startedAt": "2026-09-26T19:20:00.000Z",
-      "volume": 1000
     }
   ]
 }
