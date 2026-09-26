@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-26T12:53:16.206Z",
+  "updatedAt": "2026-09-26T13:23:47.699Z",
   "trends": [
+    {
+      "query": "dia del empleado de comercio 2026",
+      "startedAt": "2026-09-26T12:30:00.000Z",
+      "volume": 500
+    },
     {
       "query": "google",
       "startedAt": "2026-09-26T12:00:00.000Z",
@@ -17,11 +22,6 @@
       "query": "luis caputo",
       "startedAt": "2026-09-26T11:00:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "azerbaiyán",
-      "startedAt": "2026-09-26T11:00:00.000Z",
-      "volume": 500
     },
     {
       "query": "disney",
@@ -44,14 +44,14 @@
       "volume": 100
     },
     {
-      "query": "infobae",
-      "startedAt": "2026-09-26T10:20:00.000Z",
-      "volume": 100
-    },
-    {
       "query": "activity",
       "startedAt": "2026-09-26T10:00:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "after",
+      "startedAt": "2026-09-26T10:00:00.000Z",
+      "volume": 100
     }
   ]
 }
