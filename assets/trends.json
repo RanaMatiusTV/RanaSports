@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-26T15:25:00.112Z",
+  "updatedAt": "2026-09-26T15:51:31.673Z",
   "trends": [
     {
       "query": "leo ramal",
@@ -31,7 +31,7 @@
     {
       "query": "gp de azerbaiyán 2026",
       "startedAt": "2026-09-26T11:00:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "luis caputo",
