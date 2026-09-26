@@ -6,6 +6,7 @@
  const script=document.querySelector('script[src*="assets/news-feed.js"]');
  const siteBase=new URL('../',script?.src||location.href);
  const CSV_URLS=[
+  new URL('assets/news-live.csv',siteBase).href,
   'https://docs.google.com/spreadsheets/d/12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4/gviz/tq?tqx=out:csv&sheet=Noticias',
   'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?gid=663081286&single=true&output=csv',
   'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv'
@@ -350,7 +351,15 @@
    const candidates=attempts.filter(Boolean);
    if(!candidates.length)throw new Error('CSV no disponible');
    candidates.sort((a,b)=>b.max-a.max||b.news.length-a.news.length);
-   const {text,news:fresh}=candidates[0];
+   const merged=[],seen=new Set();
+   for(const candidate of candidates){
+    for(const item of candidate.news){
+     const id=newsIdentity(item);
+     if(!seen.has(id)){seen.add(id);merged.push(item);}
+    }
+   }
+   const fresh=merged.sort((a,b)=>b.date-a.date);
+   const text=candidates[0].text;
    const protectedFeed=protectAgainstFeedRegression(fresh,lastGoodNews);
    const news=protectedFeed.news;
    render(news);lastGoodNews=news;snapshot=true;
