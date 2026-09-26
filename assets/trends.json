@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-26T19:22:58.301Z",
+  "updatedAt": "2026-09-26T19:49:51.574Z",
   "trends": [
     {
-      "query": "rosario central",
+      "query": "flavio briatore",
+      "startedAt": "2026-09-26T19:20:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "meteorología",
+      "startedAt": "2026-09-26T19:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "carlos alcaraz",
+      "startedAt": "2026-09-26T19:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "estudiantes - rosario central",
       "startedAt": "2026-09-26T19:00:00.000Z",
-      "volume": 5000
+      "volume": 50000
     },
     {
       "query": "all boys - colón",
@@ -14,24 +29,19 @@
       "volume": 2000
     },
     {
-      "query": "england vs spain",
-      "startedAt": "2026-09-26T18:40:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "lamine yamal",
       "startedAt": "2026-09-26T18:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "chequia - croacia",
       "startedAt": "2026-09-26T18:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "inglaterra - españa",
       "startedAt": "2026-09-26T17:50:00.000Z",
-      "volume": 20000
+      "volume": 100000
     },
     {
       "query": "laver cup",
@@ -42,16 +52,6 @@
       "query": "leo ramal",
       "startedAt": "2026-09-26T14:40:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "sudáfrica - guinea",
-      "startedAt": "2026-09-26T13:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "franco colapinto",
-      "startedAt": "2026-09-26T12:30:00.000Z",
-      "volume": 20000
     }
   ]
 }
