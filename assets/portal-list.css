@@ -123,3 +123,100 @@ html[data-theme="light"] #newsGrid h3 a{color:#171b21!important}
  #newsGrid.no-featured{grid-template-columns:repeat(3,minmax(0,1fr))!important;grid-template-rows:auto!important}
  #newsGrid.no-featured #moreNewsTitle{grid-column:1 / -1!important;grid-row:auto!important;margin:0 0 4px!important}
 }
+
+/* v20260925-2158: todos los titulares dentro de la foto + clic completo */
+#newsGrid .news-card:has(>.news-image){
+ position:relative!important;
+ aspect-ratio:16/9!important;
+ min-height:0!important;
+ overflow:hidden!important;
+ border-radius:10px!important;
+ padding:0!important;
+ margin:0!important;
+ background:#111820!important;
+ border:0!important;
+ box-shadow:none!important;
+}
+#newsGrid .news-card:has(>.news-image)>.news-image{
+ position:absolute!important;
+ inset:0!important;
+ width:100%!important;
+ height:100%!important;
+ max-height:none!important;
+ aspect-ratio:auto!important;
+ border-radius:0!important;
+ z-index:1!important;
+ cursor:pointer!important;
+}
+#newsGrid .news-card:has(>.news-image)>.news-image img{
+ width:100%!important;
+ height:100%!important;
+ object-fit:cover!important;
+ object-position:50% 24%!important;
+}
+#newsGrid .news-card:has(>.news-image)::after{
+ content:"";
+ display:block!important;
+ position:absolute!important;
+ inset:0!important;
+ z-index:2!important;
+ pointer-events:none!important;
+ background:linear-gradient(180deg,rgba(5,8,12,0) 28%,rgba(5,8,12,.16) 48%,rgba(5,8,12,.95) 100%)!important;
+}
+#newsGrid .news-card:has(>.news-image) .card-body{
+ position:absolute!important;
+ left:0!important;
+ right:0!important;
+ bottom:0!important;
+ z-index:3!important;
+ padding:72px 14px 14px!important;
+ margin:0!important;
+ background:transparent!important;
+ color:#fff!important;
+ pointer-events:none!important;
+}
+#newsGrid .news-card:has(>.news-image) h3{
+ margin:0!important;
+ color:#fff!important;
+ text-shadow:0 2px 9px rgba(0,0,0,.78)!important;
+}
+#newsGrid .news-card:has(>.news-image) h3 a,
+html[data-theme="light"] #newsGrid .news-card:has(>.news-image) h3 a{
+ display:block!important;
+ color:#fff!important;
+ text-decoration:none!important;
+ pointer-events:auto!important;
+ cursor:pointer!important;
+}
+#newsGrid .news-card:has(>.news-image) h3 a:hover,
+html[data-theme="light"] #newsGrid .news-card:has(>.news-image) h3 a:hover{
+ color:#fff!important;
+ text-decoration:underline!important;
+ text-decoration-thickness:2px!important;
+ text-underline-offset:3px!important;
+}
+@media(min-width:1050px){
+ #newsGrid .latest-columns .more-story{
+  aspect-ratio:16/9!important;
+  overflow:hidden!important;
+  border-radius:10px!important;
+  padding:0!important;
+ }
+ #newsGrid .latest-columns .more-story .news-image{
+  position:absolute!important;
+  inset:0!important;
+  width:100%!important;
+  height:100%!important;
+  aspect-ratio:auto!important;
+  border-radius:0!important;
+ }
+ #newsGrid .latest-columns .more-story .card-body{
+  position:absolute!important;
+  left:0!important;
+  right:0!important;
+  bottom:0!important;
+  z-index:3!important;
+  padding:64px 14px 14px!important;
+  background:transparent!important;
+ }
+}
