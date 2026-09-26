@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-26T19:49:51.574Z",
+  "updatedAt": "2026-09-26T20:24:32.364Z",
   "trends": [
     {
       "query": "flavio briatore",
       "startedAt": "2026-09-26T19:20:00.000Z",
       "volume": 20000
+    },
+    {
+      "query": "club ciudad de bolívar - chaco for ever",
+      "startedAt": "2026-09-26T19:20:00.000Z",
+      "volume": 1000
     },
     {
       "query": "meteorología",
@@ -26,7 +31,12 @@
     {
       "query": "all boys - colón",
       "startedAt": "2026-09-26T19:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
+    },
+    {
+      "query": "england vs spain",
+      "startedAt": "2026-09-26T18:40:00.000Z",
+      "volume": 1000
     },
     {
       "query": "lamine yamal",
@@ -42,16 +52,6 @@
       "query": "inglaterra - españa",
       "startedAt": "2026-09-26T17:50:00.000Z",
       "volume": 100000
-    },
-    {
-      "query": "laver cup",
-      "startedAt": "2026-09-26T15:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "leo ramal",
-      "startedAt": "2026-09-26T14:40:00.000Z",
-      "volume": 2000
     }
   ]
 }
