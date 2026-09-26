@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-26T21:49:58.596Z",
+  "updatedAt": "2026-09-26T22:24:17.345Z",
   "trends": [
+    {
+      "query": "deportivo madryn - central norte",
+      "startedAt": "2026-09-26T22:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "cristina fernández de kirchner",
+      "startedAt": "2026-09-26T22:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "peñarol - boston river",
+      "startedAt": "2026-09-26T22:00:00.000Z",
+      "volume": 500
+    },
     {
       "query": "river vs vélez",
       "startedAt": "2026-09-26T20:50:00.000Z",
@@ -31,27 +46,12 @@
     {
       "query": "estudiantes - rosario central",
       "startedAt": "2026-09-26T19:00:00.000Z",
-      "volume": 100000
+      "volume": 200000
     },
     {
       "query": "all boys - colón",
       "startedAt": "2026-09-26T19:00:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "estudiantes - san miguel",
-      "startedAt": "2026-09-26T18:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "lamine yamal",
-      "startedAt": "2026-09-26T18:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "chequia - croacia",
-      "startedAt": "2026-09-26T18:10:00.000Z",
-      "volume": 2000
     }
   ]
 }
