@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T03:52:44.855Z",
+  "updatedAt": "2026-09-27T04:26:10.160Z",
   "trends": [
     {
       "query": "sofía martínez",
@@ -11,7 +11,12 @@
     {
       "query": "discapacidad",
       "startedAt": "2026-09-27T02:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
+    },
+    {
+      "query": "flavio azzaro",
+      "startedAt": "2026-09-27T01:40:00.000Z",
+      "volume": 500
     },
     {
       "query": "jairo",
@@ -41,17 +46,12 @@
     {
       "query": "sabrina rojas",
       "startedAt": "2026-09-27T01:00:00.000Z",
-      "volume": 2000
+      "volume": 1000
     },
     {
       "query": "yanina zilli",
       "startedAt": "2026-09-27T00:40:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "leandro paredes",
-      "startedAt": "2026-09-27T00:40:00.000Z",
-      "volume": 1000
     }
   ]
 }
