@@ -1,22 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T15:25:07.513Z",
+  "updatedAt": "2026-09-27T15:51:23.892Z",
   "trends": [
     {
       "query": "serbia - países bajos",
       "startedAt": "2026-09-27T15:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "granizo",
       "startedAt": "2026-09-27T14:30:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "boca racing",
       "startedAt": "2026-09-27T14:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "hija",
