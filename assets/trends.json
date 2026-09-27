@@ -1,17 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T00:55:29.606Z",
+  "updatedAt": "2026-09-27T01:24:24.383Z",
   "trends": [
+    {
+      "query": "sabrina rojas",
+      "startedAt": "2026-09-27T01:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "diego leuco",
+      "startedAt": "2026-09-27T00:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "yanina zilli",
       "startedAt": "2026-09-27T00:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "leandro paredes",
       "startedAt": "2026-09-27T00:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "casa rosada",
@@ -21,12 +31,12 @@
     {
       "query": "méxico - colombia",
       "startedAt": "2026-09-27T00:10:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "tiempo de mañana",
       "startedAt": "2026-09-26T23:40:00.000Z",
-      "volume": 200000
+      "volume": 500000
     },
     {
       "query": "tiempo mañana",
@@ -36,22 +46,12 @@
     {
       "query": "ufc hoy",
       "startedAt": "2026-09-26T23:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "tormenta",
       "startedAt": "2026-09-26T23:10:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "cruz azul - toluca",
-      "startedAt": "2026-09-26T23:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "colegiales - chacarita",
-      "startedAt": "2026-09-26T22:50:00.000Z",
-      "volume": 5000
     }
   ]
 }
