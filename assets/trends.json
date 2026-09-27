@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T04:26:10.160Z",
+  "updatedAt": "2026-09-27T04:52:43.474Z",
   "trends": [
     {
       "query": "sofía martínez",
       "startedAt": "2026-09-27T03:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "discapacidad",
@@ -22,11 +22,6 @@
       "query": "jairo",
       "startedAt": "2026-09-27T01:30:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "pepe chatruc",
-      "startedAt": "2026-09-27T01:30:00.000Z",
-      "volume": 200
     },
     {
       "query": "alerta meteorológica",
@@ -46,12 +41,17 @@
     {
       "query": "sabrina rojas",
       "startedAt": "2026-09-27T01:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "yanina zilli",
       "startedAt": "2026-09-27T00:40:00.000Z",
       "volume": 5000
+    },
+    {
+      "query": "leandro paredes",
+      "startedAt": "2026-09-27T00:40:00.000Z",
+      "volume": 1000
     }
   ]
 }
