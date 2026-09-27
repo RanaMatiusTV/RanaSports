@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T06:30:59.261Z",
+  "updatedAt": "2026-09-27T06:55:01.990Z",
   "trends": [
+    {
+      "query": "clima hoy",
+      "startedAt": "2026-09-27T06:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "pronostico",
+      "startedAt": "2026-09-27T06:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "sofía martínez",
       "startedAt": "2026-09-27T03:20:00.000Z",
@@ -26,7 +36,7 @@
     {
       "query": "alerta meteorológica",
       "startedAt": "2026-09-27T01:20:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "bochini",
@@ -41,16 +51,6 @@
     {
       "query": "sabrina rojas",
       "startedAt": "2026-09-27T01:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "yanina zilli",
-      "startedAt": "2026-09-27T00:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "leandro paredes",
-      "startedAt": "2026-09-27T00:40:00.000Z",
       "volume": 1000
     }
   ]
