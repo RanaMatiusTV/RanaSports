@@ -28,7 +28,9 @@ Para agregar una nota local opcional, crear su HTML con fuentes verificadas y me
 Los espacios data-ad-slot están reservados y ocultos hasta su configuración. No se cargan scripts publicitarios ni IDs ficticios. Al habilitarlo, usar el código oficial de la cuenta, configurar los bloques y ads.txt según indique Google, actualizar la política de privacidad a la implementación real y configurar el consentimiento cuando corresponda. La preparación técnica no implica aprobación de AdSense.
 
 ## Identidad
-Nombre: RanaSports. Firma: Creado por @RanaMatiusTV. Arroba de X, Instagram, YouTube y TikTok: @RanaMatiusTV. Se mantiene el enlace original de la Agenda Deportiva de RanaMatiusTV.
+Nombre: RanaSports. Medio digital deportivo argentino creado y dirigido por Damián Matías Verdasco. Firma pública: Creado por @RanaMatiusTV · Medio asistido por IA. Arroba de X, Instagram, YouTube y TikTok: @RanaMatiusTV. Contacto editorial y de prensa: ranamatius@gmail.com. Se mantiene el enlace original de la Agenda Deportiva de RanaMatiusTV.
+
+Páginas institucionales: `legal/acerca-de.html` (identidad y responsable), `legal/politica-editorial.html` (criterios editoriales, correcciones y uso de IA), `legal/contacto.html` y `prensa.html` (Media Kit y acreditaciones).
 
 ## Vistas individuales automáticas
 Las tarjetas recortan visualmente Resumen a tres líneas; noticia.html muestra el mismo Resumen completo, conservando sus saltos de línea, sin generar ni completar texto. No se agregan columnas. La identidad de la URL codifica sin pérdida categoría normalizada, fecha/hora y título. Reordenar filas o editar Resumen, imagen, fuente o video conserva la URL; cambiar título, categoría o fecha/hora genera otra URL. Filas con idéntica categoría, fecha/hora y título representan la misma identidad.
