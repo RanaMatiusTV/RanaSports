@@ -1,27 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T08:52:16.049Z",
+  "updatedAt": "2026-09-27T09:25:57.180Z",
   "trends": [
-    {
-      "query": "tiempo hoy",
-      "startedAt": "2026-09-27T06:50:00.000Z",
-      "volume": 200
-    },
     {
       "query": "pronostico",
       "startedAt": "2026-09-27T06:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "sofía martínez",
       "startedAt": "2026-09-27T03:20:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "raoni barcelos",
-      "startedAt": "2026-09-27T02:40:00.000Z",
-      "volume": 1000
     },
     {
       "query": "discapacidad",
@@ -51,7 +41,17 @@
     {
       "query": "ailin perez",
       "startedAt": "2026-09-27T01:00:00.000Z",
-      "volume": 10000
+      "volume": 5000
+    },
+    {
+      "query": "sabrina rojas",
+      "startedAt": "2026-09-27T01:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "leandro paredes",
+      "startedAt": "2026-09-27T00:40:00.000Z",
+      "volume": 1000
     }
   ]
 }
