@@ -1,27 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T17:50:50.036Z",
+  "updatedAt": "2026-09-27T18:28:09.741Z",
   "trends": [
+    {
+      "query": "noruega - portugal",
+      "startedAt": "2026-09-27T17:50:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "alemania - grecia",
+      "startedAt": "2026-09-27T17:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "comunicado de alpine",
+      "startedAt": "2026-09-27T17:50:00.000Z",
+      "volume": 10000
+    },
     {
       "query": "lance stroll",
       "startedAt": "2026-09-27T17:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "comunicado alpine",
-      "startedAt": "2026-09-27T17:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "empresario",
       "startedAt": "2026-09-27T16:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "fórmula 1",
-      "startedAt": "2026-09-27T16:00:00.000Z",
-      "volume": 10000
+      "volume": 2000
     },
     {
       "query": "serbia - países bajos",
@@ -47,11 +52,6 @@
       "query": "puente colgante",
       "startedAt": "2026-09-27T10:20:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "google's birthday",
-      "startedAt": "2026-09-27T10:10:00.000Z",
-      "volume": 5000
     }
   ]
 }
