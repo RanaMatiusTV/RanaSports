@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T20:51:15.594Z",
+  "updatedAt": "2026-09-27T21:24:43.784Z",
   "trends": [
+    {
+      "query": "juan otero",
+      "startedAt": "2026-09-27T20:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "chile",
+      "startedAt": "2026-09-27T20:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "fondo buitre",
+      "startedAt": "2026-09-27T20:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "racing de córdoba - godoy cruz",
       "startedAt": "2026-09-27T19:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "bolivia - paraguay",
@@ -26,7 +41,7 @@
     {
       "query": "racing - boca juniors",
       "startedAt": "2026-09-27T19:00:00.000Z",
-      "volume": 200000
+      "volume": 500000
     },
     {
       "query": "portugal vs",
@@ -37,21 +52,6 @@
       "query": "defensores de belgrano - ferro",
       "startedAt": "2026-09-27T18:40:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "almagro - nueva chicago",
-      "startedAt": "2026-09-27T18:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "noruega - portugal",
-      "startedAt": "2026-09-27T17:50:00.000Z",
-      "volume": 50000
-    },
-    {
-      "query": "alemania - grecia",
-      "startedAt": "2026-09-27T17:50:00.000Z",
-      "volume": 10000
     }
   ]
 }
