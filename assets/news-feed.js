@@ -306,6 +306,7 @@
    if(status){status.textContent='';status.hidden=true;}
    detail.append(element('h1','','Noticia no disponible'),element('p','','La noticia no está en la última versión disponible de la planilla.'));document.title='Noticia no disponible | RanaSports';document.querySelector('meta[name="robots"]')?.setAttribute('content','noindex,follow');document.querySelector('#articleSchema')?.remove();return;
   }
+  detailLookupSettled=true;
   if(status){status.textContent='';status.hidden=true;}
   const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':'badge-site'),item.sport));const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);
   detail.append(meta,element('h1','',item.title),element('p','article-meta','Creado por @RanaMatiusTV'));appendArticlePhoto(item);
@@ -360,7 +361,9 @@
  try{const cached=localStorage.getItem(CACHE_KEY);if(cached!==null){const cachedNews=readNews(cached);lastGoodNews=cachedNews;render(cachedNews);snapshot=true;}}catch{}
  async function fetchFeed(baseURL,index,signal){
   try{
-   const response=await fetch(baseURL+(baseURL.includes('?')?'&':'?')+'_='+Date.now(),{signal,cache:'no-store',credentials:'omit'});
+   const local=index===0;
+   const requestURL=local?baseURL:baseURL+(baseURL.includes('?')?'&':'?')+'_='+Date.now();
+   const response=await fetch(requestURL,{signal,cache:local?'force-cache':'no-store',credentials:'omit'});
    if(!response.ok)return null;
    const text=await response.text(),news=readNews(text);if(!news.length)return null;
    const max=news.reduce((value,item)=>Math.max(value,item.date||0),0);
@@ -369,33 +372,42 @@
  }
  async function refresh(){
   if(busy)return;busy=true;
-  if(status){status.hidden=false;status.textContent=detail&&!detailLookupSettled?'Cargando noticia…':(snapshot?'Actualizando noticias…':'Cargando noticias…');}
-  let localAttempt=null;
+  if(status){
+   if(detail&&!detailLookupSettled){status.hidden=false;status.textContent='Cargando noticia…';}
+   else if(!snapshot){status.hidden=false;status.textContent=detail?'Cargando noticia…':'Cargando noticias…';}
+   else{status.textContent='';status.hidden=true;}
+  }
+  const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),8000);
   try{
-   localAttempt=await fetchFeed(CSV_URLS[0],0);
-   if(localAttempt){
-    const localFresh=localAttempt.news.sort((a,b)=>b.date-a.date);
-    render(localFresh);lastGoodNews=localFresh;snapshot=true;
-    if(status){if(detail&&!detailLookupSettled){status.hidden=false;status.textContent='Cargando noticia…';}else{status.textContent='';status.hidden=true;}}
+   const localPromise=fetchFeed(CSV_URLS[0],0,controller.signal);
+   const primaryPromise=fetchFeed(CSV_URLS[1],1,controller.signal);
+   const requireFeed=p=>p.then(value=>{if(!value)throw new Error('feed');return value;});
+   let first=null;
+   try{first=await Promise.any([requireFeed(localPromise),requireFeed(primaryPromise)]);}catch{}
+   if(first){
+    const firstNews=first.news.sort((a,b)=>b.date-a.date);
+    render(firstNews);lastGoodNews=firstNews;snapshot=true;
+    if(status&&(!detail||detailLookupSettled)){status.textContent='';status.hidden=true;}
    }
-   const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),8000);
-   try{
-    const remoteAttempts=await Promise.all(CSV_URLS.slice(1).map((baseURL,i)=>fetchFeed(baseURL,i+1,controller.signal)));
-    const attempts=[localAttempt,...remoteAttempts].filter(Boolean);
-    const preferred=[1,2,3,0];
-    const authority=attempts.sort((a,b)=>(b.max-a.max)||(preferred.indexOf(a.index)-preferred.indexOf(b.index)))[0];
-    if(!authority){if(!snapshot)throw new Error('CSV no disponible');detailLookupSettled=true;if(detail)render(lastGoodNews);return;}
-    const fresh=authority.news.sort((a,b)=>b.date-a.date);
-    const protectedFeed=authority.index===1?{news:fresh,regressed:false}:protectAgainstFeedRegression(fresh,lastGoodNews);
-    const news=protectedFeed.news;
-    detailLookupSettled=true;render(news);lastGoodNews=news;snapshot=true;
-    if(!protectedFeed.regressed){try{localStorage.setItem(CACHE_KEY,authority.text);}catch{}}
-    if(status){status.textContent=protectedFeed.regressed?'Sincronizando: se conservan las noticias más nuevas mientras Google actualiza la planilla.':'';status.hidden=!protectedFeed.regressed;}
-   }finally{clearTimeout(timeout);}
+   const [localAttempt,primaryAttempt]=await Promise.all([localPromise,primaryPromise]);
+   let attempts=[localAttempt,primaryAttempt].filter(Boolean);
+   if(!primaryAttempt){
+    const backups=await Promise.all(CSV_URLS.slice(2).map((baseURL,i)=>fetchFeed(baseURL,i+2,controller.signal)));
+    attempts.push(...backups.filter(Boolean));
+   }
+   const preferred=[1,2,3,0];
+   const authority=attempts.sort((a,b)=>(b.max-a.max)||(preferred.indexOf(a.index)-preferred.indexOf(b.index)))[0];
+   if(!authority){if(!snapshot)throw new Error('CSV no disponible');detailLookupSettled=true;if(detail)render(lastGoodNews);return;}
+   const fresh=authority.news.sort((a,b)=>b.date-a.date);
+   const protectedFeed=authority.index===1?{news:fresh,regressed:false}:protectAgainstFeedRegression(fresh,lastGoodNews);
+   const news=protectedFeed.news;
+   detailLookupSettled=true;render(news);lastGoodNews=news;snapshot=true;
+   if(!protectedFeed.regressed){try{localStorage.setItem(CACHE_KEY,authority.text);}catch{}}
+   if(status){status.textContent=protectedFeed.regressed?'Sincronizando: se conservan las noticias más nuevas mientras Google actualiza la planilla.':'';status.hidden=!protectedFeed.regressed;}
   }catch{
    if(status)status.textContent=snapshot?'':'No se pudieron cargar las noticias. Reintentaremos al recuperar la conexión.';
    if(status&&snapshot)status.hidden=true;
-  }finally{busy=false;}
+  }finally{clearTimeout(timeout);busy=false;}
  }
  searchInput?.addEventListener('input',()=>{renderLimit=INITIAL_RENDER_LIMIT;if(currentNews.length)render(currentNews);});
  refresh();window.addEventListener('online',refresh);setInterval(()=>{if(document.visibilityState==='visible')refresh();},60*1000);
