@@ -352,31 +352,44 @@
   return {news:[...fresh,...protectedRecent].sort((a,b)=>b.date-a.date),regressed:protectedRecent.length>0};
  }
  try{const cached=localStorage.getItem(CACHE_KEY);if(cached!==null){const cachedNews=readNews(cached);lastGoodNews=cachedNews;render(cachedNews);snapshot=true;}}catch{}
- async function refresh(){
-  if(busy)return;busy=true;if(status){status.hidden=false;status.textContent=snapshot?'Actualizando noticias…':'Cargando noticias…';}
-  const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),15000);
+ async function fetchFeed(baseURL,index,signal){
   try{
-   const attempts=await Promise.all(CSV_URLS.map(async (baseURL,index)=>{
-    try{
-     const response=await fetch(baseURL+(baseURL.includes('?')?'&':'?')+'_='+Date.now(),{signal:controller.signal,cache:'no-store',credentials:'omit'});
-     if(!response.ok)return null;
-     const text=await response.text(),news=readNews(text);if(!news.length)return null;
-     const max=news.reduce((value,item)=>Math.max(value,item.date||0),0);
-     return {text,news,max,index};
-    }catch{return null;}
-   }));
-   const preferred=[1,2,3,0];\n   const authority=attempts.filter(Boolean).sort((a,b)=>(b.max-a.max)||(preferred.indexOf(a.index)-preferred.indexOf(b.index)))[0];
-   if(!authority)throw new Error('CSV no disponible');
-   const fresh=authority.news.sort((a,b)=>b.date-a.date);
-   const text=authority.text;
-   const protectedFeed=authority.index===1?{news:fresh,regressed:false}:protectAgainstFeedRegression(fresh,lastGoodNews);
-   const news=protectedFeed.news;
-   render(news);lastGoodNews=news;snapshot=true;
-   if(!protectedFeed.regressed){try{localStorage.setItem(CACHE_KEY,text);}catch{}}
-   if(status){status.textContent=protectedFeed.regressed?'Sincronizando: se conservan las noticias más nuevas mientras Google actualiza la planilla.':'';status.hidden=!protectedFeed.regressed;}
-  }
-  catch{if(status)status.textContent=snapshot?'Mostrando la última versión guardada. No se pudieron actualizar las noticias.':'No se pudieron cargar las noticias. Reintentaremos al recuperar la conexión.';}
-  finally{clearTimeout(timeout);busy=false;}
+   const response=await fetch(baseURL+(baseURL.includes('?')?'&':'?')+'_='+Date.now(),{signal,cache:'no-store',credentials:'omit'});
+   if(!response.ok)return null;
+   const text=await response.text(),news=readNews(text);if(!news.length)return null;
+   const max=news.reduce((value,item)=>Math.max(value,item.date||0),0);
+   return {text,news,max,index};
+  }catch{return null;}
+ }
+ async function refresh(){
+  if(busy)return;busy=true;
+  if(status){status.hidden=false;status.textContent=snapshot?'Actualizando noticias…':'Cargando noticias…';}
+  let localAttempt=null;
+  try{
+   localAttempt=await fetchFeed(CSV_URLS[0],0);
+   if(localAttempt){
+    const localFresh=localAttempt.news.sort((a,b)=>b.date-a.date);
+    render(localFresh);lastGoodNews=localFresh;snapshot=true;
+    if(status){status.textContent='';status.hidden=true;}
+   }
+   const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),8000);
+   try{
+    const remoteAttempts=await Promise.all(CSV_URLS.slice(1).map((baseURL,i)=>fetchFeed(baseURL,i+1,controller.signal)));
+    const attempts=[localAttempt,...remoteAttempts].filter(Boolean);
+    const preferred=[1,2,3,0];
+    const authority=attempts.sort((a,b)=>(b.max-a.max)||(preferred.indexOf(a.index)-preferred.indexOf(b.index)))[0];
+    if(!authority){if(!snapshot)throw new Error('CSV no disponible');return;}
+    const fresh=authority.news.sort((a,b)=>b.date-a.date);
+    const protectedFeed=authority.index===1?{news:fresh,regressed:false}:protectAgainstFeedRegression(fresh,lastGoodNews);
+    const news=protectedFeed.news;
+    render(news);lastGoodNews=news;snapshot=true;
+    if(!protectedFeed.regressed){try{localStorage.setItem(CACHE_KEY,authority.text);}catch{}}
+    if(status){status.textContent=protectedFeed.regressed?'Sincronizando: se conservan las noticias más nuevas mientras Google actualiza la planilla.':'';status.hidden=!protectedFeed.regressed;}
+   }finally{clearTimeout(timeout);}
+  }catch{
+   if(status)status.textContent=snapshot?'':'No se pudieron cargar las noticias. Reintentaremos al recuperar la conexión.';
+   if(status&&snapshot)status.hidden=true;
+  }finally{busy=false;}
  }
  searchInput?.addEventListener('input',()=>{renderLimit=INITIAL_RENDER_LIMIT;if(currentNews.length)render(currentNews);});
  refresh();window.addEventListener('online',refresh);setInterval(()=>{if(document.visibilityState==='visible')refresh();},60*1000);
