@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T14:24:39.109Z",
+  "updatedAt": "2026-09-27T14:51:04.865Z",
   "trends": [
+    {
+      "query": "granizo",
+      "startedAt": "2026-09-27T14:30:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "boca racing",
+      "startedAt": "2026-09-27T14:30:00.000Z",
+      "volume": 500
+    },
     {
       "query": "hija",
       "startedAt": "2026-09-27T13:10:00.000Z",
@@ -16,12 +26,12 @@
     {
       "query": "clima",
       "startedAt": "2026-09-27T10:10:00.000Z",
-      "volume": 200000
+      "volume": 500000
     },
     {
       "query": "google's birthday",
       "startedAt": "2026-09-27T10:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "australia - sudáfrica",
@@ -41,16 +51,6 @@
     {
       "query": "sofía martínez",
       "startedAt": "2026-09-27T03:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "raoni barcelos",
-      "startedAt": "2026-09-27T02:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "marilina bertoldi",
-      "startedAt": "2026-09-27T02:30:00.000Z",
       "volume": 5000
     }
   ]
