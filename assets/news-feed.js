@@ -16,6 +16,7 @@
  const status=document.querySelector('#newsStatus');
  const searchInput=document.querySelector('#searchInput');
  let currentNews=[];
+ let detailLookupSettled=!detail;
  const INITIAL_RENDER_LIMIT=36,RENDER_PAGE_SIZE=36;
  let renderLimit=INITIAL_RENDER_LIMIT,loadMoreObserver=null;
  const categories={independiente:'Independiente',futbol:'Fútbol',f1:'F1',seleccion:'Selección Argentina',agenda:'Agenda'};
@@ -300,7 +301,12 @@
  }
  function renderDetail(news){
   const requested=new URL(location.href).searchParams.get('n');const item=news.find(x=>new URL(articleURL(x)).searchParams.get('n')===requested);detail.replaceChildren();
-  if(!item){detail.append(element('h1','','Noticia no disponible'),element('p','','La noticia no está en la última versión disponible de la planilla.'));document.title='Noticia no disponible | RanaSports';document.querySelector('meta[name="robots"]')?.setAttribute('content','noindex,follow');document.querySelector('#articleSchema')?.remove();return;}
+  if(!item){
+   if(!detailLookupSettled){if(status){status.hidden=false;status.textContent='Cargando noticia…';}return;}
+   if(status){status.textContent='';status.hidden=true;}
+   detail.append(element('h1','','Noticia no disponible'),element('p','','La noticia no está en la última versión disponible de la planilla.'));document.title='Noticia no disponible | RanaSports';document.querySelector('meta[name="robots"]')?.setAttribute('content','noindex,follow');document.querySelector('#articleSchema')?.remove();return;
+  }
+  if(status){status.textContent='';status.hidden=true;}
   const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':'badge-site'),item.sport));const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);
   detail.append(meta,element('h1','',item.title),element('p','article-meta','Creado por @RanaMatiusTV'));appendArticlePhoto(item);
   const content=element('div','article-body');content.append(element('p','article-summary',item.summary));if(item.hasEmbed&&item.video!==item.image)renderEmbed(content,item.video);if(item.extraImage&&item.extraImage!==item.image&&item.extraImage!==item.video)renderSupplementalImage(content,item.extraImage);if(item.category==='f1'){const p=element('p');p.append(link('https://www.youtube.com/@RanaF1TV','🏎️ YouTube Rana F1','ghost-btn'));content.append(p);}detail.append(content);
@@ -363,14 +369,14 @@
  }
  async function refresh(){
   if(busy)return;busy=true;
-  if(status){status.hidden=false;status.textContent=snapshot?'Actualizando noticias…':'Cargando noticias…';}
+  if(status){status.hidden=false;status.textContent=detail&&!detailLookupSettled?'Cargando noticia…':(snapshot?'Actualizando noticias…':'Cargando noticias…');}
   let localAttempt=null;
   try{
    localAttempt=await fetchFeed(CSV_URLS[0],0);
    if(localAttempt){
     const localFresh=localAttempt.news.sort((a,b)=>b.date-a.date);
     render(localFresh);lastGoodNews=localFresh;snapshot=true;
-    if(status){status.textContent='';status.hidden=true;}
+    if(status){if(detail&&!detailLookupSettled){status.hidden=false;status.textContent='Cargando noticia…';}else{status.textContent='';status.hidden=true;}}
    }
    const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),8000);
    try{
@@ -378,11 +384,11 @@
     const attempts=[localAttempt,...remoteAttempts].filter(Boolean);
     const preferred=[1,2,3,0];
     const authority=attempts.sort((a,b)=>(b.max-a.max)||(preferred.indexOf(a.index)-preferred.indexOf(b.index)))[0];
-    if(!authority){if(!snapshot)throw new Error('CSV no disponible');return;}
+    if(!authority){if(!snapshot)throw new Error('CSV no disponible');detailLookupSettled=true;if(detail)render(lastGoodNews);return;}
     const fresh=authority.news.sort((a,b)=>b.date-a.date);
     const protectedFeed=authority.index===1?{news:fresh,regressed:false}:protectAgainstFeedRegression(fresh,lastGoodNews);
     const news=protectedFeed.news;
-    render(news);lastGoodNews=news;snapshot=true;
+    detailLookupSettled=true;render(news);lastGoodNews=news;snapshot=true;
     if(!protectedFeed.regressed){try{localStorage.setItem(CACHE_KEY,authority.text);}catch{}}
     if(status){status.textContent=protectedFeed.regressed?'Sincronizando: se conservan las noticias más nuevas mientras Google actualiza la planilla.':'';status.hidden=!protectedFeed.regressed;}
    }finally{clearTimeout(timeout);}
