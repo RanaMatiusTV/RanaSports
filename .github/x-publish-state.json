@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNTUyMjIwMDAwLCJHQVVESU8gU0UgUkVVTknDkyBDT04gRUwgRU1JUiBERSBRQVRBUiBZIEFWQU5aQSBDT04gU1UgQ0FORElEQVRVUkEgRU4gSU5ERVBFTkRJRU5URSJd": {
+      "account": "main",
+      "title": "GAUDIO SE REUNIÓ CON EL EMIR DE QATAR Y AVANZA CON SU CANDIDATURA EN INDEPENDIENTE",
+      "dueAt": "2026-09-27T20:20:00.000Z",
+      "bufferPostId": "6ab979df82dee5c85bc97647",
+      "createdAt": "2026-09-27T20:17:36.135Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDUyODY0MDAwMCwiRUwgS1VOIEFHw5xFUk8gU0FMScOTIEEgQkFOQ0FSIEEgQ09MQVBJTlRPIFkgUkVTUE9OREnDkyBBIExBUyBDUsONVElDQVMgREUgTk9SUklTIl0": {
       "account": "f1",
       "title": "EL KUN AGÜERO SALIÓ A BANCAR A COLAPINTO Y RESPONDIÓ A LAS CRÍTICAS DE NORRIS",
@@ -2559,7 +2566,7 @@
   },
   "nextAt": {
     "f1": "2026-09-27T18:25:00.000Z",
-    "main": "2026-09-27T18:25:00.000Z"
+    "main": "2026-09-27T20:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
