@@ -1,22 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T13:50:57.010Z",
+  "updatedAt": "2026-09-27T14:24:39.109Z",
   "trends": [
     {
       "query": "hija",
       "startedAt": "2026-09-27T13:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "puente colgante",
       "startedAt": "2026-09-27T10:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "clima",
       "startedAt": "2026-09-27T10:10:00.000Z",
-      "volume": 500000
+      "volume": 200000
     },
     {
       "query": "google's birthday",
@@ -31,7 +31,12 @@
     {
       "query": "carlos melconian",
       "startedAt": "2026-09-27T09:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
+    },
+    {
+      "query": "pronostico",
+      "startedAt": "2026-09-27T06:20:00.000Z",
+      "volume": 1000
     },
     {
       "query": "sofía martínez",
@@ -46,12 +51,7 @@
     {
       "query": "marilina bertoldi",
       "startedAt": "2026-09-27T02:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "discapacidad",
-      "startedAt": "2026-09-27T02:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     }
   ]
 }
