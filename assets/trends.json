@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-26T23:50:32.003Z",
+  "updatedAt": "2026-09-27T00:33:48.611Z",
   "trends": [
+    {
+      "query": "méxico - colombia",
+      "startedAt": "2026-09-27T00:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "tiempo de mañana",
+      "startedAt": "2026-09-26T23:40:00.000Z",
+      "volume": 200000
+    },
+    {
+      "query": "tiempo mañana",
+      "startedAt": "2026-09-26T23:40:00.000Z",
+      "volume": 20000
+    },
     {
       "query": "ufc hoy",
       "startedAt": "2026-09-26T23:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "tormenta",
@@ -24,11 +39,6 @@
       "volume": 2000
     },
     {
-      "query": "lluvia",
-      "startedAt": "2026-09-26T22:50:00.000Z",
-      "volume": 2000
-    },
-    {
       "query": "canadá - chile",
       "startedAt": "2026-09-26T22:30:00.000Z",
       "volume": 2000
@@ -42,16 +52,6 @@
       "query": "fabiana araujo",
       "startedAt": "2026-09-26T22:30:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "cristina fernández de kirchner",
-      "startedAt": "2026-09-26T22:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "deportivo madryn - central norte",
-      "startedAt": "2026-09-26T22:00:00.000Z",
-      "volume": 2000
     }
   ]
 }
