@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T10:51:14.838Z",
+  "updatedAt": "2026-09-27T11:24:52.567Z",
   "trends": [
     {
       "query": "puente colgante",
       "startedAt": "2026-09-27T10:20:00.000Z",
-      "volume": 100
+      "volume": 500
     },
     {
       "query": "clima",
       "startedAt": "2026-09-27T10:10:00.000Z",
-      "volume": 50000
+      "volume": 100000
     },
     {
       "query": "google's birthday",
@@ -21,7 +21,7 @@
     {
       "query": "carlos melconian",
       "startedAt": "2026-09-27T09:50:00.000Z",
-      "volume": 200
+      "volume": 1000
     },
     {
       "query": "tiempo hoy",
