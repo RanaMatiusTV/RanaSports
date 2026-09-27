@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T17:24:02.682Z",
+  "updatedAt": "2026-09-27T17:50:50.036Z",
   "trends": [
+    {
+      "query": "lance stroll",
+      "startedAt": "2026-09-27T17:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "comunicado alpine",
+      "startedAt": "2026-09-27T17:20:00.000Z",
+      "volume": 500
+    },
     {
       "query": "empresario",
       "startedAt": "2026-09-27T16:50:00.000Z",
@@ -19,14 +29,14 @@
       "volume": 5000
     },
     {
+      "query": "boca racing",
+      "startedAt": "2026-09-27T14:30:00.000Z",
+      "volume": 10000
+    },
+    {
       "query": "granizo",
       "startedAt": "2026-09-27T14:30:00.000Z",
       "volume": 200000
-    },
-    {
-      "query": "boca racing",
-      "startedAt": "2026-09-27T14:30:00.000Z",
-      "volume": 5000
     },
     {
       "query": "hija",
@@ -39,19 +49,9 @@
       "volume": 2000
     },
     {
-      "query": "australia - sudáfrica",
+      "query": "google's birthday",
       "startedAt": "2026-09-27T10:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "carlos melconian",
-      "startedAt": "2026-09-27T09:50:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "28º aniversario de google",
-      "startedAt": "2026-09-27T09:10:00.000Z",
-      "volume": 100000
+      "volume": 5000
     }
   ]
 }
