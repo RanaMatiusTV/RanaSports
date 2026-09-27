@@ -1,27 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T18:53:32.523Z",
+  "updatedAt": "2026-09-27T19:23:19.090Z",
   "trends": [
+    {
+      "query": "defensores de belgrano - ferro",
+      "startedAt": "2026-09-27T18:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "portugal vs",
+      "startedAt": "2026-09-27T18:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "almagro - nueva chicago",
       "startedAt": "2026-09-27T18:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "noruega - portugal",
       "startedAt": "2026-09-27T17:50:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "alemania - grecia",
       "startedAt": "2026-09-27T17:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "comunicado de alpine",
       "startedAt": "2026-09-27T17:50:00.000Z",
-      "volume": 10000
+      "volume": 5000
     },
     {
       "query": "lance stroll",
@@ -42,16 +52,6 @@
       "query": "boca racing",
       "startedAt": "2026-09-27T14:30:00.000Z",
       "volume": 20000
-    },
-    {
-      "query": "granizo",
-      "startedAt": "2026-09-27T14:30:00.000Z",
-      "volume": 200000
-    },
-    {
-      "query": "hija",
-      "startedAt": "2026-09-27T13:10:00.000Z",
-      "volume": 1000
     }
   ]
 }
