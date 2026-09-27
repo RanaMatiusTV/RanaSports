@@ -1,17 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T19:23:19.090Z",
+  "updatedAt": "2026-09-27T19:49:38.646Z",
   "trends": [
     {
-      "query": "defensores de belgrano - ferro",
-      "startedAt": "2026-09-27T18:40:00.000Z",
-      "volume": 2000
+      "query": "deportivo maipú - temperley",
+      "startedAt": "2026-09-27T19:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "racing - boca juniors",
+      "startedAt": "2026-09-27T19:00:00.000Z",
+      "volume": 50000
     },
     {
       "query": "portugal vs",
       "startedAt": "2026-09-27T18:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
+    },
+    {
+      "query": "defensores de belgrano - ferro",
+      "startedAt": "2026-09-27T18:40:00.000Z",
+      "volume": 2000
     },
     {
       "query": "almagro - nueva chicago",
@@ -41,17 +51,7 @@
     {
       "query": "empresario",
       "startedAt": "2026-09-27T16:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "serbia - países bajos",
-      "startedAt": "2026-09-27T15:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "boca racing",
-      "startedAt": "2026-09-27T14:30:00.000Z",
-      "volume": 20000
+      "volume": 10000
     }
   ]
 }
