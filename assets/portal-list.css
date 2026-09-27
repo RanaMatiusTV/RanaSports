@@ -226,3 +226,9 @@ html[data-theme="light"] #newsGrid .news-card:has(>.news-image) h3 a:hover{
  #newsGrid .news-card{margin-bottom:14px!important;}
  #newsGrid .news-card:last-child{margin-bottom:0!important;}
 }
+
+/* v20260927-1828: gap real entre tarjetas móviles; no depende de margin de cada card. */
+@media(max-width:1049px){
+ #newsGrid.editorial-grid{display:flex!important;flex-direction:column!important;gap:14px!important;}
+ #newsGrid.editorial-grid>.news-card{margin:0!important;}
+}
