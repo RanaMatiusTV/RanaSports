@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T22:51:44.824Z",
+  "updatedAt": "2026-09-27T23:23:58.429Z",
   "trends": [
+    {
+      "query": "kick",
+      "startedAt": "2026-09-27T22:40:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "columbus crew - inter miami",
       "startedAt": "2026-09-27T22:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "quien juega hoy",
-      "startedAt": "2026-09-27T21:50:00.000Z",
-      "volume": 2000
+      "volume": 10000
     },
     {
       "query": "partidos de hoy",
@@ -19,9 +19,9 @@
       "volume": 2000
     },
     {
-      "query": "partidos hoy",
+      "query": "quien juega hoy",
       "startedAt": "2026-09-27T21:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "gimnasia y tiro de salta - atlético rafaela",
@@ -44,14 +44,14 @@
       "volume": 1000
     },
     {
-      "query": "boca",
-      "startedAt": "2026-09-27T20:30:00.000Z",
-      "volume": 500000
-    },
-    {
       "query": "racing de córdoba - godoy cruz",
       "startedAt": "2026-09-27T19:50:00.000Z",
       "volume": 10000
+    },
+    {
+      "query": "bolivia - paraguay",
+      "startedAt": "2026-09-27T19:40:00.000Z",
+      "volume": 20000
     }
   ]
 }
