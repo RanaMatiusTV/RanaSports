@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T11:51:11.879Z",
+  "updatedAt": "2026-09-27T12:30:30.045Z",
   "trends": [
     {
       "query": "puente colgante",
       "startedAt": "2026-09-27T10:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "clima",
@@ -14,24 +14,24 @@
       "volume": 100000
     },
     {
-      "query": "australia - sudáfrica",
-      "startedAt": "2026-09-27T10:10:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "google's birthday",
       "startedAt": "2026-09-27T10:10:00.000Z",
-      "volume": 200
+      "volume": 500
+    },
+    {
+      "query": "australia - sudáfrica",
+      "startedAt": "2026-09-27T10:10:00.000Z",
+      "volume": 500
     },
     {
       "query": "carlos melconian",
       "startedAt": "2026-09-27T09:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "tiempo hoy",
       "startedAt": "2026-09-27T06:50:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "pronostico",
@@ -49,8 +49,8 @@
       "volume": 1000
     },
     {
-      "query": "discapacidad",
-      "startedAt": "2026-09-27T02:10:00.000Z",
+      "query": "marilina bertoldi",
+      "startedAt": "2026-09-27T02:30:00.000Z",
       "volume": 2000
     }
   ]
