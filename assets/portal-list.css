@@ -220,3 +220,9 @@ html[data-theme="light"] #newsGrid .news-card:has(>.news-image) h3 a:hover{
   background:transparent!important;
  }
 }
+
+/* v20260927-1825: separación visual entre noticias en portada móvil */
+@media(max-width:1049px){
+ #newsGrid .news-card{margin-bottom:14px!important;}
+ #newsGrid .news-card:last-child{margin-bottom:0!important;}
+}
