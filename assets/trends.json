@@ -1,8 +1,28 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T19:49:38.646Z",
+  "updatedAt": "2026-09-27T20:24:55.250Z",
   "trends": [
+    {
+      "query": "racing de córdoba - godoy cruz",
+      "startedAt": "2026-09-27T19:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "tyc sports en vivo",
+      "startedAt": "2026-09-27T19:50:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "bolivia - paraguay",
+      "startedAt": "2026-09-27T19:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "midland - tristán suárez",
+      "startedAt": "2026-09-27T19:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "deportivo maipú - temperley",
       "startedAt": "2026-09-27T19:30:00.000Z",
@@ -11,17 +31,12 @@
     {
       "query": "racing - boca juniors",
       "startedAt": "2026-09-27T19:00:00.000Z",
-      "volume": 50000
+      "volume": 200000
     },
     {
       "query": "portugal vs",
       "startedAt": "2026-09-27T18:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "defensores de belgrano - ferro",
-      "startedAt": "2026-09-27T18:40:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "almagro - nueva chicago",
@@ -36,21 +51,6 @@
     {
       "query": "alemania - grecia",
       "startedAt": "2026-09-27T17:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "comunicado de alpine",
-      "startedAt": "2026-09-27T17:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "lance stroll",
-      "startedAt": "2026-09-27T17:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "empresario",
-      "startedAt": "2026-09-27T16:50:00.000Z",
       "volume": 10000
     }
   ]
