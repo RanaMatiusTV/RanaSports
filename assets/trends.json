@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T14:51:04.865Z",
+  "updatedAt": "2026-09-27T15:25:07.513Z",
   "trends": [
+    {
+      "query": "serbia - países bajos",
+      "startedAt": "2026-09-27T15:10:00.000Z",
+      "volume": 500
+    },
     {
       "query": "granizo",
       "startedAt": "2026-09-27T14:30:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "boca racing",
       "startedAt": "2026-09-27T14:30:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "hija",
@@ -26,7 +31,7 @@
     {
       "query": "clima",
       "startedAt": "2026-09-27T10:10:00.000Z",
-      "volume": 500000
+      "volume": 200000
     },
     {
       "query": "google's birthday",
@@ -42,11 +47,6 @@
       "query": "carlos melconian",
       "startedAt": "2026-09-27T09:50:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "pronostico",
-      "startedAt": "2026-09-27T06:20:00.000Z",
-      "volume": 1000
     },
     {
       "query": "sofía martínez",
