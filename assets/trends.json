@@ -1,27 +1,47 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T21:50:24.251Z",
+  "updatedAt": "2026-09-27T22:25:30.037Z",
   "trends": [
+    {
+      "query": "quien juega hoy",
+      "startedAt": "2026-09-27T21:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "ole",
+      "startedAt": "2026-09-27T21:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "partidos de hoy",
+      "startedAt": "2026-09-27T21:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "partidos hoy",
+      "startedAt": "2026-09-27T21:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "cómo va boca",
       "startedAt": "2026-09-27T21:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "gimnasia y tiro de salta - atlético rafaela",
       "startedAt": "2026-09-27T21:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "juan otero",
-      "startedAt": "2026-09-27T20:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "chile",
       "startedAt": "2026-09-27T20:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
+    },
+    {
+      "query": "juan otero",
+      "startedAt": "2026-09-27T20:50:00.000Z",
+      "volume": 2000
     },
     {
       "query": "fondo buitre",
@@ -31,27 +51,7 @@
     {
       "query": "racing de córdoba - godoy cruz",
       "startedAt": "2026-09-27T19:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "bolivia - paraguay",
-      "startedAt": "2026-09-27T19:40:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "midland - tristán suárez",
-      "startedAt": "2026-09-27T19:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "deportivo maipú - temperley",
-      "startedAt": "2026-09-27T19:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "racing - boca juniors",
-      "startedAt": "2026-09-27T19:00:00.000Z",
-      "volume": 500000
+      "volume": 10000
     }
   ]
 }
