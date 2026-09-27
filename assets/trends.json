@@ -1,27 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T09:51:38.995Z",
+  "updatedAt": "2026-09-27T10:24:56.508Z",
   "trends": [
+    {
+      "query": "google's birthday",
+      "startedAt": "2026-09-27T10:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "carlos melconian",
+      "startedAt": "2026-09-27T09:50:00.000Z",
+      "volume": 200
+    },
     {
       "query": "tiempo hoy",
       "startedAt": "2026-09-27T06:50:00.000Z",
       "volume": 200
     },
     {
+      "query": "clima hoy",
+      "startedAt": "2026-09-27T06:30:00.000Z",
+      "volume": 1000
+    },
+    {
       "query": "pronostico",
       "startedAt": "2026-09-27T06:20:00.000Z",
-      "volume": 2000
+      "volume": 1000
     },
     {
       "query": "sofía martínez",
       "startedAt": "2026-09-27T03:20:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "raoni barcelos",
-      "startedAt": "2026-09-27T02:40:00.000Z",
-      "volume": 1000
     },
     {
       "query": "discapacidad",
@@ -42,16 +52,6 @@
       "query": "alerta meteorológica",
       "startedAt": "2026-09-27T01:20:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "bochini",
-      "startedAt": "2026-09-27T01:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ailin perez",
-      "startedAt": "2026-09-27T01:00:00.000Z",
-      "volume": 10000
     }
   ]
 }
