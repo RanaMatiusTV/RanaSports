@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDUxMDUyMDAwMCwiTU9OVE9ZQSBCQU5Dw5MgQSBDT0xBUElOVE8gVFJBUyBFTCBDSE9RVUUgRU4gQkFLw5o6IOKAnEFETUlSTyBBIExBIEdFTlRFIFFVRSBMTyBJTlRFTlRB4oCdIl0": {
+      "account": "f1",
+      "title": "MONTOYA BANCÓ A COLAPINTO TRAS EL CHOQUE EN BAKÚ: “ADMIRO A LA GENTE QUE LO INTENTA”",
+      "dueAt": "2026-09-27T16:20:00.000Z",
+      "bufferPostId": "6ab941e570ec211d1d1edbed",
+      "createdAt": "2026-09-27T16:18:45.443Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDUxNDMwMDAwMCwiQUxQSU5FIFNBTEnDkyBBIEZSRU5BUiBFTCBPRElPIEVOIFJFREVTIFRSQVMgRUwgQ0hPUVVFIERFIENPTEFQSU5UTyBFTiBCQUvDmiJd": {
       "account": "f1",
       "title": "ALPINE SALIÓ A FRENAR EL ODIO EN REDES TRAS EL CHOQUE DE COLAPINTO EN BAKÚ",
@@ -2537,7 +2544,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-27T15:20:00.000Z",
+    "f1": "2026-09-27T16:25:00.000Z",
     "main": "2026-09-27T02:05:00.000Z"
   },
   "buffer": {
