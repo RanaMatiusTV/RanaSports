@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T16:52:00.323Z",
+  "updatedAt": "2026-09-27T17:24:02.682Z",
   "trends": [
+    {
+      "query": "empresario",
+      "startedAt": "2026-09-27T16:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "fórmula 1",
       "startedAt": "2026-09-27T16:00:00.000Z",
@@ -11,12 +16,12 @@
     {
       "query": "serbia - países bajos",
       "startedAt": "2026-09-27T15:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "granizo",
       "startedAt": "2026-09-27T14:30:00.000Z",
-      "volume": 10000
+      "volume": 200000
     },
     {
       "query": "boca racing",
@@ -34,11 +39,6 @@
       "volume": 2000
     },
     {
-      "query": "clima",
-      "startedAt": "2026-09-27T10:10:00.000Z",
-      "volume": 200000
-    },
-    {
       "query": "australia - sudáfrica",
       "startedAt": "2026-09-27T10:10:00.000Z",
       "volume": 1000
@@ -51,7 +51,7 @@
     {
       "query": "28º aniversario de google",
       "startedAt": "2026-09-27T09:10:00.000Z",
-      "volume": 50000
+      "volume": 100000
     }
   ]
 }
