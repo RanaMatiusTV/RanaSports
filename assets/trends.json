@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T10:24:56.508Z",
+  "updatedAt": "2026-09-27T10:51:14.838Z",
   "trends": [
+    {
+      "query": "puente colgante",
+      "startedAt": "2026-09-27T10:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clima",
+      "startedAt": "2026-09-27T10:10:00.000Z",
+      "volume": 50000
+    },
     {
       "query": "google's birthday",
       "startedAt": "2026-09-27T10:10:00.000Z",
@@ -17,11 +27,6 @@
       "query": "tiempo hoy",
       "startedAt": "2026-09-27T06:50:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "clima hoy",
-      "startedAt": "2026-09-27T06:30:00.000Z",
-      "volume": 1000
     },
     {
       "query": "pronostico",
@@ -47,11 +52,6 @@
       "query": "pepe chatruc",
       "startedAt": "2026-09-27T01:30:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "alerta meteorológica",
-      "startedAt": "2026-09-27T01:20:00.000Z",
-      "volume": 5000
     }
   ]
 }
