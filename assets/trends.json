@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T23:23:58.429Z",
+  "updatedAt": "2026-09-27T23:50:30.611Z",
   "trends": [
     {
       "query": "kick",
@@ -11,12 +11,7 @@
     {
       "query": "columbus crew - inter miami",
       "startedAt": "2026-09-27T22:20:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "partidos de hoy",
-      "startedAt": "2026-09-27T21:50:00.000Z",
-      "volume": 2000
+      "volume": 20000
     },
     {
       "query": "quien juega hoy",
@@ -31,7 +26,7 @@
     {
       "query": "chile",
       "startedAt": "2026-09-27T20:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "juan otero",
@@ -52,6 +47,11 @@
       "query": "bolivia - paraguay",
       "startedAt": "2026-09-27T19:40:00.000Z",
       "volume": 20000
+    },
+    {
+      "query": "midland - tristán suárez",
+      "startedAt": "2026-09-27T19:40:00.000Z",
+      "volume": 1000
     }
   ]
 }
