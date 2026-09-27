@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T16:26:01.697Z",
+  "updatedAt": "2026-09-27T16:52:00.323Z",
   "trends": [
     {
       "query": "fórmula 1",
@@ -21,7 +21,7 @@
     {
       "query": "boca racing",
       "startedAt": "2026-09-27T14:30:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "hija",
