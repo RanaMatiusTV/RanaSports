@@ -365,7 +365,7 @@
      return {text,news,max,index};
     }catch{return null;}
    }));
-   const authority=attempts[1]||attempts[2]||attempts[3]||attempts[0];
+   const preferred=[1,2,3,0];\n   const authority=attempts.filter(Boolean).sort((a,b)=>(b.max-a.max)||(preferred.indexOf(a.index)-preferred.indexOf(b.index)))[0];
    if(!authority)throw new Error('CSV no disponible');
    const fresh=authority.news.sort((a,b)=>b.date-a.date);
    const text=authority.text;
