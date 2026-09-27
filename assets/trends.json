@@ -1,15 +1,15 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T22:25:30.037Z",
+  "updatedAt": "2026-09-27T22:51:44.824Z",
   "trends": [
     {
-      "query": "quien juega hoy",
-      "startedAt": "2026-09-27T21:50:00.000Z",
-      "volume": 2000
+      "query": "columbus crew - inter miami",
+      "startedAt": "2026-09-27T22:20:00.000Z",
+      "volume": 5000
     },
     {
-      "query": "ole",
+      "query": "quien juega hoy",
       "startedAt": "2026-09-27T21:50:00.000Z",
       "volume": 2000
     },
@@ -22,11 +22,6 @@
       "query": "partidos hoy",
       "startedAt": "2026-09-27T21:50:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "cómo va boca",
-      "startedAt": "2026-09-27T21:20:00.000Z",
-      "volume": 2000
     },
     {
       "query": "gimnasia y tiro de salta - atlético rafaela",
@@ -47,6 +42,11 @@
       "query": "fondo buitre",
       "startedAt": "2026-09-27T20:50:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "boca",
+      "startedAt": "2026-09-27T20:30:00.000Z",
+      "volume": 500000
     },
     {
       "query": "racing de córdoba - godoy cruz",
