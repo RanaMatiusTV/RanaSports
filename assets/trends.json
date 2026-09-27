@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T11:24:52.567Z",
+  "updatedAt": "2026-09-27T11:51:11.879Z",
   "trends": [
     {
       "query": "puente colgante",
@@ -12,6 +12,11 @@
       "query": "clima",
       "startedAt": "2026-09-27T10:10:00.000Z",
       "volume": 100000
+    },
+    {
+      "query": "australia - sudáfrica",
+      "startedAt": "2026-09-27T10:10:00.000Z",
+      "volume": 200
     },
     {
       "query": "google's birthday",
@@ -39,19 +44,14 @@
       "volume": 2000
     },
     {
+      "query": "raoni barcelos",
+      "startedAt": "2026-09-27T02:40:00.000Z",
+      "volume": 1000
+    },
+    {
       "query": "discapacidad",
       "startedAt": "2026-09-27T02:10:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "jairo",
-      "startedAt": "2026-09-27T01:30:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "pepe chatruc",
-      "startedAt": "2026-09-27T01:30:00.000Z",
-      "volume": 200
     }
   ]
 }
