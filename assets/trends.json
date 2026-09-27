@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T15:51:23.892Z",
+  "updatedAt": "2026-09-27T16:26:01.697Z",
   "trends": [
+    {
+      "query": "fórmula 1",
+      "startedAt": "2026-09-27T16:00:00.000Z",
+      "volume": 10000
+    },
     {
       "query": "serbia - países bajos",
       "startedAt": "2026-09-27T15:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "granizo",
@@ -34,11 +39,6 @@
       "volume": 200000
     },
     {
-      "query": "google's birthday",
-      "startedAt": "2026-09-27T10:10:00.000Z",
-      "volume": 2000
-    },
-    {
       "query": "australia - sudáfrica",
       "startedAt": "2026-09-27T10:10:00.000Z",
       "volume": 1000
@@ -46,12 +46,12 @@
     {
       "query": "carlos melconian",
       "startedAt": "2026-09-27T09:50:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
-      "query": "sofía martínez",
-      "startedAt": "2026-09-27T03:20:00.000Z",
-      "volume": 5000
+      "query": "28º aniversario de google",
+      "startedAt": "2026-09-27T09:10:00.000Z",
+      "volume": 50000
     }
   ]
 }
