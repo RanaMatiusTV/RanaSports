@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T22:25:40.331Z",
+  "updatedAt": "2026-09-28T22:52:30.767Z",
   "trends": [
     {
       "query": "libertad - olimpia",
       "startedAt": "2026-09-28T21:30:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "gobierno",
@@ -46,7 +46,7 @@
     {
       "query": "allanamiento",
       "startedAt": "2026-09-28T18:20:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "bélgica - francia",
