@@ -1,16 +1,21 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T15:30:14.907Z",
+  "updatedAt": "2026-09-28T15:55:38.342Z",
   "trends": [
+    {
+      "query": "alud",
+      "startedAt": "2026-09-28T15:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "minuto de silencio",
       "startedAt": "2026-09-28T15:00:00.000Z",
       "volume": 1000
     },
     {
-      "query": "granizo",
-      "startedAt": "2026-09-28T13:30:00.000Z",
+      "query": "córdoba",
+      "startedAt": "2026-09-28T14:50:00.000Z",
       "volume": 5000
     },
     {
@@ -47,11 +52,6 @@
       "query": "pierre gasly",
       "startedAt": "2026-09-28T09:30:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "pronostico cordoba",
-      "startedAt": "2026-09-28T08:30:00.000Z",
-      "volume": 100
     }
   ]
 }
