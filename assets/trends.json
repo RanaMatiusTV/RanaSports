@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T10:54:10.628Z",
+  "updatedAt": "2026-09-28T11:27:49.091Z",
   "trends": [
     {
       "query": "serie de televisión",
@@ -16,7 +16,7 @@
     {
       "query": "japón - venezuela",
       "startedAt": "2026-09-28T09:30:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "pierre gasly",
@@ -26,7 +26,7 @@
     {
       "query": "tiempo hoy",
       "startedAt": "2026-09-28T08:50:00.000Z",
-      "volume": 2000
+      "volume": 1000
     },
     {
       "query": "pronostico cordoba",
@@ -41,7 +41,7 @@
     {
       "query": "28 de septiembre",
       "startedAt": "2026-09-28T08:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "mls",
