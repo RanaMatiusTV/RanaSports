@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNjE0NzQwMDAwLCJBUlJBWUFHTyBQT0RSw41BIEpVR0FSIEFOVEUgSU5TVElUVVRPOyBaQUJBTEEgWSBFTCBDSElNWSDDgVZJTEEgU0lHVUVOIEVOIERVREEiXQ": {
+      "account": "main",
+      "title": "ARRAYAGO PODRÍA JUGAR ANTE INSTITUTO; ZABALA Y EL CHIMY ÁVILA SIGUEN EN DUDA",
+      "dueAt": "2026-09-28T18:40:00.000Z",
+      "bufferPostId": "6abab36ca0e5aa5ec3b00453",
+      "createdAt": "2026-09-28T18:35:24.785Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDU5OTg2MDAwMCwiR0FTTFkgUFVTTyBFTCBSRVNQRVRPIENPTU8gQ09ORElDScOTTiBQQVJBIFNFR1VJUiBDT04gQ09MQVBJTlRPIEVOIEFMUElORSJd": {
       "account": "f1",
       "title": "GASLY PUSO EL RESPETO COMO CONDICIÓN PARA SEGUIR CON COLAPINTO EN ALPINE",
@@ -2629,7 +2636,7 @@
   },
   "nextAt": {
     "f1": "2026-09-28T17:20:00.000Z",
-    "main": "2026-09-28T17:25:00.000Z"
+    "main": "2026-09-28T18:45:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
