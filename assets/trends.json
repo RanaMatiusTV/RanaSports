@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T08:30:37.271Z",
+  "updatedAt": "2026-09-28T08:54:41.123Z",
   "trends": [
+    {
+      "query": "pronostico cordoba",
+      "startedAt": "2026-09-28T08:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clima cordoba",
+      "startedAt": "2026-09-28T08:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "28 de septiembre",
       "startedAt": "2026-09-28T08:00:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "mls",
@@ -34,24 +44,14 @@
       "volume": 50000
     },
     {
-      "query": "gimnasia jujuy - san martín de tucumán",
-      "startedAt": "2026-09-27T23:40:00.000Z",
-      "volume": 10000
-    },
-    {
       "query": "evangelina salazar",
       "startedAt": "2026-09-27T23:40:00.000Z",
       "volume": 5000
     },
     {
-      "query": "pluto tv",
+      "query": "gimnasia jujuy - san martín de tucumán",
       "startedAt": "2026-09-27T23:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "columbus crew - inter miami",
-      "startedAt": "2026-09-27T22:20:00.000Z",
-      "volume": 100000
+      "volume": 10000
     }
   ]
 }
