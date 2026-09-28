@@ -192,9 +192,18 @@
    return /^\d{10,}$/.test(id)?`https://players.brightcove.net/6057949432001/S1WMrhjlh_default/index.html?videoId=${id}`:'';
   }catch{return '';}
  }
+ function trustedIframeEmbedURL(url){
+  if(!url)return '';
+  try{
+   const u=new URL(url);
+   if(u.hostname==='api.vodgc.net'&&/^\/player\/v2\/embed\//.test(u.pathname))return u.href;
+   if(/(^|\.)motorsport\.com$/.test(u.hostname)&&/^\/v\/\d+\/?$/.test(u.pathname))return u.href;
+  }catch{}
+  return '';
+ }
  function videoEmbedURL(url){
   if(!url||isXPost(url))return '';
-  return youtubeEmbedURL(url)||formula1EmbedURL(url);
+  return youtubeEmbedURL(url)||formula1EmbedURL(url)||trustedIframeEmbedURL(url);
  }
  function element(tag,className,text){const n=elementNode(tag);if(className)n.className=className;if(text!==undefined&&text!==null)n.textContent=text;return n;}
  function elementNode(tag){return document.createElement(tag);}
