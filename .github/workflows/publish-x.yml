@@ -33,6 +33,41 @@ jobs:
         with:
           node-version: '22'
 
+      - name: Sync portal news snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          URL="https://docs.google.com/spreadsheets/d/12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4/gviz/tq?tqx=out:csv&sheet=Noticias&_=$(date +%s)"
+          curl -fL --retry 3 --retry-delay 2 -H 'Cache-Control: no-cache' "$URL" -o /tmp/news.csv
+          python3 - <<'PY'
+          import csv, datetime
+          src='/tmp/news.csv'
+          dst='assets/news-live.csv'
+          with open(src, encoding='utf-8-sig', newline='') as f:
+              rows=list(csv.reader(f))
+          if not rows or len(rows[0]) < 18 or rows[0][0].strip().lower() != 'publicar':
+              raise SystemExit('Invalid Google Sheets CSV')
+          header=rows[0][:18]
+          data=[]
+          for row in rows[1:]:
+              row=(row+['']*18)[:18]
+              if row[0].strip().upper()=='SI' and row[4].strip():
+                  data.append(row)
+          def stamp(row):
+              d=row[1].strip(); t=row[2].strip()
+              for fmt in ('%d/%m/%Y %H:%M','%Y-%m-%d %H:%M'):
+                  try: return datetime.datetime.strptime(f'{d} {t}', fmt)
+                  except ValueError: pass
+              return datetime.datetime.min
+          data.sort(key=stamp, reverse=True)
+          data=data[:600]
+          with open(dst,'w',encoding='utf-8',newline='') as f:
+              wr=csv.writer(f,lineterminator='\r\n')
+              wr.writerow(header)
+              wr.writerows(data)
+          print(f'Synced {len(data)} published rows')
+          PY
+
       - name: Build and schedule X posts
         run: node scripts/publish-x.cjs
 
@@ -41,7 +76,7 @@ jobs:
           git checkout -- scripts/publish-x.cjs
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add .github/x-publish-state.json
+          git add .github/x-publish-state.json assets/news-live.csv
           if git diff --cached --quiet; then exit 0; fi
           git commit -m 'Update X publishing state'
           git pull --rebase origin main
