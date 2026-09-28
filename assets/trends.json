@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T12:57:40.009Z",
+  "updatedAt": "2026-09-28T13:29:12.234Z",
   "trends": [
+    {
+      "query": "feriados 2026",
+      "startedAt": "2026-09-28T12:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "bono",
       "startedAt": "2026-09-28T12:30:00.000Z",
@@ -47,11 +52,6 @@
       "query": "pronostico cordoba",
       "startedAt": "2026-09-28T08:30:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "clima cordoba",
-      "startedAt": "2026-09-28T08:20:00.000Z",
-      "volume": 500
     }
   ]
 }
