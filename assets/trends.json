@@ -1,17 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T18:31:03.226Z",
+  "updatedAt": "2026-09-28T18:56:17.014Z",
   "trends": [
+    {
+      "query": "allanamiento",
+      "startedAt": "2026-09-28T18:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "bélgica - francia",
       "startedAt": "2026-09-28T17:50:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "george russell",
       "startedAt": "2026-09-28T17:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "alud",
@@ -47,11 +52,6 @@
       "query": "serie de televisión",
       "startedAt": "2026-09-28T10:10:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "japón - venezuela",
-      "startedAt": "2026-09-28T09:30:00.000Z",
-      "volume": 10000
     }
   ]
 }
