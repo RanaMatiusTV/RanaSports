@@ -1,8 +1,28 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T19:53:39.488Z",
+  "updatedAt": "2026-09-28T20:26:03.984Z",
   "trends": [
+    {
+      "query": "primera división",
+      "startedAt": "2026-09-28T20:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "asignación universal por hijo",
+      "startedAt": "2026-09-28T20:10:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "oscar e. bosetti",
+      "startedAt": "2026-09-28T19:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "condena",
+      "startedAt": "2026-09-28T19:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "carburando",
       "startedAt": "2026-09-28T19:30:00.000Z",
@@ -26,31 +46,11 @@
     {
       "query": "george russell",
       "startedAt": "2026-09-28T17:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "alud",
-      "startedAt": "2026-09-28T15:40:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "minuto de silencio",
-      "startedAt": "2026-09-28T15:00:00.000Z",
       "volume": 5000
     },
     {
-      "query": "córdoba",
-      "startedAt": "2026-09-28T14:50:00.000Z",
-      "volume": 200000
-    },
-    {
-      "query": "bono",
-      "startedAt": "2026-09-28T12:30:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "dia del empleado de comercio 2026",
-      "startedAt": "2026-09-28T11:30:00.000Z",
+      "query": "formación profesional",
+      "startedAt": "2026-09-28T16:40:00.000Z",
       "volume": 2000
     }
   ]
