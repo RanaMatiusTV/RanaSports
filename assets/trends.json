@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T07:54:59.483Z",
+  "updatedAt": "2026-09-28T08:30:37.271Z",
   "trends": [
+    {
+      "query": "28 de septiembre",
+      "startedAt": "2026-09-28T08:00:00.000Z",
+      "volume": 100
+    },
     {
       "query": "mls",
       "startedAt": "2026-09-28T01:20:00.000Z",
@@ -47,11 +52,6 @@
       "query": "columbus crew - inter miami",
       "startedAt": "2026-09-27T22:20:00.000Z",
       "volume": 100000
-    },
-    {
-      "query": "quien juega hoy",
-      "startedAt": "2026-09-27T21:50:00.000Z",
-      "volume": 2000
     }
   ]
 }
