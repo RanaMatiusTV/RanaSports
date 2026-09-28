@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T03:54:36.070Z",
+  "updatedAt": "2026-09-28T04:28:29.788Z",
   "trends": [
     {
       "query": "mls",
       "startedAt": "2026-09-28T01:20:00.000Z",
-      "volume": 2000
+      "volume": 1000
     },
     {
       "query": "curazao - nicaragua",
@@ -29,14 +29,14 @@
       "volume": 50000
     },
     {
-      "query": "evangelina salazar",
-      "startedAt": "2026-09-27T23:40:00.000Z",
-      "volume": 5000
-    },
-    {
       "query": "gimnasia jujuy - san martín de tucumán",
       "startedAt": "2026-09-27T23:40:00.000Z",
       "volume": 10000
+    },
+    {
+      "query": "evangelina salazar",
+      "startedAt": "2026-09-27T23:40:00.000Z",
+      "volume": 5000
     },
     {
       "query": "pluto tv",
@@ -44,14 +44,14 @@
       "volume": 2000
     },
     {
-      "query": "columbus crew - inter miami",
-      "startedAt": "2026-09-27T22:20:00.000Z",
-      "volume": 50000
+      "query": "kick",
+      "startedAt": "2026-09-27T22:40:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "quien juega hoy",
-      "startedAt": "2026-09-27T21:50:00.000Z",
-      "volume": 2000
+      "query": "columbus crew - inter miami",
+      "startedAt": "2026-09-27T22:20:00.000Z",
+      "volume": 100000
     }
   ]
 }
