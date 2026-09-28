@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T00:35:18.446Z",
+  "updatedAt": "2026-09-28T00:56:35.399Z",
   "trends": [
+    {
+      "query": "curazao - nicaragua",
+      "startedAt": "2026-09-28T00:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "pareja",
       "startedAt": "2026-09-28T00:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "tiempo mañana",
@@ -26,7 +31,7 @@
     {
       "query": "pluto tv",
       "startedAt": "2026-09-27T23:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "kick",
@@ -36,7 +41,7 @@
     {
       "query": "columbus crew - inter miami",
       "startedAt": "2026-09-27T22:20:00.000Z",
-      "volume": 20000
+      "volume": 50000
     },
     {
       "query": "quien juega hoy",
@@ -47,11 +52,6 @@
       "query": "gimnasia y tiro de salta - atlético rafaela",
       "startedAt": "2026-09-27T21:10:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "chile",
-      "startedAt": "2026-09-27T20:50:00.000Z",
-      "volume": 5000
     }
   ]
 }
