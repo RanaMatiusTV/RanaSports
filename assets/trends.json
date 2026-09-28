@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T04:28:29.788Z",
+  "updatedAt": "2026-09-28T04:54:49.801Z",
   "trends": [
     {
       "query": "mls",
       "startedAt": "2026-09-28T01:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "curazao - nicaragua",
@@ -44,14 +44,14 @@
       "volume": 2000
     },
     {
-      "query": "kick",
-      "startedAt": "2026-09-27T22:40:00.000Z",
-      "volume": 2000
-    },
-    {
       "query": "columbus crew - inter miami",
       "startedAt": "2026-09-27T22:20:00.000Z",
       "volume": 100000
+    },
+    {
+      "query": "quien juega hoy",
+      "startedAt": "2026-09-27T21:50:00.000Z",
+      "volume": 2000
     }
   ]
 }
