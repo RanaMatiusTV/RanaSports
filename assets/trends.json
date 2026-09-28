@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T11:27:49.091Z",
+  "updatedAt": "2026-09-28T11:54:39.574Z",
   "trends": [
+    {
+      "query": "dia del empleado de comercio 2026",
+      "startedAt": "2026-09-28T11:30:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "serie de televisión",
       "startedAt": "2026-09-28T10:10:00.000Z",
@@ -21,7 +26,7 @@
     {
       "query": "pierre gasly",
       "startedAt": "2026-09-28T09:30:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "tiempo hoy",
@@ -46,11 +51,6 @@
     {
       "query": "mls",
       "startedAt": "2026-09-28T01:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "curazao - nicaragua",
-      "startedAt": "2026-09-28T00:20:00.000Z",
       "volume": 2000
     }
   ]
