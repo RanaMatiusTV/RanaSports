@@ -229,13 +229,13 @@
  function renderXPost(container,url){
   if(!isXPost(url)||container.querySelector('.video-embed,.x-embed'))return false;
   const id=xPostId(url);if(!id)return false;
-  const wrap=element('div','x-embed');wrap.dataset.tweetId=id;container.append(wrap);
-  let started=false;
-  withXWidgets(()=>{
-   if(started||!wrap.isConnected||wrap.dataset.rendered==='1')return;
-   started=true;wrap.dataset.rendered='1';wrap.replaceChildren();
-   window.twttr.widgets.createTweet(id,wrap,{theme:'dark',dnt:true,align:'center'}).catch(()=>{wrap.remove();});
-  });
+  const wrap=element('div','x-embed'),frame=element('iframe');
+  const params=new URLSearchParams({id,theme:'dark',dnt:'true',lang:'es'});
+  frame.src='https://platform.twitter.com/embed/Tweet.html?'+params.toString();
+  frame.title='Publicación de X relacionada con la noticia';
+  frame.loading='lazy';frame.referrerPolicy='strict-origin-when-cross-origin';
+  frame.setAttribute('scrolling','no');frame.setAttribute('allow','fullscreen');
+  wrap.append(frame);container.append(wrap);
   return true;
  }
  function renderImageEmbed(container,url){
@@ -269,7 +269,7 @@
    .embed-fallback{display:inline-block;margin:0 0 22px;font-size:.9rem}
    .external-embed-card{display:flex;flex-direction:column;gap:5px;width:100%;margin:22px 0;padding:16px 18px;border:1px solid rgba(255,255,255,.14);border-radius:10px;background:#111820;color:#fff;text-decoration:none}
    .external-embed-card strong{font-size:15px}.external-embed-card span{font-size:12px;opacity:.75}
-   .x-embed{width:100%;max-width:600px;min-height:120px;margin:22px auto}
+   .x-embed{width:100%;max-width:600px;min-height:120px;margin:22px auto;overflow:hidden}.x-embed iframe{display:block;width:100%;min-height:620px;border:0;background:transparent}
    .x-embed .twitter-tweet{margin-left:auto!important;margin-right:auto!important}
    .image-embed{width:min(100%,460px);margin:22px auto}
    .image-embed img{display:block;width:100%;height:auto;max-height:78vh;object-fit:contain;border-radius:10px;background:#000}
