@@ -154,18 +154,20 @@
  function imageWithFallback(img,primary,alternates=[],onFail){
   const queue=[];
   const push=url=>{if(url&&!queue.includes(url))queue.push(url);};
-  push(primary);
-  for(const alt of alternates||[])push(alt);
-  const direct=[...queue];
-  for(const url of direct)push(proxiedImageURL(url));
-  let index=0,busy=false;
+  const originals=[primary,...(alternates||[])].filter(Boolean);
+  // Prefer the image proxy first: many sports-media CDNs reject browser hotlinking
+  // even when the same URL works server-side. Keep the original as a fallback.
+  for(const url of originals)push(proxiedImageURL(url));
+  for(const url of originals)push(url);
+  let index=0,busy=false,settled=false;
   const next=()=>{
    while(index<queue.length){
     const url=queue[index++];
     if(url&&url!==img.currentSrc&&url!==img.src){img.src=url;return true;}
    }
-   onFail?.();return false;
+   if(!settled){settled=true;onFail?.();}return false;
   };
+  img.addEventListener('load',()=>{settled=true;});
   img.addEventListener('error',()=>{if(busy)return;busy=true;next();busy=false;});
   next();
  }
