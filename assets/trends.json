@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T19:26:34.266Z",
+  "updatedAt": "2026-09-28T19:53:39.488Z",
   "trends": [
+    {
+      "query": "carburando",
+      "startedAt": "2026-09-28T19:30:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "fin de semana",
       "startedAt": "2026-09-28T18:50:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "allanamiento",
       "startedAt": "2026-09-28T18:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "bélgica - francia",
@@ -47,11 +52,6 @@
       "query": "dia del empleado de comercio 2026",
       "startedAt": "2026-09-28T11:30:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "serie de televisión",
-      "startedAt": "2026-09-28T10:10:00.000Z",
-      "volume": 200
     }
   ]
 }
