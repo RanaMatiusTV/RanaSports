@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDU4OTc4MDAwMCwiTk9SUklTIFNFIFJFVFJBQ1TDkyBZIExFIFBJREnDkyBESVNDVUxQQVMgQSBDT0xBUElOVE8gVFJBUyBTVVMgRFVSQVMgQ1LDjVRJQ0FTIl0": {
+      "account": "f1",
+      "title": "NORRIS SE RETRACTÓ Y LE PIDIÓ DISCULPAS A COLAPINTO TRAS SUS DURAS CRÍTICAS",
+      "dueAt": "2026-09-28T11:25:00.000Z",
+      "bufferPostId": "6aba4d183c577104b144f038",
+      "createdAt": "2026-09-28T11:18:48.869Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDU2NTMwMDAwMCwiRUwgS1VOIEFHw5xFUk8gREVGRU5EScOTIEEgQ09MQVBJTlRPIFkgTEUgUkVDTEFNw5MgUkVTUEVUTyBBIEFMUElORSJd": {
+      "account": "f1",
+      "title": "EL KUN AGÜERO DEFENDIÓ A COLAPINTO Y LE RECLAMÓ RESPETO A ALPINE",
+      "dueAt": "2026-09-28T11:20:00.000Z",
+      "bufferPostId": "6aba4d1887cd1a55c66c42e8",
+      "createdAt": "2026-09-28T11:18:48.141Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA1ODU3NjAwMDAsIkFSR0VOVElOQSBWVUVMVkUgQSBFTlRSRU5BUlNFIFkgQUJSRSBNRURJQSBIT1JBIERFIExBIFBSw4FDVElDQSBBTlRFUyBERSBCT0xJVklBIl0": {
       "account": "main",
       "title": "ARGENTINA VUELVE A ENTRENARSE Y ABRE MEDIA HORA DE LA PRÁCTICA ANTES DE BOLIVIA",
@@ -2593,7 +2607,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-28T02:30:00.000Z",
+    "f1": "2026-09-28T11:30:00.000Z",
     "main": "2026-09-28T09:35:00.000Z"
   },
   "buffer": {
