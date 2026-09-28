@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T16:55:29.971Z",
+  "updatedAt": "2026-09-28T17:27:36.959Z",
   "trends": [
     {
       "query": "alud",
       "startedAt": "2026-09-28T15:40:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "minuto de silencio",
@@ -16,7 +16,7 @@
     {
       "query": "córdoba",
       "startedAt": "2026-09-28T14:50:00.000Z",
-      "volume": 5000
+      "volume": 200000
     },
     {
       "query": "feriados 2026",
@@ -39,11 +39,6 @@
       "volume": 200
     },
     {
-      "query": "clima",
-      "startedAt": "2026-09-28T09:30:00.000Z",
-      "volume": 200000
-    },
-    {
       "query": "japón - venezuela",
       "startedAt": "2026-09-28T09:30:00.000Z",
       "volume": 10000
@@ -52,6 +47,11 @@
       "query": "pierre gasly",
       "startedAt": "2026-09-28T09:30:00.000Z",
       "volume": 10000
+    },
+    {
+      "query": "tiempo hoy",
+      "startedAt": "2026-09-28T08:50:00.000Z",
+      "volume": 5000
     }
   ]
 }
