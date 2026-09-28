@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T02:53:39.780Z",
+  "updatedAt": "2026-09-28T03:28:18.287Z",
   "trends": [
     {
       "query": "mls",
@@ -29,14 +29,14 @@
       "volume": 50000
     },
     {
-      "query": "gimnasia jujuy - san martín de tucumán",
-      "startedAt": "2026-09-27T23:40:00.000Z",
-      "volume": 10000
-    },
-    {
       "query": "evangelina salazar",
       "startedAt": "2026-09-27T23:40:00.000Z",
       "volume": 5000
+    },
+    {
+      "query": "gimnasia jujuy - san martín de tucumán",
+      "startedAt": "2026-09-27T23:40:00.000Z",
+      "volume": 10000
     },
     {
       "query": "pluto tv",
