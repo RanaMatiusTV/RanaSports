@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA1ODU3NjAwMDAsIkFSR0VOVElOQSBWVUVMVkUgQSBFTlRSRU5BUlNFIFkgQUJSRSBNRURJQSBIT1JBIERFIExBIFBSw4FDVElDQSBBTlRFUyBERSBCT0xJVklBIl0": {
+      "account": "main",
+      "title": "ARGENTINA VUELVE A ENTRENARSE Y ABRE MEDIA HORA DE LA PRÁCTICA ANTES DE BOLIVIA",
+      "dueAt": "2026-09-28T09:30:00.000Z",
+      "bufferPostId": "6aba320661ba3934e432022d",
+      "createdAt": "2026-09-28T09:23:18.665Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA1ODQyMDAwMDAsIkNVVEkgUk9NRVJPIEhFUkVEQSBMQSBDSU5UQTogRUwgQ0FNSU5PIERFTCBOVUVWTyBDQVBJVMOBTiBERSBMQSBTRUxFQ0NJw5NOIl0": {
+      "account": "main",
+      "title": "CUTI ROMERO HEREDA LA CINTA: EL CAMINO DEL NUEVO CAPITÁN DE LA SELECCIÓN",
+      "dueAt": "2026-09-28T09:25:00.000Z",
+      "bufferPostId": "6aba320661ba3934e4320205",
+      "createdAt": "2026-09-28T09:23:18.362Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDU1NTQwMDAwMCwiQlJJQVRPUkUgRVZBTMOaQSBNRURJREFTIElOVEVSTkFTIFRSQVMgRUwgQ0hPUVVFIERFIENPTEFQSU5UTyBFTiBCQUvDmiJd": {
       "account": "f1",
       "title": "BRIATORE EVALÚA MEDIDAS INTERNAS TRAS EL CHOQUE DE COLAPINTO EN BAKÚ",
@@ -2580,7 +2594,7 @@
   },
   "nextAt": {
     "f1": "2026-09-28T02:30:00.000Z",
-    "main": "2026-09-27T21:30:00.000Z"
+    "main": "2026-09-28T09:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
