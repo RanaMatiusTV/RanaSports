@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T11:54:39.574Z",
+  "updatedAt": "2026-09-28T12:34:09.918Z",
   "trends": [
     {
       "query": "dia del empleado de comercio 2026",
@@ -14,19 +14,24 @@
       "volume": 200
     },
     {
-      "query": "clima",
-      "startedAt": "2026-09-28T09:30:00.000Z",
-      "volume": 200000
-    },
-    {
       "query": "japón - venezuela",
       "startedAt": "2026-09-28T09:30:00.000Z",
       "volume": 5000
     },
     {
+      "query": "clima",
+      "startedAt": "2026-09-28T09:30:00.000Z",
+      "volume": 200000
+    },
+    {
       "query": "pierre gasly",
       "startedAt": "2026-09-28T09:30:00.000Z",
       "volume": 10000
+    },
+    {
+      "query": "pronostico del tiempo",
+      "startedAt": "2026-09-28T09:20:00.000Z",
+      "volume": 500
     },
     {
       "query": "tiempo hoy",
@@ -39,11 +44,6 @@
       "volume": 100
     },
     {
-      "query": "clima cordoba",
-      "startedAt": "2026-09-28T08:20:00.000Z",
-      "volume": 500
-    },
-    {
       "query": "28 de septiembre",
       "startedAt": "2026-09-28T08:00:00.000Z",
       "volume": 2000
@@ -51,7 +51,7 @@
     {
       "query": "mls",
       "startedAt": "2026-09-28T01:20:00.000Z",
-      "volume": 2000
+      "volume": 1000
     }
   ]
 }
