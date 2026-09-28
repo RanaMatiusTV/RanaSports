@@ -44,7 +44,12 @@ function layoutNews() {
   if(/\b(murio|fallecio|muerte|grave|ileso|ilesa)\b/.test(title))impact+=1;
   return impact+(['independiente','seleccion','f1'].includes(card.dataset.sport)?1:0);
  };
- const featured=active==='todas'&&!search?.value.trim()?visible.filter(card=>publishedAt(card)<=now&&now-publishedAt(card)<=3*3600000).map(card=>({card,score:Math.max(0,Number(card.dataset.trendScore)||window.ranaTrendScore?.(card)||0),editorial:editorial(card)})).sort((a,b)=>b.score-a.score||b.editorial-a.editorial||publishedAt(b.card)-publishedAt(a.card)).slice(0,1).map(item=>item.card):[];
+ const featured=active==='todas'&&!search?.value.trim()?(()=>{
+  const published=visible.filter(card=>publishedAt(card)<=now);
+  const explicitlyFeatured=published.filter(card=>card.dataset.featured==='1');
+  const candidates=explicitlyFeatured.length?explicitlyFeatured:published;
+  return candidates.map(card=>({card,score:Math.max(0,Number(card.dataset.trendScore)||window.ranaTrendScore?.(card)||0),editorial:editorial(card)})).sort((a,b)=>b.score-a.score||b.editorial-a.editorial||publishedAt(b.card)-publishedAt(a.card)).slice(0,1).map(item=>item.card);
+ })():[];
  newsGrid.classList.toggle('no-featured',featured.length===0);newsGrid.classList.toggle('single-featured',featured.length===1);
  const selected=new Set(featured);const latest=visible.filter(card=>!selected.has(card));
  cards.forEach(card=>{card.classList.remove('lead-story','secondary-story','more-story');card.dataset.section=selected.has(card)?'featured':'latest';});
