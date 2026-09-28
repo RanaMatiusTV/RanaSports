@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2MzM4ODAwMDAsIkFGQSBDT05GSVJNw5MgTEEgVEVSTkEgQ09MT01CSUFOQSBQQVJBIEFSR0VOVElOQS1CT0xJVklBIl0": {
+      "account": "main",
+      "title": "AFA CONFIRMÓ LA TERNA COLOMBIANA PARA ARGENTINA-BOLIVIA",
+      "dueAt": "2026-09-28T23:30:00.000Z",
+      "bufferPostId": "6abaf72dc5484f9414a406bf",
+      "createdAt": "2026-09-28T23:24:29.257Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDYyNjI2MDAwMCwiQUxQSU5FIFNVTcOTIEEgREFOSUlMIEtWWUFUIEFMIFRSQUJBSk8gREUgU0lNVUxBRE9SIFBBUkEgQVlVREFSIEEgQ09MQVBJTlRPIFkgR0FTTFkiXQ": {
       "account": "f1",
       "title": "ALPINE SUMÓ A DANIIL KVYAT AL TRABAJO DE SIMULADOR PARA AYUDAR A COLAPINTO Y GASLY",
@@ -2678,7 +2685,7 @@
   },
   "nextAt": {
     "f1": "2026-09-28T22:25:00.000Z",
-    "main": "2026-09-28T22:40:00.000Z"
+    "main": "2026-09-28T23:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
