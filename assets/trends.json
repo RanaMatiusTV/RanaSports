@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T09:30:45.765Z",
+  "updatedAt": "2026-09-28T09:55:11.056Z",
   "trends": [
+    {
+      "query": "clima",
+      "startedAt": "2026-09-28T09:30:00.000Z",
+      "volume": 100000
+    },
+    {
+      "query": "japón - venezuela",
+      "startedAt": "2026-09-28T09:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "pierre gasly",
+      "startedAt": "2026-09-28T09:30:00.000Z",
+      "volume": 5000
+    },
     {
       "query": "pronostico cordoba",
       "startedAt": "2026-09-28T08:30:00.000Z",
@@ -11,7 +26,7 @@
     {
       "query": "clima cordoba",
       "startedAt": "2026-09-28T08:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "28 de septiembre",
@@ -37,21 +52,6 @@
       "query": "tiempo de mañana",
       "startedAt": "2026-09-27T23:50:00.000Z",
       "volume": 500000
-    },
-    {
-      "query": "tiempo mañana",
-      "startedAt": "2026-09-27T23:50:00.000Z",
-      "volume": 50000
-    },
-    {
-      "query": "evangelina salazar",
-      "startedAt": "2026-09-27T23:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "gimnasia jujuy - san martín de tucumán",
-      "startedAt": "2026-09-27T23:40:00.000Z",
-      "volume": 10000
     }
   ]
 }
