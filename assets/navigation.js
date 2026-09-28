@@ -37,7 +37,7 @@
  function build(entries){
   const extras=entries.filter(([key])=>!primary.some(([fixed])=>fixed===key)&&!['agenda','en-vivo','otros'].includes(key));
   for(const [parent,mobile] of [[nav,false],[drawerNav,true]]){
-   parent.replaceChildren();primary.forEach(([key,label])=>parent.append(anchor(key,label,mobile)));
+   parent.replaceChildren();primary.forEach(([key,label])=>parent.append(anchor(key,label,mobile)));if(mobile)parent.append(anchor('suramericanos-2026','Juegos Suramericanos 2026',mobile));
    const more=document.createElement('details');more.className='nav-more';const summary=document.createElement('summary');summary.textContent=mobile?'Más Deportes':'MÁS DEPORTES';const list=document.createElement('div');list.className='nav-more-list';extras.forEach(([key,label])=>list.append(anchor(key,label,mobile)));if(!extras.length){const p=document.createElement('p');p.textContent='Sin otras categorías publicadas.';list.append(p);}more.append(summary,list);parent.append(more,anchor('agenda','Agenda',mobile),anchor('en-vivo','En Vivo',mobile));
   }
   document.dispatchEvent(new Event('ranasports:navigation-ready'));
