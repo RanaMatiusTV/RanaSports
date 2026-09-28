@@ -46,9 +46,11 @@ function layoutNews() {
  };
  const featured=active==='todas'&&!search?.value.trim()?(()=>{
   const published=visible.filter(card=>publishedAt(card)<=now);
-  const explicitlyFeatured=published.filter(card=>card.dataset.featured==='1');
-  const candidates=explicitlyFeatured.length?explicitlyFeatured:published;
-  return candidates.map(card=>({card,score:Math.max(0,Number(card.dataset.trendScore)||window.ranaTrendScore?.(card)||0),editorial:editorial(card)})).sort((a,b)=>b.score-a.score||b.editorial-a.editorial||publishedAt(b.card)-publishedAt(a.card)).slice(0,1).map(item=>item.card);
+  const newestPublished=published[0]||null;
+  const newestTime=newestPublished?publishedAt(newestPublished):0;
+  const explicitlyFeatured=published.filter(card=>card.dataset.featured==='1'&&newestTime-publishedAt(card)<=12*3600000);
+  if(!explicitlyFeatured.length)return newestPublished?[newestPublished]:[];
+  return explicitlyFeatured.map(card=>({card,score:Math.max(0,Number(card.dataset.trendScore)||window.ranaTrendScore?.(card)||0),editorial:editorial(card)})).sort((a,b)=>b.score-a.score||b.editorial-a.editorial||publishedAt(b.card)-publishedAt(a.card)).slice(0,1).map(item=>item.card);
  })():[];
  newsGrid.classList.toggle('no-featured',featured.length===0);newsGrid.classList.toggle('single-featured',featured.length===1);
  const selected=new Set(featured);const latest=visible.filter(card=>!selected.has(card));
