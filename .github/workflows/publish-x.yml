@@ -38,7 +38,10 @@ jobs:
         run: |
           set -euo pipefail
           URL="https://docs.google.com/spreadsheets/d/12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4/gviz/tq?tqx=out:csv&sheet=Noticias&_=$(date +%s)"
-          curl -fL --retry 3 --retry-delay 2 -H 'Cache-Control: no-cache' "$URL" -o /tmp/news.csv
+          if ! curl -fL --retry 2 --retry-delay 2 -H 'Cache-Control: no-cache' "$URL" -o /tmp/news.csv; then
+            echo "Google Sheets snapshot unavailable; using current assets/news-live.csv"
+            exit 0
+          fi
           python3 - <<'PY'
           import csv, datetime
           src='/tmp/news.csv'
