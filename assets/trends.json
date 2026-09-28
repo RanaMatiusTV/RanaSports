@@ -1,20 +1,25 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T21:26:11.858Z",
+  "updatedAt": "2026-09-28T21:52:40.282Z",
   "trends": [
+    {
+      "query": "libertad - olimpia",
+      "startedAt": "2026-09-28T21:30:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "gobierno",
       "startedAt": "2026-09-28T20:40:00.000Z",
       "volume": 1000
     },
     {
-      "query": "primera división",
+      "query": "asignación universal por hijo",
       "startedAt": "2026-09-28T20:10:00.000Z",
-      "volume": 5000
+      "volume": 20000
     },
     {
-      "query": "asignación universal por hijo",
+      "query": "primera división",
       "startedAt": "2026-09-28T20:10:00.000Z",
       "volume": 5000
     },
@@ -47,11 +52,6 @@
       "query": "bélgica - francia",
       "startedAt": "2026-09-28T17:50:00.000Z",
       "volume": 50000
-    },
-    {
-      "query": "george russell",
-      "startedAt": "2026-09-28T17:50:00.000Z",
-      "volume": 5000
     }
   ]
 }
