@@ -1,6 +1,41 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDYyNjI2MDAwMCwiQUxQSU5FIFNVTcOTIEEgREFOSUlMIEtWWUFUIEFMIFRSQUJBSk8gREUgU0lNVUxBRE9SIFBBUkEgQVlVREFSIEEgQ09MQVBJTlRPIFkgR0FTTFkiXQ": {
+      "account": "f1",
+      "title": "ALPINE SUMÓ A DANIIL KVYAT AL TRABAJO DE SIMULADOR PARA AYUDAR A COLAPINTO Y GASLY",
+      "dueAt": "2026-09-28T22:20:00.000Z",
+      "bufferPostId": "6abae6f785cca6b129713318",
+      "createdAt": "2026-09-28T22:15:19.578Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2MzE2MDAwMDAsIkxBIFNFTEVDQ0nDk04gVk9MVknDkyBBIEVOVFJFTkFSU0UgWSBUQUdMSUFGSUNPIFkgVEhJQUdPIEFMTUFEQSBUUkFCQUpBUk9OIEFQQVJURSJd": {
+      "account": "main",
+      "title": "LA SELECCIÓN VOLVIÓ A ENTRENARSE Y TAGLIAFICO Y THIAGO ALMADA TRABAJARON APARTE",
+      "dueAt": "2026-09-28T22:35:00.000Z",
+      "bufferPostId": "6abae6dc85cca6b129712efb",
+      "createdAt": "2026-09-28T22:14:52.217Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNjMwMjgwMDAwLCJFTCBUQVMgRkFMTMOTIENPTlRSQSBJTkRFUEVORElFTlRFIFkgTEUgT1JERU7DkyBQQUdBUiBDQVNJIFVTJCAyLDkgTUlMTE9ORVMgUE9SIExPTcOTTkFDTyJd": {
+      "account": "main",
+      "title": "EL TAS FALLÓ CONTRA INDEPENDIENTE Y LE ORDENÓ PAGAR CASI US$ 2,9 MILLONES POR LOMÓNACO",
+      "dueAt": "2026-09-28T22:30:00.000Z",
+      "bufferPostId": "6abae6dbc5484f9414a22e76",
+      "createdAt": "2026-09-28T22:14:51.343Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2Mjk4NjAwMDAsIkJVUktJTkEgRkFTTyBHQU7DkyAxLTAgQU5URVMgREVMIEFNSVNUT1NPIENPTiBMQSBTRUxFQ0NJw5NOIEFSR0VOVElOQSJd": {
+      "account": "main",
+      "title": "BURKINA FASO GANÓ 1-0 ANTES DEL AMISTOSO CON LA SELECCIÓN ARGENTINA",
+      "dueAt": "2026-09-28T22:25:00.000Z",
+      "bufferPostId": "6abae6da85cca6b129712eae",
+      "createdAt": "2026-09-28T22:14:50.568Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2MjY2MjAwMDAsIlBMQUNFTlRFIEVYUExJQ8OTIExBIENPTlZPQ0FUT1JJQSBERSBLSUtJIFJBTU9TIEEgTEEgU0VMRUNDScOTTiBTVUItMTciXQ": {
+      "account": "main",
+      "title": "PLACENTE EXPLICÓ LA CONVOCATORIA DE KIKI RAMOS A LA SELECCIÓN SUB-17",
+      "dueAt": "2026-09-28T22:20:00.000Z",
+      "bufferPostId": "6abae6d97889d8281c1ec43d",
+      "createdAt": "2026-09-28T22:14:49.811Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDYyMzM4MDAwMCwiQUxQSU5FIFZPTFZJw5MgQSBSRVNQQUxEQVIgQSBDT0xBUElOVE8gWSBMTyBQVVNPIEFMIEZSRU5URSBERUwgQU5VTkNJTyBQQVJBIE1BTEFTSUEiXQ": {
       "account": "f1",
       "title": "ALPINE VOLVIÓ A RESPALDAR A COLAPINTO Y LO PUSO AL FRENTE DEL ANUNCIO PARA MALASIA",
@@ -2642,8 +2677,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-28T21:30:00.000Z",
-    "main": "2026-09-28T18:45:00.000Z"
+    "f1": "2026-09-28T22:25:00.000Z",
+    "main": "2026-09-28T22:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
