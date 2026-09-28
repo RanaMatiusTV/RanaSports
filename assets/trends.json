@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-27T23:50:30.611Z",
+  "updatedAt": "2026-09-28T00:35:18.446Z",
   "trends": [
+    {
+      "query": "pareja",
+      "startedAt": "2026-09-28T00:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "tiempo mañana",
+      "startedAt": "2026-09-27T23:50:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "gimnasia jujuy - san martín de tucumán",
+      "startedAt": "2026-09-27T23:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "evangelina salazar",
+      "startedAt": "2026-09-27T23:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "pluto tv",
+      "startedAt": "2026-09-27T23:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "kick",
       "startedAt": "2026-09-27T22:40:00.000Z",
@@ -27,31 +52,6 @@
       "query": "chile",
       "startedAt": "2026-09-27T20:50:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "juan otero",
-      "startedAt": "2026-09-27T20:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "fondo buitre",
-      "startedAt": "2026-09-27T20:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "racing de córdoba - godoy cruz",
-      "startedAt": "2026-09-27T19:50:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "bolivia - paraguay",
-      "startedAt": "2026-09-27T19:40:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "midland - tristán suárez",
-      "startedAt": "2026-09-27T19:40:00.000Z",
-      "volume": 1000
     }
   ]
 }
