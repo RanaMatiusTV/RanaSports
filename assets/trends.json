@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T20:55:13.496Z",
+  "updatedAt": "2026-09-28T21:26:11.858Z",
   "trends": [
     {
       "query": "gobierno",
       "startedAt": "2026-09-28T20:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "primera división",
@@ -16,7 +16,7 @@
     {
       "query": "asignación universal por hijo",
       "startedAt": "2026-09-28T20:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "oscar e. bosetti",
@@ -36,7 +36,7 @@
     {
       "query": "fin de semana",
       "startedAt": "2026-09-28T18:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "allanamiento",
