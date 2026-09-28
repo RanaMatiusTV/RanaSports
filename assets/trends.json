@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T14:30:58.370Z",
+  "updatedAt": "2026-09-28T14:57:51.767Z",
   "trends": [
     {
       "query": "granizo",
@@ -16,7 +16,7 @@
     {
       "query": "bono",
       "startedAt": "2026-09-28T12:30:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "dia del empleado de comercio 2026",
@@ -44,14 +44,14 @@
       "volume": 10000
     },
     {
-      "query": "pronostico del tiempo",
-      "startedAt": "2026-09-28T09:20:00.000Z",
-      "volume": 500
-    },
-    {
       "query": "pronostico cordoba",
       "startedAt": "2026-09-28T08:30:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "28 de septiembre",
+      "startedAt": "2026-09-28T08:00:00.000Z",
+      "volume": 2000
     }
   ]
 }
