@@ -1,0 +1,90 @@
+name: Sync RanaSports news feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-ranasports-news-feed
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and normalize Google Sheet news
+        shell: bash
+        run: |
+          set -euo pipefail
+          URL="https://docs.google.com/spreadsheets/d/12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4/gviz/tq?tqx=out:csv&sheet=Noticias&_=$(date +%s)"
+          curl -fL --retry 3 --retry-delay 2 -H 'Cache-Control: no-cache' "$URL" -o /tmp/news.csv
+          python3 - <<'PY'
+          import csv, datetime, os, sys
+
+          src='/tmp/news.csv'
+          dst='assets/news-live.csv'
+
+          with open(src, encoding='utf-8-sig', newline='') as f:
+              rows=list(csv.reader(f))
+          if not rows or len(rows[0]) < 18 or rows[0][0].strip().lower() != 'publicar':
+              raise SystemExit('Invalid Google Sheets CSV')
+
+          header=rows[0][:18]
+          data=[]
+          for row in rows[1:]:
+              row=(row+['']*18)[:18]
+              if row[0].strip().upper()!='SI' or not row[4].strip():
+                  continue
+              data.append(row)
+
+          def stamp(row):
+              d=row[1].strip()
+              t=row[2].strip()
+              for fmt in ('%d/%m/%Y %H:%M','%Y-%m-%d %H:%M'):
+                  try:
+                      return datetime.datetime.strptime(f'{d} {t}', fmt)
+                  except ValueError:
+                      pass
+              return datetime.datetime.min
+
+          data.sort(key=stamp, reverse=True)
+          data=data[:600]
+          incoming_max=max((stamp(r) for r in data), default=datetime.datetime.min)
+
+          existing_max=datetime.datetime.min
+          if os.path.exists(dst):
+              with open(dst, encoding='utf-8-sig', newline='') as f:
+                  old=list(csv.reader(f))
+              existing=[(r+['']*18)[:18] for r in old[1:] if r and (r[0] if len(r)>0 else '').strip().upper()=='SI']
+              existing_max=max((stamp(r) for r in existing), default=datetime.datetime.min)
+
+          if incoming_max < existing_max:
+              print(f'Skip regression: incoming {incoming_max} < existing {existing_max}')
+              sys.exit(0)
+
+          with open(dst+'.tmp','w',encoding='utf-8',newline='') as f:
+              w=csv.writer(f,lineterminator='\r\n')
+              w.writerow(header)
+              w.writerows(data)
+          os.replace(dst+'.tmp',dst)
+          print(f'Synced {len(data)} rows; newest={incoming_max}')
+          PY
+
+      - name: Commit only when feed changed
+        shell: bash
+        run: |
+          if git diff --quiet -- assets/news-live.csv; then
+            echo "No feed changes"
+            exit 0
+          fi
+          git config user.name "RanaSports Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets/news-live.csv
+          git commit -m "Auto-sync RanaSports news feed"
+          git push
