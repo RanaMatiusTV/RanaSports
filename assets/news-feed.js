@@ -364,9 +364,8 @@
  try{const cached=localStorage.getItem(CACHE_KEY);if(cached!==null){const cachedNews=readNews(cached);lastGoodNews=cachedNews;render(cachedNews);snapshot=true;}}catch{}
  async function fetchFeed(baseURL,index,signal){
   try{
-   const local=index===0;
-   const requestURL=local?baseURL:baseURL+(baseURL.includes('?')?'&':'?')+'_='+Date.now();
-   const response=await fetch(requestURL,{signal,cache:local?'force-cache':'no-store',credentials:'omit'});
+   const requestURL=baseURL+(baseURL.includes('?')?'&':'?')+'_='+Date.now();
+   const response=await fetch(requestURL,{signal,cache:'no-store',credentials:'omit'});
    if(!response.ok)return null;
    const text=await response.text(),news=readNews(text);if(!news.length)return null;
    const max=news.reduce((value,item)=>Math.max(value,item.date||0),0);
