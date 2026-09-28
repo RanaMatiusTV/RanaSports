@@ -1,17 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T20:26:03.984Z",
+  "updatedAt": "2026-09-28T20:55:13.496Z",
   "trends": [
+    {
+      "query": "gobierno",
+      "startedAt": "2026-09-28T20:40:00.000Z",
+      "volume": 500
+    },
     {
       "query": "primera división",
       "startedAt": "2026-09-28T20:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "asignación universal por hijo",
       "startedAt": "2026-09-28T20:10:00.000Z",
-      "volume": 20000
+      "volume": 2000
     },
     {
       "query": "oscar e. bosetti",
@@ -21,7 +26,7 @@
     {
       "query": "condena",
       "startedAt": "2026-09-28T19:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "carburando",
@@ -36,22 +41,17 @@
     {
       "query": "allanamiento",
       "startedAt": "2026-09-28T18:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "bélgica - francia",
       "startedAt": "2026-09-28T17:50:00.000Z",
-      "volume": 20000
+      "volume": 50000
     },
     {
       "query": "george russell",
       "startedAt": "2026-09-28T17:50:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "formación profesional",
-      "startedAt": "2026-09-28T16:40:00.000Z",
-      "volume": 2000
     }
   ]
 }
