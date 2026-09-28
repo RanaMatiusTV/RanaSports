@@ -59,7 +59,9 @@
   const url=safeURL(value);if(!url)return '';
   try{
    const u=new URL(url);
-   return /\.(?:png|jpe?g|webp|gif|avif)$/i.test(u.pathname)?url:'';
+   if(/\.(?:png|jpe?g|webp|gif|avif)$/i.test(u.pathname))return url;
+   if(u.hostname==='pbs.twimg.com'&&/^(?:png|jpe?g|webp|gif)$/i.test(u.searchParams.get('format')||''))return url;
+   return '';
   }catch{return '';}
  }
  function isXPost(url){
