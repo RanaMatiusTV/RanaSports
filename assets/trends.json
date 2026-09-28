@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T17:53:55.180Z",
+  "updatedAt": "2026-09-28T18:31:03.226Z",
   "trends": [
+    {
+      "query": "bélgica - francia",
+      "startedAt": "2026-09-28T17:50:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "george russell",
+      "startedAt": "2026-09-28T17:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "alud",
       "startedAt": "2026-09-28T15:40:00.000Z",
@@ -11,7 +21,7 @@
     {
       "query": "minuto de silencio",
       "startedAt": "2026-09-28T15:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "córdoba",
@@ -42,16 +52,6 @@
       "query": "japón - venezuela",
       "startedAt": "2026-09-28T09:30:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "pierre gasly",
-      "startedAt": "2026-09-28T09:30:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "tiempo hoy",
-      "startedAt": "2026-09-28T08:50:00.000Z",
-      "volume": 5000
     }
   ]
 }
