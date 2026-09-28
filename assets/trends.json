@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T13:29:12.234Z",
+  "updatedAt": "2026-09-28T13:56:22.235Z",
   "trends": [
+    {
+      "query": "granizo",
+      "startedAt": "2026-09-28T13:30:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "feriados 2026",
       "startedAt": "2026-09-28T12:50:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "bono",
       "startedAt": "2026-09-28T12:30:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "dia del empleado de comercio 2026",
@@ -24,14 +29,14 @@
       "volume": 200
     },
     {
-      "query": "japón - venezuela",
-      "startedAt": "2026-09-28T09:30:00.000Z",
-      "volume": 10000
-    },
-    {
       "query": "clima",
       "startedAt": "2026-09-28T09:30:00.000Z",
       "volume": 200000
+    },
+    {
+      "query": "japón - venezuela",
+      "startedAt": "2026-09-28T09:30:00.000Z",
+      "volume": 10000
     },
     {
       "query": "pierre gasly",
@@ -47,11 +52,6 @@
       "query": "tiempo hoy",
       "startedAt": "2026-09-28T08:50:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "pronostico cordoba",
-      "startedAt": "2026-09-28T08:30:00.000Z",
-      "volume": 100
     }
   ]
 }
