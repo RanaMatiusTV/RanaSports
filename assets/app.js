@@ -2,7 +2,7 @@ let cards = [...document.querySelectorAll('#newsGrid .news-card')];
 let tabs = [...document.querySelectorAll('.tab')];
 const search = document.querySelector('#searchInput');
 const empty = document.querySelector('#emptyState');
-const sections = {ultimas:'Últimas noticias', independiente:'Independiente', futbol:'Fútbol', f1:'F1', seleccion:'Selección Argentina', otros:'Más deportes', agenda:'Agenda'};
+const sections = {ultimas:'Últimas noticias', independiente:'Independiente', futbol:'Fútbol', f1:'F1', seleccion:'Selección Argentina', 'suramericanos-2026':'Juegos Suramericanos 2026', otros:'Más deportes', agenda:'Agenda'};
 let active = 'todas';
 let liveModule=document.querySelector('#en-vivo');
 if(!liveModule){liveModule=document.createElement('section');liveModule.id='en-vivo';liveModule.className='dashboard-module live-module';}
@@ -125,7 +125,8 @@ function apply() {
  const q = normalize(search?.value.trim() || '');
  let count = 0;
  cards.forEach(card => {
-  const matches = !liveView && (active === 'todas' || (card.dataset.sport === active || (active==='otros' && card.dataset.category==='otros') || (!card.dataset.sport && card.dataset.category===active))) && normalize((card.dataset.search || '') + ' ' + card.textContent).includes(q);
+  const matchesSpecial=active==='suramericanos-2026'&&card.dataset.suramericanos==='1';
+  const matches = !liveView && (active === 'todas' || matchesSpecial || (active!=='suramericanos-2026'&&(card.dataset.sport === active || (active==='otros' && card.dataset.category==='otros') || (!card.dataset.sport && card.dataset.category===active)))) && normalize((card.dataset.search || '') + ' ' + card.textContent).includes(q);
   card.hidden = !matches;
   if (matches) count++;
  });
@@ -134,7 +135,7 @@ function apply() {
  const key = liveView ? 'en-vivo' : active === 'todas' ? 'ultimas' : active;
  const heading = document.querySelector('#feedTitle');
  if (heading) heading.textContent = liveView?'EN VIVO':(active==='todas'&&!search?.value.trim()?'DESTACADAS':sections[key] || sections.ultimas);
- document.querySelectorAll('.desktop-nav a, .mobile-nav a').forEach(link => {const selected = link.getAttribute('href') === '#' + key || (key === 'ultimas' && link.getAttribute('href') === './');link.classList.toggle('active',selected); if(selected) link.setAttribute('aria-current','true');else link.removeAttribute('aria-current');});
+ document.querySelectorAll('.desktop-nav a, .mobile-nav a, .drawer-nav a').forEach(link => {const selected = link.getAttribute('href') === '#' + key || (key === 'ultimas' && link.getAttribute('href') === './');link.classList.toggle('active',selected); if(selected) link.setAttribute('aria-current','true');else link.removeAttribute('aria-current');});
  const f1Channel = document.querySelector('#f1Channel');
  if (f1Channel) f1Channel.hidden = liveView || active !== 'f1';
  const presentations = document.querySelector('#presentations');
