@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T15:55:38.342Z",
+  "updatedAt": "2026-09-28T16:30:06.693Z",
   "trends": [
     {
       "query": "alud",
       "startedAt": "2026-09-28T15:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "minuto de silencio",
       "startedAt": "2026-09-28T15:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "córdoba",
