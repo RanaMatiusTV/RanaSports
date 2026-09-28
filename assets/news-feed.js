@@ -6,11 +6,11 @@
  const script=document.querySelector('script[src*="assets/news-feed.js"]');
  const siteBase=new URL('../',script?.src||location.href);
  const CSV_URLS=[
-  'https://docs.google.com/spreadsheets/d/12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4/gviz/tq?tqx=out:csv&sheet=Noticias&tq=select%20*%20limit%2080',
+  new URL('assets/news-live.csv',siteBase).href,
   'https://docs.google.com/spreadsheets/d/12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4/gviz/tq?tqx=out:csv&sheet=Noticias',
+  'https://docs.google.com/spreadsheets/d/12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4/gviz/tq?tqx=out:csv&sheet=Noticias&tq=select%20*%20limit%2080',
   'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?gid=663081286&single=true&output=csv',
-  'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv',
-  new URL('assets/news-live.csv',siteBase).href
+  'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv'
  ];
  const CACHE_KEY='ranasports-news-csv-v108:'+siteBase.pathname;
  const REVOKED_ARTICLE_IDS=new Set(['WyJpbmRlcGVuZGllbnRlIiwxNzkwMzY0OTAwMDAwLCJEVVJPIEdPTFBFIFBBUkEgSU5ERVBFTkRJRU5URTogRkVSUk8gTEUgR0FOw5MgRU4gVklMTEEgRE9Nw41OSUNPIFBPUiBFTCBDTEFVU1VSQSBGRU1FTklOTyJd']);
@@ -362,7 +362,7 @@
  try{const cached=localStorage.getItem(CACHE_KEY);if(cached!==null){const cachedNews=readNews(cached);lastGoodNews=cachedNews;render(cachedNews);snapshot=true;}}catch{}
  async function fetchFeed(baseURL,index,signal){
   try{
-   const local=index===4;
+   const local=index===0;
    const requestURL=local?baseURL:baseURL+(baseURL.includes('?')?'&':'?')+'_='+Date.now();
    const response=await fetch(requestURL,{signal,cache:local?'force-cache':'no-store',credentials:'omit'});
    if(!response.ok)return null;
@@ -396,11 +396,11 @@
     const backups=await Promise.all(CSV_URLS.slice(2).map((baseURL,i)=>fetchFeed(baseURL,i+2,controller.signal)));
     attempts.push(...backups.filter(Boolean));
    }
-   const preferred=[1,0,2,3,4];
+   const preferred=[0,1,2,3,4];
    const authority=attempts.sort((a,b)=>(b.max-a.max)||(preferred.indexOf(a.index)-preferred.indexOf(b.index)))[0];
    if(!authority){if(!snapshot)throw new Error('CSV no disponible');detailLookupSettled=true;if(detail)render(lastGoodNews);return;}
    const fresh=authority.news.sort((a,b)=>b.date-a.date);
-   const protectedFeed=authority.index===1?{news:fresh,regressed:false}:protectAgainstFeedRegression(fresh,lastGoodNews);
+   const protectedFeed=(authority.index===0||authority.index===1)?{news:fresh,regressed:false}:protectAgainstFeedRegression(fresh,lastGoodNews);
    const news=protectedFeed.news;
    detailLookupSettled=true;render(news);lastGoodNews=news;snapshot=true;
    if(!protectedFeed.regressed){try{localStorage.setItem(CACHE_KEY,authority.text);}catch{}}
