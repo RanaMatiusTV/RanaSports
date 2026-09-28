@@ -37,9 +37,9 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          URL="https://docs.google.com/spreadsheets/d/12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4/gviz/tq?tqx=out:csv&sheet=Noticias&_=$(date +%s)"
+          URL="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?gid=663081286&single=true&output=csv&_=$(date +%s)"
           if ! curl -fL --retry 2 --retry-delay 2 -H 'Cache-Control: no-cache' "$URL" -o /tmp/news.csv; then
-            echo "Google Sheets snapshot unavailable; using current assets/news-live.csv"
+            echo "Published Google Sheets snapshot unavailable; using current assets/news-live.csv"
             exit 0
           fi
           python3 - <<'PY'
