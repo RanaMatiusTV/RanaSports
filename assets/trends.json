@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-28T01:25:51.119Z",
+  "updatedAt": "2026-09-28T01:52:14.681Z",
   "trends": [
     {
       "query": "curazao - nicaragua",
       "startedAt": "2026-09-28T00:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "pareja",
       "startedAt": "2026-09-28T00:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "tiempo de mañana",
@@ -26,7 +26,7 @@
     {
       "query": "gimnasia jujuy - san martín de tucumán",
       "startedAt": "2026-09-27T23:40:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "evangelina salazar",
