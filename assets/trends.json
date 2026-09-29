@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T14:29:31.573Z",
+  "updatedAt": "2026-09-29T14:56:21.242Z",
   "trends": [
     {
-      "query": "juan carlos pagotto",
-      "startedAt": "2026-09-29T13:50:00.000Z",
-      "volume": 1000
+      "query": "pagotto",
+      "startedAt": "2026-09-29T14:20:00.000Z",
+      "volume": 2000
     },
     {
       "query": "burundi - argelia",
