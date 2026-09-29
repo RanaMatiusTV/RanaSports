@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T11:54:52.394Z",
+  "updatedAt": "2026-09-29T12:34:26.777Z",
   "trends": [
     {
       "query": "brasil vs",
       "startedAt": "2026-09-29T10:50:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "clima",
@@ -41,17 +41,17 @@
     {
       "query": "inundación",
       "startedAt": "2026-09-29T08:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "el tiempo",
-      "startedAt": "2026-09-29T08:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "clima hoy",
       "startedAt": "2026-09-29T08:20:00.000Z",
-      "volume": 10000
+      "volume": 2000
+    },
+    {
+      "query": "tiempo hoy",
+      "startedAt": "2026-09-29T08:20:00.000Z",
+      "volume": 2000
     }
   ]
 }
