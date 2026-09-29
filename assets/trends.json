@@ -1,32 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T08:55:19.594Z",
+  "updatedAt": "2026-09-29T09:29:22.143Z",
   "trends": [
+    {
+      "query": "australia - brasil",
+      "startedAt": "2026-09-29T09:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "smn",
+      "startedAt": "2026-09-29T09:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "clima posadas",
+      "startedAt": "2026-09-29T09:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "inundación",
+      "startedAt": "2026-09-29T08:50:00.000Z",
+      "volume": 100
+    },
     {
       "query": "pronostico",
       "startedAt": "2026-09-29T08:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "clima hoy",
       "startedAt": "2026-09-29T08:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "tiempo hoy",
-      "startedAt": "2026-09-29T08:20:00.000Z",
       "volume": 200000
-    },
-    {
-      "query": "pronóstico",
-      "startedAt": "2026-09-29T08:20:00.000Z",
-      "volume": 200
     },
     {
       "query": "es mi sueño",
       "startedAt": "2026-09-29T07:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "morena beltran",
@@ -34,24 +44,14 @@
       "volume": 1000
     },
     {
+      "query": "mi telefe",
+      "startedAt": "2026-09-29T01:30:00.000Z",
+      "volume": 1000
+    },
+    {
       "query": "telefe",
       "startedAt": "2026-09-29T01:00:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "el niño",
-      "startedAt": "2026-09-29T00:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "tiempo mañana",
-      "startedAt": "2026-09-29T00:00:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "libertad - olimpia",
-      "startedAt": "2026-09-28T21:30:00.000Z",
-      "volume": 10000
     }
   ]
 }
