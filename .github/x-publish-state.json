@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2OTM3MDAwMDAsIlNDQUxPTkkgSEFCTEFSw4EgU09CUkUgU1UgRlVUVVJPIFkgTEEgREVTUEVESURBIERFIE1FU1NJIEFOVEVTIERFIFZJQUpBUiBBIEPDk1JET0JBIl0": {
+      "account": "main",
+      "title": "SCALONI HABLARÁ SOBRE SU FUTURO Y LA DESPEDIDA DE MESSI ANTES DE VIAJAR A CÓRDOBA",
+      "dueAt": "2026-09-29T16:30:00.000Z",
+      "bufferPostId": "6abbe64d945e596c7035fd88",
+      "createdAt": "2026-09-29T16:24:45.697Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY3NzIwMDAwMCwiUklDQVJETyBaVU5JTk86IFJFRU1QTEFaw5MgQSBMQVVEQSBFTiBGMSBZIEFIT1JBIEVOVFJFTkEgQ0FCQUxMT1MgRU4gU0FOIEpVQU4iXQ": {
       "account": "f1",
       "title": "RICARDO ZUNINO: REEMPLAZÓ A LAUDA EN F1 Y AHORA ENTRENA CABALLOS EN SAN JUAN",
@@ -2755,7 +2762,7 @@
   },
   "nextAt": {
     "f1": "2026-09-29T15:20:00.000Z",
-    "main": "2026-09-29T15:25:00.000Z"
+    "main": "2026-09-29T16:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
