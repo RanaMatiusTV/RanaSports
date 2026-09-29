@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T21:53:03.170Z",
+  "updatedAt": "2026-09-29T22:26:58.713Z",
   "trends": [
     {
       "query": "lucas sugo",
       "startedAt": "2026-09-29T21:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "deportivo pereira - santa fe",
@@ -26,7 +26,7 @@
     {
       "query": "balón de oro",
       "startedAt": "2026-09-29T19:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "escocia - suiza",
