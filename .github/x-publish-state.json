@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY3NzIwMDAwMCwiUklDQVJETyBaVU5JTk86IFJFRU1QTEFaw5MgQSBMQVVEQSBFTiBGMSBZIEFIT1JBIEVOVFJFTkEgQ0FCQUxMT1MgRU4gU0FOIEpVQU4iXQ": {
+      "account": "f1",
+      "title": "RICARDO ZUNINO: REEMPLAZÓ A LAUDA EN F1 Y AHORA ENTRENA CABALLOS EN SAN JUAN",
+      "dueAt": "2026-09-29T15:15:00.000Z",
+      "bufferPostId": "6abbd5524cff1cc57075dfa7",
+      "createdAt": "2026-09-29T15:12:18.623Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2OTE4NDAwMDAsIlNDQUxPTkkgUFJPQkFSw41BIEEgTEFVVEFSTyBZIEpVTEnDgU4gSlVOVE9TIEFOVEUgQk9MSVZJQSJd": {
+      "account": "main",
+      "title": "SCALONI PROBARÍA A LAUTARO Y JULIÁN JUNTOS ANTE BOLIVIA",
+      "dueAt": "2026-09-29T15:20:00.000Z",
+      "bufferPostId": "6abbd540d379548ba996a62e",
+      "createdAt": "2026-09-29T15:12:00.837Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2NzcyNjAwMDAsIlNDQUxPTkkgU0lHVUUgQSBUUkVTIENFTlRSQUxFUyBERUwgRsOaVEJPTCBMT0NBTCBQQVJBIExBIFJFTk9WQUNJw5NOIERFIExBIFNFTEVDQ0nDk04iXQ": {
+      "account": "main",
+      "title": "SCALONI SIGUE A TRES CENTRALES DEL FÚTBOL LOCAL PARA LA RENOVACIÓN DE LA SELECCIÓN",
+      "dueAt": "2026-09-29T15:15:00.000Z",
+      "bufferPostId": "6abbd540366dc407c5f0280c",
+      "createdAt": "2026-09-29T15:12:00.262Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY4MzYyMDAwMCwiQVNUT04gTUFSVElOIENPTkZJUk3DkyBBIEFMT05TTyBZIFNUUk9MTCBQQVJBIExBIFRFTVBPUkFEQSAyMDI3Il0": {
       "account": "f1",
       "title": "ASTON MARTIN CONFIRMÓ A ALONSO Y STROLL PARA LA TEMPORADA 2027",
@@ -2733,8 +2754,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-29T12:40:00.000Z",
-    "main": "2026-09-29T04:40:00.000Z"
+    "f1": "2026-09-29T15:20:00.000Z",
+    "main": "2026-09-29T15:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
