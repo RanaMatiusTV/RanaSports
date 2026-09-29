@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkwNzAxMTQwMDAwLCJDT0xBUElOVE8gUVVFRMOTIE5PVkVOTyBFTiBFTCBSQU5LSU5HIERFIERBw5FPUyBERSBMQSBGw5NSTVVMQSAxIl0": {
+      "account": "f1",
+      "title": "COLAPINTO QUEDÓ NOVENO EN EL RANKING DE DAÑOS DE LA FÓRMULA 1",
+      "dueAt": "2026-09-29T18:30:00.000Z",
+      "bufferPostId": "6abc02778db23fcd3a35fd90",
+      "createdAt": "2026-09-29T18:24:55.160Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3MDIxMDAwMDAsIlNDQUxPTkkgUkFUSUZJQ8OTIFNVIElOVEVOQ0nDk04gREUgQ09OVElOVUFSIFkgQVBVTlTDkyBBIENPTVBFVElSIEhBU1RBIDIwMzAiXQ": {
+      "account": "main",
+      "title": "SCALONI RATIFICÓ SU INTENCIÓN DE CONTINUAR Y APUNTÓ A COMPETIR HASTA 2030",
+      "dueAt": "2026-09-29T18:35:00.000Z",
+      "bufferPostId": "6abc025ba784493a8ae606ab",
+      "createdAt": "2026-09-29T18:24:27.229Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNzAwODQwMDAwLCJJTkRFUEVORElFTlRFIFJFQ1VQRVLDkyBBTCBDSElNWSDDgVZJTEEgWSBORUdPQ0lBIEEgQ09OVFJBUlJFTE9KIFBPUiBCQU5FR0FTIl0": {
+      "account": "main",
+      "title": "INDEPENDIENTE RECUPERÓ AL CHIMY ÁVILA Y NEGOCIA A CONTRARRELOJ POR BANEGAS",
+      "dueAt": "2026-09-29T18:30:00.000Z",
+      "bufferPostId": "6abc025af9bc1204bdf207da",
+      "createdAt": "2026-09-29T18:24:26.215Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY5NDMwMDAwMCwiQ09MQVBJTlRPIEFQVU5UQSBBIFBFTEVBUiBQT1IgRUwgVE9QIDEwIEVOIFNVIERFQlVUIEVOIFNFUEFORyJd": {
       "account": "f1",
       "title": "COLAPINTO APUNTA A PELEAR POR EL TOP 10 EN SU DEBUT EN SEPANG",
@@ -2789,8 +2810,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-29T17:25:00.000Z",
-    "main": "2026-09-29T17:35:00.000Z"
+    "f1": "2026-09-29T18:35:00.000Z",
+    "main": "2026-09-29T18:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
