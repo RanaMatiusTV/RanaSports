@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T14:56:21.242Z",
+  "updatedAt": "2026-09-29T15:30:15.293Z",
   "trends": [
     {
       "query": "pagotto",
       "startedAt": "2026-09-29T14:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "burundi - argelia",
@@ -21,7 +21,7 @@
     {
       "query": "clima",
       "startedAt": "2026-09-29T09:30:00.000Z",
-      "volume": 500000
+      "volume": 200000
     },
     {
       "query": "tiempo",
