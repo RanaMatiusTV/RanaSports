@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY4MzYyMDAwMCwiQVNUT04gTUFSVElOIENPTkZJUk3DkyBBIEFMT05TTyBZIFNUUk9MTCBQQVJBIExBIFRFTVBPUkFEQSAyMDI3Il0": {
+      "account": "f1",
+      "title": "ASTON MARTIN CONFIRMÓ A ALONSO Y STROLL PARA LA TEMPORADA 2027",
+      "dueAt": "2026-09-29T12:35:00.000Z",
+      "bufferPostId": "6abbae9ca07a12d2d65cd30f",
+      "createdAt": "2026-09-29T12:27:08.334Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY4MTEwMDAwMCwiQ09MQVBJTlRPIEFGUk9OVEFSw4EgRU4gU0VQQU5HIFVOIENJUkNVSVRPIE5VRVZPLCBMTFVWSUEgWSBDSU5DTyBQVUVTVE9TIERFIFNBTkNJw5NOIl0": {
+      "account": "f1",
+      "title": "COLAPINTO AFRONTARÁ EN SEPANG UN CIRCUITO NUEVO, LLUVIA Y CINCO PUESTOS DE SANCIÓN",
+      "dueAt": "2026-09-29T12:30:00.000Z",
+      "bufferPostId": "6abbae9b4561b6e412669486",
+      "createdAt": "2026-09-29T12:27:07.815Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY3Njg0MDAwMCwiQVJWSUQgTElOREJMQUQgVE9Nw5MgQSBWRVJTVEFQUEVOIENPTU8gUkVGRVJFTkNJQSwgUEVSTyBRVUlFUkUgSEFDRVIgU1UgUFJPUElPIENBTUlOTyJd": {
       "account": "f1",
       "title": "ARVID LINDBLAD TOMÓ A VERSTAPPEN COMO REFERENCIA, PERO QUIERE HACER SU PROPIO CAMINO",
@@ -2719,7 +2733,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-29T11:30:00.000Z",
+    "f1": "2026-09-29T12:40:00.000Z",
     "main": "2026-09-29T04:40:00.000Z"
   },
   "buffer": {
