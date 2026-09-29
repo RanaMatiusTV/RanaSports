@@ -1,17 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T19:53:56.444Z",
+  "updatedAt": "2026-09-29T20:28:51.887Z",
   "trends": [
+    {
+      "query": "inglaterra vs",
+      "startedAt": "2026-09-29T19:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "evento de el niño de 2026 2027",
       "startedAt": "2026-09-29T19:10:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "balón de oro",
       "startedAt": "2026-09-29T19:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "escocia - suiza",
@@ -21,7 +26,7 @@
     {
       "query": "muerte",
       "startedAt": "2026-09-29T18:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "choque frontal",
@@ -36,22 +41,17 @@
     {
       "query": "anses",
       "startedAt": "2026-09-29T17:50:00.000Z",
-      "volume": 20000
+      "volume": 10000
     },
     {
       "query": "antonela roccuzzo",
       "startedAt": "2026-09-29T17:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "matías soulé",
       "startedAt": "2026-09-29T16:50:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "helicóptero",
-      "startedAt": "2026-09-29T16:00:00.000Z",
-      "volume": 2000
     }
   ]
 }
