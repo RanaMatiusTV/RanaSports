@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T00:33:49.449Z",
+  "updatedAt": "2026-09-29T00:57:53.703Z",
   "trends": [
+    {
+      "query": "el niño",
+      "startedAt": "2026-09-29T00:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "masterchef",
+      "startedAt": "2026-09-29T00:30:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "tiempo de mañana",
       "startedAt": "2026-09-29T00:00:00.000Z",
-      "volume": 500000
+      "volume": 200000
     },
     {
       "query": "tiempo mañana",
@@ -42,16 +52,6 @@
       "query": "condena",
       "startedAt": "2026-09-28T19:40:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "carburando",
-      "startedAt": "2026-09-28T19:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "fin de semana",
-      "startedAt": "2026-09-28T18:50:00.000Z",
-      "volume": 10000
     }
   ]
 }
