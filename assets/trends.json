@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T17:27:49.267Z",
+  "updatedAt": "2026-09-29T17:55:17.322Z",
   "trends": [
     {
       "query": "matías soulé",
@@ -34,6 +34,16 @@
       "volume": 1000
     },
     {
+      "query": "lesoto - marruecos",
+      "startedAt": "2026-09-29T13:00:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "héctor ártico",
+      "startedAt": "2026-09-29T12:50:00.000Z",
+      "volume": 5000
+    },
+    {
       "query": "brasil vs",
       "startedAt": "2026-09-29T10:50:00.000Z",
       "volume": 1000
@@ -42,16 +52,6 @@
       "query": "clima",
       "startedAt": "2026-09-29T09:30:00.000Z",
       "volume": 500000
-    },
-    {
-      "query": "australia - brasil",
-      "startedAt": "2026-09-29T09:10:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "smn",
-      "startedAt": "2026-09-29T09:10:00.000Z",
-      "volume": 200
     }
   ]
 }
