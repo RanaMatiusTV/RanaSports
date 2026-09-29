@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY3Njg0MDAwMCwiQVJWSUQgTElOREJMQUQgVE9Nw5MgQSBWRVJTVEFQUEVOIENPTU8gUkVGRVJFTkNJQSwgUEVSTyBRVUlFUkUgSEFDRVIgU1UgUFJPUElPIENBTUlOTyJd": {
+      "account": "f1",
+      "title": "ARVID LINDBLAD TOMÓ A VERSTAPPEN COMO REFERENCIA, PERO QUIERE HACER SU PROPIO CAMINO",
+      "dueAt": "2026-09-29T11:25:00.000Z",
+      "bufferPostId": "6abb9eb48b8e0389c1a2e201",
+      "createdAt": "2026-09-29T11:19:16.680Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY1MDQ0MDAwMCwiUlVTU0VMTCBQQVJUSVLDgSBERVNERSBFTCBGT05ETyBFTiBNQUxBU0lBIFBPUiBDQU1CSUFSIExBIFVOSURBRCBERSBQT1RFTkNJQSJd": {
       "account": "f1",
       "title": "RUSSELL PARTIRÁ DESDE EL FONDO EN MALASIA POR CAMBIAR LA UNIDAD DE POTENCIA",
@@ -2712,7 +2719,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-29T04:30:00.000Z",
+    "f1": "2026-09-29T11:30:00.000Z",
     "main": "2026-09-29T04:40:00.000Z"
   },
   "buffer": {
