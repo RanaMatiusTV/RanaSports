@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T15:56:16.831Z",
+  "updatedAt": "2026-09-29T16:30:36.795Z",
   "trends": [
+    {
+      "query": "helicóptero",
+      "startedAt": "2026-09-29T16:00:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "jimena barón",
       "startedAt": "2026-09-29T15:20:00.000Z",
@@ -29,14 +34,14 @@
       "volume": 200000
     },
     {
-      "query": "australia - brasil",
-      "startedAt": "2026-09-29T09:10:00.000Z",
+      "query": "tiempo",
+      "startedAt": "2026-09-29T09:20:00.000Z",
       "volume": 20000
     },
     {
-      "query": "pronóstico del tiempo",
+      "query": "australia - brasil",
       "startedAt": "2026-09-29T09:10:00.000Z",
-      "volume": 200
+      "volume": 20000
     },
     {
       "query": "smn",
@@ -47,11 +52,6 @@
       "query": "clima posadas",
       "startedAt": "2026-09-29T09:00:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "clima de hoy",
-      "startedAt": "2026-09-29T09:00:00.000Z",
-      "volume": 200
     }
   ]
 }
