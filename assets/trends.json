@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T02:53:17.462Z",
+  "updatedAt": "2026-09-29T03:28:20.329Z",
   "trends": [
     {
       "query": "morena beltran",
@@ -16,7 +16,7 @@
     {
       "query": "el niño",
       "startedAt": "2026-09-29T00:40:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "tiempo de mañana",
