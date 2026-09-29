@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T15:30:15.293Z",
+  "updatedAt": "2026-09-29T15:56:16.831Z",
   "trends": [
+    {
+      "query": "jimena barón",
+      "startedAt": "2026-09-29T15:20:00.000Z",
+      "volume": 10000
+    },
     {
       "query": "pagotto",
       "startedAt": "2026-09-29T14:20:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "burundi - argelia",
@@ -24,14 +29,14 @@
       "volume": 200000
     },
     {
-      "query": "tiempo",
-      "startedAt": "2026-09-29T09:20:00.000Z",
-      "volume": 20000
-    },
-    {
       "query": "australia - brasil",
       "startedAt": "2026-09-29T09:10:00.000Z",
       "volume": 20000
+    },
+    {
+      "query": "pronóstico del tiempo",
+      "startedAt": "2026-09-29T09:10:00.000Z",
+      "volume": 200
     },
     {
       "query": "smn",
@@ -47,11 +52,6 @@
       "query": "clima de hoy",
       "startedAt": "2026-09-29T09:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "inundación",
-      "startedAt": "2026-09-29T08:50:00.000Z",
-      "volume": 2000
     }
   ]
 }
