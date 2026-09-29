@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T17:55:17.322Z",
+  "updatedAt": "2026-09-29T18:31:58.608Z",
   "trends": [
+    {
+      "query": "muerte",
+      "startedAt": "2026-09-29T18:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "choque frontal",
+      "startedAt": "2026-09-29T18:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "españa - croacia",
+      "startedAt": "2026-09-29T17:50:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "anses",
+      "startedAt": "2026-09-29T17:50:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "antonela roccuzzo",
+      "startedAt": "2026-09-29T17:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "matías soulé",
       "startedAt": "2026-09-29T16:50:00.000Z",
@@ -16,7 +41,7 @@
     {
       "query": "cabo verde - ruanda",
       "startedAt": "2026-09-29T15:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "jimena barón",
@@ -27,31 +52,6 @@
       "query": "pagotto",
       "startedAt": "2026-09-29T14:20:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "burundi - argelia",
-      "startedAt": "2026-09-29T13:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "lesoto - marruecos",
-      "startedAt": "2026-09-29T13:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "héctor ártico",
-      "startedAt": "2026-09-29T12:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "brasil vs",
-      "startedAt": "2026-09-29T10:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "clima",
-      "startedAt": "2026-09-29T09:30:00.000Z",
-      "volume": 500000
     }
   ]
 }
