@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T11:27:21.562Z",
+  "updatedAt": "2026-09-29T11:54:52.394Z",
   "trends": [
     {
       "query": "brasil vs",
@@ -34,24 +34,24 @@
       "volume": 500
     },
     {
+      "query": "clima de hoy",
+      "startedAt": "2026-09-29T09:00:00.000Z",
+      "volume": 200
+    },
+    {
       "query": "inundación",
       "startedAt": "2026-09-29T08:50:00.000Z",
       "volume": 1000
     },
     {
+      "query": "el tiempo",
+      "startedAt": "2026-09-29T08:40:00.000Z",
+      "volume": 1000
+    },
+    {
       "query": "clima hoy",
       "startedAt": "2026-09-29T08:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "es mi sueño",
-      "startedAt": "2026-09-29T07:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "morena beltran",
-      "startedAt": "2026-09-29T01:50:00.000Z",
-      "volume": 1000
+      "volume": 10000
     }
   ]
 }
