@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T13:31:40.113Z",
+  "updatedAt": "2026-09-29T13:56:19.758Z",
   "trends": [
+    {
+      "query": "burundi - argelia",
+      "startedAt": "2026-09-29T13:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "brasil vs",
       "startedAt": "2026-09-29T10:50:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "clima",
       "startedAt": "2026-09-29T09:30:00.000Z",
-      "volume": 200000
+      "volume": 500000
     },
     {
       "query": "tiempo",
@@ -47,11 +52,6 @@
       "query": "el tiempo",
       "startedAt": "2026-09-29T08:40:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "pronostico",
-      "startedAt": "2026-09-29T08:30:00.000Z",
-      "volume": 5000
     }
   ]
 }
