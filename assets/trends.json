@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T18:31:58.608Z",
+  "updatedAt": "2026-09-29T18:56:10.482Z",
   "trends": [
+    {
+      "query": "escocia - suiza",
+      "startedAt": "2026-09-29T18:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "muerte",
       "startedAt": "2026-09-29T18:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "choque frontal",
@@ -26,7 +31,7 @@
     {
       "query": "antonela roccuzzo",
       "startedAt": "2026-09-29T17:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "matías soulé",
@@ -47,11 +52,6 @@
       "query": "jimena barón",
       "startedAt": "2026-09-29T15:20:00.000Z",
       "volume": 20000
-    },
-    {
-      "query": "pagotto",
-      "startedAt": "2026-09-29T14:20:00.000Z",
-      "volume": 10000
     }
   ]
 }
