@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T16:56:16.478Z",
+  "updatedAt": "2026-09-29T17:27:49.267Z",
   "trends": [
+    {
+      "query": "matías soulé",
+      "startedAt": "2026-09-29T16:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "helicóptero",
       "startedAt": "2026-09-29T16:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
+    },
+    {
+      "query": "cabo verde - ruanda",
+      "startedAt": "2026-09-29T15:50:00.000Z",
+      "volume": 2000
     },
     {
       "query": "jimena barón",
@@ -41,16 +51,6 @@
     {
       "query": "smn",
       "startedAt": "2026-09-29T09:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "clima posadas",
-      "startedAt": "2026-09-29T09:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "clima de hoy",
-      "startedAt": "2026-09-29T09:00:00.000Z",
       "volume": 200
     }
   ]
