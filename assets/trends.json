@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T07:54:46.869Z",
+  "updatedAt": "2026-09-29T08:30:05.339Z",
   "trends": [
     {
       "query": "es mi sueño",
       "startedAt": "2026-09-29T07:10:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "morena beltran",
@@ -46,7 +46,7 @@
     {
       "query": "gobierno",
       "startedAt": "2026-09-28T20:40:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "asignación universal por hijo",
