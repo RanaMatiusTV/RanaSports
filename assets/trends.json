@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T12:59:03.418Z",
+  "updatedAt": "2026-09-29T13:31:40.113Z",
   "trends": [
     {
       "query": "brasil vs",
@@ -44,14 +44,14 @@
       "volume": 2000
     },
     {
-      "query": "clima hoy",
-      "startedAt": "2026-09-29T08:20:00.000Z",
-      "volume": 2000
+      "query": "el tiempo",
+      "startedAt": "2026-09-29T08:40:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "tiempo hoy",
-      "startedAt": "2026-09-29T08:20:00.000Z",
-      "volume": 2000
+      "query": "pronostico",
+      "startedAt": "2026-09-29T08:30:00.000Z",
+      "volume": 5000
     }
   ]
 }
