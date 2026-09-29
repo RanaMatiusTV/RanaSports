@@ -1,6 +1,34 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY1MDQ0MDAwMCwiUlVTU0VMTCBQQVJUSVLDgSBERVNERSBFTCBGT05ETyBFTiBNQUxBU0lBIFBPUiBDQU1CSUFSIExBIFVOSURBRCBERSBQT1RFTkNJQSJd": {
+      "account": "f1",
+      "title": "RUSSELL PARTIRÁ DESDE EL FONDO EN MALASIA POR CAMBIAR LA UNIDAD DE POTENCIA",
+      "dueAt": "2026-09-29T04:25:00.000Z",
+      "bufferPostId": "6abb3cadb6b26148958f004d",
+      "createdAt": "2026-09-29T04:21:01.318Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2NDYwMDAwMDAsIlNDQUxPTkkgRU5TQVnDkyBVTiBPTkNFIENPTiBCQVJDTyBZIE5JQ08gUEFaIFBBUkEgRU5GUkVOVEFSIEEgQk9MSVZJQSJd": {
+      "account": "main",
+      "title": "SCALONI ENSAYÓ UN ONCE CON BARCO Y NICO PAZ PARA ENFRENTAR A BOLIVIA",
+      "dueAt": "2026-09-29T04:35:00.000Z",
+      "bufferPostId": "6abb3c9685cca6b1297b8e1f",
+      "createdAt": "2026-09-29T04:20:38.505Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNjQ0ODAwMDAwLCJJTkRFUEVORElFTlRFIEZJSsOTIFNVUyBFTEVDQ0lPTkVTIFBBUkEgRUwgMTMgREUgRElDSUVNQlJFIl0": {
+      "account": "main",
+      "title": "INDEPENDIENTE FIJÓ SUS ELECCIONES PARA EL 13 DE DICIEMBRE",
+      "dueAt": "2026-09-29T04:30:00.000Z",
+      "bufferPostId": "6abb3c9585cca6b1297b8df1",
+      "createdAt": "2026-09-29T04:20:37.573Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNjQ0NjIwMDAwLCJRVUlRVUUgU0FDQ08gTEFOWsOTIFNVIENBTkRJREFUVVJBIEEgUFJFU0lERU5URSBERSBJTkRFUEVORElFTlRFIl0": {
+      "account": "main",
+      "title": "QUIQUE SACCO LANZÓ SU CANDIDATURA A PRESIDENTE DE INDEPENDIENTE",
+      "dueAt": "2026-09-29T04:25:00.000Z",
+      "bufferPostId": "6abb3c94b6b26148958ef88d",
+      "createdAt": "2026-09-29T04:20:36.941Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2MzM4ODAwMDAsIkFGQSBDT05GSVJNw5MgTEEgVEVSTkEgQ09MT01CSUFOQSBQQVJBIEFSR0VOVElOQS1CT0xJVklBIl0": {
       "account": "main",
       "title": "AFA CONFIRMÓ LA TERNA COLOMBIANA PARA ARGENTINA-BOLIVIA",
@@ -2684,8 +2712,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-28T22:25:00.000Z",
-    "main": "2026-09-28T23:35:00.000Z"
+    "f1": "2026-09-29T04:30:00.000Z",
+    "main": "2026-09-29T04:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
