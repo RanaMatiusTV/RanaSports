@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T20:53:08.134Z",
+  "updatedAt": "2026-09-29T21:27:08.646Z",
   "trends": [
     {
       "query": "deportivo pereira - santa fe",
@@ -46,7 +46,7 @@
     {
       "query": "anses",
       "startedAt": "2026-09-29T17:50:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "antonela roccuzzo",
