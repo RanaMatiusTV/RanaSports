@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T22:26:58.713Z",
+  "updatedAt": "2026-09-29T22:52:13.012Z",
   "trends": [
+    {
+      "query": "argentina vs",
+      "startedAt": "2026-09-29T22:20:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "lucas sugo",
       "startedAt": "2026-09-29T21:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "deportivo pereira - santa fe",
@@ -47,11 +52,6 @@
       "query": "españa - croacia",
       "startedAt": "2026-09-29T17:50:00.000Z",
       "volume": 100000
-    },
-    {
-      "query": "anses",
-      "startedAt": "2026-09-29T17:50:00.000Z",
-      "volume": 20000
     }
   ]
 }
