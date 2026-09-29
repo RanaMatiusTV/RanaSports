@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T19:28:12.281Z",
+  "updatedAt": "2026-09-29T19:53:56.444Z",
   "trends": [
     {
       "query": "evento de el niño de 2026 2027",
@@ -16,7 +16,7 @@
     {
       "query": "escocia - suiza",
       "startedAt": "2026-09-29T18:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "muerte",
@@ -31,7 +31,7 @@
     {
       "query": "españa - croacia",
       "startedAt": "2026-09-29T17:50:00.000Z",
-      "volume": 20000
+      "volume": 50000
     },
     {
       "query": "anses",
