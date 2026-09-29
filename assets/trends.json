@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T21:27:08.646Z",
+  "updatedAt": "2026-09-29T21:53:03.170Z",
   "trends": [
+    {
+      "query": "lucas sugo",
+      "startedAt": "2026-09-29T21:20:00.000Z",
+      "volume": 500
+    },
     {
       "query": "deportivo pereira - santa fe",
       "startedAt": "2026-09-29T20:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "inglaterra vs",
@@ -26,12 +31,12 @@
     {
       "query": "escocia - suiza",
       "startedAt": "2026-09-29T18:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "muerte",
       "startedAt": "2026-09-29T18:10:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "choque frontal",
@@ -41,17 +46,12 @@
     {
       "query": "españa - croacia",
       "startedAt": "2026-09-29T17:50:00.000Z",
-      "volume": 50000
+      "volume": 100000
     },
     {
       "query": "anses",
       "startedAt": "2026-09-29T17:50:00.000Z",
       "volume": 20000
-    },
-    {
-      "query": "antonela roccuzzo",
-      "startedAt": "2026-09-29T17:50:00.000Z",
-      "volume": 5000
     }
   ]
 }
