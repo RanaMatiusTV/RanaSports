@@ -82,12 +82,50 @@ jobs:
       - name: Commit only when feed changed
         shell: bash
         run: |
+          set -euo pipefail
           if git diff --quiet -- assets/news-live.csv; then
             echo "No feed changes"
             exit 0
           fi
+
           git config user.name "RanaSports Bot"
           git config user.email "actions@users.noreply.github.com"
+
+          # Save the generated feed, update to the latest main, then restore it.
+          # This prevents non-fast-forward failures when another workflow pushes
+          # to main while this job is running.
+          cp assets/news-live.csv /tmp/news-live.csv
+          git restore assets/news-live.csv
+          git fetch origin main
+          git reset --hard origin/main
+          cp /tmp/news-live.csv assets/news-live.csv
+
+          if git diff --quiet -- assets/news-live.csv; then
+            echo "Feed already present after refreshing main"
+            exit 0
+          fi
+
           git add assets/news-live.csv
           git commit -m "Auto-sync RanaSports news feed"
-          git push
+
+          # A second writer can still land between fetch and push. Retry safely.
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push collision (attempt $attempt); refreshing main and retrying..."
+            cp assets/news-live.csv /tmp/news-live.csv
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/news-live.csv assets/news-live.csv
+            if git diff --quiet -- assets/news-live.csv; then
+              echo "Feed already published by another run"
+              exit 0
+            fi
+            git add assets/news-live.csv
+            git commit -m "Auto-sync RanaSports news feed"
+            sleep $((attempt * 2))
+          done
+
+          echo "Unable to push feed after 3 attempts"
+          exit 1
