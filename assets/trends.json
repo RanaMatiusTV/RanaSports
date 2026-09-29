@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T18:56:10.482Z",
+  "updatedAt": "2026-09-29T19:28:12.281Z",
   "trends": [
+    {
+      "query": "evento de el niño de 2026 2027",
+      "startedAt": "2026-09-29T19:10:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "balón de oro",
+      "startedAt": "2026-09-29T19:10:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "escocia - suiza",
       "startedAt": "2026-09-29T18:20:00.000Z",
@@ -16,12 +26,12 @@
     {
       "query": "choque frontal",
       "startedAt": "2026-09-29T18:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "españa - croacia",
       "startedAt": "2026-09-29T17:50:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "anses",
@@ -42,16 +52,6 @@
       "query": "helicóptero",
       "startedAt": "2026-09-29T16:00:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "cabo verde - ruanda",
-      "startedAt": "2026-09-29T15:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "jimena barón",
-      "startedAt": "2026-09-29T15:20:00.000Z",
-      "volume": 20000
     }
   ]
 }
