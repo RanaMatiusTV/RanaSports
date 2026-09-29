@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T00:57:53.703Z",
+  "updatedAt": "2026-09-29T01:25:39.225Z",
   "trends": [
+    {
+      "query": "telefe",
+      "startedAt": "2026-09-29T01:00:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "el niño",
       "startedAt": "2026-09-29T00:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "masterchef",
-      "startedAt": "2026-09-29T00:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "tiempo de mañana",
