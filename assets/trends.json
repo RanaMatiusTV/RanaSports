@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T22:52:13.012Z",
+  "updatedAt": "2026-09-29T23:24:39.503Z",
   "trends": [
     {
       "query": "argentina vs",
@@ -11,6 +11,11 @@
     {
       "query": "lucas sugo",
       "startedAt": "2026-09-29T21:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "cumpleaños",
+      "startedAt": "2026-09-29T20:50:00.000Z",
       "volume": 2000
     },
     {
@@ -47,11 +52,6 @@
       "query": "choque frontal",
       "startedAt": "2026-09-29T18:10:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "españa - croacia",
-      "startedAt": "2026-09-29T17:50:00.000Z",
-      "volume": 100000
     }
   ]
 }
