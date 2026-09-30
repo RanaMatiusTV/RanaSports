@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T12:37:34.928Z",
+  "updatedAt": "2026-09-30T13:00:53.360Z",
   "trends": [
+    {
+      "query": "walter samuel",
+      "startedAt": "2026-09-30T12:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "novak djokovic",
       "startedAt": "2026-09-30T11:20:00.000Z",
@@ -47,11 +52,6 @@
       "query": "méxico - perú",
       "startedAt": "2026-09-30T00:30:00.000Z",
       "volume": 20000
-    },
-    {
-      "query": "estados unidos - chile",
-      "startedAt": "2026-09-29T23:20:00.000Z",
-      "volume": 10000
     }
   ]
 }
