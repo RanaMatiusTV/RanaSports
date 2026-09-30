@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T01:53:47.521Z",
+  "updatedAt": "2026-09-30T02:26:23.128Z",
   "trends": [
+    {
+      "query": "karina mazzocco",
+      "startedAt": "2026-09-30T02:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "diego ramos",
+      "startedAt": "2026-09-30T02:00:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "telefe",
       "startedAt": "2026-09-30T01:10:00.000Z",
@@ -11,7 +21,7 @@
     {
       "query": "méxico - perú",
       "startedAt": "2026-09-30T00:30:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "cuando juega argentina",
@@ -42,16 +52,6 @@
       "query": "cumpleaños",
       "startedAt": "2026-09-29T20:50:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "deportivo pereira - santa fe",
-      "startedAt": "2026-09-29T20:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "inglaterra vs",
-      "startedAt": "2026-09-29T19:50:00.000Z",
-      "volume": 1000
     }
   ]
 }
