@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T14:31:56.067Z",
+  "updatedAt": "2026-09-30T14:59:02.176Z",
   "trends": [
     {
       "query": "walter samuel",
       "startedAt": "2026-09-30T12:40:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "novak djokovic",
@@ -17,11 +17,6 @@
       "query": "juan manuel cerúndolo",
       "startedAt": "2026-09-30T09:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "wálter samuel",
-      "startedAt": "2026-09-30T08:20:00.000Z",
-      "volume": 5000
     },
     {
       "query": "marta fort",
@@ -47,6 +42,11 @@
       "query": "karina mazzocco",
       "startedAt": "2026-09-30T02:00:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "chile vs",
+      "startedAt": "2026-09-30T01:50:00.000Z",
+      "volume": 500
     },
     {
       "query": "telefe",
