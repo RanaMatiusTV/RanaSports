@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkwNzE4NjAwMDAwLCJOSUNPIFZBUlJPTkUgVk9MVkVSw4EgQSBDT01QRVRJUiBFTiBQRVRJVCBMRSBNQU5TIFRSQVMgU1UgU0FMSURBIERFIEYyIl0": {
+      "account": "f1",
+      "title": "NICO VARRONE VOLVERÁ A COMPETIR EN PETIT LE MANS TRAS SU SALIDA DE F2",
+      "dueAt": "2026-09-30T00:35:00.000Z",
+      "bufferPostId": "6abc5884d3050be9e37b0b43",
+      "createdAt": "2026-09-30T00:32:04.504Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNzI2MTAwMDAwLCJJTkRFUEVORElFTlRFIEFDT1JEw5MgTEEgTExFR0FEQSBERSBOQUhVRUwgQkFORUdBUyBBIFBSw4lTVEFNTyJd": {
+      "account": "main",
+      "title": "INDEPENDIENTE ACORDÓ LA LLEGADA DE NAHUEL BANEGAS A PRÉSTAMO",
+      "dueAt": "2026-09-30T00:40:00.000Z",
+      "bufferPostId": "6abc586ebc79f721888ea608",
+      "createdAt": "2026-09-30T00:31:43.113Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNjg4MzAwMDAwLCJJTkRFUEVORElFTlRFIENPTkZPUk3DkyBMQSBKVU5UQSBFTEVDVE9SQUwgUEFSQSBMT1MgQ09NSUNJT1MgREUgRElDSUVNQlJFIl0": {
+      "account": "main",
+      "title": "INDEPENDIENTE CONFORMÓ LA JUNTA ELECTORAL PARA LOS COMICIOS DE DICIEMBRE",
+      "dueAt": "2026-09-30T00:35:00.000Z",
+      "bufferPostId": "6abc586ef3db08ac926dabf0",
+      "createdAt": "2026-09-30T00:31:42.238Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDcxNjc0MDAwMCwiQ09MQVBJTlRPIFJFQ09SUknDkyAxNC42MDAgS0lMw5NNRVRST1MgRU4gNzIgSE9SQVMgUEFSQSBQUkVQQVJBUiBTRVBBTkciXQ": {
       "account": "f1",
       "title": "COLAPINTO RECORRIÓ 14.600 KILÓMETROS EN 72 HORAS PARA PREPARAR SEPANG",
@@ -2859,8 +2880,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-29T22:25:00.000Z",
-    "main": "2026-09-29T22:25:00.000Z"
+    "f1": "2026-09-30T00:40:00.000Z",
+    "main": "2026-09-30T00:45:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
