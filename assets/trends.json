@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T09:29:28.400Z",
+  "updatedAt": "2026-09-30T09:55:52.343Z",
   "trends": [
+    {
+      "query": "juan manuel cerúndolo",
+      "startedAt": "2026-09-30T09:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "wálter samuel",
       "startedAt": "2026-09-30T08:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "marta fort",
@@ -47,11 +52,6 @@
       "query": "maxi ghione",
       "startedAt": "2026-09-29T23:10:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "argentina",
-      "startedAt": "2026-09-29T23:00:00.000Z",
-      "volume": 5000
     }
   ]
 }
