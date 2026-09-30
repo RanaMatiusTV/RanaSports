@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T00:59:16.942Z",
+  "updatedAt": "2026-09-30T01:27:28.711Z",
   "trends": [
+    {
+      "query": "telefe",
+      "startedAt": "2026-09-30T01:10:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "méxico - perú",
       "startedAt": "2026-09-30T00:30:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "cuando juega argentina",
@@ -47,11 +52,6 @@
       "query": "inglaterra vs",
       "startedAt": "2026-09-29T19:50:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "evento de el niño de 2026 2027",
-      "startedAt": "2026-09-29T19:10:00.000Z",
-      "volume": 10000
     }
   ]
 }
