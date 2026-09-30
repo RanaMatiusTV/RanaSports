@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T11:26:43.461Z",
+  "updatedAt": "2026-09-30T11:55:13.648Z",
   "trends": [
+    {
+      "query": "novak djokovic",
+      "startedAt": "2026-09-30T11:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "juan manuel cerúndolo",
       "startedAt": "2026-09-30T09:20:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "wálter samuel",
       "startedAt": "2026-09-30T08:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "marta fort",
@@ -42,11 +47,6 @@
       "query": "méxico - perú",
       "startedAt": "2026-09-30T00:30:00.000Z",
       "volume": 20000
-    },
-    {
-      "query": "cuando juega argentina",
-      "startedAt": "2026-09-30T00:20:00.000Z",
-      "volume": 1000
     },
     {
       "query": "estados unidos - chile",
