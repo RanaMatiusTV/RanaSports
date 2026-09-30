@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T09:55:52.343Z",
+  "updatedAt": "2026-09-30T10:29:15.165Z",
   "trends": [
     {
       "query": "juan manuel cerúndolo",
@@ -11,7 +11,7 @@
     {
       "query": "wálter samuel",
       "startedAt": "2026-09-30T08:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "marta fort",
@@ -44,13 +44,13 @@
       "volume": 20000
     },
     {
-      "query": "estados unidos - chile",
-      "startedAt": "2026-09-29T23:20:00.000Z",
-      "volume": 10000
+      "query": "cuando juega argentina",
+      "startedAt": "2026-09-30T00:20:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "maxi ghione",
-      "startedAt": "2026-09-29T23:10:00.000Z",
+      "query": "estados unidos - chile",
+      "startedAt": "2026-09-29T23:20:00.000Z",
       "volume": 10000
     }
   ]
