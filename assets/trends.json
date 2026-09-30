@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T03:28:16.897Z",
+  "updatedAt": "2026-09-30T03:54:45.968Z",
   "trends": [
     {
       "query": "marta fort",
@@ -46,12 +46,12 @@
     {
       "query": "maxi ghione",
       "startedAt": "2026-09-29T23:10:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "argentina vs",
       "startedAt": "2026-09-29T22:20:00.000Z",
-      "volume": 10000
+      "volume": 20000
     }
   ]
 }
