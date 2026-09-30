@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T21:28:27.983Z",
+  "updatedAt": "2026-09-30T21:55:09.793Z",
   "trends": [
+    {
+      "query": "máximo kirchner",
+      "startedAt": "2026-09-30T21:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "uruguay",
       "startedAt": "2026-09-30T21:00:00.000Z",
@@ -47,11 +52,6 @@
       "query": "juan manuel cerúndolo",
       "startedAt": "2026-09-30T09:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "marta fort",
-      "startedAt": "2026-09-30T02:30:00.000Z",
-      "volume": 500
     }
   ]
 }
