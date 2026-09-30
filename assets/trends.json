@@ -1,17 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T20:53:11.820Z",
+  "updatedAt": "2026-09-30T21:28:27.983Z",
   "trends": [
+    {
+      "query": "uruguay",
+      "startedAt": "2026-09-30T21:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "esteban ocon",
+      "startedAt": "2026-09-30T21:00:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "meteorología",
       "startedAt": "2026-09-30T20:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "decreto",
       "startedAt": "2026-09-30T18:00:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "rodolfo arruabarrena",
@@ -26,7 +36,7 @@
     {
       "query": "walter samuel",
       "startedAt": "2026-09-30T12:40:00.000Z",
-      "volume": 20000
+      "volume": 50000
     },
     {
       "query": "novak djokovic",
@@ -42,16 +52,6 @@
       "query": "marta fort",
       "startedAt": "2026-09-30T02:30:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "juana viale",
-      "startedAt": "2026-09-30T02:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "peru vs",
-      "startedAt": "2026-09-30T02:10:00.000Z",
-      "volume": 1000
     }
   ]
 }
