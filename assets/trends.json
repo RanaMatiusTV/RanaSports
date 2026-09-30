@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T18:57:41.981Z",
+  "updatedAt": "2026-09-30T19:28:16.291Z",
   "trends": [
     {
       "query": "decreto",
       "startedAt": "2026-09-30T18:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "rodolfo arruabarrena",
