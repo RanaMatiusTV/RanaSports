@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T23:25:17.266Z",
+  "updatedAt": "2026-09-30T23:52:33.724Z",
   "trends": [
     {
       "query": "telefe",
       "startedAt": "2026-09-30T23:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "argentina - bolivia",
       "startedAt": "2026-09-30T23:00:00.000Z",
-      "volume": 50000
+      "volume": 200000
     },
     {
       "query": "torque - peñarol",
@@ -26,7 +26,7 @@
     {
       "query": "máximo kirchner",
       "startedAt": "2026-09-30T21:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "uruguay",
