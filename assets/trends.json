@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T01:27:28.711Z",
+  "updatedAt": "2026-09-30T01:53:47.521Z",
   "trends": [
     {
       "query": "telefe",
@@ -21,7 +21,7 @@
     {
       "query": "estados unidos - chile",
       "startedAt": "2026-09-29T23:20:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "maxi ghione",
