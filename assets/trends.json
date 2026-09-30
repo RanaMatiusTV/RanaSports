@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T10:29:15.165Z",
+  "updatedAt": "2026-09-30T10:55:31.701Z",
   "trends": [
     {
       "query": "juan manuel cerúndolo",
@@ -11,7 +11,7 @@
     {
       "query": "wálter samuel",
       "startedAt": "2026-09-30T08:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "marta fort",
