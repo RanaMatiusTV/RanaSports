@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T19:53:08.059Z",
+  "updatedAt": "2026-09-30T20:27:55.029Z",
   "trends": [
+    {
+      "query": "meteorología",
+      "startedAt": "2026-09-30T20:10:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "decreto",
       "startedAt": "2026-09-30T18:00:00.000Z",
@@ -46,11 +51,6 @@
     {
       "query": "peru vs",
       "startedAt": "2026-09-30T02:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "diego ramos",
-      "startedAt": "2026-09-30T02:00:00.000Z",
       "volume": 1000
     }
   ]
