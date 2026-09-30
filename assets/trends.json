@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T00:36:03.941Z",
+  "updatedAt": "2026-09-30T00:59:16.942Z",
   "trends": [
+    {
+      "query": "méxico - perú",
+      "startedAt": "2026-09-30T00:30:00.000Z",
+      "volume": 5000
+    },
     {
       "query": "cuando juega argentina",
       "startedAt": "2026-09-30T00:20:00.000Z",
@@ -46,12 +51,7 @@
     {
       "query": "evento de el niño de 2026 2027",
       "startedAt": "2026-09-29T19:10:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "balón de oro",
-      "startedAt": "2026-09-29T19:10:00.000Z",
-      "volume": 5000
+      "volume": 10000
     }
   ]
 }
