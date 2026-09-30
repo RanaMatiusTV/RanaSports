@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T21:55:09.793Z",
+  "updatedAt": "2026-09-30T22:27:55.487Z",
   "trends": [
     {
       "query": "máximo kirchner",
@@ -11,7 +11,7 @@
     {
       "query": "uruguay",
       "startedAt": "2026-09-30T21:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "esteban ocon",
@@ -21,7 +21,7 @@
     {
       "query": "meteorología",
       "startedAt": "2026-09-30T20:10:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "decreto",
