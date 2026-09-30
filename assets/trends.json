@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T08:55:37.813Z",
+  "updatedAt": "2026-09-30T09:29:28.400Z",
   "trends": [
     {
       "query": "wálter samuel",
@@ -49,9 +49,9 @@
       "volume": 10000
     },
     {
-      "query": "argentina vs",
-      "startedAt": "2026-09-29T22:20:00.000Z",
-      "volume": 20000
+      "query": "argentina",
+      "startedAt": "2026-09-29T23:00:00.000Z",
+      "volume": 5000
     }
   ]
 }
