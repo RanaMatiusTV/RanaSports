@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T13:00:53.360Z",
+  "updatedAt": "2026-09-30T13:30:05.499Z",
   "trends": [
     {
       "query": "walter samuel",
       "startedAt": "2026-09-30T12:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "novak djokovic",
