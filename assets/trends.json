@@ -1,22 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-29T23:51:45.795Z",
+  "updatedAt": "2026-09-30T00:36:03.941Z",
   "trends": [
+    {
+      "query": "cuando juega argentina",
+      "startedAt": "2026-09-30T00:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "estados unidos - chile",
       "startedAt": "2026-09-29T23:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "maxi ghione",
       "startedAt": "2026-09-29T23:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "argentina vs",
       "startedAt": "2026-09-29T22:20:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "lucas sugo",
@@ -41,16 +46,11 @@
     {
       "query": "evento de el niño de 2026 2027",
       "startedAt": "2026-09-29T19:10:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "balón de oro",
       "startedAt": "2026-09-29T19:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "escocia - suiza",
-      "startedAt": "2026-09-29T18:20:00.000Z",
       "volume": 5000
     }
   ]
