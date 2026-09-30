@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3MjkxNjAwMDAsIkxBIFNFTEVDQ0nDk04gTExFR8OTIEEgQ8OTUkRPQkEgWSBTVVMgUkVGRVJFTlRFUyBTRSBBQ0VSQ0FST04gQSBMT1MgSElOQ0hBUyJd": {
+      "account": "main",
+      "title": "LA SELECCIÓN LLEGÓ A CÓRDOBA Y SUS REFERENTES SE ACERCARON A LOS HINCHAS",
+      "dueAt": "2026-09-30T02:15:00.000Z",
+      "bufferPostId": "6abc7009f3db08ac9270399c",
+      "createdAt": "2026-09-30T02:12:25.577Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkwNzE4NjAwMDAwLCJOSUNPIFZBUlJPTkUgVk9MVkVSw4EgQSBDT01QRVRJUiBFTiBQRVRJVCBMRSBNQU5TIFRSQVMgU1UgU0FMSURBIERFIEYyIl0": {
       "account": "f1",
       "title": "NICO VARRONE VOLVERÁ A COMPETIR EN PETIT LE MANS TRAS SU SALIDA DE F2",
@@ -2881,7 +2888,7 @@
   },
   "nextAt": {
     "f1": "2026-09-30T00:40:00.000Z",
-    "main": "2026-09-30T00:45:00.000Z"
+    "main": "2026-09-30T02:20:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
