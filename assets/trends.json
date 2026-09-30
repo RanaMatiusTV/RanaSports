@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T03:54:45.968Z",
+  "updatedAt": "2026-09-30T04:28:55.152Z",
   "trends": [
     {
       "query": "marta fort",
@@ -34,11 +34,6 @@
       "volume": 20000
     },
     {
-      "query": "cuando juega argentina",
-      "startedAt": "2026-09-30T00:20:00.000Z",
-      "volume": 1000
-    },
-    {
       "query": "estados unidos - chile",
       "startedAt": "2026-09-29T23:20:00.000Z",
       "volume": 10000
@@ -52,6 +47,11 @@
       "query": "argentina vs",
       "startedAt": "2026-09-29T22:20:00.000Z",
       "volume": 20000
+    },
+    {
+      "query": "lucas sugo",
+      "startedAt": "2026-09-29T21:20:00.000Z",
+      "volume": 2000
     }
   ]
 }
