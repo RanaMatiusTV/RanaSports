@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T16:54:48.470Z",
+  "updatedAt": "2026-09-30T17:28:22.302Z",
   "trends": [
+    {
+      "query": "eritrea - sudáfrica",
+      "startedAt": "2026-09-30T15:50:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "walter samuel",
       "startedAt": "2026-09-30T12:40:00.000Z",
@@ -47,11 +52,6 @@
       "query": "chile vs",
       "startedAt": "2026-09-30T01:50:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "telefe",
-      "startedAt": "2026-09-30T01:10:00.000Z",
-      "volume": 2000
     }
   ]
 }
