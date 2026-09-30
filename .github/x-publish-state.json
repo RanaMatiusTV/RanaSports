@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDc4MTU0MDAwMCwiSk9EWSBTQ0hFQ0tURVI6IERFIENBTVBFw5NOIENPTiBGRVJSQVJJIEEgUFJPRFVDVE9SIERFIE1PWlpBUkVMTEEgWSBIRUxBRE9TIl0": {
+      "account": "f1",
+      "title": "JODY SCHECKTER: DE CAMPEÓN CON FERRARI A PRODUCTOR DE MOZZARELLA Y HELADOS",
+      "dueAt": "2026-09-30T16:30:00.000Z",
+      "bufferPostId": "6abd37c29ffc1183ec54644e",
+      "createdAt": "2026-09-30T16:24:34.993Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3ODMzNDAwMDAsIkFGQSBBUEVMw5MgTEEgU0FOQ0nDk04gREUgRElFWiBQQVJUSURPUyBBIExFQU5EUk8gUEFSRURFUyJd": {
+      "account": "main",
+      "title": "AFA APELÓ LA SANCIÓN DE DIEZ PARTIDOS A LEANDRO PAREDES",
+      "dueAt": "2026-09-30T17:00:00.000Z",
+      "bufferPostId": "6abd37a9ac4ad3cac21b63bf",
+      "createdAt": "2026-09-30T16:24:09.460Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3ODMxMDAwMDAsIkxBIFBFUEEgQlJJWlVFTEEgQ0FOVEFSw4EgRUwgSElNTk8gQU5URVMgREUgQVJHRU5USU5BLUJPTElWSUEiXQ": {
+      "account": "main",
+      "title": "LA PEPA BRIZUELA CANTARÁ EL HIMNO ANTES DE ARGENTINA-BOLIVIA",
+      "dueAt": "2026-09-30T16:55:00.000Z",
+      "bufferPostId": "6abd37a8f1b6fecf52414845",
+      "createdAt": "2026-09-30T16:24:08.853Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3ODMwNDAwMDAsIkFSR0VOVElOQSBBQlJFIFVOQSBOVUVWQSBFUkEgRU5UUkUgRUwgUkVDQU1CSU8gWSBMQSBERVNQRURJREEgREUgTUVTU0kiXQ": {
+      "account": "main",
+      "title": "ARGENTINA ABRE UNA NUEVA ERA ENTRE EL RECAMBIO Y LA DESPEDIDA DE MESSI",
+      "dueAt": "2026-09-30T16:50:00.000Z",
+      "bufferPostId": "6abd37a8f1b6fecf5241481c",
+      "createdAt": "2026-09-30T16:24:08.361Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNzgxMzAwMDAwLCJJTkRFUEVORElFTlRFIFNVTcOTIEEgTkFIVUVMIEJBTkVHQVMgQ09NTyBSRUZVRVJaTyJd": {
+      "account": "main",
+      "title": "INDEPENDIENTE SUMÓ A NAHUEL BANEGAS COMO REFUERZO",
+      "dueAt": "2026-09-30T16:45:00.000Z",
+      "bufferPostId": "6abd37a79ffc1183ec545d4c",
+      "createdAt": "2026-09-30T16:24:07.490Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3ODAxNjAwMDAsIkxBIENBTUlTRVRBIDEwIFFVRURBUsOBIFZBQ0FOVEUgQU5URSBCT0xJVklBIFkgQlVSS0lOQSBGQVNPIl0": {
+      "account": "main",
+      "title": "LA CAMISETA 10 QUEDARÁ VACANTE ANTE BOLIVIA Y BURKINA FASO",
+      "dueAt": "2026-09-30T16:40:00.000Z",
+      "bufferPostId": "6abd37a69b1389900eb9039d",
+      "createdAt": "2026-09-30T16:24:06.723Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3Nzg3MjAwMDAsIkFSR0VOVElOQSBSRUdSRVNBIEEgQ8OTUkRPQkEgQ09OIFVOIEhJU1RPUklBTCBNVVkgRkFWT1JBQkxFIl0": {
+      "account": "main",
+      "title": "ARGENTINA REGRESA A CÓRDOBA CON UN HISTORIAL MUY FAVORABLE",
+      "dueAt": "2026-09-30T16:35:00.000Z",
+      "bufferPostId": "6abd37a6ac4ad3cac21b6375",
+      "createdAt": "2026-09-30T16:24:06.294Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3NzYyMDAwMDAsIlNDQUxPTkkgREVGSU5FIEVMIMOaTFRJTU8gTFVHQVIgREVMIE9OQ0UgQU5URSBCT0xJVklBIl0": {
+      "account": "main",
+      "title": "SCALONI DEFINE EL ÚLTIMO LUGAR DEL ONCE ANTE BOLIVIA",
+      "dueAt": "2026-09-30T16:30:00.000Z",
+      "bufferPostId": "6abd37a5f1b6fecf524147c1",
+      "createdAt": "2026-09-30T16:24:05.813Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDc3MzYyMDAwMCwiU0VJUyBQSUxPVE9TIERFIEbDk1JNVUxBIDEgQ09SUklFUk9OIEVOIEtBUlRJTkcgRFVSQU5URSBTVSBFU0NBTEEgRU4gTUFMQVNJQSJd": {
       "account": "f1",
       "title": "SEIS PILOTOS DE FÓRMULA 1 CORRIERON EN KARTING DURANTE SU ESCALA EN MALASIA",
@@ -2950,8 +3006,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-09-30T14:35:00.000Z",
-    "main": "2026-09-30T12:40:00.000Z"
+    "f1": "2026-09-30T16:35:00.000Z",
+    "main": "2026-09-30T17:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
