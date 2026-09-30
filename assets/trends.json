@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-09-30T22:27:55.487Z",
+  "updatedAt": "2026-09-30T22:54:09.269Z",
   "trends": [
     {
       "query": "máximo kirchner",
       "startedAt": "2026-09-30T21:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "uruguay",
