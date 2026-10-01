@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T08:31:54.186Z",
+  "updatedAt": "2026-10-01T08:55:54.503Z",
   "trends": [
+    {
+      "query": "carlos alcaraz",
+      "startedAt": "2026-10-01T08:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "quini6",
+      "startedAt": "2026-10-01T08:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "frankkaster",
       "startedAt": "2026-10-01T02:50:00.000Z",
@@ -21,7 +31,7 @@
     {
       "query": "santiago simón",
       "startedAt": "2026-10-01T01:20:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "burkina faso",
@@ -41,16 +51,6 @@
     {
       "query": "cuti romero",
       "startedAt": "2026-10-01T00:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "benin",
-      "startedAt": "2026-10-01T00:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "prestianni",
-      "startedAt": "2026-10-01T00:00:00.000Z",
       "volume": 5000
     }
   ]
