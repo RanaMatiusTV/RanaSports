@@ -1,6 +1,34 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MTI5ODAwMDAsIlJPTcOBTiBWRUdBIERFQlVUw5MgRU4gTEEgU0VMRUNDScOTTiBZIEZVRSBFTCBFU1RSRU5PIE7Dmk1FUk8gNjYgREVMIENJQ0xPIFNDQUxPTkkiXQ": {
+      "account": "main",
+      "title": "ROMÁN VEGA DEBUTÓ EN LA SELECCIÓN Y FUE EL ESTRENO NÚMERO 66 DEL CICLO SCALONI",
+      "dueAt": "2026-10-01T00:45:00.000Z",
+      "bufferPostId": "6abda82505e9a5c46ab1f1c8",
+      "createdAt": "2026-10-01T00:24:05.211Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MTI3NDAwMDAsIkxBIE5VRVZBIEVUQVBBIERFIExBIFNFTEVDQ0nDk04gQ09NRU5aw5MgU0lOIExBIEPDgUJBTEEgREUgTE9TIENBUkFNRUxPUyJd": {
+      "account": "main",
+      "title": "LA NUEVA ETAPA DE LA SELECCIÓN COMENZÓ SIN LA CÁBALA DE LOS CARAMELOS",
+      "dueAt": "2026-10-01T00:40:00.000Z",
+      "bufferPostId": "6abda824532e76427a498013",
+      "createdAt": "2026-10-01T00:24:04.838Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MTE5MDAwMDAsIkFSR0VOVElOQSBDT05GSVJNw5MgRUwgT05DRSBDT04gUFJFU1RJQU5OSSwgTklDTyBQQVogWSBST03DgU4gVkVHQSBBTlRFIEJPTElWSUEiXQ": {
+      "account": "main",
+      "title": "ARGENTINA CONFIRMÓ EL ONCE CON PRESTIANNI, NICO PAZ Y ROMÁN VEGA ANTE BOLIVIA",
+      "dueAt": "2026-10-01T00:35:00.000Z",
+      "bufferPostId": "6abda824b29c0fecf40fc8a7",
+      "createdAt": "2026-10-01T00:24:04.466Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MDk2ODAwMDAsIkVMIENMVUIgREUgQkFSUklPIFFVRSBGT1JNw5MgQUwgQ1VUSSBST01FUk8gUkVDT1JEw5MgU1VTIFBSSU1FUk9TIFBBU09TIl0": {
+      "account": "main",
+      "title": "EL CLUB DE BARRIO QUE FORMÓ AL CUTI ROMERO RECORDÓ SUS PRIMEROS PASOS",
+      "dueAt": "2026-10-01T00:30:00.000Z",
+      "bufferPostId": "6abda823b29c0fecf40fc87e",
+      "createdAt": "2026-10-01T00:24:03.894Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MDk2ODAwMDAsIkpIT04gT1NQSU5BIFNFUsOBIEVMIMOBUkJJVFJPIERFIEFSR0VOVElOQS1CT0xJVklBIEVOIEPDk1JET0JBIl0": {
       "account": "main",
       "title": "JHON OSPINA SERÁ EL ÁRBITRO DE ARGENTINA-BOLIVIA EN CÓRDOBA",
@@ -3063,7 +3091,7 @@
   },
   "nextAt": {
     "f1": "2026-09-30T16:35:00.000Z",
-    "main": "2026-09-30T23:50:00.000Z"
+    "main": "2026-10-01T00:50:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
