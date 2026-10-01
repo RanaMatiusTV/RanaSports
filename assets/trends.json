@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T06:35:20.576Z",
+  "updatedAt": "2026-10-01T06:59:21.535Z",
   "trends": [
     {
       "query": "frankkaster",
@@ -46,12 +46,12 @@
     {
       "query": "prestianni",
       "startedAt": "2026-10-01T00:00:00.000Z",
-      "volume": 10000
+      "volume": 5000
     },
     {
-      "query": "roman vega",
-      "startedAt": "2026-09-30T23:40:00.000Z",
-      "volume": 20000
+      "query": "gianluca prestianni",
+      "startedAt": "2026-10-01T00:00:00.000Z",
+      "volume": 5000
     }
   ]
 }
