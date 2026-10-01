@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T15:30:15.408Z",
+  "updatedAt": "2026-10-01T15:56:09.999Z",
   "trends": [
+    {
+      "query": "megaproyecto",
+      "startedAt": "2026-10-01T15:40:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "river id",
       "startedAt": "2026-10-01T12:50:00.000Z",
@@ -47,11 +52,6 @@
       "query": "mastantuono",
       "startedAt": "2026-10-01T01:10:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "burkina faso",
-      "startedAt": "2026-10-01T01:10:00.000Z",
-      "volume": 2000
     }
   ]
 }
