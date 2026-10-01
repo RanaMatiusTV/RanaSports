@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T21:54:53.426Z",
+  "updatedAt": "2026-10-01T22:25:27.386Z",
   "trends": [
+    {
+      "query": "aixa",
+      "startedAt": "2026-10-01T22:10:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "kun agüero",
       "startedAt": "2026-10-01T20:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "club deportivo eldense",
@@ -41,17 +46,12 @@
     {
       "query": "dinamarca - portugal",
       "startedAt": "2026-10-01T17:50:00.000Z",
-      "volume": 20000
+      "volume": 50000
     },
     {
       "query": "megaproyecto",
       "startedAt": "2026-10-01T15:40:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "river id",
-      "startedAt": "2026-10-01T12:50:00.000Z",
-      "volume": 1000
     }
   ]
 }
