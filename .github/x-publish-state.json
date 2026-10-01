@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDg1OTkwMDAwMCwiQ09MQVBJTlRPIExFIFJFU1BPTkRJw5MgQSBOT1JSSVMgWSBDVUVTVElPTsOTIExPUyBBVEFRVUVTIENPTlRSQSBMT1MgQVJHRU5USU5PUyJd": {
+      "account": "f1",
+      "title": "COLAPINTO LE RESPONDIÓ A NORRIS Y CUESTIONÓ LOS ATAQUES CONTRA LOS ARGENTINOS",
+      "dueAt": "2026-10-01T14:05:00.000Z",
+      "bufferPostId": "6abe682d81230a0fd705b875",
+      "createdAt": "2026-10-01T14:03:25.624Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4NTUyMjAwMDAsIk5JQ08gUEFaIEdBTsOTIExBIEVOQ1VFU1RBIFBBUkEgSEVSRURBUiBMQSAxMCBERSBNRVNTSSBFTiBMQSBTRUxFQ0NJw5NOIl0": {
       "account": "main",
       "title": "NICO PAZ GANÓ LA ENCUESTA PARA HEREDAR LA 10 DE MESSI EN LA SELECCIÓN",
@@ -3216,7 +3223,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-01T12:40:00.000Z",
+    "f1": "2026-10-01T14:10:00.000Z",
     "main": "2026-10-01T13:40:00.000Z"
   },
   "buffer": {
