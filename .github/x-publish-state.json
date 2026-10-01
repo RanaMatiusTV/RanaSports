@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MjU4ODAwMDAsIk1BU1RBTlRVT05PIENPTlTDkyBFTCBET0xPUiBERSBRVUVEQVIgQUZVRVJBIERFTCBNVU5ESUFMIFkgREVTVEFDw5MgTEEgTElCRVJUQUQgUVVFIExFIERBIFNDQUxPTkkiXQ": {
+      "account": "main",
+      "title": "MASTANTUONO CONTÓ EL DOLOR DE QUEDAR AFUERA DEL MUNDIAL Y DESTACÓ LA LIBERTAD QUE LE DA SCALONI",
+      "dueAt": "2026-10-01T06:35:00.000Z",
+      "bufferPostId": "6abdfd54cbc2e2c98ff5d4cb",
+      "createdAt": "2026-10-01T06:27:32.123Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MjIxMDAwMDAsIkxBIFNFTEVDQ0nDk04gWUEgVElFTkUgRkVDSEEgUEFSQSBTVVMgUFLDk1hJTU9TIERPUyBBTUlTVE9TT1MiXQ": {
+      "account": "main",
+      "title": "LA SELECCIÓN YA TIENE FECHA PARA SUS PRÓXIMOS DOS AMISTOSOS",
+      "dueAt": "2026-10-01T06:30:00.000Z",
+      "bufferPostId": "6abdfd5355a3f6ac7b276edd",
+      "createdAt": "2026-10-01T06:27:31.796Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MjU3NjAwMDAsIlNDQUxPTkkgUkVWRUzDkyBMQSBDSEFSTEEgREVMIFJFRU5DVUVOVFJPIFkgRUwgREVTQUbDjU8gREUgSlVHQVIgU0lOIE1FU1NJIl0": {
       "account": "main",
       "title": "SCALONI REVELÓ LA CHARLA DEL REENCUENTRO Y EL DESAFÍO DE JUGAR SIN MESSI",
@@ -3182,7 +3196,7 @@
   },
   "nextAt": {
     "f1": "2026-09-30T16:35:00.000Z",
-    "main": "2026-10-01T04:50:00.000Z"
+    "main": "2026-10-01T06:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
