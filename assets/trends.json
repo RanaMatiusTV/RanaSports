@@ -1,12 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T00:37:12.881Z",
+  "updatedAt": "2026-10-01T00:59:40.084Z",
   "trends": [
+    {
+      "query": "leonel flores",
+      "startedAt": "2026-10-01T00:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "cuti romero",
+      "startedAt": "2026-10-01T00:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "benin",
+      "startedAt": "2026-10-01T00:30:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "prestianni",
       "startedAt": "2026-10-01T00:00:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "mi telefe en vivo",
@@ -37,21 +52,6 @@
       "query": "argentina - bolivia",
       "startedAt": "2026-09-30T23:00:00.000Z",
       "volume": 500000
-    },
-    {
-      "query": "torque - peñarol",
-      "startedAt": "2026-09-30T22:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "graciela borges",
-      "startedAt": "2026-09-30T22:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "máximo kirchner",
-      "startedAt": "2026-09-30T21:20:00.000Z",
-      "volume": 5000
     }
   ]
 }
