@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T21:27:41.153Z",
+  "updatedAt": "2026-10-01T21:54:53.426Z",
   "trends": [
     {
       "query": "kun agüero",
@@ -16,7 +16,7 @@
     {
       "query": "gran premio de malasia",
       "startedAt": "2026-10-01T20:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "portugal vs",
