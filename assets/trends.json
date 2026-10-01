@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T20:30:09.343Z",
+  "updatedAt": "2026-10-01T20:53:42.679Z",
   "trends": [
+    {
+      "query": "club deportivo eldense",
+      "startedAt": "2026-10-01T20:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "gran premio de malasia",
+      "startedAt": "2026-10-01T20:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "portugal vs",
       "startedAt": "2026-10-01T20:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "grecia - países bajos",
@@ -21,7 +31,7 @@
     {
       "query": "alemania - serbia",
       "startedAt": "2026-10-01T18:00:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "dinamarca - portugal",
@@ -41,16 +51,6 @@
     {
       "query": "christa pike",
       "startedAt": "2026-10-01T10:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "alexander zverev",
-      "startedAt": "2026-10-01T08:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "quini6",
-      "startedAt": "2026-10-01T08:20:00.000Z",
       "volume": 2000
     }
   ]
