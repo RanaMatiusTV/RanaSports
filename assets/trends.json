@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T02:27:29.245Z",
+  "updatedAt": "2026-10-01T02:55:00.173Z",
   "trends": [
     {
       "query": "flaco lopez",
@@ -36,7 +36,7 @@
     {
       "query": "cuti romero",
       "startedAt": "2026-10-01T00:40:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "benin",
