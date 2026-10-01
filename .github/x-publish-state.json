@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDg2NzQwMDAwMCwiTElOREJMQUQgVEFNQknDiU4gRlVFIFNBTkNJT05BRE8gWSBMQVJHQVLDgSDDmkxUSU1PIEVOIEVMIEdQIERFIE1BTEFTSUEiXQ": {
+      "account": "f1",
+      "title": "LINDBLAD TAMBIÉN FUE SANCIONADO Y LARGARÁ ÚLTIMO EN EL GP DE MALASIA",
+      "dueAt": "2026-10-01T17:25:00.000Z",
+      "bufferPostId": "6abe9648a73dd7ce83e20822",
+      "createdAt": "2026-10-01T17:20:08.728Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwODY5NjIwMDAwLCJJTkRFUEVORElFTlRFIElOU0NSSUJJw5MgQSBNQUNIVUNBIEVOIEFGQSwgUEVSTyBUT0RBVsONQSBFU1BFUkEgRE9TIEhBQklMSVRBQ0lPTkVTIl0": {
+      "account": "main",
+      "title": "INDEPENDIENTE INSCRIBIÓ A MACHUCA EN AFA, PERO TODAVÍA ESPERA DOS HABILITACIONES",
+      "dueAt": "2026-10-01T17:25:00.000Z",
+      "bufferPostId": "6abe962e114676b96a061db1",
+      "createdAt": "2026-10-01T17:19:43.073Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDg2NDQwMDAwMCwiR0FTTFkgRElPIFBPUiBDRVJSQURPIEVMIENIT1FVRSBDT04gQ09MQVBJTlRPOiDigJxZQSBFU1TDgSBUT0RPIEJJRU7igJ0iXQ": {
       "account": "f1",
       "title": "GASLY DIO POR CERRADO EL CHOQUE CON COLAPINTO: “YA ESTÁ TODO BIEN”",
@@ -3237,8 +3251,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-01T15:35:00.000Z",
-    "main": "2026-10-01T13:40:00.000Z"
+    "f1": "2026-10-01T17:30:00.000Z",
+    "main": "2026-10-01T17:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
