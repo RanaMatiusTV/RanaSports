@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T18:56:44.610Z",
+  "updatedAt": "2026-10-01T19:28:12.723Z",
   "trends": [
     {
       "query": "grecia - países bajos",
@@ -11,17 +11,17 @@
     {
       "query": "gales - noruega",
       "startedAt": "2026-10-01T18:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "alemania - serbia",
       "startedAt": "2026-10-01T18:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "dinamarca - portugal",
       "startedAt": "2026-10-01T17:50:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "megaproyecto",
