@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T11:28:22.286Z",
+  "updatedAt": "2026-10-01T11:55:58.525Z",
   "trends": [
     {
       "query": "christa pike",
@@ -21,7 +21,7 @@
     {
       "query": "quini6",
       "startedAt": "2026-10-01T08:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "carlos alcaraz",
