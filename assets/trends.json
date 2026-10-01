@@ -1,22 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T00:59:40.084Z",
+  "updatedAt": "2026-10-01T01:28:01.979Z",
   "trends": [
+    {
+      "query": "burkina faso",
+      "startedAt": "2026-10-01T01:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "exequiel palacios",
+      "startedAt": "2026-10-01T00:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "cuti romero",
+      "startedAt": "2026-10-01T00:40:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "leonel flores",
       "startedAt": "2026-10-01T00:40:00.000Z",
       "volume": 2000
     },
     {
-      "query": "cuti romero",
-      "startedAt": "2026-10-01T00:40:00.000Z",
-      "volume": 1000
-    },
-    {
       "query": "benin",
       "startedAt": "2026-10-01T00:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "prestianni",
@@ -31,7 +41,7 @@
     {
       "query": "roman vega",
       "startedAt": "2026-09-30T23:40:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "mi telefe",
@@ -42,16 +52,6 @@
       "query": "es mi sueño",
       "startedAt": "2026-09-30T23:40:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "telefe",
-      "startedAt": "2026-09-30T23:10:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "argentina - bolivia",
-      "startedAt": "2026-09-30T23:00:00.000Z",
-      "volume": 500000
     }
   ]
 }
