@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T22:25:27.386Z",
+  "updatedAt": "2026-10-01T22:53:44.095Z",
   "trends": [
+    {
+      "query": "el niño",
+      "startedAt": "2026-10-01T22:30:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "aixa",
       "startedAt": "2026-10-01T22:10:00.000Z",
@@ -14,12 +19,12 @@
       "volume": 2000
     },
     {
-      "query": "club deportivo eldense",
+      "query": "gran premio de malasia",
       "startedAt": "2026-10-01T20:20:00.000Z",
       "volume": 2000
     },
     {
-      "query": "gran premio de malasia",
+      "query": "club deportivo eldense",
       "startedAt": "2026-10-01T20:20:00.000Z",
       "volume": 2000
     },
@@ -47,11 +52,6 @@
       "query": "dinamarca - portugal",
       "startedAt": "2026-10-01T17:50:00.000Z",
       "volume": 50000
-    },
-    {
-      "query": "megaproyecto",
-      "startedAt": "2026-10-01T15:40:00.000Z",
-      "volume": 2000
     }
   ]
 }
