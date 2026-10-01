@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDg2NDQwMDAwMCwiR0FTTFkgRElPIFBPUiBDRVJSQURPIEVMIENIT1FVRSBDT04gQ09MQVBJTlRPOiDigJxZQSBFU1TDgSBUT0RPIEJJRU7igJ0iXQ": {
+      "account": "f1",
+      "title": "GASLY DIO POR CERRADO EL CHOQUE CON COLAPINTO: “YA ESTÁ TODO BIEN”",
+      "dueAt": "2026-10-01T15:30:00.000Z",
+      "bufferPostId": "6abe7a560dabbef02f77afd5",
+      "createdAt": "2026-10-01T15:20:54.525Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDg2Mjg0MDAwMCwiTk9SUklTIEFETUlUScOTIFFVRSBTRSBFUVVJVk9Dw5MgQ09OIENPTEFQSU5UTyBZIFJFVkVMw5MgTEFTIERJU0NVTFBBUyBNVVRVQVMiXQ": {
+      "account": "f1",
+      "title": "NORRIS ADMITIÓ QUE SE EQUIVOCÓ CON COLAPINTO Y REVELÓ LAS DISCULPAS MUTUAS",
+      "dueAt": "2026-10-01T15:25:00.000Z",
+      "bufferPostId": "6abe7a550dabbef02f77af8c",
+      "createdAt": "2026-10-01T15:20:54.106Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDg1OTkwMDAwMCwiQ09MQVBJTlRPIExFIFJFU1BPTkRJw5MgQSBOT1JSSVMgWSBDVUVTVElPTsOTIExPUyBBVEFRVUVTIENPTlRSQSBMT1MgQVJHRU5USU5PUyJd": {
       "account": "f1",
       "title": "COLAPINTO LE RESPONDIÓ A NORRIS Y CUESTIONÓ LOS ATAQUES CONTRA LOS ARGENTINOS",
@@ -3223,7 +3237,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-01T14:10:00.000Z",
+    "f1": "2026-10-01T15:35:00.000Z",
     "main": "2026-10-01T13:40:00.000Z"
   },
   "buffer": {
