@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T09:30:05.354Z",
+  "updatedAt": "2026-10-01T09:56:04.302Z",
   "trends": [
     {
       "query": "alexander zverev",
@@ -9,14 +9,14 @@
       "volume": 200
     },
     {
-      "query": "quini6",
-      "startedAt": "2026-10-01T08:20:00.000Z",
-      "volume": 200
-    },
-    {
       "query": "carlos alcaraz",
       "startedAt": "2026-10-01T08:20:00.000Z",
-      "volume": 200
+      "volume": 500
+    },
+    {
+      "query": "quini6",
+      "startedAt": "2026-10-01T08:20:00.000Z",
+      "volume": 500
     },
     {
       "query": "frankkaster",
