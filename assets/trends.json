@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T07:55:00.421Z",
+  "updatedAt": "2026-10-01T08:31:54.186Z",
   "trends": [
     {
       "query": "frankkaster",
       "startedAt": "2026-10-01T02:50:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "valentín gómez",
+      "startedAt": "2026-10-01T01:40:00.000Z",
+      "volume": 2000
     },
     {
       "query": "enzo fernández",
@@ -45,11 +50,6 @@
     },
     {
       "query": "prestianni",
-      "startedAt": "2026-10-01T00:00:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "gianluca prestianni",
       "startedAt": "2026-10-01T00:00:00.000Z",
       "volume": 5000
     }
