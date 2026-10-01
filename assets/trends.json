@@ -1,17 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T19:53:02.344Z",
+  "updatedAt": "2026-10-01T20:30:09.343Z",
   "trends": [
+    {
+      "query": "portugal vs",
+      "startedAt": "2026-10-01T20:10:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "grecia - países bajos",
       "startedAt": "2026-10-01T18:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "gales - noruega",
       "startedAt": "2026-10-01T18:00:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "alemania - serbia",
@@ -47,11 +52,6 @@
       "query": "quini6",
       "startedAt": "2026-10-01T08:20:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "carlos alcaraz",
-      "startedAt": "2026-10-01T08:20:00.000Z",
-      "volume": 1000
     }
   ]
 }
