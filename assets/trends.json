@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T04:29:30.869Z",
+  "updatedAt": "2026-10-01T04:56:04.387Z",
   "trends": [
     {
       "query": "flaco lopez",
@@ -17,6 +17,11 @@
       "query": "santiago simón",
       "startedAt": "2026-10-01T01:20:00.000Z",
       "volume": 10000
+    },
+    {
+      "query": "mastantuono",
+      "startedAt": "2026-10-01T01:10:00.000Z",
+      "volume": 5000
     },
     {
       "query": "burkina faso",
@@ -47,11 +52,6 @@
       "query": "prestianni",
       "startedAt": "2026-10-01T00:00:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "roman vega",
-      "startedAt": "2026-09-30T23:40:00.000Z",
-      "volume": 20000
     }
   ]
 }
