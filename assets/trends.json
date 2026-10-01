@@ -1,11 +1,21 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T12:59:49.933Z",
+  "updatedAt": "2026-10-01T13:32:08.415Z",
   "trends": [
+    {
+      "query": "river id",
+      "startedAt": "2026-10-01T12:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "christa pike",
       "startedAt": "2026-10-01T10:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "joaquín levinton",
+      "startedAt": "2026-10-01T10:20:00.000Z",
       "volume": 500
     },
     {
@@ -36,22 +46,12 @@
     {
       "query": "santiago simón",
       "startedAt": "2026-10-01T01:20:00.000Z",
-      "volume": 10000
+      "volume": 5000
     },
     {
       "query": "mastantuono",
       "startedAt": "2026-10-01T01:10:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "burkina faso",
-      "startedAt": "2026-10-01T01:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "exequiel palacios",
-      "startedAt": "2026-10-01T00:50:00.000Z",
-      "volume": 1000
     }
   ]
 }
