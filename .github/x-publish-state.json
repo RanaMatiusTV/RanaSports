@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDkzMjUwMDAwMCwiQ09MQVBJTlRPIEZVRSDDmkxUSU1PIEVOIExBIEZQMiBQRVJPIFBSSU9SSVrDkyBFTCBSSVRNTyBERSBDQVJSRVJBIl0": {
+      "account": "f1",
+      "title": "COLAPINTO FUE ÚLTIMO EN LA FP2 PERO PRIORIZÓ EL RITMO DE CARRERA",
+      "dueAt": "2026-10-02T10:30:00.000Z",
+      "bufferPostId": "6abf870679e44b20b328d0dc",
+      "createdAt": "2026-10-02T10:27:19.153Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDkyMjcyMDAwMCwiQ09MQVBJTlRPIEZVRSAxOcKwIEVOIExBIEZQMSBZIFJFQ0lCScOTIDE1IFBVRVNUT1MgREUgU0FOQ0nDk04iXQ": {
       "account": "f1",
       "title": "COLAPINTO FUE 19° EN LA FP1 Y RECIBIÓ 15 PUESTOS DE SANCIÓN",
@@ -3307,7 +3314,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-02T07:35:00.000Z",
+    "f1": "2026-10-02T10:35:00.000Z",
     "main": "2026-10-02T06:35:00.000Z"
   },
   "buffer": {
