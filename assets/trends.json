@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T01:27:57.460Z",
+  "updatedAt": "2026-10-02T01:54:27.014Z",
   "trends": [
     {
       "query": "sergio uñac",
@@ -16,7 +16,7 @@
     {
       "query": "el niño",
       "startedAt": "2026-10-01T22:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "aixa",
