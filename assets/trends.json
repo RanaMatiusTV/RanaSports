@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T09:29:59.742Z",
+  "updatedAt": "2026-10-02T09:55:06.225Z",
   "trends": [
+    {
+      "query": "día del bancario",
+      "startedAt": "2026-10-02T09:30:00.000Z",
+      "volume": 200
+    },
     {
       "query": "pago",
       "startedAt": "2026-10-02T08:00:00.000Z",
@@ -45,11 +50,6 @@
     },
     {
       "query": "gran premio de malasia",
-      "startedAt": "2026-10-01T20:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "club deportivo eldense",
       "startedAt": "2026-10-01T20:20:00.000Z",
       "volume": 2000
     }
