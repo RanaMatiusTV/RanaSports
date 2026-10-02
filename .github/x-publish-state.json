@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwOTAwNzAwMDAwLCJCT0NISU5JIEFQT1lBUsOBIEEgR0FVRElPIEVOIExBUyBFTEVDQ0lPTkVTIERFIElOREVQRU5ESUVOVEUiXQ": {
+      "account": "main",
+      "title": "BOCHINI APOYARÁ A GAUDIO EN LAS ELECCIONES DE INDEPENDIENTE",
+      "dueAt": "2026-10-02T01:25:00.000Z",
+      "bufferPostId": "6abf06d78bccc8e64164b6e7",
+      "createdAt": "2026-10-02T01:20:23.729Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDg5NTk2MDAwMCwiR0FTTFkgQUNFUFTDkyBMQVMgRElTQ1VMUEFTIERFIENPTEFQSU5UTyBZIFBJREnDkyBVTklEQUQgRU4gQUxQSU5FIl0": {
       "account": "f1",
       "title": "GASLY ACEPTÓ LAS DISCULPAS DE COLAPINTO Y PIDIÓ UNIDAD EN ALPINE",
@@ -3280,7 +3287,7 @@
   },
   "nextAt": {
     "f1": "2026-10-02T00:35:00.000Z",
-    "main": "2026-10-01T22:15:00.000Z"
+    "main": "2026-10-02T01:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
