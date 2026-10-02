@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T07:55:11.825Z",
+  "updatedAt": "2026-10-02T08:30:31.201Z",
   "trends": [
+    {
+      "query": "pago",
+      "startedAt": "2026-10-02T08:00:00.000Z",
+      "volume": 100
+    },
     {
       "query": "mala fama",
       "startedAt": "2026-10-02T02:30:00.000Z",
@@ -46,11 +51,6 @@
     {
       "query": "club deportivo eldense",
       "startedAt": "2026-10-01T20:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "portugal vs",
-      "startedAt": "2026-10-01T20:10:00.000Z",
       "volume": 2000
     }
   ]
