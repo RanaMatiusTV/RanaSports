@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5Mzc0MjAwMDAsIk1FU1NJIExMRUfDkyBBTCBQQcONUyBQQVJBIFNVIERFU1BFRElEQSBERSBMQSBTRUxFQ0NJw5NOIl0": {
+      "account": "main",
+      "title": "MESSI LLEGÓ AL PAÍS PARA SU DESPEDIDA DE LA SELECCIÓN",
+      "dueAt": "2026-10-02T12:30:00.000Z",
+      "bufferPostId": "6abfa275b41a266eabf98edd",
+      "createdAt": "2026-10-02T12:24:21.473Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDkzMjUwMDAwMCwiQ09MQVBJTlRPIEZVRSDDmkxUSU1PIEVOIExBIEZQMiBQRVJPIFBSSU9SSVrDkyBFTCBSSVRNTyBERSBDQVJSRVJBIl0": {
       "account": "f1",
       "title": "COLAPINTO FUE ÚLTIMO EN LA FP2 PERO PRIORIZÓ EL RITMO DE CARRERA",
@@ -3315,7 +3322,7 @@
   },
   "nextAt": {
     "f1": "2026-10-02T10:35:00.000Z",
-    "main": "2026-10-02T06:35:00.000Z"
+    "main": "2026-10-02T12:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
