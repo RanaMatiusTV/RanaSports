@@ -1,22 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T21:53:33.014Z",
+  "updatedAt": "2026-10-02T22:26:46.210Z",
   "trends": [
+    {
+      "query": "ferro - deportivo madryn",
+      "startedAt": "2026-10-02T21:50:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "independiente - instituto",
       "startedAt": "2026-10-02T21:30:00.000Z",
-      "volume": 1000
+      "volume": 20000
     },
     {
       "query": "max verstappen",
       "startedAt": "2026-10-02T21:10:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
-      "query": "francia",
-      "startedAt": "2026-10-02T20:50:00.000Z",
-      "volume": 1000
+      "query": "agustina cherri",
+      "startedAt": "2026-10-02T19:10:00.000Z",
+      "volume": 2000
     },
     {
       "query": "mirtha legrand",
@@ -34,12 +39,12 @@
       "volume": 50000
     },
     {
-      "query": "flavio briatore",
+      "query": "burkina faso",
       "startedAt": "2026-10-02T17:50:00.000Z",
       "volume": 5000
     },
     {
-      "query": "burkina faso",
+      "query": "flavio briatore",
       "startedAt": "2026-10-02T17:50:00.000Z",
       "volume": 5000
     },
@@ -47,11 +52,6 @@
       "query": "méxico",
       "startedAt": "2026-10-02T17:50:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "robbie williams",
-      "startedAt": "2026-10-02T17:00:00.000Z",
-      "volume": 1000
     }
   ]
 }
