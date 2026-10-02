@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDk1MzI2MDAwMCwiQlJJQVRPUkUgRU5HQcORw5MgQUwgUEFERE9DSyBDT04gVU5BIEhPSkEgRU4gQkxBTkNPIl0": {
+      "account": "f1",
+      "title": "BRIATORE ENGAÑÓ AL PADDOCK CON UNA HOJA EN BLANCO",
+      "dueAt": "2026-10-02T16:25:00.000Z",
+      "bufferPostId": "6abfda37373007cd24ea9172",
+      "createdAt": "2026-10-02T16:22:15.827Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5NDM4NDAwMDAsIkxFT05FTCBGTE9SRVMgUk9NUEnDkyBVTiBSw4lDT1JEIENPTiBTVSBERUJVVCBFTiBMQSBTRUxFQ0NJw5NOIl0": {
+      "account": "main",
+      "title": "LEONEL FLORES ROMPIÓ UN RÉCORD CON SU DEBUT EN LA SELECCIÓN",
+      "dueAt": "2026-10-02T16:25:00.000Z",
+      "bufferPostId": "6abfda1e8ab404f933003000",
+      "createdAt": "2026-10-02T16:21:50.465Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5Mzc0MjAwMDAsIk1FU1NJIExMRUfDkyBBTCBQQcONUyBQQVJBIFNVIERFU1BFRElEQSBERSBMQSBTRUxFQ0NJw5NOIl0": {
       "account": "main",
       "title": "MESSI LLEGÓ AL PAÍS PARA SU DESPEDIDA DE LA SELECCIÓN",
@@ -3321,8 +3335,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-02T10:35:00.000Z",
-    "main": "2026-10-02T12:35:00.000Z"
+    "f1": "2026-10-02T16:30:00.000Z",
+    "main": "2026-10-02T16:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
