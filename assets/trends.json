@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T11:54:51.317Z",
+  "updatedAt": "2026-10-02T12:34:12.958Z",
   "trends": [
+    {
+      "query": "aryna sabalenka",
+      "startedAt": "2026-10-02T11:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "saint thomas este-oeste",
       "startedAt": "2026-10-02T10:40:00.000Z",
@@ -46,11 +51,6 @@
     {
       "query": "aixa",
       "startedAt": "2026-10-01T22:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "kun agüero",
-      "startedAt": "2026-10-01T20:50:00.000Z",
       "volume": 2000
     }
   ]
