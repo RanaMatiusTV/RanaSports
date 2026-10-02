@@ -1,8 +1,33 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T17:53:43.570Z",
+  "updatedAt": "2026-10-02T18:31:47.973Z",
   "trends": [
+    {
+      "query": "línea sarmiento",
+      "startedAt": "2026-10-02T18:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "francia - italia",
+      "startedAt": "2026-10-02T17:50:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "méxico",
+      "startedAt": "2026-10-02T17:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "flavio briatore",
+      "startedAt": "2026-10-02T17:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "burkina faso",
+      "startedAt": "2026-10-02T17:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "robbie williams",
       "startedAt": "2026-10-02T17:00:00.000Z",
@@ -26,31 +51,6 @@
     {
       "query": "novak djokovic",
       "startedAt": "2026-10-02T13:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "zonda",
-      "startedAt": "2026-10-02T13:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "aryna sabalenka",
-      "startedAt": "2026-10-02T11:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "día del bancario",
-      "startedAt": "2026-10-02T09:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "pago",
-      "startedAt": "2026-10-02T08:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "mala fama",
-      "startedAt": "2026-10-02T02:30:00.000Z",
       "volume": 1000
     }
   ]
