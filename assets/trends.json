@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T08:54:45.455Z",
+  "updatedAt": "2026-10-02T09:29:59.742Z",
   "trends": [
     {
       "query": "pago",
       "startedAt": "2026-10-02T08:00:00.000Z",
-      "volume": 100
+      "volume": 500
     },
     {
       "query": "mala fama",
