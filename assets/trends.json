@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T22:54:06.827Z",
+  "updatedAt": "2026-10-02T23:23:56.049Z",
   "trends": [
     {
       "query": "são paulo - santos",
       "startedAt": "2026-10-02T22:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "islas malvinas",
@@ -29,6 +29,11 @@
       "volume": 2000
     },
     {
+      "query": "francia",
+      "startedAt": "2026-10-02T20:50:00.000Z",
+      "volume": 1000
+    },
+    {
       "query": "agustina cherri",
       "startedAt": "2026-10-02T19:10:00.000Z",
       "volume": 2000
@@ -47,11 +52,6 @@
       "query": "francia - italia",
       "startedAt": "2026-10-02T17:50:00.000Z",
       "volume": 50000
-    },
-    {
-      "query": "burkina faso",
-      "startedAt": "2026-10-02T17:50:00.000Z",
-      "volume": 5000
     }
   ]
 }
