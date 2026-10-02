@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-01T23:53:03.802Z",
+  "updatedAt": "2026-10-02T00:35:32.767Z",
   "trends": [
+    {
+      "query": "sergio uñac",
+      "startedAt": "2026-10-02T00:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "platense - estudiantes",
+      "startedAt": "2026-10-01T23:40:00.000Z",
+      "volume": 20000
+    },
     {
       "query": "el niño",
       "startedAt": "2026-10-01T22:30:00.000Z",
@@ -42,16 +52,6 @@
       "query": "gales - noruega",
       "startedAt": "2026-10-01T18:00:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "alemania - serbia",
-      "startedAt": "2026-10-01T18:00:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "dinamarca - portugal",
-      "startedAt": "2026-10-01T17:50:00.000Z",
-      "volume": 50000
     }
   ]
 }
