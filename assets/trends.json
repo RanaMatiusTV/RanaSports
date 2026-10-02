@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T11:27:20.952Z",
+  "updatedAt": "2026-10-02T11:54:51.317Z",
   "trends": [
     {
       "query": "saint thomas este-oeste",
@@ -21,6 +21,11 @@
     {
       "query": "mala fama",
       "startedAt": "2026-10-02T02:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "olé",
+      "startedAt": "2026-10-02T01:50:00.000Z",
       "volume": 1000
     },
     {
@@ -46,11 +51,6 @@
     {
       "query": "kun agüero",
       "startedAt": "2026-10-01T20:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "gran premio de malasia",
-      "startedAt": "2026-10-01T20:20:00.000Z",
       "volume": 2000
     }
   ]
