@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T22:26:46.210Z",
+  "updatedAt": "2026-10-02T22:54:06.827Z",
   "trends": [
+    {
+      "query": "são paulo - santos",
+      "startedAt": "2026-10-02T22:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "islas malvinas",
+      "startedAt": "2026-10-02T22:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "ferro - deportivo madryn",
       "startedAt": "2026-10-02T21:50:00.000Z",
@@ -11,7 +21,7 @@
     {
       "query": "independiente - instituto",
       "startedAt": "2026-10-02T21:30:00.000Z",
-      "volume": 20000
+      "volume": 50000
     },
     {
       "query": "max verstappen",
@@ -42,16 +52,6 @@
       "query": "burkina faso",
       "startedAt": "2026-10-02T17:50:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "flavio briatore",
-      "startedAt": "2026-10-02T17:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "méxico",
-      "startedAt": "2026-10-02T17:50:00.000Z",
-      "volume": 2000
     }
   ]
 }
