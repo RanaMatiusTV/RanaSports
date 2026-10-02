@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwOTE0NTAwMDAwLCJJTkRFUEVORElFTlRFIFJFQ0lCRSBBTCBMw41ERVIgSU5TVElUVVRPIENPTiBEVURBUyBFTiBFTCBPTkNFIl0": {
+      "account": "main",
+      "title": "INDEPENDIENTE RECIBE AL LÍDER INSTITUTO CON DUDAS EN EL ONCE",
+      "dueAt": "2026-10-02T06:30:00.000Z",
+      "bufferPostId": "6abf4e32c07bdc2fc26d5c12",
+      "createdAt": "2026-10-02T06:24:50.953Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5MDY0MDAwMDAsIkRJQlUgTUFSVMONTkVaIFBPU1RVTMOTIEEgTklDTyBQQVogUEFSQSBIRVJFREFSIExBIDEwIERFIE1FU1NJIl0": {
       "account": "main",
       "title": "DIBU MARTÍNEZ POSTULÓ A NICO PAZ PARA HEREDAR LA 10 DE MESSI",
@@ -3294,7 +3301,7 @@
   },
   "nextAt": {
     "f1": "2026-10-02T00:35:00.000Z",
-    "main": "2026-10-02T03:30:00.000Z"
+    "main": "2026-10-02T06:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
