@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDkyMjcyMDAwMCwiQ09MQVBJTlRPIEZVRSAxOcKwIEVOIExBIEZQMSBZIFJFQ0lCScOTIDE1IFBVRVNUT1MgREUgU0FOQ0nDk04iXQ": {
+      "account": "f1",
+      "title": "COLAPINTO FUE 19° EN LA FP1 Y RECIBIÓ 15 PUESTOS DE SANCIÓN",
+      "dueAt": "2026-10-02T07:30:00.000Z",
+      "bufferPostId": "6abf5c1163de9e09a291d7a1",
+      "createdAt": "2026-10-02T07:24:01.590Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwOTE0NTAwMDAwLCJJTkRFUEVORElFTlRFIFJFQ0lCRSBBTCBMw41ERVIgSU5TVElUVVRPIENPTiBEVURBUyBFTiBFTCBPTkNFIl0": {
       "account": "main",
       "title": "INDEPENDIENTE RECIBE AL LÍDER INSTITUTO CON DUDAS EN EL ONCE",
@@ -3300,7 +3307,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-02T00:35:00.000Z",
+    "f1": "2026-10-02T07:35:00.000Z",
     "main": "2026-10-02T06:35:00.000Z"
   },
   "buffer": {
