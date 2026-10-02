@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T00:58:04.735Z",
+  "updatedAt": "2026-10-02T01:27:57.460Z",
   "trends": [
     {
       "query": "sergio uñac",
       "startedAt": "2026-10-02T00:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "platense - estudiantes",
       "startedAt": "2026-10-01T23:40:00.000Z",
-      "volume": 20000
+      "volume": 50000
     },
     {
       "query": "el niño",
