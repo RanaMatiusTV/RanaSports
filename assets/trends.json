@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T16:29:27.459Z",
+  "updatedAt": "2026-10-02T16:55:18.427Z",
   "trends": [
+    {
+      "query": "alerta meteorológica",
+      "startedAt": "2026-10-02T16:30:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "ricardo soule",
       "startedAt": "2026-10-02T15:50:00.000Z",
@@ -47,11 +52,6 @@
       "query": "estudiantes",
       "startedAt": "2026-10-02T02:10:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "olé",
-      "startedAt": "2026-10-02T01:50:00.000Z",
-      "volume": 1000
     }
   ]
 }
