@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T21:27:22.119Z",
+  "updatedAt": "2026-10-02T21:53:33.014Z",
   "trends": [
+    {
+      "query": "independiente - instituto",
+      "startedAt": "2026-10-02T21:30:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "max verstappen",
       "startedAt": "2026-10-02T21:10:00.000Z",
@@ -47,11 +52,6 @@
       "query": "robbie williams",
       "startedAt": "2026-10-02T17:00:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "leandro paredes",
-      "startedAt": "2026-10-02T16:50:00.000Z",
-      "volume": 2000
     }
   ]
 }
