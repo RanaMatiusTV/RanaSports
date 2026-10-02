@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T16:55:18.427Z",
+  "updatedAt": "2026-10-02T17:28:42.553Z",
   "trends": [
+    {
+      "query": "robbie williams",
+      "startedAt": "2026-10-02T17:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "leandro paredes",
+      "startedAt": "2026-10-02T16:50:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "alerta meteorológica",
       "startedAt": "2026-10-02T16:30:00.000Z",
@@ -11,7 +21,7 @@
     {
       "query": "ricardo soule",
       "startedAt": "2026-10-02T15:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "novak djokovic",
@@ -29,11 +39,6 @@
       "volume": 1000
     },
     {
-      "query": "saint thomas este-oeste",
-      "startedAt": "2026-10-02T10:40:00.000Z",
-      "volume": 500
-    },
-    {
       "query": "día del bancario",
       "startedAt": "2026-10-02T09:30:00.000Z",
       "volume": 500
@@ -47,11 +52,6 @@
       "query": "mala fama",
       "startedAt": "2026-10-02T02:30:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "estudiantes",
-      "startedAt": "2026-10-02T02:10:00.000Z",
-      "volume": 5000
     }
   ]
 }
