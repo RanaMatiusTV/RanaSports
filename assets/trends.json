@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T23:23:56.049Z",
+  "updatedAt": "2026-10-02T23:51:52.619Z",
   "trends": [
+    {
+      "query": "a qué hora juega boca",
+      "startedAt": "2026-10-02T23:10:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "são paulo - santos",
       "startedAt": "2026-10-02T22:40:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "islas malvinas",
       "startedAt": "2026-10-02T22:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "ferro - deportivo madryn",
@@ -47,11 +52,6 @@
       "query": "línea sarmiento",
       "startedAt": "2026-10-02T18:00:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "francia - italia",
-      "startedAt": "2026-10-02T17:50:00.000Z",
-      "volume": 50000
     }
   ]
 }
