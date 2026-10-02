@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T12:58:11.061Z",
+  "updatedAt": "2026-10-02T13:30:27.914Z",
   "trends": [
     {
       "query": "aryna sabalenka",
@@ -29,6 +29,11 @@
       "volume": 1000
     },
     {
+      "query": "olé",
+      "startedAt": "2026-10-02T01:50:00.000Z",
+      "volume": 1000
+    },
+    {
       "query": "sergio uñac",
       "startedAt": "2026-10-02T00:00:00.000Z",
       "volume": 2000
@@ -46,11 +51,6 @@
     {
       "query": "aixa",
       "startedAt": "2026-10-01T22:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "kun agüero",
-      "startedAt": "2026-10-01T20:50:00.000Z",
       "volume": 2000
     }
   ]
