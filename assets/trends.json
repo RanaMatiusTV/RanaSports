@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T01:54:27.014Z",
+  "updatedAt": "2026-10-02T02:26:33.881Z",
   "trends": [
+    {
+      "query": "olé",
+      "startedAt": "2026-10-02T01:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "sergio uñac",
       "startedAt": "2026-10-02T00:00:00.000Z",
@@ -47,11 +52,6 @@
       "query": "grecia - países bajos",
       "startedAt": "2026-10-01T18:20:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "gales - noruega",
-      "startedAt": "2026-10-01T18:00:00.000Z",
-      "volume": 10000
     }
   ]
 }
