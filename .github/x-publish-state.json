@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDk3MzQyMDAwMCwiQUxQSU5FIEVYUExJQ8OTIFBPUiBRVcOJIENBTUJJw5MgRUwgTU9UT1IgREUgQ09MQVBJTlRPIFBFU0UgQSBMQSBTQU5DScOTTiJd": {
+      "account": "f1",
+      "title": "ALPINE EXPLICÓ POR QUÉ CAMBIÓ EL MOTOR DE COLAPINTO PESE A LA SANCIÓN",
+      "dueAt": "2026-10-02T23:35:00.000Z",
+      "bufferPostId": "6ac03e635831428806a8ab3a",
+      "createdAt": "2026-10-02T23:29:40.086Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5Nzc4NjAwMDAsIlNDQUxPTkkgUFJPQsOTIExBIEJBU0UgREVMIEVRVUlQTyBQQVJBIEVORlJFTlRBUiBBIEJVUktJTkEgRkFTTyJd": {
+      "account": "main",
+      "title": "SCALONI PROBÓ LA BASE DEL EQUIPO PARA ENFRENTAR A BURKINA FASO",
+      "dueAt": "2026-10-02T23:40:00.000Z",
+      "bufferPostId": "6ac03e4ef942e391370109f1",
+      "createdAt": "2026-10-02T23:29:19.018Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5NzMxODAwMDAsIkVMIE1PTlVNRU5UQUwgUVVFRMOTIElNUEVDQUJMRSBZIFlBIEVTUEVSQSBBIExBIFNFTEVDQ0nDk04iXQ": {
+      "account": "main",
+      "title": "EL MONUMENTAL QUEDÓ IMPECABLE Y YA ESPERA A LA SELECCIÓN",
+      "dueAt": "2026-10-02T23:35:00.000Z",
+      "bufferPostId": "6ac03e4e6091822e891cbf7f",
+      "createdAt": "2026-10-02T23:29:18.243Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDk3MDQ4MDAwMCwiVkVSU1RBUFBFTiBBR1JBREVDScOTIExPUyBFTE9HSU9TIERFIENPTEFQSU5UTyBUUkFTIEVMIENIT1FVRSBERSBCQUvDmiJd": {
       "account": "f1",
       "title": "VERSTAPPEN AGRADECIÓ LOS ELOGIOS DE COLAPINTO TRAS EL CHOQUE DE BAKÚ",
@@ -3349,8 +3370,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-02T20:25:00.000Z",
-    "main": "2026-10-02T20:25:00.000Z"
+    "f1": "2026-10-02T23:40:00.000Z",
+    "main": "2026-10-02T23:45:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
