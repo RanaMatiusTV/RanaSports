@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDg5NTk2MDAwMCwiR0FTTFkgQUNFUFTDkyBMQVMgRElTQ1VMUEFTIERFIENPTEFQSU5UTyBZIFBJREnDkyBVTklEQUQgRU4gQUxQSU5FIl0": {
+      "account": "f1",
+      "title": "GASLY ACEPTÓ LAS DISCULPAS DE COLAPINTO Y PIDIÓ UNIDAD EN ALPINE",
+      "dueAt": "2026-10-02T00:30:00.000Z",
+      "bufferPostId": "6abef9be45400a0e30031bb8",
+      "createdAt": "2026-10-02T00:24:30.687Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4ODYwNjAwMDAsIlNDQUxPTkkgUEVSRklMQSBMQSBGT1JNQUNJw5NOIERFIEFSR0VOVElOQSBQQVJBIEVORlJFTlRBUiBBIEJVUktJTkEgRkFTTyJd": {
       "account": "main",
       "title": "SCALONI PERFILA LA FORMACIÓN DE ARGENTINA PARA ENFRENTAR A BURKINA FASO",
@@ -3272,7 +3279,7 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-01T17:30:00.000Z",
+    "f1": "2026-10-02T00:35:00.000Z",
     "main": "2026-10-01T22:15:00.000Z"
   },
   "buffer": {
