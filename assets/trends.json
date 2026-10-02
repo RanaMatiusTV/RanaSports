@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T10:28:04.122Z",
+  "updatedAt": "2026-10-02T10:54:38.548Z",
   "trends": [
+    {
+      "query": "saint thomas este-oeste",
+      "startedAt": "2026-10-02T10:40:00.000Z",
+      "volume": 500
+    },
     {
       "query": "día del bancario",
       "startedAt": "2026-10-02T09:30:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "pago",
@@ -16,11 +21,6 @@
     {
       "query": "mala fama",
       "startedAt": "2026-10-02T02:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "olé",
-      "startedAt": "2026-10-02T01:50:00.000Z",
       "volume": 1000
     },
     {
