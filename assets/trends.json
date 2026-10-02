@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T19:54:58.513Z",
+  "updatedAt": "2026-10-02T20:26:42.825Z",
   "trends": [
     {
       "query": "mirtha legrand",
       "startedAt": "2026-10-02T18:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "línea sarmiento",
@@ -21,7 +21,7 @@
     {
       "query": "flavio briatore",
       "startedAt": "2026-10-02T17:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "burkina faso",
