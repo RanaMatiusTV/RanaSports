@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDk3MDQ4MDAwMCwiVkVSU1RBUFBFTiBBR1JBREVDScOTIExPUyBFTE9HSU9TIERFIENPTEFQSU5UTyBUUkFTIEVMIENIT1FVRSBERSBCQUvDmiJd": {
+      "account": "f1",
+      "title": "VERSTAPPEN AGRADECIÓ LOS ELOGIOS DE COLAPINTO TRAS EL CHOQUE DE BAKÚ",
+      "dueAt": "2026-10-02T20:20:00.000Z",
+      "bufferPostId": "6ac011afe25183641e567b00",
+      "createdAt": "2026-10-02T20:18:55.346Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5NjMyODAwMDAsIkJVUktJTkEgRkFTTyBTSUdVRSBWQVJBREEgWSBMTEVHQVLDjUEgU09CUkUgTEEgSE9SQSBQQVJBIEVORlJFTlRBUiBBIEFSR0VOVElOQSJd": {
+      "account": "main",
+      "title": "BURKINA FASO SIGUE VARADA Y LLEGARÍA SOBRE LA HORA PARA ENFRENTAR A ARGENTINA",
+      "dueAt": "2026-10-02T20:20:00.000Z",
+      "bufferPostId": "6ac01195a82b64098f43bc63",
+      "createdAt": "2026-10-02T20:18:29.136Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDk1MzI2MDAwMCwiQlJJQVRPUkUgRU5HQcORw5MgQUwgUEFERE9DSyBDT04gVU5BIEhPSkEgRU4gQkxBTkNPIl0": {
       "account": "f1",
       "title": "BRIATORE ENGAÑÓ AL PADDOCK CON UNA HOJA EN BLANCO",
@@ -3335,8 +3349,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-02T16:30:00.000Z",
-    "main": "2026-10-02T16:30:00.000Z"
+    "f1": "2026-10-02T20:25:00.000Z",
+    "main": "2026-10-02T20:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
