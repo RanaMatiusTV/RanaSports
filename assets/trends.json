@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T02:54:09.477Z",
+  "updatedAt": "2026-10-02T03:28:28.887Z",
   "trends": [
     {
       "query": "mala fama",
@@ -21,7 +21,7 @@
     {
       "query": "platense - estudiantes",
       "startedAt": "2026-10-01T23:40:00.000Z",
-      "volume": 50000
+      "volume": 100000
     },
     {
       "query": "el niño",
