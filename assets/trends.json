@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T14:57:16.567Z",
+  "updatedAt": "2026-10-02T15:30:40.948Z",
   "trends": [
     {
       "query": "novak djokovic",
@@ -39,6 +39,11 @@
       "volume": 1000
     },
     {
+      "query": "olé",
+      "startedAt": "2026-10-02T01:50:00.000Z",
+      "volume": 1000
+    },
+    {
       "query": "sergio uñac",
       "startedAt": "2026-10-02T00:00:00.000Z",
       "volume": 2000
@@ -47,11 +52,6 @@
       "query": "platense - estudiantes",
       "startedAt": "2026-10-01T23:40:00.000Z",
       "volume": 100000
-    },
-    {
-      "query": "el niño",
-      "startedAt": "2026-10-01T22:30:00.000Z",
-      "volume": 2000
     }
   ]
 }
