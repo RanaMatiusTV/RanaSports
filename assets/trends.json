@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T04:02:13.802Z",
+  "updatedAt": "2026-10-03T04:28:47.544Z",
   "trends": [
     {
       "query": "colombia - paraguay",
       "startedAt": "2026-10-03T03:00:00.000Z",
       "volume": 5000
+    },
+    {
+      "query": "tabla anual 2026",
+      "startedAt": "2026-10-03T02:50:00.000Z",
+      "volume": 1000
     },
     {
       "query": "lourdes sanchez",
@@ -17,11 +22,6 @@
       "query": "gignac",
       "startedAt": "2026-10-03T01:00:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "primera división",
-      "startedAt": "2026-10-03T00:30:00.000Z",
-      "volume": 10000
     },
     {
       "query": "independiente rivadavia - gimnasia",
