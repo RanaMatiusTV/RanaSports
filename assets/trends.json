@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T09:52:49.960Z",
+  "updatedAt": "2026-10-03T10:25:52.985Z",
   "trends": [
+    {
+      "query": "clima",
+      "startedAt": "2026-10-03T10:00:00.000Z",
+      "volume": 100000
+    },
     {
       "query": "carlos alcaraz",
       "startedAt": "2026-10-03T05:20:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "pronostico",
-      "startedAt": "2026-10-03T04:30:00.000Z",
-      "volume": 2000
     },
     {
       "query": "colombia - paraguay",
@@ -31,7 +31,7 @@
     {
       "query": "primera división",
       "startedAt": "2026-10-03T00:30:00.000Z",
-      "volume": 20000
+      "volume": 10000
     },
     {
       "query": "independiente rivadavia - gimnasia",
