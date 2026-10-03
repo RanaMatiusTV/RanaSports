@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T14:35:26.464Z",
+  "updatedAt": "2026-10-03T18:39:06.227Z",
   "trends": [
     {
-      "query": "india - brasil",
-      "startedAt": "2026-10-03T13:10:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "albacete",
-      "startedAt": "2026-10-03T13:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "el niño",
-      "startedAt": "2026-10-03T13:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "francisco cerúndolo",
-      "startedAt": "2026-10-03T12:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "alexander zverev",
-      "startedAt": "2026-10-03T11:40:00.000Z",
+      "query": "carlos sainz jr.",
+      "startedAt": "2026-10-03T18:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "clima",
-      "startedAt": "2026-10-03T10:00:00.000Z",
-      "volume": 200000
-    },
-    {
-      "query": "carlos alcaraz",
-      "startedAt": "2026-10-03T05:20:00.000Z",
+      "query": "inglaterra",
+      "startedAt": "2026-10-03T18:10:00.000Z",
       "volume": 500
     },
     {
-      "query": "colombia - paraguay",
-      "startedAt": "2026-10-03T03:00:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "lourdes sanchez",
-      "startedAt": "2026-10-03T01:20:00.000Z",
+      "query": "tristán suárez - quilmes",
+      "startedAt": "2026-10-03T18:00:00.000Z",
       "volume": 1000
     },
     {
-      "query": "gignac",
-      "startedAt": "2026-10-03T01:00:00.000Z",
+      "query": "españa - chequia",
+      "startedAt": "2026-10-03T17:50:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "colón - estudiantes",
+      "startedAt": "2026-10-03T17:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "temperley - gimnasia jujuy",
+      "startedAt": "2026-10-03T17:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "canadá - perú",
+      "startedAt": "2026-10-03T17:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "la plata",
+      "startedAt": "2026-10-03T17:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "defensa y justicia - san lorenzo",
+      "startedAt": "2026-10-03T17:00:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "clima tucuman",
+      "startedAt": "2026-10-03T17:00:00.000Z",
       "volume": 1000
     }
   ]
