@@ -1,6 +1,48 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTAyNTIwMDAwMCwiQ09MQVBJTlRPIENPTkbDjUEgRU4gUkVNT05UQVIgREVTREUgRUwgRk9ORE8gQ09OIFVOQSBFU1RSQVRFR0lBIEFHUkVTSVZBIERFIE5FVU3DgVRJQ09TIl0": {
+      "account": "f1",
+      "title": "COLAPINTO CONFÍA EN REMONTAR DESDE EL FONDO CON UNA ESTRATEGIA AGRESIVA DE NEUMÁTICOS",
+      "dueAt": "2026-10-03T14:40:00.000Z",
+      "bufferPostId": "6ac11251814d657011c8bb55",
+      "createdAt": "2026-10-03T14:33:53.840Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDk4NTYwMDAwMCwiRUwgQVNGQUxUTyBERSBTRVBBTkcgQUJSRSBVTkEgT1BPUlRVTklEQUQgRVNUUkFUw4lHSUNBIFBBUkEgQ09MQVBJTlRPIl0": {
+      "account": "f1",
+      "title": "EL ASFALTO DE SEPANG ABRE UNA OPORTUNIDAD ESTRATÉGICA PARA COLAPINTO",
+      "dueAt": "2026-10-03T14:35:00.000Z",
+      "bufferPostId": "6ac11251814d657011c8bb0d",
+      "createdAt": "2026-10-03T14:33:53.137Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwMzIyODAwMDAsIkJVUktJTkEgRkFTTyBERVNUUkFCw5MgRUwgVklBSkUgWSBMTEVHQVLDgSBTT0JSRSBMQSBIT1JBIFBBUkEgRU5GUkVOVEFSIEEgQVJHRU5USU5BIl0": {
+      "account": "main",
+      "title": "BURKINA FASO DESTRABÓ EL VIAJE Y LLEGARÁ SOBRE LA HORA PARA ENFRENTAR A ARGENTINA",
+      "dueAt": "2026-10-03T14:50:00.000Z",
+      "bufferPostId": "6ac1123e905eed02e069d617",
+      "createdAt": "2026-10-03T14:33:34.852Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwMzA2MDAwMDAsIlNDQUxPTkkgWUEgVElFTkUgU0lFVEUgRklKT1MgWSBUUkVTIFBVRVNUT1MgQUJJRVJUT1MgRU4gTEEgTlVFVkEgU0VMRUNDScOTTiJd": {
+      "account": "main",
+      "title": "SCALONI YA TIENE SIETE FIJOS Y TRES PUESTOS ABIERTOS EN LA NUEVA SELECCIÓN",
+      "dueAt": "2026-10-03T14:45:00.000Z",
+      "bufferPostId": "6ac1123ead7fd83bc5f5fe96",
+      "createdAt": "2026-10-03T14:33:34.397Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5NzY2MDAwMDAsIklOU1VBIFBST1BVU08gVU5BIE1PVklMSVpBQ0nDk04gUEFSQSBRVUUgTUVTU0kgU0lHQSBFTiBMQSBTRUxFQ0NJw5NOIEhBU1RBIDIwMzAiXQ": {
+      "account": "main",
+      "title": "INSUA PROPUSO UNA MOVILIZACIÓN PARA QUE MESSI SIGA EN LA SELECCIÓN HASTA 2030",
+      "dueAt": "2026-10-03T14:40:00.000Z",
+      "bufferPostId": "6ac1123d905eed02e069d5ce",
+      "createdAt": "2026-10-03T14:33:33.847Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwOTcxMjAwMDAwLCJDVUFUUk8gQ0FORElEQVRPUyBZIFVOQSBFTEVDQ0nDk04gQ0xBVkUgUE9SIEVMIEZVVFVSTyBERSBJTkRFUEVORElFTlRFIl0": {
+      "account": "main",
+      "title": "CUATRO CANDIDATOS Y UNA ELECCIÓN CLAVE POR EL FUTURO DE INDEPENDIENTE",
+      "dueAt": "2026-10-03T14:35:00.000Z",
+      "bufferPostId": "6ac1123c814d657011c8b8c4",
+      "createdAt": "2026-10-03T14:33:32.851Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTAxOTE0MDAwMCwiVkVSU1RBUFBFTiBISVpPIExBIFBPTEUgRU4gTUFMQVNJQSBZIENPTEFQSU5UTyBMQVJHQVLDgSAyMcKwIFBFU0UgQSBDTEFTSUZJQ0FSIDE1wrAiXQ": {
       "account": "f1",
       "title": "VERSTAPPEN HIZO LA POLE EN MALASIA Y COLAPINTO LARGARÁ 21° PESE A CLASIFICAR 15°",
@@ -3405,8 +3447,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-03T10:25:00.000Z",
-    "main": "2026-10-03T10:30:00.000Z"
+    "f1": "2026-10-03T14:45:00.000Z",
+    "main": "2026-10-03T14:55:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
