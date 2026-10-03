@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T10:25:52.985Z",
+  "updatedAt": "2026-10-03T11:10:38.438Z",
   "trends": [
+    {
+      "query": "alan velasco",
+      "startedAt": "2026-10-03T10:40:00.000Z",
+      "volume": 200
+    },
     {
       "query": "clima",
       "startedAt": "2026-10-03T10:00:00.000Z",
@@ -17,6 +22,11 @@
       "query": "colombia - paraguay",
       "startedAt": "2026-10-03T03:00:00.000Z",
       "volume": 10000
+    },
+    {
+      "query": "meteored",
+      "startedAt": "2026-10-03T02:30:00.000Z",
+      "volume": 5000
     },
     {
       "query": "lourdes sanchez",
@@ -41,16 +51,6 @@
     {
       "query": "tiempo de mañana",
       "startedAt": "2026-10-02T23:50:00.000Z",
-      "volume": 500000
-    },
-    {
-      "query": "tiempo mañana",
-      "startedAt": "2026-10-02T23:40:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "boca juniors - unión",
-      "startedAt": "2026-10-02T23:30:00.000Z",
       "volume": 500000
     }
   ]
