@@ -1,17 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T11:10:38.438Z",
+  "updatedAt": "2026-10-03T14:35:26.464Z",
   "trends": [
     {
-      "query": "alan velasco",
-      "startedAt": "2026-10-03T10:40:00.000Z",
-      "volume": 200
+      "query": "india - brasil",
+      "startedAt": "2026-10-03T13:10:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "albacete",
+      "startedAt": "2026-10-03T13:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "el niño",
+      "startedAt": "2026-10-03T13:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "francisco cerúndolo",
+      "startedAt": "2026-10-03T12:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "alexander zverev",
+      "startedAt": "2026-10-03T11:40:00.000Z",
+      "volume": 500
     },
     {
       "query": "clima",
       "startedAt": "2026-10-03T10:00:00.000Z",
-      "volume": 100000
+      "volume": 200000
     },
     {
       "query": "carlos alcaraz",
@@ -24,11 +44,6 @@
       "volume": 10000
     },
     {
-      "query": "meteored",
-      "startedAt": "2026-10-03T02:30:00.000Z",
-      "volume": 5000
-    },
-    {
       "query": "lourdes sanchez",
       "startedAt": "2026-10-03T01:20:00.000Z",
       "volume": 1000
@@ -37,21 +52,6 @@
       "query": "gignac",
       "startedAt": "2026-10-03T01:00:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "primera división",
-      "startedAt": "2026-10-03T00:30:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "independiente rivadavia - gimnasia",
-      "startedAt": "2026-10-03T00:10:00.000Z",
-      "volume": 50000
-    },
-    {
-      "query": "tiempo de mañana",
-      "startedAt": "2026-10-02T23:50:00.000Z",
-      "volume": 500000
     }
   ]
 }
