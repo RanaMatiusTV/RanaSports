@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T03:03:27.041Z",
+  "updatedAt": "2026-10-03T03:33:40.970Z",
   "trends": [
+    {
+      "query": "colombia - paraguay",
+      "startedAt": "2026-10-03T03:00:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "tabla anual 2026",
+      "startedAt": "2026-10-03T02:50:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "lourdes sanchez",
       "startedAt": "2026-10-03T01:20:00.000Z",
@@ -14,19 +24,14 @@
       "volume": 1000
     },
     {
-      "query": "primera división",
-      "startedAt": "2026-10-03T00:30:00.000Z",
-      "volume": 10000
-    },
-    {
       "query": "independiente rivadavia - gimnasia",
       "startedAt": "2026-10-03T00:10:00.000Z",
       "volume": 50000
     },
     {
-      "query": "tiempo de mañana",
-      "startedAt": "2026-10-02T23:50:00.000Z",
-      "volume": 500000
+      "query": "tiempo mañana",
+      "startedAt": "2026-10-02T23:40:00.000Z",
+      "volume": 20000
     },
     {
       "query": "boca juniors - unión",
@@ -47,11 +52,6 @@
       "query": "ferro - deportivo madryn",
       "startedAt": "2026-10-02T21:50:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "independiente - instituto",
-      "startedAt": "2026-10-02T21:30:00.000Z",
-      "volume": 100000
     }
   ]
 }
