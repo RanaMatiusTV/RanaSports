@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T04:54:11.200Z",
+  "updatedAt": "2026-10-03T05:36:04.564Z",
   "trends": [
+    {
+      "query": "carlos alcaraz",
+      "startedAt": "2026-10-03T05:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pronostico",
+      "startedAt": "2026-10-03T04:30:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "colombia - paraguay",
       "startedAt": "2026-10-03T03:00:00.000Z",
@@ -42,16 +52,6 @@
       "query": "boca juniors - unión",
       "startedAt": "2026-10-02T23:30:00.000Z",
       "volume": 500000
-    },
-    {
-      "query": "são paulo - santos",
-      "startedAt": "2026-10-02T22:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "islas malvinas",
-      "startedAt": "2026-10-02T22:20:00.000Z",
-      "volume": 2000
     }
   ]
 }
