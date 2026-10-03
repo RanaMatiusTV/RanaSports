@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTAxOTE0MDAwMCwiVkVSU1RBUFBFTiBISVpPIExBIFBPTEUgRU4gTUFMQVNJQSBZIENPTEFQSU5UTyBMQVJHQVLDgSAyMcKwIFBFU0UgQSBDTEFTSUZJQ0FSIDE1wrAiXQ": {
+      "account": "f1",
+      "title": "VERSTAPPEN HIZO LA POLE EN MALASIA Y COLAPINTO LARGARÁ 21° PESE A CLASIFICAR 15°",
+      "dueAt": "2026-10-03T10:20:00.000Z",
+      "bufferPostId": "6ac0d681fec591339470b7dc",
+      "createdAt": "2026-10-03T10:18:41.900Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwOTk1NDQwMDAwLCJTSUxCSURPUyBZIOKAnFFVRSBTRSBWQVlBTiBUT0RPU-KAnTogTEEgR0VOVEUgREUgSU5ERVBFTkRJRU5URSBFWFBMT1TDkyBUUkFTIExBIEdPTEVBREEiXQ": {
+      "account": "main",
+      "title": "SILBIDOS Y “QUE SE VAYAN TODOS”: LA GENTE DE INDEPENDIENTE EXPLOTÓ TRAS LA GOLEADA",
+      "dueAt": "2026-10-03T10:25:00.000Z",
+      "bufferPostId": "6ac0d6687d53b827e0d6b1f6",
+      "createdAt": "2026-10-03T10:18:16.535Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwOTkxNjYwMDAwLCJWSUVSQSBBU1VNScOTIExBIEZSQUdJTElEQUQgREUgSU5ERVBFTkRJRU5URSBUUkFTIEVMIDEtNDog4oCcTk9TIExMRUdBTiBZIEVTIEdPTOKAnSJd": {
+      "account": "main",
+      "title": "VIERA ASUMIÓ LA FRAGILIDAD DE INDEPENDIENTE TRAS EL 1-4: “NOS LLEGAN Y ES GOL”",
+      "dueAt": "2026-10-03T10:20:00.000Z",
+      "bufferPostId": "6ac0d668905eed02e06074b4",
+      "createdAt": "2026-10-03T10:18:16.178Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwOTg3NzYwMDAwLCJJTlNUSVRVVE8gR09MRcOTIDQtMSBBIElOREVQRU5ESUVOVEUgWSBBRklSTcOTIFNVIExJREVSQVpHTyBFTiBMQSBaT05BIEEiXQ": {
       "account": "main",
       "title": "INSTITUTO GOLEÓ 4-1 A INDEPENDIENTE Y AFIRMÓ SU LIDERAZGO EN LA ZONA A",
@@ -3384,8 +3405,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-02T23:40:00.000Z",
-    "main": "2026-10-03T02:35:00.000Z"
+    "f1": "2026-10-03T10:25:00.000Z",
+    "main": "2026-10-03T10:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
