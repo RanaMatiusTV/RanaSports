@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T07:54:57.440Z",
+  "updatedAt": "2026-10-03T08:28:23.793Z",
   "trends": [
     {
       "query": "carlos alcaraz",
@@ -36,7 +36,7 @@
     {
       "query": "primera división",
       "startedAt": "2026-10-03T00:30:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "independiente rivadavia - gimnasia",
