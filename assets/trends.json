@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T01:26:04.471Z",
+  "updatedAt": "2026-10-03T01:52:30.332Z",
   "trends": [
+    {
+      "query": "boca",
+      "startedAt": "2026-10-03T01:20:00.000Z",
+      "volume": 100000
+    },
+    {
+      "query": "lourdes sanchez",
+      "startedAt": "2026-10-03T01:20:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "futbol para todos",
       "startedAt": "2026-10-03T00:30:00.000Z",
@@ -17,11 +27,6 @@
       "query": "tiempo de mañana",
       "startedAt": "2026-10-02T23:50:00.000Z",
       "volume": 500000
-    },
-    {
-      "query": "boca vs union",
-      "startedAt": "2026-10-02T23:50:00.000Z",
-      "volume": 20000
     },
     {
       "query": "são paulo - santos",
@@ -47,11 +52,6 @@
       "query": "max verstappen",
       "startedAt": "2026-10-02T21:10:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "francia",
-      "startedAt": "2026-10-02T20:50:00.000Z",
-      "volume": 1000
     }
   ]
 }
