@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T01:52:30.332Z",
+  "updatedAt": "2026-10-03T02:33:18.999Z",
   "trends": [
     {
       "query": "boca",
@@ -14,9 +14,14 @@
       "volume": 1000
     },
     {
-      "query": "futbol para todos",
+      "query": "gignac",
+      "startedAt": "2026-10-03T01:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "primera división",
       "startedAt": "2026-10-03T00:30:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "independiente rivadavia - gimnasia",
@@ -47,11 +52,6 @@
       "query": "independiente - instituto",
       "startedAt": "2026-10-02T21:30:00.000Z",
       "volume": 100000
-    },
-    {
-      "query": "max verstappen",
-      "startedAt": "2026-10-02T21:10:00.000Z",
-      "volume": 5000
     }
   ]
 }
