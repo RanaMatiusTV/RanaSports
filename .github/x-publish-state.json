@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTAzNzgwMDAwMCwiTEEgRjEgQ09ORklSTcOTIFFBVEFSIFkgQUJVIERBQkkgUEFSQSBFTCBDSUVSUkUsIFBFUk8gTUFOVElFTkUgQSBJTU9MQSBDT01PIFBMQU4gQiJd": {
+      "account": "f1",
+      "title": "LA F1 CONFIRMÓ QATAR Y ABU DABI PARA EL CIERRE, PERO MANTIENE A IMOLA COMO PLAN B",
+      "dueAt": "2026-10-03T18:45:00.000Z",
+      "bufferPostId": "6ac14b59fec591339482702e",
+      "createdAt": "2026-10-03T18:37:13.876Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3OTA5ODIwMDAwMDAsIkdPT0dMRSBDQVBBQ0lUw5MgQSBMT1MgQ0xVQkVTIEFSR0VOVElOT1MgUEFSQSBBUExJQ0FSIElBIEVOIEdFU1RJw5NOIFkgREVQT1JURSJd": {
+      "account": "f1",
+      "title": "GOOGLE CAPACITÓ A LOS CLUBES ARGENTINOS PARA APLICAR IA EN GESTIÓN Y DEPORTE",
+      "dueAt": "2026-10-03T18:40:00.000Z",
+      "bufferPostId": "6ac14b59814d657011d15dcb",
+      "createdAt": "2026-10-03T18:37:13.358Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwMjc5NjAwMDAsIkJVUktJTkEgRkFTTyBMTEVHQVLDgSBDSU5DTyBIT1JBUyBBTlRFUyBZIEpVR0FSw4EgQ09OIFVOIEVRVUlQTyBNSVhUTyBBTlRFIEFSR0VOVElOQSJd": {
+      "account": "main",
+      "title": "BURKINA FASO LLEGARÁ CINCO HORAS ANTES Y JUGARÁ CON UN EQUIPO MIXTO ANTE ARGENTINA",
+      "dueAt": "2026-10-03T18:40:00.000Z",
+      "bufferPostId": "6ac14b3f7d53b827e0e8b421",
+      "createdAt": "2026-10-03T18:36:47.589Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTAyNTIwMDAwMCwiQ09MQVBJTlRPIENPTkbDjUEgRU4gUkVNT05UQVIgREVTREUgRUwgRk9ORE8gQ09OIFVOQSBFU1RSQVRFR0lBIEFHUkVTSVZBIERFIE5FVU3DgVRJQ09TIl0": {
       "account": "f1",
       "title": "COLAPINTO CONFÍA EN REMONTAR DESDE EL FONDO CON UNA ESTRATEGIA AGRESIVA DE NEUMÁTICOS",
@@ -3447,8 +3468,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-03T14:45:00.000Z",
-    "main": "2026-10-03T14:55:00.000Z"
+    "f1": "2026-10-03T18:50:00.000Z",
+    "main": "2026-10-03T18:45:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
