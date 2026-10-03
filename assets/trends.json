@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T05:36:04.564Z",
+  "updatedAt": "2026-10-03T05:55:38.224Z",
   "trends": [
     {
       "query": "carlos alcaraz",
       "startedAt": "2026-10-03T05:20:00.000Z",
-      "volume": 200
+      "volume": 500
     },
     {
       "query": "pronostico",
