@@ -1,13 +1,8 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T02:33:18.999Z",
+  "updatedAt": "2026-10-03T03:03:27.041Z",
   "trends": [
-    {
-      "query": "boca",
-      "startedAt": "2026-10-03T01:20:00.000Z",
-      "volume": 100000
-    },
     {
       "query": "lourdes sanchez",
       "startedAt": "2026-10-03T01:20:00.000Z",
@@ -21,16 +16,21 @@
     {
       "query": "primera división",
       "startedAt": "2026-10-03T00:30:00.000Z",
-      "volume": 5000
+      "volume": 10000
     },
     {
       "query": "independiente rivadavia - gimnasia",
       "startedAt": "2026-10-03T00:10:00.000Z",
-      "volume": 20000
+      "volume": 50000
     },
     {
       "query": "tiempo de mañana",
       "startedAt": "2026-10-02T23:50:00.000Z",
+      "volume": 500000
+    },
+    {
+      "query": "boca juniors - unión",
+      "startedAt": "2026-10-02T23:30:00.000Z",
       "volume": 500000
     },
     {
