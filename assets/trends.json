@@ -1,17 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T03:33:40.970Z",
+  "updatedAt": "2026-10-03T04:02:13.802Z",
   "trends": [
     {
       "query": "colombia - paraguay",
       "startedAt": "2026-10-03T03:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "tabla anual 2026",
-      "startedAt": "2026-10-03T02:50:00.000Z",
-      "volume": 1000
+      "volume": 5000
     },
     {
       "query": "lourdes sanchez",
@@ -24,14 +19,19 @@
       "volume": 1000
     },
     {
+      "query": "primera división",
+      "startedAt": "2026-10-03T00:30:00.000Z",
+      "volume": 10000
+    },
+    {
       "query": "independiente rivadavia - gimnasia",
       "startedAt": "2026-10-03T00:10:00.000Z",
       "volume": 50000
     },
     {
-      "query": "tiempo mañana",
-      "startedAt": "2026-10-02T23:40:00.000Z",
-      "volume": 20000
+      "query": "tiempo de mañana",
+      "startedAt": "2026-10-02T23:50:00.000Z",
+      "volume": 500000
     },
     {
       "query": "boca juniors - unión",
