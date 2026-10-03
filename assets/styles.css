@@ -13,3 +13,11 @@
 #newsStatus{color:var(--muted);font-size:14px}.news-card h3,.news-card p{overflow-wrap:anywhere}.news-source{font-size:12px}
 
 .news-excerpt{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}.article-summary{white-space:pre-wrap;overflow-wrap:anywhere}.article-image{display:block;width:100%;height:auto;border-radius:20px;margin:24px 0}#newsDetail{margin-top:28px}#newsDetail h1{overflow-wrap:anywhere}
+
+
+/* RanaSports: titulares de noticias siempre en mayúsculas */
+.news-card h3,
+.news-card h3 a,
+#newsDetail h1 {
+  text-transform: uppercase !important;
+}
