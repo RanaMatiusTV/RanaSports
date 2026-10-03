@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwOTg3NzYwMDAwLCJJTlNUSVRVVE8gR09MRcOTIDQtMSBBIElOREVQRU5ESUVOVEUgWSBBRklSTcOTIFNVIExJREVSQVpHTyBFTiBMQSBaT05BIEEiXQ": {
+      "account": "main",
+      "title": "INSTITUTO GOLEÓ 4-1 A INDEPENDIENTE Y AFIRMÓ SU LIDERAZGO EN LA ZONA A",
+      "dueAt": "2026-10-03T02:30:00.000Z",
+      "bufferPostId": "6ac067359ae13d7e3f41f2f6",
+      "createdAt": "2026-10-03T02:23:49.719Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5ODQxMDAwMDAsIkNVVEkgUk9NRVJPIENPTlTDkyBRVUUgTUVTU0kgTE8gRUxJR0nDkyBDT01PIENBUElUw4FOIFkgUkVWRUzDkyBTVSBNQVlPUiBBUlJFUEVOVElNSUVOVE8iXQ": {
+      "account": "main",
+      "title": "CUTI ROMERO CONTÓ QUE MESSI LO ELIGIÓ COMO CAPITÁN Y REVELÓ SU MAYOR ARREPENTIMIENTO",
+      "dueAt": "2026-10-03T02:25:00.000Z",
+      "bufferPostId": "6ac067345831428806ada716",
+      "createdAt": "2026-10-03T02:23:48.629Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDk3MzQyMDAwMCwiQUxQSU5FIEVYUExJQ8OTIFBPUiBRVcOJIENBTUJJw5MgRUwgTU9UT1IgREUgQ09MQVBJTlRPIFBFU0UgQSBMQSBTQU5DScOTTiJd": {
       "account": "f1",
       "title": "ALPINE EXPLICÓ POR QUÉ CAMBIÓ EL MOTOR DE COLAPINTO PESE A LA SANCIÓN",
@@ -3371,7 +3385,7 @@
   },
   "nextAt": {
     "f1": "2026-10-02T23:40:00.000Z",
-    "main": "2026-10-02T23:45:00.000Z"
+    "main": "2026-10-03T02:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
