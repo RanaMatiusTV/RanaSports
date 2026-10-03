@@ -1,12 +1,32 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-02T23:51:52.619Z",
+  "updatedAt": "2026-10-03T00:33:40.799Z",
   "trends": [
+    {
+      "query": "independiente rivadavia - gimnasia",
+      "startedAt": "2026-10-03T00:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "matías gallardo",
+      "startedAt": "2026-10-03T00:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "tiempo de mañana",
+      "startedAt": "2026-10-02T23:50:00.000Z",
+      "volume": 200000
+    },
+    {
+      "query": "tiempo mañana",
+      "startedAt": "2026-10-02T23:40:00.000Z",
+      "volume": 20000
+    },
     {
       "query": "a qué hora juega boca",
       "startedAt": "2026-10-02T23:10:00.000Z",
-      "volume": 1000
+      "volume": 5000
     },
     {
       "query": "são paulo - santos",
@@ -21,37 +41,17 @@
     {
       "query": "ferro - deportivo madryn",
       "startedAt": "2026-10-02T21:50:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "independiente - instituto",
       "startedAt": "2026-10-02T21:30:00.000Z",
-      "volume": 50000
+      "volume": 100000
     },
     {
       "query": "max verstappen",
       "startedAt": "2026-10-02T21:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "francia",
-      "startedAt": "2026-10-02T20:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "agustina cherri",
-      "startedAt": "2026-10-02T19:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "mirtha legrand",
-      "startedAt": "2026-10-02T18:50:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "línea sarmiento",
-      "startedAt": "2026-10-02T18:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     }
   ]
 }
