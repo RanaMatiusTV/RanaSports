@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T08:57:21.201Z",
+  "updatedAt": "2026-10-03T09:27:56.872Z",
   "trends": [
     {
       "query": "carlos alcaraz",
@@ -16,12 +16,7 @@
     {
       "query": "colombia - paraguay",
       "startedAt": "2026-10-03T03:00:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "meteored",
-      "startedAt": "2026-10-03T02:30:00.000Z",
-      "volume": 20000
+      "volume": 10000
     },
     {
       "query": "lourdes sanchez",
@@ -52,6 +47,11 @@
       "query": "tiempo mañana",
       "startedAt": "2026-10-02T23:40:00.000Z",
       "volume": 20000
+    },
+    {
+      "query": "boca juniors - unión",
+      "startedAt": "2026-10-02T23:30:00.000Z",
+      "volume": 500000
     }
   ]
 }
