@@ -1,8 +1,18 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-04T21:20:54.692Z",
+  "updatedAt": "2026-10-04T21:56:09.236Z",
   "trends": [
+    {
+      "query": "argentinos jrs. - tigre",
+      "startedAt": "2026-10-04T21:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "san martín de tucumán - gimnasia y tiro de salta",
+      "startedAt": "2026-10-04T21:10:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "cuando juega river",
       "startedAt": "2026-10-04T21:00:00.000Z",
@@ -12,6 +22,11 @@
       "query": "escritor augusto cury",
       "startedAt": "2026-10-04T21:00:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "posiciones de club atlético san telmo contra club almirante brown",
+      "startedAt": "2026-10-04T20:50:00.000Z",
+      "volume": 5000
     },
     {
       "query": "atlético rafaela - atlanta",
@@ -24,9 +39,9 @@
       "volume": 500
     },
     {
-      "query": "portugal vs",
-      "startedAt": "2026-10-04T20:10:00.000Z",
-      "volume": 2000
+      "query": "flávio bolsonaro",
+      "startedAt": "2026-10-04T20:00:00.000Z",
+      "volume": 5000
     },
     {
       "query": "clariana barão",
@@ -36,21 +51,6 @@
     {
       "query": "chaco for ever - defensores de belgrano",
       "startedAt": "2026-10-04T19:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "central norte - racing de córdoba",
-      "startedAt": "2026-10-04T19:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "talleres - belgrano",
-      "startedAt": "2026-10-04T19:10:00.000Z",
-      "volume": 50000
-    },
-    {
-      "query": "fito páez",
-      "startedAt": "2026-10-04T18:50:00.000Z",
       "volume": 2000
     }
   ]
