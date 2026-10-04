@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-03T18:39:06.227Z",
+  "updatedAt": "2026-10-04T02:16:15.212Z",
   "trends": [
     {
-      "query": "carlos sainz jr.",
-      "startedAt": "2026-10-03T18:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "inglaterra",
-      "startedAt": "2026-10-03T18:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "tristán suárez - quilmes",
-      "startedAt": "2026-10-03T18:00:00.000Z",
+      "query": "enzo fernández",
+      "startedAt": "2026-10-04T02:00:00.000Z",
       "volume": 1000
     },
     {
-      "query": "españa - chequia",
-      "startedAt": "2026-10-03T17:50:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "colón - estudiantes",
-      "startedAt": "2026-10-03T17:50:00.000Z",
+      "query": "santi castro",
+      "startedAt": "2026-10-04T01:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "temperley - gimnasia jujuy",
-      "startedAt": "2026-10-03T17:50:00.000Z",
-      "volume": 2000
+      "query": "estados unidos - méxico",
+      "startedAt": "2026-10-04T01:30:00.000Z",
+      "volume": 5000
     },
     {
-      "query": "canadá - perú",
-      "startedAt": "2026-10-03T17:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "la plata",
-      "startedAt": "2026-10-03T17:20:00.000Z",
+      "query": "esteban ribovics",
+      "startedAt": "2026-10-04T01:30:00.000Z",
       "volume": 1000
     },
     {
-      "query": "defensa y justicia - san lorenzo",
-      "startedAt": "2026-10-03T17:00:00.000Z",
-      "volume": 20000
+      "query": "matias soule",
+      "startedAt": "2026-10-04T01:30:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "clima tucuman",
-      "startedAt": "2026-10-03T17:00:00.000Z",
+      "query": "leonel flores",
+      "startedAt": "2026-10-04T01:20:00.000Z",
+      "volume": 100000
+    },
+    {
+      "query": "franco mastantuono",
+      "startedAt": "2026-10-04T01:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "tomás palacios",
+      "startedAt": "2026-10-04T01:20:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "flores boca",
+      "startedAt": "2026-10-04T01:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "mastantuono",
+      "startedAt": "2026-10-04T01:10:00.000Z",
+      "volume": 5000
     }
   ]
 }
