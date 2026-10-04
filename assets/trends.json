@@ -1,11 +1,11 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-04T02:16:15.212Z",
+  "updatedAt": "2026-10-04T04:08:57.203Z",
   "trends": [
     {
-      "query": "enzo fernández",
-      "startedAt": "2026-10-04T02:00:00.000Z",
+      "query": "julián alvarez",
+      "startedAt": "2026-10-04T02:10:00.000Z",
       "volume": 1000
     },
     {
@@ -16,7 +16,7 @@
     {
       "query": "estados unidos - méxico",
       "startedAt": "2026-10-04T01:30:00.000Z",
-      "volume": 5000
+      "volume": 20000
     },
     {
       "query": "esteban ribovics",
@@ -24,34 +24,34 @@
       "volume": 1000
     },
     {
-      "query": "matias soule",
-      "startedAt": "2026-10-04T01:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "leonel flores",
-      "startedAt": "2026-10-04T01:20:00.000Z",
-      "volume": 100000
-    },
-    {
       "query": "franco mastantuono",
       "startedAt": "2026-10-04T01:20:00.000Z",
       "volume": 2000
     },
     {
-      "query": "tomás palacios",
+      "query": "leonel flores",
       "startedAt": "2026-10-04T01:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "flores boca",
-      "startedAt": "2026-10-04T01:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "mastantuono",
       "startedAt": "2026-10-04T01:10:00.000Z",
       "volume": 5000
+    },
+    {
+      "query": "soule",
+      "startedAt": "2026-10-04T01:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "tomas palacios",
+      "startedAt": "2026-10-04T01:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "agustín giay",
+      "startedAt": "2026-10-04T00:40:00.000Z",
+      "volume": 2000
     }
   ]
 }
