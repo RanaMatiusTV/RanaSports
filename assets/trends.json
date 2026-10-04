@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-04T18:22:10.045Z",
+  "updatedAt": "2026-10-04T21:20:54.692Z",
   "trends": [
     {
-      "query": "talleres vs belgrano",
-      "startedAt": "2026-10-04T18:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "portugal - noruega",
-      "startedAt": "2026-10-04T17:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "pronóstico del tiempo",
-      "startedAt": "2026-10-04T17:50:00.000Z",
+      "query": "cuando juega river",
+      "startedAt": "2026-10-04T21:00:00.000Z",
       "volume": 1000
     },
     {
-      "query": "huracan",
-      "startedAt": "2026-10-04T17:40:00.000Z",
+      "query": "escritor augusto cury",
+      "startedAt": "2026-10-04T21:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "huracán - aldosivi",
-      "startedAt": "2026-10-04T17:10:00.000Z",
-      "volume": 10000
+      "query": "atlético rafaela - atlanta",
+      "startedAt": "2026-10-04T20:40:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "barcelona - real madrid c. f. femenino",
-      "startedAt": "2026-10-04T17:00:00.000Z",
+      "query": "alvarado",
+      "startedAt": "2026-10-04T20:30:00.000Z",
       "volume": 500
     },
     {
-      "query": "kosovo - austria",
-      "startedAt": "2026-10-04T15:10:00.000Z",
+      "query": "portugal vs",
+      "startedAt": "2026-10-04T20:10:00.000Z",
       "volume": 2000
     },
     {
-      "query": "elecciones brasil",
-      "startedAt": "2026-10-04T13:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "la nacion",
-      "startedAt": "2026-10-04T12:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "san francisco de asis",
-      "startedAt": "2026-10-04T12:20:00.000Z",
+      "query": "clariana barão",
+      "startedAt": "2026-10-04T20:00:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "chaco for ever - defensores de belgrano",
+      "startedAt": "2026-10-04T19:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "central norte - racing de córdoba",
+      "startedAt": "2026-10-04T19:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "talleres - belgrano",
+      "startedAt": "2026-10-04T19:10:00.000Z",
+      "volume": 50000
+    },
+    {
+      "query": "fito páez",
+      "startedAt": "2026-10-04T18:50:00.000Z",
+      "volume": 2000
     }
   ]
 }
