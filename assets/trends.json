@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-04T22:53:18.197Z",
+  "updatedAt": "2026-10-04T23:25:19.703Z",
   "trends": [
+    {
+      "query": "renan santos",
+      "startedAt": "2026-10-04T23:00:00.000Z",
+      "volume": 500
+    },
     {
       "query": "godoy cruz",
       "startedAt": "2026-10-04T22:20:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "ronaldo caiado",
@@ -16,12 +21,17 @@
     {
       "query": "racing - peñarol",
       "startedAt": "2026-10-04T22:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "argentinos jrs. - tigre",
       "startedAt": "2026-10-04T21:40:00.000Z",
-      "volume": 10000
+      "volume": 20000
+    },
+    {
+      "query": "stuart barlow",
+      "startedAt": "2026-10-04T21:30:00.000Z",
+      "volume": 5000
     },
     {
       "query": "san martín de tucumán - gimnasia y tiro de salta",
@@ -29,29 +39,19 @@
       "volume": 5000
     },
     {
-      "query": "cuando juega river",
+      "query": "escritor augusto cury",
       "startedAt": "2026-10-04T21:00:00.000Z",
       "volume": 2000
     },
     {
-      "query": "escritor augusto cury",
+      "query": "cuando juega river",
       "startedAt": "2026-10-04T21:00:00.000Z",
       "volume": 2000
     },
     {
       "query": "atlético rafaela - atlanta",
       "startedAt": "2026-10-04T20:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "alvarado",
-      "startedAt": "2026-10-04T20:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "clariana barão",
-      "startedAt": "2026-10-04T20:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     }
   ]
 }
