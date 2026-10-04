@@ -1,6 +1,34 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTExODU2MDAwMCwiQ09MQVBJTlRPIEFQVU5Uw5MgQ09OVFJBIExBIEVTVFJBVEVHSUEgREUgQUxQSU5FOiDigJxGVUUgTEEgREVDSVNJw5NOIElOQ09SUkVDVEHigJ0iXQ": {
+      "account": "f1",
+      "title": "COLAPINTO APUNTÓ CONTRA LA ESTRATEGIA DE ALPINE: “FUE LA DECISIÓN INCORRECTA”",
+      "dueAt": "2026-10-04T18:20:00.000Z",
+      "bufferPostId": "6ac29878fe1389e4133c3029",
+      "createdAt": "2026-10-04T18:18:32.787Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTExMzcwNDAwMDAsIk1FU1NJIFNFIFNVTUEgQSBMQSBTRUxFQ0NJw5NOIFBBUkEgUFJFUEFSQVIgU1UgREVTUEVESURBIEFOVEUgQkVOw41OIl0": {
+      "account": "main",
+      "title": "MESSI SE SUMA A LA SELECCIÓN PARA PREPARAR SU DESPEDIDA ANTE BENÍN",
+      "dueAt": "2026-10-04T18:30:00.000Z",
+      "bufferPostId": "6ac2985f63761da98b57a72e",
+      "createdAt": "2026-10-04T18:18:07.845Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTExMzcwNDAwMDAsIkJVUktJTkEgRkFTTyBERUrDkyBBUkdFTlRJTkEgSE9SQVMgREVTUFXDiVMgREVMIDctMCBFTiBFTCBNT05VTUVOVEFMIl0": {
+      "account": "main",
+      "title": "BURKINA FASO DEJÓ ARGENTINA HORAS DESPUÉS DEL 7-0 EN EL MONUMENTAL",
+      "dueAt": "2026-10-04T18:25:00.000Z",
+      "bufferPostId": "6ac2985ffe1389e4133c2b98",
+      "createdAt": "2026-10-04T18:18:07.307Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTExMjUxMDAwMDAsIlBSRVNUSUFOTkkgTUFSQ8OTIFNVIFBSSU1FUiBHT0wgRU4gTEEgU0VMRUNDScOTTiBZIExFIEhJWk8gVU4gR1VJw5FPIEEgUklWRVIiXQ": {
+      "account": "main",
+      "title": "PRESTIANNI MARCÓ SU PRIMER GOL EN LA SELECCIÓN Y LE HIZO UN GUIÑO A RIVER",
+      "dueAt": "2026-10-04T18:20:00.000Z",
+      "bufferPostId": "6ac2985ed467abe8cfc23d40",
+      "createdAt": "2026-10-04T18:18:06.729Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTExMTI0MDAwMCwiQ09MQVBJTlRPIFJFTU9OVMOTIE9DSE8gUFVFU1RPUyBZIFRFUk1JTsOTIDEzwrAgRU4gU0VQQU5HIl0": {
       "account": "f1",
       "title": "COLAPINTO REMONTÓ OCHO PUESTOS Y TERMINÓ 13° EN SEPANG",
@@ -3587,8 +3615,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-04T12:20:00.000Z",
-    "main": "2026-10-04T12:35:00.000Z"
+    "f1": "2026-10-04T18:25:00.000Z",
+    "main": "2026-10-04T18:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
