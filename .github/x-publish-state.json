@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTE0NDM2MDAwMCwiQlJJQVRPUkUgQURNSVRJw5MgRUwgRVJST1IgREUgQUxQSU5FIFFVRSBDT05ESUNJT07DkyBBIENPTEFQSU5UTyBFTiBNQUxBU0lBIl0": {
+      "account": "f1",
+      "title": "BRIATORE ADMITIÓ EL ERROR DE ALPINE QUE CONDICIONÓ A COLAPINTO EN MALASIA",
+      "dueAt": "2026-10-04T21:20:00.000Z",
+      "bufferPostId": "6ac2c25769a169193a4cbb1b",
+      "createdAt": "2026-10-04T21:17:11.751Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTExNDQzNjAwMDAsIlBSRVNUSUFOTkkgTUFSQ8OTIFNVIFBSSU1FUiBHT0wgWSBBQ0xBUsOTIFNVIEZVVFVSTyBBTlRFIEVMIElOVEVSw4lTIERFIFJJVkVSIl0": {
+      "account": "main",
+      "title": "PRESTIANNI MARCÓ SU PRIMER GOL Y ACLARÓ SU FUTURO ANTE EL INTERÉS DE RIVER",
+      "dueAt": "2026-10-04T21:25:00.000Z",
+      "bufferPostId": "6ac2c24569a169193a4cb6f5",
+      "createdAt": "2026-10-04T21:16:53.631Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTExNDQzNjAwMDAsIkRJQlUgTUFSVMONTkVaIFZJU0lUw5MgRUwgVEMgWSBERVNBRknDkyBBIFNDQUxPTkkgQSBVTkEgQ0FSUkVSQSJd": {
+      "account": "main",
+      "title": "DIBU MARTÍNEZ VISITÓ EL TC Y DESAFIÓ A SCALONI A UNA CARRERA",
+      "dueAt": "2026-10-04T21:20:00.000Z",
+      "bufferPostId": "6ac2c24469a169193a4cb6c8",
+      "createdAt": "2026-10-04T21:16:53.132Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTExODU2MDAwMCwiQ09MQVBJTlRPIEFQVU5Uw5MgQ09OVFJBIExBIEVTVFJBVEVHSUEgREUgQUxQSU5FOiDigJxGVUUgTEEgREVDSVNJw5NOIElOQ09SUkVDVEHigJ0iXQ": {
       "account": "f1",
       "title": "COLAPINTO APUNTÓ CONTRA LA ESTRATEGIA DE ALPINE: “FUE LA DECISIÓN INCORRECTA”",
@@ -3615,8 +3636,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-04T18:25:00.000Z",
-    "main": "2026-10-04T18:35:00.000Z"
+    "f1": "2026-10-04T21:25:00.000Z",
+    "main": "2026-10-04T21:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
