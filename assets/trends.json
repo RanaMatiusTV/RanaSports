@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-04T06:04:29.121Z",
+  "updatedAt": "2026-10-04T13:01:46.287Z",
   "trends": [
     {
-      "query": "mexico vs",
-      "startedAt": "2026-10-04T02:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "julián alvarez",
-      "startedAt": "2026-10-04T02:10:00.000Z",
+      "query": "la nacion",
+      "startedAt": "2026-10-04T12:40:00.000Z",
       "volume": 1000
     },
     {
-      "query": "enzo fernández",
-      "startedAt": "2026-10-04T02:00:00.000Z",
+      "query": "alexander zverev",
+      "startedAt": "2026-10-04T11:20:00.000Z",
       "volume": 1000
     },
     {
-      "query": "santi castro",
-      "startedAt": "2026-10-04T01:50:00.000Z",
+      "query": "novak djokovic",
+      "startedAt": "2026-10-04T11:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "miniserie",
+      "startedAt": "2026-10-04T11:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "rayo",
+      "startedAt": "2026-10-04T10:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "granizo",
+      "startedAt": "2026-10-04T10:30:00.000Z",
       "volume": 2000
     },
     {
-      "query": "estados unidos - méxico",
-      "startedAt": "2026-10-04T01:30:00.000Z",
+      "query": "colapinto",
+      "startedAt": "2026-10-04T09:00:00.000Z",
       "volume": 20000
     },
     {
-      "query": "esteban ribovics",
-      "startedAt": "2026-10-04T01:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "leonel flores",
-      "startedAt": "2026-10-04T01:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "mastantuono",
-      "startedAt": "2026-10-04T01:10:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "soule",
-      "startedAt": "2026-10-04T01:10:00.000Z",
+      "query": "médico",
+      "startedAt": "2026-10-04T09:00:00.000Z",
       "volume": 2000
     },
     {
-      "query": "prestianni",
-      "startedAt": "2026-10-04T00:10:00.000Z",
-      "volume": 5000
+      "query": "francisco cerúndolo",
+      "startedAt": "2026-10-04T09:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "ángela leiva",
+      "startedAt": "2026-10-04T08:50:00.000Z",
+      "volume": 2000
     }
   ]
 }
