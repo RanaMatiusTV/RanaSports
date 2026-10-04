@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-04T13:01:46.287Z",
+  "updatedAt": "2026-10-04T18:22:10.045Z",
   "trends": [
+    {
+      "query": "talleres vs belgrano",
+      "startedAt": "2026-10-04T18:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "portugal - noruega",
+      "startedAt": "2026-10-04T17:50:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "pronóstico del tiempo",
+      "startedAt": "2026-10-04T17:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "huracan",
+      "startedAt": "2026-10-04T17:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "huracán - aldosivi",
+      "startedAt": "2026-10-04T17:10:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "barcelona - real madrid c. f. femenino",
+      "startedAt": "2026-10-04T17:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "kosovo - austria",
+      "startedAt": "2026-10-04T15:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "elecciones brasil",
+      "startedAt": "2026-10-04T13:50:00.000Z",
+      "volume": 5000
+    },
     {
       "query": "la nacion",
       "startedAt": "2026-10-04T12:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "san francisco de asis",
+      "startedAt": "2026-10-04T12:20:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "alexander zverev",
-      "startedAt": "2026-10-04T11:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "novak djokovic",
-      "startedAt": "2026-10-04T11:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "miniserie",
-      "startedAt": "2026-10-04T11:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "rayo",
-      "startedAt": "2026-10-04T10:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "granizo",
-      "startedAt": "2026-10-04T10:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "colapinto",
-      "startedAt": "2026-10-04T09:00:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "médico",
-      "startedAt": "2026-10-04T09:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "francisco cerúndolo",
-      "startedAt": "2026-10-04T09:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "ángela leiva",
-      "startedAt": "2026-10-04T08:50:00.000Z",
-      "volume": 2000
     }
   ]
 }
