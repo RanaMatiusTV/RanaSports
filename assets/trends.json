@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T17:28:21.470Z",
+  "updatedAt": "2026-10-05T17:55:53.299Z",
   "trends": [
     {
       "query": "2026",
@@ -11,7 +11,7 @@
     {
       "query": "argentina vs benin",
       "startedAt": "2026-10-05T16:30:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "deportivo recoleta - libertad",
@@ -21,6 +21,11 @@
     {
       "query": "novak djokovic",
       "startedAt": "2026-10-05T11:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "banco provincia",
+      "startedAt": "2026-10-05T11:20:00.000Z",
       "volume": 5000
     },
     {
@@ -47,11 +52,6 @@
       "query": "carlos alcaraz",
       "startedAt": "2026-10-05T08:40:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "lunes",
-      "startedAt": "2026-10-05T08:20:00.000Z",
-      "volume": 20000
     }
   ]
 }
