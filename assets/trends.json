@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T13:02:24.374Z",
+  "updatedAt": "2026-10-05T13:34:37.146Z",
   "trends": [
+    {
+      "query": "deportivo recoleta - libertad",
+      "startedAt": "2026-10-05T13:10:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "novak djokovic",
       "startedAt": "2026-10-05T11:40:00.000Z",
@@ -47,11 +52,6 @@
       "query": "marta fort",
       "startedAt": "2026-10-05T02:10:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "minuto uno",
-      "startedAt": "2026-10-05T01:30:00.000Z",
-      "volume": 5000
     }
   ]
 }
