@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T09:57:24.315Z",
+  "updatedAt": "2026-10-05T10:31:37.382Z",
   "trends": [
+    {
+      "query": "infobae",
+      "startedAt": "2026-10-05T10:00:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "clima mar del plata",
       "startedAt": "2026-10-05T08:40:00.000Z",
@@ -11,7 +16,7 @@
     {
       "query": "carlos alcaraz",
       "startedAt": "2026-10-05T08:40:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "lunes",
@@ -47,11 +52,6 @@
       "query": "lionel messi",
       "startedAt": "2026-10-05T00:00:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "estudiantes de río cuarto - racing",
-      "startedAt": "2026-10-04T23:40:00.000Z",
-      "volume": 100000
     }
   ]
 }
