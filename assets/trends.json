@@ -1,17 +1,27 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T21:55:03.493Z",
+  "updatedAt": "2026-10-05T22:26:39.042Z",
   "trends": [
+    {
+      "query": "velez",
+      "startedAt": "2026-10-05T22:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "claudia villafañe",
+      "startedAt": "2026-10-05T22:00:00.000Z",
+      "volume": 500
+    },
     {
       "query": "estudiantes - gimnasia y esgrima",
       "startedAt": "2026-10-05T21:30:00.000Z",
-      "volume": 2000
+      "volume": 10000
     },
     {
       "query": "la plata",
       "startedAt": "2026-10-05T20:50:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "italia vs",
@@ -21,7 +31,7 @@
     {
       "query": "nueva chicago - deportivo maipú",
       "startedAt": "2026-10-05T19:40:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "deportivo riestra - central córdoba",
@@ -42,16 +52,6 @@
       "query": "italia - turquía",
       "startedAt": "2026-10-05T18:10:00.000Z",
       "volume": 5000
-    },
-    {
-      "query": "francia - bélgica",
-      "startedAt": "2026-10-05T17:50:00.000Z",
-      "volume": 50000
-    },
-    {
-      "query": "2026",
-      "startedAt": "2026-10-05T16:50:00.000Z",
-      "volume": 20000
     }
   ]
 }
