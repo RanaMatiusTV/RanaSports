@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T00:38:08.846Z",
+  "updatedAt": "2026-10-05T01:01:02.813Z",
   "trends": [
     {
       "query": "chapadmalal",
       "startedAt": "2026-10-05T00:10:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "lionel messi",
