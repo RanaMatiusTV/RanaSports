@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T21:33:12.880Z",
+  "updatedAt": "2026-10-05T21:55:03.493Z",
   "trends": [
+    {
+      "query": "estudiantes - gimnasia y esgrima",
+      "startedAt": "2026-10-05T21:30:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "la plata",
       "startedAt": "2026-10-05T20:50:00.000Z",
@@ -14,11 +19,6 @@
       "volume": 500
     },
     {
-      "query": "francia vs",
-      "startedAt": "2026-10-05T19:50:00.000Z",
-      "volume": 2000
-    },
-    {
       "query": "nueva chicago - deportivo maipú",
       "startedAt": "2026-10-05T19:40:00.000Z",
       "volume": 2000
@@ -26,12 +26,12 @@
     {
       "query": "deportivo riestra - central córdoba",
       "startedAt": "2026-10-05T19:20:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "zulema galperín",
       "startedAt": "2026-10-05T19:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "tormenta",
@@ -46,7 +46,7 @@
     {
       "query": "francia - bélgica",
       "startedAt": "2026-10-05T17:50:00.000Z",
-      "volume": 20000
+      "volume": 50000
     },
     {
       "query": "2026",
