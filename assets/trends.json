@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T13:59:36.054Z",
+  "updatedAt": "2026-10-05T14:33:53.343Z",
   "trends": [
     {
       "query": "deportivo recoleta - libertad",
@@ -11,7 +11,7 @@
     {
       "query": "novak djokovic",
       "startedAt": "2026-10-05T11:40:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "japón - nueva zelanda",
