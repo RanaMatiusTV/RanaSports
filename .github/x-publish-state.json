@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxMjIwMDIwMDAwLCJJTkRFUEVORElFTlRFIFBFUkRJw5MgQSBNQVhJIE1FWkEgWSBTSUdVRSBERSBDRVJDQSBBIENVQVRSTyBUT0NBRE9TIFBBUkEgVklTSVRBUiBBIFRBTExFUkVTIl0": {
+      "account": "main",
+      "title": "INDEPENDIENTE PERDIÓ A MAXI MEZA Y SIGUE DE CERCA A CUATRO TOCADOS PARA VISITAR A TALLERES",
+      "dueAt": "2026-10-05T18:20:00.000Z",
+      "bufferPostId": "6ac3e6b50ed83c24b771617e",
+      "createdAt": "2026-10-05T18:04:37.625Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyMTkxODAwMDAsIkJFTsONTiBSRUNPUlJJw5MgQlVFTk9TIEFJUkVTIFkgUEFMUElUw5MgTEEgREVTUEVESURBIERFIE1FU1NJIEVOIEVMIE1PTlVNRU5UQUwiXQ": {
+      "account": "main",
+      "title": "BENÍN RECORRIÓ BUENOS AIRES Y PALPITÓ LA DESPEDIDA DE MESSI EN EL MONUMENTAL",
+      "dueAt": "2026-10-05T18:15:00.000Z",
+      "bufferPostId": "6ac3e6b4fbfba590d083850c",
+      "createdAt": "2026-10-05T18:04:36.796Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyMTgyMjAwMDAsIkxBUyBBVVNFTkNJQVMgUVVFIFRFTkRSw4EgTEEgREVTUEVESURBIERFIE1FU1NJIENPTiBMQSBTRUxFQ0NJw5NOIEFSR0VOVElOQSJd": {
+      "account": "main",
+      "title": "LAS AUSENCIAS QUE TENDRÁ LA DESPEDIDA DE MESSI CON LA SELECCIÓN ARGENTINA",
+      "dueAt": "2026-10-05T18:10:00.000Z",
+      "bufferPostId": "6ac3e6b41c518f0f52121032",
+      "createdAt": "2026-10-05T18:04:36.477Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyMTI0NjAwMDAsIkRJQlUgRU1PQ0lPTsOTIEEgVU5BIE5FTkEgQUwgSEFCTEFSIERFIE1BTFZJTkFTIFkgRUwgVFJJVU5GTyBBTlRFIElOR0xBVEVSUkEiXQ": {
       "account": "main",
       "title": "DIBU EMOCIONÓ A UNA NENA AL HABLAR DE MALVINAS Y EL TRIUNFO ANTE INGLATERRA",
@@ -3707,7 +3728,7 @@
   },
   "nextAt": {
     "f1": "2026-10-05T14:40:00.000Z",
-    "main": "2026-10-05T16:30:00.000Z"
+    "main": "2026-10-05T18:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
