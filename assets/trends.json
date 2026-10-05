@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T18:34:11.753Z",
+  "updatedAt": "2026-10-05T21:33:12.880Z",
   "trends": [
+    {
+      "query": "la plata",
+      "startedAt": "2026-10-05T20:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "italia vs",
+      "startedAt": "2026-10-05T20:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "francia vs",
+      "startedAt": "2026-10-05T19:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "nueva chicago - deportivo maipú",
+      "startedAt": "2026-10-05T19:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "deportivo riestra - central córdoba",
+      "startedAt": "2026-10-05T19:20:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "zulema galperín",
+      "startedAt": "2026-10-05T19:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "tormenta",
+      "startedAt": "2026-10-05T19:10:00.000Z",
+      "volume": 10000
+    },
     {
       "query": "italia - turquía",
       "startedAt": "2026-10-05T18:10:00.000Z",
-      "volume": 1000
+      "volume": 5000
     },
     {
       "query": "francia - bélgica",
       "startedAt": "2026-10-05T17:50:00.000Z",
-      "volume": 5000
+      "volume": 20000
     },
     {
       "query": "2026",
       "startedAt": "2026-10-05T16:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "argentina vs benin",
-      "startedAt": "2026-10-05T16:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "deportivo recoleta - libertad",
-      "startedAt": "2026-10-05T13:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "novak djokovic",
-      "startedAt": "2026-10-05T11:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "banco provincia",
-      "startedAt": "2026-10-05T11:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "japón - nueva zelanda",
-      "startedAt": "2026-10-05T11:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "cadena 3",
-      "startedAt": "2026-10-05T10:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "infobae",
-      "startedAt": "2026-10-05T10:00:00.000Z",
       "volume": 20000
     }
   ]
