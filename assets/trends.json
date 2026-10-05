@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T15:57:13.604Z",
+  "updatedAt": "2026-10-05T16:30:46.231Z",
   "trends": [
     {
       "query": "deportivo recoleta - libertad",
@@ -17,6 +17,11 @@
       "query": "japón - nueva zelanda",
       "startedAt": "2026-10-05T11:00:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "cadena 3",
+      "startedAt": "2026-10-05T10:10:00.000Z",
+      "volume": 1000
     },
     {
       "query": "infobae",
@@ -47,11 +52,6 @@
       "query": "ecuador vs panama",
       "startedAt": "2026-10-05T07:10:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "marta fort",
-      "startedAt": "2026-10-05T02:10:00.000Z",
-      "volume": 1000
     }
   ]
 }
