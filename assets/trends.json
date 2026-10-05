@@ -1,17 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T22:53:30.193Z",
+  "updatedAt": "2026-10-05T23:24:57.767Z",
   "trends": [
+    {
+      "query": "nacional - torque",
+      "startedAt": "2026-10-05T23:10:00.000Z",
+      "volume": 500
+    },
     {
       "query": "velez",
       "startedAt": "2026-10-05T22:10:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "claudia villafañe",
       "startedAt": "2026-10-05T22:00:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "estudiantes - gimnasia y esgrima",
@@ -34,24 +39,19 @@
       "volume": 5000
     },
     {
-      "query": "deportivo riestra - central córdoba",
-      "startedAt": "2026-10-05T19:20:00.000Z",
-      "volume": 20000
-    },
-    {
       "query": "zulema galperín",
       "startedAt": "2026-10-05T19:20:00.000Z",
       "volume": 2000
     },
     {
+      "query": "deportivo riestra - central córdoba",
+      "startedAt": "2026-10-05T19:20:00.000Z",
+      "volume": 20000
+    },
+    {
       "query": "tormenta",
       "startedAt": "2026-10-05T19:10:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "italia - turquía",
-      "startedAt": "2026-10-05T18:10:00.000Z",
-      "volume": 5000
     }
   ]
 }
