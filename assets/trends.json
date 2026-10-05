@@ -1,12 +1,12 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T10:31:37.382Z",
+  "updatedAt": "2026-10-05T10:56:18.960Z",
   "trends": [
     {
       "query": "infobae",
       "startedAt": "2026-10-05T10:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "clima mar del plata",
