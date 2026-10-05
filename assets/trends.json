@@ -1,8 +1,23 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T08:32:38.845Z",
+  "updatedAt": "2026-10-05T08:57:24.258Z",
   "trends": [
+    {
+      "query": "carlos alcaraz",
+      "startedAt": "2026-10-05T08:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "clima mar del plata",
+      "startedAt": "2026-10-05T08:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "lunes",
+      "startedAt": "2026-10-05T08:20:00.000Z",
+      "volume": 200
+    },
     {
       "query": "yanina latorre",
       "startedAt": "2026-10-05T08:10:00.000Z",
@@ -37,21 +52,6 @@
       "query": "estudiantes de río cuarto - racing",
       "startedAt": "2026-10-04T23:40:00.000Z",
       "volume": 100000
-    },
-    {
-      "query": "renan santos",
-      "startedAt": "2026-10-04T23:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "ronaldo caiado",
-      "startedAt": "2026-10-04T22:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "godoy cruz",
-      "startedAt": "2026-10-04T22:20:00.000Z",
-      "volume": 2000
     }
   ]
 }
