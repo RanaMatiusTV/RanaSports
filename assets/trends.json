@@ -1,12 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T16:56:30.040Z",
+  "updatedAt": "2026-10-05T17:28:21.470Z",
   "trends": [
+    {
+      "query": "2026",
+      "startedAt": "2026-10-05T16:50:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "argentina vs benin",
       "startedAt": "2026-10-05T16:30:00.000Z",
-      "volume": 5000
+      "volume": 1000
     },
     {
       "query": "deportivo recoleta - libertad",
@@ -47,11 +52,6 @@
       "query": "lunes",
       "startedAt": "2026-10-05T08:20:00.000Z",
       "volume": 20000
-    },
-    {
-      "query": "yanina latorre",
-      "startedAt": "2026-10-05T08:10:00.000Z",
-      "volume": 100
     }
   ]
 }
