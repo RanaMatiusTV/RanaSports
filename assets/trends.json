@@ -1,22 +1,37 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-04T23:52:51.043Z",
+  "updatedAt": "2026-10-05T00:38:08.846Z",
   "trends": [
+    {
+      "query": "chapadmalal",
+      "startedAt": "2026-10-05T00:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "lionel messi",
+      "startedAt": "2026-10-05T00:00:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "estudiantes de río cuarto - racing",
+      "startedAt": "2026-10-04T23:40:00.000Z",
+      "volume": 20000
+    },
     {
       "query": "renan santos",
       "startedAt": "2026-10-04T23:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "godoy cruz",
-      "startedAt": "2026-10-04T22:20:00.000Z",
       "volume": 2000
     },
     {
       "query": "ronaldo caiado",
       "startedAt": "2026-10-04T22:20:00.000Z",
-      "volume": 1000
+      "volume": 2000
+    },
+    {
+      "query": "godoy cruz",
+      "startedAt": "2026-10-04T22:20:00.000Z",
+      "volume": 2000
     },
     {
       "query": "racing - peñarol",
@@ -37,21 +52,6 @@
       "query": "san martín de tucumán - gimnasia y tiro de salta",
       "startedAt": "2026-10-04T21:10:00.000Z",
       "volume": 10000
-    },
-    {
-      "query": "escritor augusto cury",
-      "startedAt": "2026-10-04T21:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "cuando juega river",
-      "startedAt": "2026-10-04T21:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "atlético rafaela - atlanta",
-      "startedAt": "2026-10-04T20:40:00.000Z",
-      "volume": 2000
     }
   ]
 }
