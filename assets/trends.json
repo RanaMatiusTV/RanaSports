@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T10:56:18.960Z",
+  "updatedAt": "2026-10-05T11:29:51.387Z",
   "trends": [
     {
-      "query": "infobae",
-      "startedAt": "2026-10-05T10:00:00.000Z",
-      "volume": 5000
+      "query": "japón - nueva zelanda",
+      "startedAt": "2026-10-05T11:00:00.000Z",
+      "volume": 200
     },
     {
       "query": "clima mar del plata",
       "startedAt": "2026-10-05T08:40:00.000Z",
-      "volume": 1000
+      "volume": 2000
     },
     {
       "query": "carlos alcaraz",
@@ -21,7 +21,7 @@
     {
       "query": "lunes",
       "startedAt": "2026-10-05T08:20:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "yanina latorre",
