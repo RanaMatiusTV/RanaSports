@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T22:26:39.042Z",
+  "updatedAt": "2026-10-05T22:53:30.193Z",
   "trends": [
     {
       "query": "velez",
@@ -11,12 +11,12 @@
     {
       "query": "claudia villafañe",
       "startedAt": "2026-10-05T22:00:00.000Z",
-      "volume": 500
+      "volume": 1000
     },
     {
       "query": "estudiantes - gimnasia y esgrima",
       "startedAt": "2026-10-05T21:30:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "la plata",
