@@ -1,12 +1,22 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T11:29:51.387Z",
+  "updatedAt": "2026-10-05T11:56:13.308Z",
   "trends": [
+    {
+      "query": "novak djokovic",
+      "startedAt": "2026-10-05T11:40:00.000Z",
+      "volume": 500
+    },
     {
       "query": "japón - nueva zelanda",
       "startedAt": "2026-10-05T11:00:00.000Z",
-      "volume": 200
+      "volume": 500
+    },
+    {
+      "query": "infobae",
+      "startedAt": "2026-10-05T10:00:00.000Z",
+      "volume": 10000
     },
     {
       "query": "clima mar del plata",
@@ -41,16 +51,6 @@
     {
       "query": "minuto uno",
       "startedAt": "2026-10-05T01:30:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "chapadmalal",
-      "startedAt": "2026-10-05T00:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "lionel messi",
-      "startedAt": "2026-10-05T00:00:00.000Z",
       "volume": 5000
     }
   ]
