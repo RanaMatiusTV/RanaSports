@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T07:04:03.256Z",
+  "updatedAt": "2026-10-05T07:32:15.852Z",
   "trends": [
+    {
+      "query": "ecuador vs panama",
+      "startedAt": "2026-10-05T07:10:00.000Z",
+      "volume": 100
+    },
     {
       "query": "marta fort",
       "startedAt": "2026-10-05T02:10:00.000Z",
@@ -47,11 +52,6 @@
       "query": "racing - peñarol",
       "startedAt": "2026-10-04T22:10:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "argentinos jrs. - tigre",
-      "startedAt": "2026-10-04T21:40:00.000Z",
-      "volume": 20000
     }
   ]
 }
