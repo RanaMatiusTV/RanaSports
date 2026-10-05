@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T23:24:57.767Z",
+  "updatedAt": "2026-10-05T23:51:36.943Z",
   "trends": [
+    {
+      "query": "argentina mañana",
+      "startedAt": "2026-10-05T23:30:00.000Z",
+      "volume": 5000
+    },
     {
       "query": "nacional - torque",
       "startedAt": "2026-10-05T23:10:00.000Z",
@@ -47,11 +52,6 @@
       "query": "deportivo riestra - central córdoba",
       "startedAt": "2026-10-05T19:20:00.000Z",
       "volume": 20000
-    },
-    {
-      "query": "tormenta",
-      "startedAt": "2026-10-05T19:10:00.000Z",
-      "volume": 10000
     }
   ]
 }
