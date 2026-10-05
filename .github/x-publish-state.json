@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyMTI0NjAwMDAsIkRJQlUgRU1PQ0lPTsOTIEEgVU5BIE5FTkEgQUwgSEFCTEFSIERFIE1BTFZJTkFTIFkgRUwgVFJJVU5GTyBBTlRFIElOR0xBVEVSUkEiXQ": {
+      "account": "main",
+      "title": "DIBU EMOCIONÓ A UNA NENA AL HABLAR DE MALVINAS Y EL TRIUNFO ANTE INGLATERRA",
+      "dueAt": "2026-10-05T16:25:00.000Z",
+      "bufferPostId": "6ac3ceecc9864b5b32e04ab2",
+      "createdAt": "2026-10-05T16:23:08.143Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTIwNDkwMDAwMCwiRUwgTUFOQUdFUiBERSBDT0xBUElOVE8gTE8gUkVTUEFMRMOTOiDigJxFTCBQVUVTVE8gMTMgTk8gQ1VFTlRBIFRPREEgTEEgSElTVE9SSUHigJ0iXQ": {
       "account": "f1",
       "title": "EL MANAGER DE COLAPINTO LO RESPALDÓ: “EL PUESTO 13 NO CUENTA TODA LA HISTORIA”",
@@ -3700,7 +3707,7 @@
   },
   "nextAt": {
     "f1": "2026-10-05T14:40:00.000Z",
-    "main": "2026-10-05T14:40:00.000Z"
+    "main": "2026-10-05T16:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
