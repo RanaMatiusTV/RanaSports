@@ -1,7 +1,7 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-05T14:58:26.989Z",
+  "updatedAt": "2026-10-05T15:32:09.141Z",
   "trends": [
     {
       "query": "deportivo recoleta - libertad",
@@ -36,7 +36,7 @@
     {
       "query": "lunes",
       "startedAt": "2026-10-05T08:20:00.000Z",
-      "volume": 10000
+      "volume": 20000
     },
     {
       "query": "yanina latorre",
