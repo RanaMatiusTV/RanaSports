@@ -327,6 +327,50 @@ async function createBufferPost(apiKey, channelId, text, image, dueAt) {
   return result.post;
 }
 
+async function refreshPublishedLinks(apiKey, state) {
+  const organizationId = state.buffer?.organizationId;
+  const channelIds = [state.buffer?.mainChannelId, state.buffer?.f1ChannelId].filter(Boolean);
+  if (!organizationId || !channelIds.length) return 0;
+
+  const byId = new Map();
+  for (const channelId of channelIds) {
+    const query = `query SentPosts {
+      posts(
+        first:100,
+        input:{
+          organizationId:${gqlString(organizationId)},
+          filter:{status:[sent],channelIds:[${gqlString(channelId)}]},
+          sort:[{field:dueAt,direction:desc}]
+        }
+      ) {
+        edges { node { id externalLink status sentAt dueAt channelId } }
+      }
+    }`;
+    try {
+      const data = await bufferRequest(apiKey, query);
+      for (const edge of data?.posts?.edges || []) {
+        const post = edge?.node;
+        if (post?.id) byId.set(post.id, post);
+      }
+    } catch (error) {
+      console.error(`ERROR Buffer al recuperar enlaces publicados (${channelId}): ${error.message}`);
+    }
+  }
+
+  let updated = 0;
+  for (const entry of Object.values(state.processed || {})) {
+    const post = byId.get(entry.bufferPostId);
+    if (!post?.externalLink) continue;
+    if (entry.externalLink !== post.externalLink || entry.sentAt !== post.sentAt) {
+      entry.externalLink = post.externalLink;
+      if (post.sentAt) entry.sentAt = post.sentAt;
+      updated++;
+    }
+  }
+  if (updated) console.log(`Enlaces públicos de X recuperados desde Buffer: ${updated}`);
+  return updated;
+}
+
 function readState() {
   try { return JSON.parse(fs.readFileSync(STATE_PATH, 'utf8')); }
   catch { return { activationAt: new Date().toISOString(), processed: {}, nextAt: {}, buffer: {} }; }
@@ -381,13 +425,15 @@ async function main() {
   });
 
   candidates.sort((a, b) => priority(b.item) - priority(a.item) || a.item.date - b.item.date);
+
+  await discoverChannels(apiKey, state);
+  await refreshPublishedLinks(apiKey, state);
+  writeState(state);
+
   if (!candidates.length) {
     console.log('Sin noticias nuevas aptas para X.');
     return;
   }
-
-  await discoverChannels(apiKey, state);
-  writeState(state);
 
   const now = Date.now();
   let scheduled = 0;
