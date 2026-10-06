@@ -247,22 +247,14 @@
   wrap.append(img);container.append(wrap);return true;
  }
  function renderLinkEmbed(container,url){
-  const href=safeURL(url);
-  if(!href||container.querySelector('.video-embed,.x-embed,.image-embed,.external-embed-card'))return false;
-  let domain='Fuente externa';
-  try{domain=new URL(href).hostname.replace(/^www\./,'');}catch{}
-  const card=link(href,'','external-embed-card');
-  card.setAttribute('aria-label','Abrir contenido relacionado en '+domain);
-  card.append(element('strong','','Contenido relacionado'),element('span','',domain+' · Abrir fuente'));
-  container.append(card);
-  return true;
+  return false;
  }
  function renderEmbed(container,url){
   if(container.querySelector('.video-embed,.x-embed,.image-embed,.external-embed-card'))return false;
   if(imageEmbedURL(url))return renderImageEmbed(container,url);
   if(isXPost(url))return renderXPost(container,url);
   if(videoEmbedURL(url))return renderVideo(container,url);
-  return renderLinkEmbed(container,url);
+  return false;
  }
  function renderSupplementalImage(container,url){
   if(!imageDataURL(url)||container.querySelector('.supplemental-image'))return false;
