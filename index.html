@@ -67,7 +67,23 @@
   .rs-live-btn{display:inline-flex;align-items:center;gap:5px;white-space:nowrap;padding:7px 10px;border-radius:999px;background:#e51438;color:#fff!important;text-decoration:none!important;font-size:11px;font-weight:900;letter-spacing:.45px;box-shadow:0 2px 9px #0005}.rs-live-dot{width:7px;height:7px;border-radius:50%;background:#fff;box-shadow:0 0 0 0 #fff8;animation:rsLivePulse 1.8s infinite}@keyframes rsLivePulse{70%{box-shadow:0 0 0 6px #fff0}100%{box-shadow:0 0 0 0 #fff0}}@media(max-width:699px){.rs-live-btn{margin-left:auto;padding:6px 8px;font-size:10px}.site-header .header-inner{justify-content:flex-start}.site-header .brand{min-width:0}.site-header .brand-copy small{display:block!important;font-size:6px!important;line-height:1!important;white-space:nowrap!important;opacity:.72!important;margin-top:0!important}}@media(min-width:700px){.rs-live-btn{margin-left:auto}.site-header .header-youtube{margin-left:0!important}}
   .rs-youtube-float{position:fixed;right:12px;bottom:14px;z-index:1000;width:44px;height:44px;border-radius:50%;place-items:center;background:#ff0033;color:#fff;text-decoration:none;box-shadow:0 5px 18px #0007;border:2px solid #fff3;font-size:19px;line-height:1}
 </style>
-<style id="rs-critical-card-gap">@media(max-width:1049px){#newsGrid.editorial-grid{display:flex!important;flex-direction:column!important;gap:14px!important}#newsGrid.editorial-grid>.news-card{margin:0!important}}</style></head>
+<style id="rs-critical-card-gap">@media(max-width:1049px){#newsGrid.editorial-grid{display:flex!important;flex-direction:column!important;gap:14px!important}#newsGrid.editorial-grid>.news-card{margin:0!important}}</style>
+<style id="rs-mobile-width-guard">
+  html,body{max-width:100%;overflow-x:hidden}
+  @supports(overflow:clip){html,body{overflow-x:clip}}
+  @media(max-width:699px){
+    .site-header .header-inner{max-width:100%!important;min-width:0!important}
+    .site-header .brand{flex:1 1 auto!important;min-width:0!important;max-width:100%!important;overflow:hidden!important}
+    .site-header .brand-copy{min-width:0!important;max-width:100%!important;overflow:hidden!important}
+    .site-header .brand-copy small{display:none!important}
+    .site-header .brand-copy b{font-size:18px!important;letter-spacing:-.8px!important}
+    .site-header .rs-header-socials{display:none!important}
+    .site-header #installBtn{display:none!important}
+    main,.shell,#ultimas.portal-layout,#newsGrid.editorial-grid{max-width:100%!important}
+    #newsGrid .news-card{max-width:100%!important;min-width:0!important}
+    #newsGrid h3{overflow-wrap:anywhere}
+  }
+</style></head>
 <body>
   <div class="top-accent"></div>
   <header class="site-header">
