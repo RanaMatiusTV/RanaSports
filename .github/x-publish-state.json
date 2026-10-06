@@ -1,40 +1,120 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTMxODQ4MDAwMCwiRjE6IENPTkZJUk1BUk9OIExPUyBIT1JBUklPUyBERUwgR1AgREUgU0lOR0FQVVIgQ09OIENPTEFQSU5UTyBFTiBQSVNUQSJd": {
+      "account": "f1",
+      "title": "F1: CONFIRMARON LOS HORARIOS DEL GP DE SINGAPUR CON COLAPINTO EN PISTA",
+      "dueAt": "2026-10-07T00:00:00.000Z",
+      "bufferPostId": "6ac58a364852a95e8c25eed3",
+      "createdAt": "2026-10-06T23:54:30.660Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTY4NjAwMDAsIk5FWU1BUiBBIE1FU1NJOiDigJxOTyBTT0xPIEFSR0VOVElOQSBURSBEQSBMQVMgR1JBQ0lBUywgRUwgTVVORE8gVEFNQknDiU7igJ0iXQ": {
+      "account": "main",
+      "title": "NEYMAR A MESSI: “NO SOLO ARGENTINA TE DA LAS GRACIAS, EL MUNDO TAMBIÉN”",
+      "dueAt": "2026-10-07T00:40:00.000Z",
+      "bufferPostId": "6ac58a31e6827ebf4473a231",
+      "createdAt": "2026-10-06T23:54:25.338Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTY4MDAwMDAsIkFSVFVSTyBWSURBTCBERVNQSURJw5MgQSBNRVNTSSBZIExPIERFRklOScOTIENPTU8g4oCcRUwgTUVKT1IgREUgTEEgSElTVE9SSUHigJ0iXQ": {
+      "account": "main",
+      "title": "ARTURO VIDAL DESPIDIÓ A MESSI Y LO DEFINIÓ COMO “EL MEJOR DE LA HISTORIA”",
+      "dueAt": "2026-10-07T00:35:00.000Z",
+      "bufferPostId": "6ac58a30c863cdf278d3ae65",
+      "createdAt": "2026-10-06T23:54:24.619Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTAzODAwMDAsIkVMIFZJREVPIERFIExBIEFGQSBRVUUgRU1PQ0lPTsOTIEEgQU5UT05FTEEgRU4gTEEgREVTUEVESURBIERFIE1FU1NJIl0": {
+      "account": "main",
+      "title": "EL VIDEO DE LA AFA QUE EMOCIONÓ A ANTONELA EN LA DESPEDIDA DE MESSI",
+      "dueAt": "2026-10-07T00:30:00.000Z",
+      "bufferPostId": "6ac58a2fc863cdf278d3ae3c",
+      "createdAt": "2026-10-06T23:54:24.059Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTAzMjAwMDAsIkNVQU5ETyBNRVNTSSBZQSBCUklMTEFCQSBFTiBCQVJDRUxPTkEsIFBFUk8gTEUgUEVEw41BIFBMQVRBIEEgU1UgTUFNw4EgUEFSQSBDT01QUkFSIENISUNMRVMiXQ": {
+      "account": "main",
+      "title": "CUANDO MESSI YA BRILLABA EN BARCELONA, PERO LE PEDÍA PLATA A SU MAMÁ PARA COMPRAR CHICLES",
+      "dueAt": "2026-10-07T00:25:00.000Z",
+      "bufferPostId": "6ac58a2fe6827ebf4473a208",
+      "createdAt": "2026-10-06T23:54:23.635Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTAyNjAwMDAsIkxPUyBHRVNUT1MgU0VDUkVUT1MgREUgTUVTU0k6IFBBR8OTIERFVURBUyBZIFJFR0FMw5MgRUxFQ1RST0RPTcOJU1RJQ09TIEEgRU1QTEVBRE9TIERFIEFGQSJd": {
+      "account": "main",
+      "title": "LOS GESTOS SECRETOS DE MESSI: PAGÓ DEUDAS Y REGALÓ ELECTRODOMÉSTICOS A EMPLEADOS DE AFA",
+      "dueAt": "2026-10-07T00:20:00.000Z",
+      "bufferPostId": "6ac58a2ec863cdf278d3adfe",
+      "createdAt": "2026-10-06T23:54:22.898Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTAyMDAwMDAsIkxPUyBQSUJFUyBRVUUgQ1JFQ0lFUk9OIFZJRU5ETyBBIE1FU1NJIFkgQUhPUkEgU0VSw4FOIFBBUlRFIERFIFNVIERFU1BFRElEQSJd": {
+      "account": "main",
+      "title": "LOS PIBES QUE CRECIERON VIENDO A MESSI Y AHORA SERÁN PARTE DE SU DESPEDIDA",
+      "dueAt": "2026-10-07T00:15:00.000Z",
+      "bufferPostId": "6ac58a2eb8cf36ab20bdccbc",
+      "createdAt": "2026-10-06T23:54:22.311Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTAxNDAwMDAsIkRFTCBQRUxPIExBUkdPIEFMIFRSVUNPIEVOIFFBVEFSOiBDSU5DTyBISVNUT1JJQVMgTcONTklNQVMgREUgTUVTU0kgRU4gTEEgU0VMRUNDScOTTiJd": {
+      "account": "main",
+      "title": "DEL PELO LARGO AL TRUCO EN QATAR: CINCO HISTORIAS MÍNIMAS DE MESSI EN LA SELECCIÓN",
+      "dueAt": "2026-10-07T00:10:00.000Z",
+      "bufferPostId": "6ac58a2a4852a95e8c25ee4a",
+      "createdAt": "2026-10-06T23:54:19.056Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTAwMjAwMDAsIuKAnEhPWSBFTVBJRVpBIE9UUkEgVklEQeKAnTogRUwgTUVOU0FKRSBERSBDQVJPTElOQSBCQUxESU5JIFBBUkEgTUVTU0kgWSBBTlRPTkVMQSJd": {
+      "account": "main",
+      "title": "“HOY EMPIEZA OTRA VIDA”: EL MENSAJE DE CAROLINA BALDINI PARA MESSI Y ANTONELA",
+      "dueAt": "2026-10-07T00:05:00.000Z",
+      "bufferPostId": "6ac58a29b8cf36ab20bdcb19",
+      "createdAt": "2026-10-06T23:54:17.924Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDk5NjAwMDAsIkxBIFJFVkVOVEEgUEFSQSBMQSBERVNQRURJREEgREUgTUVTU0kgU1VQRVJBIExPUyBTRUlTIE1JTExPTkVTIERFIFBFU09TIl0": {
+      "account": "main",
+      "title": "LA REVENTA PARA LA DESPEDIDA DE MESSI SUPERA LOS SEIS MILLONES DE PESOS",
+      "dueAt": "2026-10-07T00:00:00.000Z",
+      "bufferPostId": "6ac58a294852a95e8c25edfb",
+      "createdAt": "2026-10-06T23:54:17.313Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDk5MDAwMDAsIlVOIEVYQ09NQkFUSUVOVEUgREUgTUFMVklOQVMgQ0FOVEFSw4EgRUwgSElNTk8gRU4gTEEgREVTUEVESURBIERFIE1FU1NJIl0": {
       "account": "main",
       "title": "UN EXCOMBATIENTE DE MALVINAS CANTARÁ EL HIMNO EN LA DESPEDIDA DE MESSI",
       "dueAt": "2026-10-06T21:10:00.000Z",
       "bufferPostId": "6ac55832544ff8353dfa006c",
-      "createdAt": "2026-10-06T20:21:06.503Z"
+      "createdAt": "2026-10-06T20:21:06.503Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107579162982506818",
+      "sentAt": "2026-10-06T21:10:04.342Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDk4NDAwMDAsIkxBIFVCQSBESVNUSU5HVUnDkyBBIE1FU1NJIENPTU8gRE9DVE9SIEhPTk9SSVMgQ0FVU0EgQU5URVMgREUgU1UgREVTUEVESURBIl0": {
       "account": "main",
       "title": "LA UBA DISTINGUIÓ A MESSI COMO DOCTOR HONORIS CAUSA ANTES DE SU DESPEDIDA",
       "dueAt": "2026-10-06T21:05:00.000Z",
       "bufferPostId": "6ac556f4299f8672071e1fe7",
-      "createdAt": "2026-10-06T20:15:48.758Z"
+      "createdAt": "2026-10-06T20:15:48.758Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107577894784393662",
+      "sentAt": "2026-10-06T21:05:01.962Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI4MjAwMDAsIlZBTEVOQ0lBIExFIERJTyBQRVJNSVNPIEEgR1VJRE8gUk9EUsONR1VFWiBQQVJBIEVTVEFSIEVOIExBIERFU1BFRElEQSBERSBNRVNTSSJd": {
       "account": "main",
       "title": "VALENCIA LE DIO PERMISO A GUIDO RODRÍGUEZ PARA ESTAR EN LA DESPEDIDA DE MESSI",
       "dueAt": "2026-10-06T21:00:00.000Z",
       "bufferPostId": "6ac556f338b9e9d5545ee286",
-      "createdAt": "2026-10-06T20:15:47.835Z"
+      "createdAt": "2026-10-06T20:15:47.835Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107576679702876311",
+      "sentAt": "2026-10-06T21:00:12.327Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI3NjAwMDAsIkxBIERFU1BFRElEQSBERSBNRVNTSSBTRSBWRVLDgSBFTiBWSVZPIEVOIEJSQVNJTCBZIEFMRU1BTklBIl0": {
       "account": "main",
       "title": "LA DESPEDIDA DE MESSI SE VERÁ EN VIVO EN BRASIL Y ALEMANIA",
       "dueAt": "2026-10-06T20:55:00.000Z",
       "bufferPostId": "6ac556f1544ff8353df9d560",
-      "createdAt": "2026-10-06T20:15:46.075Z"
+      "createdAt": "2026-10-06T20:15:46.075Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107575381800759633",
+      "sentAt": "2026-10-06T20:55:02.783Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI3MDAwMDAsIlJJVkVSIEFVVE9SSVrDkyBBIFRISUFHTyBBTE1BREEgQSBFTlRSRU5BUlNFIENPTiBNRVNTSSBQRVNFIEEgU1UgTEVTScOTTiJd": {
       "account": "main",
       "title": "RIVER AUTORIZÓ A THIAGO ALMADA A ENTRENARSE CON MESSI PESE A SU LESIÓN",
       "dueAt": "2026-10-06T20:50:00.000Z",
       "bufferPostId": "6ac553bce0e7ba24e07af29a",
-      "createdAt": "2026-10-06T20:02:05.116Z"
+      "createdAt": "2026-10-06T20:02:05.116Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107574119801704871",
+      "sentAt": "2026-10-06T20:50:01.890Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTMxMDQ0MDAwMCwiTEVDTEVSQyBBTEVSVMOTIFBPUiBMQSBGQUxMQSBERSBTT0ZUV0FSRSBRVUUgREVKw5MgQSBMT1MgRjEgU0lOIEFDRUxFUkFDScOTTiJd": {
       "account": "f1",
@@ -50,35 +130,45 @@
       "title": "PAPU GÓMEZ NO ESTARÁ EN EL MONUMENTAL, PERO COMENTARÁ LA DESPEDIDA DE MESSI EN KUWAIT",
       "dueAt": "2026-10-06T20:45:00.000Z",
       "bufferPostId": "6ac551ee299f8672071d3611",
-      "createdAt": "2026-10-06T19:54:22.763Z"
+      "createdAt": "2026-10-06T19:54:22.763Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107572868481499193",
+      "sentAt": "2026-10-06T20:45:03.640Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI1ODAwMDAsIuKAnERFU1BFRElSIEFMIE1FSk9S4oCdOiBMT1MgTUVOU0FKRVMgREVMIERJQlUsIE9UQU1FTkRJLCBFTlpPIFkgTUFTVEFOVFVPTk8gUEFSQSBNRVNTSSJd": {
       "account": "main",
       "title": "“DESPEDIR AL MEJOR”: LOS MENSAJES DEL DIBU, OTAMENDI, ENZO Y MASTANTUONO PARA MESSI",
       "dueAt": "2026-10-06T20:40:00.000Z",
       "bufferPostId": "6ac551ee535ade2f59d1b8ae",
-      "createdAt": "2026-10-06T19:54:22.247Z"
+      "createdAt": "2026-10-06T19:54:22.247Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107571604649623724",
+      "sentAt": "2026-10-06T20:40:02.238Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI1MjAwMDAsIkxBIFNFTEVDQ0nDk04gRUxJR0nDkyDigJxNT01FTlRP4oCdLCBERSBMT1MgQ0FGUkVTLCBQQVJBIEVMIFZJREVPIERFTCDDmkxUSU1PIEVOVFJFTkFNSUVOVE8gREUgTUVTU0kiXQ": {
       "account": "main",
       "title": "LA SELECCIÓN ELIGIÓ “MOMENTO”, DE LOS CAFRES, PARA EL VIDEO DEL ÚLTIMO ENTRENAMIENTO DE MESSI",
       "dueAt": "2026-10-06T20:35:00.000Z",
       "bufferPostId": "6ac551ed38b9e9d5545dfbbe",
-      "createdAt": "2026-10-06T19:54:21.567Z"
+      "createdAt": "2026-10-06T19:54:21.567Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107570348027772987",
+      "sentAt": "2026-10-06T20:35:02.655Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI0NjAwMDAsIuKAnE1PTUVOVE9TIEVTUEVDSUFMRVMgUVVFIFPDiSBRVUUgVk9ZIEEgRVhUUkHDkUFS4oCdOiBFTCBNRU5TQUpFIERFIE1FU1NJIEFOVEVTIERFTCBBREnDk1MiXQ": {
       "account": "main",
       "title": "“MOMENTOS ESPECIALES QUE SÉ QUE VOY A EXTRAÑAR”: EL MENSAJE DE MESSI ANTES DEL ADIÓS",
       "dueAt": "2026-10-06T20:30:00.000Z",
       "bufferPostId": "6ac551ece0e7ba24e07a9b63",
-      "createdAt": "2026-10-06T19:54:21.033Z"
+      "createdAt": "2026-10-06T19:54:21.033Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107569111089709097",
+      "sentAt": "2026-10-06T20:30:07.777Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDA5MDAwMDAsIk1FU1NJOiDigJxERUrDiSBUT0RPLCBNRSBWT1kgRU4gUEFa4oCdIl0": {
       "account": "main",
       "title": "MESSI: “DEJÉ TODO, ME VOY EN PAZ”",
       "dueAt": "2026-10-06T20:25:00.000Z",
       "bufferPostId": "6ac551ec544ff8353df8e635",
-      "createdAt": "2026-10-06T19:54:20.459Z"
+      "createdAt": "2026-10-06T19:54:20.459Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107567828085686284",
+      "sentAt": "2026-10-06T20:25:01.880Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTIwMjAwMDAsIlJJU0FTLCBERSBQQVVMIFkgRUwgTE9DTzogQVPDjSBGVUUgRUwgw5pMVElNTyBFTlRSRU5BTUlFTlRPIERFIE1FU1NJIENPTiBMQSBTRUxFQ0NJw5NOIl0": {
       "account": "main",
@@ -4513,8 +4603,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-06T20:05:00.000Z",
-    "main": "2026-10-06T21:15:00.000Z"
+    "f1": "2026-10-07T00:05:00.000Z",
+    "main": "2026-10-07T00:45:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
