@@ -1,12 +1,91 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTMxMDQ0MDAwMCwiTEVDTEVSQyBBTEVSVMOTIFBPUiBMQSBGQUxMQSBERSBTT0ZUV0FSRSBRVUUgREVKw5MgQSBMT1MgRjEgU0lOIEFDRUxFUkFDScOTTiJd": {
+      "account": "f1",
+      "title": "LECLERC ALERTÓ POR LA FALLA DE SOFTWARE QUE DEJÓ A LOS F1 SIN ACELERACIÓN",
+      "dueAt": "2026-10-06T20:00:00.000Z",
+      "bufferPostId": "6ac551ef38b9e9d5545dfbf3",
+      "createdAt": "2026-10-06T19:54:23.286Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI2NDAwMDAsIlBBUFUgR8OTTUVaIE5PIEVTVEFSw4EgRU4gRUwgTU9OVU1FTlRBTCwgUEVSTyBDT01FTlRBUsOBIExBIERFU1BFRElEQSBERSBNRVNTSSBFTiBLVVdBSVQiXQ": {
+      "account": "main",
+      "title": "PAPU GÓMEZ NO ESTARÁ EN EL MONUMENTAL, PERO COMENTARÁ LA DESPEDIDA DE MESSI EN KUWAIT",
+      "dueAt": "2026-10-06T20:45:00.000Z",
+      "bufferPostId": "6ac551ee299f8672071d3611",
+      "createdAt": "2026-10-06T19:54:22.763Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI1ODAwMDAsIuKAnERFU1BFRElSIEFMIE1FSk9S4oCdOiBMT1MgTUVOU0FKRVMgREVMIERJQlUsIE9UQU1FTkRJLCBFTlpPIFkgTUFTVEFOVFVPTk8gUEFSQSBNRVNTSSJd": {
+      "account": "main",
+      "title": "“DESPEDIR AL MEJOR”: LOS MENSAJES DEL DIBU, OTAMENDI, ENZO Y MASTANTUONO PARA MESSI",
+      "dueAt": "2026-10-06T20:40:00.000Z",
+      "bufferPostId": "6ac551ee535ade2f59d1b8ae",
+      "createdAt": "2026-10-06T19:54:22.247Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI1MjAwMDAsIkxBIFNFTEVDQ0nDk04gRUxJR0nDkyDigJxNT01FTlRP4oCdLCBERSBMT1MgQ0FGUkVTLCBQQVJBIEVMIFZJREVPIERFTCDDmkxUSU1PIEVOVFJFTkFNSUVOVE8gREUgTUVTU0kiXQ": {
+      "account": "main",
+      "title": "LA SELECCIÓN ELIGIÓ “MOMENTO”, DE LOS CAFRES, PARA EL VIDEO DEL ÚLTIMO ENTRENAMIENTO DE MESSI",
+      "dueAt": "2026-10-06T20:35:00.000Z",
+      "bufferPostId": "6ac551ed38b9e9d5545dfbbe",
+      "createdAt": "2026-10-06T19:54:21.567Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI0NjAwMDAsIuKAnE1PTUVOVE9TIEVTUEVDSUFMRVMgUVVFIFPDiSBRVUUgVk9ZIEEgRVhUUkHDkUFS4oCdOiBFTCBNRU5TQUpFIERFIE1FU1NJIEFOVEVTIERFTCBBREnDk1MiXQ": {
+      "account": "main",
+      "title": "“MOMENTOS ESPECIALES QUE SÉ QUE VOY A EXTRAÑAR”: EL MENSAJE DE MESSI ANTES DEL ADIÓS",
+      "dueAt": "2026-10-06T20:30:00.000Z",
+      "bufferPostId": "6ac551ece0e7ba24e07a9b63",
+      "createdAt": "2026-10-06T19:54:21.033Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDA5MDAwMDAsIk1FU1NJOiDigJxERUrDiSBUT0RPLCBNRSBWT1kgRU4gUEFa4oCdIl0": {
+      "account": "main",
+      "title": "MESSI: “DEJÉ TODO, ME VOY EN PAZ”",
+      "dueAt": "2026-10-06T20:25:00.000Z",
+      "bufferPostId": "6ac551ec544ff8353df8e635",
+      "createdAt": "2026-10-06T19:54:20.459Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTIwMjAwMDAsIlJJU0FTLCBERSBQQVVMIFkgRUwgTE9DTzogQVPDjSBGVUUgRUwgw5pMVElNTyBFTlRSRU5BTUlFTlRPIERFIE1FU1NJIENPTiBMQSBTRUxFQ0NJw5NOIl0": {
+      "account": "main",
+      "title": "RISAS, DE PAUL Y EL LOCO: ASÍ FUE EL ÚLTIMO ENTRENAMIENTO DE MESSI CON LA SELECCIÓN",
+      "dueAt": "2026-10-06T20:20:00.000Z",
+      "bufferPostId": "6ac551eb9b4b7d7d77d5e8b4",
+      "createdAt": "2026-10-06T19:54:20.074Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTE5NjAwMDAsIlNDQUxPTkkgUFJFUEFSQSBVTkEgRk9STUFDScOTTiBDT04gTE9TIEhJU1TDk1JJQ09TIFBBUkEgRUwgw5pMVElNTyBQQVJUSURPIERFIE1FU1NJIl0": {
+      "account": "main",
+      "title": "SCALONI PREPARA UNA FORMACIÓN CON LOS HISTÓRICOS PARA EL ÚLTIMO PARTIDO DE MESSI",
+      "dueAt": "2026-10-06T20:15:00.000Z",
+      "bufferPostId": "6ac551eb299f8672071d35d3",
+      "createdAt": "2026-10-06T19:54:19.599Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTE5MDAwMDAsIkxBIERFU1BFRElEQSBERSBNRVNTSSBURU5EUsOBIEEgVkFSSU9TIENBTVBFT05FUyBFTiBFTCBNT05VTUVOVEFMIFkgQVVTRU5DSUFTIERFIFBFU08iXQ": {
+      "account": "main",
+      "title": "LA DESPEDIDA DE MESSI TENDRÁ A VARIOS CAMPEONES EN EL MONUMENTAL Y AUSENCIAS DE PESO",
+      "dueAt": "2026-10-06T20:10:00.000Z",
+      "bufferPostId": "6ac551eb299f8672071d35aa",
+      "createdAt": "2026-10-06T19:54:19.321Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTE4NDAwMDAsIk3DgVMgREUgTUlMIEVGRUNUSVZPUyBDVVNUT0RJQVLDgU4gTEEgREVTUEVESURBIERFIE1FU1NJIFkgRUwgRkFOIEZFU1QiXQ": {
+      "account": "main",
+      "title": "MÁS DE MIL EFECTIVOS CUSTODIARÁN LA DESPEDIDA DE MESSI Y EL FAN FEST",
+      "dueAt": "2026-10-06T20:05:00.000Z",
+      "bufferPostId": "6ac551ea9b4b7d7d77d5e850",
+      "createdAt": "2026-10-06T19:54:18.796Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTE3ODAwMDAsIk1FU1NJIENJRVJSQSBVTkEgRVJBOiAyMSBBw5FPUywgVU4gTUVTIFkgMjAgRMONQVMgQ09OIExBIFNFTEVDQ0nDk04iXQ": {
+      "account": "main",
+      "title": "MESSI CIERRA UNA ERA: 21 AÑOS, UN MES Y 20 DÍAS CON LA SELECCIÓN",
+      "dueAt": "2026-10-06T20:00:00.000Z",
+      "bufferPostId": "6ac551ea535ade2f59d1b86c",
+      "createdAt": "2026-10-06T19:54:18.257Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU4MDAwMDAsIuKAnEVMIMOaTFRJTU8gVEFOR0_igJ06IEVMIFZJREVPIE9GSUNJQUwgREUgQUZBIFBBUkEgREVTUEVESVIgQSBNRVNTSSJd": {
       "account": "main",
       "title": "“EL ÚLTIMO TANGO”: EL VIDEO OFICIAL DE AFA PARA DESPEDIR A MESSI",
       "dueAt": "2026-10-06T19:45:00.000Z",
       "bufferPostId": "6ac54e93e0e7ba24e07a2e15",
-      "createdAt": "2026-10-06T19:40:04.087Z"
+      "createdAt": "2026-10-06T19:40:04.087Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107557767745622518",
+      "sentAt": "2026-10-06T19:45:03.320Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU3NDAwMDAsIkxBUyBFTlRSQURBUyBQQVJBIExBIERFU1BFRElEQSBERSBNRVNTSSBTRSBBR09UQVJPTiBFTiA5MCBNSU5VVE9TIl0": {
       "account": "main",
@@ -4387,8 +4466,8 @@
     }
   },
   "nextAt": {
-    "f1": "2026-10-06T00:30:00.000Z",
-    "main": "2026-10-06T19:50:00.000Z"
+    "f1": "2026-10-06T20:05:00.000Z",
+    "main": "2026-10-06T20:50:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
