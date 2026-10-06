@@ -1,13 +1,8 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-06T02:28:16.988Z",
+  "updatedAt": "2026-10-06T02:54:58.985Z",
   "trends": [
-    {
-      "query": "despedida de messi",
-      "startedAt": "2026-10-06T00:00:00.000Z",
-      "volume": 5000
-    },
     {
       "query": "medellín - santa fe",
       "startedAt": "2026-10-06T00:00:00.000Z",
@@ -19,19 +14,24 @@
       "volume": 50000
     },
     {
+      "query": "argentina mañana",
+      "startedAt": "2026-10-05T23:30:00.000Z",
+      "volume": 5000
+    },
+    {
       "query": "nacional - torque",
       "startedAt": "2026-10-05T23:10:00.000Z",
       "volume": 1000
     },
     {
-      "query": "velez",
-      "startedAt": "2026-10-05T22:10:00.000Z",
-      "volume": 10000
-    },
-    {
       "query": "claudia villafañe",
       "startedAt": "2026-10-05T22:00:00.000Z",
       "volume": 5000
+    },
+    {
+      "query": "vélez - platense",
+      "startedAt": "2026-10-05T21:40:00.000Z",
+      "volume": 50000
     },
     {
       "query": "estudiantes - gimnasia y esgrima",
