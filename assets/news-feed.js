@@ -292,12 +292,12 @@
  function readNews(text){
   const [first,...rows]=parseCSV(text);if(!first)throw new Error('CSV sin encabezados');
   const keys=first.map(normalize);if(!required.every(k=>keys.includes(k)))throw new Error('Encabezados inválidos');
-  const available=new Map();rows.forEach(values=>{const sport=(values[keys.indexOf('categoria')]||'').trim();if(!sport)return;let key=normalize(sport);key=({'otros deportes':'otros','formula 1':'f1','formula uno':'f1','futbol argentino':'futbol'})[key]||key;available.set(key,key==='seleccion'?'Selección Argentina':sport);});
+  const available=new Map();rows.forEach(values=>{const sport=(values[keys.indexOf('categoria')]||'').trim();if(!sport)return;let key=normalize(sport);key=({'otros deportes':'otros','formula 1':'f1','formula uno':'f1','futbol argentino':'futbol','seleccion argentina':'seleccion'})[key]||key;available.set(key,key==='seleccion'?'Selección Argentina':sport);});
   document.dispatchEvent(new CustomEvent('ranasports:categories',{detail:[...available]}));
   return rows.flatMap(values=>{
    if(values.length!==keys.length)return [];
    const row=Object.fromEntries(keys.map((k,i)=>[k,(values[i]||'').trim()]));if(normalize(row.publicar)!=='si')return [];
-   let category=normalize(row.categoria);category=({'otros deportes':'otros','formula 1':'f1','formula uno':'f1','futbol argentino':'futbol'})[category]||category;
+   let category=normalize(row.categoria);category=({'otros deportes':'otros','formula 1':'f1','formula uno':'f1','futbol argentino':'futbol','seleccion argentina':'seleccion'})[category]||category;
    const date=timestamp(row.fecha,row.hora);if(!category||!row.titulo||!row.resumen||date===null)return [];
    const video=imageDataURL(row['url video'])||safeURL(row['url video']);const hasYouTubeVideo=!!youtubeEmbedURL(video),hasFormula1Video=!!formula1EmbedURL(video),hasXPost=isXPost(video),hasVideo=!!video&&!hasXPost,hasEmbed=!!video;
    const eventText=normalize([row.categoria,row.titulo,row.resumen,row.fuente,row['url fuente']].filter(Boolean).join(' '));const isSuramericanos=/(juegos suramericanos|santa fe 2026|santafe2026)/.test(eventText);
