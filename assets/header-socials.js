@@ -22,9 +22,22 @@
       html[data-theme="light"] .rs-header-x{color:#050505!important}
       html[data-theme="light"] .rs-header-social{background:transparent!important;border:0!important;box-shadow:none!important}
       @media(max-width:699px){
-        .rs-header-socials{gap:7px;margin-left:auto}
-        .rs-header-social{width:32px!important;height:32px!important;min-width:32px!important}
-        .rs-header-x svg{width:20px;height:20px}.rs-header-youtube svg{width:25px;height:25px}
+        /* En celulares el encabezado debe priorizar marca, EN VIVO, tema y menú.
+           Las redes siguen disponibles en el sitio, pero no fuerzan un ancho mayor al viewport. */
+        .rs-header-socials{display:none!important}
+        .site-header .header-inner{max-width:100%!important;min-width:0!important;gap:6px!important}
+        .site-header .brand{flex:1 1 auto!important;min-width:0!important;max-width:100%!important;overflow:hidden!important}
+        .site-header .brand-copy{min-width:0!important;max-width:100%!important;overflow:hidden!important}
+        .site-header .brand-copy small{display:none!important}
+        .site-header .brand-copy b{font-size:18px!important;letter-spacing:-.8px!important}
+        .site-header .rs-live-btn{margin-left:0!important;flex:0 0 auto!important;padding:6px 8px!important;font-size:9px!important}
+        .site-header #installBtn{display:none!important}
+        .site-header .theme-toggle,.site-header .mobile-menu-button{flex:0 0 32px!important;width:32px!important;min-width:32px!important}
+      }
+      @media(max-width:360px){
+        .site-header .brand-frog{width:30px!important;height:28px!important}
+        .site-header .brand-copy b{font-size:16px!important}
+        .site-header .rs-live-btn{padding:5px 7px!important;font-size:8px!important}
       }
     `;
     document.head.append(s);
