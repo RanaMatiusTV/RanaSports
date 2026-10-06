@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODEyODAwMDAsIkVMIE1PTlVNRU5UQUwgU0UgVklTVEnDkyBERSBHQUxBIFBBUkEgTEEgw5pMVElNQSBGVU5DScOTTiBERSBNRVNTSSBDT04gTEEgU0VMRUNDScOTTiJd": {
+      "account": "main",
+      "title": "EL MONUMENTAL SE VISTIÓ DE GALA PARA LA ÚLTIMA FUNCIÓN DE MESSI CON LA SELECCIÓN",
+      "dueAt": "2026-10-06T10:35:00.000Z",
+      "bufferPostId": "6ac4cd02f3da78683bb76bbc",
+      "createdAt": "2026-10-06T10:27:14.729Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODEyMjAwMDAsIk9UQU1FTkRJIFNFIERFU1BJREnDkyBERSBMT1MgRU5UUkVOQU1JRU5UT1MgQ09OIExBIFNFTEVDQ0nDk046IOKAnFNFIENJRVJSQSBVTkEgUEFSVEUgRU5PUk1FIERFIE1JIFZJREHigJ0iXQ": {
+      "account": "main",
+      "title": "OTAMENDI SE DESPIDIÓ DE LOS ENTRENAMIENTOS CON LA SELECCIÓN: “SE CIERRA UNA PARTE ENORME DE MI VIDA”",
+      "dueAt": "2026-10-06T10:30:00.000Z",
+      "bufferPostId": "6ac4cd015eb2d92e7a5ec0e3",
+      "createdAt": "2026-10-06T10:27:14.006Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyNDY5MDAwMDAsIlJPU0FSSU8gREVTUExFR8OTIFVOQSBDQU1JU0VUQSBHSUdBTlRFIENPTiBVTiDigJxHUkFDSUFT4oCdIFBBUkEgTUVTU0kiXQ": {
       "account": "main",
       "title": "ROSARIO DESPLEGÓ UNA CAMISETA GIGANTE CON UN “GRACIAS” PARA MESSI",
@@ -3784,7 +3798,7 @@
   },
   "nextAt": {
     "f1": "2026-10-06T00:30:00.000Z",
-    "main": "2026-10-06T08:25:00.000Z"
+    "main": "2026-10-06T10:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
