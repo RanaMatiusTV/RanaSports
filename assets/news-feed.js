@@ -13,7 +13,7 @@
   'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?gid=663081286&single=true&output=csv',
   'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv'
  ];
- const CACHE_KEY='ranasports-news-csv-v110:'+siteBase.pathname;
+ const CACHE_KEY='ranasports-news-csv-v111:'+siteBase.pathname;
  const REVOKED_ARTICLE_IDS=new Set(['WyJpbmRlcGVuZGllbnRlIiwxNzkwMzY0OTAwMDAwLCJEVVJPIEdPTFBFIFBBUkEgSU5ERVBFTkRJRU5URTogRkVSUk8gTEUgR0FOw5MgRU4gVklMTEEgRE9Nw41OSUNPIFBPUiBFTCBDTEFVU1VSQSBGRU1FTklOTyJd']);
  const status=document.querySelector('#newsStatus');
  const searchInput=document.querySelector('#searchInput');
@@ -388,7 +388,9 @@
   const protectedRecent=previous.filter(item=>(item.date||0)>freshMax&&!seen.has(newsIdentity(item)));
   return {news:[...fresh,...protectedRecent].sort((a,b)=>b.date-a.date),regressed:protectedRecent.length>0};
  }
- try{const cached=localStorage.getItem(CACHE_KEY);if(cached!==null){const cachedNews=readNews(cached);lastGoodNews=cachedNews;render(cachedNews);snapshot=true;}}catch{}
+ // The homepage can paint its cached snapshot immediately, but article pages wait
+ // for a fresh feed so newly-added embeds never get hidden by stale localStorage.
+ try{const cached=localStorage.getItem(CACHE_KEY);if(cached!==null&&!detail){const cachedNews=readNews(cached);lastGoodNews=cachedNews;render(cachedNews);snapshot=true;}}catch{}
  async function fetchFeed(baseURL,index,signal){
   try{
    const requestURL=baseURL+(baseURL.includes('?')?'&':'?')+'_='+Date.now();
@@ -424,7 +426,27 @@
     if(detail&&!findRequested(lastGoodNews)){const archived=await fetchArchivedRequested();if(archived){detailLookupSettled=true;render([archived]);lastGoodNews=[archived];snapshot=true;return;}}
     if(!snapshot)throw new Error('CSV no disponible');detailLookupSettled=true;if(detail)render(lastGoodNews);return;
    }
-   const fresh=authority.news.sort((a,b)=>b.date-a.date);
+   // Enrich the chosen feed with missing media from the other live source.
+   // This prevents a short Google/GitHub sync lag from hiding a newly-added embed.
+   const enrichMedia=(base)=>{
+    const alternates=attempts.filter(a=>a!==authority).map(a=>new Map(a.news.map(item=>[newsIdentity(item),item])));
+    return base.map(item=>{
+     const merged={...item};
+     for(const map of alternates){
+      const alt=map.get(newsIdentity(item));if(!alt)continue;
+      if(!merged.video&&alt.video)merged.video=alt.video;
+      if(!merged.image&&alt.image)merged.image=alt.image;
+      if(!merged.extraImage&&alt.extraImage)merged.extraImage=alt.extraImage;
+     }
+     merged.hasYouTubeVideo=!!youtubeEmbedURL(merged.video);
+     merged.hasFormula1Video=!!formula1EmbedURL(merged.video);
+     merged.hasXPost=isXPost(merged.video);
+     merged.hasVideo=!!merged.video&&!merged.hasXPost;
+     merged.hasEmbed=!!merged.video;
+     return merged;
+    });
+   };
+   const fresh=enrichMedia(authority.news.sort((a,b)=>b.date-a.date));
    // Keep already-visible newer stories if any upstream source briefly lags.
    const protectedFeed=protectAgainstFeedRegression(fresh,lastGoodNews);
    let news=protectedFeed.news;
