@@ -1,75 +1,102 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU4MDAwMDAsIuKAnEVMIMOaTFRJTU8gVEFOR0_igJ06IEVMIFZJREVPIE9GSUNJQUwgREUgQUZBIFBBUkEgREVTUEVESVIgQSBNRVNTSSJd": {
+      "account": "main",
+      "title": "“EL ÚLTIMO TANGO”: EL VIDEO OFICIAL DE AFA PARA DESPEDIR A MESSI",
+      "dueAt": "2026-10-06T19:45:00.000Z",
+      "bufferPostId": "6ac54e93e0e7ba24e07a2e15",
+      "createdAt": "2026-10-06T19:40:04.087Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU3NDAwMDAsIkxBUyBFTlRSQURBUyBQQVJBIExBIERFU1BFRElEQSBERSBNRVNTSSBTRSBBR09UQVJPTiBFTiA5MCBNSU5VVE9TIl0": {
       "account": "main",
       "title": "LAS ENTRADAS PARA LA DESPEDIDA DE MESSI SE AGOTARON EN 90 MINUTOS",
       "dueAt": "2026-10-06T18:35:00.000Z",
       "bufferPostId": "6ac53483d2a44aef5fd84fc0",
-      "createdAt": "2026-10-06T17:48:51.704Z"
+      "createdAt": "2026-10-06T17:48:51.704Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107540153593934138",
+      "sentAt": "2026-10-06T18:35:03.775Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU2ODAwMDAsIkVMIFJFR0FMTyBERUwgUExBTlRFTCBQQVJBIE1FU1NJOiBVTkEgQ0FNSVNFVEEgRklSTUFEQSBZIE1FTlNBSkVTIERFIEFNT1IiXQ": {
       "account": "main",
       "title": "EL REGALO DEL PLANTEL PARA MESSI: UNA CAMISETA FIRMADA Y MENSAJES DE AMOR",
       "dueAt": "2026-10-06T18:30:00.000Z",
       "bufferPostId": "6ac534830231af6af7bc5633",
-      "createdAt": "2026-10-06T17:48:51.153Z"
+      "createdAt": "2026-10-06T17:48:51.153Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107538959676879154",
+      "sentAt": "2026-10-06T18:30:19.120Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU2MjAwMDAsIkPDk01PIFZFUiBMQSBERVNQRURJREEgREUgTUVTU0kgUE9SIFRWIFkgU1RSRUFNSU5HIEVOIEFSR0VOVElOQSJd": {
       "account": "main",
       "title": "CÓMO VER LA DESPEDIDA DE MESSI POR TV Y STREAMING EN ARGENTINA",
       "dueAt": "2026-10-06T18:25:00.000Z",
       "bufferPostId": "6ac53482384c7a8a1588c521",
-      "createdAt": "2026-10-06T17:48:50.755Z"
+      "createdAt": "2026-10-06T17:48:50.755Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107537640366977051",
+      "sentAt": "2026-10-06T18:25:04.527Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU1NjAwMDAsIkRFIExBIFBBVEVSTkFMIEEgTEEgR0xPUklBOiBESUVaIE1PTUVOVE9TIFFVRSBNQVJDQVJPTiBMQSBISVNUT1JJQSBERSBNRVNTSSBFTiBMQSBTRUxFQ0NJw5NOIl0": {
       "account": "main",
       "title": "DE LA PATERNAL A LA GLORIA: DIEZ MOMENTOS QUE MARCARON LA HISTORIA DE MESSI EN LA SELECCIÓN",
       "dueAt": "2026-10-06T18:20:00.000Z",
       "bufferPostId": "6ac534816cefee849320008e",
-      "createdAt": "2026-10-06T17:48:49.768Z"
+      "createdAt": "2026-10-06T17:48:49.768Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107536386790154454",
+      "sentAt": "2026-10-06T18:20:05.722Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU1MDAwMDAsIkVMIERFQlVUIERFIE1FU1NJIERVUsOTIDQ1IFNFR1VORE9TIFkgU0NBTE9OSSBGVUUgRUwgUFJJTUVSTyBFTiBERUZFTkRFUkxPIl0": {
       "account": "main",
       "title": "EL DEBUT DE MESSI DURÓ 45 SEGUNDOS Y SCALONI FUE EL PRIMERO EN DEFENDERLO",
       "dueAt": "2026-10-06T18:15:00.000Z",
       "bufferPostId": "6ac534800231af6af7bc540d",
-      "createdAt": "2026-10-06T17:48:48.946Z"
+      "createdAt": "2026-10-06T17:48:48.946Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107535157737484620",
+      "sentAt": "2026-10-06T18:15:12.595Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU0NDAwMDAsIkRJIE1BUsONQSBFU1RBUsOBIEVOIEVMIE1PTlVNRU5UQUwgWSBWRVLDgSBMQSBERVNQRURJREEgREUgTUVTU0kgREVTREUgQUZVRVJBIl0": {
       "account": "main",
       "title": "DI MARÍA ESTARÁ EN EL MONUMENTAL Y VERÁ LA DESPEDIDA DE MESSI DESDE AFUERA",
       "dueAt": "2026-10-06T18:10:00.000Z",
       "bufferPostId": "6ac5348061c22f8369bf0fa1",
-      "createdAt": "2026-10-06T17:48:48.318Z"
+      "createdAt": "2026-10-06T17:48:48.318Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107533859059310778",
+      "sentAt": "2026-10-06T18:10:03.029Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODk5MjAwMDAsIkxBIEZJRkEgREVTUElEScOTIEEgTUVTU0kgQ09OIFVOIEVNT1RJVk8gVklERU8gQU5URVMgREUgU1Ugw5pMVElNTyBQQVJUSURPIl0": {
       "account": "main",
       "title": "LA FIFA DESPIDIÓ A MESSI CON UN EMOTIVO VIDEO ANTES DE SU ÚLTIMO PARTIDO",
       "dueAt": "2026-10-06T18:05:00.000Z",
       "bufferPostId": "6ac5347fd2a44aef5fd84f1c",
-      "createdAt": "2026-10-06T17:48:47.694Z"
+      "createdAt": "2026-10-06T17:48:47.694Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107532605704843343",
+      "sentAt": "2026-10-06T18:05:04.290Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODk4NjAwMDAsIk9QRVJBVElWTyBFU1BFQ0lBTCBFTiBOw5rDkUVaIFBPUiBNRVNTSTogQ09SVEVTIFkgU1VCVEUgRCBIQVNUQSBMQSAxOjMwIl0": {
       "account": "main",
       "title": "OPERATIVO ESPECIAL EN NÚÑEZ POR MESSI: CORTES Y SUBTE D HASTA LA 1:30",
       "dueAt": "2026-10-06T18:00:00.000Z",
       "bufferPostId": "6ac5347f8815e4f757068c83",
-      "createdAt": "2026-10-06T17:48:47.339Z"
+      "createdAt": "2026-10-06T17:48:47.339Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107531353575051734",
+      "sentAt": "2026-10-06T18:00:05.832Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODk4MDAwMDAsIlVOQSBWRVJTScOTTiBJVEFMSUFOQSBBU0VHVVJBIFFVRSBNRVNTSSBOTyBRVUVSw41BIEpVR0FSIFNVIFBBUlRJRE8gSE9NRU5BSkUiXQ": {
       "account": "main",
       "title": "UNA VERSIÓN ITALIANA ASEGURA QUE MESSI NO QUERÍA JUGAR SU PARTIDO HOMENAJE",
       "dueAt": "2026-10-06T17:55:00.000Z",
       "bufferPostId": "6ac5347e0231af6af7bc53a8",
-      "createdAt": "2026-10-06T17:48:47.013Z"
+      "createdAt": "2026-10-06T17:48:47.013Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107530079601320304",
+      "sentAt": "2026-10-06T17:55:02.033Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODk3NDAwMDAsIlRFTEVGRSBDQU1CScOTIENBU0kgVE9EQSBTVSBQUk9HUkFNQUNJw5NOIFBPUiBMQSBERVNQRURJREEgREUgTUVTU0kiXQ": {
       "account": "main",
       "title": "TELEFE CAMBIÓ CASI TODA SU PROGRAMACIÓN POR LA DESPEDIDA DE MESSI",
       "dueAt": "2026-10-06T17:50:00.000Z",
       "bufferPostId": "6ac5347e8815e4f757068c04",
-      "createdAt": "2026-10-06T17:48:46.510Z"
+      "createdAt": "2026-10-06T17:48:46.510Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107528827874210059",
+      "sentAt": "2026-10-06T17:50:03.594Z"
     },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODk2ODAwMDAsIkFOVE9ORUxBIFBBTFBJVMOTIExBIERFU1BFRElEQSBERSBNRVNTSSBZIE1PU1RSw5MgTEEgQ0FNSVNFVEEgRVNQRUNJQUwiXQ": {
       "account": "main",
@@ -4361,7 +4388,7 @@
   },
   "nextAt": {
     "f1": "2026-10-06T00:30:00.000Z",
-    "main": "2026-10-06T18:40:00.000Z"
+    "main": "2026-10-06T19:50:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
