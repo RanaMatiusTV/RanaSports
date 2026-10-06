@@ -1,6 +1,20 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyNDY5MDAwMDAsIlJPU0FSSU8gREVTUExFR8OTIFVOQSBDQU1JU0VUQSBHSUdBTlRFIENPTiBVTiDigJxHUkFDSUFT4oCdIFBBUkEgTUVTU0kiXQ": {
+      "account": "main",
+      "title": "ROSARIO DESPLEGÓ UNA CAMISETA GIGANTE CON UN “GRACIAS” PARA MESSI",
+      "dueAt": "2026-10-06T08:20:00.000Z",
+      "bufferPostId": "6ac4ad2ab0effcd6ca4ff249",
+      "createdAt": "2026-10-06T08:11:22.748Z"
+    },
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyNDU1MjAwMDAsIlRBR0xJQUZJQ08gRlVFIEFVVE9DUsONVElDTyBDT04gTEEgRklOQUwgREVMIE1VTkRJQUw6IOKAnE5PIEZVSU1PUyBMQSBTRUxFQ0NJw5NOIFFVRSBDT05PQ8ONQSBUT0RPIEVMIE1VTkRP4oCdIl0": {
+      "account": "main",
+      "title": "TAGLIAFICO FUE AUTOCRÍTICO CON LA FINAL DEL MUNDIAL: “NO FUIMOS LA SELECCIÓN QUE CONOCÍA TODO EL MUNDO”",
+      "dueAt": "2026-10-06T08:15:00.000Z",
+      "bufferPostId": "6ac4ad29d807824c4fcd89c2",
+      "createdAt": "2026-10-06T08:11:22.155Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTIzOTIyMDAwMCwiQk9UVEFTIFVOScOTIFNFUEFORyBZIFNJTkdBUFVSIEVOIEJJQ0lDTEVUQSBUUkFTIEVMIEdSQU4gUFJFTUlPIERFIE1BTEFTSUEiXQ": {
       "account": "f1",
       "title": "BOTTAS UNIÓ SEPANG Y SINGAPUR EN BICICLETA TRAS EL GRAN PREMIO DE MALASIA",
@@ -3770,7 +3784,7 @@
   },
   "nextAt": {
     "f1": "2026-10-06T00:30:00.000Z",
-    "main": "2026-10-06T00:25:00.000Z"
+    "main": "2026-10-06T08:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
