@@ -247,14 +247,22 @@
   wrap.append(img);container.append(wrap);return true;
  }
  function renderLinkEmbed(container,url){
-  return false;
+  const href=safeURL(url);
+  if(!href||container.querySelector('.video-embed,.x-embed,.image-embed,.external-embed-card'))return false;
+  let domain='Fuente externa';
+  try{domain=new URL(href).hostname.replace(/^www\./,'');}catch{}
+  const card=link(href,'','external-embed-card');
+  card.setAttribute('aria-label','Abrir contenido relacionado en '+domain);
+  card.append(element('strong','','Contenido relacionado'),element('span','',domain+' · Abrir fuente'));
+  container.append(card);
+  return true;
  }
  function renderEmbed(container,url){
   if(container.querySelector('.video-embed,.x-embed,.image-embed,.external-embed-card'))return false;
   if(imageEmbedURL(url))return renderImageEmbed(container,url);
   if(isXPost(url))return renderXPost(container,url);
   if(videoEmbedURL(url))return renderVideo(container,url);
-  return false;
+  return renderLinkEmbed(container,url);
  }
  function renderSupplementalImage(container,url){
   if(!imageDataURL(url)||container.querySelector('.supplemental-image'))return false;
