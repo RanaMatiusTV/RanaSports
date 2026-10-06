@@ -377,6 +377,8 @@
  let snapshot=false,busy=false;
  let lastGoodNews=[];
  const newsIdentity=item=>item.category+'\n'+item.date+'\n'+item.title;
+ const newsSignature=item=>[newsIdentity(item),item.summary,item.note,item.image,item.video,item.extraImage,item.featured?'1':'0',item.photoCredit,item.imageStatus].join('\n');
+ const sameNewsFeed=(a,b)=>a.length===b.length&&a.every((item,index)=>newsSignature(item)===newsSignature(b[index]));
  function protectAgainstFeedRegression(fresh,previous){
   if(!previous.length)return {news:fresh,regressed:false};
   const freshMax=fresh.reduce((max,item)=>Math.max(max,item.date||0),0);
@@ -406,16 +408,10 @@
   }
   const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),8000);
   try{
+   // Resolve the candidate feeds first. Never paint an intermediate source:
+   // doing so made the homepage briefly show a different set of stories.
    const fastPromise=fetchFeed(CSV_URLS[0],0,controller.signal);
    const primaryPromise=fetchFeed(CSV_URLS[1],1,controller.signal);
-   const requireFeed=p=>p.then(value=>{if(!value)throw new Error('feed');return value;});
-   let first=null;
-   try{first=await Promise.any([requireFeed(fastPromise),requireFeed(primaryPromise)]);}catch{}
-   if(first){
-    const firstNews=first.news.sort((a,b)=>b.date-a.date);
-    render(firstNews);lastGoodNews=firstNews;snapshot=true;
-    if(status&&(!detail||detailLookupSettled)){status.textContent='';status.hidden=true;}
-   }
    const [fastAttempt,primaryAttempt]=await Promise.all([fastPromise,primaryPromise]);
    let attempts=[fastAttempt,primaryAttempt].filter(Boolean);
    if(!primaryAttempt){
@@ -429,10 +425,14 @@
     if(!snapshot)throw new Error('CSV no disponible');detailLookupSettled=true;if(detail)render(lastGoodNews);return;
    }
    const fresh=authority.news.sort((a,b)=>b.date-a.date);
-   const protectedFeed=(authority.index===0||authority.index===1)?{news:fresh,regressed:false}:protectAgainstFeedRegression(fresh,lastGoodNews);
+   // Keep already-visible newer stories if any upstream source briefly lags.
+   const protectedFeed=protectAgainstFeedRegression(fresh,lastGoodNews);
    let news=protectedFeed.news;
    if(detail&&!findRequested(news)){const archived=await fetchArchivedRequested();if(archived)news=[archived];}
-   detailLookupSettled=true;render(news);lastGoodNews=news;snapshot=true;
+   detailLookupSettled=true;
+   const changed=!snapshot||!sameNewsFeed(news,lastGoodNews);
+   if(changed)render(news);
+   lastGoodNews=news;snapshot=true;
    if(!protectedFeed.regressed){try{localStorage.setItem(CACHE_KEY,authority.text);}catch{}}
    if(status){status.textContent=protectedFeed.regressed?'Sincronizando: se conservan las noticias más nuevas mientras Google actualiza la planilla.':'';status.hidden=!protectedFeed.regressed;}
   }catch{
