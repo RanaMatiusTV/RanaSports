@@ -5,6 +5,7 @@
  if(!grid&&!detail&&!document.querySelector('.dynamic-nav'))return;
  const script=document.querySelector('script[src*="assets/news-feed.js"]');
  const siteBase=new URL('../',script?.src||location.href);
+ const ARCHIVE_URL=new URL('assets/news-archive.csv',siteBase).href;
  const CSV_URLS=[
   new URL('assets/news-live.csv',siteBase).href,
   'https://docs.google.com/spreadsheets/d/12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4/gviz/tq?tqx=out:csv&sheet=Noticias',
@@ -314,8 +315,19 @@
   imageWithFallback(img,primary,candidates,()=>{figure.remove();queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));});
   figure.append(img);if(caption)figure.append(caption);detail.append(figure);
  }
+ function requestedArticleId(){return new URL(location.href).searchParams.get('n')||'';}
+ function findRequested(news){const requested=requestedArticleId();return news.find(x=>new URL(articleURL(x)).searchParams.get('n')===requested)||null;}
+ async function fetchArchivedRequested(){
+  if(!detail)return null;
+  try{
+   const response=await fetch(ARCHIVE_URL+(ARCHIVE_URL.includes('?')?'&':'?')+'_='+Date.now(),{cache:'no-store',credentials:'omit'});
+   if(!response.ok)return null;
+   const archived=readNews(await response.text());
+   return findRequested(archived);
+  }catch{return null;}
+ }
  function renderDetail(news){
-  const requested=new URL(location.href).searchParams.get('n');const item=news.find(x=>new URL(articleURL(x)).searchParams.get('n')===requested);detail.replaceChildren();
+  const item=findRequested(news);detail.replaceChildren();
   if(!item){
    if(!detailLookupSettled){if(status){status.hidden=false;status.textContent='Cargando noticia…';}return;}
    if(status){status.textContent='';status.hidden=true;}
@@ -412,10 +424,14 @@
    }
    const preferred=[1,0,2,3,4];
    const authority=attempts.sort((a,b)=>(b.max-a.max)||(preferred.indexOf(a.index)-preferred.indexOf(b.index)))[0];
-   if(!authority){if(!snapshot)throw new Error('CSV no disponible');detailLookupSettled=true;if(detail)render(lastGoodNews);return;}
+   if(!authority){
+    if(detail&&!findRequested(lastGoodNews)){const archived=await fetchArchivedRequested();if(archived){detailLookupSettled=true;render([archived]);lastGoodNews=[archived];snapshot=true;return;}}
+    if(!snapshot)throw new Error('CSV no disponible');detailLookupSettled=true;if(detail)render(lastGoodNews);return;
+   }
    const fresh=authority.news.sort((a,b)=>b.date-a.date);
    const protectedFeed=(authority.index===0||authority.index===1)?{news:fresh,regressed:false}:protectAgainstFeedRegression(fresh,lastGoodNews);
-   const news=protectedFeed.news;
+   let news=protectedFeed.news;
+   if(detail&&!findRequested(news)){const archived=await fetchArchivedRequested();if(archived)news=[archived];}
    detailLookupSettled=true;render(news);lastGoodNews=news;snapshot=true;
    if(!protectedFeed.regressed){try{localStorage.setItem(CACHE_KEY,authority.text);}catch{}}
    if(status){status.textContent=protectedFeed.regressed?'Sincronizando: se conservan las noticias más nuevas mientras Google actualiza la planilla.':'';status.hidden=!protectedFeed.regressed;}
