@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-06T10:15:23.935Z",
+  "updatedAt": "2026-10-06T16:49:57.791Z",
   "trends": [
     {
-      "query": "joaquín levinton",
-      "startedAt": "2026-10-06T09:40:00.000Z",
+      "query": "peter lamelas",
+      "startedAt": "2026-10-06T16:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "rosario motorsport",
+      "startedAt": "2026-10-06T16:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "nicolás otamendi",
+      "startedAt": "2026-10-06T16:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "carlos alcaraz",
-      "startedAt": "2026-10-06T09:20:00.000Z",
-      "volume": 500
+      "query": "efemérides 6 de octubre",
+      "startedAt": "2026-10-06T16:00:00.000Z",
+      "volume": 100
     },
     {
-      "query": "día de la raza",
-      "startedAt": "2026-10-06T08:30:00.000Z",
-      "volume": 500
+      "query": "joaquín oviedo",
+      "startedAt": "2026-10-06T15:50:00.000Z",
+      "volume": 200
     },
     {
-      "query": "agustín canapino",
-      "startedAt": "2026-10-06T02:50:00.000Z",
-      "volume": 500
+      "query": "bebé",
+      "startedAt": "2026-10-06T15:40:00.000Z",
+      "volume": 200
     },
     {
-      "query": "posiciones de banfield contra rosario central",
-      "startedAt": "2026-10-06T02:20:00.000Z",
-      "volume": 50000
+      "query": "garayalde",
+      "startedAt": "2026-10-06T15:40:00.000Z",
+      "volume": 200
     },
     {
-      "query": "posiciones de club atlético vélez sarsfield contra platense",
-      "startedAt": "2026-10-06T00:10:00.000Z",
-      "volume": 100000
-    },
-    {
-      "query": "posiciones de estudiantes de la plata contra gimnasia de mendoza",
-      "startedAt": "2026-10-06T00:00:00.000Z",
-      "volume": 50000
-    },
-    {
-      "query": "medellín - santa fe",
-      "startedAt": "2026-10-06T00:00:00.000Z",
+      "query": "uruguay vs",
+      "startedAt": "2026-10-06T15:30:00.000Z",
       "volume": 1000
     },
     {
-      "query": "nacional - torque",
-      "startedAt": "2026-10-05T23:10:00.000Z",
-      "volume": 1000
+      "query": "insecto",
+      "startedAt": "2026-10-06T15:10:00.000Z",
+      "volume": 200
     },
     {
-      "query": "claudia villafañe",
-      "startedAt": "2026-10-05T22:00:00.000Z",
-      "volume": 5000
+      "query": "jordan pickford",
+      "startedAt": "2026-10-06T14:50:00.000Z",
+      "volume": 500
     }
   ]
 }
