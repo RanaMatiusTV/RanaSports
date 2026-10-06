@@ -1,7 +1,8 @@
 const fs = require('node:fs');
 
 const NEWS_PATH = 'assets/news-live.csv';
-const SITE_BASE = 'https://ranamatiustv.github.io/RanaSports/';
+const SITE_BASE = 'https://ranasports.com.ar/';
+const LEGACY_SITE_BASE = 'https://ranamatiustv.github.io/RanaSports/';
 const STATE_PATH = '.github/x-publish-state.json';
 const BUFFER_API = 'https://api.buffer.com';
 const SLOT_MS = 5 * 60 * 1000;
@@ -105,10 +106,17 @@ function canonicalCategory(raw) {
   })[c] || c;
 }
 
-function articleURL(item) {
+function articleId(item) {
   const identity = JSON.stringify([item.category, item.date, item.title]);
-  const id = Buffer.from(identity, 'utf8').toString('base64url');
-  return `${SITE_BASE}noticia.html?n=${id}`;
+  return Buffer.from(identity, 'utf8').toString('base64url');
+}
+
+function articleURL(item) {
+  return `${SITE_BASE}noticia.html?n=${articleId(item)}`;
+}
+
+function legacyArticleURL(item) {
+  return `${LEGACY_SITE_BASE}noticia.html?n=${articleId(item)}`;
 }
 
 function readNews(text) {
@@ -260,7 +268,7 @@ async function validateImage(url) {
       redirect: 'follow',
       signal: controller.signal,
       headers: {
-        'User-Agent': 'RanaSports/1.0 (+https://ranamatiustv.github.io/RanaSports/)',
+        'User-Agent': 'RanaSports/1.0 (+https://ranasports.com.ar/)',
         'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8'
       }
     });
@@ -420,7 +428,8 @@ async function main() {
     const account = accountFor(item);
     if (!account) return [];
     const url = articleURL(item);
-    if (state.processed[url]) return [];
+    const legacyUrl = legacyArticleURL(item);
+    if (state.processed[url] || state.processed[legacyUrl]) return [];
     return [{ item, account, url }];
   });
 
