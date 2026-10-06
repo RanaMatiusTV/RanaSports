@@ -1,6 +1,27 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDk4NDAwMDAsIkxBIFVCQSBESVNUSU5HVUnDkyBBIE1FU1NJIENPTU8gRE9DVE9SIEhPTk9SSVMgQ0FVU0EgQU5URVMgREUgU1UgREVTUEVESURBIl0": {
+      "account": "main",
+      "title": "LA UBA DISTINGUIÓ A MESSI COMO DOCTOR HONORIS CAUSA ANTES DE SU DESPEDIDA",
+      "dueAt": "2026-10-06T21:05:00.000Z",
+      "bufferPostId": "6ac556f4299f8672071e1fe7",
+      "createdAt": "2026-10-06T20:15:48.758Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI4MjAwMDAsIlZBTEVOQ0lBIExFIERJTyBQRVJNSVNPIEEgR1VJRE8gUk9EUsONR1VFWiBQQVJBIEVTVEFSIEVOIExBIERFU1BFRElEQSBERSBNRVNTSSJd": {
+      "account": "main",
+      "title": "VALENCIA LE DIO PERMISO A GUIDO RODRÍGUEZ PARA ESTAR EN LA DESPEDIDA DE MESSI",
+      "dueAt": "2026-10-06T21:00:00.000Z",
+      "bufferPostId": "6ac556f338b9e9d5545ee286",
+      "createdAt": "2026-10-06T20:15:47.835Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI3NjAwMDAsIkxBIERFU1BFRElEQSBERSBNRVNTSSBTRSBWRVLDgSBFTiBWSVZPIEVOIEJSQVNJTCBZIEFMRU1BTklBIl0": {
+      "account": "main",
+      "title": "LA DESPEDIDA DE MESSI SE VERÁ EN VIVO EN BRASIL Y ALEMANIA",
+      "dueAt": "2026-10-06T20:55:00.000Z",
+      "bufferPostId": "6ac556f1544ff8353df9d560",
+      "createdAt": "2026-10-06T20:15:46.075Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI3MDAwMDAsIlJJVkVSIEFVVE9SSVrDkyBBIFRISUFHTyBBTE1BREEgQSBFTlRSRU5BUlNFIENPTiBNRVNTSSBQRVNFIEEgU1UgTEVTScOTTiJd": {
       "account": "main",
       "title": "RIVER AUTORIZÓ A THIAGO ALMADA A ENTRENARSE CON MESSI PESE A SU LESIÓN",
@@ -64,21 +85,27 @@
       "title": "SCALONI PREPARA UNA FORMACIÓN CON LOS HISTÓRICOS PARA EL ÚLTIMO PARTIDO DE MESSI",
       "dueAt": "2026-10-06T20:15:00.000Z",
       "bufferPostId": "6ac551eb299f8672071d35d3",
-      "createdAt": "2026-10-06T19:54:19.599Z"
+      "createdAt": "2026-10-06T19:54:19.599Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107565316486185158",
+      "sentAt": "2026-10-06T20:15:03.047Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTE5MDAwMDAsIkxBIERFU1BFRElEQSBERSBNRVNTSSBURU5EUsOBIEEgVkFSSU9TIENBTVBFT05FUyBFTiBFTCBNT05VTUVOVEFMIFkgQVVTRU5DSUFTIERFIFBFU08iXQ": {
       "account": "main",
       "title": "LA DESPEDIDA DE MESSI TENDRÁ A VARIOS CAMPEONES EN EL MONUMENTAL Y AUSENCIAS DE PESO",
       "dueAt": "2026-10-06T20:10:00.000Z",
       "bufferPostId": "6ac551eb299f8672071d35aa",
-      "createdAt": "2026-10-06T19:54:19.321Z"
+      "createdAt": "2026-10-06T19:54:19.321Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107564054982046111",
+      "sentAt": "2026-10-06T20:10:02.324Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTE4NDAwMDAsIk3DgVMgREUgTUlMIEVGRUNUSVZPUyBDVVNUT0RJQVLDgU4gTEEgREVTUEVESURBIERFIE1FU1NJIFkgRUwgRkFOIEZFU1QiXQ": {
       "account": "main",
       "title": "MÁS DE MIL EFECTIVOS CUSTODIARÁN LA DESPEDIDA DE MESSI Y EL FAN FEST",
       "dueAt": "2026-10-06T20:05:00.000Z",
       "bufferPostId": "6ac551ea9b4b7d7d77d5e850",
-      "createdAt": "2026-10-06T19:54:18.796Z"
+      "createdAt": "2026-10-06T19:54:18.796Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107562795881398598",
+      "sentAt": "2026-10-06T20:05:02.140Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTE3ODAwMDAsIk1FU1NJIENJRVJSQSBVTkEgRVJBOiAyMSBBw5FPUywgVU4gTUVTIFkgMjAgRMONQVMgQ09OIExBIFNFTEVDQ0nDk04iXQ": {
       "account": "main",
@@ -4478,7 +4505,7 @@
   },
   "nextAt": {
     "f1": "2026-10-06T20:05:00.000Z",
-    "main": "2026-10-06T20:55:00.000Z"
+    "main": "2026-10-06T21:10:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
