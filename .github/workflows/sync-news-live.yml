@@ -60,8 +60,10 @@ jobs:
               return datetime.datetime.min
 
           data.sort(key=stamp, reverse=True)
-          data=data[:600]
-          incoming_max=max((stamp(r) for r in data), default=datetime.datetime.min)
+          archive='assets/news-archive.csv'
+          all_data=data
+          data=all_data[:600]
+          incoming_max=max((stamp(r) for r in all_data), default=datetime.datetime.min)
 
           existing_max=datetime.datetime.min
           if os.path.exists(dst):
@@ -74,20 +76,21 @@ jobs:
               print(f'Skip regression: incoming {incoming_max} < existing {existing_max}')
               sys.exit(0)
 
-          with open(dst+'.tmp','w',encoding='utf-8',newline='') as f:
-              w=csv.writer(f,lineterminator='\r\n')
-              w.writerow(header)
-              w.writerows(data)
-          os.replace(dst+'.tmp',dst)
-          print(f'Synced {len(data)} rows; newest={incoming_max}')
+          for target, rows_to_write in ((dst, data), (archive, all_data)):
+              with open(target+'.tmp','w',encoding='utf-8',newline='') as f:
+                  w=csv.writer(f,lineterminator='\r\n')
+                  w.writerow(header)
+                  w.writerows(rows_to_write)
+              os.replace(target+'.tmp',target)
+          print(f'Synced {len(data)} live rows and {len(all_data)} archive rows; newest={incoming_max}')
           PY
 
       - name: Commit only when feed changed
         shell: bash
         run: |
           set -euo pipefail
-          if git diff --quiet -- assets/news-live.csv; then
-            echo "No feed changes"
+          if git diff --quiet -- assets/news-live.csv assets/news-archive.csv; then
+            echo "No feed/archive changes"
             exit 0
           fi
 
@@ -98,17 +101,20 @@ jobs:
           # This prevents non-fast-forward failures when another workflow pushes
           # to main while this job is running.
           cp assets/news-live.csv /tmp/news-live.csv
+          cp assets/news-archive.csv /tmp/news-archive.csv
           git restore assets/news-live.csv
+          git restore assets/news-archive.csv 2>/dev/null || true
           git fetch origin main
           git reset --hard origin/main
           cp /tmp/news-live.csv assets/news-live.csv
+          cp /tmp/news-archive.csv assets/news-archive.csv
 
-          if git diff --quiet -- assets/news-live.csv; then
-            echo "Feed already present after refreshing main"
+          if git diff --quiet -- assets/news-live.csv assets/news-archive.csv; then
+            echo "Feed/archive already present after refreshing main"
             exit 0
           fi
 
-          git add assets/news-live.csv
+          git add assets/news-live.csv assets/news-archive.csv
           git commit -m "Auto-sync RanaSports news feed"
 
           # A second writer can still land between fetch and push. Retry safely.
@@ -118,14 +124,16 @@ jobs:
             fi
             echo "Push collision (attempt $attempt); refreshing main and retrying..."
             cp assets/news-live.csv /tmp/news-live.csv
+            cp assets/news-archive.csv /tmp/news-archive.csv
             git fetch origin main
             git reset --hard origin/main
             cp /tmp/news-live.csv assets/news-live.csv
-            if git diff --quiet -- assets/news-live.csv; then
-              echo "Feed already published by another run"
+            cp /tmp/news-archive.csv assets/news-archive.csv
+            if git diff --quiet -- assets/news-live.csv assets/news-archive.csv; then
+              echo "Feed/archive already published by another run"
               exit 0
             fi
-            git add assets/news-live.csv
+            git add assets/news-live.csv assets/news-archive.csv
             git commit -m "Auto-sync RanaSports news feed"
             sleep $((attempt * 2))
           done
