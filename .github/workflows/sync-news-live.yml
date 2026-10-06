@@ -41,10 +41,13 @@ jobs:
           if not rows or len(rows[0]) < 18 or rows[0][0].strip().lower() != 'publicar':
               raise SystemExit('Invalid Google Sheets CSV')
 
-          header=rows[0][:18]
+          # Keep optional editorial columns (Cuerpo / Contenido / Texto completo).
+          # The first 18 columns retain their existing meaning and positions.
+          header=rows[0]
+          width=len(header)
           data=[]
           for row in rows[1:]:
-              row=(row+['']*18)[:18]
+              row=(row+['']*width)[:width]
               if row[0].strip().upper()!='SI' or not row[4].strip():
                   continue
               data.append(row)

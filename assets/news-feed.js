@@ -302,7 +302,7 @@
    const date=timestamp(row.fecha,row.hora);if(!category||!row.titulo||!row.resumen||date===null)return [];
    const video=imageDataURL(row['url video'])||safeURL(row['url video']);const hasYouTubeVideo=!!youtubeEmbedURL(video),hasFormula1Video=!!formula1EmbedURL(video),hasXPost=isXPost(video),hasVideo=!!video&&!hasXPost,hasEmbed=!!video;
    const eventText=normalize([row.categoria,row.titulo,row.resumen,row.fuente,row['url fuente']].filter(Boolean).join(' '));const isSuramericanos=/(juegos suramericanos|santa fe 2026|santafe2026)/.test(eventText);
-   return [{category,group:Object.hasOwn(categories,category)?category:'otros',sport:category==='seleccion'?'Selección Argentina':row.categoria,isSuramericanos,photoCredit:row['credito foto']||'',imageStatus:normalize(row['estado imagen']||''),date,title:row.titulo,summary:row.resumen,note:safeURL(row['url nota']),image:imageURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video,extraImage:imageDataURL(row['url imagen candidata']),featured:normalize(row.destacada)==='si',hasYouTubeVideo,hasFormula1Video,hasVideo,hasXPost,hasEmbed}];
+   return [{category,group:Object.hasOwn(categories,category)?category:'otros',sport:category==='seleccion'?'Selección Argentina':row.categoria,isSuramericanos,photoCredit:row['credito foto']||'',imageStatus:normalize(row['estado imagen']||''),date,title:row.titulo,summary:row.resumen,body:row.cuerpo||row.contenido||row['texto completo']||'',note:safeURL(row['url nota']),image:imageURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video,extraImage:imageDataURL(row['url imagen candidata']),featured:normalize(row.destacada)==='si',hasYouTubeVideo,hasFormula1Video,hasVideo,hasXPost,hasEmbed}];
   }).sort((a,b)=>b.date-a.date);
  }
  function appendArticlePhoto(item){
@@ -326,6 +326,15 @@
    return findRequested(archived);
   }catch{return null;}
  }
+ // Preserve all supplied editorial text as plain text, never as executable HTML.
+ // Only remove an exact repeated lead at the beginning of the body.
+ function editorialParagraphs(item){
+  const split=text=>(text||'').split(/\r?\n\s*\r?\n/).map(p=>p.trim()).filter(Boolean);
+  const summary=split(item.summary),body=split(item.body);
+  const comparable=text=>text.replace(/\s+/g,' ').trim();
+  const repeated=summary.length&&body.length>=summary.length&&summary.every((p,i)=>comparable(p)===comparable(body[i]));
+  return [...summary,...(repeated?body.slice(summary.length):body)];
+ }
  function renderDetail(news){
   const item=findRequested(news);detail.replaceChildren();
   if(!item){
@@ -336,12 +345,19 @@
   detailLookupSettled=true;
   if(status){status.textContent='';status.hidden=true;}
   const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':'badge-site'),item.sport));const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);
-  detail.append(meta,element('h1','',item.title),element('p','article-meta','Creado por @RanaMatiusTV'));appendArticlePhoto(item);
-  const content=element('div','article-body');content.append(element('p','article-summary',item.summary));if(item.hasEmbed&&item.video!==item.image)renderEmbed(content,item.video);if(item.extraImage&&item.extraImage!==item.image&&item.extraImage!==item.video)renderSupplementalImage(content,item.extraImage);if(item.category==='f1'){const p=element('p');p.append(link('https://www.youtube.com/@RanaF1TV','🏎️ YouTube Rana F1','ghost-btn'));content.append(p);}detail.append(content);
+  const header=element('header','article-header'),heading=element('h1','',item.title);heading.id='articleTitle';
+  header.append(meta,heading,element('p','article-meta','Creado por @RanaMatiusTV · Medio asistido por IA'));detail.append(header);appendArticlePhoto(item);
+  const paragraphs=editorialParagraphs(item),articleText=paragraphs.join('\n\n');
+  const content=element('div','article-body');paragraphs.forEach((text,index)=>content.append(element('p',index===0?'article-summary':'article-paragraph',text)));
+  if(item.hasEmbed&&item.video!==item.image)renderEmbed(content,item.video);if(item.extraImage&&item.extraImage!==item.image&&item.extraImage!==item.video)renderSupplementalImage(content,item.extraImage);if(item.category==='f1'){const p=element('p');p.append(link('https://www.youtube.com/@RanaF1TV','🏎️ YouTube Rana F1','ghost-btn'));content.append(p);}detail.append(content);
+  const footer=element('footer','article-sources');
+  if(item.source||item.sourceURL){const p=element('p','','Fuente: ');p.append(item.sourceURL?link(item.sourceURL,item.source||'Consultar fuente original'):document.createTextNode(item.source));footer.append(p);}
+  if(item.note&&item.note!==articleURL(item)&&item.note!==item.sourceURL){const p=element('p');p.append(link(item.note,'Consultar la nota enlazada'));footer.append(p);}
+  const editorial=element('p');editorial.append(link(new URL('legal/politica-editorial.html',siteBase).href,'Política editorial'),' · ',link(new URL('legal/contacto.html',siteBase).href,'Solicitar una corrección'));footer.append(editorial);detail.append(footer);
   document.title=item.title+' | RanaSports';const canonical=articleURL(item);const canon=document.querySelector('link[rel="canonical"]');if(canon)canon.href=canonical;document.querySelector('meta[name="robots"]')?.setAttribute('content','index,follow');
   const socialImage=fallbackVisualCandidates(item)[0]||new URL('assets/icon-512.png',siteBase).href;
   const values={'description':item.summary.slice(0,160),'og:title':document.title,'og:description':item.summary.slice(0,160),'og:url':canonical,'og:image':socialImage};for(const [k,v] of Object.entries(values)){const q=k.startsWith('og:')?`meta[property="${k}"]`:`meta[name="${k}"]`;const n=document.querySelector(q);if(n)n.content=v;}
-  let schema=document.querySelector('#articleSchema');if(!schema){schema=element('script');schema.id='articleSchema';schema.type='application/ld+json';document.head.append(schema);}schema.textContent=JSON.stringify({'@context':'https://schema.org','@type':'NewsArticle',headline:item.title,datePublished:new Date(item.date).toISOString(),articleBody:item.summary,articleSection:item.sport,url:canonical,author:{'@type':'Person',name:'@RanaMatiusTV'},publisher:{'@type':'Organization',name:'RanaSports'},image:socialImage});
+  let schema=document.querySelector('#articleSchema');if(!schema){schema=element('script');schema.id='articleSchema';schema.type='application/ld+json';document.head.append(schema);}schema.textContent=JSON.stringify({'@context':'https://schema.org','@type':'NewsArticle',headline:item.title,description:item.summary.slice(0,160),datePublished:new Date(item.date).toISOString(),articleBody:articleText,articleSection:item.sport,inLanguage:'es-AR',mainEntityOfPage:{'@type':'WebPage','@id':canonical},url:canonical,author:{'@type':'Person',name:'@RanaMatiusTV',url:new URL('legal/acerca-de.html',siteBase).href},publisher:{'@type':'Organization',name:'RanaSports'},image:socialImage,...(item.sourceURL?{citation:item.sourceURL}:{})});
  }
  function matchesSearch(item,query){
   if(!query)return true;
@@ -377,7 +393,7 @@
  let snapshot=false,busy=false;
  let lastGoodNews=[];
  const newsIdentity=item=>item.category+'\n'+item.date+'\n'+item.title;
- const newsSignature=item=>[newsIdentity(item),item.summary,item.note,item.image,item.video,item.extraImage,item.featured?'1':'0',item.photoCredit,item.imageStatus].join('\n');
+ const newsSignature=item=>[newsIdentity(item),item.summary,item.body,item.source,item.sourceURL,item.note,item.image,item.video,item.extraImage,item.featured?'1':'0',item.photoCredit,item.imageStatus].join('\n');
  const sameNewsFeed=(a,b)=>a.length===b.length&&a.every((item,index)=>newsSignature(item)===newsSignature(b[index]));
  function protectAgainstFeedRegression(fresh,previous){
   if(!previous.length)return {news:fresh,regressed:false};
