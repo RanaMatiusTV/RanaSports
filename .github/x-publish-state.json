@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODU5NjAwMDAsIkxBIERFU1BFRElEQSBERSBNRVNTSSBZQSBUSUVORSBHUklMTEEgQ09NUExFVEE6IFRPRE9TIExPUyBTSE9XUyBZIEhPUkFSSU9TIl0": {
+      "account": "main",
+      "title": "LA DESPEDIDA DE MESSI YA TIENE GRILLA COMPLETA: TODOS LOS SHOWS Y HORARIOS",
+      "dueAt": "2026-10-06T11:35:00.000Z",
+      "bufferPostId": "6ac4dc4ac26b904b503bd186",
+      "createdAt": "2026-10-06T11:32:26.618Z"
+    },
     "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODEyODAwMDAsIkVMIE1PTlVNRU5UQUwgU0UgVklTVEnDkyBERSBHQUxBIFBBUkEgTEEgw5pMVElNQSBGVU5DScOTTiBERSBNRVNTSSBDT04gTEEgU0VMRUNDScOTTiJd": {
       "account": "main",
       "title": "EL MONUMENTAL SE VISTIÓ DE GALA PARA LA ÚLTIMA FUNCIÓN DE MESSI CON LA SELECCIÓN",
@@ -3798,7 +3805,7 @@
   },
   "nextAt": {
     "f1": "2026-10-06T00:30:00.000Z",
-    "main": "2026-10-06T10:40:00.000Z"
+    "main": "2026-10-06T11:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
