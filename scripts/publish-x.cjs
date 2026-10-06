@@ -1,6 +1,6 @@
 const fs = require('node:fs');
 
-const CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv';
+const NEWS_PATH = 'assets/news-live.csv';
 const SITE_BASE = 'https://ranamatiustv.github.io/RanaSports/';
 const STATE_PATH = '.github/x-publish-state.json';
 const BUFFER_API = 'https://api.buffer.com';
@@ -368,9 +368,8 @@ async function main() {
   state.buffer ||= {};
   const activation = Date.parse(state.activationAt || 0) || Date.now();
 
-  const csvResponse = await fetch(CSV_URL, { cache: 'no-store', headers: { 'User-Agent': 'RanaSports/1.0' } });
-  if (!csvResponse.ok) throw new Error(`No se pudo leer el CSV (${csvResponse.status})`);
-  const news = readNews(await csvResponse.text());
+  if (!fs.existsSync(NEWS_PATH)) throw new Error(`No existe ${NEWS_PATH}; no se publican enlaces sin respaldo en el portal`);
+  const news = readNews(fs.readFileSync(NEWS_PATH, 'utf8'));
 
   let candidates = news.flatMap(item => {
     if (item.date < activation) return [];
