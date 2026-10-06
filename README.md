@@ -1,7 +1,7 @@
 # RanaSports
 Portal deportivo creado por @RanaMatiusTV
 
-Sitio estático oficial: https://ranamatiustv.github.io/RanaSports/
+Sitio estático oficial: https://ranasports.com.ar/
 
 HTML, CSS y JavaScript sin dependencias, servicios pagos ni compilación. Diseño adaptable, búsqueda y filtros, agenda externa y PWA instalable por HTTPS. Las páginas y los iconos quedan disponibles sin conexión tras la primera visita. La agenda externa requiere Internet.
 
