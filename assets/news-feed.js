@@ -19,7 +19,7 @@
  const searchInput=document.querySelector('#searchInput');
  let currentNews=[];
  let detailLookupSettled=!detail;
- const INITIAL_RENDER_LIMIT=36,RENDER_PAGE_SIZE=36;
+ const INITIAL_RENDER_LIMIT=600,RENDER_PAGE_SIZE=600;
  let renderLimit=INITIAL_RENDER_LIMIT,loadMoreObserver=null;
  const categories={independiente:'Independiente',futbol:'Fútbol',f1:'F1',seleccion:'Selección Argentina',agenda:'Agenda'};
  const normalize=v=>(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase();
