@@ -89,7 +89,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          if git diff --quiet -- assets/news-live.csv assets/news-archive.csv; then
+          if [ -z "$(git status --porcelain -- assets/news-live.csv assets/news-archive.csv)" ]; then
             echo "No feed/archive changes"
             exit 0
           fi
@@ -109,7 +109,7 @@ jobs:
           cp /tmp/news-live.csv assets/news-live.csv
           cp /tmp/news-archive.csv assets/news-archive.csv
 
-          if git diff --quiet -- assets/news-live.csv assets/news-archive.csv; then
+          if [ -z "$(git status --porcelain -- assets/news-live.csv assets/news-archive.csv)" ]; then
             echo "Feed/archive already present after refreshing main"
             exit 0
           fi
@@ -129,7 +129,7 @@ jobs:
             git reset --hard origin/main
             cp /tmp/news-live.csv assets/news-live.csv
             cp /tmp/news-archive.csv assets/news-archive.csv
-            if git diff --quiet -- assets/news-live.csv assets/news-archive.csv; then
+            if [ -z "$(git status --porcelain -- assets/news-live.csv assets/news-archive.csv)" ]; then
               echo "Feed/archive already published by another run"
               exit 0
             fi
