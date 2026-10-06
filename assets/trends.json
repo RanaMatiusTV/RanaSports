@@ -1,8 +1,13 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-06T00:59:47.555Z",
+  "updatedAt": "2026-10-06T01:27:48.344Z",
   "trends": [
+    {
+      "query": "despedida de messi",
+      "startedAt": "2026-10-06T00:00:00.000Z",
+      "volume": 2000
+    },
     {
       "query": "medellín - santa fe",
       "startedAt": "2026-10-06T00:00:00.000Z",
@@ -12,11 +17,6 @@
       "query": "banfield - rosario central",
       "startedAt": "2026-10-05T23:50:00.000Z",
       "volume": 20000
-    },
-    {
-      "query": "argentina mañana",
-      "startedAt": "2026-10-05T23:30:00.000Z",
-      "volume": 2000
     },
     {
       "query": "nacional - torque",
@@ -31,7 +31,7 @@
     {
       "query": "claudia villafañe",
       "startedAt": "2026-10-05T22:00:00.000Z",
-      "volume": 2000
+      "volume": 5000
     },
     {
       "query": "estudiantes - gimnasia y esgrima",
