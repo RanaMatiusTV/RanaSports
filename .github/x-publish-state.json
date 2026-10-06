@@ -1,6 +1,13 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDk5MDAwMDAsIlVOIEVYQ09NQkFUSUVOVEUgREUgTUFMVklOQVMgQ0FOVEFSw4EgRUwgSElNTk8gRU4gTEEgREVTUEVESURBIERFIE1FU1NJIl0": {
+      "account": "main",
+      "title": "UN EXCOMBATIENTE DE MALVINAS CANTARÁ EL HIMNO EN LA DESPEDIDA DE MESSI",
+      "dueAt": "2026-10-06T21:10:00.000Z",
+      "bufferPostId": "6ac55832544ff8353dfa006c",
+      "createdAt": "2026-10-06T20:21:06.503Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDk4NDAwMDAsIkxBIFVCQSBESVNUSU5HVUnDkyBBIE1FU1NJIENPTU8gRE9DVE9SIEhPTk9SSVMgQ0FVU0EgQU5URVMgREUgU1UgREVTUEVESURBIl0": {
       "account": "main",
       "title": "LA UBA DISTINGUIÓ A MESSI COMO DOCTOR HONORIS CAUSA ANTES DE SU DESPEDIDA",
@@ -78,7 +85,9 @@
       "title": "RISAS, DE PAUL Y EL LOCO: ASÍ FUE EL ÚLTIMO ENTRENAMIENTO DE MESSI CON LA SELECCIÓN",
       "dueAt": "2026-10-06T20:20:00.000Z",
       "bufferPostId": "6ac551eb9b4b7d7d77d5e8b4",
-      "createdAt": "2026-10-06T19:54:20.074Z"
+      "createdAt": "2026-10-06T19:54:20.074Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107566571115721123",
+      "sentAt": "2026-10-06T20:20:02.220Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTE5NjAwMDAsIlNDQUxPTkkgUFJFUEFSQSBVTkEgRk9STUFDScOTTiBDT04gTE9TIEhJU1TDk1JJQ09TIFBBUkEgRUwgw5pMVElNTyBQQVJUSURPIERFIE1FU1NJIl0": {
       "account": "main",
@@ -4505,7 +4514,7 @@
   },
   "nextAt": {
     "f1": "2026-10-06T20:05:00.000Z",
-    "main": "2026-10-06T21:10:00.000Z"
+    "main": "2026-10-06T21:15:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
