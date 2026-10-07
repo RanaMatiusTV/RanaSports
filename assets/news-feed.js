@@ -19,7 +19,7 @@
  const searchInput=document.querySelector('#searchInput');
  let currentNews=[];
  let detailLookupSettled=!detail;
- const INITIAL_RENDER_LIMIT=600,RENDER_PAGE_SIZE=600;
+ const INITIAL_RENDER_LIMIT=36,RENDER_PAGE_SIZE=48;
  let renderLimit=INITIAL_RENDER_LIMIT,loadMoreObserver=null;
  const categories={independiente:'Independiente',futbol:'Fútbol',f1:'F1',seleccion:'Selección Argentina',agenda:'Agenda'};
  const normalize=v=>(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase();
@@ -433,17 +433,29 @@
   }
   const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),8000);
   try{
-   // Resolve the candidate feeds first. Never paint an intermediate source:
-   // doing so made the homepage briefly show a different set of stories.
+   // Start the GitHub live feed and Google Sheets in parallel, but do not make
+   // first paint wait for Google. On the homepage, news-live.csv can render
+   // immediately; Sheets continues in the background and only replaces it if
+   // it is actually newer. This keeps startup fast without reintroducing feed flicker.
    const fastPromise=fetchFeed(CSV_URLS[0],0,controller.signal);
    const primaryPromise=fetchFeed(CSV_URLS[1],1,controller.signal);
-   const [fastAttempt,primaryAttempt]=await Promise.all([fastPromise,primaryPromise]);
+   const fastAttempt=await fastPromise;
+   if(fastAttempt&&!detail){
+    const earlyNews=fastAttempt.news.sort((a,b)=>b.date-a.date);
+    const protectedEarly=protectAgainstFeedRegression(earlyNews,lastGoodNews);
+    const earlyChanged=!snapshot||!sameNewsFeed(protectedEarly.news,lastGoodNews);
+    if(earlyChanged)render(protectedEarly.news);
+    lastGoodNews=protectedEarly.news;snapshot=true;
+    if(!protectedEarly.regressed){try{localStorage.setItem(CACHE_KEY,fastAttempt.text);}catch{}}
+    if(status){status.textContent='';status.hidden=true;}
+   }
+   const primaryAttempt=await primaryPromise;
    let attempts=[fastAttempt,primaryAttempt].filter(Boolean);
    if(!primaryAttempt){
     const backups=await Promise.all(CSV_URLS.slice(2).map((baseURL,i)=>fetchFeed(baseURL,i+2,controller.signal)));
     attempts.push(...backups.filter(Boolean));
    }
-   const preferred=[1,0,2,3,4];
+   const preferred=detail?[1,0,2,3,4]:[0,1,2,3,4];
    const authority=attempts.sort((a,b)=>(b.max-a.max)||(preferred.indexOf(a.index)-preferred.indexOf(b.index)))[0];
    if(!authority){
     if(detail&&!findRequested(lastGoodNews)){const archived=await fetchArchivedRequested();if(archived){detailLookupSettled=true;render([archived]);lastGoodNews=[archived];snapshot=true;return;}}
