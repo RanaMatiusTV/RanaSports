@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-07T07:13:09.218Z",
+  "updatedAt": "2026-10-07T14:29:52.058Z",
   "trends": [
     {
-      "query": "carlos clerici",
-      "startedAt": "2026-10-07T05:50:00.000Z",
+      "query": "banco mundial",
+      "startedAt": "2026-10-07T14:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "alejandro domínguez",
+      "startedAt": "2026-10-07T14:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "ariel vallejo",
-      "startedAt": "2026-10-07T02:50:00.000Z",
+      "query": "economista",
+      "startedAt": "2026-10-07T13:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "sofi martinez",
-      "startedAt": "2026-10-07T02:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "drones",
-      "startedAt": "2026-10-07T02:10:00.000Z",
+      "query": "paul walker",
+      "startedAt": "2026-10-07T13:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "méxico - chile",
-      "startedAt": "2026-10-07T02:00:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "los hijos de messi",
-      "startedAt": "2026-10-07T02:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "julián alvarez",
-      "startedAt": "2026-10-07T02:00:00.000Z",
+      "query": "instituto almafuerte",
+      "startedAt": "2026-10-07T12:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "papa de messi",
-      "startedAt": "2026-10-07T02:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "balon de oro 2026",
-      "startedAt": "2026-10-07T01:50:00.000Z",
+      "query": "diego simeone",
+      "startedAt": "2026-10-07T12:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "marca",
-      "startedAt": "2026-10-07T01:50:00.000Z",
+      "query": "diario el eco de tandil",
+      "startedAt": "2026-10-07T12:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "kristalina georgieva",
+      "startedAt": "2026-10-07T12:20:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "ayelen paleo",
+      "startedAt": "2026-10-07T12:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "virgen del rosario",
+      "startedAt": "2026-10-07T12:10:00.000Z",
+      "volume": 100
     }
   ]
 }
