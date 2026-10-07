@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-06T21:36:59.027Z",
+  "updatedAt": "2026-10-07T01:01:10.458Z",
   "trends": [
     {
-      "query": "ángel di maría",
-      "startedAt": "2026-10-06T21:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "asociación trabajadores del estado",
-      "startedAt": "2026-10-06T21:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "dia de la madre 2026 argentina",
-      "startedAt": "2026-10-06T21:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "patín",
-      "startedAt": "2026-10-06T21:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "fiscal",
-      "startedAt": "2026-10-06T20:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "suiza vs",
-      "startedAt": "2026-10-06T20:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sergio torres",
-      "startedAt": "2026-10-06T20:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "escocia vs",
-      "startedAt": "2026-10-06T20:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "albania vs",
-      "startedAt": "2026-10-06T20:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "valentina pergolini",
-      "startedAt": "2026-10-06T20:20:00.000Z",
+      "query": "facundo medina",
+      "startedAt": "2026-10-07T00:40:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "alexis mac allister",
+      "startedAt": "2026-10-07T00:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "medina",
+      "startedAt": "2026-10-07T00:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jugar gta v",
+      "startedAt": "2026-10-07T00:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "nico gonzalez",
+      "startedAt": "2026-10-07T00:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "tevez",
+      "startedAt": "2026-10-07T00:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "mostaza merlo",
+      "startedAt": "2026-10-07T00:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "betano",
+      "startedAt": "2026-10-07T00:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "grupo cali",
+      "startedAt": "2026-10-07T00:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "pablo giralt",
+      "startedAt": "2026-10-07T00:20:00.000Z",
+      "volume": 200
     }
   ]
 }
