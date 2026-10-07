@@ -90,9 +90,14 @@
  function proxiedImageURL(url){
   try{
    const u=new URL(url);
-   if(u.hostname==='images.weserv.nl')return u.href;
+   if(u.hostname==='images.weserv.nl'||u.hostname==='s.wordpress.com')return u.href;
    return 'https://images.weserv.nl/?url='+encodeURIComponent(u.href)+'&w=1200&h=675&fit=cover&output=webp&q=82';
   }catch{return '';}
+ }
+ function sourceScreenshotURL(item){
+  const source=safeURL(item?.sourceURL||item?.note||'');
+  if(!source)return '';
+  return 'https://s.wordpress.com/mshots/v1/'+encodeURIComponent(source)+'?w=1200';
  }
  function commonsFileName(url){
   try{
@@ -152,6 +157,8 @@
    push(item?.extraImage||'');
    push(embedThumb);
   }
+  // Último recurso visual: captura de la fuente original. Nunca dejar la tarjeta sin imagen.
+  push(sourceScreenshotURL(item));
   return queue;
  }
  function imageWithFallback(img,primary,alternates=[],onFail){
