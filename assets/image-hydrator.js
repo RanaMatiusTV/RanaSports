@@ -1,5 +1,5 @@
 (() => {
-  const CACHE_KEY = 'ranasports-real-images-v7';
+  const CACHE_KEY = 'ranasports-real-images-v8';
   const cache = () => { try { return JSON.parse(localStorage.getItem(CACHE_KEY) || '{}'); } catch { return {}; } };
   const save = value => { try { localStorage.setItem(CACHE_KEY, JSON.stringify(value)); } catch {} };
   const clean = value => (value || '').replace(/[^\p{L}\p{N}\s-]/gu, ' ').replace(/\s+/g, ' ').trim();
