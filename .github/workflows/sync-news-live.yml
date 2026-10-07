@@ -1,4 +1,5 @@
 name: Sync RanaSports news feed
+# Manual resync marker: 2026-10-07 10:45 ARG
 
 on:
   workflow_dispatch:
