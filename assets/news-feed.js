@@ -468,22 +468,40 @@
    const primaryPromise=fetchFeed(CSV_URLS[1],1,controller.signal);
    const fastAttempt=await fastPromise;
    if(fastAttempt&&!detail){
-    const liveNews=fastAttempt.news.sort((a,b)=>b.date-a.date);
-    const changed=!snapshot||!sameNewsFeed(liveNews,lastGoodNews);
-    if(changed)render(liveNews);
-    lastGoodNews=liveNews;snapshot=true;
-    try{localStorage.setItem(CACHE_KEY,fastAttempt.text);}catch{}
+    // Give Sheets a short chance to answer before first paint. If GitHub's
+    // news-live.csv is stale, prefer the newer Sheet so recent stories are never hidden.
+    let primaryEarly=null;
+    try{
+     primaryEarly=await Promise.race([
+      primaryPromise,
+      new Promise(resolve=>setTimeout(()=>resolve(null),900))
+     ]);
+    }catch{}
+    const firstAuthority=(primaryEarly&&primaryEarly.max>fastAttempt.max)?primaryEarly:fastAttempt;
+    const firstNews=firstAuthority.news.sort((a,b)=>b.date-a.date);
+    const changed=!snapshot||!sameNewsFeed(firstNews,lastGoodNews);
+    if(changed)render(firstNews);
+    lastGoodNews=firstNews;snapshot=true;
+    try{localStorage.setItem(CACHE_KEY,firstAuthority.text);}catch{}
     if(status){status.textContent='';status.hidden=true;}
-    primaryPromise.then(primaryAttempt=>{
-     if(primaryAttempt&&primaryAttempt.max>=fastAttempt.max){
-      // La portada conserva el feed estable para evitar parpadeos, pero la imagen H
-      // se reconcilia contra Sheets para que coincida con la que muestra la nota.
+
+    const reconcilePrimary=primaryAttempt=>{
+     if(!primaryAttempt)return;
+     if(primaryAttempt.max>firstAuthority.max){
+      const newer=primaryAttempt.news.sort((a,b)=>b.date-a.date);
+      const protectedFeed=protectAgainstFeedRegression(newer,lastGoodNews);
+      if(!sameNewsFeed(protectedFeed.news,lastGoodNews))render(protectedFeed.news);
+      lastGoodNews=protectedFeed.news;snapshot=true;
+      try{localStorage.setItem(CACHE_KEY,primaryAttempt.text);}catch{}
+      return;
+     }
+     if(primaryAttempt.max>=firstAuthority.max){
+      // Even when timestamps match, reconcile H so homepage/article photos agree.
       reconcileHomepageImages(primaryAttempt.news);
      }
-     if(primaryAttempt&&primaryAttempt.max>fastAttempt.max){
-      try{localStorage.setItem(CACHE_KEY,primaryAttempt.text);}catch{}
-     }
-    }).catch(()=>{});
+    };
+    if(primaryEarly)reconcilePrimary(primaryEarly);
+    else primaryPromise.then(reconcilePrimary).catch(()=>{});
     return;
    }
    const primaryAttempt=await primaryPromise;
