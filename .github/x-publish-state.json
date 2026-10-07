@@ -1,40 +1,120 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzg4ODAwMDAsIk9UQU1FTkRJIFNFIERFU1BJREnDkyBERSBMQSBTRUxFQ0NJw5NOIENPTiBVTiBHT0wgWSBVTkEgT1ZBQ0nDk04gRU4gRUwgTU9OVU1FTlRBTCJd": {
+      "account": "main",
+      "title": "OTAMENDI SE DESPIDIÓ DE LA SELECCIÓN CON UN GOL Y UNA OVACIÓN EN EL MONUMENTAL",
+      "dueAt": "2026-10-07T10:00:00.000Z",
+      "bufferPostId": "6ac60d52e72849271d023d20",
+      "createdAt": "2026-10-07T09:13:55.033Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzg4MjAwMDAsIkRFTCAxMCBBTCBGVVRVUk86IE5JQ08gUEFaIE1BUkPDkyBVTiBHT0xBWk8gVFJBUyBVTkEgQVNJU1RFTkNJQSBERSBNRVNTSSJd": {
+      "account": "main",
+      "title": "DEL 10 AL FUTURO: NICO PAZ MARCÓ UN GOLAZO TRAS UNA ASISTENCIA DE MESSI",
+      "dueAt": "2026-10-07T09:55:00.000Z",
+      "bufferPostId": "6ac60d5258829b4601cb1314",
+      "createdAt": "2026-10-07T09:13:54.713Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzg3NjAwMDAsIk1FU1NJIE1BUkPDkyBERSBQRU5BTCBTVSDDmkxUSU1PIEdPTCBDT04gTEEgU0VMRUNDScOTTiBBUkdFTlRJTkEiXQ": {
+      "account": "main",
+      "title": "MESSI MARCÓ DE PENAL SU ÚLTIMO GOL CON LA SELECCIÓN ARGENTINA",
+      "dueAt": "2026-10-07T09:50:00.000Z",
+      "bufferPostId": "6ac60d52ec8d0b69d56d9634",
+      "createdAt": "2026-10-07T09:13:54.344Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzg3MDAwMDAsIkFSR0VOVElOQSBHT0xFw5MgMy0wIEEgQkVOw41OIEVOIExBIMOaTFRJTUEgRlVOQ0nDk04gREUgTUVTU0kgQ09OIExBIFNFTEVDQ0nDk04iXQ": {
+      "account": "main",
+      "title": "ARGENTINA GOLEÓ 3-0 A BENÍN EN LA ÚLTIMA FUNCIÓN DE MESSI CON LA SELECCIÓN",
+      "dueAt": "2026-10-07T09:45:00.000Z",
+      "bufferPostId": "6ac60d51e72849271d023cf7",
+      "createdAt": "2026-10-07T09:13:53.998Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzE1NjAwMDAsIkVMIE1PTlVNRU5UQUwgT1ZBQ0lPTsOTIEEgRU5SSVFVRSBNQUNBWUEgTcOBUlFVRVogRU4gTEEgREVTUEVESURBIERFIE1FU1NJIl0": {
+      "account": "main",
+      "title": "EL MONUMENTAL OVACIONÓ A ENRIQUE MACAYA MÁRQUEZ EN LA DESPEDIDA DE MESSI",
+      "dueAt": "2026-10-07T09:40:00.000Z",
+      "bufferPostId": "6ac60d51ec8d0b69d56d95eb",
+      "createdAt": "2026-10-07T09:13:53.678Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzE1MDAwMDAsIk1FU1NJIEFCUkFaw5MgQSBTVVMgVFJFUyBISUpPUyBZIERJTyBTVSDDmkxUSU1BIEFSRU5HQSBBTlRFUyBERSBKVUdBUiBDT04gQVJHRU5USU5BIl0": {
+      "account": "main",
+      "title": "MESSI ABRAZÓ A SUS TRES HIJOS Y DIO SU ÚLTIMA ARENGA ANTES DE JUGAR CON ARGENTINA",
+      "dueAt": "2026-10-07T09:35:00.000Z",
+      "bufferPostId": "6ac60d50d8c9f8421f2ea922",
+      "createdAt": "2026-10-07T09:13:52.459Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzE0NDAwMDAsIkxBIFBFTE9UQSBFU1BFQ0lBTCBERUwgw5pMVElNTyBQQVJUSURPIERFIE1FU1NJIENPTiBMQSBTRUxFQ0NJw5NOIEFSR0VOVElOQSJd": {
+      "account": "main",
+      "title": "LA PELOTA ESPECIAL DEL ÚLTIMO PARTIDO DE MESSI CON LA SELECCIÓN ARGENTINA",
+      "dueAt": "2026-10-07T09:30:00.000Z",
+      "bufferPostId": "6ac60d4de72849271d023bec",
+      "createdAt": "2026-10-07T09:13:49.959Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxMzMxMjYwMDAwLCJFU0VRVUlFTCBCQVJDTyBSRU5PVsOTIENPTiBTUEFSVEFLIE1PU0PDmiBIQVNUQSAyMDMwIFkgQUxFSsOTIFNVIFJFR1JFU08gQSBJTkRFUEVORElFTlRFIE8gUklWRVIiXQ": {
+      "account": "main",
+      "title": "ESEQUIEL BARCO RENOVÓ CON SPARTAK MOSCÚ HASTA 2030 Y ALEJÓ SU REGRESO A INDEPENDIENTE O RIVER",
+      "dueAt": "2026-10-07T09:25:00.000Z",
+      "bufferPostId": "6ac60d4dec8d0b69d56d94ef",
+      "createdAt": "2026-10-07T09:13:49.462Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMjc1NDAwMDAsIk1FU1NJIFkgU0NBTE9OSSBMTE9SQVJPTiBDT04gRUwgSElNTk8gRU4gTEEgREVTUEVESURBIERFTCBDQVBJVMOBTiJd": {
+      "account": "main",
+      "title": "MESSI Y SCALONI LLORARON CON EL HIMNO EN LA DESPEDIDA DEL CAPITÁN",
+      "dueAt": "2026-10-07T09:20:00.000Z",
+      "bufferPostId": "6ac60d4ad8c9f8421f2ea84e",
+      "createdAt": "2026-10-07T09:13:46.432Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMjcxMjAwMDAsIkVMIEhPTUJSRSBRVUUgQVNJU1RJw5MgRUwgUFJJTUVSIEdPTCBERSBNRVNTSSBDT04gQVJHRU5USU5BIEZVRSBBTCBNT05VTUVOVEFMIFBBUkEgREVTUEVESVJMTyJd": {
+      "account": "main",
+      "title": "EL HOMBRE QUE ASISTIÓ EL PRIMER GOL DE MESSI CON ARGENTINA FUE AL MONUMENTAL PARA DESPEDIRLO",
+      "dueAt": "2026-10-07T09:15:00.000Z",
+      "bufferPostId": "6ac60d49e9ee972c35d3278f",
+      "createdAt": "2026-10-07T09:13:45.937Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMjY3NjAwMDAsIlBBUFUgR8OTTUVaIE5PIEZVRSBBTCBNT05VTUVOVEFMIFkgQ09NRU5Uw5MgTEEgREVTUEVESURBIERFIE1FU1NJIFBBUkEgTEEgVFYgREUgS1VXQUlUIl0": {
       "account": "main",
       "title": "PAPU GÓMEZ NO FUE AL MONUMENTAL Y COMENTÓ LA DESPEDIDA DE MESSI PARA LA TV DE KUWAIT",
       "dueAt": "2026-10-07T04:45:00.000Z",
       "bufferPostId": "6ac5c27bb6dcff802a0785a7",
-      "createdAt": "2026-10-07T03:54:35.644Z"
+      "createdAt": "2026-10-07T03:54:35.644Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107693662482182152",
+      "sentAt": "2026-10-07T04:45:03.260Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMjY0NjAwMDAsIkFOVE9ORUxBIFkgQ0VMSUEgVklWSUVST04gREVTREUgRUwgUEFMQ08gTEEgT1ZBQ0nDk04gQSBNRVNTSSBFTiBFTCBNT05VTUVOVEFMIl0": {
       "account": "main",
       "title": "ANTONELA Y CELIA VIVIERON DESDE EL PALCO LA OVACIÓN A MESSI EN EL MONUMENTAL",
       "dueAt": "2026-10-07T04:40:00.000Z",
       "bufferPostId": "6ac5c27bc22c37a573b6034a",
-      "createdAt": "2026-10-07T03:54:35.378Z"
+      "createdAt": "2026-10-07T03:54:35.378Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107692403263959396",
+      "sentAt": "2026-10-07T04:40:02.946Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMjU4NjAwMDAsIkFSR0VOVElOQSBDT05GSVJNw5MgRUwgRVFVSVBPIFBBUkEgRUwgw5pMVElNTyBQQVJUSURPIERFIE1FU1NJOiBPVEFNRU5ESSBUQU1CScOJTiBTRSBERVNQSURFIl0": {
       "account": "main",
       "title": "ARGENTINA CONFIRMÓ EL EQUIPO PARA EL ÚLTIMO PARTIDO DE MESSI: OTAMENDI TAMBIÉN SE DESPIDE",
       "dueAt": "2026-10-07T04:35:00.000Z",
       "bufferPostId": "6ac5c27a6d07ab8da7596a30",
-      "createdAt": "2026-10-07T03:54:34.902Z"
+      "createdAt": "2026-10-07T03:54:34.902Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107691139788570796",
+      "sentAt": "2026-10-07T04:35:01.630Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMjUwMjAwMDAsIk1FU1NJIFJPTVBJw5MgRU4gTExBTlRPIEVOIEVMIE1JQ1JPIFJVTUJPIEEgU1Ugw5pMVElNTyBQQVJUSURPIENPTiBMQSBTRUxFQ0NJw5NOIl0": {
       "account": "main",
       "title": "MESSI ROMPIÓ EN LLANTO EN EL MICRO RUMBO A SU ÚLTIMO PARTIDO CON LA SELECCIÓN",
       "dueAt": "2026-10-07T04:30:00.000Z",
       "bufferPostId": "6ac5c27a203d24e39e0ad30c",
-      "createdAt": "2026-10-07T03:54:34.323Z"
+      "createdAt": "2026-10-07T03:54:34.323Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107689939949240664",
+      "sentAt": "2026-10-07T04:30:15.600Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTgzNjAwMDAsIlVOIE1JQ1JPIERFU0NBUE9UQUJMRSBBUEFSRUNJw5MgRU4gRVpFSVpBIFBBUkEgTEEgREVTUEVESURBIERFIE1FU1NJIl0": {
       "account": "main",
       "title": "UN MICRO DESCAPOTABLE APARECIÓ EN EZEIZA PARA LA DESPEDIDA DE MESSI",
       "dueAt": "2026-10-07T04:25:00.000Z",
       "bufferPostId": "6ac5c279c22c37a573b6031a",
-      "createdAt": "2026-10-07T03:54:33.715Z"
+      "createdAt": "2026-10-07T03:54:33.715Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107688622988173482",
+      "sentAt": "2026-10-07T04:25:01.562Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTc1ODAwMDAsIkVMIFNVQlRFIERFU1BJREnDkyBBIE1FU1NJIENPTiBDQU1JU0VUQVMsIFRST0ZFT1MgWSBVTkEgQ0FCUkEgRU4gVU4gRU1PVElWTyBWSURFTyJd": {
       "account": "main",
@@ -48,7 +128,9 @@
       "title": "NICO PAZ Y MASTANTUONO APARECEN COMO CANDIDATOS A HEREDAR LA 10 DE MESSI",
       "dueAt": "2026-10-07T04:15:00.000Z",
       "bufferPostId": "6ac5c2786d07ab8da75969ac",
-      "createdAt": "2026-10-07T03:54:32.098Z"
+      "createdAt": "2026-10-07T03:54:32.098Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107686111468191976",
+      "sentAt": "2026-10-07T04:15:02.783Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTcwNDAwMDAsIkVMIFBBw41TIFFVRSBERVNQSURFIEEgTUVTU0k6IERFIExBIEVNT0NJw5NOIEVOIExBUyBDQUxMRVMgQSBMT1MgSE9NRU5BSkVTIEdJR0FOVEVTIl0": {
       "account": "main",
@@ -69,7 +151,9 @@
       "title": "PVC PUSO A MESSI POR ENCIMA DE MARADONA ENTRE LOS QUE VIO EN UNA CANCHA",
       "dueAt": "2026-10-07T04:00:00.000Z",
       "bufferPostId": "6ac5c27553551104161e2126",
-      "createdAt": "2026-10-07T03:54:29.977Z"
+      "createdAt": "2026-10-07T03:54:29.977Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107682357541052700",
+      "sentAt": "2026-10-07T04:00:07.781Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTMxODQ4MDAwMCwiRjE6IENPTkZJUk1BUk9OIExPUyBIT1JBUklPUyBERUwgR1AgREUgU0lOR0FQVVIgQ09OIENPTEFQSU5UTyBFTiBQSVNUQSJd": {
       "account": "f1",
@@ -4620,81 +4704,11 @@
       "dueAt": "2026-09-12T01:00:00.000Z",
       "bufferPostId": "6aa4a37b07d009223c673eb1",
       "createdAt": "2026-09-12T00:57:32.013Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc4OTE2MTA2MDAwMCwiTUFTVEFOVFVPTk8gTUVUScOTIFVOIEhBVC1UUklDSyBZIEZJT1JFTlRJTkEgR0FOw5MgNC0yIEVOIFZFTkVDSUEiXQ": {
-      "account": "main",
-      "title": "MASTANTUONO METIÓ UN HAT-TRICK Y FIORENTINA GANÓ 4-2 EN VENECIA",
-      "dueAt": "2026-09-12T00:00:00.000Z",
-      "bufferPostId": "6aa49475997881a67934e789",
-      "createdAt": "2026-09-11T23:53:25.133Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MTU4MTgwMDAwLCJMQVMgRElBQkxBUyBDQVlFUk9OIDMtMSBBTlRFIExBTsOaUyBFTiBWSUxMQSBET03DjU5JQ08iXQ": {
-      "account": "main",
-      "title": "LAS DIABLAS CAYERON 3-1 ANTE LANÚS EN VILLA DOMÍNICO",
-      "dueAt": "2026-09-11T23:55:00.000Z",
-      "bufferPostId": "6aa49474997881a67934e761",
-      "createdAt": "2026-09-11T23:53:24.539Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODkxNTYxNDAwMDAsIkFSR0VOVElOQSBSRU1PTlTDkyBBIE3DiVhJQ08gWSBTRSBNRVRJw5MgRU4gT0NUQVZPUyBERUwgTVVORElBTCBTVUItMjAgRkVNRU5JTk8iXQ": {
-      "account": "main",
-      "title": "ARGENTINA REMONTÓ A MÉXICO Y SE METIÓ EN OCTAVOS DEL MUNDIAL SUB-20 FEMENINO",
-      "dueAt": "2026-09-11T23:00:00.000Z",
-      "bufferPostId": "6aa486fd997881a67933bd80",
-      "createdAt": "2026-09-11T22:55:57.344Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODkxNjQ5MDAwMDAsIlNPw5FPUkEgUkVTQ0FUw5MgQSBORVdFTEwnUyBTT0JSRSBMQSBIT1JBIFkgVsOJTEVaIERFSsOTIERPUyBQVU5UT1MgRU4gUk9TQVJJTyJd": {
-      "account": "main",
-      "title": "SOÑORA RESCATÓ A NEWELL'S SOBRE LA HORA Y VÉLEZ DEJÓ DOS PUNTOS EN ROSARIO",
-      "dueAt": "2026-09-11T22:30:00.000Z",
-      "bufferPostId": "6aa47fa007d009223c6468ea",
-      "createdAt": "2026-09-11T22:24:32.627Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE1ODAwMDAwMCwiQ09MQVBJTlRPIERJU0ZSVVTDkyBFTCBNQURSSU5HIFkgTUFSQ8OTIFFVw4kgTEUgRkFMVEEgQSBBTFBJTkUgUEFSQSBFTCBTw4FCQURPIl0": {
-      "account": "f1",
-      "title": "COLAPINTO DISFRUTÓ EL MADRING Y MARCÓ QUÉ LE FALTA A ALPINE PARA EL SÁBADO",
-      "dueAt": "2026-09-11T22:00:00.000Z",
-      "bufferPostId": "6aa478ddaa296f331c7b7c59",
-      "createdAt": "2026-09-11T21:55:41.518Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE1NTAwMDAwMCwiRUwgTUFEUklORyBFTkNFTkRJw5MgTEEgQUxFUlRBOiBMT1MgUElMT1RPUyBDUkVFTiBRVUUgQURFTEFOVEFSIFNFUsOBIE1VWSBESUbDjUNJTCJd": {
-      "account": "f1",
-      "title": "EL MADRING ENCENDIÓ LA ALERTA: LOS PILOTOS CREEN QUE ADELANTAR SERÁ MUY DIFÍCIL",
-      "dueAt": "2026-09-11T19:45:00.000Z",
-      "bufferPostId": "6aa459a967cc30fb0d2001f4",
-      "createdAt": "2026-09-11T19:42:33.904Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE1MDUwMDAwMCwiTElOREJMQUQgRlVFIENVQVJUTyBZIFRFUk1JTsOTIENPTlRSQSBFTCBNVVJPIEVOIEVMIFBSSU1FUiBDSE9RVUUgREUgRjEgREVMIE1BRFJJTkciXQ": {
-      "account": "f1",
-      "title": "LINDBLAD FUE CUARTO Y TERMINÓ CONTRA EL MURO EN EL PRIMER CHOQUE DE F1 DEL MADRING",
-      "dueAt": "2026-09-11T18:30:00.000Z",
-      "bufferPostId": "6aa4477b470e4d1a5fcc04e5",
-      "createdAt": "2026-09-11T18:24:59.598Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE0ODcwMDAwMCwiTk9SUklTIFNFIFBFUkRJw5MgTEEgRlAyIERFIE1BRFJJRCBQT1IgVU4gQ0FNQklPIERFIENBSkEgRU4gRUwgTWNMQVJFTiJd": {
-      "account": "f1",
-      "title": "NORRIS SE PERDIÓ LA FP2 DE MADRID POR UN CAMBIO DE CAJA EN EL McLAREN",
-      "dueAt": "2026-09-11T17:55:00.000Z",
-      "bufferPostId": "6aa4401bc38efd44b076b4fc",
-      "createdAt": "2026-09-11T17:53:31.526Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODkxNDg3MDAwMDAsIldBTFRFUiBTQU1VRUwgREVKQVLDgSBMQSBTRUxFQ0NJw5NOIEEgRklOIERFIEHDkU8gWSBRVUlFUkUgRU1QRVpBUiBTVSBDQVJSRVJBIENPTU8gRFQiXQ": {
-      "account": "main",
-      "title": "WALTER SAMUEL DEJARÁ LA SELECCIÓN A FIN DE AÑO Y QUIERE EMPEZAR SU CARRERA COMO DT",
-      "dueAt": "2026-09-11T17:55:00.000Z",
-      "bufferPostId": "6aa4401a7caf1cf172ba6486",
-      "createdAt": "2026-09-11T17:53:30.681Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE0NjkwMDAwMCwiQ09MQVBJTlRPIEZVRSAxNcKwIEVOIExBIEZQMiBERSBNQURSSUQgWSBBTlRPTkVMTEkgQ0VSUsOTIEVMIFZJRVJORVMgQVJSSUJBIl0": {
-      "account": "f1",
-      "title": "COLAPINTO FUE 15° EN LA FP2 DE MADRID Y ANTONELLI CERRÓ EL VIERNES ARRIBA",
-      "dueAt": "2026-09-11T17:30:00.000Z",
-      "bufferPostId": "6aa439a0a250e699506f975d",
-      "createdAt": "2026-09-11T17:25:53.010Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-07T00:05:00.000Z",
-    "main": "2026-10-07T04:50:00.000Z"
+    "main": "2026-10-07T10:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
