@@ -1,54 +1,82 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MDMyNjAwMDAsIk1FU1NJOiDigJxZQSBFWFRSQcORTyBWRVNUSVIgTEEgQ0VMRVNURSBZIEJMQU5DQeKAnSBZIFVOIFJFQ1VFUkRPIFBBUkEgTUFSQURPTkEiXQ": {
+      "account": "main",
+      "title": "MESSI: “YA EXTRAÑO VESTIR LA CELESTE Y BLANCA” Y UN RECUERDO PARA MARADONA",
+      "dueAt": "2026-10-07T22:25:00.000Z",
+      "bufferPostId": "6ac6c44a57f9bd074d1b0f2e",
+      "createdAt": "2026-10-07T22:14:34.401Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzOTYwNjAwMDAsIk1FU1NJIERFSsOTIEVMIE1PTlVNRU5UQUwgREUgTUFEUlVHQURBIFkgU0lOIEhBQkxBUiBDT04gTEEgUFJFTlNBIl0": {
+      "account": "main",
+      "title": "MESSI DEJÓ EL MONUMENTAL DE MADRUGADA Y SIN HABLAR CON LA PRENSA",
+      "dueAt": "2026-10-07T22:20:00.000Z",
+      "bufferPostId": "6ac6c44995b0fb1c5cbea5b0",
+      "createdAt": "2026-10-07T22:14:33.327Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTM2NzUwMDAwMCwiQ09MQVBJTlRPIEFOVElDSVDDkyBVTiBHUCBERSBTSU5HQVBVUiBFWFRSRU1PIFBPUiBFTCBDQUxPUiwgTEEgSFVNRURBRCBZIExPUyBNVVJPUyJd": {
       "account": "f1",
       "title": "COLAPINTO ANTICIPÓ UN GP DE SINGAPUR EXTREMO POR EL CALOR, LA HUMEDAD Y LOS MUROS",
       "dueAt": "2026-10-07T17:35:00.000Z",
       "bufferPostId": "6ac682764610dcaf932e4b83",
-      "createdAt": "2026-10-07T17:33:42.798Z"
+      "createdAt": "2026-10-07T17:33:42.798Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2107887434159530066",
+      "sentAt": "2026-10-07T17:35:01.854Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzODk1ODAwMDAsIk1FRElPUyBERUwgTVVORE8gREVTUElESUVST04gQSBNRVNTSSBFTlRSRSBFTCDDmkxUSU1PIFRBTkdPIFkgRUwgRklOIERFIFVOQSBFUkEiXQ": {
       "account": "main",
       "title": "MEDIOS DEL MUNDO DESPIDIERON A MESSI ENTRE EL ÚLTIMO TANGO Y EL FIN DE UNA ERA",
       "dueAt": "2026-10-07T18:00:00.000Z",
       "bufferPostId": "6ac68276e59f0d0f616715f0",
-      "createdAt": "2026-10-07T17:33:42.518Z"
+      "createdAt": "2026-10-07T17:33:42.518Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107893746704515505",
+      "sentAt": "2026-10-07T18:00:06.999Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxMzg5NTIwMDAwLCJJTkRFUEVORElFTlRFIFBSRVBBUkEgVkFSSU9TIENBTUJJT1MgUEFSQSBWSVNJVEFSIEEgVEFMTEVSRVMiXQ": {
       "account": "main",
       "title": "INDEPENDIENTE PREPARA VARIOS CAMBIOS PARA VISITAR A TALLERES",
       "dueAt": "2026-10-07T17:55:00.000Z",
       "bufferPostId": "6ac68275ea45b37c36bd02d7",
-      "createdAt": "2026-10-07T17:33:42.090Z"
+      "createdAt": "2026-10-07T17:33:42.090Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107892468003766735",
+      "sentAt": "2026-10-07T17:55:02.045Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzODE5MDAwMDAsIkFSR0VOVElOQSBTSUdVRSBTRUdVTkRBIEVOIEVMIFJBTktJTkcgRklGQSBZIEVTUEHDkUEgQ09OU09MSUTDkyBFTCBMSURFUkFaR08iXQ": {
       "account": "main",
       "title": "ARGENTINA SIGUE SEGUNDA EN EL RANKING FIFA Y ESPAÑA CONSOLIDÓ EL LIDERAZGO",
       "dueAt": "2026-10-07T17:50:00.000Z",
       "bufferPostId": "6ac682754610dcaf932e4b3a",
-      "createdAt": "2026-10-07T17:33:41.519Z"
+      "createdAt": "2026-10-07T17:33:41.519Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107891208420810863",
+      "sentAt": "2026-10-07T17:50:01.760Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzODE3MjAwMDAsIkxBIFNFTEVDQ0nDk04gWUEgTUlSQSBBIE5PVklFTUJSRTogRE9TIEFNSVNUT1NPUyBZIEVMIElOSUNJTyBERSBMQSBFUkEgU0lOIE1FU1NJIl0": {
       "account": "main",
       "title": "LA SELECCIÓN YA MIRA A NOVIEMBRE: DOS AMISTOSOS Y EL INICIO DE LA ERA SIN MESSI",
       "dueAt": "2026-10-07T17:45:00.000Z",
       "bufferPostId": "6ac6827420b8d89a06780e83",
-      "createdAt": "2026-10-07T17:33:40.882Z"
+      "createdAt": "2026-10-07T17:33:40.882Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107889959638032407",
+      "sentAt": "2026-10-07T17:45:03.984Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzODE2MDAwMDAsIkxFT05FTCBGTE9SRVMgQ0VSUsOTIFVOQSBTRU1BTkEgU0_DkUFEQSBKVU5UTyBBIE1FU1NJIFkgU0UgR0FOw5MgVU4gTFVHQVIgRU4gRUwgUkVDQU1CSU8iXQ": {
       "account": "main",
       "title": "LEONEL FLORES CERRÓ UNA SEMANA SOÑADA JUNTO A MESSI Y SE GANÓ UN LUGAR EN EL RECAMBIO",
       "dueAt": "2026-10-07T17:40:00.000Z",
       "bufferPostId": "6ac68274e59f0d0f616715a3",
-      "createdAt": "2026-10-07T17:33:40.402Z"
+      "createdAt": "2026-10-07T17:33:40.402Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107888694065508706",
+      "sentAt": "2026-10-07T17:40:02.444Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzNzQ0MDAwMDAsIkNISVFVSSBUQVBJQSBERVNQSURJw5MgQSBNRVNTSSBDT04gVU5BIENBUlRBOiDigJxNSSBIw4lST0UgRkFWT1JJVE_igJ0iXQ": {
       "account": "main",
       "title": "CHIQUI TAPIA DESPIDIÓ A MESSI CON UNA CARTA: “MI HÉROE FAVORITO”",
       "dueAt": "2026-10-07T17:35:00.000Z",
       "bufferPostId": "6ac68273ea45b37c36bd02a0",
-      "createdAt": "2026-10-07T17:33:39.803Z"
+      "createdAt": "2026-10-07T17:33:39.803Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107887435229065233",
+      "sentAt": "2026-10-07T17:35:02.138Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzkwNjAwMDAsIkJBUkNFTE9OQSBERVNQSURJw5MgQSBNRVNTSSBDT04gVU4gTUVOU0FKRSBUUkFTIFNVIMOaTFRJTU8gUEFSVElETyBDT04gQVJHRU5USU5BIl0": {
       "account": "main",
@@ -4698,25 +4726,11 @@
       "dueAt": "2026-09-12T19:05:00.000Z",
       "bufferPostId": "6aa59fd966679b076f15860f",
       "createdAt": "2026-09-12T18:54:17.373Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzg5MTQ2OTAwMDAwLCJDT0xOQUdISSBRVUVEw5MgNcKwIEVOIExBIFNFR1VOREEgQ0xBU0lGSUNBQ0nDk04gREUgRjMgRU4gTUFEUklEIl0": {
-      "account": "f1",
-      "title": "COLNAGHI QUEDÓ 5° EN LA SEGUNDA CLASIFICACIÓN DE F3 EN MADRID",
-      "dueAt": "2026-09-12T19:00:00.000Z",
-      "bufferPostId": "6aa59fd8eba7bc567782a792",
-      "createdAt": "2026-09-12T18:54:16.851Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MjI5NzAwMDAwLCJST0xGSSBNT05URU5FR1JPIEJBTkPDkyBBIFRFTVBPTkUgWSBBUlJBWUFHTyBBTlRFIExBIFBSRVNJw5NOIERFIFJFRU1QTEFaQVIgRklHVVJBUyJd": {
-      "account": "main",
-      "title": "ROLFI MONTENEGRO BANCÓ A TEMPONE Y ARRAYAGO ANTE LA PRESIÓN DE REEMPLAZAR FIGURAS",
-      "dueAt": "2026-09-12T18:20:00.000Z",
-      "bufferPostId": "6aa59784eba7bc567782271b",
-      "createdAt": "2026-09-12T18:18:44.474Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-07T17:40:00.000Z",
-    "main": "2026-10-07T18:05:00.000Z"
+    "main": "2026-10-07T22:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
