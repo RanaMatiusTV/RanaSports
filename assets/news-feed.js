@@ -411,9 +411,10 @@
   const protectedRecent=previous.filter(item=>(item.date||0)>freshMax&&!seen.has(newsIdentity(item)));
   return {news:[...fresh,...protectedRecent].sort((a,b)=>b.date-a.date),regressed:protectedRecent.length>0};
  }
- // The homepage can paint its cached snapshot immediately, but article pages wait
- // for a fresh feed so newly-added embeds never get hidden by stale localStorage.
- try{const cached=localStorage.getItem(CACHE_KEY);if(cached!==null&&!detail){const cachedNews=readNews(cached);lastGoodNews=cachedNews;render(cachedNews);snapshot=true;}}catch{}
+ // Keep localStorage only as an emergency fallback. Do not paint it on startup:
+ // the first visible homepage must already be the stable live feed.
+ let cachedFallback=[];
+ try{const cached=localStorage.getItem(CACHE_KEY);if(cached!==null&&!detail)cachedFallback=readNews(cached);}catch{}
  async function fetchFeed(baseURL,index,signal){
   try{
    const requestURL=baseURL+(baseURL.includes('?')?'&':'?')+'_='+Date.now();
@@ -433,21 +434,26 @@
   }
   const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),8000);
   try{
-   // Start the GitHub live feed and Google Sheets in parallel, but do not make
-   // first paint wait for Google. On the homepage, news-live.csv can render
-   // immediately; Sheets continues in the background and only replaces it if
-   // it is actually newer. This keeps startup fast without reintroducing feed flicker.
+   // Fetch the live GitHub feed and Sheets in parallel. The homepage paints only
+   // news-live.csv, so the user never sees cache -> GitHub -> Sheets redraws.
+   // Sheets remains a background/fallback source and can refresh the stored backup,
+   // but it never replaces an already-visible homepage during the same pass.
    const fastPromise=fetchFeed(CSV_URLS[0],0,controller.signal);
    const primaryPromise=fetchFeed(CSV_URLS[1],1,controller.signal);
    const fastAttempt=await fastPromise;
    if(fastAttempt&&!detail){
-    const earlyNews=fastAttempt.news.sort((a,b)=>b.date-a.date);
-    const protectedEarly=protectAgainstFeedRegression(earlyNews,lastGoodNews);
-    const earlyChanged=!snapshot||!sameNewsFeed(protectedEarly.news,lastGoodNews);
-    if(earlyChanged)render(protectedEarly.news);
-    lastGoodNews=protectedEarly.news;snapshot=true;
-    if(!protectedEarly.regressed){try{localStorage.setItem(CACHE_KEY,fastAttempt.text);}catch{}}
+    const liveNews=fastAttempt.news.sort((a,b)=>b.date-a.date);
+    const changed=!snapshot||!sameNewsFeed(liveNews,lastGoodNews);
+    if(changed)render(liveNews);
+    lastGoodNews=liveNews;snapshot=true;
+    try{localStorage.setItem(CACHE_KEY,fastAttempt.text);}catch{}
     if(status){status.textContent='';status.hidden=true;}
+    primaryPromise.then(primaryAttempt=>{
+     if(primaryAttempt&&primaryAttempt.max>fastAttempt.max){
+      try{localStorage.setItem(CACHE_KEY,primaryAttempt.text);}catch{}
+     }
+    }).catch(()=>{});
+    return;
    }
    const primaryAttempt=await primaryPromise;
    let attempts=[fastAttempt,primaryAttempt].filter(Boolean);
@@ -458,6 +464,7 @@
    const preferred=detail?[1,0,2,3,4]:[0,1,2,3,4];
    const authority=attempts.sort((a,b)=>(b.max-a.max)||(preferred.indexOf(a.index)-preferred.indexOf(b.index)))[0];
    if(!authority){
+    if(!detail&&cachedFallback.length){render(cachedFallback);lastGoodNews=cachedFallback;snapshot=true;if(status){status.textContent='';status.hidden=true;}return;}
     if(detail&&!findRequested(lastGoodNews)){const archived=await fetchArchivedRequested();if(archived){detailLookupSettled=true;render([archived]);lastGoodNews=[archived];snapshot=true;return;}}
     if(!snapshot)throw new Error('CSV no disponible');detailLookupSettled=true;if(detail)render(lastGoodNews);return;
    }
