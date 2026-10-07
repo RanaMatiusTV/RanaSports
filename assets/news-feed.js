@@ -157,8 +157,9 @@
    push(item?.extraImage||'');
    push(embedThumb);
   }
-  // Último recurso visual: captura de la fuente original. Nunca dejar la tarjeta sin imagen.
-  push(sourceScreenshotURL(item));
+  // No fabricar capturas de la fuente como fallback: la portada y la nota deben usar
+  // la imagen editorial definida para la noticia. Si falla, se prueban solo medios
+  // vinculados a esa misma noticia; nunca un screenshot automático de la página.
   return queue;
  }
  function imageWithFallback(img,primary,alternates=[],onFail){
@@ -181,6 +182,31 @@
   img.addEventListener('error',()=>{if(busy)return;busy=true;next();busy=false;});
   next();
  }
+ function sameImageSource(current,target){
+  if(!current||!target)return false;
+  if(current===target||current===proxiedImageURL(target))return true;
+  try{return decodeURIComponent(current).includes(target);}catch{return false;}
+ }
+ function reconcileHomepageImages(authorityNews){
+  if(!grid||!Array.isArray(authorityNews)||!authorityNews.length)return;
+  const byURL=new Map(authorityNews.map(item=>[articleURL(item),item]));
+  grid.querySelectorAll('.news-card').forEach(card=>{
+   const href=card.querySelector('h3 a')?.href||'';
+   const item=byURL.get(href);if(!item)return;
+   const candidates=fallbackVisualCandidates(item),primary=candidates.shift()||'';
+   let visual=card.querySelector('.news-image'),img=visual?.querySelector('img');
+   if(!primary){visual?.remove();return;}
+   if(!visual||!img){
+    visual=link(articleURL(item),'','card-visual news-image');img=element('img');
+    img.alt=item.title;img.width=800;img.height=450;img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';
+    visual.append(img);card.insertBefore(visual,card.firstChild);
+   }
+   const current=img.currentSrc||img.src||'';
+   if(sameImageSource(current,primary))return;
+   imageWithFallback(img,primary,candidates,()=>visual.remove());
+  });
+ }
+
  function youtubeEmbedURL(url){
   if(!url)return '';
   try{
@@ -449,6 +475,11 @@
     try{localStorage.setItem(CACHE_KEY,fastAttempt.text);}catch{}
     if(status){status.textContent='';status.hidden=true;}
     primaryPromise.then(primaryAttempt=>{
+     if(primaryAttempt&&primaryAttempt.max>=fastAttempt.max){
+      // La portada conserva el feed estable para evitar parpadeos, pero la imagen H
+      // se reconcilia contra Sheets para que coincida con la que muestra la nota.
+      reconcileHomepageImages(primaryAttempt.news);
+     }
      if(primaryAttempt&&primaryAttempt.max>fastAttempt.max){
       try{localStorage.setItem(CACHE_KEY,primaryAttempt.text);}catch{}
      }
