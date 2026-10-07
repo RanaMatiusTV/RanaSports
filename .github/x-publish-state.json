@@ -1,6 +1,55 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTM2NzUwMDAwMCwiQ09MQVBJTlRPIEFOVElDSVDDkyBVTiBHUCBERSBTSU5HQVBVUiBFWFRSRU1PIFBPUiBFTCBDQUxPUiwgTEEgSFVNRURBRCBZIExPUyBNVVJPUyJd": {
+      "account": "f1",
+      "title": "COLAPINTO ANTICIPÓ UN GP DE SINGAPUR EXTREMO POR EL CALOR, LA HUMEDAD Y LOS MUROS",
+      "dueAt": "2026-10-07T17:35:00.000Z",
+      "bufferPostId": "6ac682764610dcaf932e4b83",
+      "createdAt": "2026-10-07T17:33:42.798Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzODk1ODAwMDAsIk1FRElPUyBERUwgTVVORE8gREVTUElESUVST04gQSBNRVNTSSBFTlRSRSBFTCDDmkxUSU1PIFRBTkdPIFkgRUwgRklOIERFIFVOQSBFUkEiXQ": {
+      "account": "main",
+      "title": "MEDIOS DEL MUNDO DESPIDIERON A MESSI ENTRE EL ÚLTIMO TANGO Y EL FIN DE UNA ERA",
+      "dueAt": "2026-10-07T18:00:00.000Z",
+      "bufferPostId": "6ac68276e59f0d0f616715f0",
+      "createdAt": "2026-10-07T17:33:42.518Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxMzg5NTIwMDAwLCJJTkRFUEVORElFTlRFIFBSRVBBUkEgVkFSSU9TIENBTUJJT1MgUEFSQSBWSVNJVEFSIEEgVEFMTEVSRVMiXQ": {
+      "account": "main",
+      "title": "INDEPENDIENTE PREPARA VARIOS CAMBIOS PARA VISITAR A TALLERES",
+      "dueAt": "2026-10-07T17:55:00.000Z",
+      "bufferPostId": "6ac68275ea45b37c36bd02d7",
+      "createdAt": "2026-10-07T17:33:42.090Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzODE5MDAwMDAsIkFSR0VOVElOQSBTSUdVRSBTRUdVTkRBIEVOIEVMIFJBTktJTkcgRklGQSBZIEVTUEHDkUEgQ09OU09MSUTDkyBFTCBMSURFUkFaR08iXQ": {
+      "account": "main",
+      "title": "ARGENTINA SIGUE SEGUNDA EN EL RANKING FIFA Y ESPAÑA CONSOLIDÓ EL LIDERAZGO",
+      "dueAt": "2026-10-07T17:50:00.000Z",
+      "bufferPostId": "6ac682754610dcaf932e4b3a",
+      "createdAt": "2026-10-07T17:33:41.519Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzODE3MjAwMDAsIkxBIFNFTEVDQ0nDk04gWUEgTUlSQSBBIE5PVklFTUJSRTogRE9TIEFNSVNUT1NPUyBZIEVMIElOSUNJTyBERSBMQSBFUkEgU0lOIE1FU1NJIl0": {
+      "account": "main",
+      "title": "LA SELECCIÓN YA MIRA A NOVIEMBRE: DOS AMISTOSOS Y EL INICIO DE LA ERA SIN MESSI",
+      "dueAt": "2026-10-07T17:45:00.000Z",
+      "bufferPostId": "6ac6827420b8d89a06780e83",
+      "createdAt": "2026-10-07T17:33:40.882Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzODE2MDAwMDAsIkxFT05FTCBGTE9SRVMgQ0VSUsOTIFVOQSBTRU1BTkEgU0_DkUFEQSBKVU5UTyBBIE1FU1NJIFkgU0UgR0FOw5MgVU4gTFVHQVIgRU4gRUwgUkVDQU1CSU8iXQ": {
+      "account": "main",
+      "title": "LEONEL FLORES CERRÓ UNA SEMANA SOÑADA JUNTO A MESSI Y SE GANÓ UN LUGAR EN EL RECAMBIO",
+      "dueAt": "2026-10-07T17:40:00.000Z",
+      "bufferPostId": "6ac68274e59f0d0f616715a3",
+      "createdAt": "2026-10-07T17:33:40.402Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzNzQ0MDAwMDAsIkNISVFVSSBUQVBJQSBERVNQSURJw5MgQSBNRVNTSSBDT04gVU5BIENBUlRBOiDigJxNSSBIw4lST0UgRkFWT1JJVE_igJ0iXQ": {
+      "account": "main",
+      "title": "CHIQUI TAPIA DESPIDIÓ A MESSI CON UNA CARTA: “MI HÉROE FAVORITO”",
+      "dueAt": "2026-10-07T17:35:00.000Z",
+      "bufferPostId": "6ac68273ea45b37c36bd02a0",
+      "createdAt": "2026-10-07T17:33:39.803Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzkwNjAwMDAsIkJBUkNFTE9OQSBERVNQSURJw5MgQSBNRVNTSSBDT04gVU4gTUVOU0FKRSBUUkFTIFNVIMOaTFRJTU8gUEFSVElETyBDT04gQVJHRU5USU5BIl0": {
       "account": "main",
       "title": "BARCELONA DESPIDIÓ A MESSI CON UN MENSAJE TRAS SU ÚLTIMO PARTIDO CON ARGENTINA",
@@ -20,7 +69,9 @@
       "title": "DANIEL OSVALDO REAPARECIÓ DESDE TERAPIA INTENSIVA PARA DESPEDIR A MESSI",
       "dueAt": "2026-10-07T10:50:00.000Z",
       "bufferPostId": "6ac6234f2ff102be34bdb65c",
-      "createdAt": "2026-10-07T10:47:43.508Z"
+      "createdAt": "2026-10-07T10:47:43.508Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107785510689132649",
+      "sentAt": "2026-10-07T10:50:01.450Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzg4ODAwMDAsIk9UQU1FTkRJIFNFIERFU1BJREnDkyBERSBMQSBTRUxFQ0NJw5NOIENPTiBVTiBHT0wgWSBVTkEgT1ZBQ0nDk04gRU4gRUwgTU9OVU1FTlRBTCJd": {
       "account": "main",
@@ -4661,60 +4712,11 @@
       "dueAt": "2026-09-12T18:20:00.000Z",
       "bufferPostId": "6aa59784eba7bc567782271b",
       "createdAt": "2026-09-12T18:18:44.474Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTIxNzc2MDAwMCwiQ09MQVBJTlRPIEZVRSAxMcKwIEVOIExBIEZQMyBERSBNQURSSUQgRU4gVU5BIFRBTkRBIE1BUkNBREEgUE9SIERPUyBDSE9RVUVTIl0": {
-      "account": "f1",
-      "title": "COLAPINTO FUE 11° EN LA FP3 DE MADRID EN UNA TANDA MARCADA POR DOS CHOQUES",
-      "dueAt": "2026-09-12T16:55:00.000Z",
-      "bufferPostId": "6aa5837bf7b1958d5cd17bd7",
-      "createdAt": "2026-09-12T16:53:15.515Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTIyNjM0MDAwMCwiQ09MQVBJTlRPIFNFIE1FVEnDkyBFTiBRMyBZIExBUkdBUsOBIDnCsCBFTiBFTCBHUCBERSBFU1BBw5FBIl0": {
-      "account": "f1",
-      "title": "COLAPINTO SE METIÓ EN Q3 Y LARGARÁ 9° EN EL GP DE ESPAÑA",
-      "dueAt": "2026-09-12T15:55:00.000Z",
-      "bufferPostId": "6aa57524c637430b6b5b1f30",
-      "createdAt": "2026-09-12T15:52:04.795Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJwb2xpZGVwb3J0aXZvIiwxNzg5MTg2NTYwMDAwLCJBUlJBTkNBTiBMT1MgSlVFR09TIFNVUkFNRVJJQ0FOT1MgU0FOVEEgRkUgMjAyNiBDT04gQVJHRU5USU5BIENPTU8gTE9DQUwiXQ": {
-      "account": "main",
-      "title": "ARRANCAN LOS JUEGOS SURAMERICANOS SANTA FE 2026 CON ARGENTINA COMO LOCAL",
-      "dueAt": "2026-09-12T04:30:00.000Z",
-      "bufferPostId": "6aa4d4ba2ff05a49069f5948",
-      "createdAt": "2026-09-12T04:27:38.366Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MTU1OTYwMDAwLCJBUlJBWUFHTyBGSVJNw5MgU1UgUFJJTUVSIENPTlRSQVRPIFBST0ZFU0lPTkFMIENPTiBJTkRFUEVORElFTlRFIEhBU1RBIDIwMjgiXQ": {
-      "account": "main",
-      "title": "ARRAYAGO FIRMÓ SU PRIMER CONTRATO PROFESIONAL CON INDEPENDIENTE HASTA 2028",
-      "dueAt": "2026-09-12T04:00:00.000Z",
-      "bufferPostId": "6aa4cd8f2ff05a49069ec127",
-      "createdAt": "2026-09-12T03:57:04.090Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODkxODExNjAwMDAsIkJPQ0EgR09MRcOTIDMtMSBBIENFTlRSQUwgQ8OTUkRPQkEgQ09OIERPQkxFVEUgREUgUk9NRVJPIFkgUFJJTUVSIEdPTCBERSBWQUxFTkNJQSJd": {
-      "account": "main",
-      "title": "BOCA GOLEÓ 3-1 A CENTRAL CÓRDOBA CON DOBLETE DE ROMERO Y PRIMER GOL DE VALENCIA",
-      "dueAt": "2026-09-12T03:00:00.000Z",
-      "bufferPostId": "6aa4bedc18f0927c8d626986",
-      "createdAt": "2026-09-12T02:54:21.087Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTE1OTE0MDAwMCwiQ09MQVBJTlRPIEZVRSBDTEFSTzogRUwgQUxQSU5FIEVTVFVWTyDigJxJTVBSRURFQ0lCTEUgWSBSQVJP4oCdIEVOIE1BRFJJRCJd": {
-      "account": "f1",
-      "title": "COLAPINTO FUE CLARO: EL ALPINE ESTUVO “IMPREDECIBLE Y RARO” EN MADRID",
-      "dueAt": "2026-09-12T02:00:00.000Z",
-      "bufferPostId": "6aa4b18a2ac3c81fe88b6533",
-      "createdAt": "2026-09-12T01:57:31.064Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc4OTE2Njk0MDAwMCwiTUFTVEFOVFVPTk8gUk9NUEnDkyBVTiBSw4lDT1JEIERFIE1FU1NJIENPTiBTVSBIQVQtVFJJQ0sgRU4gSVRBTElBIl0": {
-      "account": "main",
-      "title": "MASTANTUONO ROMPIÓ UN RÉCORD DE MESSI CON SU HAT-TRICK EN ITALIA",
-      "dueAt": "2026-09-12T02:00:00.000Z",
-      "bufferPostId": "6aa4b18accd843289179ae67",
-      "createdAt": "2026-09-12T01:57:30.440Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-07T00:05:00.000Z",
-    "main": "2026-10-07T11:05:00.000Z"
+    "f1": "2026-10-07T17:40:00.000Z",
+    "main": "2026-10-07T18:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
