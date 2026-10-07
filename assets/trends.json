@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-07T14:29:52.058Z",
+  "updatedAt": "2026-10-07T20:09:24.513Z",
   "trends": [
     {
-      "query": "banco mundial",
-      "startedAt": "2026-10-07T14:10:00.000Z",
+      "query": "luis novaresio",
+      "startedAt": "2026-10-07T19:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "alejandro domínguez",
-      "startedAt": "2026-10-07T14:10:00.000Z",
+      "query": "cristiano ronaldo",
+      "startedAt": "2026-10-07T19:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "moreno",
+      "startedAt": "2026-10-07T19:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "economista",
-      "startedAt": "2026-10-07T13:20:00.000Z",
+      "query": "murio piero",
+      "startedAt": "2026-10-07T19:30:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "aníbal tortoriello",
+      "startedAt": "2026-10-07T19:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "paul walker",
-      "startedAt": "2026-10-07T13:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "instituto almafuerte",
-      "startedAt": "2026-10-07T12:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "diego simeone",
-      "startedAt": "2026-10-07T12:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "diario el eco de tandil",
-      "startedAt": "2026-10-07T12:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "kristalina georgieva",
-      "startedAt": "2026-10-07T12:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ayelen paleo",
-      "startedAt": "2026-10-07T12:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "virgen del rosario",
-      "startedAt": "2026-10-07T12:10:00.000Z",
+      "query": "masters de shanghái",
+      "startedAt": "2026-10-07T19:30:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "sean connery",
+      "startedAt": "2026-10-07T19:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "accidente doméstico",
+      "startedAt": "2026-10-07T19:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "maricarmen",
+      "startedAt": "2026-10-07T18:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "gimena accardi",
+      "startedAt": "2026-10-07T18:20:00.000Z",
+      "volume": 1000
     }
   ]
 }
