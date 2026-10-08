@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-07T20:09:24.513Z",
+  "updatedAt": "2026-10-08T00:11:39.710Z",
   "trends": [
     {
-      "query": "luis novaresio",
-      "startedAt": "2026-10-07T19:50:00.000Z",
+      "query": "cruzeiro - são paulo",
+      "startedAt": "2026-10-07T23:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "dennis haskins",
+      "startedAt": "2026-10-07T23:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "cristiano ronaldo",
-      "startedAt": "2026-10-07T19:40:00.000Z",
-      "volume": 1000
+      "query": "pablo giralt",
+      "startedAt": "2026-10-07T23:50:00.000Z",
+      "volume": 200
     },
     {
-      "query": "moreno",
-      "startedAt": "2026-10-07T19:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "murio piero",
-      "startedAt": "2026-10-07T19:30:00.000Z",
+      "query": "clima granizo",
+      "startedAt": "2026-10-07T23:30:00.000Z",
       "volume": 2000
     },
     {
-      "query": "aníbal tortoriello",
-      "startedAt": "2026-10-07T19:30:00.000Z",
+      "query": "vitória - chapecoense",
+      "startedAt": "2026-10-07T23:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "masters de shanghái",
-      "startedAt": "2026-10-07T19:30:00.000Z",
+      "query": "internacional",
+      "startedAt": "2026-10-07T23:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "sean connery",
-      "startedAt": "2026-10-07T19:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "accidente doméstico",
-      "startedAt": "2026-10-07T19:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "maricarmen",
-      "startedAt": "2026-10-07T18:40:00.000Z",
+      "query": "botafogo - vasco da gama",
+      "startedAt": "2026-10-07T22:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "gimena accardi",
-      "startedAt": "2026-10-07T18:20:00.000Z",
+      "query": "rodrigo",
+      "startedAt": "2026-10-07T22:50:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "aeropuerto internacional de miami",
+      "startedAt": "2026-10-07T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "palacio pizzurno",
+      "startedAt": "2026-10-07T22:50:00.000Z",
+      "volume": 2000
     }
   ]
 }
