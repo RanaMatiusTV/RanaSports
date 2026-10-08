@@ -1,19 +1,51 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQxMDY0MDAwMCwiQ09MQVBJTlRPIERFU1BJREnDkyBBIE1FU1NJIENPTiBVTiBNRU5TQUpFLCBMQSBDQU1JU0VUQSAxOSBZIFVOQSBDQU5DScOTTiBERSBPQVNJUyJd": {
+      "account": "f1",
+      "title": "COLAPINTO DESPIDIÓ A MESSI CON UN MENSAJE, LA CAMISETA 19 Y UNA CANCIÓN DE OASIS",
+      "dueAt": "2026-10-08T02:05:00.000Z",
+      "bufferPostId": "6ac6f93657f9bd074d23291d",
+      "createdAt": "2026-10-08T02:00:23.061Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MTA4ODAwMDAsIkVMIENPTE8gQkFSQ08gQSBNRVNTSTog4oCcR1JBQ0lBUyBQT1IgTlVOQ0EgUkVORElSVEUsIFRVIExFR0FETyBFUyBFVEVSTk_igJ0iXQ": {
+      "account": "main",
+      "title": "EL COLO BARCO A MESSI: “GRACIAS POR NUNCA RENDIRTE, TU LEGADO ES ETERNO”",
+      "dueAt": "2026-10-08T02:15:00.000Z",
+      "bufferPostId": "6ac6f9365632f7b74bd647ad",
+      "createdAt": "2026-10-08T02:00:22.647Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MTA4MjAwMDAsIuKAnE5PIFRFIFZBWUFT4oCdOiBMQSBDQU5DScOTTiBRVUUgRUwgUExBTlRFTCBMRSBERURJQ8OTIEEgTUVTU0kgRU4gRUwgTUlDUk8iXQ": {
+      "account": "main",
+      "title": "“NO TE VAYAS”: LA CANCIÓN QUE EL PLANTEL LE DEDICÓ A MESSI EN EL MICRO",
+      "dueAt": "2026-10-08T02:10:00.000Z",
+      "bufferPostId": "6ac6f9352977c961bdc10479",
+      "createdAt": "2026-10-08T02:00:21.302Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MTA3MDAwMDAsIkxBIERFU09QSUxBTlRFIERFRElDQVRPUklBIERFIE1FU1NJIEEgTVVTU086IOKAnFZPWSBBIEVYVFJBw5FBUiBDQUdBUlRFIEEgR09MRVPigJ0iXQ": {
+      "account": "main",
+      "title": "LA DESOPILANTE DEDICATORIA DE MESSI A MUSSO: “VOY A EXTRAÑAR CAGARTE A GOLES”",
+      "dueAt": "2026-10-08T02:05:00.000Z",
+      "bufferPostId": "6ac6f9342977c961bdc103f7",
+      "createdAt": "2026-10-08T02:00:20.266Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MDMyNjAwMDAsIk1FU1NJOiDigJxZQSBFWFRSQcORTyBWRVNUSVIgTEEgQ0VMRVNURSBZIEJMQU5DQeKAnSBZIFVOIFJFQ1VFUkRPIFBBUkEgTUFSQURPTkEiXQ": {
       "account": "main",
       "title": "MESSI: “YA EXTRAÑO VESTIR LA CELESTE Y BLANCA” Y UN RECUERDO PARA MARADONA",
       "dueAt": "2026-10-07T22:25:00.000Z",
       "bufferPostId": "6ac6c44a57f9bd074d1b0f2e",
-      "createdAt": "2026-10-07T22:14:34.401Z"
+      "createdAt": "2026-10-07T22:14:34.401Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107960415510479087",
+      "sentAt": "2026-10-07T22:25:02.042Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzOTYwNjAwMDAsIk1FU1NJIERFSsOTIEVMIE1PTlVNRU5UQUwgREUgTUFEUlVHQURBIFkgU0lOIEhBQkxBUiBDT04gTEEgUFJFTlNBIl0": {
       "account": "main",
       "title": "MESSI DEJÓ EL MONUMENTAL DE MADRUGADA Y SIN HABLAR CON LA PRENSA",
       "dueAt": "2026-10-07T22:20:00.000Z",
       "bufferPostId": "6ac6c44995b0fb1c5cbea5b0",
-      "createdAt": "2026-10-07T22:14:33.327Z"
+      "createdAt": "2026-10-07T22:14:33.327Z",
+      "externalLink": "https://x.com/768913759301754880/status/2107959159379427404",
+      "sentAt": "2026-10-07T22:20:02.501Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTM2NzUwMDAwMCwiQ09MQVBJTlRPIEFOVElDSVDDkyBVTiBHUCBERSBTSU5HQVBVUiBFWFRSRU1PIFBPUiBFTCBDQUxPUiwgTEEgSFVNRURBRCBZIExPUyBNVVJPUyJd": {
       "account": "f1",
@@ -4698,39 +4730,11 @@
       "dueAt": "2026-09-12T20:00:00.000Z",
       "bufferPostId": "6aa5ad0566679b076f1678f5",
       "createdAt": "2026-09-12T19:50:29.191Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MjQwNjIwMDAwLCJHQVVESU8gVElFTkUgREVDSURJRE8gU0VSIENBTkRJREFUTyBZIEJVUkRJU1NPIFNFUsONQSBTVSBESVJFQ1RPUiBERVBPUlRJVk8iXQ": {
-      "account": "main",
-      "title": "GAUDIO TIENE DECIDIDO SER CANDIDATO Y BURDISSO SERÍA SU DIRECTOR DEPORTIVO",
-      "dueAt": "2026-09-12T19:55:00.000Z",
-      "bufferPostId": "6aa5ad037da3ee968d033dd3",
-      "createdAt": "2026-09-12T19:50:28.077Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMyIsMTc4OTIzOTQyMDAwMCwiQ09MTkFHSEkgVEVSTUlOw5MgMTLCsCBFTiBMQSBGRUFUVVJFIDEgREUgTUFEUklEIFkgQ0xFUk9UIExPR1LDkyBTVSBQUklNRVIgVFJJVU5GTyJd": {
-      "account": "f1",
-      "title": "COLNAGHI TERMINÓ 12° EN LA FEATURE 1 DE MADRID Y CLEROT LOGRÓ SU PRIMER TRIUNFO",
-      "dueAt": "2026-09-12T19:45:00.000Z",
-      "bufferPostId": "6aa5aacdf7b1958d5cd4a684",
-      "createdAt": "2026-09-12T19:41:01.738Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTIxNTQyMDAwMCwiVkFSUk9ORSBBQkFORE9Ow5MgRU4gTEEgUFJJTUVSQSBWVUVMVEEgREUgTEEgU1BSSU5UIERFIEYyIEVOIE1BRFJJRCJd": {
-      "account": "f1",
-      "title": "VARRONE ABANDONÓ EN LA PRIMERA VUELTA DE LA SPRINT DE F2 EN MADRID",
-      "dueAt": "2026-09-12T19:10:00.000Z",
-      "bufferPostId": "6aa59fd9130d0ea1a45a6da3",
-      "createdAt": "2026-09-12T18:54:17.785Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMyIsMTc4OTIwNjAwMDAwMCwiQ09MTkFHSEkgQVZBTlrDkyBET1MgUFVFU1RPUyBZIFRFUk1JTsOTIDE0wrAgRU4gTEEgU1BSSU5UIERFIE1BRFJJRCJd": {
-      "account": "f1",
-      "title": "COLNAGHI AVANZÓ DOS PUESTOS Y TERMINÓ 14° EN LA SPRINT DE MADRID",
-      "dueAt": "2026-09-12T19:05:00.000Z",
-      "bufferPostId": "6aa59fd966679b076f15860f",
-      "createdAt": "2026-09-12T18:54:17.373Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-07T17:40:00.000Z",
-    "main": "2026-10-07T22:30:00.000Z"
+    "f1": "2026-10-08T02:10:00.000Z",
+    "main": "2026-10-08T02:20:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
