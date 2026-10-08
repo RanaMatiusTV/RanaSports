@@ -430,8 +430,17 @@ async function main() {
 
   candidates.sort((a, b) => priority(b.item) - priority(a.item) || a.item.date - b.item.date);
 
+  // Evitar gastar llamadas a la API de Buffer cada cinco minutos sin noticias.
+  // Recuperar enlaces de X como máximo una vez por hora si no hay nuevas notas.
+  const lastRefresh = Date.parse(state.buffer.lastLinksRefreshAt || '');
+  if (!candidates.length && Number.isFinite(lastRefresh) && Date.now() - lastRefresh < 60 * 60 * 1000) {
+    console.log('Sin noticias nuevas para X; control de enlaces todavía vigente.');
+    return;
+  }
+
   await discoverChannels(apiKey, state);
   await refreshPublishedLinks(apiKey, state);
+  state.buffer.lastLinksRefreshAt = new Date().toISOString();
   writeState(state);
 
   if (!candidates.length) {
