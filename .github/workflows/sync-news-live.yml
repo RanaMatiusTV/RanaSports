@@ -28,10 +28,16 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          URL="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv&_=$(date +%s)"
-          if ! curl -fL --retry 2 --retry-delay 2 -H 'Cache-Control: no-cache' "$URL" -o /tmp/news.csv; then
-            echo "Published Google Sheets snapshot unavailable; keeping current assets/news-live.csv"
-            exit 0
+          # Prefer the live Sheet over the delayed 'Publish to web' snapshot.
+          # Both endpoints have the same columns. Use the published snapshot as fallback.
+          LIVE_URL="https://docs.google.com/spreadsheets/d/12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4/gviz/tq?tqx=out:csv&sheet=Noticias&_=$(date +%s)"
+          PUBLISHED_URL="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv&_=$(date +%s)"
+          if ! curl -fLsS --retry 2 --retry-delay 2 -H 'Cache-Control: no-cache' "$LIVE_URL" -o /tmp/news.csv || ! head -c 300 /tmp/news.csv | grep -iq "Publicar"; then
+            echo "Live Google Sheet unavailable; trying published snapshot"
+            if ! curl -fLsS --retry 2 --retry-delay 2 -H 'Cache-Control: no-cache' "$PUBLISHED_URL" -o /tmp/news.csv; then
+              echo "Both Sheet endpoints unavailable; retaining current news feed"
+              exit 0
+            fi
           fi
           python3 - <<'PY'
           import csv, datetime, os, sys
