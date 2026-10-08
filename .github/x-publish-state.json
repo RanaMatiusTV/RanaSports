@@ -1,13 +1,71 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ3NTYyMDAwMCwiQ09MQVBJTlRPIENPTlTDkyBRVUUgTExPUsOTIENPTiBMQSBERVNQRURJREEgREUgTUVTU0kgWSBZQSBTRSBFTkZPQ0EgRU4gU0lOR0FQVVIiXQ": {
+      "account": "f1",
+      "title": "COLAPINTO CONTÓ QUE LLORÓ CON LA DESPEDIDA DE MESSI Y YA SE ENFOCA EN SINGAPUR",
+      "dueAt": "2026-10-08T16:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7c00582db5af660cd806d",
+      "createdAt": "2026-10-08T16:08:37.670Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJpbnRlcm5hY2lvbmFsIiwxNzkxNDc1NjIwMDAwLCJFTCBFWERJUkVDVE9SIERFTCBCQUzDk04gREUgT1JPIFJFVkVMw5MgVU4gUFJFU1VOVE8gSU5URU5UTyBERSBTT0JPUk5PIl0": {
+      "account": "main",
+      "title": "EL EXDIRECTOR DEL BALÓN DE ORO REVELÓ UN PRESUNTO INTENTO DE SOBORNO",
+      "dueAt": "2026-10-08T16:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7c005e63932e2c5aab6dd",
+      "createdAt": "2026-10-08T16:08:37.393Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTQ3NTYyMDAwMCwiTUVTU0kgQ0VSUsOTIFNVIERFU1BFRElEQSBDT04gVU5BIFNPTEEgUEFMQUJSQTog4oCcR1JBQ0lBU-KAnSJd": {
+      "account": "main",
+      "title": "MESSI CERRÓ SU DESPEDIDA CON UNA SOLA PALABRA: “GRACIAS”",
+      "dueAt": "2026-10-08T16:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7c004b99c473c41bcf377",
+      "createdAt": "2026-10-08T16:08:36.964Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTQ3NTYyMDAwMCwiUkFNw5NOIETDjUFaIE5FR09DSUEgQ09OIENPUklOVEhJQU5TIFkgU0UgQUxFSkEgREUgTEEgQ0FSUkVSQSBQT1IgVk9MVkVSIEEgUklWRVIiXQ": {
+      "account": "main",
+      "title": "RAMÓN DÍAZ NEGOCIA CON CORINTHIANS Y SE ALEJA DE LA CARRERA POR VOLVER A RIVER",
+      "dueAt": "2026-10-08T16:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7c004daf7bb7cba2a074c",
+      "createdAt": "2026-10-08T16:08:36.538Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDc1NjIwMDAwLCJBUlJVQUJBUlJFTkEgUFVFREUgTE9HUkFSIEVMIE1FSk9SIElOVklDVE8gREUgQk9DQSBFTiBMQSBFUkEgUklRVUVMTUUiXQ": {
+      "account": "main",
+      "title": "ARRUABARRENA PUEDE LOGRAR EL MEJOR INVICTO DE BOCA EN LA ERA RIQUELME",
+      "dueAt": "2026-10-08T16:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7c004d1ababbf88b9213a",
+      "createdAt": "2026-10-08T16:08:36.130Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0NzU2MjAwMDAsIlRBR0xJQUZJQ08gUkVWRUzDkyBRVUUgRVNUVVZPIEEgUFVOVE8gREUgUVVFREFSIEFGVUVSQSBERUwgTVVORElBTCJd": {
+      "account": "main",
+      "title": "TAGLIAFICO REVELÓ QUE ESTUVO A PUNTO DE QUEDAR AFUERA DEL MUNDIAL",
+      "dueAt": "2026-10-08T16:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7c003b99c473c41bcf336",
+      "createdAt": "2026-10-08T16:08:35.799Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0NzU2MjAwMDAsIkxBIFNVQiAxNyBHT0xFw5MgQSBDSElOQSBZIFNFIENPTlNBR1LDkyBDQU1QRU9OQSBERSBMQSBWRVJURVggQ1VQIl0": {
+      "account": "main",
+      "title": "LA SUB 17 GOLEÓ A CHINA Y SE CONSAGRÓ CAMPEONA DE LA VERTEX CUP",
+      "dueAt": "2026-10-08T16:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7c003d1ababbf88b92107",
+      "createdAt": "2026-10-08T16:08:35.420Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0NzMyMjAwMDAsIlRBR0xJQUZJQ08gQ1VFU1RJT07DkyBFTCBGT1JNQVRPIERFTCBGw5pUQk9MIEFSR0VOVElOTzog4oCcQkFKw5MgTVVDSE8gTEEgQ0FMSURBROKAnSJd": {
       "account": "main",
       "title": "TAGLIAFICO CUESTIONÓ EL FORMATO DEL FÚTBOL ARGENTINO: “BAJÓ MUCHO LA CALIDAD”",
       "dueAt": "2026-10-08T15:35:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7b74bb99c473c41bb1620",
-      "createdAt": "2026-10-08T15:31:23.330Z"
+      "createdAt": "2026-10-08T15:31:23.330Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108219632167305238",
+      "sentAt": "2026-10-08T15:35:04.155Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTQ2ODEyMDAwMCwiTEFVVEFSTyBQRVJFWVJBIEdBTsOTIFRFUlJFTk8gWSBQVUVERSBSRUVNUExBWkFSIEEgVEhJQUdPIEFMTUFEQSBFTiBSSVZFUiJd": {
       "account": "main",
@@ -4745,65 +4803,16 @@
       "dueAt": "2026-09-15T03:45:00.000Z",
       "bufferPostId": "6aa8be52a283eff81a55bcd8",
       "createdAt": "2026-09-15T03:41:07.101Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODk0MzgyMDAwMDAsIklOU1RJVFVUTyBMRSBHQU7DkyAyLTEgQSBFU1RVRElBTlRFUyBERSBSw41PIENVQVJUTyBZIFFVRUTDkyBMw41ERVIgREUgU1UgWk9OQSJd": {
-      "account": "main",
-      "title": "INSTITUTO LE GANÓ 2-1 A ESTUDIANTES DE RÍO CUARTO Y QUEDÓ LÍDER DE SU ZONA",
-      "dueAt": "2026-09-15T02:40:00.000Z",
-      "bufferPostId": "6aa8afb37a172fa74f85eb27",
-      "createdAt": "2026-09-15T02:38:43.877Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODk0MzA0MDAwMDAsIkxBTsOaUyBHT0xFw5MgMy0wIEEgUklFU1RSQSBZIFNFIE1FVEnDkyBFTiBaT05BIERFIFBMQVlPRkZTIl0": {
-      "account": "main",
-      "title": "LANÚS GOLEÓ 3-0 A RIESTRA Y SE METIÓ EN ZONA DE PLAYOFFS",
-      "dueAt": "2026-09-15T01:40:00.000Z",
-      "bufferPostId": "6aa8a12d7a172fa74f84b398",
-      "createdAt": "2026-09-15T01:36:45.596Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjb3BhIGFyZ2VudGluYSIsMTc4OTQyMzUwMDAwMCwiQk9DQS1SQUNJTkcgQ0FNQknDkyBERSBTRURFOiBTRSBKVUdBUsOBIEVOIEVMIEdJR0FOVEUgREUgQVJST1lJVE8iXQ": {
-      "account": "main",
-      "title": "BOCA-RACING CAMBIÓ DE SEDE: SE JUGARÁ EN EL GIGANTE DE ARROYITO",
-      "dueAt": "2026-09-14T23:35:00.000Z",
-      "bufferPostId": "6aa88375a56f2b823c92e537",
-      "createdAt": "2026-09-14T23:29:57.225Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk0MDY0MDAwMDAsIkFSR0VOVElOQSBURU5EUsONQSBERUZJTklET1MgVFJFUyBBTUlTVE9TT1MgQ09NTyBMT0NBTCBFTlRSRSBTRVBUSUVNQlJFIFkgT0NUVUJSRSJd": {
-      "account": "main",
-      "title": "ARGENTINA TENDRÍA DEFINIDOS TRES AMISTOSOS COMO LOCAL ENTRE SEPTIEMBRE Y OCTUBRE",
-      "dueAt": "2026-09-14T18:20:00.000Z",
-      "bufferPostId": "6aa839db1a47bf6a85d06866",
-      "createdAt": "2026-09-14T18:15:56.128Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTM5OTIwMDAwMCwiQlVFTk9TIEFJUkVTIEFDRUxFUkEgUE9SIEVMIFJFR1JFU08gREUgTEEgRjEgWSBBVkFOWkEgQ09OIExJQkVSVFkgTUVESUEiXQ": {
-      "account": "f1",
-      "title": "BUENOS AIRES ACELERA POR EL REGRESO DE LA F1 Y AVANZA CON LIBERTY MEDIA",
-      "dueAt": "2026-09-14T16:05:00.000Z",
-      "bufferPostId": "6aa819eb0939129ebb35dfc0",
-      "createdAt": "2026-09-14T15:59:40.011Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODkzOTgxMjAwMDAsIlBSRVNUSUFOTkkgU0UgTUVURSBFTiBMQSBESVNDVVNJw5NOIERFIExBIFNFTEVDQ0nDk04gQ09OIFVOIEFSUkFOUVVFIElNUEFDVEFOVEUgRU4gQkVORklDQSJd": {
-      "account": "main",
-      "title": "PRESTIANNI SE METE EN LA DISCUSIÓN DE LA SELECCIÓN CON UN ARRANQUE IMPACTANTE EN BENFICA",
-      "dueAt": "2026-09-14T16:05:00.000Z",
-      "bufferPostId": "6aa819e97aaa8f5f4f7133d6",
-      "createdAt": "2026-09-14T15:59:37.977Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTM4ODI4MDAwMCwiQ09MQVBJTlRPIFFVRUTDkyBDT01PIEVMIMOaTklDTyBQSUxPVE8gUVVFIFRFUk1JTsOTIExBUyAxNCBDQVJSRVJBUyBERSAyMDI2Il0": {
-      "account": "f1",
-      "title": "COLAPINTO QUEDÓ COMO EL ÚNICO PILOTO QUE TERMINÓ LAS 14 CARRERAS DE 2026",
-      "dueAt": "2026-09-14T12:50:00.000Z",
-      "bufferPostId": "6aa7ec71db3016679222b524",
-      "createdAt": "2026-09-14T12:45:37.755Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-08T14:45:00.000Z",
-    "main": "2026-10-08T15:40:00.000Z"
+    "f1": "2026-10-08T16:15:00.000Z",
+    "main": "2026-10-08T16:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-08T15:31:22.630Z"
+    "lastLinksRefreshAt": "2026-10-08T16:08:35.063Z"
   }
 }
