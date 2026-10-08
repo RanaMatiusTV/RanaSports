@@ -1,13 +1,79 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJib3hlbyIsMTc5MTQ5MDMyMDAwMCwiRUwgQ0FTSU5PIEJVRU5PUyBBSVJFUyBSRUNJQkUgVU5BIFBFTEVBIElOVEVSTkFDSU9OQUwgUE9SIEVMIEZFREVMQVRJTiBQRVNBRE8iXQ": {
+      "account": "main",
+      "title": "EL CASINO BUENOS AIRES RECIBE UNA PELEA INTERNACIONAL POR EL FEDELATIN PESADO",
+      "dueAt": "2026-10-08T20:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7f98853e023600017e065",
+      "createdAt": "2026-10-08T20:14:00.929Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0OTAzMjAwMDAsIlJPSk8gWUEgU0UgRU5UUkVOQSBFTiBFU1RVRElBTlRFUywgUEVSTyBTVSBQUkVTRU5UQUNJw5NOIFNJR1VFIERFTU9SQURBIl0": {
+      "account": "main",
+      "title": "ROJO YA SE ENTRENA EN ESTUDIANTES, PERO SU PRESENTACIÓN SIGUE DEMORADA",
+      "dueAt": "2026-10-08T20:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7f98862435c1f1fe0bbc8",
+      "createdAt": "2026-10-08T20:14:00.111Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIGVuIGVsIGV4dGVyaW9yIiwxNzkxNDkwMzIwMDAwLCJKVUxJw4FOIMOBTFZBUkVaIERFSkFSw4EgQSBTVSBSRVBSRVNFTlRBTlRFIFRSQVMgRUwgUEFTRSBGQUxMSURPIEFMIEJBUkNFTE9OQSJd": {
+      "account": "main",
+      "title": "JULIÁN ÁLVAREZ DEJARÁ A SU REPRESENTANTE TRAS EL PASE FALLIDO AL BARCELONA",
+      "dueAt": "2026-10-08T20:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7f98774384ca756d95d1f",
+      "createdAt": "2026-10-08T20:13:59.669Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDkwMzIwMDAwLCLDmkJFREEgRVhQTElDw5MgUE9SIFFVw4kgU0UgRlVFIERFIEJPQ0EgWSBDw5NNTyBRVUVEw5MgQ09OIFJJUVVFTE1FIl0": {
+      "account": "main",
+      "title": "ÚBEDA EXPLICÓ POR QUÉ SE FUE DE BOCA Y CÓMO QUEDÓ CON RIQUELME",
+      "dueAt": "2026-10-08T20:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7f98753e023600017e027",
+      "createdAt": "2026-10-08T20:13:59.257Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJjb3BhIHN1ZGFtZXJpY2FuYSIsMTc5MTQ5MDMyMDAwMCwiU0FOVElBR08gU09TQSBRVUlFUkUgRVNUUkVOQVJTRSBFTiBMQSBSRUQgSlVTVE8gQ09OVFJBIEJPQ0EiXQ": {
+      "account": "main",
+      "title": "SANTIAGO SOSA QUIERE ESTRENARSE EN LA RED JUSTO CONTRA BOCA",
+      "dueAt": "2026-10-08T20:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7f98574384ca756d95cec",
+      "createdAt": "2026-10-08T20:13:57.823Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDkwMzIwMDAwLCJCT0NBIFBSRVNFUlZBUsONQSBBIFBBUkVERVMgWSBDQU1CSUFSw41BIE1FRElPIEVRVUlQTyBBTlRFIElOU1RJVFVUTyJd": {
+      "account": "main",
+      "title": "BOCA PRESERVARÍA A PAREDES Y CAMBIARÍA MEDIO EQUIPO ANTE INSTITUTO",
+      "dueAt": "2026-10-08T20:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7f985e45f6d165efaa0e9",
+      "createdAt": "2026-10-08T20:13:57.440Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0OTAzMjAwMDAsIkRFIFBBVUwgTEUgRElPIExBIEJJRU5WRU5JREEgQSBOSUNPIFBBWiBDT01PIFJFRkVSRU5URSBERUwgTlVFVk8gQ0lDTE8iXQ": {
+      "account": "main",
+      "title": "DE PAUL LE DIO LA BIENVENIDA A NICO PAZ COMO REFERENTE DEL NUEVO CICLO",
+      "dueAt": "2026-10-08T20:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7f98453e023600017dfeb",
+      "createdAt": "2026-10-08T20:13:56.673Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNDkwMzIwMDAwLCJJTkRFUEVORElFTlRFIEVOU0FZw5MgVU5BIERFRkVOU0EgQ09NUExFVEFNRU5URSBOVUVWQSBQQVJBIFZJU0lUQVIgQSBUQUxMRVJFUyJd": {
+      "account": "main",
+      "title": "INDEPENDIENTE ENSAYÓ UNA DEFENSA COMPLETAMENTE NUEVA PARA VISITAR A TALLERES",
+      "dueAt": "2026-10-08T20:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac7f984e45f6d165efaa0ad",
+      "createdAt": "2026-10-08T20:13:56.300Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTQ4MjUyMDAwMCwiUklWRVIgUVVFRMOTIEFOVEUgRUwgUklFU0dPIERFIFBFUkRFUlNFIERPUyBMSUJFUlRBRE9SRVMgQ09OU0VDVVRJVkFTIl0": {
       "account": "main",
       "title": "RIVER QUEDÓ ANTE EL RIESGO DE PERDERSE DOS LIBERTADORES CONSECUTIVAS",
       "dueAt": "2026-10-08T18:35:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7db38d3b0be2fc4135888",
-      "createdAt": "2026-10-08T18:04:40.293Z"
+      "createdAt": "2026-10-08T18:04:40.293Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108264922870112283",
+      "sentAt": "2026-10-08T18:35:02.267Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDgyNTIwMDAwLCJCT0NBIEhPTUVOQUpFw5MgQSBNSUdVRUwgw4FOR0VMIFJVU1NPIEEgVU4gQcORTyBERSBTVSBNVUVSVEUiXQ": {
       "account": "main",
@@ -15,7 +81,9 @@
       "dueAt": "2026-10-08T18:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7db375b76911adddb4c55",
-      "createdAt": "2026-10-08T18:04:39.993Z"
+      "createdAt": "2026-10-08T18:04:39.993Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108263721260683407",
+      "sentAt": "2026-10-08T18:30:15.757Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTQ4MjUyMDAwMCwiRFJJVVNTSSBTVVBFUsOTIExBIFNPQlJFQ0FSR0EgWSBTRVLDgSBUSVRVTEFSIEFOVEUgRVNUVURJQU5URVMgREUgUsONTyBDVUFSVE8iXQ": {
       "account": "main",
@@ -23,7 +91,9 @@
       "dueAt": "2026-10-08T18:25:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7db37d3b0be2fc413585f",
-      "createdAt": "2026-10-08T18:04:39.437Z"
+      "createdAt": "2026-10-08T18:04:39.437Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108262406212182472",
+      "sentAt": "2026-10-08T18:25:02.166Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0ODI1MjAwMDAsIk9UQU1FTkRJLCBGTE9SRVMgWSBQSVpBUlJPIFNFIERFU1RBQ0FST04gRU4gTEEgRkVDSEEgRklGQSJd": {
       "account": "main",
@@ -31,7 +101,9 @@
       "dueAt": "2026-10-08T18:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7db3696e7c60048641322",
-      "createdAt": "2026-10-08T18:04:39.070Z"
+      "createdAt": "2026-10-08T18:04:39.070Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108261148462121335",
+      "sentAt": "2026-10-08T18:20:02.306Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDgyNTIwMDAwLCJCT0NBIFZJQUpBIEEgQ8OTUkRPQkEgQ09OIE1PTlRFUk8sIEJBVFRBR0xJQSBZIEVMIEpVVkVOSUwgSk9BUVXDjU4gUlVJWiJd": {
       "account": "main",
@@ -39,7 +111,9 @@
       "dueAt": "2026-10-08T18:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7db36777d0616a6fc5a3e",
-      "createdAt": "2026-10-08T18:04:38.677Z"
+      "createdAt": "2026-10-08T18:04:38.677Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108259943711232242",
+      "sentAt": "2026-10-08T18:15:15.149Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNDgyNTIwMDAwLCJUQUdMSUFGSUNPIERFSsOTIEFCSUVSVEEgTEEgUFVFUlRBIFBBUkEgVk9MVkVSIEEgSU5ERVBFTkRJRU5URSJd": {
       "account": "main",
@@ -47,7 +121,9 @@
       "dueAt": "2026-10-08T18:10:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7db36777d0616a6fc5a15",
-      "createdAt": "2026-10-08T18:04:38.337Z"
+      "createdAt": "2026-10-08T18:04:38.337Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108258631728746795",
+      "sentAt": "2026-10-08T18:10:02.302Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ3NTYyMDAwMCwiQ09MQVBJTlRPIENPTlTDkyBRVUUgTExPUsOTIENPTiBMQSBERVNQRURJREEgREUgTUVTU0kgWSBZQSBTRSBFTkZPQ0EgRU4gU0lOR0FQVVIiXQ": {
       "account": "f1",
@@ -4767,72 +4843,16 @@
       "dueAt": "2026-09-16T12:40:00.000Z",
       "bufferPostId": "6aaa8d6a0a1c3e6d66020e34",
       "createdAt": "2026-09-16T12:36:58.768Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTU1Njk0MDAwMCwiTEEgRjEgQ09ORklSTcOTIEVMIENBTEVOREFSSU8gMjAyNzogMjQgQ0FSUkVSQVMsIE3DgVMgU1BSSU5UIFkgQVJHRU5USU5BIE9UUkEgVkVaIEFGVUVSQSJd": {
-      "account": "f1",
-      "title": "LA F1 CONFIRMÓ EL CALENDARIO 2027: 24 CARRERAS, MÁS SPRINT Y ARGENTINA OTRA VEZ AFUERA",
-      "dueAt": "2026-09-16T12:20:00.000Z",
-      "bufferPostId": "6aaa883a260ced176a496b4f",
-      "createdAt": "2026-09-16T12:14:50.364Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTUxNDIyMDAwMCwiQ09MQVBJTlRPIENPTlTDkyBDw5NNTyBTRSBDVUlEQSBBTlRFUyBERSBMT1MgRklORVMgREUgU0VNQU5BIERFIEYxIl0": {
-      "account": "f1",
-      "title": "COLAPINTO CONTÓ CÓMO SE CUIDA ANTES DE LOS FINES DE SEMANA DE F1",
-      "dueAt": "2026-09-16T00:30:00.000Z",
-      "bufferPostId": "6aa9e264ce2285243e068531",
-      "createdAt": "2026-09-16T00:27:16.157Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk1MTM0NDAwMDAsIlJPTcOBTiBWRUdBIFJFQ0lCScOTIFNVIFBSSU1FUkEgQ09OVk9DQVRPUklBIEEgTEEgU0VMRUNDScOTTiBBUkdFTlRJTkEiXQ": {
-      "account": "main",
-      "title": "ROMÁN VEGA RECIBIÓ SU PRIMERA CONVOCATORIA A LA SELECCIÓN ARGENTINA",
-      "dueAt": "2026-09-16T00:30:00.000Z",
-      "bufferPostId": "6aa9e263dfcd8cd99b7f5521",
-      "createdAt": "2026-09-16T00:27:15.676Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk1MDYxODAwMDAsIk1FU1NJIFRFTkRSw4EgU1UgREVTUEVESURBIERFIExBIFNFTEVDQ0nDk04gRUwgNiBERSBPQ1RVQlJFIEFOVEUgQkVOw41OIl0": {
-      "account": "main",
-      "title": "MESSI TENDRÁ SU DESPEDIDA DE LA SELECCIÓN EL 6 DE OCTUBRE ANTE BENÍN",
-      "dueAt": "2026-09-15T22:25:00.000Z",
-      "bufferPostId": "6aa9c3e7fb184dbee3dde935",
-      "createdAt": "2026-09-15T22:17:12.151Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk1MDU2NDAwMDAsIlNDQUxPTkkgRElPIExBIFBSSU1FUkEgTElTVEEgUE9TVCBNVU5ESUFMOiBNRVNTSSBZIFZBUklBUyBDQVJBUyBOVUVWQVMiXQ": {
-      "account": "main",
-      "title": "SCALONI DIO LA PRIMERA LISTA POST MUNDIAL: MESSI Y VARIAS CARAS NUEVAS",
-      "dueAt": "2026-09-15T22:20:00.000Z",
-      "bufferPostId": "6aa9c3e7f2c03c15de8ddeb6",
-      "createdAt": "2026-09-15T22:17:11.533Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk0OTY5NDAwMDAsIkJFTsONTiwgRUwgUklWQUwgREUgQVJHRU5USU5BIFFVRSBRVUVEw5MgQSBVTiBQQVNPIERFTCBNVU5ESUFMIDIwMjYiXQ": {
-      "account": "main",
-      "title": "BENÍN, EL RIVAL DE ARGENTINA QUE QUEDÓ A UN PASO DEL MUNDIAL 2026",
-      "dueAt": "2026-09-15T20:20:00.000Z",
-      "bufferPostId": "6aa9a58569943a3a7bcba5ab",
-      "createdAt": "2026-09-15T20:07:34.104Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk0OTY4MjAwMDAsIkJVUktJTkEgRkFTTywgTEEgUFJVRUJBIEFGUklDQU5BIFFVRSBURU5EUsOBIExBIFNFTEVDQ0nDk04gRU4gRUwgTU9OVU1FTlRBTCJd": {
-      "account": "main",
-      "title": "BURKINA FASO, LA PRUEBA AFRICANA QUE TENDRÁ LA SELECCIÓN EN EL MONUMENTAL",
-      "dueAt": "2026-09-15T20:15:00.000Z",
-      "bufferPostId": "6aa9a5856a964063f545db2c",
-      "createdAt": "2026-09-15T20:07:33.675Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NDkwNDYwMDAwLCJJTkRFUEVORElFTlRFIFRJRU5FIFVOIFBST0JMRU1BIERFIEFMT0pBTUlFTlRPIEFOVEVTIERFIFZJU0lUQVIgQSBVTknDk04iXQ": {
-      "account": "main",
-      "title": "INDEPENDIENTE TIENE UN PROBLEMA DE ALOJAMIENTO ANTES DE VISITAR A UNIÓN",
-      "dueAt": "2026-09-15T20:10:00.000Z",
-      "bufferPostId": "6aa9a585ead2fcea2acf0320",
-      "createdAt": "2026-09-15T20:07:33.240Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-08T16:15:00.000Z",
-    "main": "2026-10-08T18:40:00.000Z"
+    "main": "2026-10-08T20:55:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-08T18:04:37.846Z"
+    "lastLinksRefreshAt": "2026-10-08T20:13:55.688Z"
   }
 }
