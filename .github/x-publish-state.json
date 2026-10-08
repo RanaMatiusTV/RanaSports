@@ -1,13 +1,63 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTQ5Njk4MDAwMCwiWEhBS0EgUkVDSUJJw5MgVU5BIE1VTFRBIFNVU1BFTkRJREEgUE9SIFVOIENFUlRJRklDQURPIEZBTFNPIERFIENPVklEIl0": {
+      "account": "main",
+      "title": "XHAKA RECIBIÓ UNA MULTA SUSPENDIDA POR UN CERTIFICADO FALSO DE COVID",
+      "dueAt": "2026-10-08T22:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8139e04eafd1b29b8af9c",
+      "createdAt": "2026-10-08T22:05:18.195Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDk2OTgwMDAwLCJMQSBKVVNUSUNJQSBWT0xWScOTIEEgTkVHQVJMRSBFTCBNQVJBQ0FOw4EgQSBWQVNDTyBQQVJBIFJFQ0lCSVIgQSBCT0NBIl0": {
+      "account": "main",
+      "title": "LA JUSTICIA VOLVIÓ A NEGARLE EL MARACANÁ A VASCO PARA RECIBIR A BOCA",
+      "dueAt": "2026-10-08T22:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8139d608b10642ba8255c",
+      "createdAt": "2026-10-08T22:05:17.684Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTQ5Njk4MDAwMCwiTU9VUklOSE8gUkVDT1JEw5MgRUwgQ0FTTyBQUkVTVElBTk5JLVZJTklDSVVTOiDigJxGVUkgTUFTQUNSQURP4oCdIl0": {
+      "account": "main",
+      "title": "MOURINHO RECORDÓ EL CASO PRESTIANNI-VINICIUS: “FUI MASACRADO”",
+      "dueAt": "2026-10-08T22:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8139c9b31bc9fb8a4fe96",
+      "createdAt": "2026-10-08T22:05:16.679Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0OTY5ODAwMDAsIkxBIFJFU0VSVkEgREUgVEFMTEVSRVMgVEVSTUlOw5MgQSBMQVMgUEnDkUFTIFkgRUwgTEFVQ0hBIEFDT1NUQSBRVUVEw5MgSU5WT0xVQ1JBRE8iXQ": {
+      "account": "main",
+      "title": "LA RESERVA DE TALLERES TERMINÓ A LAS PIÑAS Y EL LAUCHA ACOSTA QUEDÓ INVOLUCRADO",
+      "dueAt": "2026-10-08T22:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8139c762b217eacb54c3b",
+      "createdAt": "2026-10-08T22:05:16.176Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0OTY5ODAwMDAsIkFGQSBIQUJJTElUw5MgQSBJQUNPVklDSCBZIFPDgU5ERVosIFBFUk8gU0lHVUUgSU5WRVNUSUdBTkRPIEEgVkVSw5NOIl0": {
+      "account": "main",
+      "title": "AFA HABILITÓ A IACOVICH Y SÁNDEZ, PERO SIGUE INVESTIGANDO A VERÓN",
+      "dueAt": "2026-10-08T22:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8139bb97326f85962afe2",
+      "createdAt": "2026-10-08T22:05:15.580Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0OTY5ODAwMDAsIkpVTEnDgU4gQ0FNSU5PIEFTRUdVUsOTIFFVRSBNRVNTSSBFUkEgTUVKT1IgUVVFIE1BUkFET05BIEVOIEVMIFRSVUNPIl0": {
+      "account": "main",
+      "title": "JULIÁN CAMINO ASEGURÓ QUE MESSI ERA MEJOR QUE MARADONA EN EL TRUCO",
+      "dueAt": "2026-10-08T22:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8139a608b10642ba8249f",
+      "createdAt": "2026-10-08T22:05:14.989Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJib3hlbyIsMTc5MTQ5MDMyMDAwMCwiRUwgQ0FTSU5PIEJVRU5PUyBBSVJFUyBSRUNJQkUgVU5BIFBFTEVBIElOVEVSTkFDSU9OQUwgUE9SIEVMIEZFREVMQVRJTiBQRVNBRE8iXQ": {
       "account": "main",
       "title": "EL CASINO BUENOS AIRES RECIBE UNA PELEA INTERNACIONAL POR EL FEDELATIN PESADO",
       "dueAt": "2026-10-08T20:50:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7f98853e023600017e065",
-      "createdAt": "2026-10-08T20:14:00.929Z"
+      "createdAt": "2026-10-08T20:14:00.929Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108298898192089472",
+      "sentAt": "2026-10-08T20:50:02.535Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0OTAzMjAwMDAsIlJPSk8gWUEgU0UgRU5UUkVOQSBFTiBFU1RVRElBTlRFUywgUEVSTyBTVSBQUkVTRU5UQUNJw5NOIFNJR1VFIERFTU9SQURBIl0": {
       "account": "main",
@@ -15,7 +65,9 @@
       "dueAt": "2026-10-08T20:45:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7f98862435c1f1fe0bbc8",
-      "createdAt": "2026-10-08T20:14:00.111Z"
+      "createdAt": "2026-10-08T20:14:00.111Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108297648205672824",
+      "sentAt": "2026-10-08T20:45:04.519Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIGVuIGVsIGV4dGVyaW9yIiwxNzkxNDkwMzIwMDAwLCJKVUxJw4FOIMOBTFZBUkVaIERFSkFSw4EgQSBTVSBSRVBSRVNFTlRBTlRFIFRSQVMgRUwgUEFTRSBGQUxMSURPIEFMIEJBUkNFTE9OQSJd": {
       "account": "main",
@@ -23,7 +75,9 @@
       "dueAt": "2026-10-08T20:40:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7f98774384ca756d95d1f",
-      "createdAt": "2026-10-08T20:13:59.669Z"
+      "createdAt": "2026-10-08T20:13:59.669Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108296382733832427",
+      "sentAt": "2026-10-08T20:40:02.861Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDkwMzIwMDAwLCLDmkJFREEgRVhQTElDw5MgUE9SIFFVw4kgU0UgRlVFIERFIEJPQ0EgWSBDw5NNTyBRVUVEw5MgQ09OIFJJUVVFTE1FIl0": {
       "account": "main",
@@ -31,7 +85,9 @@
       "dueAt": "2026-10-08T20:35:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7f98753e023600017e027",
-      "createdAt": "2026-10-08T20:13:59.257Z"
+      "createdAt": "2026-10-08T20:13:59.257Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108295120596422656",
+      "sentAt": "2026-10-08T20:35:01.932Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJjb3BhIHN1ZGFtZXJpY2FuYSIsMTc5MTQ5MDMyMDAwMCwiU0FOVElBR08gU09TQSBRVUlFUkUgRVNUUkVOQVJTRSBFTiBMQSBSRUQgSlVTVE8gQ09OVFJBIEJPQ0EiXQ": {
       "account": "main",
@@ -39,7 +95,9 @@
       "dueAt": "2026-10-08T20:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7f98574384ca756d95cec",
-      "createdAt": "2026-10-08T20:13:57.823Z"
+      "createdAt": "2026-10-08T20:13:57.823Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108293931540611223",
+      "sentAt": "2026-10-08T20:30:18.437Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDkwMzIwMDAwLCJCT0NBIFBSRVNFUlZBUsONQSBBIFBBUkVERVMgWSBDQU1CSUFSw41BIE1FRElPIEVRVUlQTyBBTlRFIElOU1RJVFVUTyJd": {
       "account": "main",
@@ -47,7 +105,9 @@
       "dueAt": "2026-10-08T20:25:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7f985e45f6d165efaa0e9",
-      "createdAt": "2026-10-08T20:13:57.440Z"
+      "createdAt": "2026-10-08T20:13:57.440Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108292612763406734",
+      "sentAt": "2026-10-08T20:25:03.989Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0OTAzMjAwMDAsIkRFIFBBVUwgTEUgRElPIExBIEJJRU5WRU5JREEgQSBOSUNPIFBBWiBDT01PIFJFRkVSRU5URSBERUwgTlVFVk8gQ0lDTE8iXQ": {
       "account": "main",
@@ -55,7 +115,9 @@
       "dueAt": "2026-10-08T20:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7f98453e023600017dfeb",
-      "createdAt": "2026-10-08T20:13:56.673Z"
+      "createdAt": "2026-10-08T20:13:56.673Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108291350412034226",
+      "sentAt": "2026-10-08T20:20:03.019Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNDkwMzIwMDAwLCJJTkRFUEVORElFTlRFIEVOU0FZw5MgVU5BIERFRkVOU0EgQ09NUExFVEFNRU5URSBOVUVWQSBQQVJBIFZJU0lUQVIgQSBUQUxMRVJFUyJd": {
       "account": "main",
@@ -63,7 +125,9 @@
       "dueAt": "2026-10-08T20:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac7f984e45f6d165efaa0ad",
-      "createdAt": "2026-10-08T20:13:56.300Z"
+      "createdAt": "2026-10-08T20:13:56.300Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108290094339649973",
+      "sentAt": "2026-10-08T20:15:03.601Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTQ4MjUyMDAwMCwiUklWRVIgUVVFRMOTIEFOVEUgRUwgUklFU0dPIERFIFBFUkRFUlNFIERPUyBMSUJFUlRBRE9SRVMgQ09OU0VDVVRJVkFTIl0": {
       "account": "main",
@@ -4801,58 +4865,16 @@
       "dueAt": "2026-09-16T19:25:00.000Z",
       "bufferPostId": "6aaaec1dc25469e84e435443",
       "createdAt": "2026-09-16T19:21:02.147Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk1NzIzMDAwMDAsIkdPTFBFIFBBUkEgQVJHRU5USU5BOiBMQSBTVUIgMjAgRkVNRU5JTkEgUVVFRMOTIEFGVUVSQSBERUwgTVVORElBTCBQT1IgTEEgTcONTklNQSJd": {
-      "account": "main",
-      "title": "GOLPE PARA ARGENTINA: LA SUB 20 FEMENINA QUEDÓ AFUERA DEL MUNDIAL POR LA MÍNIMA",
-      "dueAt": "2026-09-16T17:35:00.000Z",
-      "bufferPostId": "6aaad12efc5a886931899f48",
-      "createdAt": "2026-09-16T17:26:06.395Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk1Njk2NjAwMDAsIkFMQVJNQSBFTiBMQSBTRUxFQ0NJw5NOOiBKVUxJw4FOIMOBTFZBUkVaIFkgRk9ZVEggTExFR0FSw41BTiBFTlRSRSBBTEdPRE9ORVMgQSBMT1MgQU1JU1RPU09TIl0": {
-      "account": "main",
-      "title": "ALARMA EN LA SELECCIÓN: JULIÁN ÁLVAREZ Y FOYTH LLEGARÍAN ENTRE ALGODONES A LOS AMISTOSOS",
-      "dueAt": "2026-09-16T17:30:00.000Z",
-      "bufferPostId": "6aaad12d9c269640efb58dec",
-      "createdAt": "2026-09-16T17:26:05.320Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NTc0MTAwMDAwLCJBQkFMRE8gRU5DRU5EScOTIExBIEFMQVJNQSBFTiBJTkRFUEVORElFTlRFOiBFU0dVSU5DRSBZIERVREEgUEFSQSBWSVNJVEFSIEEgVU5Jw5NOIl0": {
-      "account": "main",
-      "title": "ABALDO ENCENDIÓ LA ALARMA EN INDEPENDIENTE: ESGUINCE Y DUDA PARA VISITAR A UNIÓN",
-      "dueAt": "2026-09-16T16:20:00.000Z",
-      "bufferPostId": "6aaac08a454a5fdb57db0fa1",
-      "createdAt": "2026-09-16T16:15:06.843Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3ODk1MjczMDAwMDAsIkJPQ0EgRU1QQVTDkyBFTiBFTCBNT1JVTULDjSBZIFNFIE1FVEnDkyBFTiBTRU1JRklOQUxFUyBERSBMQSBTVURBTUVSSUNBTkEiXQ": {
-      "account": "main",
-      "title": "BOCA EMPATÓ EN EL MORUMBÍ Y SE METIÓ EN SEMIFINALES DE LA SUDAMERICANA",
-      "dueAt": "2026-09-16T15:25:00.000Z",
-      "bufferPostId": "6aaab2e04cc1ff42acacbf47",
-      "createdAt": "2026-09-16T15:16:48.151Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NTY2MDAwMDAwLCJJTkRFUEVORElFTlRFIFNFIFFVRUTDkyBTSU4gSE9URUw6IExPUyBTVVJBTUVSSUNBTk9TIExPIE9CTElHQU4gQSBDT05DRU5UUkFSIEZVRVJBIERFIFNBTlRBIEZFIl0": {
-      "account": "main",
-      "title": "INDEPENDIENTE SE QUEDÓ SIN HOTEL: LOS SURAMERICANOS LO OBLIGAN A CONCENTRAR FUERA DE SANTA FE",
-      "dueAt": "2026-09-16T15:20:00.000Z",
-      "bufferPostId": "6aaab2df4cc1ff42acacbf0f",
-      "createdAt": "2026-09-16T15:16:47.666Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTU1Njk0MDAwMCwiQVJHRU5USU5BLCBPVFJBIFZFWiBBRlVFUkE6IExBIEYxIENPTkZJUk3DkyBTVSBDQUxFTkRBUklPIDIwMjciXQ": {
-      "account": "f1",
-      "title": "ARGENTINA, OTRA VEZ AFUERA: LA F1 CONFIRMÓ SU CALENDARIO 2027",
-      "dueAt": "2026-09-16T12:40:00.000Z",
-      "bufferPostId": "6aaa8d6a0a1c3e6d66020e34",
-      "createdAt": "2026-09-16T12:36:58.768Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-08T16:15:00.000Z",
-    "main": "2026-10-08T20:55:00.000Z"
+    "main": "2026-10-08T22:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-08T20:13:55.688Z"
+    "lastLinksRefreshAt": "2026-10-08T22:05:14.491Z"
   }
 }
