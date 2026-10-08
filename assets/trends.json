@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-08T13:26:39.028Z",
+  "updatedAt": "2026-10-08T19:26:32.791Z",
   "trends": [
     {
-      "query": "luna nueva",
-      "startedAt": "2026-10-08T13:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "presidente de burkina faso",
-      "startedAt": "2026-10-08T13:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "alejandro domínguez",
-      "startedAt": "2026-10-08T13:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "antonio laje",
-      "startedAt": "2026-10-08T13:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "miguel angel russo",
-      "startedAt": "2026-10-08T12:50:00.000Z",
+      "query": "petróleo",
+      "startedAt": "2026-10-08T19:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "paul mescal",
-      "startedAt": "2026-10-08T12:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "maximiliano ghione",
-      "startedAt": "2026-10-08T11:50:00.000Z",
+      "query": "ezequiel garay",
+      "startedAt": "2026-10-08T19:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "s&p 500",
-      "startedAt": "2026-10-08T11:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "8 de octubre que se celebra",
-      "startedAt": "2026-10-08T11:40:00.000Z",
+      "query": "brunéi",
+      "startedAt": "2026-10-08T18:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "premio nobel de literatura 2026",
-      "startedAt": "2026-10-08T11:40:00.000Z",
-      "volume": 100
+      "query": "estrecho de magallanes",
+      "startedAt": "2026-10-08T18:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "cd moquegua - cienciano",
+      "startedAt": "2026-10-08T18:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "fernando alonso",
+      "startedAt": "2026-10-08T17:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "arresto",
+      "startedAt": "2026-10-08T17:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "balón de oro",
+      "startedAt": "2026-10-08T17:30:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "mauricio filiberti",
+      "startedAt": "2026-10-08T17:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "impuesto a las ganancias",
+      "startedAt": "2026-10-08T17:20:00.000Z",
+      "volume": 1000
     }
   ]
 }
