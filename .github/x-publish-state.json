@@ -1,26 +1,109 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ2ODEyMDAwMCwiTEEgRklBIEVYUExJQ8OTIExBIEZBTExBIERFIFNPRlRXQVJFIFFVRSBERUrDkyBTSU4gUE9URU5DSUEgQSBWQVJJT1MgQVVUT1MgRU4gU0VQQU5HIl0": {
+      "account": "f1",
+      "title": "LA FIA EXPLICÓ LA FALLA DE SOFTWARE QUE DEJÓ SIN POTENCIA A VARIOS AUTOS EN SEPANG",
+      "dueAt": "2026-10-08T14:40:00.000Z",
+      "bufferPostId": "6ac7aa6e08d405a9e70569fd",
+      "createdAt": "2026-10-08T14:36:30.669Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTQ2MTQwMDAwMCwiTE9TIEdFU1RPUyBERSBNRVNTSSBDT04gTE9TIEVNUExFQURPUyBERSBBRkEgUVVFIFJFVkVMw5MgSlVMScOBTiBDQU1JTk8iXQ": {
+      "account": "main",
+      "title": "LOS GESTOS DE MESSI CON LOS EMPLEADOS DE AFA QUE REVELÓ JULIÁN CAMINO",
+      "dueAt": "2026-10-08T15:25:00.000Z",
+      "bufferPostId": "6ac7aa6edaf7bb7cba259796",
+      "createdAt": "2026-10-08T14:36:30.298Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTQ2MTQwMDAwMCwiU09Sw41OIEZVRSBDT05UVU5ERU5URSBDT04gUklWRVI6IOKAnEVTIERPTE9ST1NPIFZFUkxPIEpVR0FS4oCdIl0": {
+      "account": "main",
+      "title": "SORÍN FUE CONTUNDENTE CON RIVER: “ES DOLOROSO VERLO JUGAR”",
+      "dueAt": "2026-10-08T15:20:00.000Z",
+      "bufferPostId": "6ac7aa6ddaf7bb7cba25976d",
+      "createdAt": "2026-10-08T14:36:29.913Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0NTQxNDAwMDAsIk1VUknDkyBVTiBFWFRFU09SRVJPIERFIENPTMOTTiBUUkFTIFVOQSBBR1JFU0nDk04gRU4gVU5BIERJU0NVU0nDk04gREUgVFLDgU5TSVRPIl0": {
+      "account": "main",
+      "title": "MURIÓ UN EXTESORERO DE COLÓN TRAS UNA AGRESIÓN EN UNA DISCUSIÓN DE TRÁNSITO",
+      "dueAt": "2026-10-08T15:15:00.000Z",
+      "bufferPostId": "6ac7aa6d82db5af660c93d52",
+      "createdAt": "2026-10-08T14:36:29.398Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTQ1NDE0MDAwMCwiR0FCUklFTCBST0RSw41HVUVaIERFSkEgUklWRVIgREVTUFXDiVMgREUgTcOBUyBERSAyNSBBw5FPUyBGT1JNQU5ETyBUQUxFTlRPUyJd": {
+      "account": "main",
+      "title": "GABRIEL RODRÍGUEZ DEJA RIVER DESPUÉS DE MÁS DE 25 AÑOS FORMANDO TALENTOS",
+      "dueAt": "2026-10-08T15:10:00.000Z",
+      "bufferPostId": "6ac7aa6c444a36d3be25f696",
+      "createdAt": "2026-10-08T14:36:28.802Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDU0MTQwMDAwLCJWQVNDTyBHQU7DkyBFTCBDTMOBU0lDTyBDT04gR09MIEFSR0VOVElOTyBZIExMRUdBIEVOIFJBQ0hBIFBBUkEgRU5GUkVOVEFSIEEgQk9DQSJd": {
+      "account": "main",
+      "title": "VASCO GANÓ EL CLÁSICO CON GOL ARGENTINO Y LLEGA EN RACHA PARA ENFRENTAR A BOCA",
+      "dueAt": "2026-10-08T15:05:00.000Z",
+      "bufferPostId": "6ac7aa6ce63932e2c5a66a71",
+      "createdAt": "2026-10-08T14:36:28.428Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTQ1NDE0MDAwMCwiRE9Nw41OR1VFWiBERVNBRknDkyBBIE1FU1NJIEEgSlVHQVIgTEEgQ09QQSBMSUJFUlRBRE9SRVMiXQ": {
+      "account": "main",
+      "title": "DOMÍNGUEZ DESAFIÓ A MESSI A JUGAR LA COPA LIBERTADORES",
+      "dueAt": "2026-10-08T15:00:00.000Z",
+      "bufferPostId": "6ac7aa6bdaf7bb7cba259732",
+      "createdAt": "2026-10-08T14:36:27.869Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTQ1NDE0MDAwMCwiTUVTU0kgTEUgUkVHQUzDkyBBIFJJVkVSIFVOQSBDQU1JU0VUQSBGSVJNQURBIFFVRSBRVUVEQVLDgSBFTiBFTCBNVVNFTyJd": {
+      "account": "main",
+      "title": "MESSI LE REGALÓ A RIVER UNA CAMISETA FIRMADA QUE QUEDARÁ EN EL MUSEO",
+      "dueAt": "2026-10-08T14:55:00.000Z",
+      "bufferPostId": "6ac7aa6b82db5af660c93d0f",
+      "createdAt": "2026-10-08T14:36:27.436Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTQ1NDE0MDAwMCwiQUZBIERFU1BJREnDkyBBIE1FU1NJIENPTiBVTiBFTU9USVZPIFZJREVPOiDigJxVTk8gTcOBUyBERSBOT1NPVFJPU-KAnSJd": {
+      "account": "main",
+      "title": "AFA DESPIDIÓ A MESSI CON UN EMOTIVO VIDEO: “UNO MÁS DE NOSOTROS”",
+      "dueAt": "2026-10-08T14:50:00.000Z",
+      "bufferPostId": "6ac7aa6adaf7bb7cba259709",
+      "createdAt": "2026-10-08T14:36:27.041Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0NjgxMjAwMDAsIlRBR0xJQUZJQ08gUkVWRUzDkyBRVUUgSlVHw5MgTEEgRklOQUwgREVMIE1VTkRJQUwgQ09OIExPUyBET1MgQ1XDgURSSUNFUFMgQUNBTEFNQlJBRE9TIl0": {
+      "account": "main",
+      "title": "TAGLIAFICO REVELÓ QUE JUGÓ LA FINAL DEL MUNDIAL CON LOS DOS CUÁDRICEPS ACALAMBRADOS",
+      "dueAt": "2026-10-08T14:45:00.000Z",
+      "bufferPostId": "6ac7aa6a08d405a9e7056990",
+      "createdAt": "2026-10-08T14:36:26.567Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0NjE0MDAwMDAsIkVMIERUIERFIEJFTsONTiBTRSBRVUVKw5MgVFJBUyBMQSBERVNQRURJREEgREUgTUVTU0k6IOKAnE5PIE5PUyBESUVST04gTkFEQeKAnSJd": {
+      "account": "main",
+      "title": "EL DT DE BENÍN SE QUEJÓ TRAS LA DESPEDIDA DE MESSI: “NO NOS DIERON NADA”",
+      "dueAt": "2026-10-08T14:40:00.000Z",
+      "bufferPostId": "6ac7aa6a82db5af660c93ce6",
+      "createdAt": "2026-10-08T14:36:26.175Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MjQ4NjAwMDAsIlJPTcOBTiBWRUdBIFkgU1UgVElNSURFWiBDT04gTUVTU0k6IOKAnE5PIFBPRMONQSBOSSBNSVJBUkxPIEEgTE9TIE9KT1PigJ0iXQ": {
       "account": "main",
       "title": "ROMÁN VEGA Y SU TIMIDEZ CON MESSI: “NO PODÍA NI MIRARLO A LOS OJOS”",
       "dueAt": "2026-10-08T09:00:00.000Z",
       "bufferPostId": "6ac758ea6bf3dfa8dcf297ee",
-      "createdAt": "2026-10-08T08:48:42.197Z"
+      "createdAt": "2026-10-08T08:48:42.197Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108120229830123688",
+      "sentAt": "2026-10-08T09:00:04.680Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MjQ4NjAwMDAsIlNDQUxPTkkgUVVJRVJFIENPTlZFTkNFUiBBIFdBTFRFUiBTQU1VRUwgUEFSQSBRVUUgU0lHQSBFTiBMQSBTRUxFQ0NJw5NOIl0": {
       "account": "main",
       "title": "SCALONI QUIERE CONVENCER A WALTER SAMUEL PARA QUE SIGA EN LA SELECCIÓN",
       "dueAt": "2026-10-08T08:55:00.000Z",
       "bufferPostId": "6ac758e911ada005acb42fb4",
-      "createdAt": "2026-10-08T08:48:41.876Z"
+      "createdAt": "2026-10-08T08:48:41.876Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108118958410694881",
+      "sentAt": "2026-10-08T08:55:01.567Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzEzODAwMDAsIkVMIEVNT1RJVk8gTUVOU0FKRSBERSBMVUlTIFNVw4FSRVogUEFSQSBNRVNTSSBBTlRFUyBERSBTVSBERVNQRURJREEgREUgTEEgU0VMRUNDScOTTiJd": {
       "account": "main",
       "title": "EL EMOTIVO MENSAJE DE LUIS SUÁREZ PARA MESSI ANTES DE SU DESPEDIDA DE LA SELECCIÓN",
       "dueAt": "2026-10-08T08:50:00.000Z",
       "bufferPostId": "6ac758e96bf3dfa8dcf2978c",
-      "createdAt": "2026-10-08T08:48:41.243Z"
+      "createdAt": "2026-10-08T08:48:41.243Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108117704401916172",
+      "sentAt": "2026-10-08T08:50:02.643Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQxMDY0MDAwMCwiQ09MQVBJTlRPIERFU1BJREnDkyBBIE1FU1NJIENPTiBVTiBNRU5TQUpFLCBMQSBDQU1JU0VUQSAxOSBZIFVOQSBDQU5DScOTTiBERSBPQVNJUyJd": {
       "account": "f1",
@@ -4661,88 +4744,11 @@
       "dueAt": "2026-09-13T14:55:00.000Z",
       "bufferPostId": "6aa6b8eb4cc07ffa4d385b7b",
       "createdAt": "2026-09-13T14:53:31.672Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMyIsMTc4OTI5ODcwMDAwMCwiVEFQT05FTiBHQU7DkyBMQSDDmkxUSU1BIENBUlJFUkEgREUgRjMgRU4gTUFEUklEIFkgTE9HUsOTIFNVIFBSSU1FUiBUUklVTkZPIl0": {
-      "account": "f1",
-      "title": "TAPONEN GANÓ LA ÚLTIMA CARRERA DE F3 EN MADRID Y LOGRÓ SU PRIMER TRIUNFO",
-      "dueAt": "2026-09-13T14:35:00.000Z",
-      "bufferPostId": "6aa6b0dd4cc07ffa4d37ace7",
-      "createdAt": "2026-09-13T14:19:09.304Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTMwNzE2MDAwMCwiQkVHQU5PVklDIERPTUlOw5MgREUgUFVOVEEgQSBQVU5UQSBZIEdBTsOTIExBIEZFQVRVUkUgUkFDRSBERSBGMiBFTiBNQURSSUQiXQ": {
-      "account": "f1",
-      "title": "BEGANOVIC DOMINÓ DE PUNTA A PUNTA Y GANÓ LA FEATURE RACE DE F2 EN MADRID",
-      "dueAt": "2026-09-13T14:30:00.000Z",
-      "bufferPostId": "6aa6b0dc1f8cf810a1146313",
-      "createdAt": "2026-09-13T14:19:08.364Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMyIsMTc4OTI5ODY0MDAwMCwiVUdPQ0hVS1dVIFNFIENPTlNBR1LDkyBDQU1QRcOTTiBERSBMQSBGw5NSTVVMQSAzIEVOIE1BRFJJRCJd": {
-      "account": "f1",
-      "title": "UGOCHUKWU SE CONSAGRÓ CAMPEÓN DE LA FÓRMULA 3 EN MADRID",
-      "dueAt": "2026-09-13T14:25:00.000Z",
-      "bufferPostId": "6aa6b0db57098b213379eaa6",
-      "createdAt": "2026-09-13T14:19:07.645Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJib2NhIiwxNzg5Mjk3NTAwMDAwLCJCT0NBIE9GRVJUw5MgNCBNSUxMT05FUyBERSBEw5NMQVJFUyBQT1IgRUwgODAlIERFIE1BVMONQVMgR0FMQVJaQSJd": {
-      "account": "main",
-      "title": "BOCA OFERTÓ 4 MILLONES DE DÓLARES POR EL 80% DE MATÍAS GALARZA",
-      "dueAt": "2026-09-13T13:00:00.000Z",
-      "bufferPostId": "6aa69caeef4d6e3778cb758a",
-      "createdAt": "2026-09-13T12:53:03.076Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc4OTI4OTc2MDAwMCwiSlVMScOBTiDDgUxWQVJFWiBFUyBCQUpBIEVOIEFUTMOJVElDTyBERSBNQURSSUQgUE9SIFVOQSBTT0JSRUNBUkdBIE1VU0NVTEFSIl0": {
-      "account": "main",
-      "title": "JULIÁN ÁLVAREZ ES BAJA EN ATLÉTICO DE MADRID POR UNA SOBRECARGA MUSCULAR",
-      "dueAt": "2026-09-13T12:55:00.000Z",
-      "bufferPostId": "6aa69cadbcabda92e1aebc00",
-      "createdAt": "2026-09-13T12:53:02.164Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ2ZWxleiIsMTc4OTI1OTY0MDAwMCwiTUFNTUFOQSBGVUUgVFJBU0xBREFETyBBIEJVRU5PUyBBSVJFUyBZIE5PIEpVR0FSw4EgTcOBUyBFTiAyMDI2Il0": {
-      "account": "main",
-      "title": "MAMMANA FUE TRASLADADO A BUENOS AIRES Y NO JUGARÁ MÁS EN 2026",
-      "dueAt": "2026-09-13T06:00:00.000Z",
-      "bufferPostId": "6aa63a98f7b1958d5cdeddf6",
-      "createdAt": "2026-09-13T05:54:32.405Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTIyNzYwMDAwMCwiQ09MQVBJTlRPOiDigJxGVUUgVU5BIERFIE1JUyBNRUpPUkVTIFFVQUxZU-KAnTsgQUxQSU5FIE5PIEVTUEVSQUJBIExMRUdBUiBBIFEzIl0": {
-      "account": "f1",
-      "title": "COLAPINTO: “FUE UNA DE MIS MEJORES QUALYS”; ALPINE NO ESPERABA LLEGAR A Q3",
-      "dueAt": "2026-09-13T03:00:00.000Z",
-      "bufferPostId": "6aa61082f7b1958d5cdbb0ce",
-      "createdAt": "2026-09-13T02:54:58.853Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODkyNjIyODAwMDAsIk1FU1NJIE1FVEnDkyBVTiBHT0xBWk8sIFBFUk8gSU5URVIgTUlBTUkgRU1QQVTDkyAyLTIgQ09OIE5BU0hWSUxMRSJd": {
-      "account": "main",
-      "title": "MESSI METIÓ UN GOLAZO, PERO INTER MIAMI EMPATÓ 2-2 CON NASHVILLE",
-      "dueAt": "2026-09-13T01:55:00.000Z",
-      "bufferPostId": "6aa601a6eba7bc567789b86d",
-      "createdAt": "2026-09-13T01:51:34.964Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MjU2NTgwMDAwLCJBUklBUyBWT0xWScOTIEUgSVbDgU4gTU9SQUxFUyBGVUUgQ0lUQURPIFBPUiBQUklNRVJBIFZFWiBQQVJBIEVMIENMw4FTSUNPIl0": {
-      "account": "main",
-      "title": "ARIAS VOLVIÓ E IVÁN MORALES FUE CITADO POR PRIMERA VEZ PARA EL CLÁSICO",
-      "dueAt": "2026-09-12T23:55:00.000Z",
-      "bufferPostId": "6aa5e543e58a7c358370a588",
-      "createdAt": "2026-09-12T23:50:27.246Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJlc3R1ZGlhbnRlcyIsMTc4OTI0MzIwMDAwMCwiQ0FSUklMTE8gQVBBUkVDScOTIFNPQlJFIExBIEhPUkEgWSBFU1RVRElBTlRFUyBMRSBHQU7DkyAyLTEgQSBQTEFURU5TRSJd": {
-      "account": "main",
-      "title": "CARRILLO APARECIÓ SOBRE LA HORA Y ESTUDIANTES LE GANÓ 2-1 A PLATENSE",
-      "dueAt": "2026-09-12T22:00:00.000Z",
-      "bufferPostId": "6aa5cadfbcabda92e19e3690",
-      "createdAt": "2026-09-12T21:57:51.732Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJwb2xpZGVwb3J0aXZvIiwxNzg5MjQ2ODAwMDAwLCJTQU5UQSBGRSAyMDI2IEFCUknDkyBTVVMgSlVFR09TIENPTiBVTkEgQ0VSRU1PTklBIE1PTlVNRU5UQUwgRU4gUk9TQVJJTyJd": {
-      "account": "main",
-      "title": "SANTA FE 2026 ABRIÓ SUS JUEGOS CON UNA CEREMONIA MONUMENTAL EN ROSARIO",
-      "dueAt": "2026-09-12T21:20:00.000Z",
-      "bufferPostId": "6aa5c046f7b1958d5cd63606",
-      "createdAt": "2026-09-12T21:12:38.469Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-08T02:10:00.000Z",
-    "main": "2026-10-08T09:05:00.000Z"
+    "f1": "2026-10-08T14:45:00.000Z",
+    "main": "2026-10-08T15:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
