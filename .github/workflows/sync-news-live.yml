@@ -9,6 +9,7 @@ on:
   push:
     paths:
       - '.github/workflows/sync-news-live.yml'
+      - '.github/radar-sync-pulse.txt'
 
 permissions:
   contents: write
