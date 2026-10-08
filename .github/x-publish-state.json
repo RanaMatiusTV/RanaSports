@@ -1,6 +1,78 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTQ2ODEyMDAwMCwiTEFVVEFSTyBQRVJFWVJBIEdBTsOTIFRFUlJFTk8gWSBQVUVERSBSRUVNUExBWkFSIEEgVEhJQUdPIEFMTUFEQSBFTiBSSVZFUiJd": {
+      "account": "main",
+      "title": "LAUTARO PEREYRA GANÓ TERRENO Y PUEDE REEMPLAZAR A THIAGO ALMADA EN RIVER",
+      "dueAt": "2026-10-08T14:39:55.503Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ac7ab3be63932e2c5a6871f",
+      "createdAt": "2026-10-08T14:39:57.641Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDY4MTIwMDAwLCJMQSBWVUVMVEEgREUgTU9OVEVSTyBPQkxJR0EgQSBCT0NBIEEgREVKQVIgQUZVRVJBIEEgVU4gRVhUUkFOSkVSTyBBTlRFIElOU1RJVFVUTyJd": {
+      "account": "main",
+      "title": "LA VUELTA DE MONTERO OBLIGA A BOCA A DEJAR AFUERA A UN EXTRANJERO ANTE INSTITUTO",
+      "dueAt": "2026-10-08T14:39:51.339Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ac7ab3782db5af660c95c14",
+      "createdAt": "2026-10-08T14:39:53.477Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTQ2ODEyMDAwMCwiRUwgQ8OBTElETyBFTkNVRU5UUk8gRU5UUkUgQ0VMSUEsIExBIE1BTcOBIERFIE1FU1NJLCBZIERBVk8gWEVORUlaRSBFTiBFTCBNT05VTUVOVEFMIl0": {
+      "account": "main",
+      "title": "EL CÁLIDO ENCUENTRO ENTRE CELIA, LA MAMÁ DE MESSI, Y DAVO XENEIZE EN EL MONUMENTAL",
+      "dueAt": "2026-10-08T14:39:47.040Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ac7ab3308d405a9e70585c5",
+      "createdAt": "2026-10-08T14:39:49.199Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIiwxNzkxNDY4MTIwMDAwLCJHQUxBVEFTQVJBWSBSRVZFTMOTIFBPUiBRVcOJIE5PIFJFTk9Ww5MgQSBJQ0FSREkgWSBQUkVQQVJBIFVOQSBERVNQRURJREEiXQ": {
+      "account": "main",
+      "title": "GALATASARAY REVELÓ POR QUÉ NO RENOVÓ A ICARDI Y PREPARA UNA DESPEDIDA",
+      "dueAt": "2026-10-08T14:39:42.686Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ac7ab2ee63932e2c5a68583",
+      "createdAt": "2026-10-08T14:39:44.835Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDY4MTIwMDAwLCJEQUxNQSBDT05Uw5MgTEEgU09SUFJFU0EgUVVFIEhJWk8gTExPUkFSIEEgTUFSQURPTkEgRU4gU1UgUkVHUkVTTyBBIEJPQ0EiXQ": {
+      "account": "main",
+      "title": "DALMA CONTÓ LA SORPRESA QUE HIZO LLORAR A MARADONA EN SU REGRESO A BOCA",
+      "dueAt": "2026-10-08T14:39:39.777Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ac7ab2b82db5af660c95afa",
+      "createdAt": "2026-10-08T14:39:40.910Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0NjE0MDAwMDAsIklOREVQRU5ESUVOVEUgUklWQURBVklBIFFVSUVSRSBSRVBBVFJJQVIgQSBSRUFMSSBQQVJBIFJFRU1QTEFaQVIgQSBTQUxBUyJd": {
+      "account": "main",
+      "title": "INDEPENDIENTE RIVADAVIA QUIERE REPATRIAR A REALI PARA REEMPLAZAR A SALAS",
+      "dueAt": "2026-10-08T14:39:35.856Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ac7ab27e63932e2c5a683da",
+      "createdAt": "2026-10-08T14:39:37.993Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJpbnRlcm5hY2lvbmFsIiwxNzkxNDYxNDAwMDAwLCJDUklTVElBTk8gUk9OQUxETyBMRSBQRUfDkyBBIFVOIFBFUklPRElTVEE6IOKAnERFSsOBIEVMIELDk1RPWCwgUEFSRUPDiVMgVU5BIE1BTlpBTkHigJ0iXQ": {
+      "account": "main",
+      "title": "CRISTIANO RONALDO LE PEGÓ A UN PERIODISTA: “DEJÁ EL BÓTOX, PARECÉS UNA MANZANA”",
+      "dueAt": "2026-10-08T14:39:31.535Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ac7ab23444a36d3be261048",
+      "createdAt": "2026-10-08T14:39:33.722Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTQ2MTQwMDAwMCwiUklWRVIgQ09SUkUgUklFU0dPIERFIFFVRURBUlNFIEFGVUVSQSBERSBET1MgTElCRVJUQURPUkVTIENPTlNFQ1VUSVZBUyJd": {
+      "account": "main",
+      "title": "RIVER CORRE RIESGO DE QUEDARSE AFUERA DE DOS LIBERTADORES CONSECUTIVAS",
+      "dueAt": "2026-10-08T14:39:27.310Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ac7ab1f444a36d3be260f90",
+      "createdAt": "2026-10-08T14:39:29.500Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTQ2MTQwMDAwMCwiVU4gRVhTUEFSUklORyBDT05Uw5MgQ8OTTU8gTUVTU0kgWSBMQSBTRUxFQ0NJw5NOIEhJQ0lFUk9OIDIyMCBQQVNFUyBTSU4gUEVSREVSTEEiXQ": {
+      "account": "main",
+      "title": "UN EXSPARRING CONTÓ CÓMO MESSI Y LA SELECCIÓN HICIERON 220 PASES SIN PERDERLA",
+      "dueAt": "2026-10-08T14:39:22.921Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ac7ab1a82db5af660c953d6",
+      "createdAt": "2026-10-08T14:39:25.083Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ2ODEyMDAwMCwiTEEgRklBIEVYUExJQ8OTIExBIEZBTExBIERFIFNPRlRXQVJFIFFVRSBERUrDkyBTSU4gUE9URU5DSUEgQSBWQVJJT1MgQVVUT1MgRU4gU0VQQU5HIl0": {
       "account": "f1",
       "title": "LA FIA EXPLICÓ LA FALLA DE SOFTWARE QUE DEJÓ SIN POTENCIA A VARIOS AUTOS EN SEPANG",
@@ -4681,69 +4753,6 @@
       "dueAt": "2026-09-14T08:55:00.000Z",
       "bufferPostId": "6aa7b57eba0c45f3d2a54968",
       "createdAt": "2026-09-14T08:51:10.506Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MzUxMjAwMDAwLCJWSUVSQSBESUpPIFFVRSBFTCBFTVBBVEUgRlVFIElOSlVTVE8gWSBDT05GSVJNw5MgUVVFIFlBIFBBU8OTIE5PTUJSRVMgUEFSQSBSRUZPUlpBUiBBTCBST0pPIl0": {
-      "account": "main",
-      "title": "VIERA DIJO QUE EL EMPATE FUE INJUSTO Y CONFIRMÓ QUE YA PASÓ NOMBRES PARA REFORZAR AL ROJO",
-      "dueAt": "2026-09-14T04:20:00.000Z",
-      "bufferPostId": "6aa77559490f0fc8d8b29540",
-      "createdAt": "2026-09-14T04:17:29.421Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MzQ0OTAwMDAwLCJJTkRFUEVORElFTlRFIFkgU0FOIExPUkVOWk8gRU1QQVRBUk9OIDEtMSBFTiBBVkVMTEFORURBIl0": {
-      "account": "main",
-      "title": "INDEPENDIENTE Y SAN LORENZO EMPATARON 1-1 EN AVELLANEDA",
-      "dueAt": "2026-09-14T00:55:00.000Z",
-      "bufferPostId": "6aa7451af7a3dd26517ee595",
-      "createdAt": "2026-09-14T00:51:38.591Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MzM4MTIwMDAwLCJBUlJBWUFHTyBNQVJDw5MgU1UgUFJJTUVSIEdPTCBFTiBQUklNRVJBIFkgUFVTTyBFTCAxLTAgREUgSU5ERVBFTkRJRU5URSBFTiBFTCBDTMOBU0lDTyJd": {
-      "account": "main",
-      "title": "ARRAYAGO MARCÓ SU PRIMER GOL EN PRIMERA Y PUSO EL 1-0 DE INDEPENDIENTE EN EL CLÁSICO",
-      "dueAt": "2026-09-13T23:00:00.000Z",
-      "bufferPostId": "6aa729db66679b076f366ae0",
-      "createdAt": "2026-09-13T22:55:23.978Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMyIsMTc4OTI4ODUwMDAwMCwiQ09MTkFHSEkgQ0VSUsOTIFNVIFBSSU1FUiBBw5FPIEVOIEYzIENPTiBVTiBHUkFOIDXCsCBQVUVTVE8gRU4gTUFEUklEIl0": {
-      "account": "f1",
-      "title": "COLNAGHI CERRÓ SU PRIMER AÑO EN F3 CON UN GRAN 5° PUESTO EN MADRID",
-      "dueAt": "2026-09-13T21:25:00.000Z",
-      "bufferPostId": "6aa713d4eba7bc5677a2239d",
-      "createdAt": "2026-09-13T21:21:25.006Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTMyOTI0MDAwMCwiQlJJQVRPUkUgRUxPR0nDkyBBIENPTEFQSU5UTzog4oCcSElaTyBVTiBUUkFCQUpPIEVTUEVDVEFDVUxBUuKAnSJd": {
-      "account": "f1",
-      "title": "BRIATORE ELOGIÓ A COLAPINTO: “HIZO UN TRABAJO ESPECTACULAR”",
-      "dueAt": "2026-09-13T20:55:00.000Z",
-      "bufferPostId": "6aa70d651f8cf810a11d0238",
-      "createdAt": "2026-09-13T20:53:57.914Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTMxNzM2MDAwMCwiRUwgR0VTVE8gREUgQ09MQVBJTlRPIFFVRSBFTU9DSU9Ow5MgQSBVTiBDT01JU0FSSU8gQVJHRU5USU5PIEVOIE1BRFJJRCJd": {
-      "account": "f1",
-      "title": "EL GESTO DE COLAPINTO QUE EMOCIONÓ A UN COMISARIO ARGENTINO EN MADRID",
-      "dueAt": "2026-09-13T18:15:00.000Z",
-      "bufferPostId": "6aa6e7b24cc07ffa4d3d518e",
-      "createdAt": "2026-09-13T18:13:06.388Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTMyMDI0MDAwMCwiQ09MQVBJTlRPIFNFIFBMQU5Uw5MgUE9SIFJBRElPIEVOIEVMIEZJTkFMOiDigJxDSElDT1MsIE5PIFBFUkRBTU9TIFRJRU1QT-KAnSJd": {
-      "account": "f1",
-      "title": "COLAPINTO SE PLANTÓ POR RADIO EN EL FINAL: “CHICOS, NO PERDAMOS TIEMPO”",
-      "dueAt": "2026-09-13T17:50:00.000Z",
-      "bufferPostId": "6aa6e172eba7bc56779deb83",
-      "createdAt": "2026-09-13T17:46:26.332Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTMxMDk0MDAwMCwiQ09MQVBJTlRPIFRFUk1JTsOTIDfCsCBFTiBNQURSSUQgWSBBTlRPTkVMTEkgR0FOw5MgRUwgR1AgREUgRVNQQcORQSJd": {
-      "account": "f1",
-      "title": "COLAPINTO TERMINÓ 7° EN MADRID Y ANTONELLI GANÓ EL GP DE ESPAÑA",
-      "dueAt": "2026-09-13T15:10:00.000Z",
-      "bufferPostId": "6aa6bbb566679b076f2c7765",
-      "createdAt": "2026-09-13T15:05:25.703Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTI5NjMwMDAwMCwiVkFSUk9ORSBURVJNSU7DkyAxNcKwIEVOIExBIEZFQVRVUkUgUkFDRSBERSBGMiBFTiBNQURSSUQiXQ": {
-      "account": "f1",
-      "title": "VARRONE TERMINÓ 15° EN LA FEATURE RACE DE F2 EN MADRID",
-      "dueAt": "2026-09-13T14:55:00.000Z",
-      "bufferPostId": "6aa6b8eb4cc07ffa4d385b7b",
-      "createdAt": "2026-09-13T14:53:31.672Z"
     }
   },
   "nextAt": {
