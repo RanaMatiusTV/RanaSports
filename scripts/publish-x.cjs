@@ -6,7 +6,7 @@ const LEGACY_SITE_BASE = 'https://ranamatiustv.github.io/RanaSports/';
 const STATE_PATH = '.github/x-publish-state.json';
 const BUFFER_API = 'https://api.buffer.com';
 const SLOT_MS = 5 * 60 * 1000;
-const MAX_FUTURE_PER_CHANNEL = 30;
+const MAX_FUTURE_PER_CHANNEL = 10;
 const MAIN_HANDLE = (process.env.BUFFER_MAIN_HANDLE || 'RanaMatiusTV').replace(/^@/, '');
 const F1_HANDLE = (process.env.BUFFER_F1_HANDLE || 'RanaF1TV').replace(/^@/, '');
 
@@ -308,15 +308,17 @@ async function discoverChannels(apiKey, state) {
   if (f1) state.buffer.f1ChannelId = f1.id;
 }
 
-async function createBufferPost(apiKey, channelId, text, image, dueAt) {
+async function createBufferPost(apiKey, channelId, text, image, dueAt, sendNow = false) {
+  const schedule = sendNow
+    ? 'mode:shareNow'
+    : `mode:customScheduled,\n      dueAt:${gqlString(dueAt)}`;
   const imageAssets = image ? `,\n      assets:[{image:{url:${gqlString(image)}}}]` : '';
   const query = `mutation CreatePost {
     createPost(input:{
       text:${gqlString(text)},
       channelId:${gqlString(channelId)},
       schedulingType:automatic,
-      mode:customScheduled,
-      dueAt:${gqlString(dueAt)}${imageAssets}
+      ${schedule}${imageAssets}
     }) {
       ... on PostActionSuccess { post { id text dueAt channelId } }
       ... on MutationError { message }
@@ -446,33 +448,33 @@ async function main() {
       console.log(`Canal de Buffer faltante para ${account === 'f1' ? '@' + F1_HANDLE : '@' + MAIN_HANDLE}; se reintentará.`);
       continue;
     }
-    if (futureCount(state, account, now) >= MAX_FUTURE_PER_CHANNEL) {
-      console.log(`Cola llena para ${account}; se reintentará en otra ejecución.`);
-      continue;
-    }
+    const sendNow = futureCount(state, account, now) >= MAX_FUTURE_PER_CHANNEL;
+    if (sendNow) console.log(`Cola de Buffer llena para ${account}; publicando ahora sin ocupar otro turno.`);
 
     const validImage = await validateImage(item.image);
     if (!validImage) {
       console.log(`FOTO no válida; programando post de texto: ${item.title}`);
     }
 
-    const dueAt = nextDueAt(state, account, Date.now());
+    const dueAt = sendNow ? new Date().toISOString() : nextDueAt(state, account, Date.now());
     try {
-      const post = await createBufferPost(apiKey, channelId, postText(item, account, url), validImage, dueAt);
+      const post = await createBufferPost(apiKey, channelId, postText(item, account, url), validImage, dueAt, sendNow);
       state.processed[url] = {
         account,
         title: item.title,
-        dueAt,
+        dueAt: post.dueAt || dueAt,
+        mode: sendNow ? 'shareNow' : 'customScheduled',
         bufferPostId: post.id,
         createdAt: new Date().toISOString()
       };
       scheduled++;
-      console.log(`PROGRAMADO ${account} ${dueAt}: ${item.title}`);
+      console.log(`${sendNow ? 'PUBLICACIÓN INMEDIATA' : 'PROGRAMADO'} ${account} ${dueAt}: ${item.title}`);
       writeState(state);
+      if (sendNow) await new Promise(resolve => setTimeout(resolve, 1500));
     } catch (error) {
       console.error(`ERROR Buffer: ${item.title}: ${error.message}`);
       // Undo the reserved slot when Buffer rejected the post.
-      state.nextAt[account] = dueAt;
+      if (!sendNow) state.nextAt[account] = dueAt;
     }
   }
 
