@@ -1,33 +1,62 @@
 {
   "activationAt": "2026-09-11T16:04:32Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MjQ4NjAwMDAsIlJPTcOBTiBWRUdBIFkgU1UgVElNSURFWiBDT04gTUVTU0k6IOKAnE5PIFBPRMONQSBOSSBNSVJBUkxPIEEgTE9TIE9KT1PigJ0iXQ": {
+      "account": "main",
+      "title": "ROMÁN VEGA Y SU TIMIDEZ CON MESSI: “NO PODÍA NI MIRARLO A LOS OJOS”",
+      "dueAt": "2026-10-08T09:00:00.000Z",
+      "bufferPostId": "6ac758ea6bf3dfa8dcf297ee",
+      "createdAt": "2026-10-08T08:48:42.197Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MjQ4NjAwMDAsIlNDQUxPTkkgUVVJRVJFIENPTlZFTkNFUiBBIFdBTFRFUiBTQU1VRUwgUEFSQSBRVUUgU0lHQSBFTiBMQSBTRUxFQ0NJw5NOIl0": {
+      "account": "main",
+      "title": "SCALONI QUIERE CONVENCER A WALTER SAMUEL PARA QUE SIGA EN LA SELECCIÓN",
+      "dueAt": "2026-10-08T08:55:00.000Z",
+      "bufferPostId": "6ac758e911ada005acb42fb4",
+      "createdAt": "2026-10-08T08:48:41.876Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzEzODAwMDAsIkVMIEVNT1RJVk8gTUVOU0FKRSBERSBMVUlTIFNVw4FSRVogUEFSQSBNRVNTSSBBTlRFUyBERSBTVSBERVNQRURJREEgREUgTEEgU0VMRUNDScOTTiJd": {
+      "account": "main",
+      "title": "EL EMOTIVO MENSAJE DE LUIS SUÁREZ PARA MESSI ANTES DE SU DESPEDIDA DE LA SELECCIÓN",
+      "dueAt": "2026-10-08T08:50:00.000Z",
+      "bufferPostId": "6ac758e96bf3dfa8dcf2978c",
+      "createdAt": "2026-10-08T08:48:41.243Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQxMDY0MDAwMCwiQ09MQVBJTlRPIERFU1BJREnDkyBBIE1FU1NJIENPTiBVTiBNRU5TQUpFLCBMQSBDQU1JU0VUQSAxOSBZIFVOQSBDQU5DScOTTiBERSBPQVNJUyJd": {
       "account": "f1",
       "title": "COLAPINTO DESPIDIÓ A MESSI CON UN MENSAJE, LA CAMISETA 19 Y UNA CANCIÓN DE OASIS",
       "dueAt": "2026-10-08T02:05:00.000Z",
       "bufferPostId": "6ac6f93657f9bd074d23291d",
-      "createdAt": "2026-10-08T02:00:23.061Z"
+      "createdAt": "2026-10-08T02:00:23.061Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2108015780235182259",
+      "sentAt": "2026-10-08T02:05:02.045Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MTA4ODAwMDAsIkVMIENPTE8gQkFSQ08gQSBNRVNTSTog4oCcR1JBQ0lBUyBQT1IgTlVOQ0EgUkVORElSVEUsIFRVIExFR0FETyBFUyBFVEVSTk_igJ0iXQ": {
       "account": "main",
       "title": "EL COLO BARCO A MESSI: “GRACIAS POR NUNCA RENDIRTE, TU LEGADO ES ETERNO”",
       "dueAt": "2026-10-08T02:15:00.000Z",
       "bufferPostId": "6ac6f9365632f7b74bd647ad",
-      "createdAt": "2026-10-08T02:00:22.647Z"
+      "createdAt": "2026-10-08T02:00:22.647Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108018301230039104",
+      "sentAt": "2026-10-08T02:15:03.060Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MTA4MjAwMDAsIuKAnE5PIFRFIFZBWUFT4oCdOiBMQSBDQU5DScOTTiBRVUUgRUwgUExBTlRFTCBMRSBERURJQ8OTIEEgTUVTU0kgRU4gRUwgTUlDUk8iXQ": {
       "account": "main",
       "title": "“NO TE VAYAS”: LA CANCIÓN QUE EL PLANTEL LE DEDICÓ A MESSI EN EL MICRO",
       "dueAt": "2026-10-08T02:10:00.000Z",
       "bufferPostId": "6ac6f9352977c961bdc10479",
-      "createdAt": "2026-10-08T02:00:21.302Z"
+      "createdAt": "2026-10-08T02:00:21.302Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108017038887190992",
+      "sentAt": "2026-10-08T02:10:02.034Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MTA3MDAwMDAsIkxBIERFU09QSUxBTlRFIERFRElDQVRPUklBIERFIE1FU1NJIEEgTVVTU086IOKAnFZPWSBBIEVYVFJBw5FBUiBDQUdBUlRFIEEgR09MRVPigJ0iXQ": {
       "account": "main",
       "title": "LA DESOPILANTE DEDICATORIA DE MESSI A MUSSO: “VOY A EXTRAÑAR CAGARTE A GOLES”",
       "dueAt": "2026-10-08T02:05:00.000Z",
       "bufferPostId": "6ac6f9342977c961bdc103f7",
-      "createdAt": "2026-10-08T02:00:20.266Z"
+      "createdAt": "2026-10-08T02:00:20.266Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108015781044785584",
+      "sentAt": "2026-10-08T02:05:02.273Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MDMyNjAwMDAsIk1FU1NJOiDigJxZQSBFWFRSQcORTyBWRVNUSVIgTEEgQ0VMRVNURSBZIEJMQU5DQeKAnSBZIFVOIFJFQ1VFUkRPIFBBUkEgTUFSQURPTkEiXQ": {
       "account": "main",
@@ -4709,32 +4738,11 @@
       "dueAt": "2026-09-12T21:20:00.000Z",
       "bufferPostId": "6aa5c046f7b1958d5cd63606",
       "createdAt": "2026-09-12T21:12:38.469Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ2ZWxleiIsMTc4OTIzODQ2MDAwMCwiTUFNTUFOQSBFU1TDgSBFU1RBQkxFIFkgU0VSw4EgVFJBU0xBREFETyBBIEJVRU5PUyBBSVJFUyBUUkFTIExBIE9QRVJBQ0nDk04gREUgVVJHRU5DSUEiXQ": {
-      "account": "main",
-      "title": "MAMMANA ESTÁ ESTABLE Y SERÁ TRASLADADO A BUENOS AIRES TRAS LA OPERACIÓN DE URGENCIA",
-      "dueAt": "2026-09-12T21:15:00.000Z",
-      "bufferPostId": "6aa5c043130d0ea1a45ce82f",
-      "createdAt": "2026-09-12T21:12:36.148Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTIyNjM0MDAwMCwiTk9SUklTIExFIFJPQsOTIExBIFBPTEUgQSBBTlRPTkVMTEkgUE9SIDExIE1JTMOJU0lNQVMgRU4gRUwgUFJJTUVSIEdQIERFTCBNQURSSU5HIl0": {
-      "account": "f1",
-      "title": "NORRIS LE ROBÓ LA POLE A ANTONELLI POR 11 MILÉSIMAS EN EL PRIMER GP DEL MADRING",
-      "dueAt": "2026-09-12T20:20:00.000Z",
-      "bufferPostId": "6aa5b33366679b076f16f89a",
-      "createdAt": "2026-09-12T20:16:51.789Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5MjQxNzYwMDAwLCJUUkVTIEpVVkVOSUxFUyBERSBJTkRFUEVORElFTlRFIEpVR0FSw4FOIEVMIFNVREFNRVJJQ0FOTyBTVUItMjAgQ09OIEFSR0VOVElOQSJd": {
-      "account": "main",
-      "title": "TRES JUVENILES DE INDEPENDIENTE JUGARÁN EL SUDAMERICANO SUB-20 CON ARGENTINA",
-      "dueAt": "2026-09-12T20:00:00.000Z",
-      "bufferPostId": "6aa5ad0566679b076f1678f5",
-      "createdAt": "2026-09-12T19:50:29.191Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-08T02:10:00.000Z",
-    "main": "2026-10-08T02:20:00.000Z"
+    "main": "2026-10-08T09:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
