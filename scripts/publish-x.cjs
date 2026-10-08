@@ -151,16 +151,9 @@ function accountFor(item) {
   const c = item.category;
   const corpus = normalize(`${item.sport} ${item.title} ${item.summary}`);
   const isF1 = ['f1', 'f2', 'f3'].includes(c) || /\bformula [123]\b|\bf[123]\b/.test(corpus);
-  if (isF1) return 'f1';
-
-  const isIndependiente = c === 'independiente';
-  const isSeleccion = c === 'seleccion';
-  if (isIndependiente || isSeleccion) return 'main';
-
-  const footballish = c === 'futbol' || /futbol|champions|libertadores|sudamericana|premier|laliga|serie a|bundesliga|ligue 1/.test(corpus);
-  const argentinaInterest = /\bargentin[oa]s?\b|\bmessi\b|\bdibu\b|\bjulian alvarez\b|\blautaro\b|\bmac allister\b|\benzo fernandez\b|\bgarnacho\b|\bmastantuono\b|\bpaz\b/.test(corpus);
-  if (item.featured && (footballish || argentinaInterest)) return 'main';
-  return null;
+  // Todas las noticias del portal van a X. Las categorías de fórmula
+  // mantienen su canal exclusivo, el resto sale en @RanaMatiusTV.
+  return isF1 ? 'f1' : 'main';
 }
 
 function priority(item) {
@@ -316,14 +309,14 @@ async function discoverChannels(apiKey, state) {
 }
 
 async function createBufferPost(apiKey, channelId, text, image, dueAt) {
+  const imageAssets = image ? `,\n      assets:[{image:{url:${gqlString(image)}}}]` : '';
   const query = `mutation CreatePost {
     createPost(input:{
       text:${gqlString(text)},
       channelId:${gqlString(channelId)},
       schedulingType:automatic,
       mode:customScheduled,
-      dueAt:${gqlString(dueAt)},
-      assets:[{image:{url:${gqlString(image)}}}]
+      dueAt:${gqlString(dueAt)}${imageAssets}
     }) {
       ... on PostActionSuccess { post { id text dueAt channelId } }
       ... on MutationError { message }
@@ -460,8 +453,7 @@ async function main() {
 
     const validImage = await validateImage(item.image);
     if (!validImage) {
-      console.log(`NO PUBLICADO (foto inválida): ${item.title}`);
-      continue;
+      console.log(`FOTO no válida; programando post de texto: ${item.title}`);
     }
 
     const dueAt = nextDueAt(state, account, Date.now());
