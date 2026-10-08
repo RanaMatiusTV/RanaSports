@@ -6,3 +6,7 @@ Altas verificadas: 6
 Sincronización extraordinaria solicitada: 2026-10-08 19:37 ARG
 Motivo: publicar en portada las 6 notas nuevas del especial GP de Singapur / Franco Colapinto ingresadas a las 19:24.
 Sin cambios en el radar de noticias.
+
+Sincronización extraordinaria solicitada: 2026-10-08 19:44 ARG
+Motivo: publicar en portada 2 notas de color de Colapinto / Alonso y Colapinto / hincha español, ingresadas a las 19:43.
+Preservar programación y comportamiento del Radar de Noticias.
