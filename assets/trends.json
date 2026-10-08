@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-08T00:11:39.710Z",
+  "updatedAt": "2026-10-08T06:01:26.401Z",
   "trends": [
     {
-      "query": "cruzeiro - são paulo",
-      "startedAt": "2026-10-07T23:50:00.000Z",
+      "query": "world space week 2026",
+      "startedAt": "2026-10-08T04:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "dennis haskins",
-      "startedAt": "2026-10-07T23:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "pablo giralt",
-      "startedAt": "2026-10-07T23:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "clima granizo",
-      "startedAt": "2026-10-07T23:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "vitória - chapecoense",
-      "startedAt": "2026-10-07T23:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "internacional",
-      "startedAt": "2026-10-07T23:00:00.000Z",
+      "query": "zulema galperin",
+      "startedAt": "2026-10-08T04:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "botafogo - vasco da gama",
-      "startedAt": "2026-10-07T22:50:00.000Z",
-      "volume": 2000
+      "query": "mi anses",
+      "startedAt": "2026-10-08T03:20:00.000Z",
+      "volume": 5000
     },
     {
-      "query": "rodrigo",
-      "startedAt": "2026-10-07T22:50:00.000Z",
-      "volume": 1000
+      "query": "clima santiago del estero",
+      "startedAt": "2026-10-08T03:10:00.000Z",
+      "volume": 500
     },
     {
-      "query": "aeropuerto internacional de miami",
-      "startedAt": "2026-10-07T22:50:00.000Z",
+      "query": "gernot rohr",
+      "startedAt": "2026-10-08T02:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "china ansa",
+      "startedAt": "2026-10-08T02:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "palacio pizzurno",
-      "startedAt": "2026-10-07T22:50:00.000Z",
+      "query": "mala fama",
+      "startedAt": "2026-10-08T01:50:00.000Z",
       "volume": 2000
+    },
+    {
+      "query": "marta fort",
+      "startedAt": "2026-10-08T01:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "susana romano sued",
+      "startedAt": "2026-10-08T01:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "jugar gta 5",
+      "startedAt": "2026-10-08T01:30:00.000Z",
+      "volume": 500
     }
   ]
 }
