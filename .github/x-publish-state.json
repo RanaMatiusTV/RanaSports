@@ -1,6 +1,22 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5OTM4MDAwMCwiQ09MQVBJTlRPIENISUNBTkXDkyBBIFVOIEhJTkNIQSBFU1BBw5FPTCBFTiBTSU5HQVBVUjog4oCcRVNBIENBTUlTRVRBIEVTVMOBIE1BTOKAnSJd": {
+      "account": "f1",
+      "title": "COLAPINTO CHICANEÓ A UN HINCHA ESPAÑOL EN SINGAPUR: “ESA CAMISETA ESTÁ MAL”",
+      "dueAt": "2026-10-08T23:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac81cad04f06b2e8f6e7e3a",
+      "createdAt": "2026-10-08T22:43:57.419Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5OTM4MDAwMCwiQ09MQVBJTlRPIEhJWk8gUkXDjVIgQSBBTE9OU08gRU4gU0lOR0FQVVI6IOKAnEFDQUJPIERFIEhBQkxBUiBZTywgQk9MVURP4oCdIl0": {
+      "account": "f1",
+      "title": "COLAPINTO HIZO REÍR A ALONSO EN SINGAPUR: “ACABO DE HABLAR YO, BOLUDO”",
+      "dueAt": "2026-10-08T23:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac81cab987e694c3c348cb6",
+      "createdAt": "2026-10-08T22:43:55.531Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiQUxPTlNPIFZFIFVOQSBPUE9SVFVOSURBRCBQQVJBIEFTVE9OIE1BUlRJTiBFTiBFTCBDSVJDVUlUTyBDQUxMRUpFUk8gREUgU0lOR0FQVVIiXQ": {
       "account": "f1",
       "title": "ALONSO VE UNA OPORTUNIDAD PARA ASTON MARTIN EN EL CIRCUITO CALLEJERO DE SINGAPUR",
@@ -47,7 +63,9 @@
       "dueAt": "2026-10-08T22:40:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac81b489db755aaaab8770d",
-      "createdAt": "2026-10-08T22:38:00.618Z"
+      "createdAt": "2026-10-08T22:38:00.618Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2108326577175957532",
+      "sentAt": "2026-10-08T22:40:01.725Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTQ5Njk4MDAwMCwiWEhBS0EgUkVDSUJJw5MgVU5BIE1VTFRBIFNVU1BFTkRJREEgUE9SIFVOIENFUlRJRklDQURPIEZBTFNPIERFIENPVklEIl0": {
       "account": "main",
@@ -4869,30 +4887,16 @@
       "dueAt": "2026-09-17T17:15:00.000Z",
       "bufferPostId": "6aac1ef0f277a0ad6efce73b",
       "createdAt": "2026-09-17T17:10:08.459Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NjYxMjIwMDAwLCLDgVJCSVRSTyBDT05GSVJNQURPIFBBUkEgRUwgUk9KTzogTE9CTyBNRURJTkEgRElSSUdJUsOBIFVOScOTTuKAk0lOREVQRU5ESUVOVEUgRU4gU0FOVEEgRkUiXQ": {
-      "account": "main",
-      "title": "ÁRBITRO CONFIRMADO PARA EL ROJO: LOBO MEDINA DIRIGIRÁ UNIÓN–INDEPENDIENTE EN SANTA FE",
-      "dueAt": "2026-09-17T16:20:00.000Z",
-      "bufferPostId": "6aac11d79c3456b673d4facc",
-      "createdAt": "2026-09-17T16:14:15.773Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTY1MDI0MDAwMCwiQ09MQVBJTlRPIFkgUEVDSElUTywgTVVDSE8gTcOBUyBRVUUgQVVUT01PVklMSVNNTzogTEEgSElTVE9SSUEgREVMIOKAnEdVQVJEScOBTuKAnSBERSBGUkFOQ08gRU4gTcOTTkFDTyJd": {
-      "account": "f1",
-      "title": "COLAPINTO Y PECHITO, MUCHO MÁS QUE AUTOMOVILISMO: LA HISTORIA DEL “GUARDIÁN” DE FRANCO EN MÓNACO",
-      "dueAt": "2026-09-17T13:25:00.000Z",
-      "bufferPostId": "6aabe8f85d0d0b2e17a829ed",
-      "createdAt": "2026-09-17T13:19:52.196Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-08T23:10:00.000Z",
+    "f1": "2026-10-08T23:20:00.000Z",
     "main": "2026-10-08T22:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-08T22:37:59.992Z"
+    "lastLinksRefreshAt": "2026-10-08T22:43:54.793Z"
   }
 }
