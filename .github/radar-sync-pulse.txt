@@ -1,0 +1,3 @@
+RanaSports Radar 1 → GitHub Sync
+Version inicial: bootstrap
+Este archivo funciona exclusivamente como señal de sincronización. No contiene noticias ni datos personales.
