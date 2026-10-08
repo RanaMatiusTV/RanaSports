@@ -6,7 +6,7 @@ const LEGACY_SITE_BASE = 'https://ranamatiustv.github.io/RanaSports/';
 const STATE_PATH = '.github/x-publish-state.json';
 const BUFFER_API = 'https://api.buffer.com';
 const SLOT_MS = 5 * 60 * 1000;
-const MAX_FUTURE_PER_CHANNEL = 10;
+const MAX_FUTURE_PER_CHANNEL = 30;
 const MAIN_HANDLE = (process.env.BUFFER_MAIN_HANDLE || 'RanaMatiusTV').replace(/^@/, '');
 const F1_HANDLE = (process.env.BUFFER_F1_HANDLE || 'RanaF1TV').replace(/^@/, '');
 
