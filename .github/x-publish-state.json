@@ -1,13 +1,63 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiQUxPTlNPIFZFIFVOQSBPUE9SVFVOSURBRCBQQVJBIEFTVE9OIE1BUlRJTiBFTiBFTCBDSVJDVUlUTyBDQUxMRUpFUk8gREUgU0lOR0FQVVIiXQ": {
+      "account": "f1",
+      "title": "ALONSO VE UNA OPORTUNIDAD PARA ASTON MARTIN EN EL CIRCUITO CALLEJERO DE SINGAPUR",
+      "dueAt": "2026-10-08T23:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac81b4a04f06b2e8f6e5704",
+      "createdAt": "2026-10-08T22:38:03.000Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiUFJFT0NVUEFDScOTTiBFTiBTSU5HQVBVUiBQT1IgRUwgSFVNTzogTEEgRklBIFBSRVbDiSBRVUUgTEEgRjEgQ09SUkEgQ09OIE5PUk1BTElEQUQiXQ": {
+      "account": "f1",
+      "title": "PREOCUPACIÓN EN SINGAPUR POR EL HUMO: LA FIA PREVÉ QUE LA F1 CORRA CON NORMALIDAD",
+      "dueAt": "2026-10-08T23:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac81b4a987e694c3c346457",
+      "createdAt": "2026-10-08T22:38:02.519Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiQUxFUlRBIFBPUiBDQUxPUiBFTiBTSU5HQVBVUjogVkVSU1RBUFBFTiBZIFJVU1NFTEwgRElTQ1JFUEFOIFBPUiBMT1MgQ0hBTEVDT1MiXQ": {
+      "account": "f1",
+      "title": "ALERTA POR CALOR EN SINGAPUR: VERSTAPPEN Y RUSSELL DISCREPAN POR LOS CHALECOS",
+      "dueAt": "2026-10-08T22:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac81b4904f06b2e8f6e56d5",
+      "createdAt": "2026-10-08T22:38:02.067Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiTUVSQ0VERVMgUFJPQkFSw4EgRE9TIFZFUlNJT05FUyBESVNUSU5UQVMgREUgU1UgQVVUTyBFTiBFTCBHUCBERSBTSU5HQVBVUiJd": {
+      "account": "f1",
+      "title": "MERCEDES PROBARÁ DOS VERSIONES DISTINTAS DE SU AUTO EN EL GP DE SINGAPUR",
+      "dueAt": "2026-10-08T22:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac81b49f07e682de696df75",
+      "createdAt": "2026-10-08T22:38:01.571Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiUlVTU0VMTCBMQVJHQVLDgSBERVNERSBBVFLDgVMgRU4gU0lOR0FQVVIgUE9SIFVOQSBTQU5DScOTTiBERSBNT1RPUiJd": {
+      "account": "f1",
+      "title": "RUSSELL LARGARÁ DESDE ATRÁS EN SINGAPUR POR UNA SANCIÓN DE MOTOR",
+      "dueAt": "2026-10-08T22:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac81b48987e694c3c34641a",
+      "createdAt": "2026-10-08T22:38:01.059Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiQ09MQVBJTlRPIENPTkbDjUEgRU4gQUxQSU5FIFkgQVBVTlRBIEEgUkVDT1JUQVIgTE9TIDIyIFBVTlRPUyBDT04gUkFDSU5HIEJVTExTIl0": {
+      "account": "f1",
+      "title": "COLAPINTO CONFÍA EN ALPINE Y APUNTA A RECORTAR LOS 22 PUNTOS CON RACING BULLS",
+      "dueAt": "2026-10-08T22:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac81b489db755aaaab8770d",
+      "createdAt": "2026-10-08T22:38:00.618Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTQ5Njk4MDAwMCwiWEhBS0EgUkVDSUJJw5MgVU5BIE1VTFRBIFNVU1BFTkRJREEgUE9SIFVOIENFUlRJRklDQURPIEZBTFNPIERFIENPVklEIl0": {
       "account": "main",
       "title": "XHAKA RECIBIÓ UNA MULTA SUSPENDIDA POR UN CERTIFICADO FALSO DE COVID",
       "dueAt": "2026-10-08T22:35:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8139e04eafd1b29b8af9c",
-      "createdAt": "2026-10-08T22:05:18.195Z"
+      "createdAt": "2026-10-08T22:05:18.195Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108325322089197754",
+      "sentAt": "2026-10-08T22:35:02.555Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDk2OTgwMDAwLCJMQSBKVVNUSUNJQSBWT0xWScOTIEEgTkVHQVJMRSBFTCBNQVJBQ0FOw4EgQSBWQVNDTyBQQVJBIFJFQ0lCSVIgQSBCT0NBIl0": {
       "account": "main",
@@ -15,7 +65,9 @@
       "dueAt": "2026-10-08T22:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8139d608b10642ba8255c",
-      "createdAt": "2026-10-08T22:05:17.684Z"
+      "createdAt": "2026-10-08T22:05:17.684Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108324088993161707",
+      "sentAt": "2026-10-08T22:30:08.557Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTQ5Njk4MDAwMCwiTU9VUklOSE8gUkVDT1JEw5MgRUwgQ0FTTyBQUkVTVElBTk5JLVZJTklDSVVTOiDigJxGVUkgTUFTQUNSQURP4oCdIl0": {
       "account": "main",
@@ -23,7 +75,9 @@
       "dueAt": "2026-10-08T22:25:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8139c9b31bc9fb8a4fe96",
-      "createdAt": "2026-10-08T22:05:16.679Z"
+      "createdAt": "2026-10-08T22:05:16.679Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108322803258708253",
+      "sentAt": "2026-10-08T22:25:01.976Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0OTY5ODAwMDAsIkxBIFJFU0VSVkEgREUgVEFMTEVSRVMgVEVSTUlOw5MgQSBMQVMgUEnDkUFTIFkgRUwgTEFVQ0hBIEFDT1NUQSBRVUVEw5MgSU5WT0xVQ1JBRE8iXQ": {
       "account": "main",
@@ -31,7 +85,9 @@
       "dueAt": "2026-10-08T22:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8139c762b217eacb54c3b",
-      "createdAt": "2026-10-08T22:05:16.176Z"
+      "createdAt": "2026-10-08T22:05:16.176Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108321547043611077",
+      "sentAt": "2026-10-08T22:20:02.514Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0OTY5ODAwMDAsIkFGQSBIQUJJTElUw5MgQSBJQUNPVklDSCBZIFPDgU5ERVosIFBFUk8gU0lHVUUgSU5WRVNUSUdBTkRPIEEgVkVSw5NOIl0": {
       "account": "main",
@@ -39,7 +95,9 @@
       "dueAt": "2026-10-08T22:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8139bb97326f85962afe2",
-      "createdAt": "2026-10-08T22:05:15.580Z"
+      "createdAt": "2026-10-08T22:05:15.580Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108320293701787690",
+      "sentAt": "2026-10-08T22:15:03.665Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0OTY5ODAwMDAsIkpVTEnDgU4gQ0FNSU5PIEFTRUdVUsOTIFFVRSBNRVNTSSBFUkEgTUVKT1IgUVVFIE1BUkFET05BIEVOIEVMIFRSVUNPIl0": {
       "account": "main",
@@ -47,7 +105,9 @@
       "dueAt": "2026-10-08T22:10:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8139a608b10642ba8249f",
-      "createdAt": "2026-10-08T22:05:14.989Z"
+      "createdAt": "2026-10-08T22:05:14.989Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108319028213076477",
+      "sentAt": "2026-10-08T22:10:01.885Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib3hlbyIsMTc5MTQ5MDMyMDAwMCwiRUwgQ0FTSU5PIEJVRU5PUyBBSVJFUyBSRUNJQkUgVU5BIFBFTEVBIElOVEVSTkFDSU9OQUwgUE9SIEVMIEZFREVMQVRJTiBQRVNBRE8iXQ": {
       "account": "main",
@@ -4823,58 +4883,16 @@
       "dueAt": "2026-09-17T13:25:00.000Z",
       "bufferPostId": "6aabe8f85d0d0b2e17a829ed",
       "createdAt": "2026-09-17T13:19:52.196Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTYxNjQwMDAwMCwiTklDTyBWQVJST05FIERFSkEgTEEgRjI6IFNFIERFU1ZJTkNVTMOTIERFIFZBTiBBTUVSU0ZPT1JUIFkgRVhQTElDw5MgTE9TIE1PVElWT1MgREUgU1UgU0FMSURBIl0": {
-      "account": "f1",
-      "title": "NICO VARRONE DEJA LA F2: SE DESVINCULÓ DE VAN AMERSFOORT Y EXPLICÓ LOS MOTIVOS DE SU SALIDA",
-      "dueAt": "2026-09-17T12:30:00.000Z",
-      "bufferPostId": "6aabdcde2755c09b102813f6",
-      "createdAt": "2026-09-17T12:28:15.073Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTYxNjQwMDAwMCwiQk9NQkEgRU4gRjI6IE5JQ08gVkFSUk9ORSBERUrDkyBWQU4gQU1FUlNGT09SVCBZIFNVIEZVVFVSTyBRVUVEw5MgQUJJRVJUTyJd": {
-      "account": "f1",
-      "title": "BOMBA EN F2: NICO VARRONE DEJÓ VAN AMERSFOORT Y SU FUTURO QUEDÓ ABIERTO",
-      "dueAt": "2026-09-17T04:20:00.000Z",
-      "bufferPostId": "6aab690fdd75fed8a09beda5",
-      "createdAt": "2026-09-17T04:14:08.238Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJlc3R1ZGlhbnRlcyBkZSBsYSBwbGF0YSIsMTc4OTYxNDAwMDAwMCwiRVNUVURJQU5URVMgSElaTyBISVNUT1JJQSBFTiBCUkFTSUw6IEVMSU1JTsOTIEEgQ09SSU5USElBTlMgWSBWT0xWScOTIEEgU0VNSVMgREVTUFXDiVMgREUgMTcgQcORT1MiXQ": {
-      "account": "main",
-      "title": "ESTUDIANTES HIZO HISTORIA EN BRASIL: ELIMINÓ A CORINTHIANS Y VOLVIÓ A SEMIS DESPUÉS DE 17 AÑOS",
-      "dueAt": "2026-09-17T04:20:00.000Z",
-      "bufferPostId": "6aab690f6b78718a3935d700",
-      "createdAt": "2026-09-17T04:14:07.310Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk1ODc4NDAwMDAsIlNDQUxPTkkgWUEgTUlSQSBNw4FTIEFMTMOBOiBMQSBMSVNUQSBRVUUgQUxJTUVOVEEgTEEgSUxVU0nDk04gREUgU1UgQ09OVElOVUlEQUQgRU4gTEEgU0VMRUNDScOTTiJd": {
-      "account": "main",
-      "title": "SCALONI YA MIRA MÁS ALLÁ: LA LISTA QUE ALIMENTA LA ILUSIÓN DE SU CONTINUIDAD EN LA SELECCIÓN",
-      "dueAt": "2026-09-16T22:15:00.000Z",
-      "bufferPostId": "6aab1446246d54e666ad926f",
-      "createdAt": "2026-09-16T22:12:22.690Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTU4NDg0MDAwMCwiVkVSU1RBUFBFTiBIVU1JTEzDkyBBIDEwMCBLQVJUSU5HUzogTEFSR8OTIMOaTFRJTU8gWSBMT1MgUEFTw5MgQSBUT0RPUyBFTiBTT0xPIDE0IFZVRUxUQVMiXQ": {
-      "account": "f1",
-      "title": "VERSTAPPEN HUMILLÓ A 100 KARTINGS: LARGÓ ÚLTIMO Y LOS PASÓ A TODOS EN SOLO 14 VUELTAS",
-      "dueAt": "2026-09-16T19:25:00.000Z",
-      "bufferPostId": "6aaaec1f354487e97a9b4768",
-      "createdAt": "2026-09-16T19:21:03.233Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk1ODUwMjAwMDAsIk1PSEFNRUQgU0UgUE9TVFVMw5MgUEFSQSBMQSBTRUxFQ0NJw5NOOiDigJxFU1RPWSBQUkVQQVJBRE_igJ0gUEFSQSBTVUNFREVSIEEgU0NBTE9OSSJd": {
-      "account": "main",
-      "title": "MOHAMED SE POSTULÓ PARA LA SELECCIÓN: “ESTOY PREPARADO” PARA SUCEDER A SCALONI",
-      "dueAt": "2026-09-16T19:25:00.000Z",
-      "bufferPostId": "6aaaec1dc25469e84e435443",
-      "createdAt": "2026-09-16T19:21:02.147Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-08T16:15:00.000Z",
+    "f1": "2026-10-08T23:10:00.000Z",
     "main": "2026-10-08T22:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-08T22:05:14.491Z"
+    "lastLinksRefreshAt": "2026-10-08T22:37:59.992Z"
   }
 }
