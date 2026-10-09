@@ -1,13 +1,63 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU2OTI4MDAwMCwiUE9SVFVHQUwgU1VTUEVOREnDkyBERSBNQU5FUkEgUFJPVklTSU9OQUwgQSBDUklTVElBTk8gUk9OQUxETyJd": {
+      "account": "main",
+      "title": "PORTUGAL SUSPENDIÓ DE MANERA PROVISIONAL A CRISTIANO RONALDO",
+      "dueAt": "2026-10-09T18:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac92dc3f91f772d456a806f",
+      "createdAt": "2026-10-09T18:09:08.111Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTU2OTI4MDAwMCwiQ09MQVBJTlRPLCBPUFRJTUlTVEEgVFJBUyBMQSBRVUFMWSBTUFJJTlQ6IOKAnE5PIEVTVEFNT1MgTEVKT1PigJ0iXQ": {
+      "account": "f1",
+      "title": "COLAPINTO, OPTIMISTA TRAS LA QUALY SPRINT: “NO ESTAMOS LEJOS”",
+      "dueAt": "2026-10-09T18:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac92dc3f91f772d456a8011",
+      "createdAt": "2026-10-09T18:09:07.625Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTU2OTI4MDAwMCwiUkFNw5NOIETDjUFaIFJFQ0hBWsOTIEEgQ09SSU5USElBTlMgWSBTVSBOT01CUkUgVlVFTFZFIEEgU09OQVIgRU4gUklWRVIiXQ": {
+      "account": "main",
+      "title": "RAMÓN DÍAZ RECHAZÓ A CORINTHIANS Y SU NOMBRE VUELVE A SONAR EN RIVER",
+      "dueAt": "2026-10-09T18:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac92dc3d9cab260a79b95e9",
+      "createdAt": "2026-10-09T18:09:07.285Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyYWNpbmciLDE3OTE1NjkyODAwMDAsIkNISVJPTEEgUk9NRVJPIFJFUEVUSVLDjUEgRUwgRVFVSVBPIERFIFJBQ0lORyBBTlRFIEJFTEdSQU5PIl0": {
+      "account": "main",
+      "title": "CHIROLA ROMERO REPETIRÍA EL EQUIPO DE RACING ANTE BELGRANO",
+      "dueAt": "2026-10-09T18:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac92dc2b07d37ac9749260a",
+      "createdAt": "2026-10-09T18:09:06.821Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTY5MjgwMDAwLCJFTCBURU1QT1JBTCBZIEVMIEdSQU5JWk8gR09MUEVBTiBDw5NSRE9CQSwgUEVSTyBJTlNUSVRVVE8tQk9DQSBTSUdVRSBFTiBQSUUiXQ": {
+      "account": "main",
+      "title": "EL TEMPORAL Y EL GRANIZO GOLPEAN CÓRDOBA, PERO INSTITUTO-BOCA SIGUE EN PIE",
+      "dueAt": "2026-10-09T18:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac92dc2b07d37ac974925e1",
+      "createdAt": "2026-10-09T18:09:06.545Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NjkyODAwMDAsIkVMIFBBU0UgREUgTUFSQ09TIFJPSk8gQSBFU1RVRElBTlRFUyBFU1TDgSBBIFBVTlRPIERFIENBRVJTRSJd": {
+      "account": "main",
+      "title": "EL PASE DE MARCOS ROJO A ESTUDIANTES ESTÁ A PUNTO DE CAERSE",
+      "dueAt": "2026-10-09T18:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac92dc2c4de2d2b12009448",
+      "createdAt": "2026-10-09T18:09:06.104Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NjE5MDAwMDAsIkRJRUdPIEZMT1JFUyBQQVPDkyBERSBUUkFEVUNJUiBBIEJJRUxTQSBBIExJREVSQVIgRUwgQ0xBVVNVUkEgQ09OIElOU1RJVFVUTyJd": {
       "account": "main",
       "title": "DIEGO FLORES PASÓ DE TRADUCIR A BIELSA A LIDERAR EL CLAUSURA CON INSTITUTO",
       "dueAt": "2026-10-09T16:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac9112257c4b87d9cfa46f8",
-      "createdAt": "2026-10-09T16:06:58.990Z"
+      "createdAt": "2026-10-09T16:06:58.990Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108595934158303342",
+      "sentAt": "2026-10-09T16:30:21.411Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU2MTkwMDAwMCwiWUFNQUwgWSBIQUFMQU5EIExJREVSQU4gRUwgUkFOS0lORyBNVU5ESUFMIFkgRU5aTyBGRVJOw4FOREVaIEVTIEVMIFNVREFNRVJJQ0FOTyBNw4FTIFZBTElPU08iXQ": {
       "account": "main",
@@ -15,7 +65,9 @@
       "dueAt": "2026-10-09T16:25:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac91122443de896598443f8",
-      "createdAt": "2026-10-09T16:06:58.620Z"
+      "createdAt": "2026-10-09T16:06:58.620Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108594596280156270",
+      "sentAt": "2026-10-09T16:25:02.580Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJhc2NlbnNvIiwxNzkxNTYxOTAwMDAwLCJPTElNUE8sIFNBTiBNQVJUw41OIERFIEZPUk1PU0EsIEFMVkFSQURPIFkgQ0lQT0xMRVRUSSBWQU4gUE9SIEVMIEFTQ0VOU08gRU4gRUwgRkVERVJBTCBBIl0": {
       "account": "main",
@@ -23,7 +75,9 @@
       "dueAt": "2026-10-09T16:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac9112257c4b87d9cfa46c8",
-      "createdAt": "2026-10-09T16:06:58.153Z"
+      "createdAt": "2026-10-09T16:06:58.153Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108593341629657272",
+      "sentAt": "2026-10-09T16:20:03.304Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTU2MTkwMDAwMCwiQUxQSU5FIFBVU08gQSBQUlVFQkEgQSBDT0xBUElOVE8gWSBHQVNMWSBFTiBVTiBKVUVHTyBWSVJBTCBBTlRFUyBERUwgR1AgREUgU0lOR0FQVVIiXQ": {
       "account": "f1",
@@ -31,7 +85,9 @@
       "dueAt": "2026-10-09T16:10:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac91121a5e49fef9bbaaa95",
-      "createdAt": "2026-10-09T16:06:57.704Z"
+      "createdAt": "2026-10-09T16:06:57.704Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2108590835734343940",
+      "sentAt": "2026-10-09T16:10:05.964Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1NjE5MDAwMDAsIlNJTUVPTkUgSE9NRU5BSkXDkyBBIE1FU1NJIFRSQVMgU1UgREVTUEVESURBOiDigJxOT1MgRU5TRcORw5MgQSBQRUxFQVLigJ0iXQ": {
       "account": "main",
@@ -39,7 +95,9 @@
       "dueAt": "2026-10-09T16:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac91120443de89659844395",
-      "createdAt": "2026-10-09T16:06:56.929Z"
+      "createdAt": "2026-10-09T16:06:56.929Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108592090175144189",
+      "sentAt": "2026-10-09T16:15:04.986Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNTYxOTAwMDAwLCJBTEZBUk8gTU9SRU5PIFNFIFNVTcOTIEFMIFBST1lFQ1RPIERFIEdBVURJTyBQQVJBIExBUyBFTEVDQ0lPTkVTIERFIElOREVQRU5ESUVOVEUiXQ": {
       "account": "main",
@@ -47,7 +105,9 @@
       "dueAt": "2026-10-09T16:10:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac91120ea458ceb9a5299e9",
-      "createdAt": "2026-10-09T16:06:56.532Z"
+      "createdAt": "2026-10-09T16:06:56.532Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108590835142975736",
+      "sentAt": "2026-10-09T16:10:05.789Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJiYXNxdWV0IiwxNzkxNTU0ODIwMDAwLCJTSEFJIEdJTEdFT1VTLUFMRVhBTkRFUiBTRSBDT05WSVJUScOTIEVOIEFDQ0lPTklTVEEgREVMIEFUTMOJVElDTyBERSBNQURSSUQiXQ": {
       "account": "main",
@@ -4944,58 +5004,16 @@
       "dueAt": "2026-09-20T13:40:00.000Z",
       "bufferPostId": "6aafe07f13d908add21bb39a",
       "createdAt": "2026-09-20T13:32:47.675Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5OTEwODIwMDAwLCJDSElNWSDDgVZJTEEgU0FMScOTIExFU0lPTkFETywgUFVCTElDw5MgRU4gRUwgRU5UUkVUSUVNUE8gWSBHRU5FUsOTIENSw41USUNBUyBFTiBJTkRFUEVORElFTlRFIl0": {
-      "account": "main",
-      "title": "CHIMY ÁVILA SALIÓ LESIONADO, PUBLICÓ EN EL ENTRETIEMPO Y GENERÓ CRÍTICAS EN INDEPENDIENTE",
-      "dueAt": "2026-09-20T13:35:00.000Z",
-      "bufferPostId": "6aafe07d8d048c06b4069e54",
-      "createdAt": "2026-09-20T13:32:45.850Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk5MDI0ODAwMDAsIkxBIFNVQiAxOSBSRVZJVknDkyBFTiBTQU5UQSBGRSAyMDI2OiBMRSBHQU7DkyBBIFVSVUdVQVkgWSBTSUdVRSBFTiBDQVJSRVJBIl0": {
-      "account": "main",
-      "title": "LA SUB 19 REVIVIÓ EN SANTA FE 2026: LE GANÓ A URUGUAY Y SIGUE EN CARRERA",
-      "dueAt": "2026-09-20T11:10:00.000Z",
-      "bufferPostId": "6aafbdc88d048c06b402c918",
-      "createdAt": "2026-09-20T11:04:40.541Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODk4NzA4MDAwMDAsIklOU1RJVFVUTyBTRSBRVUVEw5MgQ09OIEVMIENMw4FTSUNPOiAzLTEgQSBUQUxMRVJFUyBZIEzDjURFUiBDT04gMjIgUFVOVE9TIl0": {
-      "account": "main",
-      "title": "INSTITUTO SE QUEDÓ CON EL CLÁSICO: 3-1 A TALLERES Y LÍDER CON 22 PUNTOS",
-      "dueAt": "2026-09-20T04:15:00.000Z",
-      "bufferPostId": "6aaf5ce6b87fe8130459158c",
-      "createdAt": "2026-09-20T04:11:18.395Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ0ZW5pcyIsMTc4OTg2OTg0MDAwMCwiUE9ET1JPU0tBIEJBSsOTIEEgQkFET1NBIFkgSlVHQVLDgSBMQSBQUklNRVJBIEZJTkFMIFdUQSBERSBTVSBDQVJSRVJBIl0": {
-      "account": "main",
-      "title": "PODOROSKA BAJÓ A BADOSA Y JUGARÁ LA PRIMERA FINAL WTA DE SU CARRERA",
-      "dueAt": "2026-09-20T03:50:00.000Z",
-      "bufferPostId": "6aaf56f313d908add20ddd34",
-      "createdAt": "2026-09-20T03:45:55.523Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODUzNjQwMDAwLCJWSUVSQSBURVJNSU7DkyBFWFBVTFNBRE8gRU4gU0FOVEEgRkUgRU4gRUwgQ0lFUlJFIENBTElFTlRFIEFOVEUgVU5Jw5NOIl0": {
-      "account": "main",
-      "title": "VIERA TERMINÓ EXPULSADO EN SANTA FE EN EL CIERRE CALIENTE ANTE UNIÓN",
-      "dueAt": "2026-09-20T03:25:00.000Z",
-      "bufferPostId": "6aaf50588d048c06b4f8081c",
-      "createdAt": "2026-09-20T03:17:44.865Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODQ4MzAwMDAwLCJBTEFSTUEgRU4gSU5ERVBFTkRJRU5URTogQ0hJTVkgw4FWSUxBIFNBTEnDkyBMRVNJT05BRE8gQU5URSBVTknDk04iXQ": {
-      "account": "main",
-      "title": "ALARMA EN INDEPENDIENTE: CHIMY ÁVILA SALIÓ LESIONADO ANTE UNIÓN",
-      "dueAt": "2026-09-20T03:20:00.000Z",
-      "bufferPostId": "6aaf50588d048c06b4f807f4",
-      "createdAt": "2026-09-20T03:17:44.349Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-09T16:15:00.000Z",
-    "main": "2026-10-09T16:35:00.000Z"
+    "f1": "2026-10-09T18:20:00.000Z",
+    "main": "2026-10-09T18:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-09T16:06:55.994Z"
+    "lastLinksRefreshAt": "2026-10-09T18:09:05.673Z"
   }
 }
