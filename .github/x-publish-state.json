@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTUwNDAwMDAwMCwiUkFMRiBTQ0hVTUFDSEVSIENVRVNUSU9Ow5MgQSBOT1JSSVMgWSBERUZFTkRJw5MgQSBDT0xBUElOVE8iXQ": {
+      "account": "f1",
+      "title": "RALF SCHUMACHER CUESTIONÓ A NORRIS Y DEFENDIÓ A COLAPINTO",
+      "dueAt": "2026-10-09T00:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac82f08f07e682de699ec5b",
+      "createdAt": "2026-10-09T00:02:16.689Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTUwNDAwMDAwMCwiSEFNSUxUT04gQVBVTlTDkyBDT05UUkEgTE9TIFBJTE9UT1MgSsOTVkVORVMgUE9SIFNVIENBVVRFTEEgQkFKTyBMQSBMTFVWSUEiXQ": {
+      "account": "f1",
+      "title": "HAMILTON APUNTÓ CONTRA LOS PILOTOS JÓVENES POR SU CAUTELA BAJO LA LLUVIA",
+      "dueAt": "2026-10-09T00:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac82f077d9f9f33011c2211",
+      "createdAt": "2026-10-09T00:02:16.054Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTUwNDAwMDAwMCwiQUxPTlNPIERFU0NBUlTDkyBDT1JSRVIgRUwgREFLQVIgMjAyNzog4oCcTk8gQ1JFTyBRVUUgU0VBIEbDjVNJQ0FNRU5URSBQT1NJQkxF4oCdIl0": {
+      "account": "f1",
+      "title": "ALONSO DESCARTÓ CORRER EL DAKAR 2027: “NO CREO QUE SEA FÍSICAMENTE POSIBLE”",
+      "dueAt": "2026-10-09T00:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac82f07987e694c3c372408",
+      "createdAt": "2026-10-09T00:02:15.565Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1MDQwMDAwMDAsIkVMIEdVQVJESUEgUVVFIExMT1LDkyBFTiBMQSBERVNQRURJREEgREUgTUVTU0kgQ09OVMOTIFNVIEhJU1RPUklBIl0": {
+      "account": "main",
+      "title": "EL GUARDIA QUE LLORÓ EN LA DESPEDIDA DE MESSI CONTÓ SU HISTORIA",
+      "dueAt": "2026-10-09T00:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac82f059db755aaaabb3521",
+      "createdAt": "2026-10-09T00:02:13.249Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5OTM4MDAwMCwiQ09MQVBJTlRPIENISUNBTkXDkyBBIFVOIEhJTkNIQSBFU1BBw5FPTCBFTiBTSU5HQVBVUjog4oCcRVNBIENBTUlTRVRBIEVTVMOBIE1BTOKAnSJd": {
       "account": "f1",
       "title": "COLAPINTO CHICANEÓ A UN HINCHA ESPAÑOL EN SINGAPUR: “ESA CAMISETA ESTÁ MAL”",
@@ -15,7 +47,9 @@
       "dueAt": "2026-10-08T23:10:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac81cab987e694c3c348cb6",
-      "createdAt": "2026-10-08T22:43:55.531Z"
+      "createdAt": "2026-10-08T22:43:55.531Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2108334129716609533",
+      "sentAt": "2026-10-08T23:10:02.680Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiQUxPTlNPIFZFIFVOQSBPUE9SVFVOSURBRCBQQVJBIEFTVE9OIE1BUlRJTiBFTiBFTCBDSVJDVUlUTyBDQUxMRUpFUk8gREUgU0lOR0FQVVIiXQ": {
       "account": "f1",
@@ -23,7 +57,9 @@
       "dueAt": "2026-10-08T23:05:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac81b4a04f06b2e8f6e5704",
-      "createdAt": "2026-10-08T22:38:03.000Z"
+      "createdAt": "2026-10-08T22:38:03.000Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2108332869978292570",
+      "sentAt": "2026-10-08T23:05:02.065Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiUFJFT0NVUEFDScOTTiBFTiBTSU5HQVBVUiBQT1IgRUwgSFVNTzogTEEgRklBIFBSRVbDiSBRVUUgTEEgRjEgQ09SUkEgQ09OIE5PUk1BTElEQUQiXQ": {
       "account": "f1",
@@ -31,7 +67,9 @@
       "dueAt": "2026-10-08T23:00:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac81b4a987e694c3c346457",
-      "createdAt": "2026-10-08T22:38:02.519Z"
+      "createdAt": "2026-10-08T22:38:02.519Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2108331636953694635",
+      "sentAt": "2026-10-08T23:00:08.186Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiQUxFUlRBIFBPUiBDQUxPUiBFTiBTSU5HQVBVUjogVkVSU1RBUFBFTiBZIFJVU1NFTEwgRElTQ1JFUEFOIFBPUiBMT1MgQ0hBTEVDT1MiXQ": {
       "account": "f1",
@@ -39,7 +77,9 @@
       "dueAt": "2026-10-08T22:55:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac81b4904f06b2e8f6e56d5",
-      "createdAt": "2026-10-08T22:38:02.067Z"
+      "createdAt": "2026-10-08T22:38:02.067Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2108330351663714332",
+      "sentAt": "2026-10-08T22:55:01.619Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiTUVSQ0VERVMgUFJPQkFSw4EgRE9TIFZFUlNJT05FUyBESVNUSU5UQVMgREUgU1UgQVVUTyBFTiBFTCBHUCBERSBTSU5HQVBVUiJd": {
       "account": "f1",
@@ -47,7 +87,9 @@
       "dueAt": "2026-10-08T22:50:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac81b49f07e682de696df75",
-      "createdAt": "2026-10-08T22:38:01.571Z"
+      "createdAt": "2026-10-08T22:38:01.571Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2108329095306055881",
+      "sentAt": "2026-10-08T22:50:02.083Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiUlVTU0VMTCBMQVJHQVLDgSBERVNERSBBVFLDgVMgRU4gU0lOR0FQVVIgUE9SIFVOQSBTQU5DScOTTiBERSBNT1RPUiJd": {
       "account": "f1",
@@ -55,7 +97,9 @@
       "dueAt": "2026-10-08T22:45:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac81b48987e694c3c34641a",
-      "createdAt": "2026-10-08T22:38:01.059Z"
+      "createdAt": "2026-10-08T22:38:01.059Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2108327842517815422",
+      "sentAt": "2026-10-08T22:45:03.379Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiQ09MQVBJTlRPIENPTkbDjUEgRU4gQUxQSU5FIFkgQVBVTlRBIEEgUkVDT1JUQVIgTE9TIDIyIFBVTlRPUyBDT04gUkFDSU5HIEJVTExTIl0": {
       "account": "f1",
@@ -4859,44 +4903,16 @@
       "dueAt": "2026-09-18T06:15:00.000Z",
       "bufferPostId": "6aacd60941757aa564af84e5",
       "createdAt": "2026-09-18T06:11:21.482Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTY5Mzg2MDAwMCwiQUxQSU5FIFNVTcOTIEEgTUlLRSBFTExJT1RUOiBVTiBFWCBNRVJDRURFUyBQQVJBIFBPVEVOQ0lBUiBFTCBBVVRPIERFIENPTEFQSU5UTyJd": {
-      "account": "f1",
-      "title": "ALPINE SUMÓ A MIKE ELLIOTT: UN EX MERCEDES PARA POTENCIAR EL AUTO DE COLAPINTO",
-      "dueAt": "2026-09-18T01:25:00.000Z",
-      "bufferPostId": "6aac926b8448254db2003a30",
-      "createdAt": "2026-09-18T01:22:51.399Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk2Nzk0MDAwMDAsIlBMQUNFTlRFLCBUUkFTIEVMIEdPTFBFIENPTiBQQVJBR1VBWTog4oCcSEFZIFVOIE1PTlTDk04gREUgQ09TQVMgUE9SIE1FSk9SQVLigJ0iXQ": {
-      "account": "main",
-      "title": "PLACENTE, TRAS EL GOLPE CON PARAGUAY: “HAY UN MONTÓN DE COSAS POR MEJORAR”",
-      "dueAt": "2026-09-17T22:15:00.000Z",
-      "bufferPostId": "6aac651145834e06ccdce09a",
-      "createdAt": "2026-09-17T22:09:21.394Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTY2ODg0MDAwMCwiQUxQSU5FIFNFIFJFRlVFUlpBIFBBUkEgQ09MQVBJTlRPOiBTVU3DkyBBIE1JS0UgRUxMSU9UVCwgRVhESVJFQ1RPUiBUw4lDTklDTyBERSBNRVJDRURFUyJd": {
-      "account": "f1",
-      "title": "ALPINE SE REFUERZA PARA COLAPINTO: SUMÓ A MIKE ELLIOTT, EXDIRECTOR TÉCNICO DE MERCEDES",
-      "dueAt": "2026-09-17T19:20:00.000Z",
-      "bufferPostId": "6aac3cb85de9b79c96ee8e4e",
-      "createdAt": "2026-09-17T19:17:12.827Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTY2NDcwMDAwMCwiWUEgSEFZIFJFRU1QTEFaTyBQQVJBIFZBUlJPTkU6IEhJWVUgWUFNQUtPU0hJIFNVQkUgREUgRjMgWSBDT1JSRVLDgSBDT04gVkFSIEVOIEJBS8OaIl0": {
-      "account": "f1",
-      "title": "YA HAY REEMPLAZO PARA VARRONE: HIYU YAMAKOSHI SUBE DE F3 Y CORRERÁ CON VAR EN BAKÚ",
-      "dueAt": "2026-09-17T17:15:00.000Z",
-      "bufferPostId": "6aac1ef0f277a0ad6efce73b",
-      "createdAt": "2026-09-17T17:10:08.459Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-08T23:20:00.000Z",
-    "main": "2026-10-08T22:40:00.000Z"
+    "f1": "2026-10-09T00:20:00.000Z",
+    "main": "2026-10-09T00:10:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-08T22:43:54.793Z"
+    "lastLinksRefreshAt": "2026-10-09T00:02:12.399Z"
   }
 }
