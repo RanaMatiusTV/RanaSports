@@ -1,6 +1,14 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTUxMjM0MDAwMCwiRE9DVU1FTlRPUyBSRVZFTEFST04gVU5BIElOREVNTklaQUNJw5NOIE1JTExPTkFSSUEgUEFSQSBDSFJJU1RJQU4gSE9STkVSIl0": {
+      "account": "f1",
+      "title": "DOCUMENTOS REVELARON UNA INDEMNIZACIÓN MILLONARIA PARA CHRISTIAN HORNER",
+      "dueAt": "2026-10-09T02:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac84d6f93f9e5101fe3b61b",
+      "createdAt": "2026-10-09T02:11:59.217Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTUwNDAwMDAwMCwiUkFMRiBTQ0hVTUFDSEVSIENVRVNUSU9Ow5MgQSBOT1JSSVMgWSBERUZFTkRJw5MgQSBDT0xBUElOVE8iXQ": {
       "account": "f1",
       "title": "RALF SCHUMACHER CUESTIONÓ A NORRIS Y DEFENDIÓ A COLAPINTO",
@@ -4904,23 +4912,16 @@
       "dueAt": "2026-09-18T08:15:00.000Z",
       "bufferPostId": "6aacf22a41757aa564b26744",
       "createdAt": "2026-09-18T08:11:23.055Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3MDg1MDAwMDAsIkZBQ1VORE8gTUVESU5BIFRBTUJJw4lOIE1PSsOTIEVOIEVVUk9QQTogVk9MRUEgWSBHT0wgUEFSQSBFTCBUUklVTkZPIERFTCBMRVZFUktVU0VOIl0": {
-      "account": "main",
-      "title": "FACUNDO MEDINA TAMBIÉN MOJÓ EN EUROPA: VOLEA Y GOL PARA EL TRIUNFO DEL LEVERKUSEN",
-      "dueAt": "2026-09-18T06:15:00.000Z",
-      "bufferPostId": "6aacd60941757aa564af84e5",
-      "createdAt": "2026-09-18T06:11:21.482Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-09T00:20:00.000Z",
-    "main": "2026-10-09T01:05:00.000Z"
+    "f1": "2026-10-09T02:20:00.000Z",
+    "main": "2026-10-09T02:15:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-09T01:02:02.444Z"
+    "lastLinksRefreshAt": "2026-10-09T02:11:56.239Z"
   }
 }
