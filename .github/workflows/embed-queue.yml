@@ -1,0 +1,61 @@
+name: RanaSports embed queue (8h)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 * * * *'
+  push:
+    paths:
+      - '.github/workflows/embed-queue.yml'
+      - 'scripts/build_embed_queue.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ranasports-embed-queue
+  cancel-in-progress: false
+
+jobs:
+  prepare-queue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Build bounded queue from published news
+        run: python3 scripts/build_embed_queue.py
+
+      - name: Commit queue if changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain -- assets/embed-queue.json)" ]; then
+            echo "Embed queue unchanged"
+            exit 0
+          fi
+          git config user.name "RanaSports Bot"
+          git config user.email "actions@users.noreply.github.com"
+          cp assets/embed-queue.json /tmp/embed-queue.json
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            mkdir -p assets
+            cp /tmp/embed-queue.json assets/embed-queue.json
+            if [ -z "$(git status --porcelain -- assets/embed-queue.json)" ]; then
+              echo "Embed queue already current"
+              exit 0
+            fi
+            git add assets/embed-queue.json
+            git commit -m "Update RanaSports embed queue (last 8h)"
+            if git push origin HEAD:main; then
+              echo "Embed queue published"
+              exit 0
+            fi
+            echo "Concurrent GitHub push, retrying $attempt"
+            sleep $((attempt * 2))
+          done
+          echo "Failed to publish queue after 3 attempts"
+          exit 1
