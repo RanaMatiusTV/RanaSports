@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-09T18:49:22.075Z",
+  "updatedAt": "2026-10-09T23:15:23.545Z",
   "trends": [
     {
-      "query": "málaga - rcd espanyol",
-      "startedAt": "2026-10-09T18:30:00.000Z",
+      "query": "braida",
+      "startedAt": "2026-10-09T23:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "kirchnerismo",
-      "startedAt": "2026-10-09T18:20:00.000Z",
+      "query": "boc",
+      "startedAt": "2026-10-09T23:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "lens - lyon",
-      "startedAt": "2026-10-09T18:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "psv",
-      "startedAt": "2026-10-09T18:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "dinero",
-      "startedAt": "2026-10-09T18:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "neuquén",
-      "startedAt": "2026-10-09T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "caputo",
-      "startedAt": "2026-10-09T18:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "10 de octubre",
-      "startedAt": "2026-10-09T18:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "dortmund - werder bremen",
-      "startedAt": "2026-10-09T17:40:00.000Z",
+      "query": "enner valencia",
+      "startedAt": "2026-10-09T22:50:00.000Z",
       "volume": 1000
     },
     {
-      "query": "al nassr",
-      "startedAt": "2026-10-09T17:30:00.000Z",
-      "volume": 1000
+      "query": "can yaman",
+      "startedAt": "2026-10-09T22:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "gelp",
+      "startedAt": "2026-10-09T22:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "nidal hasan",
+      "startedAt": "2026-10-09T22:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "industria textil",
+      "startedAt": "2026-10-09T22:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "candidato político",
+      "startedAt": "2026-10-09T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "instituto - boca juniors",
+      "startedAt": "2026-10-09T21:30:00.000Z",
+      "volume": 200000
+    },
+    {
+      "query": "rio uruguay",
+      "startedAt": "2026-10-09T21:20:00.000Z",
+      "volume": 100
     }
   ]
 }
