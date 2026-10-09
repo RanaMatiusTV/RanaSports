@@ -200,18 +200,112 @@ let deferredPrompt = null;
 const installButtons = [...document.querySelectorAll('#installBtn, #installBtn2')];
 const dialog = document.querySelector('#installDialog');
 const instructions = document.querySelector('#installInstructions');
-window.addEventListener('beforeinstallprompt', event => {event.preventDefault();deferredPrompt=event;const button=document.querySelector('#installBtn');if(button) button.hidden=false;});
-window.addEventListener('appinstalled', () => {deferredPrompt=null;installButtons.forEach(button=>button.hidden=true);});
+const installPopup = document.querySelector('#installPopup');
+const installStrip = document.querySelector('.install-strip');
+const installSnoozeKey = 'rs-install-snooze-until-v1';
+const installConfirmedKey = 'rs-install-confirmed-v1';
+const isIOSInstall = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+const isAndroidInstall = /android/i.test(navigator.userAgent);
+const isMobileInstall = isIOSInstall || isAndroidInstall;
+const isChromiumAndroid = isAndroidInstall && /chrome|edga|samsungbrowser|opr|opera|ucbrowser/i.test(navigator.userAgent);
+const isRunningAsApp = () => matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+let installCheckFinished = false;
+let knownInstalled = false;
+let installPopupTimer;
+function installRead(key) {try{return localStorage.getItem(key)}catch{return null}}
+function installWrite(key, value) {try{localStorage.setItem(key,value)}catch{}}
+function installSnooze(days=7) {installWrite(installSnoozeKey,String(Date.now()+days*86400000))}
+function hideInstallOffers() {
+ installButtons.forEach(button=>button.hidden=true);
+ if (installStrip) installStrip.hidden=true;
+ if (installPopup?.open) installPopup.close();
+ if (dialog?.open) dialog.close();
+}
+function markInstallCompleted() {
+ knownInstalled=true;
+ installWrite(installConfirmedKey,'1');
+ hideInstallOffers();
+}
+async function checkExistingInstall() {
+ if (isRunningAsApp() || installRead(installConfirmedKey)==='1') {markInstallCompleted();return true;}
+ if (typeof navigator.getInstalledRelatedApps === 'function') {
+  try {
+   const apps = await navigator.getInstalledRelatedApps();
+   if (apps.some(app => app.platform === 'webapp' && (app.url || app.id))) {
+    markInstallCompleted();
+    return true;
+   }
+  } catch {}
+ }
+ return false;
+}
+function canShowInstallPopup() {
+ if (!installPopup || !isMobileInstall || knownInstalled || isRunningAsApp() || document.hidden) return false;
+ if (installRead(installConfirmedKey)==='1' || Number(installRead(installSnoozeKey)||0)>Date.now()) return false;
+ if (isChromiumAndroid && !deferredPrompt) return false;
+ if ([...document.querySelectorAll('dialog')].some(item=>item!==installPopup && item.open)) return false;
+ return true;
+}
+function scheduleInstallPopup() {
+ if (!installCheckFinished || !canShowInstallPopup()) return;
+ clearTimeout(installPopupTimer);
+ installPopupTimer=setTimeout(()=>{
+  if (!canShowInstallPopup() || installPopup.open) return;
+  try {installPopup.showModal()} catch {}
+ },600);
+}
+window.addEventListener('beforeinstallprompt', event => {
+ event.preventDefault();
+ deferredPrompt=event;
+ if (!knownInstalled && !isRunningAsApp()) {
+  const button=document.querySelector('#installBtn');
+  if(button)button.hidden=false;
+  scheduleInstallPopup();
+ }
+});
+window.addEventListener('appinstalled', () => {deferredPrompt=null;markInstallCompleted()});
 async function installAction() {
- if (deferredPrompt) {const prompt=deferredPrompt;deferredPrompt=null;await prompt.prompt();await prompt.userChoice;const button=document.querySelector('#installBtn');if(button)button.hidden=true;return;}
+ if (knownInstalled || isRunningAsApp()) return;
+ if (deferredPrompt) {
+  const prompt=deferredPrompt;deferredPrompt=null;
+  const button=document.querySelector('#installBtn');if(button)button.hidden=true;
+  try {
+   await prompt.prompt();
+   const choice=await prompt.userChoice;
+   if (choice?.outcome==='dismissed') installSnooze(7);
+   else installSnooze(1);
+  } catch {installSnooze(1)}
+  return;
+ }
  if (!dialog || !instructions) return;
- const ios = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
- instructions.innerHTML = ios ? '<p>En Safari, tocá <b>Compartir</b>, elegí <b>Añadir a pantalla de inicio</b> y confirmá con <b>Añadir</b>.</p>' : '<p>En Chrome o Edge, abrí el menú del navegador y buscá <b>Instalar RanaSports</b> o <b>Añadir a pantalla principal</b>. La opción depende de tu navegador y dispositivo.</p>';
- dialog.showModal();
+ instructions.innerHTML = isIOSInstall ?
+  '<p>En el navegador, tocá <b>Compartir</b>, elegí <b>Añadir a pantalla de inicio</b> y confirmá con <b>Añadir</b>.</p>' :
+  '<p>En el menú de tu navegador, elegí <b>Instalar aplicación</b> o <b>Añadir a pantalla principal</b>.</p>';
+ const confirmed=document.createElement('button');
+ confirmed.type='button';confirmed.className='primary-btn';
+ confirmed.textContent='Ya la instalé';
+ confirmed.addEventListener('click',markInstallCompleted);
+ instructions.append(confirmed);
+ if (!dialog.open) dialog.showModal();
 }
 installButtons.forEach(button=>button.addEventListener('click',installAction));
-document.querySelector('.dialog-close')?.addEventListener('click',()=>dialog?.close());
-if (matchMedia('(display-mode: standalone)').matches || navigator.standalone) installButtons.forEach(button=>button.hidden=true);
+dialog?.querySelector('.dialog-close')?.addEventListener('click',()=>dialog.close());
+installPopup?.querySelector('#installPopupPrimary')?.addEventListener('click',()=>{
+ installPopup.close();
+ installAction();
+});
+function dismissInstallPopup() {installSnooze(7);if(installPopup?.open)installPopup.close()}
+installPopup?.querySelector('#installPopupLater')?.addEventListener('click',dismissInstallPopup);
+installPopup?.querySelector('#installPopupClose')?.addEventListener('click',dismissInstallPopup);
+installPopup?.querySelector('#installPopupAlready')?.addEventListener('click',markInstallCompleted);
+installPopup?.addEventListener('cancel',()=>installSnooze(7));
+if (isRunningAsApp()) markInstallCompleted();
+else {
+ checkExistingInstall().then(()=>{
+  installCheckFinished=true;
+  scheduleInstallPopup();
+ });
+}
 if ('serviceWorker' in navigator) {
  const script=document.querySelector('script[src$="assets/app.js"]');
  if(script) window.addEventListener('load',()=>navigator.serviceWorker.register(new URL('../sw.js',script.src)).catch(error=>console.warn('No se pudo activar el modo sin conexión.',error)));
