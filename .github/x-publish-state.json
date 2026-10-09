@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIGVuIGVsIGV4dGVyaW9yIiwxNzkxNTc3MDgwMDAwLCJEQVZJRCBST01FUk8gU0UgQUZJUk3DkyBFTiBQQVJNQSBZIFNFIFBPU1RVTMOTIFBBUkEgTEEgU0VMRUNDScOTTiJd": {
+      "account": "main",
+      "title": "DAVID ROMERO SE AFIRMÓ EN PARMA Y SE POSTULÓ PARA LA SELECCIÓN",
+      "dueAt": "2026-10-09T20:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac948f4c4de2d2b1205205c",
+      "createdAt": "2026-10-09T20:05:08.859Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTU3NzA4MDAwMCwiUklWRVIgVlVFTFZFIEFMIE1PTlVNRU5UQUwgU0lOIE1BUkdFTiBERSBFUlJPUiJd": {
+      "account": "main",
+      "title": "RIVER VUELVE AL MONUMENTAL SIN MARGEN DE ERROR",
+      "dueAt": "2026-10-09T20:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac948f4bba9419ccbdcfa03",
+      "createdAt": "2026-10-09T20:05:08.465Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJ2aXJhbGVzIiwxNzkxNTc3MDgwMDAwLCJNQVJJQU5PIETDjUFaIFBST1RBR09OSVrDkyBVTiBJTkVTUEVSQURPIEJFU08gQ09OIFVOQSBISU5DSEEiXQ": {
+      "account": "main",
+      "title": "MARIANO DÍAZ PROTAGONIZÓ UN INESPERADO BESO CON UNA HINCHA",
+      "dueAt": "2026-10-09T20:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac948f3d9cab260a7a0596c",
+      "createdAt": "2026-10-09T20:05:08.124Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NzcwODAwMDAsIk1BUkNPUyBST0pPIERFU1RSQULDkyBTVSBSRUdSRVNPIEEgRVNUVURJQU5URVMgWSBRVUVEw5MgSEFCSUxJVEFETyJd": {
+      "account": "main",
+      "title": "MARCOS ROJO DESTRABÓ SU REGRESO A ESTUDIANTES Y QUEDÓ HABILITADO",
+      "dueAt": "2026-10-09T20:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac948f3c4de2d2b1205202b",
+      "createdAt": "2026-10-09T20:05:07.612Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NzcwODAwMDAsIlNBUk1JRU5UTyBWRU5DScOTIDMtMSBBIEFMRE9TSVZJIFkgU0UgTUVUScOTIEVOIEVMIFBPRElPIERFIFNVIFpPTkEiXQ": {
+      "account": "main",
+      "title": "SARMIENTO VENCIÓ 3-1 A ALDOSIVI Y SE METIÓ EN EL PODIO DE SU ZONA",
+      "dueAt": "2026-10-09T20:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac948f3ed92ed8fa5a7e623",
+      "createdAt": "2026-10-09T20:05:07.348Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNTc3MDgwMDAwLCJNQVJDT05FIFFVRUTDkyBBTCBMw41NSVRFIFkgUE9EUsONQSBQRVJERVJTRSBFTCBDTMOBU0lDTyBBTlRFIFJBQ0lORyJd": {
+      "account": "main",
+      "title": "MARCONE QUEDÓ AL LÍMITE Y PODRÍA PERDERSE EL CLÁSICO ANTE RACING",
+      "dueAt": "2026-10-09T20:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac948f2d9cab260a7a05939",
+      "createdAt": "2026-10-09T20:05:06.995Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU2OTI4MDAwMCwiUE9SVFVHQUwgU1VTUEVOREnDkyBERSBNQU5FUkEgUFJPVklTSU9OQUwgQSBDUklTVElBTk8gUk9OQUxETyJd": {
       "account": "main",
       "title": "PORTUGAL SUSPENDIÓ DE MANERA PROVISIONAL A CRISTIANO RONALDO",
@@ -4974,58 +5022,16 @@
       "dueAt": "2026-09-21T03:10:00.000Z",
       "bufferPostId": "6ab09f15d03859abc75ddf2f",
       "createdAt": "2026-09-21T03:05:57.277Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJib2NhIiwxNzg5OTM0NTgwMDAwLCJCT0NBIEdBTsOTIEVMIENMw4FTSUNPOiAyLTAgQSBTQU4gTE9SRU5aTyBCQUpPIExBIExMVVZJQSBFTiBFTCBOVUVWTyBHQVPDk01FVFJPIl0": {
-      "account": "main",
-      "title": "BOCA GANÓ EL CLÁSICO: 2-0 A SAN LORENZO BAJO LA LLUVIA EN EL NUEVO GASÓMETRO",
-      "dueAt": "2026-09-20T20:20:00.000Z",
-      "bufferPostId": "6ab03f2ab07e536c5a1b579b",
-      "createdAt": "2026-09-20T20:16:42.398Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc4OTkyNDYyMDAwMCwiQVRMw4lUSUNPIEdBTsOTIEVMIERFUkJJOiAyLTEgQUwgUkVBTCBNQURSSUQgQ09OIERJRVogWSBHT0xQRSBBIExBIExJR0EiXQ": {
-      "account": "main",
-      "title": "ATLÉTICO GANÓ EL DERBI: 2-1 AL REAL MADRID CON DIEZ Y GOLPE A LA LIGA",
-      "dueAt": "2026-09-20T17:55:00.000Z",
-      "bufferPostId": "6ab01d53b07e536c5a181a70",
-      "createdAt": "2026-09-20T17:52:19.703Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk5MjA5MDAwMDAsIkJBUkNPIExMRUfDkyBBTCBQQcONUyBZIFBBTFBJVMOTIExBIERFU1BFRElEQSBERSBNRVNTSTog4oCcTkFESUUgSU1BR0lOQSBVTkEgU0VMRUNDScOTTiBTSU4gw4lM4oCdIl0": {
-      "account": "main",
-      "title": "BARCO LLEGÓ AL PAÍS Y PALPITÓ LA DESPEDIDA DE MESSI: “NADIE IMAGINA UNA SELECCIÓN SIN ÉL”",
-      "dueAt": "2026-09-20T16:25:00.000Z",
-      "bufferPostId": "6ab0081a90bfc6c1b5e3a34c",
-      "createdAt": "2026-09-20T16:21:46.346Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzg5OTEwNjQwMDAwLCJTSU3Dk04gQlVMQkFSRUxMQSwgTEEgUFJPTUVTQSBBUkdFTlRJTkEgREUgMTcgQcORT1MgUVVFIFNVRcORQSBDT04gTExFR0FSIEEgTEEgRjEiXQ": {
-      "account": "f1",
-      "title": "SIMÓN BULBARELLA, LA PROMESA ARGENTINA DE 17 AÑOS QUE SUEÑA CON LLEGAR A LA F1",
-      "dueAt": "2026-09-20T13:40:00.000Z",
-      "bufferPostId": "6aafe081549cbb177987666f",
-      "createdAt": "2026-09-20T13:32:49.517Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTkxMDU4MDAwMCwiQ09MQVBJTlRPIFkgUEVDSElUTyBJTlRFUkNBTUJJQVJPTiBDQVNDT1M6IEVMIE1FTlNBSkUgREUgRlJBTkNPIFFVRSBFTU9DSU9Ow5MgQUwgQ09SRE9Cw4lTIl0": {
-      "account": "f1",
-      "title": "COLAPINTO Y PECHITO INTERCAMBIARON CASCOS: EL MENSAJE DE FRANCO QUE EMOCIONÓ AL CORDOBÉS",
-      "dueAt": "2026-09-20T13:35:00.000Z",
-      "bufferPostId": "6aafe080a490f1cf65e65585",
-      "createdAt": "2026-09-20T13:32:48.667Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5OTEwODgwMDAwLCJUUklQTEUgQUxBUk1BIEVOIElOREVQRU5ESUVOVEU6IMOBVklMQSwgUEFMQUlTIFkgWkFCQUxBIFRFUk1JTkFST04gVE9DQURPUyBFTiBTQU5UQSBGRSJd": {
-      "account": "main",
-      "title": "TRIPLE ALARMA EN INDEPENDIENTE: ÁVILA, PALAIS Y ZABALA TERMINARON TOCADOS EN SANTA FE",
-      "dueAt": "2026-09-20T13:40:00.000Z",
-      "bufferPostId": "6aafe07f13d908add21bb39a",
-      "createdAt": "2026-09-20T13:32:47.675Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-09T18:20:00.000Z",
-    "main": "2026-10-09T18:40:00.000Z"
+    "main": "2026-10-09T20:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-09T19:38:16.208Z"
+    "lastLinksRefreshAt": "2026-10-09T20:05:06.500Z"
   }
 }
