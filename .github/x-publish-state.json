@@ -1,13 +1,71 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU4MzUwMDAwMCwiUE9SVFVHQUwgU1VTUEVOREnDkyBQUk9WSVNJT05BTE1FTlRFIEEgQ1JJU1RJQU5PIFJPTkFMRE8iXQ": {
+      "account": "main",
+      "title": "PORTUGAL SUSPENDIÓ PROVISIONALMENTE A CRISTIANO RONALDO",
+      "dueAt": "2026-10-09T22:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac96568b07d37ac975218ca",
+      "createdAt": "2026-10-09T22:06:32.960Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1ODM1MDAwMDAsIkRBTklFTCBPU1ZBTERPIFJFVkVMw5MgUVXDiSBPUklHSU7DkyBMQSBJTkZFQ0NJw5NOIFFVRSBQVVNPIEVOIFJJRVNHTyBTVSBWSURBIl0": {
+      "account": "main",
+      "title": "DANIEL OSVALDO REVELÓ QUÉ ORIGINÓ LA INFECCIÓN QUE PUSO EN RIESGO SU VIDA",
+      "dueAt": "2026-10-09T22:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac96568d9cab260a7a505b8",
+      "createdAt": "2026-10-09T22:06:32.599Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTU4MzUwMDAwMCwiUklWRVIgREVGSU5FIFNJIFRISUFHTyBBTE1BREEgVlVFTFZFIEEgTEEgQ09OVk9DQVRPUklBIl0": {
+      "account": "main",
+      "title": "RIVER DEFINE SI THIAGO ALMADA VUELVE A LA CONVOCATORIA",
+      "dueAt": "2026-10-09T22:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac96567b07d37ac97521896",
+      "createdAt": "2026-10-09T22:06:32.097Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJydWdieSIsMTc5MTU4MzUwMDAwMCwiTUFSSU8gTEVERVNNQSBWT0xWScOTIEEgTE9TIFBVTUFTIFBBUkEgSU5URUdSQVIgRUwgQ1VFUlBPIFTDiUNOSUNPIl0": {
+      "account": "main",
+      "title": "MARIO LEDESMA VOLVIÓ A LOS PUMAS PARA INTEGRAR EL CUERPO TÉCNICO",
+      "dueAt": "2026-10-09T22:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac96567f91f772d457396f8",
+      "createdAt": "2026-10-09T22:06:31.737Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTU4MzUwMDAwMCwiU0FJTlogQVBVTlTDkyBDT05UUkEgTEEgRklBIFBPUiBVTiBFUlJPUiBFTiBMQSBRVUFMWSBTUFJJTlQgREUgU0lOR0FQVVIiXQ": {
+      "account": "f1",
+      "title": "SAINZ APUNTÓ CONTRA LA FIA POR UN ERROR EN LA QUALY SPRINT DE SINGAPUR",
+      "dueAt": "2026-10-09T22:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac96566ed92ed8fa5ac3b39",
+      "createdAt": "2026-10-09T22:06:31.148Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU4MzUwMDAwMCwiVU4gQUxVRCBPQkxJR8OTIEEgU1VTUEVOREVSIFVOSVZFUlNJREFEIENBVMOTTElDQS1BVURBWCBJVEFMSUFOTyJd": {
+      "account": "main",
+      "title": "UN ALUD OBLIGÓ A SUSPENDER UNIVERSIDAD CATÓLICA-AUDAX ITALIANO",
+      "dueAt": "2026-10-09T22:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac96566ed92ed8fa5ac3b10",
+      "createdAt": "2026-10-09T22:06:30.779Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1ODM1MDAwMDAsIkVMIEtJTFkgQ09OVMOTIEPDk01PIFZJVknDkyBMQSBERVNQRURJREEgREUgTUVTU0kgRU4gTEEgU0VMRUNDScOTTiJd": {
+      "account": "main",
+      "title": "EL KILY CONTÓ CÓMO VIVIÓ LA DESPEDIDA DE MESSI EN LA SELECCIÓN",
+      "dueAt": "2026-10-09T22:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac96566bba9419ccbe14b72",
+      "createdAt": "2026-10-09T22:06:30.378Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIGVuIGVsIGV4dGVyaW9yIiwxNzkxNTc3MDgwMDAwLCJEQVZJRCBST01FUk8gU0UgQUZJUk3DkyBFTiBQQVJNQSBZIFNFIFBPU1RVTMOTIFBBUkEgTEEgU0VMRUNDScOTTiJd": {
       "account": "main",
       "title": "DAVID ROMERO SE AFIRMÓ EN PARMA Y SE POSTULÓ PARA LA SELECCIÓN",
       "dueAt": "2026-10-09T20:35:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac948f4c4de2d2b1205205c",
-      "createdAt": "2026-10-09T20:05:08.859Z"
+      "createdAt": "2026-10-09T20:05:08.859Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108657513436447029",
+      "sentAt": "2026-10-09T20:35:03.168Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTU3NzA4MDAwMCwiUklWRVIgVlVFTFZFIEFMIE1PTlVNRU5UQUwgU0lOIE1BUkdFTiBERSBFUlJPUiJd": {
       "account": "main",
@@ -15,7 +73,9 @@
       "dueAt": "2026-10-09T20:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac948f4bba9419ccbdcfa03",
-      "createdAt": "2026-10-09T20:05:08.465Z"
+      "createdAt": "2026-10-09T20:05:08.465Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108656285570781224",
+      "sentAt": "2026-10-09T20:30:10.460Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJ2aXJhbGVzIiwxNzkxNTc3MDgwMDAwLCJNQVJJQU5PIETDjUFaIFBST1RBR09OSVrDkyBVTiBJTkVTUEVSQURPIEJFU08gQ09OIFVOQSBISU5DSEEiXQ": {
       "account": "main",
@@ -23,7 +83,9 @@
       "dueAt": "2026-10-09T20:25:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac948f3d9cab260a7a0596c",
-      "createdAt": "2026-10-09T20:05:08.124Z"
+      "createdAt": "2026-10-09T20:05:08.124Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108654993934848202",
+      "sentAt": "2026-10-09T20:25:02.390Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NzcwODAwMDAsIk1BUkNPUyBST0pPIERFU1RSQULDkyBTVSBSRUdSRVNPIEEgRVNUVURJQU5URVMgWSBRVUVEw5MgSEFCSUxJVEFETyJd": {
       "account": "main",
@@ -31,7 +93,9 @@
       "dueAt": "2026-10-09T20:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac948f3c4de2d2b1205202b",
-      "createdAt": "2026-10-09T20:05:07.612Z"
+      "createdAt": "2026-10-09T20:05:07.612Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108653733093536251",
+      "sentAt": "2026-10-09T20:20:01.785Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NzcwODAwMDAsIlNBUk1JRU5UTyBWRU5DScOTIDMtMSBBIEFMRE9TSVZJIFkgU0UgTUVUScOTIEVOIEVMIFBPRElPIERFIFNVIFpPTkEiXQ": {
       "account": "main",
@@ -39,7 +103,9 @@
       "dueAt": "2026-10-09T20:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac948f3ed92ed8fa5a7e623",
-      "createdAt": "2026-10-09T20:05:07.348Z"
+      "createdAt": "2026-10-09T20:05:07.348Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108652482096185589",
+      "sentAt": "2026-10-09T20:15:03.553Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNTc3MDgwMDAwLCJNQVJDT05FIFFVRUTDkyBBTCBMw41NSVRFIFkgUE9EUsONQSBQRVJERVJTRSBFTCBDTMOBU0lDTyBBTlRFIFJBQ0lORyJd": {
       "account": "main",
@@ -47,7 +113,9 @@
       "dueAt": "2026-10-09T20:10:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac948f2d9cab260a7a05939",
-      "createdAt": "2026-10-09T20:05:06.995Z"
+      "createdAt": "2026-10-09T20:05:06.995Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108651219640000837",
+      "sentAt": "2026-10-09T20:10:02.518Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU2OTI4MDAwMCwiUE9SVFVHQUwgU1VTUEVOREnDkyBERSBNQU5FUkEgUFJPVklTSU9OQUwgQSBDUklTVElBTk8gUk9OQUxETyJd": {
       "account": "main",
@@ -4973,65 +5041,16 @@
       "dueAt": "2026-09-21T16:25:00.000Z",
       "bufferPostId": "6ab1590366d53455ffc9be1d",
       "createdAt": "2026-09-21T16:19:16.124Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk5OTk2MjAwMDAsIkNVVEkgUk9NRVJPIENBTEVOVMOTIEVMIERFUkJJOiDigJxTT1MgVU4gTExPUsOTTiBDT01PIE1CQVBQw4nigJ0gQSBCRUxMSU5HSEFNIl0": {
-      "account": "main",
-      "title": "CUTI ROMERO CALENTÓ EL DERBI: “SOS UN LLORÓN COMO MBAPPÉ” A BELLINGHAM",
-      "dueAt": "2026-09-21T14:15:00.000Z",
-      "bufferPostId": "6ab13ba80774ddfe8f753edb",
-      "createdAt": "2026-09-21T14:14:01.023Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk5OTU5MDAwMDAsIkdJQVkgWSBUQUdMSUFGSUNPIFlBIEVTVMOBTiBFTiBFTCBQQcONUyBZIERFSkFST04gU1VTIE1FTlNBSkVTIFBBUkEgTEEgREVTUEVESURBIERFIE1FU1NJIl0": {
-      "account": "main",
-      "title": "GIAY Y TAGLIAFICO YA ESTÁN EN EL PAÍS Y DEJARON SUS MENSAJES PARA LA DESPEDIDA DE MESSI",
-      "dueAt": "2026-09-21T13:20:00.000Z",
-      "bufferPostId": "6ab12e5885287676479bfd00",
-      "createdAt": "2026-09-21T13:17:12.404Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTk5MjM2MDAwMCwiQ09MQVBJTlRPIFlBIFRJRU5FIEhPUkFSSU9TIFBBUkEgQkFLw5o6IExBIEYxIENPUlJFIEVMIFPDgUJBRE8gRU4gQVpFUkJBSVnDgU4iXQ": {
-      "account": "f1",
-      "title": "COLAPINTO YA TIENE HORARIOS PARA BAKÚ: LA F1 CORRE EL SÁBADO EN AZERBAIYÁN",
-      "dueAt": "2026-09-21T12:20:00.000Z",
-      "bufferPostId": "6ab12007f799b8229e594dfd",
-      "createdAt": "2026-09-21T12:16:07.942Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTk4ODU4MDAwMCwiRUwgUFJFU0lERU5URSBERUwgQUNBIFNFIEpVR8OTIFBPUiBFTCBSRUdSRVNPIERFIExBIEYxOiDigJxBUkdFTlRJTkEgVkEgQSBURU5FUiBOVUVWQU1FTlRFIEbDk1JNVUxBIDHigJ0iXQ": {
-      "account": "f1",
-      "title": "EL PRESIDENTE DEL ACA SE JUGÓ POR EL REGRESO DE LA F1: “ARGENTINA VA A TENER NUEVAMENTE FÓRMULA 1”",
-      "dueAt": "2026-09-21T11:25:00.000Z",
-      "bufferPostId": "6ab1130fca3714eb5599a48f",
-      "createdAt": "2026-09-21T11:20:47.363Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc4OTk4MTMyMDAwMCwiQVJHRU5USU5BIExMRUfDkyBBIDE2MCBNRURBTExBUyBZIFNJR1VFIFNFR1VOREEgRU4gU0FOVEEgRkUgMjAyNiJd": {
-      "account": "main",
-      "title": "ARGENTINA LLEGÓ A 160 MEDALLAS Y SIGUE SEGUNDA EN SANTA FE 2026",
-      "dueAt": "2026-09-21T09:20:00.000Z",
-      "bufferPostId": "6ab0f63c678b629523531c61",
-      "createdAt": "2026-09-21T09:17:48.623Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODk5NjAwMjAwMDAsIlbDiUxFWiBMTyBHQU7DkyBFTiBVTiBGSU5BTCBJTkZBUlRBTlRFOiAzLTIgQSBUSUdSRSBZIFBVTlRBIERFIExBIFRBQkxBIEFOVUFMIl0": {
-      "account": "main",
-      "title": "VÉLEZ LO GANÓ EN UN FINAL INFARTANTE: 3-2 A TIGRE Y PUNTA DE LA TABLA ANUAL",
-      "dueAt": "2026-09-21T03:25:00.000Z",
-      "bufferPostId": "6ab0a30ad03859abc75e300e",
-      "createdAt": "2026-09-21T03:22:50.367Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc4OTk1MjgyMDAwMCwiUExBVEEgUEFSQSBBUkdFTlRJTkEgRU4gVkVMT0NJREFEIFBPUiBFUVVJUE9TOiBWRVJBLCBEw41BWiBZIE3DiU5ERVogRlVFUk9OIFNVQkNBTVBFT05BUyJd": {
-      "account": "main",
-      "title": "PLATA PARA ARGENTINA EN VELOCIDAD POR EQUIPOS: VERA, DÍAZ Y MÉNDEZ FUERON SUBCAMPEONAS",
-      "dueAt": "2026-09-21T03:10:00.000Z",
-      "bufferPostId": "6ab09f15d03859abc75ddf2f",
-      "createdAt": "2026-09-21T03:05:57.277Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-09T18:20:00.000Z",
-    "main": "2026-10-09T20:40:00.000Z"
+    "f1": "2026-10-09T22:15:00.000Z",
+    "main": "2026-10-09T22:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-09T20:05:06.500Z"
+    "lastLinksRefreshAt": "2026-10-09T22:06:29.803Z"
   }
 }
