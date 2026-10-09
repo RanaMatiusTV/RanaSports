@@ -1,9 +1,5 @@
 RanaSports Radar 1 → GitHub Sync
-Fecha y hora ARG: 2026-10-09 07:12
-Altas verificadas: 7
-Última noticia: BURKINA FASO ARRIESGA SANCIONES DE FIFA POR UNA POSIBLE INTERVENCIÓN ESTATAL
-
-Actualización manual: 09/10/2026, 08:58 ARG
-Noticia: LPF PLAY COBRARÁ $15.000 POR MES PARA VER EL ASCENSO
-Fila: Noticias!2829
-Fuente: https://x.com/Porquettargasce/status/2108307658553823617
+Fecha y hora ARG: 2026-10-09 09:07
+Altas verificadas: 9
+Última noticia: FLAMENGO PROTESTÓ CONTRA LA PROHIBICIÓN DE APUESTAS CON UNA CAMISETA ESPECIAL
+Filas: Noticias!2830:2838
