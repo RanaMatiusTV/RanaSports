@@ -1,13 +1,23 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NDcwODAwMDAsIlNFIFRFUk1JTsOTIExPIEdSQVRJUzogTFBGIFBMQVkgQ09CUkFSw4EgJDE1LjAwMCBQT1IgTUVTIFBBUkEgVkVSIEVMIEFTQ0VOU08iXQ": {
+      "account": "main",
+      "title": "SE TERMINÓ LO GRATIS: LPF PLAY COBRARÁ $15.000 POR MES PARA VER EL ASCENSO",
+      "dueAt": "2026-10-09T12:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8d71afe48c67498022802",
+      "createdAt": "2026-10-09T11:59:22.655Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU0MDY2MDAwMCwiQlVSS0lOQSBGQVNPIEFSUklFU0dBIFNBTkNJT05FUyBERSBGSUZBIFBPUiBVTkEgUE9TSUJMRSBJTlRFUlZFTkNJw5NOIEVTVEFUQUwiXQ": {
       "account": "main",
       "title": "BURKINA FASO ARRIESGA SANCIONES DE FIFA POR UNA POSIBLE INTERVENCIÓN ESTATAL",
       "dueAt": "2026-10-09T10:40:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8bc8c44e5efbcc59a69a0",
-      "createdAt": "2026-10-09T10:06:04.715Z"
+      "createdAt": "2026-10-09T10:06:04.715Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108507771435897029",
+      "sentAt": "2026-10-09T10:40:01.776Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NDA2MDAwMDAsIlNBUk1JRU5UTyBBUFVOVEEgQSBSRUNBVURBUiA0NTAgTUlMTE9ORVMgREUgUEVTT1MgQU5URSBSSVZFUiJd": {
       "account": "main",
@@ -15,7 +25,9 @@
       "dueAt": "2026-10-09T10:35:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8bc8c4b0cb728f32ac1f6",
-      "createdAt": "2026-10-09T10:06:04.309Z"
+      "createdAt": "2026-10-09T10:06:04.309Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108506516160393311",
+      "sentAt": "2026-10-09T10:35:02.519Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTU0MDU0MDAwMCwiU0lFVEUgSlVHQURPUkVTIERFIFJJVkVSIFRPREFWw41BIE5PIFNVTUFST04gTUlOVVRPUyBDT04gUE9OWklPIl0": {
       "account": "main",
@@ -23,7 +35,9 @@
       "dueAt": "2026-10-09T10:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8bc8bf96589ad5b9fd94b",
-      "createdAt": "2026-10-09T10:06:03.956Z"
+      "createdAt": "2026-10-09T10:06:03.956Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108505271886573836",
+      "sentAt": "2026-10-09T10:30:05.893Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE1NDA0ODAwMDAsIkFSUlVBQkFSUkVOQSBDT05Uw5MgUVVFIEVMIEVTVFLDiVMgREUgQk9DQSBMRSBQUk9WT0PDkyBESUFCRVRFUyJd": {
       "account": "main",
@@ -31,7 +45,9 @@
       "dueAt": "2026-10-09T10:25:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8bc8b44e5efbcc59a694e",
-      "createdAt": "2026-10-09T10:06:03.319Z"
+      "createdAt": "2026-10-09T10:06:03.319Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108503997187293657",
+      "sentAt": "2026-10-09T10:25:01.957Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE1NDA0MjAwMDAsIkJSQUlEQSBMRSBHQU5BUsONQSBMQSBQVUxTRUFEQSBBIEdPUk9TSVRPIFBBUkEgU0VSIEVMIExBVEVSQUwgREVSRUNITyBERSBCT0NBIl0": {
       "account": "main",
@@ -39,7 +55,9 @@
       "dueAt": "2026-10-09T10:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8bc8ac4b1ead4d73edf6c",
-      "createdAt": "2026-10-09T10:06:02.818Z"
+      "createdAt": "2026-10-09T10:06:02.818Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108502737650323650",
+      "sentAt": "2026-10-09T10:20:01.628Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU0MDM2MDAwMCwiU1VTUEVORElFUk9OIEFMIFBSSU1FUiBEVCBQT1IgTEEgQ0FVU0EgREUgTElDRU5DSUFTIFRSVUNIQVMgUVVFIElOVk9MVUNSQSBBIE1BTkNVU08iXQ": {
       "account": "main",
@@ -47,7 +65,9 @@
       "dueAt": "2026-10-09T10:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8bc8ab9252eae988aa95c",
-      "createdAt": "2026-10-09T10:06:02.286Z"
+      "createdAt": "2026-10-09T10:06:02.286Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108501487902974076",
+      "sentAt": "2026-10-09T10:15:03.676Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTU0MDMwMDAwMCwiUklWRVIgUEFTQVLDgSBERSBUUkVTIFNFTUFOQVMgU0lOIEpVR0FSIEEgQ0lOQ08gUEFSVElET1MgRU4gMjIgRMONQVMiXQ": {
       "account": "main",
@@ -55,7 +75,9 @@
       "dueAt": "2026-10-09T10:10:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8bc89f96589ad5b9fd8a3",
-      "createdAt": "2026-10-09T10:06:01.951Z"
+      "createdAt": "2026-10-09T10:06:01.951Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108500222808576157",
+      "sentAt": "2026-10-09T10:10:02.049Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTUxMjY0MDAwMCwiS0VMQ0ktUk9TRSBCT1dFUlMgREVCVVTDkyBDT04gR09MIEVOIFNVIE5VRVZPIEVRVUlQTyBJTkdMw4lTIl0": {
       "account": "main",
@@ -4941,23 +4963,16 @@
       "dueAt": "2026-09-18T22:25:00.000Z",
       "bufferPostId": "6aadb91904838aa1c453aaa3",
       "createdAt": "2026-09-18T22:20:09.291Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc4OTc2NTM4MDAwMCwiTEFTIExFT05BUyBHT0xFQVJPTiA1LTEgQSBDSElMRSBZIFlBIEVTVMOBTiBFTiBMQSBGSU5BTCJd": {
-      "account": "main",
-      "title": "LAS LEONAS GOLEARON 5-1 A CHILE Y YA ESTÁN EN LA FINAL",
-      "dueAt": "2026-09-18T21:25:00.000Z",
-      "bufferPostId": "6aadab30a4c300df329ec599",
-      "createdAt": "2026-09-18T21:20:48.372Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-09T02:20:00.000Z",
-    "main": "2026-10-09T10:45:00.000Z"
+    "main": "2026-10-09T12:10:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-09T10:06:01.191Z"
+    "lastLinksRefreshAt": "2026-10-09T11:59:21.990Z"
   }
 }
