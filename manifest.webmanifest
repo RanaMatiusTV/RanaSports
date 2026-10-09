@@ -25,5 +25,12 @@
   "categories": [
     "sports",
     "news"
+  ],
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "./manifest.webmanifest",
+      "id": "https://ranasports.com.ar/"
+    }
   ]
 }
