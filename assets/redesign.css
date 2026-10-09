@@ -28,3 +28,14 @@ body{background:radial-gradient(ellipse at 0 0,rgba(140,0,28,.14),transparent 50
 @media(max-width:1049px){.header-inner .dynamic-nav{display:none}.mobile-menu-button{display:inline-flex;margin-left:auto;min-width:40px;font-size:22px;padding:0 10px}.header-inner{padding-bottom:12px}.editorial-grid:not(.no-featured) .lead-story{grid-row:1}.editorial-grid:not(.no-featured) .secondary-story{grid-row:2;grid-column:span 3}.editorial-grid:not(.no-featured) .live-module{grid-row:3}#ultimas,#en-vivo,#agendaModule,#posiciones{scroll-margin-top:110px}.category-tabs{display:none}}
 @media(max-width:360px){.header-youtube{display:none}}
 @media(min-width:1050px){.header-inner .dynamic-nav{display:flex;flex-wrap:nowrap}.dynamic-nav>a,.dynamic-nav .nav-more summary{padding-left:10px;padding-right:10px}.editorial-grid:not(.no-featured) .secondary-story{grid-row:var(--rank);height:100%}.editorial-grid:not(.no-featured) .secondary-story:nth-of-type(3){grid-row:2/4}.editorial-grid:not(.no-featured) .lead-story{grid-row:1/4}}
+
+/* Aviso de instalación de RanaSports: solo se abre si la app no está instalada. */
+#installPopup.rs-install-popup{width:min(92vw,380px);max-width:380px;padding:27px 24px 22px;text-align:center;border:1px solid #3e4652;border-radius:18px;background:#10141b;color:#fff;box-shadow:0 24px 75px #000b}
+#installPopup .rs-install-icon{width:70px;height:70px;object-fit:contain;border-radius:16px;margin:0 auto 14px;display:block}
+#installPopup .rs-install-eyebrow{display:block;font-size:10px;letter-spacing:1.2px;font-weight:900;color:#ff526e;margin-bottom:7px}
+#installPopup h3{font-size:25px;line-height:1.15;margin:0 0 12px;letter-spacing:-.6px}
+#installPopup p{font-size:14px;line-height:1.45;color:#c7cbd3;margin:0 0 22px}
+#installPopup .rs-install-primary{width:100%;min-height:48px;background:#eb1642;border-radius:9px;font-size:14px}
+#installPopup .rs-install-secondary{display:block;width:100%;margin:10px auto 0;padding:8px 12px;color:#c4cbd6;background:transparent;border:0;cursor:pointer;font-size:13px}
+#installPopup .rs-install-already{font-size:12px;color:#969fae;margin-top:0;text-decoration:underline;text-underline-offset:3px}
+#installPopup .dialog-close{min-width:36px;min-height:36px;top:5px;right:6px}
