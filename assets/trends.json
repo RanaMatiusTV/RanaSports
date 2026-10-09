@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-08T23:57:23.021Z",
+  "updatedAt": "2026-10-09T06:06:44.186Z",
   "trends": [
     {
-      "query": "fluminense - coritiba",
-      "startedAt": "2026-10-08T23:40:00.000Z",
+      "query": "dalma maradona",
+      "startedAt": "2026-10-09T03:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "bruce willis",
-      "startedAt": "2026-10-08T23:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "nicolás occhiato",
-      "startedAt": "2026-10-08T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "pensión no contributiva",
-      "startedAt": "2026-10-08T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "club atlético tucumán",
-      "startedAt": "2026-10-08T23:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "brasileirao",
-      "startedAt": "2026-10-08T23:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "arali vivas",
-      "startedAt": "2026-10-08T23:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "administración nacional de la seguridad social",
-      "startedAt": "2026-10-08T22:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "santos vs",
-      "startedAt": "2026-10-08T22:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "paranaense - atlético mineiro",
-      "startedAt": "2026-10-08T22:30:00.000Z",
+      "query": "marina calabró",
+      "startedAt": "2026-10-09T02:40:00.000Z",
       "volume": 2000
+    },
+    {
+      "query": "maru botana",
+      "startedAt": "2026-10-09T02:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "calu rivero",
+      "startedAt": "2026-10-09T02:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "pergolini",
+      "startedAt": "2026-10-09T02:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "china ansa",
+      "startedAt": "2026-10-09T02:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "nicolás repetto",
+      "startedAt": "2026-10-09T02:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "clase media",
+      "startedAt": "2026-10-09T02:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "diego ramos",
+      "startedAt": "2026-10-09T02:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "margaret hamilton",
+      "startedAt": "2026-10-09T02:00:00.000Z",
+      "volume": 200
     }
   ]
 }
