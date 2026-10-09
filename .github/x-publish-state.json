@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NjE5MDAwMDAsIkRJRUdPIEZMT1JFUyBQQVPDkyBERSBUUkFEVUNJUiBBIEJJRUxTQSBBIExJREVSQVIgRUwgQ0xBVVNVUkEgQ09OIElOU1RJVFVUTyJd": {
+      "account": "main",
+      "title": "DIEGO FLORES PASÓ DE TRADUCIR A BIELSA A LIDERAR EL CLAUSURA CON INSTITUTO",
+      "dueAt": "2026-10-09T16:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac9112257c4b87d9cfa46f8",
+      "createdAt": "2026-10-09T16:06:58.990Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU2MTkwMDAwMCwiWUFNQUwgWSBIQUFMQU5EIExJREVSQU4gRUwgUkFOS0lORyBNVU5ESUFMIFkgRU5aTyBGRVJOw4FOREVaIEVTIEVMIFNVREFNRVJJQ0FOTyBNw4FTIFZBTElPU08iXQ": {
+      "account": "main",
+      "title": "YAMAL Y HAALAND LIDERAN EL RANKING MUNDIAL Y ENZO FERNÁNDEZ ES EL SUDAMERICANO MÁS VALIOSO",
+      "dueAt": "2026-10-09T16:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac91122443de896598443f8",
+      "createdAt": "2026-10-09T16:06:58.620Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJhc2NlbnNvIiwxNzkxNTYxOTAwMDAwLCJPTElNUE8sIFNBTiBNQVJUw41OIERFIEZPUk1PU0EsIEFMVkFSQURPIFkgQ0lQT0xMRVRUSSBWQU4gUE9SIEVMIEFTQ0VOU08gRU4gRUwgRkVERVJBTCBBIl0": {
+      "account": "main",
+      "title": "OLIMPO, SAN MARTÍN DE FORMOSA, ALVARADO Y CIPOLLETTI VAN POR EL ASCENSO EN EL FEDERAL A",
+      "dueAt": "2026-10-09T16:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac9112257c4b87d9cfa46c8",
+      "createdAt": "2026-10-09T16:06:58.153Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTU2MTkwMDAwMCwiQUxQSU5FIFBVU08gQSBQUlVFQkEgQSBDT0xBUElOVE8gWSBHQVNMWSBFTiBVTiBKVUVHTyBWSVJBTCBBTlRFUyBERUwgR1AgREUgU0lOR0FQVVIiXQ": {
+      "account": "f1",
+      "title": "ALPINE PUSO A PRUEBA A COLAPINTO Y GASLY EN UN JUEGO VIRAL ANTES DEL GP DE SINGAPUR",
+      "dueAt": "2026-10-09T16:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac91121a5e49fef9bbaaa95",
+      "createdAt": "2026-10-09T16:06:57.704Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1NjE5MDAwMDAsIlNJTUVPTkUgSE9NRU5BSkXDkyBBIE1FU1NJIFRSQVMgU1UgREVTUEVESURBOiDigJxOT1MgRU5TRcORw5MgQSBQRUxFQVLigJ0iXQ": {
+      "account": "main",
+      "title": "SIMEONE HOMENAJEÓ A MESSI TRAS SU DESPEDIDA: “NOS ENSEÑÓ A PELEAR”",
+      "dueAt": "2026-10-09T16:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac91120443de89659844395",
+      "createdAt": "2026-10-09T16:06:56.929Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNTYxOTAwMDAwLCJBTEZBUk8gTU9SRU5PIFNFIFNVTcOTIEFMIFBST1lFQ1RPIERFIEdBVURJTyBQQVJBIExBUyBFTEVDQ0lPTkVTIERFIElOREVQRU5ESUVOVEUiXQ": {
+      "account": "main",
+      "title": "ALFARO MORENO SE SUMÓ AL PROYECTO DE GAUDIO PARA LAS ELECCIONES DE INDEPENDIENTE",
+      "dueAt": "2026-10-09T16:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac91120ea458ceb9a5299e9",
+      "createdAt": "2026-10-09T16:06:56.532Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJiYXNxdWV0IiwxNzkxNTU0ODIwMDAwLCJTSEFJIEdJTEdFT1VTLUFMRVhBTkRFUiBTRSBDT05WSVJUScOTIEVOIEFDQ0lPTklTVEEgREVMIEFUTMOJVElDTyBERSBNQURSSUQiXQ": {
       "account": "main",
       "title": "SHAI GILGEOUS-ALEXANDER SE CONVIRTIÓ EN ACCIONISTA DEL ATLÉTICO DE MADRID",
@@ -31,7 +79,9 @@
       "dueAt": "2026-10-09T14:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac8f59d57c4b87d9cf4bea7",
-      "createdAt": "2026-10-09T14:09:33.847Z"
+      "createdAt": "2026-10-09T14:09:33.847Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2108561929224479009",
+      "sentAt": "2026-10-09T14:15:13.990Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1NTQ4MjAwMDAsIlRBR0xJQUZJQ08gSEFCTMOTIERFIFNVIEZVVFVSTywgTEEgUEFURVJOSURBRCBZIFVOQSBQT1NJQkxFIFZVRUxUQSBBTCBQQcONUyJd": {
       "account": "main",
@@ -4936,58 +4986,16 @@
       "dueAt": "2026-09-20T03:20:00.000Z",
       "bufferPostId": "6aaf50588d048c06b4f807f4",
       "createdAt": "2026-09-20T03:17:44.349Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3ODk4NjYyNDAwMDAsIkhVUkFDw4FOIExFIFBJTkNIw5MgRUwgR0xPQk8gQSBSSVZFUjogMi0xIEVOIEVMIE1PTlVNRU5UQUwgWSBQUklNRVJBIENBw41EQSBDT04gUE9OWklPIl0": {
-      "account": "main",
-      "title": "HURACÁN LE PINCHÓ EL GLOBO A RIVER: 2-1 EN EL MONUMENTAL Y PRIMERA CAÍDA CON PONZIO",
-      "dueAt": "2026-09-20T02:55:00.000Z",
-      "bufferPostId": "6aaf49e5b87fe81304576cc4",
-      "createdAt": "2026-09-20T02:50:13.461Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODY1ODIwMDAwLCJJTlNVTFRPUyBDT05UUkEgQ0hJUVVJIFRBUElBIEVOIFNBTlRBIEZFOiBMQSBUUklCVU5BIERFIFVOScOTTiBFWFBMT1TDkyBEVVJBTlRFIEVMIFBBUlRJRE8gQ09OIElOREVQRU5ESUVOVEUiXQ": {
-      "account": "main",
-      "title": "INSULTOS CONTRA CHIQUI TAPIA EN SANTA FE: LA TRIBUNA DE UNIÓN EXPLOTÓ DURANTE EL PARTIDO CON INDEPENDIENTE",
-      "dueAt": "2026-09-20T01:25:00.000Z",
-      "bufferPostId": "6aaf351ea490f1cf65d58824",
-      "createdAt": "2026-09-20T01:21:34.936Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODYxNTAwMDAwLCJWSUVSQSwgREVTUFXDiVMgREVMIFRSSVVORk8gREVMIFJPSk86IOKAnEVTVE9ZIEVOQ09OVFJBTkRPIEVMIEVRVUlQT-KAnSJd": {
-      "account": "main",
-      "title": "VIERA, DESPUÉS DEL TRIUNFO DEL ROJO: “ESTOY ENCONTRANDO EL EQUIPO”",
-      "dueAt": "2026-09-20T00:25:00.000Z",
-      "bufferPostId": "6aaf26d1bb86436624abe616",
-      "createdAt": "2026-09-20T00:20:33.374Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODU1NTYwMDAwLCJJTkRFUEVORElFTlRFIExPIERJTyBWVUVMVEEgRU4gU0FOVEEgRkU6IDItMSBBIFVOScOTTiBDT04gVU5BIFLDgUZBR0EgREUgTU9OVElFTCBZIE1FWkEiXQ": {
-      "account": "main",
-      "title": "INDEPENDIENTE LO DIO VUELTA EN SANTA FE: 2-1 A UNIÓN CON UNA RÁFAGA DE MONTIEL Y MEZA",
-      "dueAt": "2026-09-19T22:25:00.000Z",
-      "bufferPostId": "6aaf09de3916ba5b753037c3",
-      "createdAt": "2026-09-19T22:17:02.661Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODU1NTAwMDAwLCJNRVpBIFZPTFZJw5MgQUwgR09MIENPTiBVTkEgSk9ZQTogRUwgREVSRUNIQVpPIFFVRSBTRUxMw5MgTEEgUkVNT05UQURBIERFTCBST0pPIl0": {
-      "account": "main",
-      "title": "MEZA VOLVIÓ AL GOL CON UNA JOYA: EL DERECHAZO QUE SELLÓ LA REMONTADA DEL ROJO",
-      "dueAt": "2026-09-19T22:20:00.000Z",
-      "bufferPostId": "6aaf09debb86436624a8f204",
-      "createdAt": "2026-09-19T22:17:02.287Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc4OTg1MTcyMDAwMCwiTEFVVEFSTyBSRVNDQVTDkyBBTCBJTlRFUjogRE9CTEVURSBQQVJBIExFVkFOVEFSIFVOIDAtMiBBTlRFIFJPTUEiXQ": {
-      "account": "main",
-      "title": "LAUTARO RESCATÓ AL INTER: DOBLETE PARA LEVANTAR UN 0-2 ANTE ROMA",
-      "dueAt": "2026-09-19T21:25:00.000Z",
-      "bufferPostId": "6aaefbf63916ba5b752f023c",
-      "createdAt": "2026-09-19T21:17:42.531Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-09T14:20:00.000Z",
-    "main": "2026-10-09T14:40:00.000Z"
+    "f1": "2026-10-09T16:15:00.000Z",
+    "main": "2026-10-09T16:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-09T14:09:32.574Z"
+    "lastLinksRefreshAt": "2026-10-09T16:06:55.994Z"
   }
 }
