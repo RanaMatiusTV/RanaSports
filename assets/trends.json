@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-09T13:14:34.355Z",
+  "updatedAt": "2026-10-09T18:49:22.075Z",
   "trends": [
     {
-      "query": "disney",
-      "startedAt": "2026-10-09T12:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "disney+",
-      "startedAt": "2026-10-09T12:10:00.000Z",
+      "query": "málaga - rcd espanyol",
+      "startedAt": "2026-10-09T18:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "iga świątek",
-      "startedAt": "2026-10-09T12:00:00.000Z",
+      "query": "kirchnerismo",
+      "startedAt": "2026-10-09T18:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "demi moore",
-      "startedAt": "2026-10-09T12:00:00.000Z",
+      "query": "lens - lyon",
+      "startedAt": "2026-10-09T18:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "psv",
+      "startedAt": "2026-10-09T18:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "dinero",
+      "startedAt": "2026-10-09T18:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "dexter",
-      "startedAt": "2026-10-09T11:40:00.000Z",
+      "query": "neuquén",
+      "startedAt": "2026-10-09T18:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "carolina amoroso",
-      "startedAt": "2026-10-09T11:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "shanghai open",
-      "startedAt": "2026-10-09T10:10:00.000Z",
+      "query": "caputo",
+      "startedAt": "2026-10-09T18:00:00.000Z",
       "volume": 2000
     },
     {
-      "query": "clima mendoza",
-      "startedAt": "2026-10-09T10:10:00.000Z",
+      "query": "10 de octubre",
+      "startedAt": "2026-10-09T18:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "huevo",
-      "startedAt": "2026-10-09T10:00:00.000Z",
+      "query": "dortmund - werder bremen",
+      "startedAt": "2026-10-09T17:40:00.000Z",
       "volume": 1000
     },
     {
-      "query": "pronostico cordoba",
-      "startedAt": "2026-10-09T09:50:00.000Z",
-      "volume": 200
+      "query": "al nassr",
+      "startedAt": "2026-10-09T17:30:00.000Z",
+      "volume": 1000
     }
   ]
 }
