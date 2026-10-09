@@ -1,12 +1,4 @@
 RanaSports Radar 1 → GitHub Sync
-Fecha y hora ARG: 2026-10-08 19:03
-Altas verificadas: 6
-Última noticia: XHAKA RECIBIÓ UNA MULTA SUSPENDIDA POR UN CERTIFICADO FALSO DE COVID
-
-Sincronización extraordinaria solicitada: 2026-10-08 19:37 ARG
-Motivo: publicar en portada las 6 notas nuevas del especial GP de Singapur / Franco Colapinto ingresadas a las 19:24.
-Sin cambios en el radar de noticias.
-
-Sincronización extraordinaria solicitada: 2026-10-08 19:44 ARG
-Motivo: publicar en portada 2 notas de color de Colapinto / Alonso y Colapinto / hincha español, ingresadas a las 19:43.
-Preservar programación y comportamiento del Radar de Noticias.
+Fecha y hora ARG: 2026-10-08 21:00
+Altas verificadas: 7
+Última noticia: RACING TIENE UNA DUDA EN LA DEFENSA PARA RECIBIR A BELGRANO
