@@ -4915,12 +4915,12 @@
   },
   "nextAt": {
     "f1": "2026-10-09T00:20:00.000Z",
-    "main": "2026-10-09T00:35:00.000Z"
+    "main": "2026-10-09T01:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-09T00:29:22.369Z"
+    "lastLinksRefreshAt": "2026-10-09T01:02:02.444Z"
   }
 }
