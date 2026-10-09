@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-09T06:06:44.186Z",
+  "updatedAt": "2026-10-09T13:14:34.355Z",
   "trends": [
     {
-      "query": "dalma maradona",
-      "startedAt": "2026-10-09T03:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "marina calabró",
-      "startedAt": "2026-10-09T02:40:00.000Z",
+      "query": "disney",
+      "startedAt": "2026-10-09T12:10:00.000Z",
       "volume": 2000
     },
     {
-      "query": "maru botana",
-      "startedAt": "2026-10-09T02:30:00.000Z",
+      "query": "disney+",
+      "startedAt": "2026-10-09T12:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "calu rivero",
-      "startedAt": "2026-10-09T02:30:00.000Z",
+      "query": "iga świątek",
+      "startedAt": "2026-10-09T12:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "demi moore",
+      "startedAt": "2026-10-09T12:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "pergolini",
-      "startedAt": "2026-10-09T02:20:00.000Z",
+      "query": "dexter",
+      "startedAt": "2026-10-09T11:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "china ansa",
-      "startedAt": "2026-10-09T02:20:00.000Z",
+      "query": "carolina amoroso",
+      "startedAt": "2026-10-09T11:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "nicolás repetto",
-      "startedAt": "2026-10-09T02:10:00.000Z",
+      "query": "shanghai open",
+      "startedAt": "2026-10-09T10:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "clima mendoza",
+      "startedAt": "2026-10-09T10:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "huevo",
+      "startedAt": "2026-10-09T10:00:00.000Z",
       "volume": 1000
     },
     {
-      "query": "clase media",
-      "startedAt": "2026-10-09T02:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "diego ramos",
-      "startedAt": "2026-10-09T02:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "margaret hamilton",
-      "startedAt": "2026-10-09T02:00:00.000Z",
+      "query": "pronostico cordoba",
+      "startedAt": "2026-10-09T09:50:00.000Z",
       "volume": 200
     }
   ]
