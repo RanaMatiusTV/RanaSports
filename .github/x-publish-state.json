@@ -1,6 +1,78 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU0NzYyMDAwMCwiRkxBTUVOR08gUFJPVEVTVMOTIENPTlRSQSBMQSBQUk9ISUJJQ0nDk04gREUgQVBVRVNUQVMgQ09OIFVOQSBDQU1JU0VUQSBFU1BFQ0lBTCJd": {
+      "account": "main",
+      "title": "FLAMENGO PROTESTÓ CONTRA LA PROHIBICIÓN DE APUESTAS CON UNA CAMISETA ESPECIAL",
+      "dueAt": "2026-10-09T12:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8d94c4b8da2c1aa219415",
+      "createdAt": "2026-10-09T12:08:45.075Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIGVuIGVsIGV4dGVyaW9yIiwxNzkxNTQ3NjIwMDAwLCJVTiDDgVJCT0wgQ0FZw5MgU09CUkUgRUwgVkVIw41DVUxPIERFIE5JQ09Mw4FTIEhFUk7DgU5ERVogRU4gQ0FMSSJd": {
+      "account": "main",
+      "title": "UN ÁRBOL CAYÓ SOBRE EL VEHÍCULO DE NICOLÁS HERNÁNDEZ EN CALI",
+      "dueAt": "2026-10-09T12:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8d94c857cb06c7f93cf9b",
+      "createdAt": "2026-10-09T12:08:44.406Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE1NDc2MjAwMDAsIkJPQ0EgQkxJTkTDkyBBIExFT05FTCBGTE9SRVMgSEFTVEEgMjAyOSBDT04gVU5BIENMw4FVU1VMQSBNSUxMT05BUklBIl0": {
+      "account": "main",
+      "title": "BOCA BLINDÓ A LEONEL FLORES HASTA 2029 CON UNA CLÁUSULA MILLONARIA",
+      "dueAt": "2026-10-09T12:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8d94b4b8da2c1aa2193cd",
+      "createdAt": "2026-10-09T12:08:44.070Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTU0NzYyMDAwMCwiTEEgQ09OVElOVUlEQUQgREUgUE9OWklPIEVOIFJJVkVSIERFUEVOREUgREUgTEEgTElCRVJUQURPUkVTIFkgRUwgU1VQRVJDTMOBU0lDTyJd": {
+      "account": "main",
+      "title": "LA CONTINUIDAD DE PONZIO EN RIVER DEPENDE DE LA LIBERTADORES Y EL SUPERCLÁSICO",
+      "dueAt": "2026-10-09T12:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8d94bca61ff26684af8a4",
+      "createdAt": "2026-10-09T12:08:43.287Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXJjYWRvIGRlIHBhc2VzIiwxNzkxNTQ3NjIwMDAwLCJNQVTDjUFTIFJFQUxJIERFSsOTIFNBTiBMT1JFTlpPIFkgSlVHQVLDgSBFTiBJTkRFUEVORElFTlRFIFJJVkFEQVZJQSJd": {
+      "account": "main",
+      "title": "MATÍAS REALI DEJÓ SAN LORENZO Y JUGARÁ EN INDEPENDIENTE RIVADAVIA",
+      "dueAt": "2026-10-09T12:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8d94a4b8da2c1aa219387",
+      "createdAt": "2026-10-09T12:08:42.490Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIGVuIGVsIGV4dGVyaW9yIiwxNzkxNTQ3NjIwMDAwLCJDQU1QRVNUUklOSSBTSUdVRSBBVEFKQU5ETyBBIExPUyA0NiBBw5FPUyBZIFJPTVBJw5MgVU4gUsOJQ09SRCBFTiBDSElMRSJd": {
+      "account": "main",
+      "title": "CAMPESTRINI SIGUE ATAJANDO A LOS 46 AÑOS Y ROMPIÓ UN RÉCORD EN CHILE",
+      "dueAt": "2026-10-09T12:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8d949fe48c6749802cb3e",
+      "createdAt": "2026-10-09T12:08:42.043Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTU0NzYyMDAwMCwiTUVTU0kgVkEgUE9SIFRSRVMgT0JKRVRJVk9TIENPTiBJTlRFUiBNSUFNSSBUUkFTIFNVIEFEScOTUyBBIExBIFNFTEVDQ0nDk04iXQ": {
+      "account": "main",
+      "title": "MESSI VA POR TRES OBJETIVOS CON INTER MIAMI TRAS SU ADIÓS A LA SELECCIÓN",
+      "dueAt": "2026-10-09T12:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8d949ca61ff26684af84e",
+      "createdAt": "2026-10-09T12:08:41.325Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NDc2MjAwMDAsIkFMRE9TSVZJIFJFQ0lCRSBBIFNBUk1JRU5UTyBFTiBVTiBQQVJUSURPIENMQVZFIFBBUkEgRVNDQVBBUiBERUwgREVTQ0VOU08iXQ": {
+      "account": "main",
+      "title": "ALDOSIVI RECIBE A SARMIENTO EN UN PARTIDO CLAVE PARA ESCAPAR DEL DESCENSO",
+      "dueAt": "2026-10-09T12:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8d948fe48c6749802cb14",
+      "createdAt": "2026-10-09T12:08:40.880Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NDc2MjAwMDAsIkFUTMOJVElDTyBUVUNVTcOBTiBBUFVOVEEgQSBMT1MgUExBWU9GRlMgWSBGRVJSQVJJIFBJREnDkyBNSVJBUiBIQUNJQSBBUlJJQkEiXQ": {
+      "account": "main",
+      "title": "ATLÉTICO TUCUMÁN APUNTA A LOS PLAYOFFS Y FERRARI PIDIÓ MIRAR HACIA ARRIBA",
+      "dueAt": "2026-10-09T12:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac8d948fe48c6749802caeb",
+      "createdAt": "2026-10-09T12:08:40.488Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NDcwODAwMDAsIlNFIFRFUk1JTsOTIExPIEdSQVRJUzogTFBGIFBMQVkgQ09CUkFSw4EgJDE1LjAwMCBQT1IgTUVTIFBBUkEgVkVSIEVMIEFTQ0VOU08iXQ": {
       "account": "main",
       "title": "SE TERMINÓ LO GRATIS: LPF PLAY COBRARÁ $15.000 POR MES PARA VER EL ASCENSO",
@@ -4900,79 +4972,16 @@
       "dueAt": "2026-09-19T14:20:00.000Z",
       "bufferPostId": "6aae996e4594e3153f37ca92",
       "createdAt": "2026-09-19T14:17:18.778Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5ODIyODAwMDAwLCJJTkRFUEVORElFTlRFIEZFTUVOSU5PIFZJU0lUQSBBIEJPQ0E6IFBBUlRJRE8gQlJBVk8gRU4gQ0FTQSBERSBMQVMgR0xBRElBRE9SQVMiXQ": {
-      "account": "main",
-      "title": "INDEPENDIENTE FEMENINO VISITA A BOCA: PARTIDO BRAVO EN CASA DE LAS GLADIADORAS",
-      "dueAt": "2026-09-19T13:35:00.000Z",
-      "bufferPostId": "6aae8e3d24705c9044a5ea3b",
-      "createdAt": "2026-09-19T13:29:33.887Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk4MjI2ODAwMDAsIlNDQUxPTkkgTExFR8OTIEFMIFBBw41TIENPTiBTVSBGVVRVUk8gQUJJRVJUTyBZIFJFVU5JT05FUyBDTEFWRSBDT04gVEFQSUEgRU4gQUdFTkRBIl0": {
-      "account": "main",
-      "title": "SCALONI LLEGÓ AL PAÍS CON SU FUTURO ABIERTO Y REUNIONES CLAVE CON TAPIA EN AGENDA",
-      "dueAt": "2026-09-19T13:20:00.000Z",
-      "bufferPostId": "6aae8b3e65e5b8cd5b35a495",
-      "createdAt": "2026-09-19T13:16:46.822Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3OTEzNjAwMDAsIkxBIFNVQiAxOSBWQSBQT1IgTEEgUkVDVVBFUkFDScOTTjogQVJHRU5USU5BIEVORlJFTlRBIEEgVVJVR1VBWSBFTiBST1NBUklPIl0": {
-      "account": "main",
-      "title": "LA SUB 19 VA POR LA RECUPERACIÓN: ARGENTINA ENFRENTA A URUGUAY EN ROSARIO",
-      "dueAt": "2026-09-19T04:25:00.000Z",
-      "bufferPostId": "6aae0b1824705c9044985256",
-      "createdAt": "2026-09-19T04:10:01.006Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NzkxMzAwMDAwLCJMT0JPIE1FRElOQSBESVJJR0UgQUwgUk9KTyBFTiBTQU5UQSBGRTogQVPDjSBRVUVEw5MgTEEgVEVSTkEgWSBFTCBWQVIiXQ": {
-      "account": "main",
-      "title": "LOBO MEDINA DIRIGE AL ROJO EN SANTA FE: ASÍ QUEDÓ LA TERNA Y EL VAR",
-      "dueAt": "2026-09-19T04:20:00.000Z",
-      "bufferPostId": "6aae0b17560f708e814cc241",
-      "createdAt": "2026-09-19T04:10:00.108Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NzkxMjQwMDAwLCJVTknDk04gUkVDVVBFUkEgQSBUQVJSQUdPTkEgSlVTVE8gQU5URVMgREUgUkVDSUJJUiBBIElOREVQRU5ESUVOVEUiXQ": {
-      "account": "main",
-      "title": "UNIÓN RECUPERA A TARRAGONA JUSTO ANTES DE RECIBIR A INDEPENDIENTE",
-      "dueAt": "2026-09-19T04:15:00.000Z",
-      "bufferPostId": "6aae0b15560f708e814cc1ef",
-      "createdAt": "2026-09-19T04:09:57.856Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJyYWNpbmcgY2x1YiIsMTc4OTc4NDQwMDAwMCwiUkFDSU5HIFJFU1BJUsOTIEVOIEVMIENJTElORFJPOiAzLTEgQSBTQVJNSUVOVE8gWSBGSU4gQSBOVUVWRSBGRUNIQVMgU0lOIEdBTkFSIl0": {
-      "account": "main",
-      "title": "RACING RESPIRÓ EN EL CILINDRO: 3-1 A SARMIENTO Y FIN A NUEVE FECHAS SIN GANAR",
-      "dueAt": "2026-09-19T02:55:00.000Z",
-      "bufferPostId": "6aadf9355fe629aa26686936",
-      "createdAt": "2026-09-19T02:53:41.930Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzg5NzgwMDgwMDAwLCJBUkdFTlRJTkEgQUNFTEVSQSBQT1IgTEEgRjE6IE5VRVZBUyBHRVNUSU9ORVMgUEFSQSBSRUNVUEVSQVIgRUwgR1JBTiBQUkVNSU8iXQ": {
-      "account": "f1",
-      "title": "ARGENTINA ACELERA POR LA F1: NUEVAS GESTIONES PARA RECUPERAR EL GRAN PREMIO",
-      "dueAt": "2026-09-19T01:15:00.000Z",
-      "bufferPostId": "6aade1191e8bdcdb523573ac",
-      "createdAt": "2026-09-19T01:10:50.088Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NzcyODgwMDAwLCJWQUxEw4laIFZPTFZJw5MgWSBDQUJSQUwgRU5UUsOTIEEgw5pMVElNTyBNT01FTlRPOiBMT1MgQ09OVk9DQURPUyBERSBJTkRFUEVORElFTlRFIFBBUkEgVklTSVRBUiBBIFVOScOTTiJd": {
-      "account": "main",
-      "title": "VALDÉZ VOLVIÓ Y CABRAL ENTRÓ A ÚLTIMO MOMENTO: LOS CONVOCADOS DE INDEPENDIENTE PARA VISITAR A UNIÓN",
-      "dueAt": "2026-09-18T23:25:00.000Z",
-      "bufferPostId": "6aadc742988279488767ff32",
-      "createdAt": "2026-09-18T23:20:34.673Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc4OTc2OTA0MDAwMCwiTE9TIExFT05FUyBHT0xFQVJPTiA1LTEgQSBDSElMRSBZIFlBIEVTVMOBTiBFTiBMQSBGSU5BTCBQT1IgRUwgT1JPIl0": {
-      "account": "main",
-      "title": "LOS LEONES GOLEARON 5-1 A CHILE Y YA ESTÁN EN LA FINAL POR EL ORO",
-      "dueAt": "2026-09-18T22:25:00.000Z",
-      "bufferPostId": "6aadb91904838aa1c453aaa3",
-      "createdAt": "2026-09-18T22:20:09.291Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-09T02:20:00.000Z",
-    "main": "2026-10-09T12:10:00.000Z"
+    "main": "2026-10-09T12:55:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-09T11:59:21.990Z"
+    "lastLinksRefreshAt": "2026-10-09T12:08:40.017Z"
   }
 }
