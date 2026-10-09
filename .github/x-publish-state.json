@@ -1,13 +1,87 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTUxMjY0MDAwMCwiS0VMQ0ktUk9TRSBCT1dFUlMgREVCVVTDkyBDT04gR09MIEVOIFNVIE5VRVZPIEVRVUlQTyBJTkdMw4lTIl0": {
+      "account": "main",
+      "title": "KELCI-ROSE BOWERS DEBUTÓ CON GOL EN SU NUEVO EQUIPO INGLÉS",
+      "dueAt": "2026-10-09T07:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac88b2693f9e5101fed89d8",
+      "createdAt": "2026-10-09T06:35:18.197Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJwb2xpZGVwb3J0aXZvIiwxNzkxNTEyNTgwMDAwLCJERVNDQUxJRklDQVJPTiBBIFVOQSBJTkZMVUVOQ0VSIFBPUiBVU0FSIFVOQSBCSUNJQ0xFVEEgRU4gRUwgTUFSQVTDk04gREUgQkVSTMONTiJd": {
+      "account": "main",
+      "title": "DESCALIFICARON A UNA INFLUENCER POR USAR UNA BICICLETA EN EL MARATÓN DE BERLÍN",
+      "dueAt": "2026-10-09T07:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac88b25987e694c3c4544d2",
+      "createdAt": "2026-10-09T06:35:17.882Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJ0ZW5pcyIsMTc5MTUxMjUyMDAwMCwiTEEgQ0FURURSQUwgREVMIFRFTklTIEFSR0VOVElOTyBDVU1QTEnDkyBDSUVOIEHDkU9TIl0": {
+      "account": "main",
+      "title": "LA CATEDRAL DEL TENIS ARGENTINO CUMPLIÓ CIEN AÑOS",
+      "dueAt": "2026-10-09T07:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac88b2504f06b2e8f7f7f76",
+      "createdAt": "2026-10-09T06:35:17.583Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTUxMjQ2MDAwMCwiRUwgU0lMRU5DSU8gREVMIFBMQU5URUwgREUgUE9SVFVHQUwgQUdSQU5Ew5MgTEEgQ1JJU0lTIERFIENSSVNUSUFOTyBST05BTERPIl0": {
+      "account": "main",
+      "title": "EL SILENCIO DEL PLANTEL DE PORTUGAL AGRANDÓ LA CRISIS DE CRISTIANO RONALDO",
+      "dueAt": "2026-10-09T07:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac88b25f07e682de6a7ba4f",
+      "createdAt": "2026-10-09T06:35:17.249Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTUxMjI4MDAwMCwiTUVTU0kgVk9MVknDkyBBIEVOVFJFTkFSU0UgQ09OIElOVEVSIE1JQU1JIFRSQVMgU1UgREVTUEVESURBIERFIExBIFNFTEVDQ0nDk04iXQ": {
+      "account": "main",
+      "title": "MESSI VOLVIÓ A ENTRENARSE CON INTER MIAMI TRAS SU DESPEDIDA DE LA SELECCIÓN",
+      "dueAt": "2026-10-09T07:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac88b24987e694c3c454486",
+      "createdAt": "2026-10-09T06:35:16.962Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyYWNpbmciLDE3OTE1MDQwMDAwMDAsIlJBQ0lORyBUSUVORSBVTkEgRFVEQSBFTiBMQSBERUZFTlNBIFBBUkEgUkVDSUJJUiBBIEJFTEdSQU5PIl0": {
+      "account": "main",
+      "title": "RACING TIENE UNA DUDA EN LA DEFENSA PARA RECIBIR A BELGRANO",
+      "dueAt": "2026-10-09T06:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac88b2404f06b2e8f7f7f3b",
+      "createdAt": "2026-10-09T06:35:16.655Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTA0MDAwMDAwLCJDT05NRUJPTCBNVUxUw5MgQSBCT0NBIENPTiAxNSBNSUwgRMOTTEFSRVMgUE9SIElOQ1VNUExJUiBFTCBQUk9UT0NPTE8iXQ": {
+      "account": "main",
+      "title": "CONMEBOL MULTÓ A BOCA CON 15 MIL DÓLARES POR INCUMPLIR EL PROTOCOLO",
+      "dueAt": "2026-10-09T06:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac88b247d9f9f330129e6bd",
+      "createdAt": "2026-10-09T06:35:16.377Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1MTI0MDAwMDAsIlVOQSBORU5BIERFIDExIEHDkU9TIEVNT0NJT07DkyBBTCBESUJVIE1BUlTDjU5FWiBDT04gVU5BIEVOVFJFVklTVEEgRVNQRUNJQUwiXQ": {
+      "account": "main",
+      "title": "UNA NENA DE 11 AÑOS EMOCIONÓ AL DIBU MARTÍNEZ CON UNA ENTREVISTA ESPECIAL",
+      "dueAt": "2026-10-09T06:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac88b237d9f9f330129e68b",
+      "createdAt": "2026-10-09T06:35:16.007Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1MDQwMDAwMDAsIkxBIFBST0RVQ1RPUkEgREUgQUZBIEFQVU5Uw5MgQ09OVFJBIFJJVkVSIFkgQUJSScOTIE9UUkEgUE9Mw4lNSUNBIFBPUiBMQSBERVNQRURJREEgREUgTUVTU0kiXQ": {
+      "account": "main",
+      "title": "LA PRODUCTORA DE AFA APUNTÓ CONTRA RIVER Y ABRIÓ OTRA POLÉMICA POR LA DESPEDIDA DE MESSI",
+      "dueAt": "2026-10-09T06:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac88b2393f9e5101fed897d",
+      "createdAt": "2026-10-09T06:35:15.741Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTUxMjM0MDAwMCwiRE9DVU1FTlRPUyBSRVZFTEFST04gVU5BIElOREVNTklaQUNJw5NOIE1JTExPTkFSSUEgUEFSQSBDSFJJU1RJQU4gSE9STkVSIl0": {
       "account": "f1",
       "title": "DOCUMENTOS REVELARON UNA INDEMNIZACIÓN MILLONARIA PARA CHRISTIAN HORNER",
       "dueAt": "2026-10-09T02:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac84d6f93f9e5101fe3b61b",
-      "createdAt": "2026-10-09T02:11:59.217Z"
+      "createdAt": "2026-10-09T02:11:59.217Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2108380689129263437",
+      "sentAt": "2026-10-09T02:15:03.086Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTUwNDAwMDAwMCwiUkFMRiBTQ0hVTUFDSEVSIENVRVNUSU9Ow5MgQSBOT1JSSVMgWSBERUZFTkRJw5MgQSBDT0xBUElOVE8iXQ": {
       "account": "f1",
@@ -4849,79 +4923,16 @@
       "dueAt": "2026-09-18T14:30:00.000Z",
       "bufferPostId": "6aad49f1af6af53ceac3bed5",
       "createdAt": "2026-09-18T14:25:53.471Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTc0MDQyMDAwMCwiSEFNSUxUT04gU0FMScOTIEFMIENSVUNFIERFIExPUyBSVU1PUkVTIEVOIEZFUlJBUkk6IOKAnE5VTkNBIFBFRMONIFFVRSBSRUVNUExBQ0VOIEEgTkFESUXigJ0iXQ": {
-      "account": "f1",
-      "title": "HAMILTON SALIÓ AL CRUCE DE LOS RUMORES EN FERRARI: “NUNCA PEDÍ QUE REEMPLACEN A NADIE”",
-      "dueAt": "2026-09-18T14:15:00.000Z",
-      "bufferPostId": "6aad4633d7a2d94521e9dea9",
-      "createdAt": "2026-09-18T14:09:55.761Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTczNzI0MDAwMCwiVkVSU1RBUFBFTiBDT05UUkEgMTAwIEtBUlRJTkdTOiBMQVJHw5Mgw5pMVElNTyBZIExPUyBQQVPDkyBBIFRPRE9TIEVOIFNPTE8gMTQgVlVFTFRBUyJd": {
-      "account": "f1",
-      "title": "VERSTAPPEN CONTRA 100 KARTINGS: LARGÓ ÚLTIMO Y LOS PASÓ A TODOS EN SOLO 14 VUELTAS",
-      "dueAt": "2026-09-18T13:25:00.000Z",
-      "bufferPostId": "6aad39c0d7a2d94521e821ed",
-      "createdAt": "2026-09-18T13:16:48.244Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMiIsMTc4OTczNzE4MDAwMCwiWUEgSEFZIFJFRU1QTEFaQU5URSBERSBWQVJST05FOiBISVlVIFlBTUFLT1NISSBERUJVVEFSw4EgRU4gRjIgRU4gQkFLw5oiXQ": {
-      "account": "f1",
-      "title": "YA HAY REEMPLAZANTE DE VARRONE: HIYU YAMAKOSHI DEBUTARÁ EN F2 EN BAKÚ",
-      "dueAt": "2026-09-18T13:20:00.000Z",
-      "bufferPostId": "6aad39bfdefd00b616c238db",
-      "createdAt": "2026-09-18T13:16:47.562Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NzI5ODAwMDAwLCJQQUzDgUlTIFBJREUgUElTVEE6IEVMIFBJQkUgUVVFIFZJRVJBIFRJRU5FIExJU1RPIFNJIEFCQUxETyBOTyBMTEVHQSBBTlRFIFVOScOTTiJd": {
-      "account": "main",
-      "title": "PALÁIS PIDE PISTA: EL PIBE QUE VIERA TIENE LISTO SI ABALDO NO LLEGA ANTE UNIÓN",
-      "dueAt": "2026-09-18T11:25:00.000Z",
-      "bufferPostId": "6aad1f0315159f403b461eec",
-      "createdAt": "2026-09-18T11:22:43.641Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc4OTcyOTU2MDAwMCwiTEEgRjEgUFVTTyBBIENPTEFQSU5UTyBFTlRSRSBMT1MgTUVKT1JFUyBERSBNQURSSUQ6IENVQVJUTyBFTiBFTCBQT1dFUiBSQU5LSU5HIl0": {
-      "account": "f1",
-      "title": "LA F1 PUSO A COLAPINTO ENTRE LOS MEJORES DE MADRID: CUARTO EN EL POWER RANKING",
-      "dueAt": "2026-09-18T11:10:00.000Z",
-      "bufferPostId": "6aad1b8b15159f403b45bf7e",
-      "createdAt": "2026-09-18T11:07:56.109Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3ODk3MjU5NjAwMDAsIkxBIFNFTEVDQ0nDk04gUE9EUsONQSBNVURBUiBFTCBBTUlTVE9TTyBDT04gQlVSS0lOQSBGQVNPIEEgTEEgQk9NQk9ORVJBIl0": {
-      "account": "main",
-      "title": "LA SELECCIÓN PODRÍA MUDAR EL AMISTOSO CON BURKINA FASO A LA BOMBONERA",
-      "dueAt": "2026-09-18T10:30:00.000Z",
-      "bufferPostId": "6aad0fd415159f403b445121",
-      "createdAt": "2026-09-18T10:17:56.752Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NzI1OTAwMDAwLCJBTEFSTUEgRU4gSU5ERVBFTkRJRU5URTogQUJBTERPIFNVRlJJw5MgVU4gRVNHVUlOQ0UgWSBFUyBEVURBIFBBUkEgVklTSVRBUiBBIFVOScOTTiJd": {
-      "account": "main",
-      "title": "ALARMA EN INDEPENDIENTE: ABALDO SUFRIÓ UN ESGUINCE Y ES DUDA PARA VISITAR A UNIÓN",
-      "dueAt": "2026-09-18T10:25:00.000Z",
-      "bufferPostId": "6aad0fd30785d24e873b6da9",
-      "createdAt": "2026-09-18T10:17:55.910Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5NzI1ODQwMDAwLCJCT0NISU5JIERFU1RST1rDkyBFTCBQUkVTRU5URSBERUwgUk9KTzog4oCcQ09OIEVTVEUgUExBTlRFTCBOTyBTRSBQVUVERSBBUFVOVEFSIEEgTkFEQeKAnSJd": {
-      "account": "main",
-      "title": "BOCHINI DESTROZÓ EL PRESENTE DEL ROJO: “CON ESTE PLANTEL NO SE PUEDE APUNTAR A NADA”",
-      "dueAt": "2026-09-18T10:20:00.000Z",
-      "bufferPostId": "6aad0fd262784c860c8a5c24",
-      "createdAt": "2026-09-18T10:17:54.357Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzg5Njk2MzIwMDAwLCJCT0NISU5JIFFVSUVSRSBWT0xWRVIgQSBJTkRFUEVORElFTlRFOiDigJxNRSBHVVNUQVLDjUEgRVNUQVIgRU4gRUwgQ0xVQuKAnSJd": {
-      "account": "main",
-      "title": "BOCHINI QUIERE VOLVER A INDEPENDIENTE: “ME GUSTARÍA ESTAR EN EL CLUB”",
-      "dueAt": "2026-09-18T08:15:00.000Z",
-      "bufferPostId": "6aacf22a41757aa564b26744",
-      "createdAt": "2026-09-18T08:11:23.055Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-09T02:20:00.000Z",
-    "main": "2026-10-09T02:15:00.000Z"
+    "main": "2026-10-09T07:25:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-09T02:11:56.239Z"
+    "lastLinksRefreshAt": "2026-10-09T06:35:15.274Z"
   }
 }
