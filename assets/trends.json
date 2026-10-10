@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-09T23:15:23.545Z",
+  "updatedAt": "2026-10-10T02:22:17.697Z",
   "trends": [
     {
-      "query": "braida",
-      "startedAt": "2026-10-09T23:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "boc",
-      "startedAt": "2026-10-09T23:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "enner valencia",
-      "startedAt": "2026-10-09T22:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "can yaman",
-      "startedAt": "2026-10-09T22:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gelp",
-      "startedAt": "2026-10-09T22:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "nidal hasan",
-      "startedAt": "2026-10-09T22:10:00.000Z",
+      "query": "puebla - león",
+      "startedAt": "2026-10-10T02:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "industria textil",
-      "startedAt": "2026-10-09T22:00:00.000Z",
+      "query": "amelia earhart",
+      "startedAt": "2026-10-10T01:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "julieta nair calvo",
+      "startedAt": "2026-10-10T01:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "maru botana",
+      "startedAt": "2026-10-10T01:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "candidato político",
-      "startedAt": "2026-10-09T22:00:00.000Z",
+      "query": "animales",
+      "startedAt": "2026-10-10T01:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "aluvión",
+      "startedAt": "2026-10-10T01:30:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "ben affleck",
+      "startedAt": "2026-10-10T00:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "instituto - boca juniors",
-      "startedAt": "2026-10-09T21:30:00.000Z",
-      "volume": 200000
+      "query": "tabla de posiciones",
+      "startedAt": "2026-10-10T00:40:00.000Z",
+      "volume": 200
     },
     {
-      "query": "rio uruguay",
-      "startedAt": "2026-10-09T21:20:00.000Z",
-      "volume": 100
+      "query": "andrea rincón",
+      "startedAt": "2026-10-10T00:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "tabla anual 2026",
+      "startedAt": "2026-10-10T00:30:00.000Z",
+      "volume": 200
     }
   ]
 }
