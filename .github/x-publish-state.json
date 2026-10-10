@@ -1,13 +1,71 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE2MzkyNDAwMDAsIkRFRkVOU0EgWSBKVVNUSUNJQSBWRU5DScOTIDItMCBBIFVOScOTTiBZIFFVRUTDkyBBIERPUyBQVU5UT1MgREUgTEEgQ0lNQSBERUwgQ0xBVVNVUkEiXQ": {
+      "account": "main",
+      "title": "DEFENSA Y JUSTICIA VENCIÓ 2-0 A UNIÓN Y QUEDÓ A DOS PUNTOS DE LA CIMA DEL CLAUSURA",
+      "dueAt": "2026-10-10T14:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aca3f54d9cab260a7c68d12",
+      "createdAt": "2026-10-10T13:36:20.388Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJoaXN0b3JpYXMiLDE3OTE2MzkyNDAwMDAsIkZVRSBDQU1QRcOTTiBDT04gQk9DQSBZIEFIT1JBIEFUSUVOREUgVU4gQUxNQUPDiU4gRU4gVU4gUFVFQkxPIERFIDE1MCBIQUJJVEFOVEVTIl0": {
+      "account": "main",
+      "title": "FUE CAMPEÓN CON BOCA Y AHORA ATIENDE UN ALMACÉN EN UN PUEBLO DE 150 HABITANTES",
+      "dueAt": "2026-10-10T13:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aca3f53ed92ed8fa5cdd8b9",
+      "createdAt": "2026-10-10T13:36:19.566Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTYzOTI0MDAwMCwiTUVTU0kgVlVFTFZFIEEgSU5URVIgTUlBTUkgVFJBUyBTVSBERVNQRURJREEgREUgTEEgU0VMRUNDScOTTjogRU5GUkVOVEEgQSBEQyBVTklURUQiXQ": {
+      "account": "main",
+      "title": "MESSI VUELVE A INTER MIAMI TRAS SU DESPEDIDA DE LA SELECCIÓN: ENFRENTA A DC UNITED",
+      "dueAt": "2026-10-10T13:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aca3f52b07d37ac97743988",
+      "createdAt": "2026-10-10T13:36:19.084Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTYzOTI0MDAwMCwiUk9CSU5ITyBRVUlOVE8sIEVMIENPTE9NQklBTk8gUVVFIFNFIERFU1RBQ0EgRU4gTEEgUkVTRVJWQSBERSBSSVZFUiBZIFNVRcORQSBDT04gUFJJTUVSQSJd": {
+      "account": "main",
+      "title": "ROBINHO QUINTO, EL COLOMBIANO QUE SE DESTACA EN LA RESERVA DE RIVER Y SUEÑA CON PRIMERA",
+      "dueAt": "2026-10-10T13:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aca3f52b07d37ac9774394d",
+      "createdAt": "2026-10-10T13:36:18.470Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTYzOTI0MDAwMCwiUklWRVIgUkVDVVBFUsOTIEEgQUxNQURBLCBNT1JFTk8gWSBBTkRSQURBIFBBUkEgUkVDSUJJUiBBIEVTVFVESUFOVEVTIERFIFLDjU8gQ1VBUlRPIl0": {
+      "account": "main",
+      "title": "RIVER RECUPERÓ A ALMADA, MORENO Y ANDRADA PARA RECIBIR A ESTUDIANTES DE RÍO CUARTO",
+      "dueAt": "2026-10-10T13:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aca3f52d9cab260a7c68cbf",
+      "createdAt": "2026-10-10T13:36:18.130Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTYzOTI0MDAwMCwiVkVSU1RBUFBFTiBHQU7DkyBMQSBTUFJJTlQgREUgU0lOR0FQVVIgQkFKTyBMQSBMTFVWSUEgWSBIQU1JTFRPTiBZIExFQ0xFUkMgQ09NUExFVEFST04gRUwgUE9ESU8iXQ": {
+      "account": "f1",
+      "title": "VERSTAPPEN GANÓ LA SPRINT DE SINGAPUR BAJO LA LLUVIA Y HAMILTON Y LECLERC COMPLETARON EL PODIO",
+      "dueAt": "2026-10-10T13:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aca3f51f91f772d459555bd",
+      "createdAt": "2026-10-10T13:36:17.801Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTYzOTI0MDAwMCwiQ09MQVBJTlRPIEFCQU5ET07DkyBFTiBTSU5HQVBVUjogQUxQSU5FIERFVEVDVMOTIFVOQSBGQUxMQSBFTiBFTCBBTE1BQ0VOQU1JRU5UTyBERSBFTkVSR8ONQSJd": {
+      "account": "f1",
+      "title": "COLAPINTO ABANDONÓ EN SINGAPUR: ALPINE DETECTÓ UNA FALLA EN EL ALMACENAMIENTO DE ENERGÍA",
+      "dueAt": "2026-10-10T13:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aca3f51b07d37ac977438fa",
+      "createdAt": "2026-10-10T13:36:17.127Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTYyNjk0MDAwMCwiTEEgRklBIEFETUlUScOTIEVSUk9SRVMgSFVNQU5PUyBFTiBMQSBDTEFTSUZJQ0FDScOTTiBTUFJJTlQgREUgU0lOR0FQVVIiXQ": {
       "account": "f1",
       "title": "LA FIA ADMITIÓ ERRORES HUMANOS EN LA CLASIFICACIÓN SPRINT DE SINGAPUR",
       "dueAt": "2026-10-10T10:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6aca0f31f91f772d458bff2e",
-      "createdAt": "2026-10-10T10:10:58.031Z"
+      "createdAt": "2026-10-10T10:10:58.031Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2108863872820019575",
+      "sentAt": "2026-10-10T10:15:03.060Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE2MjY5NDAwMDAsIkJPQ0EgUVVFRMOTIEVOT0pBRE8gQ09OIFJFWSBISUxGRVIgWSBTVSBDSEFOQ0UgREUgRElSSUdJUiBFTCBTVVBFUkNMw4FTSUNPIFBFUkRJw5MgRlVFUlpBIl0": {
       "account": "main",
@@ -23,7 +81,9 @@
       "dueAt": "2026-10-10T10:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6aca0f30b07d37ac976b0377",
-      "createdAt": "2026-10-10T10:10:56.460Z"
+      "createdAt": "2026-10-10T10:10:56.460Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108867693478592732",
+      "sentAt": "2026-10-10T10:30:13.896Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJ2ZWxleiBzYXJzZmllbGQiLDE3OTE2MjY5NDAwMDAsIlJBw5pMIEfDgU1FWiBWT0xWRVLDgSBBIENPTVBFVElSIEVOIExBIFBPTMONVElDQSBERSBWw4lMRVoiXQ": {
       "account": "main",
@@ -31,7 +91,9 @@
       "dueAt": "2026-10-10T10:25:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6aca0f2fbba9419ccbf9ffcd",
-      "createdAt": "2026-10-10T10:10:56.052Z"
+      "createdAt": "2026-10-10T10:10:56.052Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108866388638994915",
+      "sentAt": "2026-10-10T10:25:02.868Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJjdXJpb3NpZGFkZXMiLDE3OTE2MjY5NDAwMDAsIlRFVkVaIFNFIFJFRU5DT05UUsOTIENPTiBSSU8gRkVSRElOQU5EIFkgTE8gVEVOVMOTIFBBUkEgU1UgREVTUEVESURBIEVOIExBIEJPTUJPTkVSQSJd": {
       "account": "main",
@@ -39,7 +101,9 @@
       "dueAt": "2026-10-10T10:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6aca0f2fbba9419ccbf9ff72",
-      "createdAt": "2026-10-10T10:10:55.240Z"
+      "createdAt": "2026-10-10T10:10:55.240Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108865127311171866",
+      "sentAt": "2026-10-10T10:20:02.123Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTYyNjk0MDAwMCwiRUwgTUVOU0FKRSBERSBFTUlMSUFOTyBEw41BWiBRVUUgUkVBVklWw5MgRUwgU1VFw5FPIERFIFJBTcOTTiBERSBWT0xWRVIgQSBSSVZFUiJd": {
       "account": "main",
@@ -47,7 +111,9 @@
       "dueAt": "2026-10-10T10:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6aca0f2eb07d37ac976b02d5",
-      "createdAt": "2026-10-10T10:10:54.279Z"
+      "createdAt": "2026-10-10T10:10:54.279Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108863871725326769",
+      "sentAt": "2026-10-10T10:15:02.713Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTk3OTAwMDAwLCJNRVJFTlRJRUwgTkVDRVNJVMOTIEFQRU5BUyA2MyBTRUdVTkRPUyBQQVJBIE1BUkNBUiBFTCBFTVBBVEUgREUgQk9DQSJd": {
       "account": "main",
@@ -5054,65 +5120,16 @@
       "dueAt": "2026-09-22T17:25:00.000Z",
       "bufferPostId": "6ab2b8b21b467b83d918efb5",
       "createdAt": "2026-09-22T17:19:46.485Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwODY1NjAwMDAsIkxJQ0hBIE1BUlTDjU5FWiBWT0xWScOTIFkgSEFCTMOTIERFTCBET0xPUiBQT1IgTEEgRklOQUw6IOKAnFZBTU9TIEEgRElTRlJVVEFS4oCdIl0": {
-      "account": "main",
-      "title": "LICHA MARTÍNEZ VOLVIÓ Y HABLÓ DEL DOLOR POR LA FINAL: “VAMOS A DISFRUTAR”",
-      "dueAt": "2026-09-22T17:10:00.000Z",
-      "bufferPostId": "6ab2b505b192c8cad190682f",
-      "createdAt": "2026-09-22T17:04:06.157Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDA1MDAyMDAwMCwiQVJHRU5USU5BIENFUlLDkyBFTCBMVU5FUyBDT04gMTc0IE1FREFMTEFTIFkgU0UgQUZJQU5aw5MgU0VHVU5EQSBFTiBTQU5UQSBGRSAyMDI2Il0": {
-      "account": "main",
-      "title": "ARGENTINA CERRÓ EL LUNES CON 174 MEDALLAS Y SE AFIANZÓ SEGUNDA EN SANTA FE 2026",
-      "dueAt": "2026-09-22T17:00:00.000Z",
-      "bufferPostId": "6ab2b26ba63ac4d7764a64f7",
-      "createdAt": "2026-09-22T16:52:59.550Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDAzMzQ2MDAwMCwiQVJTRU4gSlVMRkFMQUtZQU4gRVMgREUgT1JPOiBFTCBDQU1QRcOTTiBNVU5ESUFMIFFVRSBBSE9SQSBGRVNURUpBIFBBUkEgQVJHRU5USU5BIl0": {
-      "account": "main",
-      "title": "ARSEN JULFALAKYAN ES DE ORO: EL CAMPEÓN MUNDIAL QUE AHORA FESTEJA PARA ARGENTINA",
-      "dueAt": "2026-09-22T16:55:00.000Z",
-      "bufferPostId": "6ab2b26ab192c8cad1900f5b",
-      "createdAt": "2026-09-22T16:52:58.936Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDA5MzA0MDAwMCwiQ09MQVBJTlRPIFJFVkVMw5MgQ1XDgU5UTyBDT0JSQUJBIEVOIFdJTExJQU1TOiDigJxQRVJEw41BIFBMQVRBIFBBUkEgQ09SUkVS4oCdIl0": {
-      "account": "f1",
-      "title": "COLAPINTO REVELÓ CUÁNTO COBRABA EN WILLIAMS: “PERDÍA PLATA PARA CORRER”",
-      "dueAt": "2026-09-22T16:15:00.000Z",
-      "bufferPostId": "6ab2a827a43e8fafe413e09d",
-      "createdAt": "2026-09-22T16:09:11.463Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkwMDkzMDQwMDAwLCJNVVJJw5MgVFVMSU8gQ1JFU1BJLCBMRVlFTkRBIERFTCBBVVRPTU9WSUxJU01PIEFSR0VOVElOTywgQSBMT1MgODggQcORT1MiXQ": {
-      "account": "main",
-      "title": "MURIÓ TULIO CRESPI, LEYENDA DEL AUTOMOVILISMO ARGENTINO, A LOS 88 AÑOS",
-      "dueAt": "2026-09-22T16:15:00.000Z",
-      "bufferPostId": "6ab2a826437a3efa8e55d5b7",
-      "createdAt": "2026-09-22T16:09:10.761Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwODk1MDAwMDAsIkVMIEtJTFksIFNPQlJFIE1FU1NJIEVOIE5FV0VMTCdTOiDigJxQT1IgTcONIFFVRSBOT-KAnSwgUEVSTyBSRVNQRVRBUsOBIFNVIERFQ0lTScOTTiJd": {
-      "account": "main",
-      "title": "EL KILY, SOBRE MESSI EN NEWELL'S: “POR MÍ QUE NO”, PERO RESPETARÁ SU DECISIÓN",
-      "dueAt": "2026-09-22T15:25:00.000Z",
-      "bufferPostId": "6ab29c38ce553498e3a625ec",
-      "createdAt": "2026-09-22T15:18:16.893Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwODk1MDAwMDAsIkRFIOKAnDjigJ0gQSBMQVRFUkFMIFkgQSBMQSBTRUxFQ0NJw5NOOiBMQSBSRUlOVkVOQ0nDk04gREUgU0FOVElBR08gU0lNw5NOIEVOIE3DiVhJQ08iXQ": {
-      "account": "main",
-      "title": "DE “8” A LATERAL Y A LA SELECCIÓN: LA REINVENCIÓN DE SANTIAGO SIMÓN EN MÉXICO",
-      "dueAt": "2026-09-22T15:20:00.000Z",
-      "bufferPostId": "6ab29c3716fb5c3bd9259146",
-      "createdAt": "2026-09-22T15:18:15.792Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-10T10:20:00.000Z",
-    "main": "2026-10-10T10:40:00.000Z"
+    "f1": "2026-10-10T13:50:00.000Z",
+    "main": "2026-10-10T14:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-10T10:10:53.735Z"
+    "lastLinksRefreshAt": "2026-10-10T13:36:16.655Z"
   }
 }
