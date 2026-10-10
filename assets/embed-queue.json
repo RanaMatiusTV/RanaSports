@@ -1,72 +1,11 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-10T15:40:48-03:00",
+  "updated_at": "2026-10-10T19:38:14-03:00",
   "timezone": "America/Argentina/Buenos_Aires",
   "window_hours": 8,
-  "pending": 4,
-  "source_articles_inspected_this_run": 4,
+  "pending": 0,
+  "source_articles_inspected_this_run": 0,
   "candidates_unverified": 0,
   "note": "Candidate URLs are hints, not verified embeds. Radars must check exact event, live K and R, and write K in batches.",
-  "items": [
-    {
-      "id": "85559e02c5ec3e16",
-      "row": 2892,
-      "date": "10/10/2026",
-      "time": "10:34",
-      "title": "RIVER RECUPERÓ A ALMADA, MORENO Y ANDRADA PARA RECIBIR A ESTUDIANTES DE RÍO CUARTO",
-      "source": "TyC Sports",
-      "source_url": "https://www.tycsports.com/river-plate/river-entrenamiento-ponzio-concentrados-thiago-almada-estudiantes-rio-cuarto-id765327.html",
-      "age_hours": 5.11,
-      "attempts": 2,
-      "last_checked": "2026-10-10T15:40:48-03:00",
-      "next_retry": "2026-10-10T16:20:48-03:00",
-      "candidates": [],
-      "source_status": "inspected"
-    },
-    {
-      "id": "fef40b23353c84a5",
-      "row": 2893,
-      "date": "10/10/2026",
-      "time": "10:34",
-      "title": "ROBINHO QUINTO, EL COLOMBIANO QUE SE DESTACA EN LA RESERVA DE RIVER Y SUEÑA CON PRIMERA",
-      "source": "TyC Sports",
-      "source_url": "https://www.tycsports.com/river-plate/quien-es-robinho-quinto-el-defensor-colombiano-que-causa-sensacion-en-las-inferiores-de-river-id765363.html",
-      "age_hours": 5.11,
-      "attempts": 2,
-      "last_checked": "2026-10-10T15:40:48-03:00",
-      "next_retry": "2026-10-10T16:20:48-03:00",
-      "candidates": [],
-      "source_status": "inspected"
-    },
-    {
-      "id": "4b3a03d0334273bd",
-      "row": 2894,
-      "date": "10/10/2026",
-      "time": "10:34",
-      "title": "MESSI VUELVE A INTER MIAMI TRAS SU DESPEDIDA DE LA SELECCIÓN: ENFRENTA A DC UNITED",
-      "source": "TN",
-      "source_url": "https://tn.com.ar/deportes/futbol/2026/10/10/lionel-messi-vuelve-a-jugar-en-inter-miami-tras-su-despedida-de-la-seleccion-argentina-horario-tv-y-como-verlo-en-vivo/",
-      "age_hours": 5.11,
-      "attempts": 2,
-      "last_checked": "2026-10-10T15:40:48-03:00",
-      "next_retry": "2026-10-10T16:20:48-03:00",
-      "candidates": [],
-      "source_status": "inspected"
-    },
-    {
-      "id": "2835d3d2128fb78f",
-      "row": 2895,
-      "date": "10/10/2026",
-      "time": "10:34",
-      "title": "FUE CAMPEÓN CON BOCA Y AHORA ATIENDE UN ALMACÉN EN UN PUEBLO DE 150 HABITANTES",
-      "source": "TN",
-      "source_url": "https://tn.com.ar/deportes/futbol/2026/10/10/fue-campeon-en-boca-con-riquelme-y-palermo-y-ahora-atiende-un-almacen-en-un-pueblo-de-150-habitantes-aprendi-a-vivir-de-nuevo/",
-      "age_hours": 5.11,
-      "attempts": 1,
-      "last_checked": "2026-10-10T15:40:48-03:00",
-      "next_retry": "2026-10-10T16:00:48-03:00",
-      "candidates": [],
-      "source_status": "inspected"
-    }
-  ]
+  "items": []
 }
