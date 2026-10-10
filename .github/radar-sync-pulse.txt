@@ -1,5 +1,5 @@
 RanaSports Radar 1 → GitHub Sync
-Fecha y hora ARG: 2026-10-09 21:05
-Altas verificadas: 8
-Última noticia: LA JUSTICIA ORDENÓ QUE VASCO-BOCA SE JUEGUE EN EL MARACANÁ
-Filas: Noticias!2870:2877
+Fecha y hora ARG: 2026-10-09 23:05
+Altas verificadas: 6
+Última noticia: TOTO WOLFF RECHAZÓ LAS ACUSACIONES DE FAVORITISMO EN MERCEDES
+Filas: Noticias!2878:2883
