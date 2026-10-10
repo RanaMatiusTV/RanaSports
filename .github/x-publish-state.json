@@ -1,6 +1,14 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTk3OTAwMDAwLCJNRVJFTlRJRUwgTkVDRVNJVMOTIEFQRU5BUyA2MyBTRUdVTkRPUyBQQVJBIE1BUkNBUiBFTCBFTVBBVEUgREUgQk9DQSJd": {
+      "account": "main",
+      "title": "MERENTIEL NECESITÓ APENAS 63 SEGUNDOS PARA MARCAR EL EMPATE DE BOCA",
+      "dueAt": "2026-10-10T08:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac9fa06b07d37ac97673e95",
+      "createdAt": "2026-10-10T08:40:38.509Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTU5NzkwMDAwMCwiVE9UTyBXT0xGRiBSRUNIQVrDkyBMQVMgQUNVU0FDSU9ORVMgREUgRkFWT1JJVElTTU8gRU4gTUVSQ0VERVMiXQ": {
       "account": "f1",
       "title": "TOTO WOLFF RECHAZÓ LAS ACUSACIONES DE FAVORITISMO EN MERCEDES",
@@ -5087,23 +5095,16 @@
       "dueAt": "2026-09-22T12:20:00.000Z",
       "bufferPostId": "6ab27071b093a512d28c2769",
       "createdAt": "2026-09-22T12:11:29.680Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDA3ODUyMDAwMCwiQ09MQVBJTlRPIFlBIE1JUkEgQSBCQUvDmjogTEEgRjEgQ09SUkVSw4EgRUwgU8OBQkFETyBZIEZSQU5DTyBMTEVHQSBFTiBTVSBNRUpPUiBNT01FTlRPIl0": {
-      "account": "f1",
-      "title": "COLAPINTO YA MIRA A BAKÚ: LA F1 CORRERÁ EL SÁBADO Y FRANCO LLEGA EN SU MEJOR MOMENTO",
-      "dueAt": "2026-09-22T12:15:00.000Z",
-      "bufferPostId": "6ab2707180cb27270aafc583",
-      "createdAt": "2026-09-22T12:11:29.160Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-10T02:15:00.000Z",
-    "main": "2026-10-10T02:40:00.000Z"
+    "main": "2026-10-10T08:50:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-10T02:38:05.215Z"
+    "lastLinksRefreshAt": "2026-10-10T08:40:37.766Z"
   }
 }
