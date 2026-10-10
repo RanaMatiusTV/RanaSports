@@ -1,13 +1,55 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTU5NzkwMDAwMCwiVE9UTyBXT0xGRiBSRUNIQVrDkyBMQVMgQUNVU0FDSU9ORVMgREUgRkFWT1JJVElTTU8gRU4gTUVSQ0VERVMiXQ": {
+      "account": "f1",
+      "title": "TOTO WOLFF RECHAZÓ LAS ACUSACIONES DE FAVORITISMO EN MERCEDES",
+      "dueAt": "2026-10-10T02:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac99df8d9cab260a7acd7f8",
+      "createdAt": "2026-10-10T02:07:52.349Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTk3OTAwMDAwLCJBTEFSTUEgRU4gQk9DQTogUEFSRURFUyBFTlRSw5MsIERVUsOTIDE2IE1JTlVUT1MgWSBTQUxJw5MgQ09OIFVOQSBNT0xFU1RJQSBNVVNDVUxBUiJd": {
+      "account": "main",
+      "title": "ALARMA EN BOCA: PAREDES ENTRÓ, DURÓ 16 MINUTOS Y SALIÓ CON UNA MOLESTIA MUSCULAR",
+      "dueAt": "2026-10-10T02:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac99df7f91f772d457b7d09",
+      "createdAt": "2026-10-10T02:07:51.720Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTU5NzkwMDAwMCwiQk9TRUxMSSBSRUNPUkTDkyBTVSBQQVNPIFBPUiBSSVZFUjog4oCcU0lOIEVMTE9TIE5PIFNFUsONQSBFTCBKVUdBRE9SIE5JIExBIFBFUlNPTkEgUVVFIFNPWeKAnSJd": {
+      "account": "main",
+      "title": "BOSELLI RECORDÓ SU PASO POR RIVER: “SIN ELLOS NO SERÍA EL JUGADOR NI LA PERSONA QUE SOY”",
+      "dueAt": "2026-10-10T02:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac99df6b07d37ac975a4f86",
+      "createdAt": "2026-10-10T02:07:51.091Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTk3OTAwMDAwLCJCT0NBIFJFU0NBVMOTIFVOIEVNUEFURSBBTlRFIElOU1RJVFVUTywgUEVSTyBURVJNSU7DkyBDT04gRE9TIExFU0lPTkFET1MiXQ": {
+      "account": "main",
+      "title": "BOCA RESCATÓ UN EMPATE ANTE INSTITUTO, PERO TERMINÓ CON DOS LESIONADOS",
+      "dueAt": "2026-10-10T02:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac99df6c4de2d2b1211891b",
+      "createdAt": "2026-10-10T02:07:50.686Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTk3OTAwMDAwLCJBUlJVQUJBUlJFTkEgRElKTyBRVUUgUEFSRURFUyBFU1RBUsONQSBERVNDQVJUQURPIEFOVEUgVkFTQ08gWSBFWFBMSUPDkyBDw5NNTyBMTyBSRUVNUExBWkFSw4EiXQ": {
+      "account": "main",
+      "title": "ARRUABARRENA DIJO QUE PAREDES ESTARÍA DESCARTADO ANTE VASCO Y EXPLICÓ CÓMO LO REEMPLAZARÁ",
+      "dueAt": "2026-10-10T02:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac99df6d9cab260a7acd7a4",
+      "createdAt": "2026-10-10T02:07:50.229Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTkwNzAwMDAwLCJMQSBKVVNUSUNJQSBPUkRFTsOTIFFVRSBWQVNDTy1CT0NBIFNFIEpVRUdVRSBFTiBFTCBNQVJBQ0FOw4EiXQ": {
       "account": "main",
       "title": "LA JUSTICIA ORDENÓ QUE VASCO-BOCA SE JUEGUE EN EL MARACANÁ",
       "dueAt": "2026-10-10T00:45:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac98195ed92ed8fa5b03d21",
-      "createdAt": "2026-10-10T00:06:45.609Z"
+      "createdAt": "2026-10-10T00:06:45.609Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108720446459744330",
+      "sentAt": "2026-10-10T00:45:07.516Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU5MDcwMDAwMCwiQ1JJU1RJQU5PIE1BUkPDkyBFTiBMQSBHT0xFQURBIERFIEFMIE5BU1NSIFkgTExFR8OTIEEgOTgwIEdPTEVTIl0": {
       "account": "main",
@@ -15,7 +57,9 @@
       "dueAt": "2026-10-10T00:40:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac98195c4de2d2b120dac68",
-      "createdAt": "2026-10-10T00:06:45.166Z"
+      "createdAt": "2026-10-10T00:06:45.166Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108719165565452622",
+      "sentAt": "2026-10-10T00:40:02.180Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTkwNzAwMDAwLCJCT0NBIFNVRlJJw5MgTEEgUEVMT1RBIFBBUkFEQTogTEEgTExBVkUgREUgSU5TVElUVVRPIEVOIFNVUyBET1MgR09MRVMiXQ": {
       "account": "main",
@@ -23,7 +67,9 @@
       "dueAt": "2026-10-10T00:35:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac98194c4de2d2b120dac37",
-      "createdAt": "2026-10-10T00:06:44.393Z"
+      "createdAt": "2026-10-10T00:06:44.393Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108717906452250659",
+      "sentAt": "2026-10-10T00:35:01.945Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTkwNzAwMDAwLCJFTCBCTE9PUEVSIERFIExFREVTTUEgUVVFIExFIFJFR0FMw5MgQSBFTk5FUiBWQUxFTkNJQSBFTCBFTVBBVEUgREUgQk9DQSJd": {
       "account": "main",
@@ -31,7 +77,9 @@
       "dueAt": "2026-10-10T00:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac98193ed92ed8fa5b03cf0",
-      "createdAt": "2026-10-10T00:06:43.491Z"
+      "createdAt": "2026-10-10T00:06:43.491Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108716666565669224",
+      "sentAt": "2026-10-10T00:30:06.338Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU5MDcwMDAwMCwiUEFTw5MgUE9SIFJFQUwgTUFEUklELCBQRVJPIENPTkZFU8OTIFFVRSBTRSBISVpPIEhJTkNIQSBERUwgQkFSQ0VMT05BIFBPUiBNRVNTSSJd": {
       "account": "main",
@@ -39,7 +87,9 @@
       "dueAt": "2026-10-10T00:25:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac98192c4de2d2b120dabe9",
-      "createdAt": "2026-10-10T00:06:42.682Z"
+      "createdAt": "2026-10-10T00:06:42.682Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108715390549319802",
+      "sentAt": "2026-10-10T00:25:02.111Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1OTA3MDAwMDAsIkFTQUxUQVJPTiBVTkEgQ0FTQSBERSBDTEVNRU5URSBST0RSw41HVUVaIFkgTEUgUk9CQVJPTiBDQU1JU0VUQVMgWSBNRURBTExBUyJd": {
       "account": "main",
@@ -47,7 +97,9 @@
       "dueAt": "2026-10-10T00:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac98192bba9419ccbe556d5",
-      "createdAt": "2026-10-10T00:06:42.267Z"
+      "createdAt": "2026-10-10T00:06:42.267Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108714140986483018",
+      "sentAt": "2026-10-10T00:20:04.162Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTkwNzAwMDAwLCJMQSBDSEFSTEEgREVTQ09OT0NJREEgRU5UUkUgS09NUEFOWSBZIFJVU1NPIEFOVEVTIERFIEJPQ0EtQkFZRVJOIl0": {
       "account": "main",
@@ -55,7 +107,9 @@
       "dueAt": "2026-10-10T00:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac98191d9cab260a7a8ee73",
-      "createdAt": "2026-10-10T00:06:41.595Z"
+      "createdAt": "2026-10-10T00:06:41.595Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108712877670474032",
+      "sentAt": "2026-10-10T00:15:02.947Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1OTA3MDAwMDAsIkFSR0VOVElOQSBGVUUgTEEgU0VMRUNDScOTTiBNw4FTIEFUQUNBREEgRU4gUkVERVMgRFVSQU5URSBFTCBNVU5ESUFMIl0": {
       "account": "main",
@@ -63,7 +117,9 @@
       "dueAt": "2026-10-10T00:10:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac98190bba9419ccbe556ab",
-      "createdAt": "2026-10-10T00:06:41.023Z"
+      "createdAt": "2026-10-10T00:06:41.023Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108711616732606834",
+      "sentAt": "2026-10-10T00:10:02.353Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU4MzUwMDAwMCwiUE9SVFVHQUwgU1VTUEVOREnDkyBQUk9WSVNJT05BTE1FTlRFIEEgQ1JJU1RJQU5PIFJPTkFMRE8iXQ": {
       "account": "main",
@@ -5028,51 +5084,16 @@
       "dueAt": "2026-09-22T12:15:00.000Z",
       "bufferPostId": "6ab2707180cb27270aafc583",
       "createdAt": "2026-09-22T12:11:29.160Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMDc1MTYwMDAwLCJJTkRFUEVORElFTlRFLCBFTlRSRSBBTEdPRE9ORVM6IENISU1ZIMOBVklMQSwgUEFMQUlTIFkgWkFCQUxBIEVOQ0VORElFUk9OIEFMQVJNQVMiXQ": {
-      "account": "main",
-      "title": "INDEPENDIENTE, ENTRE ALGODONES: CHIMY ÁVILA, PALAIS Y ZABALA ENCENDIERON ALARMAS",
-      "dueAt": "2026-09-22T11:25:00.000Z",
-      "bufferPostId": "6ab264878920619c8e5880f6",
-      "createdAt": "2026-09-22T11:20:39.343Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDA3MTUwMDAwMCwiR09MQVpPIEEgTE9TIDk0JzogQVJHRU5USU5BIEVNUEFUw5MgQ09OIFZFTkVaVUVMQSBZIFNFIE1FVEnDkyBFTiBTRU1JRklOQUxFUyJd": {
-      "account": "main",
-      "title": "GOLAZO A LOS 94': ARGENTINA EMPATÓ CON VENEZUELA Y SE METIÓ EN SEMIFINALES",
-      "dueAt": "2026-09-22T10:15:00.000Z",
-      "bufferPostId": "6ab253be5cfcad806a387e9c",
-      "createdAt": "2026-09-22T10:09:02.631Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJiYXNxdWV0IiwxNzkwMDY0MzAwMDAwLCJCT0NBIERFQlVUQSBFTiBMQSBDT1BBIElOVEVSQ09OVElORU5UQUw6IFZBIFBPUiBVTiBUw41UVUxPIEhJU1TDk1JJQ08gRU4gQ0hJTkEiXQ": {
-      "account": "main",
-      "title": "BOCA DEBUTA EN LA COPA INTERCONTINENTAL: VA POR UN TÍTULO HISTÓRICO EN CHINA",
-      "dueAt": "2026-09-22T08:20:00.000Z",
-      "bufferPostId": "6ab239d7e49f2a98454de673",
-      "createdAt": "2026-09-22T08:18:31.812Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDA1NzE2MDAwMCwiRMONQSBERSBGSU5BTEVTOiBMT1MgTEVPTkVTIFkgTEFTIExFT05BUyBWQU4gUE9SIERPUyBPUk9TIEFOVEUgQ0hJTEUiXQ": {
-      "account": "main",
-      "title": "DÍA DE FINALES: LOS LEONES Y LAS LEONAS VAN POR DOS OROS ANTE CHILE",
-      "dueAt": "2026-09-22T06:20:00.000Z",
-      "bufferPostId": "6ab21db6e2882add8db5b0cd",
-      "createdAt": "2026-09-22T06:18:30.284Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDAzNTUwMDAwMCwiTE9TIFBVTUFTIDdTIFNPTiBERSBPUk86IEFSR0VOVElOQSBWRU5DScOTIDE3LTcgQSBDSElMRSBFTiBST1NBUklPIl0": {
-      "account": "main",
-      "title": "LOS PUMAS 7S SON DE ORO: ARGENTINA VENCIÓ 17-7 A CHILE EN ROSARIO",
-      "dueAt": "2026-09-22T01:15:00.000Z",
-      "bufferPostId": "6ab1d4fc8e2aab6eac529392",
-      "createdAt": "2026-09-22T01:08:12.625Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-09T22:15:00.000Z",
-    "main": "2026-10-10T00:50:00.000Z"
+    "f1": "2026-10-10T02:15:00.000Z",
+    "main": "2026-10-10T02:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-10T00:06:40.128Z"
+    "lastLinksRefreshAt": "2026-10-10T02:07:49.686Z"
   }
 }
