@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-10T19:31:23.243Z",
+  "updatedAt": "2026-10-10T22:56:25.237Z",
   "trends": [
     {
-      "query": "central córdoba - estudiantes",
-      "startedAt": "2026-10-10T19:10:00.000Z",
-      "volume": 200
+      "query": "ufc",
+      "startedAt": "2026-10-10T22:40:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "franco jara",
-      "startedAt": "2026-10-10T19:10:00.000Z",
+      "query": "tigre inglaterra",
+      "startedAt": "2026-10-10T22:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "real madrid vs villarreal",
-      "startedAt": "2026-10-10T19:00:00.000Z",
+      "query": "inter miami - dc united",
+      "startedAt": "2026-10-10T22:30:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "u. católica - audax italiano",
+      "startedAt": "2026-10-10T22:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "napoli vs",
-      "startedAt": "2026-10-10T19:00:00.000Z",
+      "query": "ninku",
+      "startedAt": "2026-10-10T22:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "plus ultra líneas aéreas",
+      "startedAt": "2026-10-10T21:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "kun agüero",
-      "startedAt": "2026-10-10T18:50:00.000Z",
+      "query": "edlp",
+      "startedAt": "2026-10-10T21:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "seven sudamericano masculino",
+      "startedAt": "2026-10-10T21:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tigre - banfield",
+      "startedAt": "2026-10-10T21:30:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "recesión",
+      "startedAt": "2026-10-10T21:20:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "monaco fc",
-      "startedAt": "2026-10-10T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gustavo bordet",
-      "startedAt": "2026-10-10T18:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "posiciones de manchester united contra tottenham",
-      "startedAt": "2026-10-10T18:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "quilmes - agropecuario",
-      "startedAt": "2026-10-10T18:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "mls",
-      "startedAt": "2026-10-10T18:40:00.000Z",
-      "volume": 100
     }
   ]
 }
