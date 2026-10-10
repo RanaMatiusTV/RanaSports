@@ -1,8 +1,43 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-10T02:22:17.697Z",
+  "updatedAt": "2026-10-10T09:01:15.996Z",
   "trends": [
+    {
+      "query": "disney plus",
+      "startedAt": "2026-10-10T08:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "epic games",
+      "startedAt": "2026-10-10T06:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "nueva zelanda - australia",
+      "startedAt": "2026-10-10T06:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "tigres - toluca",
+      "startedAt": "2026-10-10T03:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "la joaqui",
+      "startedAt": "2026-10-10T02:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "juventud antoniana",
+      "startedAt": "2026-10-10T02:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "once caldas",
+      "startedAt": "2026-10-10T02:10:00.000Z",
+      "volume": 200
+    },
     {
       "query": "puebla - león",
       "startedAt": "2026-10-10T02:00:00.000Z",
@@ -11,46 +46,11 @@
     {
       "query": "amelia earhart",
       "startedAt": "2026-10-10T01:50:00.000Z",
-      "volume": 100
+      "volume": 200
     },
     {
       "query": "julieta nair calvo",
       "startedAt": "2026-10-10T01:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "maru botana",
-      "startedAt": "2026-10-10T01:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "animales",
-      "startedAt": "2026-10-10T01:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "aluvión",
-      "startedAt": "2026-10-10T01:30:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "ben affleck",
-      "startedAt": "2026-10-10T00:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tabla de posiciones",
-      "startedAt": "2026-10-10T00:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "andrea rincón",
-      "startedAt": "2026-10-10T00:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "tabla anual 2026",
-      "startedAt": "2026-10-10T00:30:00.000Z",
       "volume": 200
     }
   ]
