@@ -1,5 +1,5 @@
 RanaSports Radar 1 → GitHub Sync
-Fecha y hora ARG: 2026-10-10 07:09
-Altas verificadas: 6
-Última noticia: LA FIA ADMITIÓ ERRORES HUMANOS EN LA CLASIFICACIÓN SPRINT DE SINGAPUR
-Filas: Noticias!2884:2889
+Fecha y hora ARG: 2026-10-10 10:34
+Altas verificadas: 7
+Última noticia: DEFENSA Y JUSTICIA VENCIÓ 2-0 A UNIÓN Y QUEDÓ A DOS PUNTOS DE LA CIMA DEL CLAUSURA
+Filas: Noticias!2890:2896
