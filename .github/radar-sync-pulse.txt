@@ -1,5 +1,5 @@
 RanaSports Radar 1 → GitHub Sync
-Fecha y hora ARG: 2026-10-09 19:05
-Altas verificadas: 7
-Última noticia: PORTUGAL SUSPENDIÓ PROVISIONALMENTE A CRISTIANO RONALDO
-Filas: Noticias!2863:2869
+Fecha y hora ARG: 2026-10-09 21:05
+Altas verificadas: 8
+Última noticia: LA JUSTICIA ORDENÓ QUE VASCO-BOCA SE JUEGUE EN EL MARACANÁ
+Filas: Noticias!2870:2877
