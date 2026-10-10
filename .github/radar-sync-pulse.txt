@@ -1,5 +1,5 @@
 RanaSports Radar 1 → GitHub Sync
-Fecha y hora ARG: 2026-10-09 23:05
+Fecha y hora ARG: 2026-10-10 07:09
 Altas verificadas: 6
-Última noticia: TOTO WOLFF RECHAZÓ LAS ACUSACIONES DE FAVORITISMO EN MERCEDES
-Filas: Noticias!2878:2883
+Última noticia: LA FIA ADMITIÓ ERRORES HUMANOS EN LA CLASIFICACIÓN SPRINT DE SINGAPUR
+Filas: Noticias!2884:2889
