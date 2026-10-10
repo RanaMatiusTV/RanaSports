@@ -1,13 +1,63 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTYyNjk0MDAwMCwiTEEgRklBIEFETUlUScOTIEVSUk9SRVMgSFVNQU5PUyBFTiBMQSBDTEFTSUZJQ0FDScOTTiBTUFJJTlQgREUgU0lOR0FQVVIiXQ": {
+      "account": "f1",
+      "title": "LA FIA ADMITIÓ ERRORES HUMANOS EN LA CLASIFICACIÓN SPRINT DE SINGAPUR",
+      "dueAt": "2026-10-10T10:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aca0f31f91f772d458bff2e",
+      "createdAt": "2026-10-10T10:10:58.031Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE2MjY5NDAwMDAsIkJPQ0EgUVVFRMOTIEVOT0pBRE8gQ09OIFJFWSBISUxGRVIgWSBTVSBDSEFOQ0UgREUgRElSSUdJUiBFTCBTVVBFUkNMw4FTSUNPIFBFUkRJw5MgRlVFUlpBIl0": {
+      "account": "main",
+      "title": "BOCA QUEDÓ ENOJADO CON REY HILFER Y SU CHANCE DE DIRIGIR EL SUPERCLÁSICO PERDIÓ FUERZA",
+      "dueAt": "2026-10-10T10:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aca0f31f91f772d458bff05",
+      "createdAt": "2026-10-10T10:10:57.276Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJjb3BhIHN1ZGFtZXJpY2FuYSIsMTc5MTYyNjk0MDAwMCwiVkFTQ08gQUdPVMOTIEVOIDE1IE1JTlVUT1MgTEFTIDQuMDAwIEVOVFJBREFTIFBBUkEgVklTSVRBUiBBIEJPQ0EiXQ": {
+      "account": "main",
+      "title": "VASCO AGOTÓ EN 15 MINUTOS LAS 4.000 ENTRADAS PARA VISITAR A BOCA",
+      "dueAt": "2026-10-10T10:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aca0f30b07d37ac976b0377",
+      "createdAt": "2026-10-10T10:10:56.460Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJ2ZWxleiBzYXJzZmllbGQiLDE3OTE2MjY5NDAwMDAsIlJBw5pMIEfDgU1FWiBWT0xWRVLDgSBBIENPTVBFVElSIEVOIExBIFBPTMONVElDQSBERSBWw4lMRVoiXQ": {
+      "account": "main",
+      "title": "RAÚL GÁMEZ VOLVERÁ A COMPETIR EN LA POLÍTICA DE VÉLEZ",
+      "dueAt": "2026-10-10T10:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aca0f2fbba9419ccbf9ffcd",
+      "createdAt": "2026-10-10T10:10:56.052Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJjdXJpb3NpZGFkZXMiLDE3OTE2MjY5NDAwMDAsIlRFVkVaIFNFIFJFRU5DT05UUsOTIENPTiBSSU8gRkVSRElOQU5EIFkgTE8gVEVOVMOTIFBBUkEgU1UgREVTUEVESURBIEVOIExBIEJPTUJPTkVSQSJd": {
+      "account": "main",
+      "title": "TEVEZ SE REENCONTRÓ CON RIO FERDINAND Y LO TENTÓ PARA SU DESPEDIDA EN LA BOMBONERA",
+      "dueAt": "2026-10-10T10:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aca0f2fbba9419ccbf9ff72",
+      "createdAt": "2026-10-10T10:10:55.240Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTYyNjk0MDAwMCwiRUwgTUVOU0FKRSBERSBFTUlMSUFOTyBEw41BWiBRVUUgUkVBVklWw5MgRUwgU1VFw5FPIERFIFJBTcOTTiBERSBWT0xWRVIgQSBSSVZFUiJd": {
+      "account": "main",
+      "title": "EL MENSAJE DE EMILIANO DÍAZ QUE REAVIVÓ EL SUEÑO DE RAMÓN DE VOLVER A RIVER",
+      "dueAt": "2026-10-10T10:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aca0f2eb07d37ac976b02d5",
+      "createdAt": "2026-10-10T10:10:54.279Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTk3OTAwMDAwLCJNRVJFTlRJRUwgTkVDRVNJVMOTIEFQRU5BUyA2MyBTRUdVTkRPUyBQQVJBIE1BUkNBUiBFTCBFTVBBVEUgREUgQk9DQSJd": {
       "account": "main",
       "title": "MERENTIEL NECESITÓ APENAS 63 SEGUNDOS PARA MARCAR EL EMPATE DE BOCA",
       "dueAt": "2026-10-10T08:45:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ac9fa06b07d37ac97673e95",
-      "createdAt": "2026-10-10T08:40:38.509Z"
+      "createdAt": "2026-10-10T08:40:38.509Z",
+      "externalLink": "https://x.com/768913759301754880/status/2108841243148955763",
+      "sentAt": "2026-10-10T08:45:07.663Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTU5NzkwMDAwMCwiVE9UTyBXT0xGRiBSRUNIQVrDkyBMQVMgQUNVU0FDSU9ORVMgREUgRkFWT1JJVElTTU8gRU4gTUVSQ0VERVMiXQ": {
       "account": "f1",
@@ -5053,58 +5103,16 @@
       "dueAt": "2026-09-22T15:20:00.000Z",
       "bufferPostId": "6ab29c3716fb5c3bd9259146",
       "createdAt": "2026-09-22T15:18:15.792Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDA4NjU2MDAwMCwiSEFESkFSIFJFQ0lCScOTIEVMIEFMVEEgWSBWVUVMVkUgQSBSRUQgQlVMTCBQQVJBIEVMIEdQIERFIEFaRVJCQUlZw4FOIl0": {
-      "account": "f1",
-      "title": "HADJAR RECIBIÓ EL ALTA Y VUELVE A RED BULL PARA EL GP DE AZERBAIYÁN",
-      "dueAt": "2026-09-22T14:40:00.000Z",
-      "bufferPostId": "6ab291db29735bbf8c5c94f8",
-      "createdAt": "2026-09-22T14:34:03.322Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDA4NjU2MDAwMCwiQVJHRU5USU5BIFlBIFNVTUEgMTc0IE1FREFMTEFTIFkgU0UgQUZJUk1BIFNFR1VOREEgRU4gU0FOVEEgRkUgMjAyNiJd": {
-      "account": "main",
-      "title": "ARGENTINA YA SUMA 174 MEDALLAS Y SE AFIRMA SEGUNDA EN SANTA FE 2026",
-      "dueAt": "2026-09-22T14:45:00.000Z",
-      "bufferPostId": "6ab291da29735bbf8c5c94c5",
-      "createdAt": "2026-09-22T14:34:02.853Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwODY1NjAwMDAsIkRJQlUgREVTUEVKw5MgTEFTIERVREFTOiDigJxFU1RPWSBBQ8OBLCBESVNGUlVUTyBERSBFU1RBUiBBQ8OB4oCdIl0": {
-      "account": "main",
-      "title": "DIBU DESPEJÓ LAS DUDAS: “ESTOY ACÁ, DISFRUTO DE ESTAR ACÁ”",
-      "dueAt": "2026-09-22T14:40:00.000Z",
-      "bufferPostId": "6ab291d9dae2e648e5d77ecf",
-      "createdAt": "2026-09-22T14:34:01.447Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDA4NTg0MDAwMCwiTUFUw41BUyBSRVlOQUdBIEFCUknDkyBFTCBBVExFVElTTU8gQ09OIFBMQVRBIFBBUkEgQVJHRU5USU5BIEVOIExPUyAxMC4wMDAgTUVUUk9TIl0": {
-      "account": "main",
-      "title": "MATÍAS REYNAGA ABRIÓ EL ATLETISMO CON PLATA PARA ARGENTINA EN LOS 10.000 METROS",
-      "dueAt": "2026-09-22T14:20:00.000Z",
-      "bufferPostId": "6ab28e0286006aca6481f234",
-      "createdAt": "2026-09-22T14:17:38.532Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkwMDc4NTIwMDAwLCJWQVJST05FIFJPTVBJw5MgRUwgU0lMRU5DSU8gVFJBUyBERUpBUiBMQSBGMjog4oCcUEVSRMONIFBMQVRB4oCdIl0": {
-      "account": "f1",
-      "title": "VARRONE ROMPIÓ EL SILENCIO TRAS DEJAR LA F2: “PERDÍ PLATA”",
-      "dueAt": "2026-09-22T12:25:00.000Z",
-      "bufferPostId": "6ab270728920619c8e5a2d07",
-      "createdAt": "2026-09-22T12:11:30.227Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDA3ODUyMDAwMCwiSEFESkFSIFJFQ0lCScOTIEVMIEFMVEEgWSBWVUVMVkUgQSBSRUQgQlVMTCBFTiBCQUvDmiJd": {
-      "account": "f1",
-      "title": "HADJAR RECIBIÓ EL ALTA Y VUELVE A RED BULL EN BAKÚ",
-      "dueAt": "2026-09-22T12:20:00.000Z",
-      "bufferPostId": "6ab27071b093a512d28c2769",
-      "createdAt": "2026-09-22T12:11:29.680Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-10T02:15:00.000Z",
-    "main": "2026-10-10T08:50:00.000Z"
+    "f1": "2026-10-10T10:20:00.000Z",
+    "main": "2026-10-10T10:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-10T08:40:37.766Z"
+    "lastLinksRefreshAt": "2026-10-10T10:10:53.735Z"
   }
 }
