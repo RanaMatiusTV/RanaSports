@@ -1,6 +1,70 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTkwNzAwMDAwLCJMQSBKVVNUSUNJQSBPUkRFTsOTIFFVRSBWQVNDTy1CT0NBIFNFIEpVRUdVRSBFTiBFTCBNQVJBQ0FOw4EiXQ": {
+      "account": "main",
+      "title": "LA JUSTICIA ORDENÓ QUE VASCO-BOCA SE JUEGUE EN EL MARACANÁ",
+      "dueAt": "2026-10-10T00:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac98195ed92ed8fa5b03d21",
+      "createdAt": "2026-10-10T00:06:45.609Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU5MDcwMDAwMCwiQ1JJU1RJQU5PIE1BUkPDkyBFTiBMQSBHT0xFQURBIERFIEFMIE5BU1NSIFkgTExFR8OTIEEgOTgwIEdPTEVTIl0": {
+      "account": "main",
+      "title": "CRISTIANO MARCÓ EN LA GOLEADA DE AL NASSR Y LLEGÓ A 980 GOLES",
+      "dueAt": "2026-10-10T00:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac98195c4de2d2b120dac68",
+      "createdAt": "2026-10-10T00:06:45.166Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTkwNzAwMDAwLCJCT0NBIFNVRlJJw5MgTEEgUEVMT1RBIFBBUkFEQTogTEEgTExBVkUgREUgSU5TVElUVVRPIEVOIFNVUyBET1MgR09MRVMiXQ": {
+      "account": "main",
+      "title": "BOCA SUFRIÓ LA PELOTA PARADA: LA LLAVE DE INSTITUTO EN SUS DOS GOLES",
+      "dueAt": "2026-10-10T00:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac98194c4de2d2b120dac37",
+      "createdAt": "2026-10-10T00:06:44.393Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTkwNzAwMDAwLCJFTCBCTE9PUEVSIERFIExFREVTTUEgUVVFIExFIFJFR0FMw5MgQSBFTk5FUiBWQUxFTkNJQSBFTCBFTVBBVEUgREUgQk9DQSJd": {
+      "account": "main",
+      "title": "EL BLOOPER DE LEDESMA QUE LE REGALÓ A ENNER VALENCIA EL EMPATE DE BOCA",
+      "dueAt": "2026-10-10T00:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac98193ed92ed8fa5b03cf0",
+      "createdAt": "2026-10-10T00:06:43.491Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU5MDcwMDAwMCwiUEFTw5MgUE9SIFJFQUwgTUFEUklELCBQRVJPIENPTkZFU8OTIFFVRSBTRSBISVpPIEhJTkNIQSBERUwgQkFSQ0VMT05BIFBPUiBNRVNTSSJd": {
+      "account": "main",
+      "title": "PASÓ POR REAL MADRID, PERO CONFESÓ QUE SE HIZO HINCHA DEL BARCELONA POR MESSI",
+      "dueAt": "2026-10-10T00:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac98192c4de2d2b120dabe9",
+      "createdAt": "2026-10-10T00:06:42.682Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1OTA3MDAwMDAsIkFTQUxUQVJPTiBVTkEgQ0FTQSBERSBDTEVNRU5URSBST0RSw41HVUVaIFkgTEUgUk9CQVJPTiBDQU1JU0VUQVMgWSBNRURBTExBUyJd": {
+      "account": "main",
+      "title": "ASALTARON UNA CASA DE CLEMENTE RODRÍGUEZ Y LE ROBARON CAMISETAS Y MEDALLAS",
+      "dueAt": "2026-10-10T00:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac98192bba9419ccbe556d5",
+      "createdAt": "2026-10-10T00:06:42.267Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTkwNzAwMDAwLCJMQSBDSEFSTEEgREVTQ09OT0NJREEgRU5UUkUgS09NUEFOWSBZIFJVU1NPIEFOVEVTIERFIEJPQ0EtQkFZRVJOIl0": {
+      "account": "main",
+      "title": "LA CHARLA DESCONOCIDA ENTRE KOMPANY Y RUSSO ANTES DE BOCA-BAYERN",
+      "dueAt": "2026-10-10T00:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac98191d9cab260a7a8ee73",
+      "createdAt": "2026-10-10T00:06:41.595Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1OTA3MDAwMDAsIkFSR0VOVElOQSBGVUUgTEEgU0VMRUNDScOTTiBNw4FTIEFUQUNBREEgRU4gUkVERVMgRFVSQU5URSBFTCBNVU5ESUFMIl0": {
+      "account": "main",
+      "title": "ARGENTINA FUE LA SELECCIÓN MÁS ATACADA EN REDES DURANTE EL MUNDIAL",
+      "dueAt": "2026-10-10T00:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ac98190bba9419ccbe556ab",
+      "createdAt": "2026-10-10T00:06:41.023Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU4MzUwMDAwMCwiUE9SVFVHQUwgU1VTUEVOREnDkyBQUk9WSVNJT05BTE1FTlRFIEEgQ1JJU1RJQU5PIFJPTkFMRE8iXQ": {
       "account": "main",
       "title": "PORTUGAL SUSPENDIÓ PROVISIONALMENTE A CRISTIANO RONALDO",
@@ -4999,72 +5063,16 @@
       "dueAt": "2026-09-22T01:15:00.000Z",
       "bufferPostId": "6ab1d4fc8e2aab6eac529392",
       "createdAt": "2026-09-22T01:08:12.625Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwMzU1MDAwMDAsIkxBIERFU1BFRElEQSBERSBNRVNTSSBZQSBUSUVORSBQUkVDSU9TOiBFTlRSQURBUyBERVNERSAkOTAuMDAwIFkgVkVOVEEgRVNURSBNQVJURVMiXQ": {
-      "account": "main",
-      "title": "LA DESPEDIDA DE MESSI YA TIENE PRECIOS: ENTRADAS DESDE $90.000 Y VENTA ESTE MARTES",
-      "dueAt": "2026-09-22T01:10:00.000Z",
-      "bufferPostId": "6ab1d4fbe1612e2f787cec1c",
-      "createdAt": "2026-09-22T01:08:11.939Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDAzMzQ2MDAwMCwiTEFTIFlBR1VBUkVUw4lTIFNPTiBERSBPUk86IEdPTEVBUk9OIDM1LTUgQSBDT0xPTUJJQSBZIFNBQ0FST04gUEFTQUpFIEEgTElNQSAyMDI3Il0": {
-      "account": "main",
-      "title": "LAS YAGUARETÉS SON DE ORO: GOLEARON 35-5 A COLOMBIA Y SACARON PASAJE A LIMA 2027",
-      "dueAt": "2026-09-22T00:00:00.000Z",
-      "bufferPostId": "6ab1c0688e2aab6eac5061a1",
-      "createdAt": "2026-09-21T23:40:24.470Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwMzM0NjAwMDAsIkxBIFNFTEVDQ0nDk04gRU1QSUVaQSBBIEFTSU1JTEFSIEVMIEFEScOTUyBERSBNRVNTSTog4oCcRlVFIFVOQSBTT1JQUkVTQeKAnSJd": {
-      "account": "main",
-      "title": "LA SELECCIÓN EMPIEZA A ASIMILAR EL ADIÓS DE MESSI: “FUE UNA SORPRESA”",
-      "dueAt": "2026-09-21T23:55:00.000Z",
-      "bufferPostId": "6ab1c066826cfc54b85f5f54",
-      "createdAt": "2026-09-21T23:40:23.132Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwMzM0NjAwMDAsIk1BQyBBTExJU1RFUiBQSURJw5MgUVVFIFNDQUxPTkkgU0lHQTog4oCcRVNURSBHUlVQTyBMTyBRVUlFUkUgTVVDSMONU0lNT-KAnSJd": {
-      "account": "main",
-      "title": "MAC ALLISTER PIDIÓ QUE SCALONI SIGA: “ESTE GRUPO LO QUIERE MUCHÍSIMO”",
-      "dueAt": "2026-09-21T23:50:00.000Z",
-      "bufferPostId": "6ab1c066c55232304bd5d3cd",
-      "createdAt": "2026-09-21T23:40:22.333Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwMzM0NjAwMDAsIk1FU1NJIE1PU1RSw5MgTEEgQ0FNSVNFVEEgRVNQRUNJQUwgUVVFIFVTQVLDgSBFTiBTVSDDmkxUSU1PIFBBUlRJRE8gQ09OIEFSR0VOVElOQSJd": {
-      "account": "main",
-      "title": "MESSI MOSTRÓ LA CAMISETA ESPECIAL QUE USARÁ EN SU ÚLTIMO PARTIDO CON ARGENTINA",
-      "dueAt": "2026-09-21T23:45:00.000Z",
-      "bufferPostId": "6ab1c065c55232304bd5d3a5",
-      "createdAt": "2026-09-21T23:40:21.491Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDAyNDU4MDAwMCwiR09MQVpPIEFHw5NOSUNPIFkgQSBTRU1JUzogVFVMScOBTiBTQUxWw5MgQSBBUkdFTlRJTkEgQU5URSBWRU5FWlVFTEEiXQ": {
-      "account": "main",
-      "title": "GOLAZO AGÓNICO Y A SEMIS: TULIÁN SALVÓ A ARGENTINA ANTE VENEZUELA",
-      "dueAt": "2026-09-21T21:10:00.000Z",
-      "bufferPostId": "6ab19c7b8e2aab6eac4ca1fd",
-      "createdAt": "2026-09-21T21:07:07.344Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwMDY1ODAwMDAsIkxBIERFU1BFRElEQSBERSBNRVNTSSBZQSBUSUVORSBQUkVDSU9TOiBFTlRSQURBUyBERSAkOTAuMDAwIEEgJDQ4MC4wMDAiXQ": {
-      "account": "main",
-      "title": "LA DESPEDIDA DE MESSI YA TIENE PRECIOS: ENTRADAS DE $90.000 A $480.000",
-      "dueAt": "2026-09-21T16:30:00.000Z",
-      "bufferPostId": "6ab1590466d53455ffc9be45",
-      "createdAt": "2026-09-21T16:19:16.539Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMDA2NTgwMDAwLCJJTkRFUEVORElFTlRFIFlBIFBJRU5TQSBFTiBJTlNUSVRVVE86IENISU1ZIMOBVklMQSBFUyBMQSBQUklOQ0lQQUwgRFVEQSBFTlRSRSBUUkVTIFRPQ0FET1MiXQ": {
-      "account": "main",
-      "title": "INDEPENDIENTE YA PIENSA EN INSTITUTO: CHIMY ÁVILA ES LA PRINCIPAL DUDA ENTRE TRES TOCADOS",
-      "dueAt": "2026-09-21T16:25:00.000Z",
-      "bufferPostId": "6ab1590366d53455ffc9be1d",
-      "createdAt": "2026-09-21T16:19:16.124Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-09T22:15:00.000Z",
-    "main": "2026-10-09T22:40:00.000Z"
+    "main": "2026-10-10T00:50:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-09T23:10:27.343Z"
+    "lastLinksRefreshAt": "2026-10-10T00:06:40.128Z"
   }
 }
