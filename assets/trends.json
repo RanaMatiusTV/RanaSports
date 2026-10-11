@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-10T22:56:25.237Z",
+  "updatedAt": "2026-10-11T01:51:55.655Z",
   "trends": [
     {
-      "query": "ufc",
-      "startedAt": "2026-10-10T22:40:00.000Z",
+      "query": "petrolero",
+      "startedAt": "2026-10-11T01:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "austin fc - nashville sc",
+      "startedAt": "2026-10-11T01:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tamara pettinato",
+      "startedAt": "2026-10-11T01:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "river va",
+      "startedAt": "2026-10-11T01:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tigre mata a hombre",
+      "startedAt": "2026-10-11T01:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "santiago beltrán",
+      "startedAt": "2026-10-11T01:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "florencia raggi",
+      "startedAt": "2026-10-11T00:50:00.000Z",
       "volume": 1000
     },
     {
-      "query": "tigre inglaterra",
-      "startedAt": "2026-10-10T22:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "inter miami - dc united",
-      "startedAt": "2026-10-10T22:30:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "u. católica - audax italiano",
-      "startedAt": "2026-10-10T22:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ninku",
-      "startedAt": "2026-10-10T22:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "plus ultra líneas aéreas",
-      "startedAt": "2026-10-10T21:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "edlp",
-      "startedAt": "2026-10-10T21:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "seven sudamericano masculino",
-      "startedAt": "2026-10-10T21:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "tigre - banfield",
-      "startedAt": "2026-10-10T21:30:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "recesión",
-      "startedAt": "2026-10-10T21:20:00.000Z",
+      "query": "juana repetto",
+      "startedAt": "2026-10-11T00:30:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "futbol para todos",
+      "startedAt": "2026-10-11T00:30:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "loteria nacional nocturna",
+      "startedAt": "2026-10-11T00:30:00.000Z",
+      "volume": 200
     }
   ]
 }
