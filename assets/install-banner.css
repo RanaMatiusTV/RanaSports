@@ -1,0 +1,35 @@
+/* Banner compacto, similar al aviso de instalación del navegador. */
+.rs-browser-install{
+  box-sizing:border-box;position:fixed;z-index:2147483000;
+  top:calc(env(safe-area-inset-top,0px) + 10px);left:50%;
+  transform:translateX(-50%);width:min(590px,calc(100vw - 20px));
+  display:grid;grid-template-columns:52px minmax(0,1fr) auto;
+  align-items:center;column-gap:12px;row-gap:7px;
+  padding:15px 37px 15px 15px;
+  background:#312825;color:#fff1eb;border:1px solid #4b3935;
+  border-radius:18px;box-shadow:0 12px 38px #0009;
+  font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+}
+.rs-browser-install-logo{width:52px;height:52px;object-fit:cover;border-radius:13px;grid-row:1;}
+.rs-browser-install-copy{min-width:0;display:flex;flex-direction:column;gap:4px;}
+.rs-browser-install-copy strong{font-size:15px;font-weight:600;line-height:1.25;color:#fff5f2;}
+.rs-browser-install-copy span{font-size:12px;line-height:1.3;color:#cebcb7;}
+.rs-browser-install-action{appearance:none;border:0;padding:9px 2px 9px 8px;background:transparent;
+  font:700 14px/1.2 system-ui,-apple-system,sans-serif;color:#ffb8a4;cursor:pointer;white-space:nowrap;}
+.rs-browser-install-action:focus-visible,.rs-browser-install-close:focus-visible{outline:2px solid #fff;outline-offset:2px;}
+.rs-browser-install-close{position:absolute;right:7px;top:4px;width:29px;height:29px;display:grid;place-items:center;
+  padding:0;background:transparent;border:0;color:#dacac5;font:22px/1 system-ui;cursor:pointer;}
+.rs-browser-install-help{grid-column:1/-1;max-width:100%;margin:3px 0 0!important;padding-top:10px;
+  border-top:1px solid #66534e;color:#f1e7e2;font:13px/1.45 system-ui,-apple-system,sans-serif;}
+.rs-browser-install-help[hidden]{display:none!important;}
+@media(max-width:400px){
+  .rs-browser-install{grid-template-columns:42px minmax(0,1fr) auto;gap:9px;padding:12px 30px 12px 11px;border-radius:16px;}
+  .rs-browser-install-logo{width:42px;height:42px;}
+  .rs-browser-install-copy strong{font-size:13px;}
+  .rs-browser-install-copy span{font-size:11px;}
+  .rs-browser-install-action{font-size:13px;padding-left:0;}
+}
+@media(prefers-reduced-motion:no-preference){
+  .rs-browser-install{animation:rs-install-enter .22s ease-out both;}
+  @keyframes rs-install-enter{from{opacity:0;transform:translate(-50%,-10px)}to{opacity:1;transform:translate(-50%,0)}}
+}
