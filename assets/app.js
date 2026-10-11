@@ -36,22 +36,8 @@ function layoutNews() {
   if(card.hidden)return false;const url=card.querySelector('h3 a')?.href;
   if(url&&seen.has(url)){card.hidden=true;return false;}if(url)seen.add(url);return true;
  }).sort((a,b)=>publishedAt(b)-publishedAt(a));
- const now=Date.now();
- const editorial=card=>{
-  const title=normalize(card.querySelector('h3')?.textContent||'');
-  let impact=/\b(final|campeon|campeona|titulo|clasifica|clasifico|eliminado|eliminada|record|retiro)\b/.test(title)?3:0;
-  if(/\b(accidente|choque|golpe|incendio|incendio|llamas|volco|vuelco|explosion|hospitalizado|hospitalizada|lesion grave)\b/.test(title))impact+=4;
-  if(/\b(murio|fallecio|muerte|grave|ileso|ilesa)\b/.test(title))impact+=1;
-  return impact+(['independiente','seleccion','f1'].includes(card.dataset.sport)?1:0);
- };
- const featured=active==='todas'&&!search?.value.trim()?(()=>{
-  const published=visible.filter(card=>publishedAt(card)<=now);
-  const newestPublished=published[0]||null;
-  const newestTime=newestPublished?publishedAt(newestPublished):0;
-  const explicitlyFeatured=published.filter(card=>card.dataset.featured==='1'&&newestTime-publishedAt(card)<=12*3600000);
-  if(!explicitlyFeatured.length)return newestPublished?[newestPublished]:[];
-  return explicitlyFeatured.map(card=>({card,score:Math.max(0,Number(card.dataset.trendScore)||window.ranaTrendScore?.(card)||0),editorial:editorial(card)})).sort((a,b)=>b.score-a.score||b.editorial-a.editorial||publishedAt(b.card)-publishedAt(a.card)).slice(0,1).map(item=>item.card);
- })():[];
+ // La portada siempre destaca la noticia con fecha y hora de publicación más recientes.
+ const featured=active==='todas'&&!search?.value.trim()?visible.slice(0,1):[];
  newsGrid.classList.toggle('no-featured',featured.length===0);newsGrid.classList.toggle('single-featured',featured.length===1);
  const selected=new Set(featured);const latest=visible.filter(card=>!selected.has(card));
  cards.forEach(card=>{card.classList.remove('lead-story','secondary-story','more-story');card.dataset.section=selected.has(card)?'featured':'latest';});
