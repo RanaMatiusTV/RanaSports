@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-11T19:43:18.092Z",
+  "updatedAt": "2026-10-11T23:10:20.983Z",
   "trends": [
     {
-      "query": "estados unidos",
-      "startedAt": "2026-10-11T19:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "olimpo",
-      "startedAt": "2026-10-11T19:00:00.000Z",
+      "query": "turf",
+      "startedAt": "2026-10-11T22:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "cipolletti club",
-      "startedAt": "2026-10-11T18:50:00.000Z",
-      "volume": 500
+      "query": "cinemacenter",
+      "startedAt": "2026-10-11T22:40:00.000Z",
+      "volume": 200
     },
     {
-      "query": "temperley - nueva chicago",
-      "startedAt": "2026-10-11T18:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "gimnasia jujuy - gimnasia y tiro de salta",
-      "startedAt": "2026-10-11T18:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "lpf play",
-      "startedAt": "2026-10-11T18:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "patronato - atlético güemes",
-      "startedAt": "2026-10-11T18:40:00.000Z",
+      "query": "cotización",
+      "startedAt": "2026-10-11T22:30:00.000Z",
       "volume": 1000
     },
     {
-      "query": "luck ra",
-      "startedAt": "2026-10-11T18:40:00.000Z",
+      "query": "bahía - mirassol",
+      "startedAt": "2026-10-11T22:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "estudiantes - deportivo morón",
-      "startedAt": "2026-10-11T18:10:00.000Z",
+      "query": "jesica cirio",
+      "startedAt": "2026-10-11T22:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "aluvión",
+      "startedAt": "2026-10-11T22:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "dinero",
+      "startedAt": "2026-10-11T22:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "gran premio de los estados unidos",
+      "startedAt": "2026-10-11T22:20:00.000Z",
       "volume": 2000
     },
     {
-      "query": "atlético mineiro - santos",
-      "startedAt": "2026-10-11T18:10:00.000Z",
-      "volume": 2000
+      "query": "luis novaresio",
+      "startedAt": "2026-10-11T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "palmeiras vs",
+      "startedAt": "2026-10-11T21:50:00.000Z",
+      "volume": 100
     }
   ]
 }
