@@ -1,42 +1,11 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-11T12:46:40-03:00",
+  "updated_at": "2026-10-11T17:21:44-03:00",
   "timezone": "America/Argentina/Buenos_Aires",
   "window_hours": 8,
-  "pending": 2,
-  "source_articles_inspected_this_run": 2,
+  "pending": 0,
+  "source_articles_inspected_this_run": 0,
   "candidates_unverified": 0,
   "note": "Candidate URLs are hints, not verified embeds. Radars must check exact event, live K and R, and write K in batches.",
-  "items": [
-    {
-      "id": "e835c084e164d2c1",
-      "row": 2899,
-      "date": "11/10/2026",
-      "time": "07:06",
-      "title": "ESTUDIANTES DE RÍO CUARTO DESCENDIÓ TRAS PERDER CON RIVER",
-      "source": "TyC Sports",
-      "source_url": "https://www.tycsports.com/liga-profesional-de-futbol/estudiantes-rio-cuarto-descenso-liga-profesional-2026-torneo-clausura-river--id765634.html",
-      "age_hours": 5.68,
-      "attempts": 1,
-      "last_checked": "2026-10-11T12:46:40-03:00",
-      "next_retry": "2026-10-11T13:06:40-03:00",
-      "candidates": [],
-      "source_status": "inspected"
-    },
-    {
-      "id": "261723b8c93e2d58",
-      "row": 2900,
-      "date": "11/10/2026",
-      "time": "07:06",
-      "title": "INDEPENDIENTE VIAJÓ A CÓRDOBA CON SEIS CAMBIOS EN MENTE PARA VISITAR A TALLERES",
-      "source": "TyC Sports",
-      "source_url": "https://www.tycsports.com/independiente/independiente-cordoba-talleres-clasico-racing-torneo-clausura-id765564.html",
-      "age_hours": 5.68,
-      "attempts": 1,
-      "last_checked": "2026-10-11T12:46:40-03:00",
-      "next_retry": "2026-10-11T13:06:40-03:00",
-      "candidates": [],
-      "source_status": "inspected"
-    }
-  ]
+  "items": []
 }
