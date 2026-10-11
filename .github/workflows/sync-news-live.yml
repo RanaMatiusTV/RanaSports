@@ -97,21 +97,14 @@ jobs:
           print(f'Synced {len(data)} live rows and {len(all_data)} archive rows; newest={incoming_max}')
           PY
 
-      - name: Commit only when feed changed
+      - name: Commit news feed and SEO sitemaps
         shell: bash
         run: |
           set -euo pipefail
-          if [ -z "$(git status --porcelain -- assets/news-live.csv assets/news-archive.csv)" ]; then
-            echo "No feed/archive changes"
-            exit 0
-          fi
-
           git config user.name "RanaSports Bot"
           git config user.email "actions@users.noreply.github.com"
 
-          # Save the generated feed, update to the latest main, then restore it.
-          # This prevents non-fast-forward failures when another workflow pushes
-          # to main while this job is running.
+          # Retain the proven feed sync's fetch/reset/retry behavior.
           cp assets/news-live.csv /tmp/news-live.csv
           cp assets/news-archive.csv /tmp/news-archive.csv
           git restore assets/news-live.csv
@@ -121,15 +114,24 @@ jobs:
           cp /tmp/news-live.csv assets/news-live.csv
           cp /tmp/news-archive.csv assets/news-archive.csv
 
-          if [ -z "$(git status --porcelain -- assets/news-live.csv assets/news-archive.csv)" ]; then
-            echo "Feed/archive already present after refreshing main"
+          # SEO is best-effort: a sitemap error must NEVER prevent news sync.
+          stage_changes() {
+            git add assets/news-live.csv assets/news-archive.csv
+            if python3 scripts/build_sitemaps.py; then
+              git add sitemap.xml sitemap-news.xml
+            else
+              echo "::warning::SEO sitemap refresh failed, publishing news without it."
+            fi
+          }
+
+          stage_changes
+          if git diff --cached --quiet; then
+            echo "No feed or sitemap changes"
             exit 0
           fi
+          git commit -m "Auto-sync RanaSports news feed and sitemaps"
 
-          git add assets/news-live.csv assets/news-archive.csv
-          git commit -m "Auto-sync RanaSports news feed"
-
-          # A second writer can still land between fetch and push. Retry safely.
+          # Keep the existing 3 safe retries against concurrent writers.
           for attempt in 1 2 3; do
             if git push origin HEAD:main; then
               exit 0
@@ -141,12 +143,12 @@ jobs:
             git reset --hard origin/main
             cp /tmp/news-live.csv assets/news-live.csv
             cp /tmp/news-archive.csv assets/news-archive.csv
-            if [ -z "$(git status --porcelain -- assets/news-live.csv assets/news-archive.csv)" ]; then
-              echo "Feed/archive already published by another run"
+            stage_changes
+            if git diff --cached --quiet; then
+              echo "Feed and sitemaps already published by another run"
               exit 0
             fi
-            git add assets/news-live.csv assets/news-archive.csv
-            git commit -m "Auto-sync RanaSports news feed"
+            git commit -m "Auto-sync RanaSports news feed and sitemaps"
             sleep $((attempt * 2))
           done
 
