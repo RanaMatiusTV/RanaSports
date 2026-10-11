@@ -1,13 +1,63 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE3NTYzNjYwMDAsIkRJIE1BUsONQSBCUklMTMOTIFkgUk9TQVJJTyBDRU5UUkFMIEdPTEXDkyA1LTAgQSBJTkRFUEVORElFTlRFIFJJVkFEQVZJQSJd": {
+      "account": "main",
+      "title": "DI MARÍA BRILLÓ Y ROSARIO CENTRAL GOLEÓ 5-0 A INDEPENDIENTE RIVADAVIA",
+      "dueAt": "2026-10-11T22:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc089c8e8dd50ffc599ace",
+      "createdAt": "2026-10-11T22:07:24.439Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE3NTYzNjUwMDAsIlBMQVRFTlNFIFkgQVJHRU5USU5PUyBFTVBBVEFST04gMS0xIEVOIFZJQ0VOVEUgTMOTUEVaIl0": {
+      "account": "main",
+      "title": "PLATENSE Y ARGENTINOS EMPATARON 1-1 EN VICENTE LÓPEZ",
+      "dueAt": "2026-10-11T22:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc089cea568e911a425a01",
+      "createdAt": "2026-10-11T22:07:24.128Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyYWNpbmciLDE3OTE3NTYzNjQwMDAsIlJBQ0lORyBSRUNJQkUgQSBCRUxHUkFOTyBDT04gTE9TIE9OQ0UgQ09ORklSTUFET1MiXQ": {
+      "account": "main",
+      "title": "RACING RECIBE A BELGRANO CON LOS ONCE CONFIRMADOS",
+      "dueAt": "2026-10-11T22:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc089bfa026cfb81188adc",
+      "createdAt": "2026-10-11T22:07:23.714Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTc1NjM2MzAwMCwiRUwgS0lMWSBSRVZFTMOTIFFVRSBBIE1FU1NJIExPIEVOVFVTSUFTTUEgSlVHQVIgTEEgQ09QQSBMSUJFUlRBRE9SRVMiXQ": {
+      "account": "main",
+      "title": "EL KILY REVELÓ QUE A MESSI LO ENTUSIASMA JUGAR LA COPA LIBERTADORES",
+      "dueAt": "2026-10-11T22:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc089b7db619a2914c6023",
+      "createdAt": "2026-10-11T22:07:23.290Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTc1NjM2MTAwMCwiTEFTIEJBTkFOQVMgSU5GTEFCTEVTIERFTCBDSVRZIEVOIEFORklFTEQgWSBTVSBISVNUT1JJQSBDT05UUkEgRUwgUkFDSVNNTyJd": {
+      "account": "main",
+      "title": "LAS BANANAS INFLABLES DEL CITY EN ANFIELD Y SU HISTORIA CONTRA EL RACISMO",
+      "dueAt": "2026-10-11T22:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc089aea568e911a4259bb",
+      "createdAt": "2026-10-11T22:07:22.878Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNzU2MzYyMDAwLCJJTkRFUEVORElFTlRFIFZJU0lUQSBBIFRBTExFUkVTIENPTiBMQSBPQkxJR0FDScOTTiBERSBSRUFDQ0lPTkFSIl0": {
+      "account": "main",
+      "title": "INDEPENDIENTE VISITA A TALLERES CON LA OBLIGACIÓN DE REACCIONAR",
+      "dueAt": "2026-10-11T22:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc089aea568e911a425979",
+      "createdAt": "2026-10-11T22:07:22.445Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJzYW4gbG9yZW56byIsMTc5MTc0ODk4ODAwMCwiU0FOIExPUkVOWk8gR0FOw5MsIFBFUk8gU1VTIEhJTkNIQVMgUkVDSUJJRVJPTiBBTCBFUVVJUE8gQ09OIEZVRVJURVMgQ8OBTlRJQ09TIl0": {
       "account": "main",
       "title": "SAN LORENZO GANÓ, PERO SUS HINCHAS RECIBIERON AL EQUIPO CON FUERTES CÁNTICOS",
       "dueAt": "2026-10-11T20:44:21.397Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf525a9411fbcc55b41a9",
-      "createdAt": "2026-10-11T20:44:23.529Z"
+      "createdAt": "2026-10-11T20:44:23.529Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384636841251293",
+      "sentAt": "2026-10-11T20:44:22.848Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE3NDg5ODcwMDAsIlJPU0FSSU8gQ0VOVFJBTCBFIElOREVQRU5ESUVOVEUgUklWQURBVklBIEpVRUdBTiBVTiBEVUVMTyBDTEFWRSBQT1IgTEFTIERPUyBUQUJMQVMiXQ": {
       "account": "main",
@@ -15,7 +65,9 @@
       "dueAt": "2026-10-11T20:44:16.710Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf5207db619a29148ef0e",
-      "createdAt": "2026-10-11T20:44:18.831Z"
+      "createdAt": "2026-10-11T20:44:18.831Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384616175874527",
+      "sentAt": "2026-10-11T20:44:17.921Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzYW4gbG9yZW56byIsMTc5MTc0ODk4NjAwMCwiUk9EUsONR1VFWiBQQUdBTk8gTUFSQ8OTIFNVIFBSSU1FUiBHT0wgWSBDT1JUw5MgTEEgU0VRVcONQSBERSBTQU4gTE9SRU5aTyJd": {
       "account": "main",
@@ -23,7 +75,9 @@
       "dueAt": "2026-10-11T20:44:12.217Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf51c8e8dd50ffc560f12",
-      "createdAt": "2026-10-11T20:44:14.350Z"
+      "createdAt": "2026-10-11T20:44:14.350Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384597221806485",
+      "sentAt": "2026-10-11T20:44:13.473Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib3hlbyIsMTc5MTc0ODk4NTAwMCwiUEVSQUxUQSBTRSBMRVNJT07DkyBZIFBFVFRJR1JFVyBHQU7DkyBQT1IgTk9DQVVUIFTDiUNOSUNPIEVOIEVMIENBU0lOTyBCQSJd": {
       "account": "main",
@@ -31,7 +85,9 @@
       "dueAt": "2026-10-11T20:44:07.970Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf5177db619a29148edb9",
-      "createdAt": "2026-10-11T20:44:10.099Z"
+      "createdAt": "2026-10-11T20:44:10.099Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384579886756182",
+      "sentAt": "2026-10-11T20:44:09.334Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTc0ODk4NDAwMCwiUklWRVIgTk8gU1VNw5MgTEVTSU9OQURPUyBZIFJFQ1VQRVJBIE9QQ0lPTkVTIFBBUkEgVklTSVRBUiBBIFNBUk1JRU5UTyJd": {
       "account": "main",
@@ -39,7 +95,9 @@
       "dueAt": "2026-10-11T20:44:03.765Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf513fa026cfb81153321",
-      "createdAt": "2026-10-11T20:44:05.907Z"
+      "createdAt": "2026-10-11T20:44:05.907Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384562568503573",
+      "sentAt": "2026-10-11T20:44:05.200Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNzQ4OTgzMDAwLCJWQVNDTyBJTlNJU1RFIENPTiBFTCBNQVJBQ0FOw4EgUEFSQSBMQSBSRVZBTkNIQSBBTlRFIEJPQ0EiXQ": {
       "account": "main",
@@ -47,7 +105,9 @@
       "dueAt": "2026-10-11T20:43:59.434Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf50f8e8dd50ffc560d85",
-      "createdAt": "2026-10-11T20:44:01.553Z"
+      "createdAt": "2026-10-11T20:44:01.553Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384544528839077",
+      "sentAt": "2026-10-11T20:44:00.832Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTc0ODk4MjAwMCwiQUxQSU5FIEhJWk8gQVVUT0NSw41USUNBIFRSQVMgT1RSTyBHUkFOIFBSRU1JTyBTSU4gUFVOVE9TIl0": {
       "account": "f1",
@@ -55,7 +115,9 @@
       "dueAt": "2026-10-11T21:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf50ea9411fbcc55b3b95",
-      "createdAt": "2026-10-11T20:43:58.644Z"
+      "createdAt": "2026-10-11T20:43:58.644Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2109392355430162896",
+      "sentAt": "2026-10-11T21:15:03.049Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE3NDg5ODEwMDAsIkVMIFBJQ0FOVEUgUEFTQUNBTExFIERFIEFSR0VOVElOT1MgQU5URVMgREVMIENMw4FTSUNPIENPTiBQTEFURU5TRSJd": {
       "account": "main",
@@ -63,7 +125,9 @@
       "dueAt": "2026-10-11T20:43:54.677Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf50a8e8dd50ffc560cca",
-      "createdAt": "2026-10-11T20:43:56.794Z"
+      "createdAt": "2026-10-11T20:43:56.794Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384523792167205",
+      "sentAt": "2026-10-11T20:43:55.858Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNzQxOTk2MDAwLCJVTiBKVUdBRE9SIERFIFZBU0NPIFNVRlJJw5MgVU4gQUNDSURFTlRFIFkgU0VSw4EgQkFKQSBBTlRFIEJPQ0EiXQ": {
       "account": "main",
@@ -71,7 +135,9 @@
       "dueAt": "2026-10-11T20:43:50.777Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf506fa026cfb811530ae",
-      "createdAt": "2026-10-11T20:43:52.917Z"
+      "createdAt": "2026-10-11T20:43:52.917Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384507308544438",
+      "sentAt": "2026-10-11T20:43:52.012Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzYW4gbG9yZW56byIsMTc5MTc0MTk5NTAwMCwiU0FOIExPUkVOWk8gUkVDSUJFIEEgUklFU1RSQSBFTiBVTiBEVUVMTyBDTEFWRSBQT1IgRUwgQ0xBVVNVUkEiXQ": {
       "account": "main",
@@ -79,7 +145,9 @@
       "dueAt": "2026-10-11T20:43:46.763Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf50263ff33d8c99658eb",
-      "createdAt": "2026-10-11T20:43:48.883Z"
+      "createdAt": "2026-10-11T20:43:48.883Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384491726684270",
+      "sentAt": "2026-10-11T20:43:48.225Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTc0MTk5NDAwMCwiTUFOQ0hFU1RFUiBDSVRZIEdPTEXDkyAzLTAgQSBMSVZFUlBPT0wgRU4gQU5GSUVMRCJd": {
       "account": "main",
@@ -87,7 +155,9 @@
       "dueAt": "2026-10-11T20:43:41.159Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf4fdea568e911a3ed123",
-      "createdAt": "2026-10-11T20:43:43.288Z"
+      "createdAt": "2026-10-11T20:43:43.288Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384466908975194",
+      "sentAt": "2026-10-11T20:43:42.334Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkxNzQxOTkzMDAwLCJDQU5BUElOTyBHQU7DkyBVTkEgU0VSSUUgREVMIFRVUklTTU8gTkFDSU9OQUwgVFJBUyBVTiBGSU5BTCBJTVBBQ1RBTlRFIl0": {
       "account": "main",
@@ -95,7 +165,9 @@
       "dueAt": "2026-10-11T20:43:37.052Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf4f8ea568e911a3ed0b6",
-      "createdAt": "2026-10-11T20:43:39.201Z"
+      "createdAt": "2026-10-11T20:43:39.201Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384449607487543",
+      "sentAt": "2026-10-11T20:43:38.105Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIHBvciBlbCBtdW5kbyIsMTc5MTc0MTk5MjAwMCwiV0FMVEVSIEJFTsONVEVaIEJSSUxMw5MgQ09OIFVOQSBET0JMRSBBVEFKQURBIEVOIEVMIFRSSVVORk8gREUgQ1JZU1RBTCBQQUxBQ0UiXQ": {
       "account": "main",
@@ -103,7 +175,9 @@
       "dueAt": "2026-10-11T20:43:33.090Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf4f5fa026cfb81152f2a",
-      "createdAt": "2026-10-11T20:43:35.211Z"
+      "createdAt": "2026-10-11T20:43:35.211Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384433472073910",
+      "sentAt": "2026-10-11T20:43:34.355Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTc0MTk5MTAwMCwiQ0xBUkVOQ0UgU0VFRE9SRiBFUyBFTCBOVUVWTyBFTlRSRU5BRE9SIERFIENPUklOVEhJQU5TIl0": {
       "account": "main",
@@ -111,7 +185,9 @@
       "dueAt": "2026-10-11T20:43:28.928Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf4f063ff33d8c99656ad",
-      "createdAt": "2026-10-11T20:43:31.047Z"
+      "createdAt": "2026-10-11T20:43:31.047Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384415679811777",
+      "sentAt": "2026-10-11T20:43:30.092Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJydWdieSIsMTc5MTc0MTk5MDAwMCwiTE9TIFBVTUFTIDdTIFkgTEFTIFlBR1VBUkVUw4lTIEJVU0NBTiBFTCBUw41UVUxPIFNVREFNRVJJQ0FOTyBFTiBDQVJMT1MgUEFaIl0": {
       "account": "main",
@@ -119,7 +195,9 @@
       "dueAt": "2026-10-11T20:43:24.956Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf4ec7db619a29148ddcf",
-      "createdAt": "2026-10-11T20:43:27.115Z"
+      "createdAt": "2026-10-11T20:43:27.115Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384399263236552",
+      "sentAt": "2026-10-11T20:43:26.191Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTczNDYwODAwMCwiTElWRVJQT09MIFkgTUFOQ0hFU1RFUiBDSVRZIFNFIEVORlJFTlRBTiBFTiBBTkZJRUxEIFBPUiBMQSBQUkVNSUVSIExFQUdVRSJd": {
       "account": "main",
@@ -127,7 +205,9 @@
       "dueAt": "2026-10-11T20:43:20.678Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf4e8ea568e911a3ecdec",
-      "createdAt": "2026-10-11T20:43:22.824Z"
+      "createdAt": "2026-10-11T20:43:22.824Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384381701775686",
+      "sentAt": "2026-10-11T20:43:22.060Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTczNDYwNzAwMCwiUklWRVIgVk9MVknDkyBUUkFTIDIxIETDjUFTIFkgVkVOQ0nDkyBBIEVTVFVESUFOVEVTIERFIFLDjU8gQ1VBUlRPIl0": {
       "account": "main",
@@ -135,7 +215,9 @@
       "dueAt": "2026-10-11T20:43:16.425Z",
       "mode": "shareNow",
       "bufferPostId": "6acbf4e4ea568e911a3ecd94",
-      "createdAt": "2026-10-11T20:43:18.550Z"
+      "createdAt": "2026-10-11T20:43:18.550Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384363653664952",
+      "sentAt": "2026-10-11T20:43:17.692Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTczNDYwNjAwMCwiQU5UT05FTExJIFBVRURFIENPTlNBR1JBUlNFIENBTVBFw5NOIERFIEbDk1JNVUxBIDEgRU4gQVVTVElOIl0": {
       "account": "f1",
@@ -143,7 +225,9 @@
       "dueAt": "2026-10-11T21:10:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4e4a9411fbcc55b3796",
-      "createdAt": "2026-10-11T20:43:16.118Z"
+      "createdAt": "2026-10-11T20:43:16.118Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2109391095385788480",
+      "sentAt": "2026-10-11T21:10:02.614Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJsaWdhIHByb2Zlc2lvbmFsIiwxNzkxNzM0NjA1MDAwLCJHSU1OQVNJQSBERSBNRU5ET1pBIFBFUkRJw5MgQSBUT03DgVMgTydDT05OT1IgUE9SIExFU0nDk04iXQ": {
       "account": "main",
@@ -151,7 +235,9 @@
       "dueAt": "2026-10-11T21:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4e37db619a29148dcdd",
-      "createdAt": "2026-10-11T20:43:15.782Z"
+      "createdAt": "2026-10-11T20:43:15.782Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109396142643449931",
+      "sentAt": "2026-10-11T21:30:05.979Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTczNDYwNDAwMCwiQUxQSU5FIFBFUkRJw5MgVEVSUkVOTyBFTiBDT05TVFJVQ1RPUkVTIFRSQVMgRUwgR1AgREUgU0lOR0FQVVIiXQ": {
       "account": "f1",
@@ -159,7 +245,9 @@
       "dueAt": "2026-10-11T21:05:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4e3ea568e911a3ecd3d",
-      "createdAt": "2026-10-11T20:43:15.370Z"
+      "createdAt": "2026-10-11T20:43:15.370Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2109389834095567179",
+      "sentAt": "2026-10-11T21:05:01.993Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTczNDYwMzAwMCwiQ09MQVBJTlRPIFBJREnDkyBVTiBSRVNFVCBUUkFTIEVMIEFCQU5ET05PIEVOIFNJTkdBUFVSIl0": {
       "account": "f1",
@@ -167,7 +255,9 @@
       "dueAt": "2026-10-11T21:00:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4e27db619a29148dc9a",
-      "createdAt": "2026-10-11T20:43:14.867Z"
+      "createdAt": "2026-10-11T20:43:14.867Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2109388590065098812",
+      "sentAt": "2026-10-11T21:00:05.419Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTcyNzQzNTAwMCwiQ09MQVBJTlRPIEFCQU5ET07DkyBZIFZFUlNUQVBQRU4gR0FOw5MgRUwgR1AgREUgU0lOR0FQVVIiXQ": {
       "account": "f1",
@@ -175,7 +265,9 @@
       "dueAt": "2026-10-11T20:55:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4e18e8dd50ffc560295",
-      "createdAt": "2026-10-11T20:43:13.956Z"
+      "createdAt": "2026-10-11T20:43:13.956Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2109387315671912847",
+      "sentAt": "2026-10-11T20:55:01.506Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTcyNzQzNTAwMCwiQUxNRVlEQSBORUfDkyBIQUJFUiBERVNNRVJFQ0lETyBBTCBBTcOJUklDQSBZIFJFQ0hBWsOTIExBIFBPTMOJTUlDQSBDT04gQk9SSkEiXQ": {
       "account": "main",
@@ -183,7 +275,9 @@
       "dueAt": "2026-10-11T21:25:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4e08e8dd50ffc560235",
-      "createdAt": "2026-10-11T20:43:12.840Z"
+      "createdAt": "2026-10-11T20:43:12.840Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109394869265297857",
+      "sentAt": "2026-10-11T21:25:02.458Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNzI3NDM1MDAwLCJNRVNTSSBFTElHScOTIEEgRElFWiBGVVRVUkFTIEVTVFJFTExBUyBZIFNVTcOTIEEgVE9Nw4FTIEFSQU5EQSJd": {
       "account": "main",
@@ -191,7 +285,9 @@
       "dueAt": "2026-10-11T21:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4e0a9411fbcc55b36fc",
-      "createdAt": "2026-10-11T20:43:12.267Z"
+      "createdAt": "2026-10-11T20:43:12.267Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109393607375401117",
+      "sentAt": "2026-10-11T21:20:01.514Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTcyNzQzNTAwMCwiQ09MQVBJTlRPIEFCQU5ET07DkyBFTiBTSU5HQVBVUiBQT1IgVU5BIEZBTExBIEVOIExBIFRSQU5TTUlTScOTTiJd": {
       "account": "f1",
@@ -199,7 +295,9 @@
       "dueAt": "2026-10-11T20:50:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4dffa026cfb81152bd3",
-      "createdAt": "2026-10-11T20:43:11.900Z"
+      "createdAt": "2026-10-11T20:43:11.900Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2109386060111180050",
+      "sentAt": "2026-10-11T20:50:02.172Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTcyNzQzNTAwMCwiQUNVw5FBIEFOVElDSVDDkyBTVSBHT0wgUEFSQSBSSVZFUiBZIFJFQ0lCScOTIFVOIE1FTlNBSkUgREVMIERJQlUiXQ": {
       "account": "main",
@@ -207,7 +305,9 @@
       "dueAt": "2026-10-11T21:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4df63ff33d8c99654f8",
-      "createdAt": "2026-10-11T20:43:11.333Z"
+      "createdAt": "2026-10-11T20:43:11.333Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109392356713636200",
+      "sentAt": "2026-10-11T21:15:03.379Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzYW4gbG9yZW56byIsMTc5MTcyMDE1NzAwMCwiSU5Tw5pBIE1VRVZFIENVQVRSTyBQSUVaQVMgRU4gU0FOIExPUkVOWk8gUEFSQSBSRUNJQklSIEEgREVQT1JUSVZPIFJJRVNUUkEiXQ": {
       "account": "main",
@@ -215,7 +315,9 @@
       "dueAt": "2026-10-11T21:10:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4de8e8dd50ffc560200",
-      "createdAt": "2026-10-11T20:43:10.934Z"
+      "createdAt": "2026-10-11T20:43:10.934Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109391094249075101",
+      "sentAt": "2026-10-11T21:10:02.390Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNzIwMTU3MDAwLCJCT0NBIFkgVkFTQ08gU0lHVUVOIFNJTiBTRURFIFBBUkEgTEEgUkVWQU5DSEE6IEVMIE1BUkFDQU7DgSBRVUVEw5MgRU4gU1VTUEVOU08iXQ": {
       "account": "main",
@@ -223,7 +325,9 @@
       "dueAt": "2026-10-11T21:05:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4defa026cfb81152ba0",
-      "createdAt": "2026-10-11T20:43:10.404Z"
+      "createdAt": "2026-10-11T20:43:10.404Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109389834154340464",
+      "sentAt": "2026-10-11T21:05:02.030Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTcyMDE1NzAwMCwiR0FTTFkgREVGRU5EScOTIEEgQ09MQVBJTlRPIFkgQ1VFU1RJT07DkyBFTCBDUklURVJJTyBERSBMT1MgQ09NSVNBUklPUyBERSBGw5NSTVVMQSAxIl0": {
       "account": "f1",
@@ -231,7 +335,9 @@
       "dueAt": "2026-10-11T20:45:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4ddea568e911a3ecc9f",
-      "createdAt": "2026-10-11T20:43:09.982Z"
+      "createdAt": "2026-10-11T20:43:09.982Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2109384804995129489",
+      "sentAt": "2026-10-11T20:45:02.939Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTcyMDE1NzAwMCwiT1RBTUVOREkgTUFSQ8OTIEVMIENBTUlOTyBERSBSSVZFUjogwqtIQVkgUVVFIEdBTkFSIExPUyBDSU5DTyBQQVJUSURPU8K7Il0": {
       "account": "main",
@@ -239,7 +345,9 @@
       "dueAt": "2026-10-11T21:00:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4dca9411fbcc55b363c",
-      "createdAt": "2026-10-11T20:43:09.049Z"
+      "createdAt": "2026-10-11T20:43:09.049Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109388592535515340",
+      "sentAt": "2026-10-11T21:00:05.901Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJoaXN0b3JpYXMiLDE3OTE3MjAxNTcwMDAsIkVaRVFVSUVMIEdPTlrDgUxFWiwgREVMIDEwIERFIEJPQ0EgQSBVTiBJTVBFUklPIEFHUk9QRUNVQVJJTyBDT04gMjUwIEZBTUlMSUFTIl0": {
       "account": "main",
@@ -247,7 +355,9 @@
       "dueAt": "2026-10-11T20:55:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4dc8e8dd50ffc56017c",
-      "createdAt": "2026-10-11T20:43:08.525Z"
+      "createdAt": "2026-10-11T20:43:08.525Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109387316816974245",
+      "sentAt": "2026-10-11T20:55:01.825Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJsaWdhIHByb2Zlc2lvbmFsIiwxNzkxNzIwMTU3MDAwLCJQTEFURU5TRSBQQUxQSVRBIEVMIENMw4FTSUNPIENPTiBBUkdFTlRJTk9TOiBMQVMgQ0xBVkVTIERFIFNJTFZBLCBaQVBJT0xBIFkgU0VQw5pMVkVEQSJd": {
       "account": "main",
@@ -255,7 +365,9 @@
       "dueAt": "2026-10-11T20:50:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4db8e8dd50ffc560149",
-      "createdAt": "2026-10-11T20:43:08.078Z"
+      "createdAt": "2026-10-11T20:43:08.078Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109386060979384327",
+      "sentAt": "2026-10-11T20:50:02.488Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE3Mjc0MzUwMDAsIlNDQUxPTkkgQ09NUExFVMOTIEVMIEdSQU4gRk9ORE8gREUgQlVFTk9TIEFJUkVTIEVOIEJJQ0lDTEVUQSJd": {
       "account": "main",
@@ -263,7 +375,9 @@
       "dueAt": "2026-10-11T20:45:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acbf4dbfa026cfb81152b59",
-      "createdAt": "2026-10-11T20:43:07.382Z"
+      "createdAt": "2026-10-11T20:43:07.382Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109384805951447286",
+      "sentAt": "2026-10-11T20:45:03.142Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTcxMzE2MDAwMCwiQ09MQVBJTlRPIEdBTsOTIFVOIExVR0FSIEVOIExBIEdSSUxMQSBERSBTSU5HQVBVUiBQT1IgTEEgU0FOQ0nDk04gQSBSVVNTRUxMIl0": {
       "account": "f1",
@@ -5143,58 +5257,16 @@
       "dueAt": "2026-09-23T17:15:00.000Z",
       "bufferPostId": "6ab40870158cddaee30879fa",
       "createdAt": "2026-09-23T17:12:16.696Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjaWNsaXNtbyIsMTc5MDEyMTg0MDAwMCwiQlJPTkNFIFBBUkEgTkFUQUxJQSBWRVJBIEVOIFZFTE9DSURBRDogTlVFVk8gUE9ESU8gQVJHRU5USU5PIEVOIFJBRkFFTEEiXQ": {
-      "account": "main",
-      "title": "BRONCE PARA NATALIA VERA EN VELOCIDAD: NUEVO PODIO ARGENTINO EN RAFAELA",
-      "dueAt": "2026-09-23T16:35:00.000Z",
-      "bufferPostId": "6ab3fecc062c9074d14d9902",
-      "createdAt": "2026-09-23T16:31:08.477Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE3OTUwMDAwMCwiQ09MQVBJTlRPIExMRUdBIEEgQkFLw5ogQ09OIERPUyBDQVJSRVJBUyBTRUdVSURBUyBFTiBMT1MgUFVOVE9TIl0": {
-      "account": "f1",
-      "title": "COLAPINTO LLEGA A BAKÚ CON DOS CARRERAS SEGUIDAS EN LOS PUNTOS",
-      "dueAt": "2026-09-23T16:20:00.000Z",
-      "bufferPostId": "6ab3fab3e3f202d1af1eae37",
-      "createdAt": "2026-09-23T16:13:39.511Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE3OTUwMDAwMCwiR0FTTFkgREVOVU5DScOTIEFNRU5BWkFTIERFIE1VRVJURSBBIFNVIEZBTUlMSUEgVFJBUyBFTCBDUlVDRSBDT04gQ09MQVBJTlRPIl0": {
-      "account": "f1",
-      "title": "GASLY DENUNCIÓ AMENAZAS DE MUERTE A SU FAMILIA TRAS EL CRUCE CON COLAPINTO",
-      "dueAt": "2026-09-23T16:15:00.000Z",
-      "bufferPostId": "6ab3fab24b03091dc1e7e9e1",
-      "createdAt": "2026-09-23T16:13:39.150Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdGxldGlzbW8iLDE3OTAxNzk1MDAwMDAsIkRJRUdPIExBQ0FNT0lSRSBGVUUgUExBVEEgRU4gTE9TIDEuNTAwIE1FVFJPUyBZIFNVTcOTIExBIFBSSU1FUkEgTUVEQUxMQSBBUkdFTlRJTkEgREVMIETDjUEiXQ": {
-      "account": "main",
-      "title": "DIEGO LACAMOIRE FUE PLATA EN LOS 1.500 METROS Y SUMÓ LA PRIMERA MEDALLA ARGENTINA DEL DÍA",
-      "dueAt": "2026-09-23T16:20:00.000Z",
-      "bufferPostId": "6ab3fab27775eb2d5e2730bd",
-      "createdAt": "2026-09-23T16:13:38.446Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAxNzk1MDAwMDAsIkVOWk8gRkVSTsOBTkRFWiBQSURJw5MgUVVFIFNDQUxPTkkgUkVOVUVWRSBZIEhBQkzDkyBERUwgQURJw5NTIERFIE1FU1NJIl0": {
-      "account": "main",
-      "title": "ENZO FERNÁNDEZ PIDIÓ QUE SCALONI RENUEVE Y HABLÓ DEL ADIÓS DE MESSI",
-      "dueAt": "2026-09-23T16:15:00.000Z",
-      "bufferPostId": "6ab3fab1f0146f678d1b0fc4",
-      "createdAt": "2026-09-23T16:13:37.837Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJiYXNxdWV0IiwxNzkwMTc2MjAwMDAwLCJCT0NBIFlBIEVTVMOBIEVOIFNFTUlGSU5BTEVTIERFIExBIENPUEEgSU5URVJDT05USU5FTlRBTCBGSUJBIl0": {
-      "account": "main",
-      "title": "BOCA YA ESTÁ EN SEMIFINALES DE LA COPA INTERCONTINENTAL FIBA",
-      "dueAt": "2026-09-23T15:45:00.000Z",
-      "bufferPostId": "6ab3f2e16eda6e5e7d1bb740",
-      "createdAt": "2026-09-23T15:40:17.476Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-11T21:20:00.000Z",
-    "main": "2026-10-11T21:35:00.000Z"
+    "main": "2026-10-11T22:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-11T20:43:06.427Z"
+    "lastLinksRefreshAt": "2026-10-11T22:07:21.973Z"
   }
 }
