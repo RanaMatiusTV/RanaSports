@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTcxMzE2MDAwMCwiQ09MQVBJTlRPIEdBTsOTIFVOIExVR0FSIEVOIExBIEdSSUxMQSBERSBTSU5HQVBVUiBQT1IgTEEgU0FOQ0nDk04gQSBSVVNTRUxMIl0": {
+      "account": "f1",
+      "title": "COLAPINTO GANÓ UN LUGAR EN LA GRILLA DE SINGAPUR POR LA SANCIÓN A RUSSELL",
+      "dueAt": "2026-10-11T10:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acb5fefb07d37ac97a12b88",
+      "createdAt": "2026-10-11T10:07:43.904Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE3MTMxNjAwMDAsIlBBUkVERVMgU1VGUknDkyBVTiBERVNHQVJSTyBZIFNFIFBFUkRFUsOBIExBUyBTRU1JRklOQUxFUyBERSBCT0NBIl0": {
+      "account": "main",
+      "title": "PAREDES SUFRIÓ UN DESGARRO Y SE PERDERÁ LAS SEMIFINALES DE BOCA",
+      "dueAt": "2026-10-11T10:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acb5feff91f772d45c31b7e",
+      "createdAt": "2026-10-11T10:07:43.583Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJsaWdhIHByb2Zlc2lvbmFsIiwxNzkxNzEzMTYwMDAwLCJFU1RVRElBTlRFUyBERSBSw41PIENVQVJUTyBERVNDRU5EScOTIFRSQVMgUEVSREVSIENPTiBSSVZFUiJd": {
+      "account": "main",
+      "title": "ESTUDIANTES DE RÍO CUARTO DESCENDIÓ TRAS PERDER CON RIVER",
+      "dueAt": "2026-10-11T10:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acb5feed9cab260a7f2fb1f",
+      "createdAt": "2026-10-11T10:07:43.055Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTcxMzE2MDAwMCwiQUNVw5FBIE1BUkPDkyBFTCBHT0wgREVMIFRSSVVORk8gREUgUklWRVIgQU5URSBFU1RVRElBTlRFUyBERSBSw41PIENVQVJUTyJd": {
+      "account": "main",
+      "title": "ACUÑA MARCÓ EL GOL DEL TRIUNFO DE RIVER ANTE ESTUDIANTES DE RÍO CUARTO",
+      "dueAt": "2026-10-11T10:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acb5fedd9cab260a7f2faf6",
+      "createdAt": "2026-10-11T10:07:41.475Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTcxMzE2MDAwMCwiTUVTU0kgRklSTcOTIFVOIERPQkxFVEUgWSBHVUnDkyBFTCA0LTAgREUgSU5URVIgTUlBTUkgQU5URSBEQyBVTklURUQiXQ": {
+      "account": "main",
+      "title": "MESSI FIRMÓ UN DOBLETE Y GUIÓ EL 4-0 DE INTER MIAMI ANTE DC UNITED",
+      "dueAt": "2026-10-11T10:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acb5feced92ed8fa5fbf0d9",
+      "createdAt": "2026-10-11T10:07:40.958Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNzEzMTYwMDAwLCJJTkRFUEVORElFTlRFIFZJQUrDkyBBIEPDk1JET0JBIENPTiBTRUlTIENBTUJJT1MgRU4gTUVOVEUgUEFSQSBWSVNJVEFSIEEgVEFMTEVSRVMiXQ": {
+      "account": "main",
+      "title": "INDEPENDIENTE VIAJÓ A CÓRDOBA CON SEIS CAMBIOS EN MENTE PARA VISITAR A TALLERES",
+      "dueAt": "2026-10-11T10:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acb5feced92ed8fa5fbf0a4",
+      "createdAt": "2026-10-11T10:07:40.529Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE2MzkyNDAwMDAsIkRFRkVOU0EgWSBKVVNUSUNJQSBWRU5DScOTIDItMCBBIFVOScOTTiBZIFFVRUTDkyBBIERPUyBQVU5UT1MgREUgTEEgQ0lNQSBERUwgQ0xBVVNVUkEiXQ": {
       "account": "main",
       "title": "DEFENSA Y JUSTICIA VENCIÓ 2-0 A UNIÓN Y QUEDÓ A DOS PUNTOS DE LA CIMA DEL CLAUSURA",
@@ -5092,58 +5140,16 @@
       "dueAt": "2026-09-22T19:20:00.000Z",
       "bufferPostId": "6ab2d25d1e19ddcbdf0acbfc",
       "createdAt": "2026-09-22T19:09:18.006Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAxMDM3ODAwMDAsIlNDQUxPTkkgRElPIExBIFBSSU1FUkEgU0XDkUFMIFBPU0lUSVZBIFBBUkEgU0VHVUlSIEVOIExBIFNFTEVDQ0nDk04gREVTUFXDiVMgREUgRElDSUVNQlJFIl0": {
-      "account": "main",
-      "title": "SCALONI DIO LA PRIMERA SEÑAL POSITIVA PARA SEGUIR EN LA SELECCIÓN DESPUÉS DE DICIEMBRE",
-      "dueAt": "2026-09-22T19:15:00.000Z",
-      "bufferPostId": "6ab2d25dd98e7b46aec4e713",
-      "createdAt": "2026-09-22T19:09:17.589Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJqdWVnb3Mgc3VyYW1lcmljYW5vcyIsMTc5MDEwMDE4MDAwMCwiT1RSQSBQTEFUQSBQQVJBIEFSR0VOVElOQTogRUwgUkVMRVZPIE1JWFRPIDRYMTAwIFNVQknDkyBBTCBQT0RJTyBFTiBTQU5UQSBGRSAyMDI2Il0": {
-      "account": "main",
-      "title": "OTRA PLATA PARA ARGENTINA: EL RELEVO MIXTO 4X100 SUBIÓ AL PODIO EN SANTA FE 2026",
-      "dueAt": "2026-09-22T18:40:00.000Z",
-      "bufferPostId": "6ab2c87fd8f706980cdfeec4",
-      "createdAt": "2026-09-22T18:27:11.787Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wiLDE3OTAxMDAxODAwMDAsIkFGQSBQUk9ZRUNUQSBVTkEgTlVFVkEgQ09QQSBQQVJBIDIwMjcgWSBMQVMgU0VNSUZJTkFMRVMgREVMIENMQVVTVVJBIFNFUsOBTiBFTiBTRURFIE5FVVRSQUwiXQ": {
-      "account": "main",
-      "title": "AFA PROYECTA UNA NUEVA COPA PARA 2027 Y LAS SEMIFINALES DEL CLAUSURA SERÁN EN SEDE NEUTRAL",
-      "dueAt": "2026-09-22T18:35:00.000Z",
-      "bufferPostId": "6ab2c87fb451d21e9baa8ebf",
-      "createdAt": "2026-09-22T18:27:11.209Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJiYXNxdWV0IiwxNzkwMTAwMTgwMDAwLCJCT0NBIEFSUkFOQ8OTIENPTiBUT0RPIEVOIENISU5BOiA4OC03OCBBIEJFSUpJTkcgRU4gTEEgQ09QQSBJTlRFUkNPTlRJTkVOVEFMIl0": {
-      "account": "main",
-      "title": "BOCA ARRANCÓ CON TODO EN CHINA: 88-78 A BEIJING EN LA COPA INTERCONTINENTAL",
-      "dueAt": "2026-09-22T18:30:00.000Z",
-      "bufferPostId": "6ab2c87ee7978127345fec03",
-      "createdAt": "2026-09-22T18:27:10.465Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAwOTY1ODAwMDAsIk1FU1NJIE1PU1RSw5MgTEEgQ0FNSVNFVEEgRVNQRUNJQUwgREUgU1UgREVTUEVESURBOiBTT0wgR0lHQU5URSBZIEVMIDEwIEVOIERPUkFETyJd": {
-      "account": "main",
-      "title": "MESSI MOSTRÓ LA CAMISETA ESPECIAL DE SU DESPEDIDA: SOL GIGANTE Y EL 10 EN DORADO",
-      "dueAt": "2026-09-22T17:30:00.000Z",
-      "bufferPostId": "6ab2b8b3062917fee817bdbb",
-      "createdAt": "2026-09-22T17:19:47.421Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMDk2NTgwMDAwLCJJTkRFUEVORElFTlRFLCBERSBFWFRSRU1PIEEgRVhUUkVNTzogRVMgRUwgTUVKT1IgVklTSVRBTlRFIERFTCBDTEFVU1VSQSBZIFVOTyBERSBMT1MgUEVPUkVTIERFIExPQ0FMIl0": {
-      "account": "main",
-      "title": "INDEPENDIENTE, DE EXTREMO A EXTREMO: ES EL MEJOR VISITANTE DEL CLAUSURA Y UNO DE LOS PEORES DE LOCAL",
-      "dueAt": "2026-09-22T17:25:00.000Z",
-      "bufferPostId": "6ab2b8b21b467b83d918efb5",
-      "createdAt": "2026-09-22T17:19:46.485Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-10T13:50:00.000Z",
-    "main": "2026-10-10T14:05:00.000Z"
+    "f1": "2026-10-11T10:15:00.000Z",
+    "main": "2026-10-11T10:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-11T07:03:45.840Z"
+    "lastLinksRefreshAt": "2026-10-11T10:07:39.871Z"
   }
 }
