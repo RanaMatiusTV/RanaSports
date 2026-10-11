@@ -409,15 +409,14 @@
   }
  }
  function render(news){
-  news=news.filter(item=>!REVOKED_ARTICLE_IDS.has(new URL(articleURL(item)).searchParams.get('n')));
+  news=news.filter(item=>!REVOKED_ARTICLE_IDS.has(new URL(articleURL(item)).searchParams.get('n'))).sort((a,b)=>b.date-a.date);
   currentNews=news;
   if(detail){renderDetail(news);document.dispatchEvent(new Event('ranasports:news-updated'));return;}if(!grid)return;const fragment=document.createDocumentFragment();
   const query=normalize(searchInput?.value||'');
   const eventOnly=decodeURIComponent(location.hash.slice(1))==='suramericanos-2026';
   let filtered=eventOnly?news.filter(item=>item.isSuramericanos):news;if(query)filtered=filtered.filter(item=>matchesSearch(item,query));
-  const head=filtered.slice(0,renderLimit);
-  const pinned=(query||eventOnly)?[]:filtered.filter(item=>item.featured&&!head.includes(item)).slice(0,8);
-  const visibleNews=[...head,...pinned].sort((a,b)=>b.date-a.date);
+  // No adelantar destacadas antiguas: la portada se recorre solo por fecha y hora.
+  const visibleNews=filtered.slice(0,renderLimit);
   visibleNews.forEach((item,index)=>{const card=element('article','news-card');card.dataset.category=item.group;card.dataset.sport=item.category;card.dataset.suramericanos=item.isSuramericanos?'1':'0';card.dataset.featured=item.featured?'1':'0';const body=element('div','card-body');
    {const candidates=fallbackVisualCandidates(item),primary=candidates.shift()||'';if(primary){const visual=link(articleURL(item),'','card-visual news-image'),img=element('img');img.alt=item.title;img.width=800;img.height=450;img.loading=index<4?'eager':'lazy';if(index<2)img.fetchPriority='high';img.decoding='async';img.referrerPolicy='no-referrer';imageWithFallback(img,primary,candidates,()=>{visual.remove();queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));});visual.append(img);card.append(visual);}else{queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));}}
    const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':item.category==='agenda'?'badge-agenda':'badge-site'),item.sport));const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);body.append(meta);const heading=element('h3');heading.append(link(articleURL(item),item.title));body.append(heading,element('p','news-excerpt',item.summary));const actions=element('div','hero-actions');actions.append(link(articleURL(item),'Leer →','read-more'));body.append(actions);card.append(body);fragment.append(card);});
