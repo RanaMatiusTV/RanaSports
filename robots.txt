@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://ranasports.com.ar/sitemap.xml
+Sitemap: https://ranasports.com.ar/sitemap-news.xml
