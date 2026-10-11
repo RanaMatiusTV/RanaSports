@@ -1,5 +1,5 @@
 RanaSports Radar 1 → GitHub Sync
-Fecha y hora ARG: 2026-10-11 15:06
-Altas verificadas: 7
-Última noticia: UN JUGADOR DE VASCO SUFRIÓ UN ACCIDENTE Y SERÁ BAJA ANTE BOCA
-Filas: Noticias!2921:2927
+Fecha y hora ARG: 2026-10-11 17:04:31
+Altas verificadas: 8
+Última noticia: SAN LORENZO GANÓ, PERO SUS HINCHAS RECIBIERON AL EQUIPO CON FUERTES CÁNTICOS
+Filas: Noticias!2928:2935
