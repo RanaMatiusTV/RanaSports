@@ -64,7 +64,7 @@ jobs:
           def stamp(row):
               d=row[1].strip()
               t=row[2].strip()
-              for fmt in ('%d/%m/%Y %H:%M','%Y-%m-%d %H:%M'):
+              for fmt in ('%d/%m/%Y %H:%M:%S','%d/%m/%Y %H:%M','%Y-%m-%d %H:%M:%S','%Y-%m-%d %H:%M'):
                   try:
                       return datetime.datetime.strptime(f'{d} {t}', fmt)
                   except ValueError:
