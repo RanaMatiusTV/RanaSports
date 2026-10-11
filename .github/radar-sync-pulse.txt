@@ -1,5 +1,5 @@
 RanaSports Radar 1 → GitHub Sync
-Fecha y hora ARG: 2026-10-11 13:03
-Altas verificadas: 6
-Última noticia: LIVERPOOL Y MANCHESTER CITY SE ENFRENTAN EN ANFIELD POR LA PREMIER LEAGUE
-Filas: Noticias!2915:2920
+Fecha y hora ARG: 2026-10-11 15:06
+Altas verificadas: 7
+Última noticia: UN JUGADOR DE VASCO SUFRIÓ UN ACCIDENTE Y SERÁ BAJA ANTE BOCA
+Filas: Noticias!2921:2927
