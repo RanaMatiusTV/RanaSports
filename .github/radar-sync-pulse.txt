@@ -1,5 +1,5 @@
 RanaSports Radar 1 → GitHub Sync
-Fecha y hora ARG: 2026-10-11 23:07:06
-Altas verificadas: 6
-Última noticia: HAMILTON RECIBIÓ ATENCIÓN MÉDICA Y ASUMIÓ SU ERROR EN SINGAPUR
-Filas: Noticias!2948:2953
+Fecha y hora ARG: 2026-10-12 00:51:00
+Altas verificadas: 8
+Última noticia: GIMNASIA DE MENDOZA Y NEWELL'S JUEGAN UN CRUCE DIRECTO POR LOS PLAYOFFS
+Filas: Noticias!2954:2961
