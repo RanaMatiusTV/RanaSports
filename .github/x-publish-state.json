@@ -1,6 +1,70 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJoaXN0b3JpYXMiLDE3OTE4MjIwNjAwMDAsIkJBU0FOVEEgUEFTw5MgREVMIFNVQkNBTVBFT05BVE8gTVVORElBTCBDT04gQVJHRU5USU5BIEEgTEEgR0FOQURFUsONQSBZIExBUyBDQU5DSEFTIERFIFDDgURFTCJd": {
+      "account": "main",
+      "title": "BASANTA PASÓ DEL SUBCAMPEONATO MUNDIAL CON ARGENTINA A LA GANADERÍA Y LAS CANCHAS DE PÁDEL",
+      "dueAt": "2026-10-12T17:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd08b77562cfd84bc2a6c7",
+      "createdAt": "2026-10-12T16:20:07.168Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE4MjIwMzAwMDAsIkxPUyBSRVNVTFRBRE9TIERFIExBIEZFQ0hBIERFSkFST04gQSBCT0NBIFNFR1VORE8gWSBBIFVOIFBVTlRPIERFIExBIENJTUEgRU4gTEEgVEFCTEEgQU5VQUwiXQ": {
+      "account": "main",
+      "title": "LOS RESULTADOS DE LA FECHA DEJARON A BOCA SEGUNDO Y A UN PUNTO DE LA CIMA EN LA TABLA ANUAL",
+      "dueAt": "2026-10-12T16:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd08b68d977281b7cbb582",
+      "createdAt": "2026-10-12T16:20:06.444Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJjb3BhIGxpYmVydGFkb3JlcyIsMTc5MTgyMjAwMDAwMCwiTUFSQ09TIFJPSk8gSlVHQVLDgSBTVSBURVJDRVJBIFNFTUlGSU5BTCBERSBMSUJFUlRBRE9SRVMgRU4gQ1VBVFJPIEHDkU9TIFkgQ09OIFRSRVMgQ0xVQkVTIl0": {
+      "account": "main",
+      "title": "MARCOS ROJO JUGARÁ SU TERCERA SEMIFINAL DE LIBERTADORES EN CUATRO AÑOS Y CON TRES CLUBES",
+      "dueAt": "2026-10-12T16:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd08b561aba56bcacdb6cb",
+      "createdAt": "2026-10-12T16:20:06.067Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgyMTk3MDAwMCwiSlVMScOBTiDDgUxWQVJFWiBMTEVWQSBDQVNJIE1FRElPIEHDkU8gU0lOIE1BUkNBUiBQQVJBIEFUTMOJVElDTyBERSBNQURSSUQiXQ": {
+      "account": "main",
+      "title": "JULIÁN ÁLVAREZ LLEVA CASI MEDIO AÑO SIN MARCAR PARA ATLÉTICO DE MADRID",
+      "dueAt": "2026-10-12T16:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd08b58d977281b7cbb4fb",
+      "createdAt": "2026-10-12T16:20:05.481Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE4MjE5NDAwMDAsIlVMSVNFUyBHSU3DiU5FWiBOTyBKVUdBUsOBIFBBUkEgU0FSTUlFTlRPIEFOVEUgUklWRVIgUE9SIFVOQSBDTMOBVVNVTEEgREUgMzAwIE1JTCBEw5NMQVJFUyJd": {
+      "account": "main",
+      "title": "ULISES GIMÉNEZ NO JUGARÁ PARA SARMIENTO ANTE RIVER POR UNA CLÁUSULA DE 300 MIL DÓLARES",
+      "dueAt": "2026-10-12T16:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd08b47562cfd84bc2a600",
+      "createdAt": "2026-10-12T16:20:05.031Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJjb3BhIHN1ZGFtZXJpY2FuYSIsMTc5MTgyMTkxMDAwMCwiU0FOVElBR08gU09TQSBESUpPIFFVRSBMQSBBVVNFTkNJQSBERSBQQVJFREVTIEVTIFVOQSBWRU5UQUpBIFBBUkEgVkFTQ08gQU5URSBCT0NBIl0": {
+      "account": "main",
+      "title": "SANTIAGO SOSA DIJO QUE LA AUSENCIA DE PAREDES ES UNA VENTAJA PARA VASCO ANTE BOCA",
+      "dueAt": "2026-10-12T16:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd08b47562cfd84bc2a5b5",
+      "createdAt": "2026-10-12T16:20:04.592Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE4MjE4ODAwMDAsIk1BUkFWSUxMQSBNQVJUw41ORVogQ0FMSUZJQ8OTIEVMIENMw4FTSUNPIENPTiBJTkRFUEVORElFTlRFIENPTU8g4oCcTEEgRklOQUwgREVMIE1VTkRP4oCdIl0": {
+      "account": "main",
+      "title": "MARAVILLA MARTÍNEZ CALIFICÓ EL CLÁSICO CON INDEPENDIENTE COMO “LA FINAL DEL MUNDO”",
+      "dueAt": "2026-10-12T16:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd08b324350a9dcf64d173",
+      "createdAt": "2026-10-12T16:20:04.070Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE4MjE4NTAwMDAsIkNVTE9UVEEgREVTTUlOVEnDkyBTVSBSRU5VTkNJQSBZIEFETUlUScOTIFFVRSBTQU4gTE9SRU5aTyBFVkFMw5pBIFVOQSBDT05WT0NBVE9SSUEgREUgQUNSRUVET1JFUyJd": {
+      "account": "main",
+      "title": "CULOTTA DESMINTIÓ SU RENUNCIA Y ADMITIÓ QUE SAN LORENZO EVALÚA UNA CONVOCATORIA DE ACREEDORES",
+      "dueAt": "2026-10-12T16:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd08b37562cfd84bc2a51d",
+      "createdAt": "2026-10-12T16:20:03.382Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgxNDI4OTAwMCwiRUwgS0lMWSBSRVZFTMOTIFFVRSBBIE1FU1NJIExPIEVOVFVTSUFTTUEgSlVHQVIgTEEgTElCRVJUQURPUkVTIENPTiBJTlRFUiBNSUFNSSJd": {
       "account": "main",
       "title": "EL KILY REVELÓ QUE A MESSI LO ENTUSIASMA JUGAR LA LIBERTADORES CON INTER MIAMI",
@@ -5285,76 +5349,16 @@
       "dueAt": "2026-09-24T15:25:00.000Z",
       "bufferPostId": "6ab5400a1af2d8014e2d53ab",
       "createdAt": "2026-09-24T15:21:46.338Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNDU5ODAwMDAsIlNDQUxPTkkgVElFTkUgMzMgSlVHQURPUkVTIERJU1BPTklCTEVTOiBBU8ONIFFVRURBUk9OIExBUyBWQVJJQU5URVMgREUgTEEgU0VMRUNDScOTTiJd": {
-      "account": "main",
-      "title": "SCALONI TIENE 33 JUGADORES DISPONIBLES: ASÍ QUEDARON LAS VARIANTES DE LA SELECCIÓN",
-      "dueAt": "2026-09-24T14:30:00.000Z",
-      "bufferPostId": "6ab531a0d0d12c23fa5bdacf",
-      "createdAt": "2026-09-24T14:20:17.201Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMjQ1OTgwMDAwLCJERSBMQVMgTElCRVJUQURPUkVTIENPTiBJTkRFUEVORElFTlRFIEEgVU4gQkFSIEVOIEFSRVFVSVRPOiBMQSBISVNUT1JJQSBERSBIVUdPIFNBR0dJT1JBVFRPIl0": {
-      "account": "main",
-      "title": "DE LAS LIBERTADORES CON INDEPENDIENTE A UN BAR EN AREQUITO: LA HISTORIA DE HUGO SAGGIORATTO",
-      "dueAt": "2026-09-24T14:25:00.000Z",
-      "bufferPostId": "6ab531a0047a2dd58cd1d69d",
-      "createdAt": "2026-09-24T14:20:16.630Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjb3BhIGFyZ2VudGluYSIsMTc5MDI0OTcwMDAwMCwiQk9DQeKAk1JBQ0lORyBZQSBUSUVORSDDgVJCSVRSTzogR0FSw41BTk8gRElSSUdJUsOBIEVMIENSVUNFIERFTCBET01JTkdPIEVOIFJPU0FSSU8iXQ": {
-      "account": "main",
-      "title": "BOCA–RACING YA TIENE ÁRBITRO: GARÍANO DIRIGIRÁ EL CRUCE DEL DOMINGO EN ROSARIO",
-      "dueAt": "2026-09-24T12:30:00.000Z",
-      "bufferPostId": "6ab51784c5da0890db82a380",
-      "createdAt": "2026-09-24T12:28:53.028Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MDIxNzkwMDAwMCwiSU5Tw5NMSVRPIEVOIEJPTElWSUE6IFVOIEFSUVVFUk8gQVJHRU5USU5PIERFSsOTIFFVRSBMRSBISUNJRVJBTiBVTiBQRU5BTCBFTiBQUk9URVNUQSBZIFNVU1BFTkRJRVJPTiBBTCDDgVJCSVRSTyJd": {
-      "account": "main",
-      "title": "INSÓLITO EN BOLIVIA: UN ARQUERO ARGENTINO DEJÓ QUE LE HICIERAN UN PENAL EN PROTESTA Y SUSPENDIERON AL ÁRBITRO",
-      "dueAt": "2026-09-24T11:55:00.000Z",
-      "bufferPostId": "6ab50f47a4b44bcbaec45bd5",
-      "createdAt": "2026-09-24T11:53:43.719Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI0MDcwMDAwMCwiQ09MQVBJTlRPIEFSUkFOQ0EgRU4gQkFLw5o6IFVOIEZJTiBERSBTRU1BTkEgQVTDjVBJQ08gREUgRjEgQ09OIENBUlJFUkEgRUwgU8OBQkFETyJd": {
-      "account": "f1",
-      "title": "COLAPINTO ARRANCA EN BAKÚ: UN FIN DE SEMANA ATÍPICO DE F1 CON CARRERA EL SÁBADO",
-      "dueAt": "2026-09-24T11:45:00.000Z",
-      "bufferPostId": "6ab50c7e5a88b19996245abc",
-      "createdAt": "2026-09-24T11:41:50.331Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103088335589687671",
-      "sentAt": "2026-09-24T11:45:07.645Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzYW50YSBmZSAyMDI2IiwxNzkwMjQwNzAwMDAwLCJBUkdFTlRJTkEgVkEgUE9SIE3DgVMgTUVEQUxMQVM6IEFHRU5EQSBDT01QTEVUQSBERUwgSlVFVkVTIEVOIFNBTlRBIEZFIDIwMjYiXQ": {
-      "account": "main",
-      "title": "ARGENTINA VA POR MÁS MEDALLAS: AGENDA COMPLETA DEL JUEVES EN SANTA FE 2026",
-      "dueAt": "2026-09-24T10:35:00.000Z",
-      "bufferPostId": "6ab4fc188c1ce9654ae3d687",
-      "createdAt": "2026-09-24T10:31:52.960Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjb3BhIGFyZ2VudGluYSIsMTc5MDI0NDM2MDAwMCwiVsOJTEVaIEFQRUxBIFkgUElERSBGUkVOQVIgUkFDSU5H4oCTQk9DQSBIQVNUQSBRVUUgU0UgUkVTVUVMVkEgRUwgUkVDTEFNTyJd": {
-      "account": "main",
-      "title": "VÉLEZ APELA Y PIDE FRENAR RACING–BOCA HASTA QUE SE RESUELVA EL RECLAMO",
-      "dueAt": "2026-09-24T10:25:00.000Z",
-      "bufferPostId": "6ab4f850a3079861f480b00a",
-      "createdAt": "2026-09-24T10:15:44.217Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI0NDM2MDAwMCwiQ09MQVBJTlRPIEZVRSAxOMKwIEVOIExBIEZQMSBERSBCQUvDmjogUlVTU0VMTCBNQVJDw5MgRUwgUklUTU8gWSBBTFBJTkUgUVVFRMOTIEFUUsOBUyJd": {
-      "account": "f1",
-      "title": "COLAPINTO FUE 18° EN LA FP1 DE BAKÚ: RUSSELL MARCÓ EL RITMO Y ALPINE QUEDÓ ATRÁS",
-      "dueAt": "2026-09-24T10:20:00.000Z",
-      "bufferPostId": "6ab4f84fa3079861f480afe2",
-      "createdAt": "2026-09-24T10:15:43.800Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103066919938977915",
-      "sentAt": "2026-09-24T10:20:01.773Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-12T10:20:00.000Z",
-    "main": "2026-10-12T14:45:00.000Z"
+    "main": "2026-10-12T17:05:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-12T14:12:50.848Z"
+    "lastLinksRefreshAt": "2026-10-12T16:20:02.682Z"
   }
 }
