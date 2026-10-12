@@ -1,4 +1,4 @@
-name: Validate three X accounts without posting
+name: Validate three X channels and armed distributor (no eligible posts)
 on:
   push:
     paths:
@@ -17,7 +17,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Validate code and disabled state
+      - name: Validate code and scheduled activation gate
         run: |
           node --check scripts/distribute-x.cjs
           node scripts/distribute-x.cjs
