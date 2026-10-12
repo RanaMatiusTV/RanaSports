@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-11T23:10:20.983Z",
+  "updatedAt": "2026-10-12T02:22:59.562Z",
   "trends": [
     {
-      "query": "turf",
-      "startedAt": "2026-10-11T22:40:00.000Z",
+      "query": "sorteo telekino",
+      "startedAt": "2026-10-12T01:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "madre",
+      "startedAt": "2026-10-12T01:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "pumas - cruz azul",
+      "startedAt": "2026-10-12T01:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "américa - medellín",
+      "startedAt": "2026-10-12T01:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "cinemacenter",
-      "startedAt": "2026-10-11T22:40:00.000Z",
+      "query": "corriente del niño",
+      "startedAt": "2026-10-12T00:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "pampita",
+      "startedAt": "2026-10-12T00:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "masterchef hoy",
+      "startedAt": "2026-10-12T00:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "cotización",
-      "startedAt": "2026-10-11T22:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "bahía - mirassol",
-      "startedAt": "2026-10-11T22:30:00.000Z",
+      "query": "mudo vazquez",
+      "startedAt": "2026-10-12T00:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "jesica cirio",
-      "startedAt": "2026-10-11T22:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "aluvión",
-      "startedAt": "2026-10-11T22:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "dinero",
-      "startedAt": "2026-10-11T22:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gran premio de los estados unidos",
-      "startedAt": "2026-10-11T22:20:00.000Z",
+      "query": "posiciones de liga de quito contra barcelona sc",
+      "startedAt": "2026-10-11T23:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "luis novaresio",
-      "startedAt": "2026-10-11T22:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "palmeiras vs",
-      "startedAt": "2026-10-11T21:50:00.000Z",
-      "volume": 100
+      "query": "talleres - independiente",
+      "startedAt": "2026-10-11T23:30:00.000Z",
+      "volume": 100000
     }
   ]
 }
