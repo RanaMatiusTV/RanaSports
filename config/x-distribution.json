@@ -1,0 +1,48 @@
+{
+  "enabled": false,
+  "dryRun": true,
+  "timezone": "America/Argentina/Buenos_Aires",
+  "activationAt": null,
+  "source": "assets/news-live.csv",
+  "buffer": {
+    "mainHandle": "RanaMatiusTV",
+    "f1Handle": "RanaF1TV",
+    "sportsHandle": "RanaSportsAR"
+  },
+  "accounts": {
+    "main": {
+      "label": "Independiente",
+      "dailyTarget": 7,
+      "dailyMax": 7,
+      "hourlyMax": 1,
+      "minGapMinutes": 60
+    },
+    "f1": {
+      "label": "F1/F2/F3",
+      "dailyTargetMin": 8,
+      "dailyMax": 12,
+      "hourlyMax": 2,
+      "minGapMinutes": 30
+    },
+    "sports": {
+      "label": "Resto del deporte",
+      "dailyTargetMin": 24,
+      "dailyMax": 30,
+      "hourlyMax": 2,
+      "minGapMinutes": 30
+    }
+  },
+  "selection": {
+    "maxAgeHours": 6,
+    "carryOverHours": 3,
+    "ignorePreActivation": true,
+    "duplicateAcrossAccounts": false,
+    "minimumScore": 1
+  },
+  "safety": {
+    "shareNow": false,
+    "haltOnBufferError": true,
+    "neverFlushOverflow": true,
+    "manualAccountPostsMayCountTowardXLimits": true
+  }
+}
