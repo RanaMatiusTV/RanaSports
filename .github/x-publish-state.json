@@ -1,13 +1,63 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE4MDcyNTcwMDAsIkJPQ0EgUkVDSUJFIEEgVkFTQ08gRU4gTEEgSURBIERFIExBUyBTRU1JRklOQUxFUyBERSBMQSBTVURBTUVSSUNBTkEiXQ": {
+      "account": "main",
+      "title": "BOCA RECIBE A VASCO EN LA IDA DE LAS SEMIFINALES DE LA SUDAMERICANA",
+      "dueAt": "2026-10-12T12:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acccf880543a6114d44b8e7",
+      "createdAt": "2026-10-12T12:16:08.441Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJoaXN0b3JpYXMiLDE3OTE4MDcyNTYwMDAsIkpPU1XDiSBBWUFMQSBQQVPDkyBERSBTRVIgQ0FNUEXDk04gQ09OIEJPQ0EgQSBBVEFKQVIgRU4gVE9STkVPUyBCQVJSSUFMRVMiXQ": {
+      "account": "main",
+      "title": "JOSUÉ AYALA PASÓ DE SER CAMPEÓN CON BOCA A ATAJAR EN TORNEOS BARRIALES",
+      "dueAt": "2026-10-12T12:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acccf87355aa51967895723",
+      "createdAt": "2026-10-12T12:16:08.043Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE4MDcyNTUwMDAsIk1BUlRFR0FOSSBZIFpFTsOTTiBSRUNVUEVSQVJPTiBQUk9UQUdPTklTTU8gTEVKT1MgREUgQk9DQSJd": {
+      "account": "main",
+      "title": "MARTEGANI Y ZENÓN RECUPERARON PROTAGONISMO LEJOS DE BOCA",
+      "dueAt": "2026-10-12T12:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acccf84bc52bd4504db3a4c",
+      "createdAt": "2026-10-12T12:16:06.596Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE4MDcyNTQwMDAsIkNBVUFOIEJBUlJPUyBUVVZPIFVOIEFDQ0lERU5URSBZIFNFUsOBIEJBSkEgRU4gVkFTQ08gQU5URSBCT0NBIl0": {
+      "account": "main",
+      "title": "CAUAN BARROS TUVO UN ACCIDENTE Y SERÁ BAJA EN VASCO ANTE BOCA",
+      "dueAt": "2026-10-12T12:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acccf83bc52bd4504db3a0f",
+      "createdAt": "2026-10-12T12:16:03.877Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJhc2NlbnNvIiwxNzkxODA3MjUzMDAwLCJHw5xFTUVTIERFU0NFTkRJw5MgQUwgRkVERVJBTCBBIFkgUVVFREFOIFRSRVMgTFVHQVJFUyBFTiBKVUVHTyJd": {
+      "account": "main",
+      "title": "GÜEMES DESCENDIÓ AL FEDERAL A Y QUEDAN TRES LUGARES EN JUEGO",
+      "dueAt": "2026-10-12T12:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acccf83fcd88e54a94740b0",
+      "createdAt": "2026-10-12T12:16:03.447Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE4MDcyNTIwMDAsIkFMRVggTFVOQSBTRSBMTEVWw5MgTEFTIENBTUlTRVRBUyBERSBQQVJFREVTIFkgRkxPUkVTIFRSQVMgRUwgRU1QQVRFIl0": {
+      "account": "main",
+      "title": "ALEX LUNA SE LLEVÓ LAS CAMISETAS DE PAREDES Y FLORES TRAS EL EMPATE",
+      "dueAt": "2026-10-12T12:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acccf82355aa51967895676",
+      "createdAt": "2026-10-12T12:16:03.006Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkxNzk5ODE0MDAwLCJOSUNPTMOBUyBWQVJST05FIERFRklOScOTIFNVIEZVVFVSTyBZIFZPTFZFUsOBIEEgQ09SUkVSIEVOIFJFU0lTVEVOQ0lBIEVOIDIwMjciXQ": {
       "account": "f1",
       "title": "NICOLÁS VARRONE DEFINIÓ SU FUTURO Y VOLVERÁ A CORRER EN RESISTENCIA EN 2027",
       "dueAt": "2026-10-12T10:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6accb24f0b395b96ab070402",
-      "createdAt": "2026-10-12T10:11:27.940Z"
+      "createdAt": "2026-10-12T10:11:27.940Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2109588692868223338",
+      "sentAt": "2026-10-12T10:15:13.521Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJhc2NlbnNvIiwxNzkxNzk5ODEzMDAwLCJUUkVTIEVYUFVMU0FET1MsIEdPTCBBR8OTTklDTyBFIElOQ0lERU5URVMgRU4gQ0lQT0xMRVRUSS1BTFZBUkFETyJd": {
       "account": "main",
@@ -23,7 +73,9 @@
       "dueAt": "2026-10-12T10:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6accb24ea0f0173687a8a367",
-      "createdAt": "2026-10-12T10:11:26.603Z"
+      "createdAt": "2026-10-12T10:11:26.603Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109592449467183438",
+      "sentAt": "2026-10-12T10:30:09.236Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE3OTk4MTEwMDAsIlZJRVJBIFZBTE9Sw5MgTEEgQUNUSVRVRCBERSBJTkRFUEVORElFTlRFIFkgUFVTTyBFTCBDTMOBU0lDTyBDT04gUkFDSU5HIEVOIEVMIENFTlRSTyJd": {
       "account": "main",
@@ -31,7 +83,9 @@
       "dueAt": "2026-10-12T10:25:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6accb24ed454f86ad9b9d34c",
-      "createdAt": "2026-10-12T10:11:26.164Z"
+      "createdAt": "2026-10-12T10:11:26.164Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109591159475437943",
+      "sentAt": "2026-10-12T10:25:01.623Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE3OTk4MTYwMDAsIkpPQVFVw41OIFJFSU5PU08sIExBIFBST01FU0EgTkFDSURBIEVOIE5VRVZBIFpFTEFOREEgUVVFIEVMSUdJw5MgSlVHQVIgUEFSQSBBUkdFTlRJTkEiXQ": {
       "account": "main",
@@ -39,7 +93,9 @@
       "dueAt": "2026-10-12T10:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6accb24dccd31a0d0ed34f99",
-      "createdAt": "2026-10-12T10:11:25.676Z"
+      "createdAt": "2026-10-12T10:11:25.676Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109589903390515612",
+      "sentAt": "2026-10-12T10:20:02.158Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE3OTk4MTUwMDAsIkVMIEVNT0NJT05BTlRFIE1FTlNBSkUgREVMIERJQlUgTUFSVMONTkVaIEEgTUVTU0kgRU4gTEEgQ0FNSVNFVEEgREUgU1UgREVTUEVESURBIl0": {
       "account": "main",
@@ -47,7 +103,9 @@
       "dueAt": "2026-10-12T10:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6accb24d0b395b96ab070381",
-      "createdAt": "2026-10-12T10:11:25.184Z"
+      "createdAt": "2026-10-12T10:11:25.184Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109588689273704863",
+      "sentAt": "2026-10-12T10:15:12.685Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJsaWdhIHByb2Zlc2lvbmFsIiwxNzkxNzc2OTQwMDAwLCJHSU1OQVNJQSBERSBNRU5ET1pBIFkgTkVXRUxMJ1MgSlVFR0FOIFVOIENSVUNFIERJUkVDVE8gUE9SIExPUyBQTEFZT0ZGUyJd": {
       "account": "main",
@@ -5283,58 +5341,16 @@
       "dueAt": "2026-09-24T06:30:00.000Z",
       "bufferPostId": "6ab4c2d81a0af48426258310",
       "createdAt": "2026-09-24T06:27:36.280Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJoYW5kYmFsbCIsMTc5MDIxNTUwMDAwMCwiVFJJVU5GQVpPIERFIExPUyBHTEFESUFET1JFUzogMTgtMTcgQSBCUkFTSUwgRU4gVU4gQ0zDgVNJQ08gUEFSQSBFTCBJTkZBUlRPIl0": {
-      "account": "main",
-      "title": "TRIUNFAZO DE LOS GLADIADORES: 18-17 A BRASIL EN UN CLÁSICO PARA EL INFARTO",
-      "dueAt": "2026-09-24T02:55:00.000Z",
-      "bufferPostId": "6ab48fad521044626fe1fca0",
-      "createdAt": "2026-09-24T02:49:17.989Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzYW50YSBmZSAyMDI2IiwxNzkwMjE1NTAwMDAwLCJBUkdFTlRJTkEgQ0VSUsOTIEVMIE1Jw4lSQ09MRVMgQ09OIDIwOSBNRURBTExBUzogNTQgT1JPUyBZIFNFR1VORE8gUFVFU1RPIEVOIFNBTlRBIEZFIDIwMjYiXQ": {
-      "account": "main",
-      "title": "ARGENTINA CERRÓ EL MIÉRCOLES CON 209 MEDALLAS: 54 OROS Y SEGUNDO PUESTO EN SANTA FE 2026",
-      "dueAt": "2026-09-24T02:35:00.000Z",
-      "bufferPostId": "6ab48959521044626fe16c76",
-      "createdAt": "2026-09-24T02:22:17.689Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzb2Z0Ym9sIiwxNzkwMjE1NTAwMDAwLCJBUkdFTlRJTkEgU0lHVUUgSU5WSUNUQTogNC0yIEEgVkVORVpVRUxBIFkgTFVHQVIgQVNFR1VSQURPIEVOIExBIEZJTkFMIERFTCBTw5NGVEJPTCJd": {
-      "account": "main",
-      "title": "ARGENTINA SIGUE INVICTA: 4-2 A VENEZUELA Y LUGAR ASEGURADO EN LA FINAL DEL SÓFTBOL",
-      "dueAt": "2026-09-24T02:30:00.000Z",
-      "bufferPostId": "6ab48957153ba7c8a695491f",
-      "createdAt": "2026-09-24T02:22:15.564Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ0ZW5pcyBkZSBtZXNhIiwxNzkwMjE1NTAwMDAwLCJDSUZVRU5URVMgRVMgREUgT1JPOiBMRSBHQU7DkyA0LTMgQSBMT1JFTlpPIEVOIFVOQSBGSU5BTCBBUkdFTlRJTkEgUEFSQSBFTCBSRUNVRVJETyJd": {
-      "account": "main",
-      "title": "CIFUENTES ES DE ORO: LE GANÓ 4-3 A LORENZO EN UNA FINAL ARGENTINA PARA EL RECUERDO",
-      "dueAt": "2026-09-24T02:25:00.000Z",
-      "bufferPostId": "6ab48954514df3bc1ec99274",
-      "createdAt": "2026-09-24T02:22:12.695Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJyYWNpbmciLDE3OTAyMTE5MDAwMDAsIlJBQ0lOR-KAk0JPQ0E6IFNFIEFHT1RBUk9OIExBUyBQTEFURUFTIFkgUVVFREFOIExBUyDDmkxUSU1BUyBQT1BVTEFSRVMgUEFSQSBMQSBBQ0FERU1JQSJd": {
-      "account": "main",
-      "title": "RACING–BOCA: SE AGOTARON LAS PLATEAS Y QUEDAN LAS ÚLTIMAS POPULARES PARA LA ACADEMIA",
-      "dueAt": "2026-09-24T01:30:00.000Z",
-      "bufferPostId": "6ab4792a521044626fdfdc83",
-      "createdAt": "2026-09-24T01:13:15.120Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdGxldGlzbW8iLDE3OTAyMTE5MDAwMDAsIk1JQ0FFTEEgTEVWQUdHSSBFUyBERSBPUk86IEdBTsOTIExPUyAxLjUwMCBZIExFIERJTyBBIEFSR0VOVElOQSBTVSBQUklNRVIgVMONVFVMTyBFTiBBVExFVElTTU8iXQ": {
-      "account": "main",
-      "title": "MICAELA LEVAGGI ES DE ORO: GANÓ LOS 1.500 Y LE DIO A ARGENTINA SU PRIMER TÍTULO EN ATLETISMO",
-      "dueAt": "2026-09-24T01:25:00.000Z",
-      "bufferPostId": "6ab479294ee8bfc2fd25a896",
-      "createdAt": "2026-09-24T01:13:14.053Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-12T10:20:00.000Z",
-    "main": "2026-10-12T10:40:00.000Z"
+    "main": "2026-10-12T12:50:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-12T10:11:23.515Z"
+    "lastLinksRefreshAt": "2026-10-12T12:16:02.330Z"
   }
 }
