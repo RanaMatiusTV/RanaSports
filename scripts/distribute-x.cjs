@@ -482,9 +482,12 @@ async function main() {
  const candidates=[];
  for(const item of news){
   if(item.date<activation || item.date>now || now-item.date>cfg.selection.maxAgeHours*3600000)continue;
+  const account=accountFor(item);
+  const accountActivation=Date.parse(cfg.accounts[account]?.activationAt || cfg.activationAt);
+  if(!Number.isFinite(accountActivation) || now < accountActivation || item.date < accountActivation)continue;
   const url=articleURL(item),legacy=legacyArticleURL(item);
   if(state.processed[url]||state.processed[legacy])continue;
-  candidates.push({item,url,account:accountFor(item),score:score(item)});
+  candidates.push({item,url,account,score:score(item)});
  }
  candidates.sort((a,b)=>b.score-a.score || b.item.date-a.item.date);
  const slots=targets({...cfg,_state:state},now);
