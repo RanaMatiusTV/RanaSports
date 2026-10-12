@@ -19,7 +19,7 @@ jobs:
       - name: Publish exactly one current sports article (never retry)
         run: |
           node <<'NODE'
-          const fs=require('fs'),config=JSON.parse(fs.readFileSync('config/x-distribution.json','utf8'));
+          (async()=>{const fs=require('fs'),config=JSON.parse(fs.readFileSync('config/x-distribution.json','utf8'));
           if(config.enabled||!config.dryRun)throw Error('Stop: regular distribution is active');
           const token=process.env.BUFFER_API_KEY,org='6aa4288ba2d30cc3deb9575b';
           if(!token)throw Error('Missing API');
@@ -56,4 +56,5 @@ jobs:
             const x=(await gql('query{posts(first:100,input:{organizationId:"'+org+'",filter:{channelIds:["'+target.id+'"],status:[sent,error]}}){edges{node{id status externalLink}}}}'))?.posts?.edges?.map(e=>e.node).find(p=>p.id===id);
             if(x){console.log('ONE_TEST_STATUS='+x.status+' LINK='+(x.externalLink||'none'));if(x.status==='error')process.exitCode=1;break;}
           }
+          })().catch(e=>{console.error(e.message);process.exitCode=1});
           NODE
