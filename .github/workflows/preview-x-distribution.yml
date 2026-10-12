@@ -1,0 +1,19 @@
+name: Preview X three-account distribution (no publishing)
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/preview-x-distribution.yml'
+permissions:
+  contents: read
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Dry-run selector (no Buffer secret and no publication)
+        run: node scripts/plan-x-distribution.cjs
