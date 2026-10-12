@@ -497,7 +497,7 @@ async function main() {
   if(!slot || failed.has(account) || errors.has(account) || Date.parse(state.lockedUntil[account]||0)>now)continue;
   const day=localParts(slot).day;
   if(pol.dailyMax!=null && sameDayPublishedCount(state,account,day)>=pol.dailyMax)continue;
-  if(futureCount(state,account,now)>=MAX_FUTURE_PER_CHANNEL)continue;
+  if(futureCount(state,account,now)>=(account==='sports' ? 3 : MAX_FUTURE_PER_CHANNEL))continue;
   const image=await validateImage(x.item.image);
   try{
    const post=await createBufferPost(key,ids[account],postText(x.item,account,x.url),image,new Date(slot).toISOString(),false);
