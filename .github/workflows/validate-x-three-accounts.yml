@@ -1,0 +1,46 @@
+name: Validate three X accounts without posting
+on:
+  push:
+    paths:
+      - '.github/workflows/validate-x-three-accounts.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    env:
+      BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate code and disabled state
+        run: |
+          node --check scripts/distribute-x.cjs
+          node scripts/distribute-x.cjs
+      - name: Verify Buffer X channel identities (read only)
+        run: |
+          node <<'NODE'
+          (async()=>{
+            const key=process.env.BUFFER_API_KEY;
+            if(!key)throw Error('BUFFER_API_KEY missing');
+            async function q(query){
+              const r=await fetch('https://api.buffer.com',{method:'POST',headers:{Authorization:'Bearer '+key,'Content-Type':'application/json'},body:JSON.stringify({query})});
+              const d=await r.json();
+              if(!r.ok||d.errors?.length)throw Error(d.errors?.[0]?.message||String(r.status));
+              return d.data;
+            }
+            const orgs=(await q('query {account {organizations{id name}}}'))?.account?.organizations||[];
+            const org=orgs[0];if(!org)throw Error('No organization');
+            const ch=(await q('query {channels(input:{organizationId:"'+org.id+'"}){id name displayName service}}'))?.channels||[];
+            const matches=ch.filter(c=>String(c.service).toLowerCase()==='twitter');
+            for(const h of ['RanaMatiusTV','RanaF1TV','RanaSportsAR']){
+              const c=matches.find(x=>[x.name,x.displayName].some(n=>String(n||'').replace(/^@/,'').toLowerCase()===h.toLowerCase()));
+              console.log(h+': '+(c?'CONNECTED':'MISSING'));
+              if(!c)process.exitCode=1;
+            }
+          })().catch(e=>{console.error(e.message);process.exitCode=1});
+          NODE
