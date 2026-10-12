@@ -6,7 +6,7 @@ const LEGACY_SITE_BASE = 'https://ranamatiustv.github.io/RanaSports/';
 const STATE_PATH = '.github/x-publish-state.json';
 const BUFFER_API = 'https://api.buffer.com';
 const SLOT_MS = 5 * 60 * 1000;
-const MAX_FUTURE_PER_CHANNEL = 8;
+const MAX_FUTURE_PER_CHANNEL = 2;
 const CONFIG_PATH = 'config/x-distribution.json';
 const MAIN_HANDLE = (process.env.BUFFER_MAIN_HANDLE || 'RanaMatiusTV').replace(/^@/, '');
 const F1_HANDLE = (process.env.BUFFER_F1_HANDLE || 'RanaF1TV').replace(/^@/, '');
@@ -250,7 +250,7 @@ function postText(item, account, url) {
   const linkEmoji = linkEmojiFor(item, account);
   let title = item.title.trim();
   if (title.length > 190) title = title.slice(0, 187).trimEnd() + '…';
-  return `${emoji}${linkEmoji} ${title}\n${hashtag}\n\n🔗 ${url}`;
+  return `${emoji}${linkEmoji} ${title}\n${account === 'f1' && hashtag !== '#F1' ? hashtag+' #F1' : hashtag}\n\n🔗 ${url}`;
 }
 
 async function validateImage(url) {
@@ -430,7 +430,7 @@ function targets(config,now) {
   const existing=[];
   for (const x of Object.values(config._state.processed||{})) if(x.account===account && x.bufferPostId)existing.push(x);
   const timeSlots=[];
-  for(let h=0;h<8;h++){
+  for(let h=0;h<3;h++){
    const at=Math.ceil((now+60000)/hourMs)*hourMs+h*hourMs;
    for(let index=0;index<desired;index++){
     const slot=at+index*policy.minGapMinutes*60000;
@@ -480,7 +480,7 @@ async function main() {
   const account=x.account,pol=cfg.accounts[account],slot=slots[account]?.shift();
   if(!slot || failed.has(account))continue;
   const day=localParts(slot).day;
-  if(pol.dailyMax!=null && sameDayPublishedCount(state,account,day)+scheduled[account]>=pol.dailyMax)continue;
+  if(pol.dailyMax!=null && sameDayPublishedCount(state,account,day)>=pol.dailyMax)continue;
   if(futureCount(state,account,now)>=MAX_FUTURE_PER_CHANNEL)continue;
   const image=await validateImage(x.item.image);
   try{
