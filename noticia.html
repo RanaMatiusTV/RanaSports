@@ -7,7 +7,17 @@
  <title>Noticia | RanaSports</title><meta name="description" content="Noticias de RanaSports. Creado por @RanaMatiusTV.">
  <meta name="author" content="Damián Matías Verdasco"><meta name="twitter:creator" content="@RanaMatiusTV"><meta name="twitter:card" content="summary">
  <meta property="og:site_name" content="RanaSports"><meta property="og:type" content="article"><meta property="og:title" content="Noticia | RanaSports"><meta property="og:description" content="Noticias de RanaSports."><meta property="og:url" content="https://ranasports.com.ar/noticia.html"><meta property="og:image" content="https://ranasports.com.ar/assets/icon-512.png">
- <link rel="canonical" href="https://ranasports.com.ar/noticia.html">
+ <!-- La canonica debe ser unica por noticia, desde el primer render del HTML. -->
+ <script>
+  (() => {
+   const id = new URLSearchParams(location.search).get('n');
+   if (!id || !/^[A-Za-z0-9_-]{12,1500}$/.test(id)) return;
+   const canonical = document.createElement('link');
+   canonical.rel = 'canonical';
+   canonical.href = 'https://ranasports.com.ar/noticia.html?n=' + encodeURIComponent(id);
+   document.head.append(canonical);
+  })();
+ </script>
  <link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="assets/icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="assets/apple-touch-icon.png"><link rel="stylesheet" href="assets/styles.css?v=20261003-2023">
  <link rel="stylesheet" href="assets/install-banner.css?v=20261011-browser-banner">
  <script defer src="assets/install-banner.js?v=20261011-browser-banner"></script>
