@@ -18,9 +18,9 @@
       "minGapMinutes": 60
     },
     "f1": {
-      "label": "F1/F2/F3",
-      "dailyTargetMin": 8,
-      "dailyMax": 12,
+      "label": "F1/F2/F3: sin tope diario interno",
+      "dailyTargetMin": null,
+      "dailyMax": null,
       "hourlyMax": 2,
       "minGapMinutes": 30
     },
