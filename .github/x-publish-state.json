@@ -47,7 +47,9 @@
       "dueAt": "2026-10-12T04:00:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc582eea568e911a4ee4cd",
-      "createdAt": "2026-10-12T03:46:54.372Z"
+      "createdAt": "2026-10-12T03:46:54.372Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109494286685257951",
+      "sentAt": "2026-10-12T04:00:05.424Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyYWNpbmciLDE3OTE3NzY4ODAwMDAsIlJBQ0lORyBDQVnDkyAyLTAgQU5URSBCRUxHUkFOTyBZIExMRUdBIEdPTFBFQURPIEFMIENMw4FTSUNPIENPTiBJTkRFUEVORElFTlRFIl0": {
       "account": "main",
@@ -55,7 +57,9 @@
       "dueAt": "2026-10-12T03:55:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc582d63ff33d8c9a65c75",
-      "createdAt": "2026-10-12T03:46:54.023Z"
+      "createdAt": "2026-10-12T03:46:54.023Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109493012141134129",
+      "sentAt": "2026-10-12T03:55:01.452Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNzc2ODIwMDAwLCJJTkRFUEVORElFTlRFIEVNUEFUw5MgMC0wIENPTiBUQUxMRVJFUyBZIEVMIFZBUiBMRSBBTlVMw5MgVU4gR09MIEVOIEVMIEZJTkFMIl0": {
       "account": "main",
@@ -63,7 +67,9 @@
       "dueAt": "2026-10-12T03:50:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc582da9411fbcc56b47e1",
-      "createdAt": "2026-10-12T03:46:53.405Z"
+      "createdAt": "2026-10-12T03:46:53.405Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109491757498966040",
+      "sentAt": "2026-10-12T03:50:02.390Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTc3MDgyNjAwMCwiSEFNSUxUT04gUkVDSUJJw5MgQVRFTkNJw5NOIE3DiURJQ0EgWSBBU1VNScOTIFNVIEVSUk9SIEVOIFNJTkdBUFVSIl0": {
       "account": "f1",
@@ -5323,6 +5329,6 @@
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-12T03:46:53.029Z"
+    "lastLinksRefreshAt": "2026-10-12T08:01:08.204Z"
   }
 }
