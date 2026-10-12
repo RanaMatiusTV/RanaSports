@@ -151,10 +151,10 @@ function readNews(text) {
 function accountFor(item) {
   const c = item.category, name=normalize(item.sport), headline=normalize(item.title);
   if (c === 'independiente' || name === 'independiente') return 'main';
-  if (['f1','f2','f3','formula 1','formula 2','formula 3'].includes(c) || /\\bformula [123]\\b/.test(name)) return 'f1';
+  if (['f1','f2','f3','formula 1','formula 2','formula 3'].includes(c) || /\bformula [123]\b/.test(name)) return 'f1';
   // For mixed football categories, identify CAI only by unambiguous references.
-  if (/\\bindependiente\\b/.test(headline) && !/\\bindependiente rivadavia\\b/.test(headline) &&
-      /\\b(cai|avellaneda|rojo|vaccari|quinteros)\\b/.test(headline)) return 'main';
+  if (/\bindependiente\b/.test(headline) && !/\bindependiente rivadavia\b/.test(headline) &&
+      /\b(cai|avellaneda|rojo|vaccari|quinteros)\b/.test(headline)) return 'main';
   return 'sports';
 }
 
@@ -302,8 +302,9 @@ async function discoverChannels(apiKey, state) {
   const twitter = channels.filter(ch => normalize(ch.service) === 'twitter');
   const matches = (ch, handle) => {
     const needle = normalize(handle);
-    return [ch.name, ch.displayName].some(v => normalize(v).replace(/^@/, '').includes(needle));
+    return [ch.name, ch.displayName].some(v => normalize(v).replace(/^@/, '') === needle);
   };
+  state.buffer.mainChannelId=null;state.buffer.f1ChannelId=null;state.buffer.sportsChannelId=null;
   const main = twitter.find(ch => matches(ch, MAIN_HANDLE));
   const f1 = twitter.find(ch => matches(ch, F1_HANDLE));
   if (main) state.buffer.mainChannelId = main.id;
