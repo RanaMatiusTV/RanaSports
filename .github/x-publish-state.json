@@ -1,13 +1,79 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJsaWdhIHByb2Zlc2lvbmFsIiwxNzkxNzc2OTQwMDAwLCJHSU1OQVNJQSBERSBNRU5ET1pBIFkgTkVXRUxMJ1MgSlVFR0FOIFVOIENSVUNFIERJUkVDVE8gUE9SIExPUyBQTEFZT0ZGUyJd": {
+      "account": "main",
+      "title": "GIMNASIA DE MENDOZA Y NEWELL'S JUEGAN UN CRUCE DIRECTO POR LOS PLAYOFFS",
+      "dueAt": "2026-10-12T04:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc5830a9411fbcc56b480a",
+      "createdAt": "2026-10-12T03:46:56.659Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNzc2OTQwMDAwLCJNRVJFTlRJRUwgSE9NRU5BSkXDkyBBTCBNQU5URUNBIE1BUlTDjU5FWiBZIFNVRcORQSBDT04gUkVQRVRJUiBTVSBGRVNURUpPIl0": {
+      "account": "main",
+      "title": "MERENTIEL HOMENAJEÓ AL MANTECA MARTÍNEZ Y SUEÑA CON REPETIR SU FESTEJO",
+      "dueAt": "2026-10-12T04:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc583063ff33d8c9a65cc9",
+      "createdAt": "2026-10-12T03:46:56.229Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJsaWdhIHByb2Zlc2lvbmFsIiwxNzkxNzc2OTQwMDAwLCJMQU7DmlMgUkVDSUJFIEFMIElOVklDVE8gVsOJTEVaIEVOIFVOIERVRUxPIENMQVZFIFBPUiBFTCBDTEFVU1VSQSJd": {
+      "account": "main",
+      "title": "LANÚS RECIBE AL INVICTO VÉLEZ EN UN DUELO CLAVE POR EL CLAUSURA",
+      "dueAt": "2026-10-12T04:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc582f7db619a291591c73",
+      "createdAt": "2026-10-12T03:46:55.886Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyYWNpbmciLDE3OTE3NzY5NDAwMDAsIlJPTUVSTyBQSURJw5MgQVBPWU8gUEFSQSBFTCBDTMOBU0lDTyBUUkFTIExBIERFUlJPVEEgREUgUkFDSU5HIl0": {
+      "account": "main",
+      "title": "ROMERO PIDIÓ APOYO PARA EL CLÁSICO TRAS LA DERROTA DE RACING",
+      "dueAt": "2026-10-12T04:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc582ffa026cfb812566c1",
+      "createdAt": "2026-10-12T03:46:55.411Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNzc2ODgwMDAwLCJCT0NBIFBFUkZJTEEgQSBDQVJMT1MgUEFMQUNJT1MgUEFSQSBSRUVNUExBWkFSIEEgUEFSRURFUyBBTlRFIFZBU0NPIl0": {
+      "account": "main",
+      "title": "BOCA PERFILA A CARLOS PALACIOS PARA REEMPLAZAR A PAREDES ANTE VASCO",
+      "dueAt": "2026-10-12T04:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc582e63ff33d8c9a65c9f",
+      "createdAt": "2026-10-12T03:46:55.030Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyb3NhcmlvIGNlbnRyYWwiLDE3OTE3NzY4ODAwMDAsIkdBU1TDk04gw4FWSUxBIEZVRSBIT1NQSVRBTElaQURPIFRSQVMgVU5BIEZVRVJURSBQQVRBREEgRU4gRUwgUk9TVFJPIl0": {
+      "account": "main",
+      "title": "GASTÓN ÁVILA FUE HOSPITALIZADO TRAS UNA FUERTE PATADA EN EL ROSTRO",
+      "dueAt": "2026-10-12T04:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc582eea568e911a4ee4cd",
+      "createdAt": "2026-10-12T03:46:54.372Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyYWNpbmciLDE3OTE3NzY4ODAwMDAsIlJBQ0lORyBDQVnDkyAyLTAgQU5URSBCRUxHUkFOTyBZIExMRUdBIEdPTFBFQURPIEFMIENMw4FTSUNPIENPTiBJTkRFUEVORElFTlRFIl0": {
+      "account": "main",
+      "title": "RACING CAYÓ 2-0 ANTE BELGRANO Y LLEGA GOLPEADO AL CLÁSICO CON INDEPENDIENTE",
+      "dueAt": "2026-10-12T03:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc582d63ff33d8c9a65c75",
+      "createdAt": "2026-10-12T03:46:54.023Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNzc2ODIwMDAwLCJJTkRFUEVORElFTlRFIEVNUEFUw5MgMC0wIENPTiBUQUxMRVJFUyBZIEVMIFZBUiBMRSBBTlVMw5MgVU4gR09MIEVOIEVMIEZJTkFMIl0": {
+      "account": "main",
+      "title": "INDEPENDIENTE EMPATÓ 0-0 CON TALLERES Y EL VAR LE ANULÓ UN GOL EN EL FINAL",
+      "dueAt": "2026-10-12T03:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc582da9411fbcc56b47e1",
+      "createdAt": "2026-10-12T03:46:53.405Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTc3MDgyNjAwMCwiSEFNSUxUT04gUkVDSUJJw5MgQVRFTkNJw5NOIE3DiURJQ0EgWSBBU1VNScOTIFNVIEVSUk9SIEVOIFNJTkdBUFVSIl0": {
       "account": "f1",
       "title": "HAMILTON RECIBIÓ ATENCIÓN MÉDICA Y ASUMIÓ SU ERROR EN SINGAPUR",
       "dueAt": "2026-10-12T02:10:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc40f77db619a2915543a3",
-      "createdAt": "2026-10-12T02:07:51.402Z"
+      "createdAt": "2026-10-12T02:07:51.402Z",
+      "externalLink": "https://x.com/2095690134515572737/status/2109466590643151048",
+      "sentAt": "2026-10-12T02:10:02.145Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIHBvciBlbCBtdW5kbyIsMTc5MTc3MDgyNTAwMCwiR0lBWSBNQVJDw5MgRE9TIEdPTEVTIEVOIEVMIENMw4FTSUNPIFkgRlVFIEZJR1VSQSBERSBQQUxNRUlSQVMiXQ": {
       "account": "main",
@@ -15,7 +81,9 @@
       "dueAt": "2026-10-12T02:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc40f6ea568e911a4af494",
-      "createdAt": "2026-10-12T02:07:50.730Z"
+      "createdAt": "2026-10-12T02:07:50.730Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109471659065327808",
+      "sentAt": "2026-10-12T02:30:10.556Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJtZXJjYWRvIGRlIHBhc2VzIiwxNzkxNzcwODI0MDAwLCJJQ0FSREkgSU5URU5Uw5MgVk9MVkVSIEFMIElOVEVSLCBQRVJPIEVMIENMVUIgTEUgQ0VSUsOTIExBIFBVRVJUQSJd": {
       "account": "main",
@@ -23,7 +91,9 @@
       "dueAt": "2026-10-12T02:25:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc40f4a9411fbcc5677fa3",
-      "createdAt": "2026-10-12T02:07:48.878Z"
+      "createdAt": "2026-10-12T02:07:48.878Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109470363218227392",
+      "sentAt": "2026-10-12T02:25:01.571Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIHBvciBlbCBtdW5kbyIsMTc5MTc3MDgyMzAwMCwiV0FMVEVSIEJFTsONVEVaIEZJUk3DkyBVTkEgQVRBSkFEQSBJTVBBQ1RBTlRFIEVOIExBIFBSRU1JRVIgTEVBR1VFIl0": {
       "account": "main",
@@ -31,7 +101,9 @@
       "dueAt": "2026-10-12T02:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc40f4a9411fbcc5677f52",
-      "createdAt": "2026-10-12T02:07:48.289Z"
+      "createdAt": "2026-10-12T02:07:48.289Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109469110186717477",
+      "sentAt": "2026-10-12T02:20:02.797Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyb3NhcmlvIGNlbnRyYWwiLDE3OTE3NzA4MjIwMDAsIkRJIE1BUsONQSwgRklHVVJBIEVOIExBIEdPTEVBREEgREUgQ0VOVFJBTDog4oCcSEFDRU1PUyBPw41ET1MgU09SRE9T4oCdIl0": {
       "account": "main",
@@ -39,7 +111,9 @@
       "dueAt": "2026-10-12T02:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc40f38e8dd50ffc629b97",
-      "createdAt": "2026-10-12T02:07:47.430Z"
+      "createdAt": "2026-10-12T02:07:47.430Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109467850444316853",
+      "sentAt": "2026-10-12T02:15:02.470Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNzcwODIxMDAwLCJJTkRFUEVORElFTlRFIEVNUEFUQSBTSU4gR09MRVMgQU5URSBUQUxMRVJFUyBZIEJVU0NBIFJPTVBFUiBFTCBDRVJPIEVOIEPDk1JET0JBIl0": {
       "account": "main",
@@ -47,7 +121,9 @@
       "dueAt": "2026-10-12T02:10:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc40f28e8dd50ffc629b6e",
-      "createdAt": "2026-10-12T02:07:47.068Z"
+      "createdAt": "2026-10-12T02:07:47.068Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109466593373700098",
+      "sentAt": "2026-10-12T02:10:02.795Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTc2Mzc0NjAwMCwiR0FTUEFSVCBBUFVOVMOTIENPTlRSQSBNRVNTSSBQT1IgTEEgREVNT1JBIERFIFNVIERFU1BFRElEQSBFTiBCQVJDRUxPTkEiXQ": {
       "account": "main",
@@ -5237,72 +5313,16 @@
       "dueAt": "2026-09-24T00:40:00.000Z",
       "bufferPostId": "6ab46dfea9da2eb42fbf7f9b",
       "createdAt": "2026-09-24T00:25:34.318Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyMDgzMDAwMDAsIkVMIFJFQ0FNQklPIFlBIEVNUEVaw5M6IExBIFNFTEVDQ0nDk04gQkFKw5MgVFJFUyBBw5FPUyBTVSBQUk9NRURJTyBERSBFREFEIl0": {
-      "account": "main",
-      "title": "EL RECAMBIO YA EMPEZÓ: LA SELECCIÓN BAJÓ TRES AÑOS SU PROMEDIO DE EDAD",
-      "dueAt": "2026-09-24T00:35:00.000Z",
-      "bufferPostId": "6ab46dfd4ee8bfc2fd247723",
-      "createdAt": "2026-09-24T00:25:33.695Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyMDgzMDAwMDAsIlNDQUxPTkkgRVNUw4EgQ0VSQ0EgREUgUkVOT1ZBUjogQUZBIFFVSUVSRSBCTElOREFSIEVMIFBST1lFQ1RPIEhBU1RBIDIwMzAiXQ": {
-      "account": "main",
-      "title": "SCALONI ESTÁ CERCA DE RENOVAR: AFA QUIERE BLINDAR EL PROYECTO HASTA 2030",
-      "dueAt": "2026-09-24T00:30:00.000Z",
-      "bufferPostId": "6ab46dfcccbef1e0a53f61ba",
-      "createdAt": "2026-09-24T00:25:33.046Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjb3BhIGFyZ2VudGluYSIsMTc5MDIwNDc2MDAwMCwiUkFDSU5H4oCTQk9DQSBZQSBUSUVORSBIT1JBUklPIE9GSUNJQUw6IEVMIENVQVJUTyBERSBGSU5BTCBTRVLDgSBFTCBET01JTkdPIEEgTEFTIDE3Il0": {
-      "account": "main",
-      "title": "RACING–BOCA YA TIENE HORARIO OFICIAL: EL CUARTO DE FINAL SERÁ EL DOMINGO A LAS 17",
-      "dueAt": "2026-09-23T23:30:00.000Z",
-      "bufferPostId": "6ab45e58ccbef1e0a53da12e",
-      "createdAt": "2026-09-23T23:18:48.207Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJoYW5kYmFsbCIsMTc5MDIwNDc2MDAwMCwiTE9TIEdMQURJQURPUkVTLCBBTlRFIExBIFBSVUVCQSBNw4FTIERVUkE6IEFSR0VOVElOQSBTRSBNSURFIENPTiBCUkFTSUwgRU4gU0FOVEEgRkUiXQ": {
-      "account": "main",
-      "title": "LOS GLADIADORES, ANTE LA PRUEBA MÁS DURA: ARGENTINA SE MIDE CON BRASIL EN SANTA FE",
-      "dueAt": "2026-09-23T23:25:00.000Z",
-      "bufferPostId": "6ab45e57ccbef1e0a53da0e4",
-      "createdAt": "2026-09-23T23:18:47.759Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJwb2xpZGVwb3J0aXZvIiwxNzkwMjA0NzYwMDAwLCJST1NBUklPIDIwMjkgUVVFRMOTIEZPUk1BTElaQURPOiBGSVJNQVJPTiBFTCBDT05UUkFUTyBERSBMT1MgUEFOQU1FUklDQU5PUyBKVU5JT1IiXQ": {
-      "account": "main",
-      "title": "ROSARIO 2029 QUEDÓ FORMALIZADO: FIRMARON EL CONTRATO DE LOS PANAMERICANOS JUNIOR",
-      "dueAt": "2026-09-23T23:20:00.000Z",
-      "bufferPostId": "6ab45e57cdc0a64118066427",
-      "createdAt": "2026-09-23T23:18:47.431Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ0YWVrd29uZG8iLDE3OTAyMDExNjAwMDAsIkpPU8OJIEFDVcORQSBFUyBERSBPUk86IEFSR0VOVElOQSBWT0xWScOTIEEgR0FOQVIgRUwgVEFFS1dPTkRPIFNVUkFNRVJJQ0FOTyBERVNQVcOJUyBERSAxMiBBw5FPUyJd": {
-      "account": "main",
-      "title": "JOSÉ ACUÑA ES DE ORO: ARGENTINA VOLVIÓ A GANAR EL TAEKWONDO SURAMERICANO DESPUÉS DE 12 AÑOS",
-      "dueAt": "2026-09-23T22:25:00.000Z",
-      "bufferPostId": "6ab450e389ff6678593ff0bb",
-      "createdAt": "2026-09-23T22:21:23.182Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE5NzQ0MDAwMCwiQ09MQVBJTlRPIEFSUkFOQ0EgRUwgSlVFVkVTIEVOIEJBS8OaOiBET1MgUFLDgUNUSUNBUyBFTiBVTkEgRkVDSEEgUVVFIFRFUk1JTkEgRUwgU8OBQkFETyJd": {
-      "account": "f1",
-      "title": "COLAPINTO ARRANCA EL JUEVES EN BAKÚ: DOS PRÁCTICAS EN UNA FECHA QUE TERMINA EL SÁBADO",
-      "dueAt": "2026-09-23T21:25:00.000Z",
-      "bufferPostId": "6ab4421d4c1a8853af0d848e",
-      "createdAt": "2026-09-23T21:18:21.827Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE5NzQ0MDAwMCwiQU5UT05FTExJIExMRUdBIEEgQkFLw5ogQ09OIDgxIFBVTlRPUyBERSBWRU5UQUpBIFkgQ09MQVBJTlRPIEVTIDEywrAgRU4gRUwgTVVORElBTCJd": {
-      "account": "f1",
-      "title": "ANTONELLI LLEGA A BAKÚ CON 81 PUNTOS DE VENTAJA Y COLAPINTO ES 12° EN EL MUNDIAL",
-      "dueAt": "2026-09-23T21:20:00.000Z",
-      "bufferPostId": "6ab4421c4c1a8853af0d845d",
-      "createdAt": "2026-09-23T21:18:20.964Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-12T02:15:00.000Z",
-    "main": "2026-10-12T02:35:00.000Z"
+    "main": "2026-10-12T04:30:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-12T02:07:46.449Z"
+    "lastLinksRefreshAt": "2026-10-12T03:46:53.029Z"
   }
 }
