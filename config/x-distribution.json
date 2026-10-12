@@ -11,9 +11,9 @@
   },
   "accounts": {
     "main": {
-      "label": "Independiente",
-      "dailyTarget": 7,
-      "dailyMax": 7,
+      "label": "Independiente: sin tope diario interno",
+      "dailyTarget": null,
+      "dailyMax": null,
       "hourlyMax": 1,
       "minGapMinutes": 60
     },
@@ -43,6 +43,7 @@
     "shareNow": false,
     "haltOnBufferError": true,
     "neverFlushOverflow": true,
-    "manualAccountPostsMayCountTowardXLimits": true
+    "manualAccountPostsMayCountTowardXLimits": true,
+    "xDailyPlatformLimitsStillApply": true
   }
 }
