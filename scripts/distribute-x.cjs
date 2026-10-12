@@ -499,8 +499,10 @@ async function main() {
   if(pol.dailyMax!=null && sameDayPublishedCount(state,account,day)>=pol.dailyMax)continue;
   if(futureCount(state,account,now)>=(account==='sports' ? 3 : MAX_FUTURE_PER_CHANNEL))continue;
   const image=await validateImage(x.item.image);
-  if (!image) {
-   console.log('SKIP_NO_VALID_PHOTO '+account+' '+x.item.title);
+  const imgPath = (()=>{try{return decodeURIComponent(new URL(image).pathname).toLowerCase()}catch{return ''}})();
+  const genericImage = /(?:^|[\/_.-])(logo|avatar|placeholder|default|icono|favicon|escudo)(?:[\/_.-]|$)/i.test(imgPath);
+  if (!image || genericImage) {
+   console.log('SKIP_NO_VALID_ARTICLE_PHOTO '+account+' '+x.item.title);
    continue;
   }
   try{
