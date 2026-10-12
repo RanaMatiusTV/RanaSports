@@ -64,8 +64,8 @@ for(const [account,items]of Object.entries(grouped)){
  // Esta simulación jamás hace shareNow ni modifica estado.
  plan.accounts[account]={
   candidates:items.length,dailyCap:policy.dailyMax,hourlyCap:policy.hourlyMax,
-  selected:ordered.slice(0,policy.dailyMax).map(x=>({sourceRow:x.sourceRow,score:x.score,date:new Date(x.date).toISOString(),title:x.title})),
-  overflow:Math.max(0,ordered.length-policy.dailyMax)
+  selected:ordered.slice(0,policy.dailyMax == null ? ordered.length : policy.dailyMax).map(x=>({sourceRow:x.sourceRow,score:x.score,date:new Date(x.date).toISOString(),title:x.title})),
+  overflow:policy.dailyMax == null ? 0 : Math.max(0,ordered.length-policy.dailyMax)
  };
 }
 console.log(JSON.stringify(plan,null,2));
