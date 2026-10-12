@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgxNDI4OTAwMCwiRUwgS0lMWSBSRVZFTMOTIFFVRSBBIE1FU1NJIExPIEVOVFVTSUFTTUEgSlVHQVIgTEEgTElCRVJUQURPUkVTIENPTiBJTlRFUiBNSUFNSSJd": {
+      "account": "main",
+      "title": "EL KILY REVELÓ QUE A MESSI LO ENTUSIASMA JUGAR LA LIBERTADORES CON INTER MIAMI",
+      "dueAt": "2026-10-12T14:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acceae424301f624689f9df",
+      "createdAt": "2026-10-12T14:12:53.005Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgxNDI4ODAwMCwiQ1JJU1RJQU5PIE5PIFBVU08gRkVDSEEgQSBTVSBSRVRJUk8gWSBWT0xWScOTIEEgREVGSU5JUlNFIENPTU8gRUwgTUVKT1IiXQ": {
+      "account": "main",
+      "title": "CRISTIANO NO PUSO FECHA A SU RETIRO Y VOLVIÓ A DEFINIRSE COMO EL MEJOR",
+      "dueAt": "2026-10-12T14:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acceae44dc05e79cb39d04e",
+      "createdAt": "2026-10-12T14:12:52.737Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTgxNDI4NzAwMCwiUE9OWklPIE1BTlRJRU5FIERPUyBEVURBUyBFTiBSSVZFUiBQQVJBIFZJU0lUQVIgQSBTQVJNSUVOVE8iXQ": {
+      "account": "main",
+      "title": "PONZIO MANTIENE DOS DUDAS EN RIVER PARA VISITAR A SARMIENTO",
+      "dueAt": "2026-10-12T14:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acceae424301f624689f9b5",
+      "createdAt": "2026-10-12T14:12:52.399Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgxNDI4NjAwMCwiTUVTU0kgRUxJR0nDkyBBIERJRVogSsOTVkVORVMgQ09NTyBMQVMgUFLDk1hJTUFTIEVTVFJFTExBUyBERUwgRsOaVEJPTCJd": {
+      "account": "main",
+      "title": "MESSI ELIGIÓ A DIEZ JÓVENES COMO LAS PRÓXIMAS ESTRELLAS DEL FÚTBOL",
+      "dueAt": "2026-10-12T14:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acceae352725e494b47f3b2",
+      "createdAt": "2026-10-12T14:12:52.039Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE4MTQyODQwMDAsIkJPQ0EgUEVSRklMw5MgU1UgT05DRSBTSU4gUEFSRURFUyBQQVJBIFJFQ0lCSVIgQSBWQVNDTyJd": {
+      "account": "main",
+      "title": "BOCA PERFILÓ SU ONCE SIN PAREDES PARA RECIBIR A VASCO",
+      "dueAt": "2026-10-12T14:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acceae34dc05e79cb39cffa",
+      "createdAt": "2026-10-12T14:12:51.686Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE4MTQyODUwMDAsIlZBTEVOVMONTiBHw5NNRVogREVCVVTDkyBFTiBMQSBTRUxFQ0NJw5NOIFBFUk8gU0lHVUUgU0lOIEFGSUFOWkFSU0UgRU4gQkVUSVMiXQ": {
+      "account": "main",
+      "title": "VALENTÍN GÓMEZ DEBUTÓ EN LA SELECCIÓN PERO SIGUE SIN AFIANZARSE EN BETIS",
+      "dueAt": "2026-10-12T14:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acceae30728a43e9782a57f",
+      "createdAt": "2026-10-12T14:12:51.328Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE4MDcyNTcwMDAsIkJPQ0EgUkVDSUJFIEEgVkFTQ08gRU4gTEEgSURBIERFIExBUyBTRU1JRklOQUxFUyBERSBMQSBTVURBTUVSSUNBTkEiXQ": {
       "account": "main",
       "title": "BOCA RECIBE A VASCO EN LA IDA DE LAS SEMIFINALES DE LA SUDAMERICANA",
@@ -5297,60 +5345,16 @@
       "createdAt": "2026-09-24T10:15:43.800Z",
       "externalLink": "https://x.com/2095690134515572737/status/2103066919938977915",
       "sentAt": "2026-09-24T10:20:01.773Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMjQ0MzYwMDAwLCJDTMOBU0lDTyBERSBSRVNFUlZBOiBJTkRFUEVORElFTlRFIERFRklFTkRFIExBIFBVTlRBIEhPWSBBTlRFIFJBQ0lORyJd": {
-      "account": "main",
-      "title": "CLÁSICO DE RESERVA: INDEPENDIENTE DEFIENDE LA PUNTA HOY ANTE RACING",
-      "dueAt": "2026-09-24T10:20:00.000Z",
-      "bufferPostId": "6ab4f8436396ba3b0ccf09ee",
-      "createdAt": "2026-09-24T10:15:32.025Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNDA3MDAwMDAsIkxBIFNFTEVDQ0nDk04gVlVFTFZFIEEgRU5UUkVOQVJTRSBFTiBFWkVJWkE6IFRFUkNFUkEgUFLDgUNUSUNBIFkgUFVFUlRBUyBBQklFUlRBUyBBIExBIFBSRU5TQSJd": {
-      "account": "main",
-      "title": "LA SELECCIÓN VUELVE A ENTRENARSE EN EZEIZA: TERCERA PRÁCTICA Y PUERTAS ABIERTAS A LA PRENSA",
-      "dueAt": "2026-09-24T09:40:00.000Z",
-      "bufferPostId": "6ab4ee8a9058aff9a5dbc545",
-      "createdAt": "2026-09-24T09:34:02.596Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI0MDcwMDAwMCwiQ09MQVBJTlRPIFlBIEVTVMOBIEVOIFBJU1RBIEVOIEJBS8OaOiBBUlJBTkPDkyBVTiBGSU4gREUgU0VNQU5BIEFUw41QSUNPIERFIEYxIl0": {
-      "account": "f1",
-      "title": "COLAPINTO YA ESTÁ EN PISTA EN BAKÚ: ARRANCÓ UN FIN DE SEMANA ATÍPICO DE F1",
-      "dueAt": "2026-09-24T09:25:00.000Z",
-      "bufferPostId": "6ab4eb0ce5bfe0b120cf6ff4",
-      "createdAt": "2026-09-24T09:19:08.666Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103053083198586969",
-      "sentAt": "2026-09-24T09:25:02.862Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJyaXZlciIsMTc5MDIzNzI4MDAwMCwiVEFQSUEgTEUgUElEScOTIEEgUklWRVIgUVVFIE5PIENPQlJFIEVMIE1PTlVNRU5UQUwgUEFSQSBMQSBERVNQRURJREEgREUgTUVTU0k6IFNPTiBDQVNJIFVTJDUwMC4wMDAiXQ": {
-      "account": "main",
-      "title": "TAPIA LE PIDIÓ A RIVER QUE NO COBRE EL MONUMENTAL PARA LA DESPEDIDA DE MESSI: SON CASI US$500.000",
-      "dueAt": "2026-09-24T08:20:00.000Z",
-      "bufferPostId": "6ab4dc575b0b95240b50109f",
-      "createdAt": "2026-09-24T08:16:23.340Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJib2R5Ym9hcmQiLDE3OTAyMzM1MDAwMDAsIklTQUJFTExBIEFTU01BTk4gWUEgVElFTkUgTUVEQUxMQTogRVMgRklOQUxJU1RBIERFIEJPRFlCT0FSRCBZIFZBIFBPUiBFTCBPUk8iXQ": {
-      "account": "main",
-      "title": "ISABELLA ASSMANN YA TIENE MEDALLA: ES FINALISTA DE BODYBOARD Y VA POR EL ORO",
-      "dueAt": "2026-09-24T07:25:00.000Z",
-      "bufferPostId": "6ab4cee81a0af4842626f401",
-      "createdAt": "2026-09-24T07:19:04.814Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMjI5OTAwMDAwLCJBTEFSTUEgRU4gSU5ERVBFTkRJRU5URTogQ0hJTVkgw4FWSUxBIFNVRlJJw5MgVU4gREVTR0FSUk8gWSBFUyBEVURBIEFOVEUgSU5TVElUVVRPIl0": {
-      "account": "main",
-      "title": "ALARMA EN INDEPENDIENTE: CHIMY ÁVILA SUFRIÓ UN DESGARRO Y ES DUDA ANTE INSTITUTO",
-      "dueAt": "2026-09-24T06:30:00.000Z",
-      "bufferPostId": "6ab4c2d81a0af48426258310",
-      "createdAt": "2026-09-24T06:27:36.280Z"
     }
   },
   "nextAt": {
     "f1": "2026-10-12T10:20:00.000Z",
-    "main": "2026-10-12T12:50:00.000Z"
+    "main": "2026-10-12T14:45:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-12T12:16:02.330Z"
+    "lastLinksRefreshAt": "2026-10-12T14:12:50.848Z"
   }
 }
