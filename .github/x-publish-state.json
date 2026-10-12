@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTc3MDgyNjAwMCwiSEFNSUxUT04gUkVDSUJJw5MgQVRFTkNJw5NOIE3DiURJQ0EgWSBBU1VNScOTIFNVIEVSUk9SIEVOIFNJTkdBUFVSIl0": {
+      "account": "f1",
+      "title": "HAMILTON RECIBIÓ ATENCIÓN MÉDICA Y ASUMIÓ SU ERROR EN SINGAPUR",
+      "dueAt": "2026-10-12T02:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc40f77db619a2915543a3",
+      "createdAt": "2026-10-12T02:07:51.402Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIHBvciBlbCBtdW5kbyIsMTc5MTc3MDgyNTAwMCwiR0lBWSBNQVJDw5MgRE9TIEdPTEVTIEVOIEVMIENMw4FTSUNPIFkgRlVFIEZJR1VSQSBERSBQQUxNRUlSQVMiXQ": {
+      "account": "main",
+      "title": "GIAY MARCÓ DOS GOLES EN EL CLÁSICO Y FUE FIGURA DE PALMEIRAS",
+      "dueAt": "2026-10-12T02:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc40f6ea568e911a4af494",
+      "createdAt": "2026-10-12T02:07:50.730Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXJjYWRvIGRlIHBhc2VzIiwxNzkxNzcwODI0MDAwLCJJQ0FSREkgSU5URU5Uw5MgVk9MVkVSIEFMIElOVEVSLCBQRVJPIEVMIENMVUIgTEUgQ0VSUsOTIExBIFBVRVJUQSJd": {
+      "account": "main",
+      "title": "ICARDI INTENTÓ VOLVER AL INTER, PERO EL CLUB LE CERRÓ LA PUERTA",
+      "dueAt": "2026-10-12T02:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc40f4a9411fbcc5677fa3",
+      "createdAt": "2026-10-12T02:07:48.878Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIHBvciBlbCBtdW5kbyIsMTc5MTc3MDgyMzAwMCwiV0FMVEVSIEJFTsONVEVaIEZJUk3DkyBVTkEgQVRBSkFEQSBJTVBBQ1RBTlRFIEVOIExBIFBSRU1JRVIgTEVBR1VFIl0": {
+      "account": "main",
+      "title": "WALTER BENÍTEZ FIRMÓ UNA ATAJADA IMPACTANTE EN LA PREMIER LEAGUE",
+      "dueAt": "2026-10-12T02:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc40f4a9411fbcc5677f52",
+      "createdAt": "2026-10-12T02:07:48.289Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJyb3NhcmlvIGNlbnRyYWwiLDE3OTE3NzA4MjIwMDAsIkRJIE1BUsONQSwgRklHVVJBIEVOIExBIEdPTEVBREEgREUgQ0VOVFJBTDog4oCcSEFDRU1PUyBPw41ET1MgU09SRE9T4oCdIl0": {
+      "account": "main",
+      "title": "DI MARÍA, FIGURA EN LA GOLEADA DE CENTRAL: “HACEMOS OÍDOS SORDOS”",
+      "dueAt": "2026-10-12T02:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc40f38e8dd50ffc629b97",
+      "createdAt": "2026-10-12T02:07:47.430Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNzcwODIxMDAwLCJJTkRFUEVORElFTlRFIEVNUEFUQSBTSU4gR09MRVMgQU5URSBUQUxMRVJFUyBZIEJVU0NBIFJPTVBFUiBFTCBDRVJPIEVOIEPDk1JET0JBIl0": {
+      "account": "main",
+      "title": "INDEPENDIENTE EMPATA SIN GOLES ANTE TALLERES Y BUSCA ROMPER EL CERO EN CÓRDOBA",
+      "dueAt": "2026-10-12T02:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc40f28e8dd50ffc629b6e",
+      "createdAt": "2026-10-12T02:07:47.068Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTc2Mzc0NjAwMCwiR0FTUEFSVCBBUFVOVMOTIENPTlRSQSBNRVNTSSBQT1IgTEEgREVNT1JBIERFIFNVIERFU1BFRElEQSBFTiBCQVJDRUxPTkEiXQ": {
       "account": "main",
       "title": "GASPART APUNTÓ CONTRA MESSI POR LA DEMORA DE SU DESPEDIDA EN BARCELONA",
@@ -5245,58 +5293,16 @@
       "dueAt": "2026-09-23T21:20:00.000Z",
       "bufferPostId": "6ab4421c4c1a8853af0d845d",
       "createdAt": "2026-09-23T21:18:20.964Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ0aXJvIGNvbiBhcmNvIiwxNzkwMTk3NDQwMDAwLCJBUkdFTlRJTkEgU0UgTUVUScOTIEVOIExBIEZJTkFMIERFTCBBUkNPIENPTVBVRVNUTyBQT1IgRVFVSVBPUyBZIFZBIFBPUiBFTCBPUk8gRU4gUk9TQVJJTyJd": {
-      "account": "main",
-      "title": "ARGENTINA SE METIÓ EN LA FINAL DEL ARCO COMPUESTO POR EQUIPOS Y VA POR EL ORO EN ROSARIO",
-      "dueAt": "2026-09-23T21:25:00.000Z",
-      "bufferPostId": "6ab4421b53e6d219763685b9",
-      "createdAt": "2026-09-23T21:18:19.912Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJyaXZlciIsMTc5MDE5NzQ0MDAwMCwiQUZBIExFIFBJREnDkyBBIFJJVkVSIE5PIENPQlJBUiBFTCBNT05VTUVOVEFMIFBBUkEgTEEgREVTUEVESURBIERFIE1FU1NJIFkgRE9OQVIgRUwgQ0FOT04iXQ": {
-      "account": "main",
-      "title": "AFA LE PIDIÓ A RIVER NO COBRAR EL MONUMENTAL PARA LA DESPEDIDA DE MESSI Y DONAR EL CANON",
-      "dueAt": "2026-09-23T21:20:00.000Z",
-      "bufferPostId": "6ab4421ac4a5f409786f203d",
-      "createdAt": "2026-09-23T21:18:18.687Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMTkwMzAwMDAwLCJMQVMgRElBQkxBUyBSRUNJQkVOIEEgRkVSUk8gRUwgVklFUk5FUyBFTiBWSUxMQSBET03DjU5JQ08gUE9SIEVMIENMQVVTVVJBIEZFTUVOSU5PIl0": {
-      "account": "main",
-      "title": "LAS DIABLAS RECIBEN A FERRO EL VIERNES EN VILLA DOMÍNICO POR EL CLAUSURA FEMENINO",
-      "dueAt": "2026-09-23T20:45:00.000Z",
-      "bufferPostId": "6ab439104fec6b6b1d7d1133",
-      "createdAt": "2026-09-23T20:39:44.349Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ0ZW5pcyBkZSBtZXNhIiwxNzkwMTkzOTAwMDAwLCJDSUZVRU5URVMgWSBMT1JFTlpPIFNPTiBERSBPUk86IEFSR0VOVElOQSBHQU7DkyBVTkEgRklOQUwgSU5GQVJUQU5URSBFTiBET0JMRVMiXQ": {
-      "account": "main",
-      "title": "CIFUENTES Y LORENZO SON DE ORO: ARGENTINA GANÓ UNA FINAL INFARTANTE EN DOBLES",
-      "dueAt": "2026-09-23T20:20:00.000Z",
-      "bufferPostId": "6ab43243d04d30cf024a4cb2",
-      "createdAt": "2026-09-23T20:10:44.190Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzYW50YSBmZSAyMDI2IiwxNzkwMTkzOTAwMDAwLCJBUkdFTlRJTkEgTEUgR0FOw5MgQSBQRVLDmiBFTiBMQSBBR09Ow41BIFkgVkEgUE9SIEVMIE9STyBFTiBFTCBGw5pUQk9MIl0": {
-      "account": "main",
-      "title": "ARGENTINA LE GANÓ A PERÚ EN LA AGONÍA Y VA POR EL ORO EN EL FÚTBOL",
-      "dueAt": "2026-09-23T20:15:00.000Z",
-      "bufferPostId": "6ab4323f01e42cf54fe3e338",
-      "createdAt": "2026-09-23T20:10:39.887Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE5MDMwMDAwMCwiQ09MQVBJTlRPLCBBTlRFUyBERSBCQUvDmjog4oCcTUkgT0JKRVRJVk8gRVMgTExFVkFSIEEgTEEgQVJHRU5USU5BIEEgTE8gTcOBUyBBTFRP4oCdIl0": {
-      "account": "f1",
-      "title": "COLAPINTO, ANTES DE BAKÚ: “MI OBJETIVO ES LLEVAR A LA ARGENTINA A LO MÁS ALTO”",
-      "dueAt": "2026-09-23T19:20:00.000Z",
-      "bufferPostId": "6ab42600746aac800cfb831d",
-      "createdAt": "2026-09-23T19:18:24.444Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-12T00:25:00.000Z",
-    "main": "2026-10-12T00:35:00.000Z"
+    "f1": "2026-10-12T02:15:00.000Z",
+    "main": "2026-10-12T02:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-12T01:41:05.674Z"
+    "lastLinksRefreshAt": "2026-10-12T02:07:46.449Z"
   }
 }
