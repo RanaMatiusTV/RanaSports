@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJ0ZW5pcyIsMTc5MTg0MjkxOTAwMCwiQSBGUklUWiBTRSBMRSBDQVlFUk9OIERPUyBQRUxPVEFTIERFTCBCT0xTSUxMTyBFTiBMQSBERVJST1RBIEFOVEUgVFNJVFNJUEFTIl0": {
+      "account": "sports",
+      "title": "A FRITZ SE LE CAYERON DOS PELOTAS DEL BOLSILLO EN LA DERROTA ANTE TSITSIPAS",
+      "dueAt": "2026-10-13T01:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd66975229b40e8685843b",
+      "createdAt": "2026-10-12T23:00:39.384Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTg0MjkxNDAwMCwiQ09MQVBJTlRPIFFVRUTDkyAxOcKwIEVOIEVMIFJBTktJTkcgREUgVEhFIFJBQ0UgVFJBUyBFTCBHUCBERSBTSU5HQVBVUiJd": {
+      "account": "f1",
+      "title": "COLAPINTO QUEDÓ 19° EN EL RANKING DE THE RACE TRAS EL GP DE SINGAPUR",
+      "dueAt": "2026-10-13T00:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd66963d6121df40326e27",
+      "createdAt": "2026-10-12T23:00:38.367Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE4NDI5MTUwMDAsIkxBVE9SUkUgQ1VFU1RJT07DkyBMQSBPUkdBTklaQUNJw5NOIERFTCBGw5pUQk9MIEFSR0VOVElOTyBZIEVMT0dJw5MgQSBNRVNTSSJd": {
+      "account": "sports",
+      "title": "LATORRE CUESTIONÓ LA ORGANIZACIÓN DEL FÚTBOL ARGENTINO Y ELOGIÓ A MESSI",
+      "dueAt": "2026-10-13T00:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd66955229b40e8685823d",
+      "createdAt": "2026-10-12T23:00:37.817Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTg0MjkxNjAwMCwiTUFYSSBMw5NQRVogUkVWRUzDkyBDw5NNTyBSRUFDQ0lPTsOTIE1FU1NJIFRSQVMgR0FOQVIgRUwgQkFMw5NOIERFIE9STyAyMDEwIl0": {
+      "account": "sports",
+      "title": "MAXI LÓPEZ REVELÓ CÓMO REACCIONÓ MESSI TRAS GANAR EL BALÓN DE ORO 2010",
+      "dueAt": "2026-10-13T00:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd6695c210c8c6dd3c9b36",
+      "createdAt": "2026-10-12T23:00:37.355Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgyODUxMDAwMCwiS1ZBUkFUU0tIRUxJQSBMRSBQUk9NRVRJw5MgQSBTUEVFRCBGRVNURUpBUiBTVSBQUsOTWElNTyBHT0wgQ09OIEVMIOKAnFNJVVVV4oCdIERFIENSSVNUSUFOTyJd": {
       "account": "main",
       "title": "KVARATSKHELIA LE PROMETIÓ A SPEED FESTEJAR SU PRÓXIMO GOL CON EL “SIUUU” DE CRISTIANO",
@@ -5321,34 +5353,6 @@
       "dueAt": "2026-09-24T17:45:00.000Z",
       "bufferPostId": "6ab55e1c39867fa0e5115897",
       "createdAt": "2026-09-24T17:30:04.931Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNjUwNjAwMDAsIlNDQUxPTkkgQUJSScOTIExBIFBVRVJUQSBBIFNFR1VJUjog4oCcVEVOR08gR0FOQVMgREUgRVNUQVIgQUPDgeKAnSJd": {
-      "account": "main",
-      "title": "SCALONI ABRIÓ LA PUERTA A SEGUIR: “TENGO GANAS DE ESTAR ACÁ”",
-      "dueAt": "2026-09-24T17:40:00.000Z",
-      "bufferPostId": "6ab55e1c7cb0c4ddfc0a808e",
-      "createdAt": "2026-09-24T17:30:04.601Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMjY0NDAwMDAwLCJLVU4gQUfDnEVSTyBTRSBNRVRFIEVOIExBIEVMRUNDScOTTiBERSBJTkRFUEVORElFTlRFOiBBUE9ZQSBBIE5BS0lTIFkgUVVJRVJFIFZPTFZFUiBBTCBDTFVCIl0": {
-      "account": "main",
-      "title": "KUN AGÜERO SE METE EN LA ELECCIÓN DE INDEPENDIENTE: APOYA A NAKIS Y QUIERE VOLVER AL CLUB",
-      "dueAt": "2026-09-24T17:35:00.000Z",
-      "bufferPostId": "6ab55e1bf2f88235921b7d11",
-      "createdAt": "2026-09-24T17:30:04.043Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzYW50YSBmZSAyMDI2IiwxNzkwMjYyODQwMDAwLCJBUkdFTlRJTkEgWUEgTExFR8OTIEEgMjE1IE1FREFMTEFTOiA1NSBPUk9TIFkgU0lHVUUgU0VHVU5EQSJd": {
-      "account": "main",
-      "title": "ARGENTINA YA LLEGÓ A 215 MEDALLAS: 55 OROS Y SIGUE SEGUNDA",
-      "dueAt": "2026-09-24T16:30:00.000Z",
-      "bufferPostId": "6ab54d817cb0c4ddfc089043",
-      "createdAt": "2026-09-24T16:19:13.555Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJwZWxvdGEgdmFzY2EiLDE3OTAyNjIzMDAwMDAsIk1JQ0FFTEEgQ09SVEVaIEZVRSBQTEFUQSBFTiBGUk9OVEJBTEwgWSBTVU3DkyBPVFJBIE1FREFMTEEiXQ": {
-      "account": "main",
-      "title": "MICAELA CORTEZ FUE PLATA EN FRONTBALL Y SUMÓ OTRA MEDALLA",
-      "dueAt": "2026-09-24T16:25:00.000Z",
-      "bufferPostId": "6ab54d80f2f882359219550a",
-      "createdAt": "2026-09-24T16:19:12.587Z"
     }
   },
   "nextAt": {
@@ -5359,6 +5363,8 @@
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-12T18:07:01.294Z"
-  }
+    "lastLinksRefreshAt": "2026-10-12T18:07:01.294Z",
+    "sportsChannelId": "6acd4182778b240e2fec3d2b"
+  },
+  "lockedUntil": {}
 }
