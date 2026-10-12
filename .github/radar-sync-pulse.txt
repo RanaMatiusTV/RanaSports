@@ -1,5 +1,5 @@
 RanaSports Radar 1 → GitHub Sync
-Fecha y hora ARG: 2026-10-12 11:11:29
-Altas verificadas: 6
-Última noticia: EL KILY REVELÓ QUE A MESSI LO ENTUSIASMA JUGAR LA LIBERTADORES CON INTER MIAMI
-Filas: Noticias!2974:2979
+Fecha y hora ARG: 2026-10-12 13:21:00
+Altas verificadas: 8
+Última noticia: BASANTA PASÓ DEL SUBCAMPEONATO MUNDIAL CON ARGENTINA A LA GANADERÍA Y LAS CANCHAS DE PÁDEL
+Filas: Noticias!2980:2987
