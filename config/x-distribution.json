@@ -1,8 +1,8 @@
 {
-  "enabled": false,
-  "dryRun": true,
+  "enabled": true,
+  "dryRun": false,
   "timezone": "America/Argentina/Buenos_Aires",
-  "activationAt": null,
+  "activationAt": "2026-10-13T10:00:00.000Z",
   "source": "assets/news-live.csv",
   "buffer": {
     "mainHandle": "RanaMatiusTV",
