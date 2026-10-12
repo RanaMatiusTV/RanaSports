@@ -1,0 +1,42 @@
+name: Distribute RanaSports news to three X accounts
+on:
+  schedule:
+    - cron: '15 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: ranasports-distribute-x
+  cancel-in-progress: false
+jobs:
+  distribute:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    env:
+      BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate publisher syntax
+        run: node --check scripts/distribute-x.cjs
+      - name: Distribute only new eligible news respecting X caps
+        id: publish
+        continue-on-error: true
+        run: node scripts/distribute-x.cjs
+      - name: Persist deduplication and lockout state
+        if: always() && steps.publish.outcome != 'skipped'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .github/x-publish-state.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Update X distribution state'
+          git pull --rebase origin main
+          git push origin main
+      - name: Mark publication failure after saving state
+        if: steps.publish.outcome == 'failure'
+        run: exit 1
