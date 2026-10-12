@@ -373,7 +373,7 @@
   if(!item){
    if(!detailLookupSettled){if(status){status.hidden=false;status.textContent='Cargando noticia…';}return;}
    if(status){status.textContent='';status.hidden=true;}
-   detail.append(element('h1','','Noticia no disponible'),element('p','','La noticia no está en la última versión disponible de la planilla.'));document.title='Noticia no disponible | RanaSports';document.querySelector('meta[name="robots"]')?.setAttribute('content','noindex,follow');document.querySelector('#articleSchema')?.remove();return;
+   detail.append(element('h1','','Noticia no disponible'),element('p','','La noticia no está en la última versión disponible de la planilla.'));document.title='Noticia no disponible | RanaSports';const permanentExclusion=!requestedArticleId()||REVOKED_ARTICLE_IDS.has(requestedArticleId());document.querySelector('meta[name="robots"]')?.setAttribute('content',permanentExclusion?'noindex,follow':'index,follow');document.querySelector('#articleSchema')?.remove();return;
   }
   detailLookupSettled=true;
   if(status){status.textContent='';status.hidden=true;}
