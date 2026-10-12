@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgyODUxMDAwMCwiS1ZBUkFUU0tIRUxJQSBMRSBQUk9NRVRJw5MgQSBTUEVFRCBGRVNURUpBUiBTVSBQUsOTWElNTyBHT0wgQ09OIEVMIOKAnFNJVVVV4oCdIERFIENSSVNUSUFOTyJd": {
+      "account": "main",
+      "title": "KVARATSKHELIA LE PROMETIÓ A SPEED FESTEJAR SU PRÓXIMO GOL CON EL “SIUUU” DE CRISTIANO",
+      "dueAt": "2026-10-12T18:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd21c8235298ab870e436e",
+      "createdAt": "2026-10-12T18:07:05.063Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgyODQ4MDAwMCwiRkxVTUlORU5TRSBERU5VTkNJw5MgRVJST1JFUyBBUkJJVFJBTEVTIFRSQVMgUEVSREVSIEVMIENMw4FTSUNPIENPTiBGTEFNRU5HTyJd": {
+      "account": "main",
+      "title": "FLUMINENSE DENUNCIÓ ERRORES ARBITRALES TRAS PERDER EL CLÁSICO CON FLAMENGO",
+      "dueAt": "2026-10-12T18:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd21c76082b7070757ddff",
+      "createdAt": "2026-10-12T18:07:04.150Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkxODI4NDUwMDAwLCJOQVNJRiBFU1TDiUZBTk8sIEVMIFBJTE9UTyBERSBGw5NSTVVMQSAxIFFVRSBGVUUgQ0FNUEXDk04gUMOTU1RVTU8gREVMIFRVUklTTU8gQ0FSUkVURVJBIl0": {
+      "account": "f1",
+      "title": "NASIF ESTÉFANO, EL PILOTO DE FÓRMULA 1 QUE FUE CAMPEÓN PÓSTUMO DEL TURISMO CARRETERA",
+      "dueAt": "2026-10-12T18:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd21c76082b7070757dda4",
+      "createdAt": "2026-10-12T18:07:03.400Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib3hlbyIsMTc5MTgyODQyMDAwMCwiVEFUSkFOQSBHRU5SSUNIIFBBU8OTIERFIE1JU1MgQUxFTUFOSUEgQSBQUkVQQVJBUiBTVSBERUJVVCBQUk9GRVNJT05BTCBFTiBFTCBCT1hFTyJd": {
+      "account": "main",
+      "title": "TATJANA GENRICH PASÓ DE MISS ALEMANIA A PREPARAR SU DEBUT PROFESIONAL EN EL BOXEO",
+      "dueAt": "2026-10-12T18:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd21c684949d5b220e9fac",
+      "createdAt": "2026-10-12T18:07:02.975Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE4MjgzOTAwMDAsIkxBIFBFTEVBIEVOVFJFIE9SVEVHT1pBIFkgWkVMQVJBWcOBTiBRVUUgQ0FMRU5Uw5MgRUwgRklOQUwgREUgUkFDSU5HLUJFTEdSQU5PIl0": {
+      "account": "main",
+      "title": "LA PELEA ENTRE ORTEGOZA Y ZELARAYÁN QUE CALENTÓ EL FINAL DE RACING-BELGRANO",
+      "dueAt": "2026-10-12T18:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd21c617a75d2f70d123a8",
+      "createdAt": "2026-10-12T18:07:02.441Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJjb3BhIHN1ZGFtZXJpY2FuYSIsMTc5MTgyODM2MDAwMCwiQ09OTUVCT0wgTEUgRElPIFVOIFVMVElNw4FUVU0gQSBWQVNDTyBQQVJBIERFRklOSVIgTEEgU0VERSBERSBMQSBSRVZBTkNIQSBBTlRFIEJPQ0EiXQ": {
+      "account": "main",
+      "title": "CONMEBOL LE DIO UN ULTIMÁTUM A VASCO PARA DEFINIR LA SEDE DE LA REVANCHA ANTE BOCA",
+      "dueAt": "2026-10-12T18:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd21c56082b7070757dd3a",
+      "createdAt": "2026-10-12T18:07:01.928Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJoaXN0b3JpYXMiLDE3OTE4MjIwNjAwMDAsIkJBU0FOVEEgUEFTw5MgREVMIFNVQkNBTVBFT05BVE8gTVVORElBTCBDT04gQVJHRU5USU5BIEEgTEEgR0FOQURFUsONQSBZIExBUyBDQU5DSEFTIERFIFDDgURFTCJd": {
       "account": "main",
       "title": "BASANTA PASÓ DEL SUBCAMPEONATO MUNDIAL CON ARGENTINA A LA GANADERÍA Y LAS CANCHAS DE PÁDEL",
@@ -5301,64 +5349,16 @@
       "dueAt": "2026-09-24T16:25:00.000Z",
       "bufferPostId": "6ab54d80f2f882359219550a",
       "createdAt": "2026-09-24T16:19:12.587Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI1MDU0MDAwMCwiRlVFR08gRU4gTE9TIEZSRU5PUyBERSBTQUlOWjogV0lMTElBTVMgUEVSREnDkyBUSUVNUE8gQ0xBVkUgRU4gTEEgRlAxIERFIEJBS8OaIl0": {
-      "account": "f1",
-      "title": "FUEGO EN LOS FRENOS DE SAINZ: WILLIAMS PERDIÓ TIEMPO CLAVE EN LA FP1 DE BAKÚ",
-      "dueAt": "2026-09-24T15:35:00.000Z",
-      "bufferPostId": "6ab54018c81dcef2407344fd",
-      "createdAt": "2026-09-24T15:22:00.859Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103146193085775916",
-      "sentAt": "2026-09-24T15:35:01.890Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI2MDI2MDAwMCwiQ09MQVBJTlRPIEZVRSBBVVRPQ1LDjVRJQ08gVFJBUyBMQSBGUDI6IOKAnE5PIE1FIFNJRU5UTyBNVVkgQ8OTTU9ET-KAnSJd": {
-      "account": "f1",
-      "title": "COLAPINTO FUE AUTOCRÍTICO TRAS LA FP2: “NO ME SIENTO MUY CÓMODO”",
-      "dueAt": "2026-09-24T15:30:00.000Z",
-      "bufferPostId": "6ab540178333eb39f0e3228d",
-      "createdAt": "2026-09-24T15:21:59.390Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103144962132955141",
-      "sentAt": "2026-09-24T15:30:08.471Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI1NDgwMDAwMCwiQ09MQVBJTlRPIFBFR8OTIFVOIFNBTFRPIEVOIEJBS8OaOiAxMcKwIEVOIExBIEZQMiBZIEEgTEFTIFBVRVJUQVMgREVMIFRPUCAxMCJd": {
-      "account": "f1",
-      "title": "COLAPINTO PEGÓ UN SALTO EN BAKÚ: 11° EN LA FP2 Y A LAS PUERTAS DEL TOP 10",
-      "dueAt": "2026-09-24T15:25:00.000Z",
-      "bufferPostId": "6ab54016c81dcef2407344c9",
-      "createdAt": "2026-09-24T15:21:59.068Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103143680924119255",
-      "sentAt": "2026-09-24T15:25:02.972Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJwYWRlbCIsMTc5MDI1MjQ2MDAwMCwiQVBBIEFQQVJUw5MgQSBGTE9SRU5DSUEgR1VFUlJBIFNPREVSTyBERSBMQSBTRUxFQ0NJw5NOIERFIFDDgURFTCBQT1IgRVhQUkVTSU9ORVMgQU5USVNFTUlUQVMiXQ": {
-      "account": "main",
-      "title": "APA APARTÓ A FLORENCIA GUERRA SODERO DE LA SELECCIÓN DE PÁDEL POR EXPRESIONES ANTISEMITAS",
-      "dueAt": "2026-09-24T15:35:00.000Z",
-      "bufferPostId": "6ab5401602742bba8b51ad54",
-      "createdAt": "2026-09-24T15:21:58.510Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzYW50YSBmZSAyMDI2IiwxNzkwMjUwNjAwMDAwLCJBUkdFTlRJTkEgWUEgVElFTkUgRklOQUw6IFZBIFBPUiBFTCBPUk8gQU5URSBQQVJBR1VBWSBFTiBFTCBNQVJDRUxPIEJJRUxTQSJd": {
-      "account": "main",
-      "title": "ARGENTINA YA TIENE FINAL: VA POR EL ORO ANTE PARAGUAY EN EL MARCELO BIELSA",
-      "dueAt": "2026-09-24T15:30:00.000Z",
-      "bufferPostId": "6ab54015ed952d22bacd1bc5",
-      "createdAt": "2026-09-24T15:21:58.097Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNTYwNjAwMDAsIkNVVEkgUk9NRVJPIFNFIEpVR8OTIFBPUiBNRVNTSSBQQVJBIEVMIEJBTMOTTiBERSBPUk86IOKAnE5PIEhBWSBPVFJPIENPTU8gw4lM4oCdIl0": {
-      "account": "main",
-      "title": "CUTI ROMERO SE JUGÓ POR MESSI PARA EL BALÓN DE ORO: “NO HAY OTRO COMO ÉL”",
-      "dueAt": "2026-09-24T15:25:00.000Z",
-      "bufferPostId": "6ab5400a1af2d8014e2d53ab",
-      "createdAt": "2026-09-24T15:21:46.338Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-12T10:20:00.000Z",
-    "main": "2026-10-12T17:05:00.000Z"
+    "f1": "2026-10-12T18:15:00.000Z",
+    "main": "2026-10-12T18:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-12T17:45:40.439Z"
+    "lastLinksRefreshAt": "2026-10-12T18:07:01.294Z"
   }
 }
