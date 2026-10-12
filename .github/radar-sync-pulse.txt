@@ -1,5 +1,5 @@
 RanaSports Radar 1 → GitHub Sync
-Fecha y hora ARG: 2026-10-12 00:51:00
-Altas verificadas: 8
-Última noticia: GIMNASIA DE MENDOZA Y NEWELL'S JUEGAN UN CRUCE DIRECTO POR LOS PLAYOFFS
-Filas: Noticias!2954:2961
+Fecha y hora ARG: 2026-10-12 07:10:16
+Altas verificadas: 6
+Última noticia: JOAQUÍN REINOSO, LA PROMESA NACIDA EN NUEVA ZELANDA QUE ELIGIÓ JUGAR PARA ARGENTINA
+Filas: Noticias!2962:2967
