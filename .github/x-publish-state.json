@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkxNzk5ODE0MDAwLCJOSUNPTMOBUyBWQVJST05FIERFRklOScOTIFNVIEZVVFVSTyBZIFZPTFZFUsOBIEEgQ09SUkVSIEVOIFJFU0lTVEVOQ0lBIEVOIDIwMjciXQ": {
+      "account": "f1",
+      "title": "NICOLÁS VARRONE DEFINIÓ SU FUTURO Y VOLVERÁ A CORRER EN RESISTENCIA EN 2027",
+      "dueAt": "2026-10-12T10:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6accb24f0b395b96ab070402",
+      "createdAt": "2026-10-12T10:11:27.940Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJhc2NlbnNvIiwxNzkxNzk5ODEzMDAwLCJUUkVTIEVYUFVMU0FET1MsIEdPTCBBR8OTTklDTyBFIElOQ0lERU5URVMgRU4gQ0lQT0xMRVRUSS1BTFZBUkFETyJd": {
+      "account": "main",
+      "title": "TRES EXPULSADOS, GOL AGÓNICO E INCIDENTES EN CIPOLLETTI-ALVARADO",
+      "dueAt": "2026-10-12T10:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6accb24fccd31a0d0ed34fc8",
+      "createdAt": "2026-10-12T10:11:27.527Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE3OTk4MTIwMDAsIkVMIENJTElORFJPIEVTVEFMTMOTIENPTlRSQSBFTCBQTEFOVEVMIFkgRVhJR0nDkyBHQU5BUkxFIEEgSU5ERVBFTkRJRU5URSJd": {
+      "account": "main",
+      "title": "EL CILINDRO ESTALLÓ CONTRA EL PLANTEL Y EXIGIÓ GANARLE A INDEPENDIENTE",
+      "dueAt": "2026-10-12T10:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6accb24ea0f0173687a8a367",
+      "createdAt": "2026-10-12T10:11:26.603Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE3OTk4MTEwMDAsIlZJRVJBIFZBTE9Sw5MgTEEgQUNUSVRVRCBERSBJTkRFUEVORElFTlRFIFkgUFVTTyBFTCBDTMOBU0lDTyBDT04gUkFDSU5HIEVOIEVMIENFTlRSTyJd": {
+      "account": "main",
+      "title": "VIERA VALORÓ LA ACTITUD DE INDEPENDIENTE Y PUSO EL CLÁSICO CON RACING EN EL CENTRO",
+      "dueAt": "2026-10-12T10:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6accb24ed454f86ad9b9d34c",
+      "createdAt": "2026-10-12T10:11:26.164Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE3OTk4MTYwMDAsIkpPQVFVw41OIFJFSU5PU08sIExBIFBST01FU0EgTkFDSURBIEVOIE5VRVZBIFpFTEFOREEgUVVFIEVMSUdJw5MgSlVHQVIgUEFSQSBBUkdFTlRJTkEiXQ": {
+      "account": "main",
+      "title": "JOAQUÍN REINOSO, LA PROMESA NACIDA EN NUEVA ZELANDA QUE ELIGIÓ JUGAR PARA ARGENTINA",
+      "dueAt": "2026-10-12T10:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6accb24dccd31a0d0ed34f99",
+      "createdAt": "2026-10-12T10:11:25.676Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE3OTk4MTUwMDAsIkVMIEVNT0NJT05BTlRFIE1FTlNBSkUgREVMIERJQlUgTUFSVMONTkVaIEEgTUVTU0kgRU4gTEEgQ0FNSVNFVEEgREUgU1UgREVTUEVESURBIl0": {
+      "account": "main",
+      "title": "EL EMOCIONANTE MENSAJE DEL DIBU MARTÍNEZ A MESSI EN LA CAMISETA DE SU DESPEDIDA",
+      "dueAt": "2026-10-12T10:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6accb24d0b395b96ab070381",
+      "createdAt": "2026-10-12T10:11:25.184Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJsaWdhIHByb2Zlc2lvbmFsIiwxNzkxNzc2OTQwMDAwLCJHSU1OQVNJQSBERSBNRU5ET1pBIFkgTkVXRUxMJ1MgSlVFR0FOIFVOIENSVUNFIERJUkVDVE8gUE9SIExPUyBQTEFZT0ZGUyJd": {
       "account": "main",
       "title": "GIMNASIA DE MENDOZA Y NEWELL'S JUEGAN UN CRUCE DIRECTO POR LOS PLAYOFFS",
@@ -5277,58 +5325,16 @@
       "dueAt": "2026-09-24T01:25:00.000Z",
       "bufferPostId": "6ab479294ee8bfc2fd25a896",
       "createdAt": "2026-09-24T01:13:14.053Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJlc2NhbGFkYSIsMTc5MDIxMTkwMDAwMCwiQUxFSk8gU1VURVIgRVMgREUgT1JPOiBHQU7DkyBFTCBCT1VMREVSIEVOIEVMIERFQlVUIFNVUkFNRVJJQ0FOTyBERSBMQSBFU0NBTEFEQSJd": {
-      "account": "main",
-      "title": "ALEJO SUTER ES DE ORO: GANÓ EL BOULDER EN EL DEBUT SURAMERICANO DE LA ESCALADA",
-      "dueAt": "2026-09-24T01:20:00.000Z",
-      "bufferPostId": "6ab4790dccbef1e0a5408265",
-      "createdAt": "2026-09-24T01:12:45.589Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjYW5vdGFqZSIsMTc5MDIxMTkwMDAwMCwiTUFOVUVMIFRSw41QQU5PIEVTIERFIE9STzogQ0FNUEXDk04gU1VSQU1FUklDQU5PIEVOIEMxIFNMQUxPTSBQQVJBTEVMTyJd": {
-      "account": "main",
-      "title": "MANUEL TRÍPANO ES DE ORO: CAMPEÓN SURAMERICANO EN C1 SLALOM PARALELO",
-      "dueAt": "2026-09-24T01:15:00.000Z",
-      "bufferPostId": "6ab4790ca75ad3963e0de1dc",
-      "createdAt": "2026-09-24T01:12:44.189Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDIwODMwMDAwMCwiQ09MQVBJTlRPIExFIEVTQ1JJQknDkyBBIE1FU1NJIEFOVEVTIERFIFNVIERFU1BFRElEQTog4oCcTk8gVEUgVkFZQVMgTlVOQ0HigJ0iXQ": {
-      "account": "f1",
-      "title": "COLAPINTO LE ESCRIBIÓ A MESSI ANTES DE SU DESPEDIDA: “NO TE VAYAS NUNCA”",
-      "dueAt": "2026-09-24T00:30:00.000Z",
-      "bufferPostId": "6ab46e0ccdc0a64118080b0d",
-      "createdAt": "2026-09-24T00:25:48.823Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjb3BhIGFyZ2VudGluYSIsMTc5MDIwODMwMDAwMCwiQk9DQSBTSUdVRSBFTiBDT1BBIEFSR0VOVElOQSwgUEVSTyBQQUdBUsOBIFVOQSBNVUxUQSBNSUxMT05BUklBIFBPUiBMQSBQTEFOSUxMQSBBTlRFIFbDiUxFWiJd": {
-      "account": "main",
-      "title": "BOCA SIGUE EN COPA ARGENTINA, PERO PAGARÁ UNA MULTA MILLONARIA POR LA PLANILLA ANTE VÉLEZ",
-      "dueAt": "2026-09-24T00:50:00.000Z",
-      "bufferPostId": "6ab46e0b4ee8bfc2fd247805",
-      "createdAt": "2026-09-24T00:25:47.606Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyMDgzMDAwMDAsIkVOWk8gRkVSTsOBTkRFWiBQSURJw5MgUVVFIFNDQUxPTkkgU0lHQTog4oCcRVMgTVVZIElNUE9SVEFOVEUgUEFSQSBOT1NPVFJPU-KAnSJd": {
-      "account": "main",
-      "title": "ENZO FERNÁNDEZ PIDIÓ QUE SCALONI SIGA: “ES MUY IMPORTANTE PARA NOSOTROS”",
-      "dueAt": "2026-09-24T00:45:00.000Z",
-      "bufferPostId": "6ab46e00a9da2eb42fbf7fe9",
-      "createdAt": "2026-09-24T00:25:36.387Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyMDgzMDAwMDAsIkxBIFNFTEVDQ0nDk04gWUEgVFJBQkFKQSBFTiBFWkVJWkE6IE1BU1RBTlRVT05PLCBESUJVLCBKVUxJw4FOIFkgQ1VUSSBTRSBTVU1BUk9OIEFMIFBMQU5URUwiXQ": {
-      "account": "main",
-      "title": "LA SELECCIÓN YA TRABAJA EN EZEIZA: MASTANTUONO, DIBU, JULIÁN Y CUTI SE SUMARON AL PLANTEL",
-      "dueAt": "2026-09-24T00:40:00.000Z",
-      "bufferPostId": "6ab46dfea9da2eb42fbf7f9b",
-      "createdAt": "2026-09-24T00:25:34.318Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-12T02:15:00.000Z",
-    "main": "2026-10-12T04:30:00.000Z"
+    "f1": "2026-10-12T10:20:00.000Z",
+    "main": "2026-10-12T10:40:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-12T08:01:08.204Z"
+    "lastLinksRefreshAt": "2026-10-12T10:11:23.515Z"
   }
 }
