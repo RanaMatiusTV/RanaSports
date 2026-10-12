@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-12T09:45:45.376Z",
+  "updatedAt": "2026-10-12T19:22:01.379Z",
   "trends": [
     {
-      "query": "hoy es feriado",
-      "startedAt": "2026-10-12T09:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "xbox cloud gaming",
-      "startedAt": "2026-10-12T05:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "clima santiago del estero",
-      "startedAt": "2026-10-12T03:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sorteo quini 6",
-      "startedAt": "2026-10-12T03:00:00.000Z",
+      "query": "¿quien es darío giordano?",
+      "startedAt": "2026-10-12T19:00:00.000Z",
       "volume": 1000
     },
     {
-      "query": "ricardo darín",
-      "startedAt": "2026-10-12T02:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fuego",
-      "startedAt": "2026-10-12T02:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ruta nacional 11",
-      "startedAt": "2026-10-12T02:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "maru botana",
-      "startedAt": "2026-10-12T02:20:00.000Z",
+      "query": "río paraná",
+      "startedAt": "2026-10-12T19:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "superávit económico",
-      "startedAt": "2026-10-12T02:10:00.000Z",
+      "query": "newcastle",
+      "startedAt": "2026-10-12T18:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "madre",
-      "startedAt": "2026-10-12T01:30:00.000Z",
-      "volume": 2000
+      "query": "torino - udinese",
+      "startedAt": "2026-10-12T18:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "coritiba - botafogo",
+      "startedAt": "2026-10-12T18:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "al nassr",
+      "startedAt": "2026-10-12T18:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "julio iglesias",
+      "startedAt": "2026-10-12T18:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "primera c",
+      "startedAt": "2026-10-12T18:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "gregorio dalbon",
+      "startedAt": "2026-10-12T18:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "brasileños",
+      "startedAt": "2026-10-12T18:20:00.000Z",
+      "volume": 200
     }
   ]
 }
