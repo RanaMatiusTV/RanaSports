@@ -21,8 +21,8 @@
       "label": "F1/F2/F3: sin tope diario interno",
       "dailyTargetMin": null,
       "dailyMax": null,
-      "hourlyMax": 2,
-      "minGapMinutes": 30
+      "hourlyMax": 1,
+      "minGapMinutes": 60
     },
     "sports": {
       "label": "Resto del deporte",
