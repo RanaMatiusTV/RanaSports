@@ -1,5 +1,8 @@
 name: Distribute RanaSports news to three X accounts
 on:
+  push:
+    paths:
+      - '.github/workflows/distribute-x.yml'
   schedule:
     - cron: '15 * * * *'
   workflow_dispatch:
