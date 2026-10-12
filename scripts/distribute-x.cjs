@@ -499,6 +499,10 @@ async function main() {
   if(pol.dailyMax!=null && sameDayPublishedCount(state,account,day)>=pol.dailyMax)continue;
   if(futureCount(state,account,now)>=(account==='sports' ? 3 : MAX_FUTURE_PER_CHANNEL))continue;
   const image=await validateImage(x.item.image);
+  if (!image) {
+   console.log('SKIP_NO_VALID_PHOTO '+account+' '+x.item.title);
+   continue;
+  }
   try{
    const post=await createBufferPost(key,ids[account],postText(x.item,account,x.url),image,new Date(slot).toISOString(),false);
    state.processed[x.url]={account,title:x.item.title,dueAt:post.dueAt||new Date(slot).toISOString(),mode:'customScheduled',bufferPostId:post.id,createdAt:new Date().toISOString()};
