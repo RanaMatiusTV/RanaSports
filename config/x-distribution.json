@@ -2,7 +2,7 @@
   "enabled": true,
   "dryRun": false,
   "timezone": "America/Argentina/Buenos_Aires",
-  "activationAt": "2026-10-13T10:00:00.000Z",
+  "activationAt": "2026-10-12T20:52:00.000Z",
   "source": "assets/news-live.csv",
   "buffer": {
     "mainHandle": "RanaMatiusTV",
@@ -15,21 +15,24 @@
       "dailyTarget": null,
       "dailyMax": null,
       "hourlyMax": 1,
-      "minGapMinutes": 60
+      "minGapMinutes": 60,
+      "activationAt": "2026-10-13T10:00:00.000Z"
     },
     "f1": {
       "label": "F1/F2/F3: sin tope diario interno",
       "dailyTargetMin": null,
       "dailyMax": null,
       "hourlyMax": 1,
-      "minGapMinutes": 60
+      "minGapMinutes": 60,
+      "activationAt": "2026-10-12T20:52:00.000Z"
     },
     "sports": {
       "label": "Resto del deporte",
       "dailyTargetMin": 24,
       "dailyMax": 30,
       "hourlyMax": 2,
-      "minGapMinutes": 30
+      "minGapMinutes": 30,
+      "activationAt": "2026-10-12T20:52:00.000Z"
     }
   },
   "selection": {
