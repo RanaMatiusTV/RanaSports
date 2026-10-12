@@ -1,13 +1,63 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTc2Mzc0NjAwMCwiR0FTUEFSVCBBUFVOVMOTIENPTlRSQSBNRVNTSSBQT1IgTEEgREVNT1JBIERFIFNVIERFU1BFRElEQSBFTiBCQVJDRUxPTkEiXQ": {
+      "account": "main",
+      "title": "GASPART APUNTÓ CONTRA MESSI POR LA DEMORA DE SU DESPEDIDA EN BARCELONA",
+      "dueAt": "2026-10-12T00:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc257dea568e911a46c4c9",
+      "createdAt": "2026-10-12T00:10:37.709Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTc2Mzc0NTAwMCwiSEFESkFSIEVYUExPVMOTIFBPUiBSQURJTyBBTCBOTyBQT0RFUiBTVVBFUkFSIEEgQ09MQVBJTlRPIl0": {
+      "account": "f1",
+      "title": "HADJAR EXPLOTÓ POR RADIO AL NO PODER SUPERAR A COLAPINTO",
+      "dueAt": "2026-10-12T00:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc257c8e8dd50ffc5e5b37",
+      "createdAt": "2026-10-12T00:10:36.860Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTc2Mzc0NDAwMCwiTEEgREVTRVNQRVJBQ0nDk04gREUgQ09MQVBJTlRPIFBPUiBSQURJTyBBTlRFUyBERSBBQkFORE9OQVIgRU4gU0lOR0FQVVIiXQ": {
+      "account": "f1",
+      "title": "LA DESESPERACIÓN DE COLAPINTO POR RADIO ANTES DE ABANDONAR EN SINGAPUR",
+      "dueAt": "2026-10-12T00:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc257bea568e911a46c4a0",
+      "createdAt": "2026-10-12T00:10:35.905Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTc2Mzc0MzAwMCwiR0FMTEFSRE8gU0UgUVVFRMOTIEVOIEVDVUFET1IgUEFSQSBPQlNFUlZBUiBQT1NJQkxFUyBDT05WT0NBRE9TIl0": {
+      "account": "main",
+      "title": "GALLARDO SE QUEDÓ EN ECUADOR PARA OBSERVAR POSIBLES CONVOCADOS",
+      "dueAt": "2026-10-12T00:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc257b8e8dd50ffc5e5ae5",
+      "createdAt": "2026-10-12T00:10:35.249Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJhc2NlbnNvIiwxNzkxNzYzNzQyMDAwLCJWSU9MRU5DSUEgRU4gRUwgQ0zDgVNJQ08gREVMIE5PUlRFOiBISU5DSEFTIFNFIFBFTEVBUk9OIFNPQlJFIEVMIEFMQU1CUkFETyJd": {
+      "account": "main",
+      "title": "VIOLENCIA EN EL CLÁSICO DEL NORTE: HINCHAS SE PELEARON SOBRE EL ALAMBRADO",
+      "dueAt": "2026-10-12T00:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc257aa9411fbcc563322b",
+      "createdAt": "2026-10-12T00:10:34.780Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJzYW4gbG9yZW56byIsMTc5MTc2Mzc0MTAwMCwiSU5Tw5pBIFZBTE9Sw5MgU1UgUFJJTUVSIFRSSVVORk8gREVTREUgRUwgUkVHUkVTTyBBIFNBTiBMT1JFTlpPIl0": {
+      "account": "main",
+      "title": "INSÚA VALORÓ SU PRIMER TRIUNFO DESDE EL REGRESO A SAN LORENZO",
+      "dueAt": "2026-10-12T00:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acc257a8e8dd50ffc5e5a87",
+      "createdAt": "2026-10-12T00:10:34.396Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE3NTYzNjYwMDAsIkRJIE1BUsONQSBCUklMTMOTIFkgUk9TQVJJTyBDRU5UUkFMIEdPTEXDkyA1LTAgQSBJTkRFUEVORElFTlRFIFJJVkFEQVZJQSJd": {
       "account": "main",
       "title": "DI MARÍA BRILLÓ Y ROSARIO CENTRAL GOLEÓ 5-0 A INDEPENDIENTE RIVADAVIA",
       "dueAt": "2026-10-11T22:35:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc089c8e8dd50ffc599ace",
-      "createdAt": "2026-10-11T22:07:24.439Z"
+      "createdAt": "2026-10-11T22:07:24.439Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109412484415152450",
+      "sentAt": "2026-10-11T22:35:02.167Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE3NTYzNjUwMDAsIlBMQVRFTlNFIFkgQVJHRU5USU5PUyBFTVBBVEFST04gMS0xIEVOIFZJQ0VOVEUgTMOTUEVaIl0": {
       "account": "main",
@@ -15,7 +65,9 @@
       "dueAt": "2026-10-11T22:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc089cea568e911a425a01",
-      "createdAt": "2026-10-11T22:07:24.128Z"
+      "createdAt": "2026-10-11T22:07:24.128Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109411254288749014",
+      "sentAt": "2026-10-11T22:30:08.917Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJyYWNpbmciLDE3OTE3NTYzNjQwMDAsIlJBQ0lORyBSRUNJQkUgQSBCRUxHUkFOTyBDT04gTE9TIE9OQ0UgQ09ORklSTUFET1MiXQ": {
       "account": "main",
@@ -23,7 +75,9 @@
       "dueAt": "2026-10-11T22:25:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc089bfa026cfb81188adc",
-      "createdAt": "2026-10-11T22:07:23.714Z"
+      "createdAt": "2026-10-11T22:07:23.714Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109409967912480954",
+      "sentAt": "2026-10-11T22:25:02.192Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTc1NjM2MzAwMCwiRUwgS0lMWSBSRVZFTMOTIFFVRSBBIE1FU1NJIExPIEVOVFVTSUFTTUEgSlVHQVIgTEEgQ09QQSBMSUJFUlRBRE9SRVMiXQ": {
       "account": "main",
@@ -31,7 +85,9 @@
       "dueAt": "2026-10-11T22:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc089b7db619a2914c6023",
-      "createdAt": "2026-10-11T22:07:23.290Z"
+      "createdAt": "2026-10-11T22:07:23.290Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109408708207755330",
+      "sentAt": "2026-10-11T22:20:01.875Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTc1NjM2MTAwMCwiTEFTIEJBTkFOQVMgSU5GTEFCTEVTIERFTCBDSVRZIEVOIEFORklFTEQgWSBTVSBISVNUT1JJQSBDT05UUkEgRUwgUkFDSVNNTyJd": {
       "account": "main",
@@ -39,7 +95,9 @@
       "dueAt": "2026-10-11T22:15:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc089aea568e911a4259bb",
-      "createdAt": "2026-10-11T22:07:22.878Z"
+      "createdAt": "2026-10-11T22:07:22.878Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109407473429803271",
+      "sentAt": "2026-10-11T22:15:07.489Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNzU2MzYyMDAwLCJJTkRFUEVORElFTlRFIFZJU0lUQSBBIFRBTExFUkVTIENPTiBMQSBPQkxJR0FDScOTTiBERSBSRUFDQ0lPTkFSIl0": {
       "account": "main",
@@ -47,7 +105,9 @@
       "dueAt": "2026-10-11T22:10:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acc089aea568e911a425979",
-      "createdAt": "2026-10-11T22:07:22.445Z"
+      "createdAt": "2026-10-11T22:07:22.445Z",
+      "externalLink": "https://x.com/768913759301754880/status/2109406192736809020",
+      "sentAt": "2026-10-11T22:10:02.128Z"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJzYW4gbG9yZW56byIsMTc5MTc0ODk4ODAwMCwiU0FOIExPUkVOWk8gR0FOw5MsIFBFUk8gU1VTIEhJTkNIQVMgUkVDSUJJRVJPTiBBTCBFUVVJUE8gQ09OIEZVRVJURVMgQ8OBTlRJQ09TIl0": {
       "account": "main",
@@ -5215,58 +5275,16 @@
       "dueAt": "2026-09-23T19:20:00.000Z",
       "bufferPostId": "6ab42600746aac800cfb831d",
       "createdAt": "2026-09-23T19:18:24.444Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjYW5vdGFqZSIsMTc5MDE5MDMwMDAwMCwiTUFUw41BUyBDT05UUkVSQVMgRlVFIEJST05DRSBFTiBLQVlBSyBDUk9TUyBZIFNVTcOTIE9UUkEgTUVEQUxMQSBBUkdFTlRJTkEiXQ": {
-      "account": "main",
-      "title": "MATÍAS CONTRERAS FUE BRONCE EN KAYAK CROSS Y SUMÓ OTRA MEDALLA ARGENTINA",
-      "dueAt": "2026-09-23T19:25:00.000Z",
-      "bufferPostId": "6ab425ff73cc0d10c75cccbf",
-      "createdAt": "2026-09-23T19:18:23.504Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMTkwMzAwMDAwLCJDSElNWSDDgVZJTEEgU0UgREVTR0FSUsOTIFkgRVMgTVVZIERJRsONQ0lMIFFVRSBMTEVHVUUgQUwgRFVFTE8gQ0xBVkUgQ09OIElOU1RJVFVUTyJd": {
-      "account": "main",
-      "title": "CHIMY ÁVILA SE DESGARRÓ Y ES MUY DIFÍCIL QUE LLEGUE AL DUELO CLAVE CON INSTITUTO",
-      "dueAt": "2026-09-23T19:20:00.000Z",
-      "bufferPostId": "6ab425fe2ed4dc0831d60970",
-      "createdAt": "2026-09-23T19:18:22.354Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDE4Njc2MDAwMCwiQlJJQVRPUkUgUFVTTyBVTiBMw41NSVRFIEEgTE9TIEFUQVFVRVM6IOKAnEZSQU5DTyBERUpBUsOBIERFIEhBQkxBUuKAnSBTSSBDT05USU7DmkFOIl0": {
-      "account": "f1",
-      "title": "BRIATORE PUSO UN LÍMITE A LOS ATAQUES: “FRANCO DEJARÁ DE HABLAR” SI CONTINÚAN",
-      "dueAt": "2026-09-23T18:25:00.000Z",
-      "bufferPostId": "6ab418de40567a7a60b801c2",
-      "createdAt": "2026-09-23T18:22:22.336Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjaWNsaXNtbyIsMTc5MDE4Njc2MDAwMCwiT1JPIFBBUkEgQVJHRU5USU5BOiBSVULDiU4gUkFNT1MgWSBNQVJDT1MgTcOJTkRFWiBHQU5BUk9OIExBIE1BRElTT04gRU4gUkFGQUVMQSJd": {
-      "account": "main",
-      "title": "ORO PARA ARGENTINA: RUBÉN RAMOS Y MARCOS MÉNDEZ GANARON LA MADISON EN RAFAELA",
-      "dueAt": "2026-09-23T18:25:00.000Z",
-      "bufferPostId": "6ab418ddb6396f8b6e4c62e3",
-      "createdAt": "2026-09-23T18:22:21.670Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjaWNsaXNtbyIsMTc5MDE4MjkyMDAwMCwiQlJPTkNFIFBBUkEgQUdVSVJSRSBZIEdBUlrDk04gRU4gTEEgTUFESVNPTjogT1RSQSBNRURBTExBIEFSR0VOVElOQSBFTiBSQUZBRUxBIl0": {
-      "account": "main",
-      "title": "BRONCE PARA AGUIRRE Y GARZÓN EN LA MADISON: OTRA MEDALLA ARGENTINA EN RAFAELA",
-      "dueAt": "2026-09-23T17:45:00.000Z",
-      "bufferPostId": "6ab40f016e5064bb9203b1b2",
-      "createdAt": "2026-09-23T17:40:17.539Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjaWNsaXNtbyIsMTc5MDE4MjkyMDAwMCwiTkFUQUxJQSBWRVJBIFNVTcOTIE9UUkEgUExBVEE6IFNFR1VOREEgRU4gRUwgS0VJUklOIERFIFNBTlRBIEZFIDIwMjYiXQ": {
-      "account": "main",
-      "title": "NATALIA VERA SUMÓ OTRA PLATA: SEGUNDA EN EL KEIRIN DE SANTA FE 2026",
-      "dueAt": "2026-09-23T17:15:00.000Z",
-      "bufferPostId": "6ab40870158cddaee30879fa",
-      "createdAt": "2026-09-23T17:12:16.696Z"
     }
   },
   "nextAt": {
-    "f1": "2026-10-11T21:20:00.000Z",
-    "main": "2026-10-11T22:40:00.000Z"
+    "f1": "2026-10-12T00:25:00.000Z",
+    "main": "2026-10-12T00:35:00.000Z"
   },
   "buffer": {
     "organizationId": "6aa4288ba2d30cc3deb9575b",
     "mainChannelId": "6aa4297acd8b9c702c4e8145",
     "f1ChannelId": "6aa429fccd8b9c702c4e8494",
-    "lastLinksRefreshAt": "2026-10-11T22:07:21.973Z"
+    "lastLinksRefreshAt": "2026-10-12T00:10:33.832Z"
   }
 }
