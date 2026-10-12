@@ -1,0 +1,34 @@
+name: Audit Buffer Oct 12 recovered posts
+on:
+  push:
+    paths:
+      - .github/workflows/audit-x-20261012.yml
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    env:
+      BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Query the actual status and errors without posting
+        run: |
+          node <<'NODE'
+          const fs=require('node:fs');
+          const state=JSON.parse(fs.readFileSync('.github/x-publish-state.json','utf8'));
+          const ids=Object.entries(state.processed).filter(([u,v])=>v.recoveryDate==='2026-10-12').slice(0,4).map(([u,v])=>({id:v.bufferPostId,title:v.title}));
+          (async()=>{
+          for(const item of ids){
+           const query='query AuditPost {post(input:{id:'+JSON.stringify(item.id)+'}){id status externalLink sentAt error{message}}}';
+           const r=await fetch('https://api.buffer.com',{method:'POST',headers:{Authorization:'Bearer '+process.env.BUFFER_API_KEY,'Content-Type':'application/json'},body:JSON.stringify({query})});
+           const j=await r.json();console.log('AUDIT '+item.title+' '+JSON.stringify(j.data?.post||j.errors||{http:r.status}));
+          }
+          })().catch(e=>{console.error(e.message);process.exitCode=1});
+          NODE
