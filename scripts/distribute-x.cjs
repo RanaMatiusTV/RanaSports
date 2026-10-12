@@ -448,6 +448,20 @@ function targets(config,now) {
 function sameDayPublishedCount(state,account,day) {
  return Object.values(state.processed||{}).filter(e=>e.account===account && localParts(Date.parse(e.dueAt||e.createdAt||0)).day===day && e.bufferPostId).length;
 }
+async function recentBufferErrors(apiKey,state,activation){
+ const org=state.buffer.organizationId;
+ const result=new Set();
+ for(const [account,field] of [['main','mainChannelId'],['f1','f1ChannelId'],['sports','sportsChannelId']]){
+  const ch=state.buffer[field];if(!ch)continue;
+  try {
+   const query='query ErrorCheck {posts(first:100,input:{organizationId:'+gqlString(org)+',filter:{status:[error],channelIds:['+gqlString(ch)+']},sort:[{field:dueAt,direction:desc}]}){edges{node{id status dueAt}}}}';
+   const x=await bufferRequest(apiKey,query);
+   if((x?.posts?.edges||[]).some(e=>Date.parse(e?.node?.dueAt||0)>=activation))result.add(account);
+  }catch(e){throw Error('No pude comprobar errores de Buffer para '+account+': '+e.message);}
+ }
+ return result;
+}
+
 async function main() {
  const cfg=JSON.parse(fs.readFileSync(CONFIG_PATH,'utf8'));
  if(cfg.enabled!==true || cfg.dryRun!==false){
@@ -474,11 +488,13 @@ async function main() {
  }
  candidates.sort((a,b)=>b.score-a.score || b.item.date-a.item.date);
  const slots=targets({...cfg,_state:state},now);
+ const errors=await recentBufferErrors(key,state,activation);
+ state.lockedUntil ||= {};
  const scheduled={main:0,f1:0,sports:0};
  const failed=new Set();
  for (const x of candidates) {
   const account=x.account,pol=cfg.accounts[account],slot=slots[account]?.shift();
-  if(!slot || failed.has(account))continue;
+  if(!slot || failed.has(account) || errors.has(account) || Date.parse(state.lockedUntil[account]||0)>now)continue;
   const day=localParts(slot).day;
   if(pol.dailyMax!=null && sameDayPublishedCount(state,account,day)>=pol.dailyMax)continue;
   if(futureCount(state,account,now)>=MAX_FUTURE_PER_CHANNEL)continue;
@@ -487,9 +503,9 @@ async function main() {
    const post=await createBufferPost(key,ids[account],postText(x.item,account,x.url),image,new Date(slot).toISOString(),false);
    state.processed[x.url]={account,title:x.item.title,dueAt:post.dueAt||new Date(slot).toISOString(),mode:'customScheduled',bufferPostId:post.id,createdAt:new Date().toISOString()};
    scheduled[account]++;writeState(state);
-  }catch(err){ console.error('HALT '+account+' '+err.message);failed.add(account); }
+  }catch(err){ console.error('HALT '+account+' '+err.message);failed.add(account);state.lockedUntil[account]=new Date(now+12*3600000).toISOString();writeState(state); }
  }
- console.log(JSON.stringify({scheduled,failed:[...failed],candidates:candidates.length,channels:ids}));
+ console.log(JSON.stringify({scheduled,failed:[...failed],previousBufferErrors:[...errors],candidates:candidates.length,channels:ids}));
  if(failed.size)process.exitCode=1;
 }
 main().catch(e=>{console.error(e);process.exitCode=1});
