@@ -1,0 +1,107 @@
+name: RanaSports one-time recover X 2026-10-12
+on:
+  push:
+    paths:
+      - .github/workflows/recover-x-20261012.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: ranasports-recover-20261012
+  cancel-in-progress: false
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify Buffer errors and recover only posts due October 12 Argentina
+        run: |
+          node <<'NODE'
+          const fs = require('node:fs');
+          const ORG_START = '2026-10-12T03:00:00.000Z';
+          const ORG_END = '2026-10-13T03:00:00.000Z';
+          const state = JSON.parse(fs.readFileSync('.github/x-publish-state.json','utf8'));
+          const mainId = state.buffer?.mainChannelId;
+          const org = state.buffer?.organizationId;
+          const token = process.env.BUFFER_API_KEY;
+          if (!org || !mainId || !token) throw new Error('Faltan credenciales o ids de Buffer');
+          const sleep = ms => new Promise(resolve => setTimeout(resolve,ms));
+          const qstr = v => JSON.stringify(String(v));
+          async function api(query) {
+            const res = await fetch('https://api.buffer.com',{method:'POST',headers:{'Content-Type':'application/json','Authorization':'Bearer '+token},body:JSON.stringify({query})});
+            const json = await res.json();
+            if (!res.ok || json.errors?.length) throw new Error(json.errors?.map(e=>e.message).join('; ') || 'HTTP '+res.status);
+            return json.data;
+          }
+          async function fetchPosts(){
+            let cursor = null, all=[];
+            for(let page=0;page<7;page++){
+              const after=cursor ? ',after:'+qstr(cursor) : '';
+              const query='query RecoveryAudit { posts(first:100'+after+',input:{organizationId:'+qstr(org)+',filter:{channelIds:['+qstr(mainId)+'],status:[error,sent,scheduled,sending],startDate:'+qstr(ORG_START)+',endDate:'+qstr(ORG_END)+'},sort:[{field:dueAt,direction:desc}]}) {edges{node{id text status dueAt externalLink}}pageInfo{hasNextPage endCursor}}}';
+              const data=await api(query);
+              const got=data?.posts;
+              if(!got?.edges) throw new Error('Buffer no devolvio posts');
+              all.push(...got.edges.map(x=>x.node).filter(Boolean));
+              if(!got.pageInfo?.hasNextPage)return all;
+              cursor=got.pageInfo.endCursor;
+              if(!cursor)throw new Error('Buffer: cursor faltante');
+            }
+            throw new Error('Mas de 700 posts; cancelar para evitar duplicados');
+          }
+          (async()=>{
+           const posts=await fetchPosts();
+           const current = Date.now();
+           const todays=Object.entries(state.processed||{}).filter(([url,item])=>
+             item.account==='main' &&
+             url.startsWith('https://ranasports.com.ar/noticia.html?n=') &&
+             item.dueAt >= ORG_START && item.dueAt < ORG_END &&
+             Date.parse(item.dueAt) <= current &&
+             item.bufferPostId
+           );
+           console.log('RECOVERY_SCOPE day=2026-10-12 AR channel=RanaMatiusTV candidates='+todays.length+' Buffer-posts='+posts.length);
+           let accepted=0,skipped=0,failed=0,changed=false;
+           const used=new Set();
+           for(const [url,item] of todays.sort((a,b)=>Date.parse(a[1].dueAt)-Date.parse(b[1].dueAt))){
+            const orig=posts.find(p=>p.id===item.bufferPostId);
+            if(!orig || orig.status!=='error'||!(orig.text||'').includes(url)){
+              console.log('SKIP original_not_confirmed_error '+item.title+' status='+(orig?.status||'not_found'));skipped++;continue;
+            }
+            const dupe=posts.some(p=>p.id!==orig.id && ['sent','scheduled','sending'].includes(p.status) && (p.text||'').includes(url));
+            if(dupe || used.has(url)){console.log('SKIP exists_sent_or_queued '+item.title);skipped++;continue;}
+            used.add(url);
+            const query='mutation RecoverPost {createPost(input:{channelId:'+qstr(mainId)+',text:'+qstr(orig.text)+',schedulingType:automatic,mode:shareNow}){... on PostActionSuccess{post{id status dueAt externalLink}}... on MutationError{message}}}';
+            try{
+              const data=await api(query);
+              const result=data?.createPost;
+              if(!result?.post?.id)throw new Error(result?.message||'No created post');
+              console.log('ACCEPTED_SHARE_NOW '+item.title+' new_id='+result.post.id+' buffer_status='+result.post.status);
+              state.processed[url]={...item,bufferPostId:result.post.id,recoveredFromPostId:item.bufferPostId,recoveryDate:'2026-10-12',dueAt:result.post.dueAt||new Date().toISOString(),createdAt:new Date().toISOString(),mode:'shareNow',externalLink:result.post.externalLink||item.externalLink};
+              changed=true;accepted++;
+            }catch(e){console.log('FAIL '+item.title+' reason='+e.message);failed++;}
+            await sleep(9000);
+           }
+           if(changed){
+             fs.writeFileSync('.github/x-publish-state.json',JSON.stringify(state,null,2)+'\n');
+           }
+           console.log('RECOVERY_SUMMARY accepted='+accepted+' skipped='+skipped+' failed='+failed+' state_changed='+changed);
+           if(failed)process.exitCode=1;
+          })().catch(e=>{console.error('FATAL '+e.message);process.exitCode=1});
+          NODE
+      - name: Save exact Buffer replacement IDs
+        if: always()
+        run: |
+          if git diff --quiet -- .github/x-publish-state.json; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .github/x-publish-state.json
+          git commit -m 'Track Oct 12 X recovery posts'
+          git pull --rebase origin main
+          git push origin main
