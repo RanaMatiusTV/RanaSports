@@ -1,6 +1,14 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTg1NzQzNDAwMCwiVkVSU1RBUFBFTiBBWVVEw5MgQSBBTlRPTkVMTEkgQ1VBTkRPIExBIFNFR1VSSURBRCBOTyBMTyBERUpBQkEgRU5UUkFSIEFMIFBBRERPQ0siXQ": {
+      "account": "f1",
+      "title": "VERSTAPPEN AYUDÓ A ANTONELLI CUANDO LA SEGURIDAD NO LO DEJABA ENTRAR AL PADDOCK",
+      "dueAt": "2026-10-13T03:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acd98e63d6121df403b55ab",
+      "createdAt": "2026-10-13T02:35:18.378Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJ0ZW5pcyIsMTc5MTg0MjkxOTAwMCwiQSBGUklUWiBTRSBMRSBDQVlFUk9OIERPUyBQRUxPVEFTIERFTCBCT0xTSUxMTyBFTiBMQSBERVJST1RBIEFOVEUgVFNJVFNJUEFTIl0": {
       "account": "sports",
       "title": "A FRITZ SE LE CAYERON DOS PELOTAS DEL BOLSILLO EN LA DERROTA ANTE TSITSIPAS",
@@ -5346,13 +5354,6 @@
       "dueAt": "2026-09-24T17:50:00.000Z",
       "bufferPostId": "6ab55e1d39867fa0e51158ce",
       "createdAt": "2026-09-24T17:30:05.301Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNjU2MDAwMDAsIlNDQUxPTkkgQ09OVMOTIEPDk01PIENPTlZFTkNJw5MgQSBNRVNTSSBQQVJBIFNVIERFU1BFRElEQTog4oCcU0UgTUVSRUNFIEVTVE_igJ0iXQ": {
-      "account": "main",
-      "title": "SCALONI CONTÓ CÓMO CONVENCIÓ A MESSI PARA SU DESPEDIDA: “SE MERECE ESTO”",
-      "dueAt": "2026-09-24T17:45:00.000Z",
-      "bufferPostId": "6ab55e1c39867fa0e5115897",
-      "createdAt": "2026-09-24T17:30:04.931Z"
     }
   },
   "nextAt": {
