@@ -1,6 +1,30 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkxODg1ODg4MDAwLCJBVVRPQ0zDgVNJQ0EgUkVVTknDkyBKT1lBUyBERSBGQU5HSU8sIFJFVVRFTUFOTiBZIExPUyBUT1JJTk9TIERFIE7DnFJCVVJHUklORyJd": {
+      "account": "sports",
+      "title": "AUTOCLÁSICA REUNIÓ JOYAS DE FANGIO, REUTEMANN Y LOS TORINOS DE NÜRBURGRING",
+      "dueAt": "2026-10-13T12:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ace0a4b04adf1ce5983f506",
+      "createdAt": "2026-10-13T10:39:07.815Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkxODg1ODg4MDAwLCJDQU5BUElOTyBQQVPDkyBERUwgQ1VBUlRPIEFMIFBSSU1FUk8gRU4gTEEgw5pMVElNQSBWVUVMVEEgWSBRVUVEw5MgQSBVTiBQQVNPIERFTCBUw41UVUxPIl0": {
+      "account": "sports",
+      "title": "CANAPINO PASÓ DEL CUARTO AL PRIMERO EN LA ÚLTIMA VUELTA Y QUEDÓ A UN PASO DEL TÍTULO",
+      "dueAt": "2026-10-13T11:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ace0a4baa6f147b955dfa33",
+      "createdAt": "2026-10-13T10:39:07.331Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTg4NTg4ODAwMCwiTUFTVEFOVFVPTk8gRlVFIFRJVFVMQVIgRU4gT1RSQSBERVJST1RBIERFIEZJT1JFTlRJTkEgWSBTVSBFTlRSRU5BRE9SIExFIFBJREnDkyBEQVIgVU4gUEFTTyBNw4FTIl0": {
+      "account": "sports",
+      "title": "MASTANTUONO FUE TITULAR EN OTRA DERROTA DE FIORENTINA Y SU ENTRENADOR LE PIDIÓ DAR UN PASO MÁS",
+      "dueAt": "2026-10-13T11:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ace0a4aaa6f147b955dfa09",
+      "createdAt": "2026-10-13T10:39:06.878Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTg1NzQzNDAwMCwiVkVSU1RBUFBFTiBBWVVEw5MgQSBBTlRPTkVMTEkgQ1VBTkRPIExBIFNFR1VSSURBRCBOTyBMTyBERUpBQkEgRU5UUkFSIEFMIFBBRERPQ0siXQ": {
       "account": "f1",
       "title": "VERSTAPPEN AYUDÓ A ANTONELLI CUANDO LA SEGURIDAD NO LO DEJABA ENTRAR AL PADDOCK",
@@ -5333,27 +5357,6 @@
       "dueAt": "2026-09-24T18:05:00.000Z",
       "bufferPostId": "6ab55e27f2f88235921b8334",
       "createdAt": "2026-09-24T17:30:15.160Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJyYXF1ZXRib2wiLDE3OTAyNjg5MDAwMDAsIk5BVEFMSUEgTcOJTkRFWiBHQU7DkyAzLTIgWSBTRSBNRVRJw5MgRU4gTEEgRklOQUwgSU5ESVZJRFVBTCBERSBSw4FRVUVUQk9MIl0": {
-      "account": "main",
-      "title": "NATALIA MÉNDEZ GANÓ 3-2 Y SE METIÓ EN LA FINAL INDIVIDUAL DE RÁQUETBOL",
-      "dueAt": "2026-09-24T18:00:00.000Z",
-      "bufferPostId": "6ab55e2639867fa0e5115afb",
-      "createdAt": "2026-09-24T17:30:14.420Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJlc2NhbGFkYSIsMTc5MDI2NTcyMDAwMCwiQlJPTkNFIFBBUkEgVkFMRU5Uw41OIFNURVJOSUsgRU4gVkVMT0NJREFEOiBOVUVWQSBNRURBTExBIEFSR0VOVElOQSBFTiBFU0NBTEFEQSJd": {
-      "account": "main",
-      "title": "BRONCE PARA VALENTÍN STERNIK EN VELOCIDAD: NUEVA MEDALLA ARGENTINA EN ESCALADA",
-      "dueAt": "2026-09-24T17:55:00.000Z",
-      "bufferPostId": "6ab55e25f2f88235921b82e9",
-      "createdAt": "2026-09-24T17:30:13.955Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNjYzMjAwMDAsIlNDQUxPTkkgUFJPQsOTIEEgSlVMScOBTiBZIExBVVRBUk8gSlVOVE9TOiBFTCBQUklNRVIgRVFVSVBPIFBBUkEgTE9TIEFNSVNUT1NPUyJd": {
-      "account": "main",
-      "title": "SCALONI PROBÓ A JULIÁN Y LAUTARO JUNTOS: EL PRIMER EQUIPO PARA LOS AMISTOSOS",
-      "dueAt": "2026-09-24T17:50:00.000Z",
-      "bufferPostId": "6ab55e1d39867fa0e51158ce",
-      "createdAt": "2026-09-24T17:30:05.301Z"
     }
   },
   "nextAt": {
