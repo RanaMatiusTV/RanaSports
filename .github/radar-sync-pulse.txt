@@ -3,3 +3,5 @@ Fecha ARG: 2026-10-12 21:43
 Altas ya publicadas en Sheets: 6 (NO duplicar)
 Filas pendientes de reflejar en portada: Noticias!3006:3011
 Última: RAMÓN DÍAZ APARECE COMO PRINCIPAL CANDIDATO PARA DIRIGIR A RIVER EN 2027
+
+Corrección de foto: Noticias!H3006, Q3006; crédito L3006, 2026-10-12 21:52 ARG
