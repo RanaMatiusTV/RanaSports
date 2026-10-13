@@ -39,7 +39,171 @@ jobs:
           published_url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv'
           pulse_path = '.github/radar-sync-pulse.txt'
           pulse = open(pulse_path, encoding='utf-8').read() if os.path.isfile(pulse_path) else ''
-          match = re.search(r'^\\s*(?:Última noticia|Última):\\s*(.+?)\\s*$', pulse, re.MULTILINE | re.IGNORECASE)
+          match = re.search(r'^\s*(?:Última noticia|Última):\s*(.+?)\s*
+          expected_title = match.group(1).strip().casefold() if match else None
+
+          def timestamp(row):
+              d, t = row[1].strip(), row[2].strip()
+              for fmt in ('%d/%m/%Y %H:%M:%S', '%d/%m/%Y %H:%M',
+                          '%Y-%m-%d %H:%M:%S', '%Y-%m-%d %H:%M'):
+                  try:
+                      return datetime.datetime.strptime(f'{d} {t}', fmt)
+                  except ValueError:
+                      continue
+              return datetime.datetime.min
+
+          def read_feed(path):
+              with open(path, encoding='utf-8-sig', newline='') as f:
+                  rows = list(csv.reader(f))
+              if not rows or len(rows[0]) < 18 or rows[0][0].strip().lower() != 'publicar':
+                  raise ValueError('Unexpected CSV header')
+              return [r for r in rows[1:] if len(r) >= 5 and r[0].strip().upper() == 'SI' and r[4].strip()]
+
+          previous = read_feed('assets/news-live.csv') if os.path.isfile('assets/news-live.csv') else []
+          previous_max = max((timestamp(r) for r in previous), default=datetime.datetime.min)
+          for attempt in range(1, 5):
+              for label, base_url in [('live', live_url), ('published', published_url)]:
+                  url = f'{base_url}&_={time.time_ns()}'
+                  cmd = ['curl', '-fLsS', '--retry', '2', '--retry-delay', '2',
+                         '--connect-timeout', '15', '--max-time', '90',
+                         '-H', 'Cache-Control: no-cache', url, '-o', '/tmp/news-candidate.csv']
+                  try:
+                      subprocess.run(cmd, check=True)
+                      current = read_feed('/tmp/news-candidate.csv')
+                      current_max = max((timestamp(r) for r in current), default=datetime.datetime.min)
+                      found = not expected_title or any(r[4].strip().casefold() == expected_title for r in current)
+                      if current_max < previous_max or not found:
+                          print(f'::warning::{label} attempt {attempt} stale: '
+                                f'incoming={current_max}, existing={previous_max}, '
+                                f'pulse_title_present={found}', flush=True)
+                          continue
+                      os.replace('/tmp/news-candidate.csv', '/tmp/news.csv')
+                      print(f'Accepted {label} Sheet CSV: newest={current_max}; '
+                            f'pulse_title_present={found}', flush=True)
+                      sys.exit(0)
+                  except (subprocess.CalledProcessError, ValueError, OSError) as e:
+                      print(f'::warning::{label} attempt {attempt} unavailable: {e}', flush=True)
+              if attempt < 4:
+                  time.sleep(12)
+          print('::error::Sheet CSV is stale or unavailable after retries; refusing silent success', flush=True)
+          sys.exit(1)
+          PY
+          python3 - <<'PY'
+          import csv, datetime, os, sys
+
+          src='/tmp/news.csv'
+          dst='assets/news-live.csv'
+
+          with open(src, encoding='utf-8-sig', newline='') as f:
+              rows=list(csv.reader(f))
+          if not rows or len(rows[0]) < 18 or rows[0][0].strip().lower() != 'publicar':
+              raise SystemExit('Invalid Google Sheets CSV')
+
+          # Keep optional editorial columns (Cuerpo / Contenido / Texto completo).
+          # The first 18 columns retain their existing meaning and positions.
+          header=rows[0]
+          width=len(header)
+          data=[]
+          for row in rows[1:]:
+              row=(row+['']*width)[:width]
+              if row[0].strip().upper()!='SI' or not row[4].strip():
+                  continue
+              data.append(row)
+
+          def stamp(row):
+              d=row[1].strip()
+              t=row[2].strip()
+              for fmt in ('%d/%m/%Y %H:%M:%S','%d/%m/%Y %H:%M','%Y-%m-%d %H:%M:%S','%Y-%m-%d %H:%M'):
+                  try:
+                      return datetime.datetime.strptime(f'{d} {t}', fmt)
+                  except ValueError:
+                      pass
+              return datetime.datetime.min
+
+          data.sort(key=stamp, reverse=True)
+          archive='assets/news-archive.csv'
+          all_data=data
+          data=all_data[:600]
+          incoming_max=max((stamp(r) for r in all_data), default=datetime.datetime.min)
+
+          existing_max=datetime.datetime.min
+          if os.path.exists(dst):
+              with open(dst, encoding='utf-8-sig', newline='') as f:
+                  old=list(csv.reader(f))
+              existing=[(r+['']*18)[:18] for r in old[1:] if r and (r[0] if len(r)>0 else '').strip().upper()=='SI']
+              existing_max=max((stamp(r) for r in existing), default=datetime.datetime.min)
+
+          if incoming_max < existing_max:
+              print(f'Skip regression: incoming {incoming_max} < existing {existing_max}')
+              sys.exit(0)
+
+          for target, rows_to_write in ((dst, data), (archive, all_data)):
+              with open(target+'.tmp','w',encoding='utf-8',newline='') as f:
+                  w=csv.writer(f,lineterminator='\r\n')
+                  w.writerow(header)
+                  w.writerows(rows_to_write)
+              os.replace(target+'.tmp',target)
+          print(f'Synced {len(data)} live rows and {len(all_data)} archive rows; newest={incoming_max}')
+          PY
+
+      - name: Commit news feed and SEO sitemaps
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "RanaSports Bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          # Retain the proven feed sync's fetch/reset/retry behavior.
+          cp assets/news-live.csv /tmp/news-live.csv
+          cp assets/news-archive.csv /tmp/news-archive.csv
+          git restore assets/news-live.csv
+          git restore assets/news-archive.csv 2>/dev/null || true
+          git fetch origin main
+          git reset --hard origin/main
+          cp /tmp/news-live.csv assets/news-live.csv
+          cp /tmp/news-archive.csv assets/news-archive.csv
+
+          # SEO is best-effort: a sitemap error must NEVER prevent news sync.
+          stage_changes() {
+            git add assets/news-live.csv assets/news-archive.csv
+            if python3 scripts/build_sitemaps.py; then
+              git add sitemap.xml sitemap-news.xml
+            else
+              echo "::warning::SEO sitemap refresh failed, publishing news without it."
+            fi
+          }
+
+          stage_changes
+          if git diff --cached --quiet; then
+            echo "No feed or sitemap changes"
+            exit 0
+          fi
+          git commit -m "Auto-sync RanaSports news feed and sitemaps"
+
+          # Keep the existing 3 safe retries against concurrent writers.
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push collision (attempt $attempt); refreshing main and retrying..."
+            cp assets/news-live.csv /tmp/news-live.csv
+            cp assets/news-archive.csv /tmp/news-archive.csv
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/news-live.csv assets/news-live.csv
+            cp /tmp/news-archive.csv assets/news-archive.csv
+            stage_changes
+            if git diff --cached --quiet; then
+              echo "Feed and sitemaps already published by another run"
+              exit 0
+            fi
+            git commit -m "Auto-sync RanaSports news feed and sitemaps"
+            sleep $((attempt * 2))
+          done
+
+          echo "Unable to push feed after 3 attempts"
+          exit 1
+, pulse, re.MULTILINE | re.IGNORECASE)
           expected_title = match.group(1).strip().casefold() if match else None
 
           def timestamp(row):
