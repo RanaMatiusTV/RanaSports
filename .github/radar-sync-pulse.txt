@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-13 17:12
+Fecha ARG: 2026-10-13 19:06
 Altas verificadas en Sheets: 6
-Filas: Noticias!3055:3060
-Última: JORGE VELÁZQUEZ SIGUE EN ACTIVIDAD A LOS 44 AÑOS EN EL FEDERAL A
+Filas: Noticias!3061:3066
+Última: ATLÉTICO DE MADRID VENCIÓ 2-0 AL UNITED CON TITULARES ARGENTINOS
