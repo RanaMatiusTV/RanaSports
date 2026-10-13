@@ -121,6 +121,20 @@ jobs:
               return datetime.datetime.min
 
           data.sort(key=stamp, reverse=True)
+          # Emergency repair: replace the broken March match image in this one story.
+          # The photo is of the actual goalscorer (archive portrait), not a false match shot.
+          target_title = "GIMNASIA DE MENDOZA VOLVIÓ AL TRIUNFO CON UN GOLAZO DE MÓDICA ANTE NEWELL'S"
+          fallback_photo = "https://www.minutoya.com.ar/uploads/2026/07/24/1784931961133-gimnasia-hero.jpg"
+          for item in data:
+              if item[4].strip() == target_title and (
+                  'diariopanorama.com/fotos/cache/notas/2026/03/21/' in item[7]
+                  or 'media.diariouno.com.ar/p/5a3b401a88c754f826482384fa5cdf12/' in item[7]
+              ):
+                  item[7] = fallback_photo
+                  item[11] = 'MINUTOYA / FOTO DE ARCHIVO DE AGUSTÍN MÓDICA'
+                  if len(item) > 16:
+                      item[16] = fallback_photo
+                  print('Repaired broken Gimnasia image in live feed')
           archive='assets/news-archive.csv'
           all_data=data
           data=all_data[:600]
