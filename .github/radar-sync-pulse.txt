@@ -1,9 +1,5 @@
-RanaSports sync retry
-Fecha ARG: 2026-10-12 21:43
-Altas ya publicadas en Sheets: 6 (NO duplicar)
-Filas pendientes de reflejar en portada: Noticias!3006:3011
-Última: RAMÓN DÍAZ APARECE COMO PRINCIPAL CANDIDATO PARA DIRIGIR A RIVER EN 2027
-
-Corrección de foto: Noticias!H3006, Q3006; crédito L3006, 2026-10-12 21:52 ARG
-
-FORZAR SINCRONIZACIÓN: foto Gimnasia de Mendoza vs Newell's, fila 3006, 2026-10-12 21:53 ARG
+RanaSports sync pulse
+Fecha ARG: 2026-10-12 23:10
+Altas verificadas en Sheets: 6
+Filas: Noticias!3012:3017
+Última: GUSTAVO CABRAL SIGUE VIGENTE A LOS 40 Y SUEÑA CON ASCENDER CON ALMIRANTE BROWN
