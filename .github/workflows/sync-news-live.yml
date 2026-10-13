@@ -16,7 +16,7 @@ permissions:
 
 concurrency:
   group: sync-ranasports-news-feed
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   sync:
@@ -28,17 +28,66 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          # Prefer the live Sheet over the delayed 'Publish to web' snapshot.
-          # Both endpoints have the same columns. Use the published snapshot as fallback.
-          LIVE_URL="https://docs.google.com/spreadsheets/d/12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4/gviz/tq?tqx=out:csv&sheet=Noticias&_=$(date +%s)"
-          PUBLISHED_URL="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv&_=$(date +%s)"
-          if ! curl -fLsS --retry 2 --retry-delay 2 -H 'Cache-Control: no-cache' "$LIVE_URL" -o /tmp/news.csv || ! head -c 300 /tmp/news.csv | grep -iq "Publicar"; then
-            echo "Live Google Sheet unavailable; trying published snapshot"
-            if ! curl -fLsS --retry 2 --retry-delay 2 -H 'Cache-Control: no-cache' "$PUBLISHED_URL" -o /tmp/news.csv; then
-              echo "Both Sheet endpoints unavailable; retaining current news feed"
-              exit 0
-            fi
-          fi
+          # Guard against Google returning an older public CSV snapshot.
+          # Only accept a snapshot that contains the last radar pulse headline
+          # and is not older than the feed already on GitHub.
+          python3 - <<'PY'
+          import csv, datetime, os, re, subprocess, sys, time
+
+          sheet_id = '12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4'
+          live_url = f'https://docs.google.com/spreadsheets/d/{sheet_id}/gviz/tq?tqx=out:csv&sheet=Noticias'
+          published_url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv'
+          pulse_path = '.github/radar-sync-pulse.txt'
+          pulse = open(pulse_path, encoding='utf-8').read() if os.path.isfile(pulse_path) else ''
+          match = re.search(r'^\\s*(?:Última noticia|Última):\\s*(.+?)\\s*$', pulse, re.MULTILINE | re.IGNORECASE)
+          expected_title = match.group(1).strip().casefold() if match else None
+
+          def timestamp(row):
+              d, t = row[1].strip(), row[2].strip()
+              for fmt in ('%d/%m/%Y %H:%M:%S', '%d/%m/%Y %H:%M',
+                          '%Y-%m-%d %H:%M:%S', '%Y-%m-%d %H:%M'):
+                  try:
+                      return datetime.datetime.strptime(f'{d} {t}', fmt)
+                  except ValueError:
+                      continue
+              return datetime.datetime.min
+
+          def read_feed(path):
+              with open(path, encoding='utf-8-sig', newline='') as f:
+                  rows = list(csv.reader(f))
+              if not rows or len(rows[0]) < 18 or rows[0][0].strip().lower() != 'publicar':
+                  raise ValueError('Unexpected CSV header')
+              return [r for r in rows[1:] if len(r) >= 5 and r[0].strip().upper() == 'SI' and r[4].strip()]
+
+          previous = read_feed('assets/news-live.csv') if os.path.isfile('assets/news-live.csv') else []
+          previous_max = max((timestamp(r) for r in previous), default=datetime.datetime.min)
+          for attempt in range(1, 5):
+              for label, base_url in [('live', live_url), ('published', published_url)]:
+                  url = f'{base_url}&_={time.time_ns()}'
+                  cmd = ['curl', '-fLsS', '--retry', '2', '--retry-delay', '2',
+                         '--connect-timeout', '15', '--max-time', '90',
+                         '-H', 'Cache-Control: no-cache', url, '-o', '/tmp/news-candidate.csv']
+                  try:
+                      subprocess.run(cmd, check=True)
+                      current = read_feed('/tmp/news-candidate.csv')
+                      current_max = max((timestamp(r) for r in current), default=datetime.datetime.min)
+                      found = not expected_title or any(r[4].strip().casefold() == expected_title for r in current)
+                      if current_max < previous_max or not found:
+                          print(f'::warning::{label} attempt {attempt} stale: '
+                                f'incoming={current_max}, existing={previous_max}, '
+                                f'pulse_title_present={found}', flush=True)
+                          continue
+                      os.replace('/tmp/news-candidate.csv', '/tmp/news.csv')
+                      print(f'Accepted {label} Sheet CSV: newest={current_max}; '
+                            f'pulse_title_present={found}', flush=True)
+                      sys.exit(0)
+                  except (subprocess.CalledProcessError, ValueError, OSError) as e:
+                      print(f'::warning::{label} attempt {attempt} unavailable: {e}', flush=True)
+              if attempt < 4:
+                  time.sleep(12)
+          print('::error::Sheet CSV is stale or unavailable after retries; refusing silent success', flush=True)
+          sys.exit(1)
+          PY
           python3 - <<'PY'
           import csv, datetime, os, sys
 
