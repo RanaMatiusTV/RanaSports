@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-13T16:26:59.237Z",
+  "updatedAt": "2026-10-13T21:33:16.479Z",
   "trends": [
     {
-      "query": "goliath six flags",
-      "startedAt": "2026-10-13T16:10:00.000Z",
+      "query": "posiciones de atlético de madrid contra manchester united",
+      "startedAt": "2026-10-13T21:10:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "mercado cambiario",
+      "startedAt": "2026-10-13T21:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "julián alvarez",
+      "startedAt": "2026-10-13T21:00:00.000Z",
       "volume": 1000
     },
     {
-      "query": "sudamericana",
-      "startedAt": "2026-10-13T16:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "agencia nacional de seguridad vial",
-      "startedAt": "2026-10-13T16:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "champions league 2026",
-      "startedAt": "2026-10-13T16:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "champions league",
-      "startedAt": "2026-10-13T15:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "inundación",
-      "startedAt": "2026-10-13T15:50:00.000Z",
+      "query": "pensión",
+      "startedAt": "2026-10-13T21:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "demian reidel",
-      "startedAt": "2026-10-13T15:50:00.000Z",
+      "query": "lamine yamal",
+      "startedAt": "2026-10-13T20:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "libertadores",
+      "startedAt": "2026-10-13T20:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "al-sadd - al hilal",
-      "startedAt": "2026-10-13T15:40:00.000Z",
+      "query": "michael olise",
+      "startedAt": "2026-10-13T20:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "liga de campeones de la uefa",
-      "startedAt": "2026-10-13T15:40:00.000Z",
+      "query": "leipzig",
+      "startedAt": "2026-10-13T20:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "primera división",
-      "startedAt": "2026-10-13T15:30:00.000Z",
-      "volume": 5000
+      "query": "anthropic",
+      "startedAt": "2026-10-13T20:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "infocielo",
+      "startedAt": "2026-10-13T20:40:00.000Z",
+      "volume": 200
     }
   ]
 }
