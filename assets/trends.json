@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-12T19:22:01.379Z",
+  "updatedAt": "2026-10-13T01:37:23.290Z",
   "trends": [
     {
-      "query": "¿quien es darío giordano?",
-      "startedAt": "2026-10-12T19:00:00.000Z",
+      "query": "guido kaczka",
+      "startedAt": "2026-10-13T01:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "índice de precios al consumidor",
+      "startedAt": "2026-10-13T01:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "carburando",
+      "startedAt": "2026-10-13T00:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "francisco comesaña",
+      "startedAt": "2026-10-13T00:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "julieta prandi",
+      "startedAt": "2026-10-13T00:20:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "andrea kimi antonelli",
+      "startedAt": "2026-10-13T00:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "bragantino - cruzeiro",
+      "startedAt": "2026-10-12T23:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "balón de oro 2026",
+      "startedAt": "2026-10-12T22:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "paso de los libres",
+      "startedAt": "2026-10-12T22:40:00.000Z",
       "volume": 1000
     },
     {
-      "query": "río paraná",
-      "startedAt": "2026-10-12T19:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "newcastle",
-      "startedAt": "2026-10-12T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "torino - udinese",
-      "startedAt": "2026-10-12T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "coritiba - botafogo",
-      "startedAt": "2026-10-12T18:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "al nassr",
-      "startedAt": "2026-10-12T18:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "julio iglesias",
-      "startedAt": "2026-10-12T18:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "primera c",
-      "startedAt": "2026-10-12T18:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gregorio dalbon",
-      "startedAt": "2026-10-12T18:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "brasileños",
-      "startedAt": "2026-10-12T18:20:00.000Z",
-      "volume": 200
+      "query": "lionel messi en el fútbol club barcelona",
+      "startedAt": "2026-10-12T22:30:00.000Z",
+      "volume": 2000
     }
   ]
 }
