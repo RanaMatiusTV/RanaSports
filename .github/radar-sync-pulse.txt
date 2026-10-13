@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-13 09:02
-Altas verificadas en Sheets: 7
-Filas: Noticias!3030:3036
-Última: ARGENTINA CONFIRMÓ SUS 14 CONVOCADOS PARA EL PRIMER MUNDIAL SUB-15
+Fecha ARG: 2026-10-13 11:04
+Altas verificadas en Sheets: 6
+Filas: Noticias!3037:3042
+Última: JULIÁN ÁLVAREZ, PROTAGONISTA DEL CRUCE ENTRE ATLÉTICO Y MANCHESTER UNITED
