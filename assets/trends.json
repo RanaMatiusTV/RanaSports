@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-13T01:37:23.290Z",
+  "updatedAt": "2026-10-13T08:26:58.591Z",
   "trends": [
     {
-      "query": "guido kaczka",
-      "startedAt": "2026-10-13T01:10:00.000Z",
-      "volume": 200
+      "query": "clima mendoza",
+      "startedAt": "2026-10-13T04:30:00.000Z",
+      "volume": 100
     },
     {
-      "query": "índice de precios al consumidor",
-      "startedAt": "2026-10-13T01:00:00.000Z",
+      "query": "donald",
+      "startedAt": "2026-10-13T04:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "carburando",
-      "startedAt": "2026-10-13T00:50:00.000Z",
+      "query": "romário",
+      "startedAt": "2026-10-13T03:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "francisco comesaña",
-      "startedAt": "2026-10-13T00:30:00.000Z",
+      "query": "autopista córdoba - rosario",
+      "startedAt": "2026-10-13T03:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "julieta prandi",
-      "startedAt": "2026-10-13T00:20:00.000Z",
-      "volume": 5000
+      "query": "nhl",
+      "startedAt": "2026-10-13T02:40:00.000Z",
+      "volume": 200
     },
     {
-      "query": "andrea kimi antonelli",
-      "startedAt": "2026-10-13T00:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "bragantino - cruzeiro",
-      "startedAt": "2026-10-12T23:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "balón de oro 2026",
-      "startedAt": "2026-10-12T22:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "paso de los libres",
-      "startedAt": "2026-10-12T22:40:00.000Z",
+      "query": "mario massaccesi",
+      "startedAt": "2026-10-13T02:20:00.000Z",
       "volume": 1000
     },
     {
-      "query": "lionel messi en el fútbol club barcelona",
-      "startedAt": "2026-10-12T22:30:00.000Z",
-      "volume": 2000
+      "query": "grego rossello",
+      "startedAt": "2026-10-13T02:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "circulación atmosférica",
+      "startedAt": "2026-10-13T01:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "ramon diaz a river",
+      "startedAt": "2026-10-13T01:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "bambino pons",
+      "startedAt": "2026-10-13T01:20:00.000Z",
+      "volume": 500
     }
   ]
 }
