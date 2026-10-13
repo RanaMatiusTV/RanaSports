@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-13T08:26:58.591Z",
+  "updatedAt": "2026-10-13T16:26:59.237Z",
   "trends": [
     {
-      "query": "clima mendoza",
-      "startedAt": "2026-10-13T04:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "donald",
-      "startedAt": "2026-10-13T04:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "romário",
-      "startedAt": "2026-10-13T03:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "autopista córdoba - rosario",
-      "startedAt": "2026-10-13T03:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "nhl",
-      "startedAt": "2026-10-13T02:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "mario massaccesi",
-      "startedAt": "2026-10-13T02:20:00.000Z",
+      "query": "goliath six flags",
+      "startedAt": "2026-10-13T16:10:00.000Z",
       "volume": 1000
     },
     {
-      "query": "grego rossello",
-      "startedAt": "2026-10-13T02:20:00.000Z",
+      "query": "sudamericana",
+      "startedAt": "2026-10-13T16:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "agencia nacional de seguridad vial",
+      "startedAt": "2026-10-13T16:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "circulación atmosférica",
-      "startedAt": "2026-10-13T01:50:00.000Z",
+      "query": "champions league 2026",
+      "startedAt": "2026-10-13T16:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "champions league",
+      "startedAt": "2026-10-13T15:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "inundación",
+      "startedAt": "2026-10-13T15:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "ramon diaz a river",
-      "startedAt": "2026-10-13T01:30:00.000Z",
-      "volume": 500
+      "query": "demian reidel",
+      "startedAt": "2026-10-13T15:50:00.000Z",
+      "volume": 200
     },
     {
-      "query": "bambino pons",
-      "startedAt": "2026-10-13T01:20:00.000Z",
-      "volume": 500
+      "query": "al-sadd - al hilal",
+      "startedAt": "2026-10-13T15:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "liga de campeones de la uefa",
+      "startedAt": "2026-10-13T15:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "primera división",
+      "startedAt": "2026-10-13T15:30:00.000Z",
+      "volume": 5000
     }
   ]
 }
