@@ -487,7 +487,7 @@ async function promoteQueuedBreaking(apiKey,state,cfg,now){
  const entries=Object.entries(state.processed||{})
   .filter(([url,e])=>e.account==='sports' && e.mode==='customScheduled'
     && e.bufferPostId && Date.parse(e.dueAt||0)>now+45*60000
-    && /\\b(murio|fallecio|fallecimiento|muerte)\\b/.test(normalize(e.title||'')))
+    && /\b(murio|fallecio|fallecimiento|muerte)\b/.test(normalize(e.title||'')))
   .sort((a,b)=>Date.parse(b[1].createdAt||0)-Date.parse(a[1].createdAt||0));
  for(const [url,entry] of entries.slice(0,1)){
   const test={...state,processed:{...state.processed}};
