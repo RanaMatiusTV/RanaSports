@@ -478,7 +478,11 @@ function targets(config,now) {
  return result;
 }
 async function rescheduleBufferPost(apiKey,postId,dueAt){
- const q='mutation EditPost { editPost(input:{id:'+gqlString(postId)+',mode:customScheduled,dueAt:'+gqlString(dueAt)+'}){... on PostActionSuccess{post{id dueAt}} ... on MutationError{message}} }';
+ // Buffer validates the entire post on edit; carry over its current text without touching its media.
+ const current=await bufferRequest(apiKey,'query GetPost{post(input:{id:'+gqlString(postId)+'}){id text status dueAt}}');
+ const p=current?.post;
+ if(!p?.text || p.status!=='scheduled')throw Error('La publicación no está programada o no tiene texto; no se modifica');
+ const q='mutation EditPost { editPost(input:{id:'+gqlString(postId)+',text:'+gqlString(p.text)+',mode:customScheduled,dueAt:'+gqlString(dueAt)+'}){... on PostActionSuccess{post{id dueAt}} ... on MutationError{message}} }';
  const res=await bufferRequest(apiKey,q);
  if(!res?.editPost?.post?.id)throw Error(res?.editPost?.message||'Buffer no cambió la hora del tuit');
  return res.editPost.post;
