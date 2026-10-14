@@ -112,7 +112,21 @@ function articleId(item) {
   return Buffer.from(identity, 'utf8').toString('base64url');
 }
 
+const ARTICLE_ROUTES = (() => {
+  try {
+    const value=fs.readFileSync('assets/article-routes.js', 'utf8');
+    const prefix='window.RS_ARTICLE_ROUTES=';
+    return value.startsWith(prefix) ? JSON.parse(value.slice(prefix.length).trim().replace(/;$/, '')) : {};
+  } catch { return {}; }
+})();
+
 function articleURL(item) {
+  const slug=ARTICLE_ROUTES[articleId(item)];
+  if (typeof slug==='string' && /^\/[a-z0-9-]+\/[a-z0-9-]+\/$/.test(slug)) return SITE_BASE + slug.slice(1);
+  return `${SITE_BASE}noticia.html?n=${articleId(item)}`;
+}
+
+function previousArticleURL(item) {
   return `${SITE_BASE}noticia.html?n=${articleId(item)}`;
 }
 
@@ -485,8 +499,8 @@ async function main() {
   const account=accountFor(item);
   const accountActivation=Date.parse(cfg.accounts[account]?.activationAt || cfg.activationAt);
   if(!Number.isFinite(accountActivation) || now < accountActivation || item.date < accountActivation)continue;
-  const url=articleURL(item),legacy=legacyArticleURL(item);
-  if(state.processed[url]||state.processed[legacy])continue;
+  const url=articleURL(item),legacy=legacyArticleURL(item),previous=previousArticleURL(item);
+   if(state.processed[url]||state.processed[legacy]||state.processed[previous])continue;
   candidates.push({item,url,account,score:score(item)});
  }
  candidates.sort((a,b)=>b.score-a.score || b.item.date-a.item.date);

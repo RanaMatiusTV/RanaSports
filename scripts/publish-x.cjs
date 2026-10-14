@@ -111,7 +111,21 @@ function articleId(item) {
   return Buffer.from(identity, 'utf8').toString('base64url');
 }
 
+const ARTICLE_ROUTES = (() => {
+  try {
+    const value=fs.readFileSync('assets/article-routes.js', 'utf8');
+    const prefix='window.RS_ARTICLE_ROUTES=';
+    return value.startsWith(prefix) ? JSON.parse(value.slice(prefix.length).trim().replace(/;$/, '')) : {};
+  } catch { return {}; }
+})();
+
 function articleURL(item) {
+  const slug=ARTICLE_ROUTES[articleId(item)];
+  if (typeof slug==='string' && /^\/[a-z0-9-]+\/[a-z0-9-]+\/$/.test(slug)) return SITE_BASE + slug.slice(1);
+  return `${SITE_BASE}noticia.html?n=${articleId(item)}`;
+}
+
+function previousArticleURL(item) {
   return `${SITE_BASE}noticia.html?n=${articleId(item)}`;
 }
 
@@ -424,7 +438,8 @@ async function main() {
     if (!account) return [];
     const url = articleURL(item);
     const legacyUrl = legacyArticleURL(item);
-    if (state.processed[url] || state.processed[legacyUrl]) return [];
+    const previousUrl = previousArticleURL(item);
+    if (state.processed[url] || state.processed[legacyUrl] || state.processed[previousUrl]) return [];
     return [{ item, account, url }];
   });
 
