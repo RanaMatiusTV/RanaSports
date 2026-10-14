@@ -1,4 +1,5 @@
 name: Distribute RanaSports news to three X accounts
+# Short article links are ready; one-time format reconciliation: 2026-10-14
 on:
   push:
     paths:
