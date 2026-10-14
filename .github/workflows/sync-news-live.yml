@@ -1,6 +1,7 @@
 name: Sync RanaSports news feed
 # Extraordinary embed resync: 2026-10-07 11:17 ARG
 # Manual feed synchronization requested: 2026-10-08 00:37 ARG
+# Normalize football section slugs to /futbol/: 2026-10-14
 
 on:
   workflow_dispatch:

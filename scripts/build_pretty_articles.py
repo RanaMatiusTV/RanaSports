@@ -16,6 +16,38 @@ OUTPUT = Path("/tmp/ranasports-pretty-pages.txt")
 FOLDERS = {"independiente": "futbol", "seleccion": "futbol",
            "otros": "mas-deportes", "juegos suramericanos": "juegos-suramericanos"}
 
+FOOTBALL_CATEGORIES = {
+    "boca juniors", "river plate", "racing club", "san lorenzo",
+    "huracan", "velez", "estudiantes", "gimnasia", "newells",
+    "rosario central", "talleres", "belgrano", "argentinos juniors",
+    "copa sudamericana", "copa libertadores", "copa argentina",
+    "liga profesional", "primera division", "primera nacional",
+    "futbol argentino", "futbol internacional", "seleccion argentina",
+    "ascenso", "eliminatorias", "mundial 2026", "champions league",
+    "europa league", "premier league", "la liga", "serie a", "bundesliga",
+}
+
+
+def folder_for(category):
+    if category in FOLDERS:
+        return FOLDERS[category]
+    if category in FOOTBALL_CATEGORIES or "futbol" in category:
+        return "futbol"
+    if category.startswith(("boca ", "river ", "racing ", "san lorenzo ", "copa sudamericana")):
+        return "futbol"
+    return re.sub(r"[^a-z0-9-]+", "-", category).strip("-") or "mas-deportes"
+
+
+def redirect_html(destination):
+    url = BASE + destination
+    return ('<!doctype html><html lang="es-AR"><head><meta charset="utf-8">'
+            '<meta name="robots" content="noindex,follow">'
+            '<link rel="canonical" href="' + url + '">'
+            '<meta http-equiv="refresh" content="0;url=' + url + '">'
+            '<title>Noticia trasladada | RanaSports</title></head><body>'
+            '<p>Esta noticia cambió de dirección: <a href="' + url + '">abrir noticia</a>.</p>'
+            '</body></html>\n').encode("utf-8")
+
 def slugify(title):
     first = normalized(title).split(":", 1)[0].split(" | ", 1)[0]
     first = re.sub(r"\s+a\s+los\s+\d+\s+anos\b.*$", "", first)
@@ -85,10 +117,10 @@ def main():
     used = set(mapping.values())
     touched = []
     for when, token, row, category in sorted(articles(), key=lambda item: (item[0], item[1])):
-        if token not in mapping:
-            sport = FOLDERS.get(category, category)
-            sport = re.sub(r"[^a-z0-9-]+", "-", sport).strip("-") or "mas-deportes"
-            slug = slugify(row["titulo"])
+        sport = folder_for(category)
+        old_path = mapping.get(token)
+        if not old_path or old_path.split("/")[1] != sport:
+            slug = old_path.strip("/").split("/", 1)[1] if old_path else slugify(row["titulo"])
             path = f"/{sport}/{slug}/"
             if path in used:
                 path = f"/{sport}/{slug}-{when.strftime('%Y%m%d-%H%M')}/"
@@ -96,6 +128,11 @@ def main():
                 path = f"/{sport}/{slug}-{token[:9]}/"
             mapping[token] = path
             used.add(path)
+            if old_path:
+                legacy = Path(old_path.lstrip("/")) / "index.html"
+                legacy.parent.mkdir(parents=True, exist_ok=True)
+                if write_if_different(legacy, redirect_html(path)):
+                    touched.append(str(legacy))
         path = mapping[token]
         dest = Path(path.lstrip("/")) / "index.html"
         dest.parent.mkdir(parents=True, exist_ok=True)
