@@ -122,7 +122,7 @@ const ARTICLE_ROUTES = (() => {
 function articleURL(item) {
   const slug=ARTICLE_ROUTES[articleId(item)];
   if (typeof slug==='string' && /^\/[a-z0-9-]+\/[a-z0-9-]+\/$/.test(slug)) return SITE_BASE + slug.slice(1);
-  return `${SITE_BASE}noticia.html?n=${articleId(item)}`;
+  return ''; // Wait for a published sport/article URL; never tweet legacy links.
 }
 
 function previousArticleURL(item) {
@@ -262,7 +262,7 @@ function postText(item, account, url) {
   const linkEmoji = linkEmojiFor(item, account);
   let title = item.title.trim();
   if (title.length > 190) title = title.slice(0, 187).trimEnd() + '…';
-  return `${emoji}${linkEmoji} ${title}\n${hashtag}\n\n🔗 ${url}`;
+  return `${linkEmoji} ${title}\n${hashtag}\n\n🔗 ${url}`;
 }
 
 async function validateImage(url) {
@@ -437,6 +437,7 @@ async function main() {
     const account = accountFor(item);
     if (!account) return [];
     const url = articleURL(item);
+    if (!url) return []; // Await short article route.
     const legacyUrl = legacyArticleURL(item);
     const previousUrl = previousArticleURL(item);
     if (state.processed[url] || state.processed[legacyUrl] || state.processed[previousUrl]) return [];
