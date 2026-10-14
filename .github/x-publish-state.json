@@ -1,6 +1,14 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTk0ODU0MDAwMCwiTEEgRsOTUk1VTEEgMSBQUkVQQVJBIEVMIFJFR1JFU08gREUgTE9TIE1PVE9SRVMgVjggUEFSQSAyMDMwIl0": {
+      "account": "f1",
+      "title": "LA FÓRMULA 1 PREPARA EL REGRESO DE LOS MOTORES V8 PARA 2030",
+      "dueAt": "2026-10-14T05:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acf0b87848c31c8095d95fd",
+      "createdAt": "2026-10-14T04:56:39.854Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJtdW5kaWFsIiwxNzkxOTIyMzIwMDAwLCJFTE9ZIFJPT00gUkVDSUJJw5MgVU4gUsOJQ09SRCBHVUlOTkVTUyBQT1IgU1VTIDE2IEFUQUpBREFTIEFOVEUgRUNVQURPUiJd": {
       "account": "sports",
       "title": "ELOY ROOM RECIBIÓ UN RÉCORD GUINNESS POR SUS 16 ATAJADAS ANTE ECUADOR",
@@ -5352,13 +5360,6 @@
       "dueAt": "2026-09-24T21:20:00.000Z",
       "bufferPostId": "6ab592f27794ad3835666344",
       "createdAt": "2026-09-24T21:15:30.253Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ2ZWxleiIsMTc5MDI2Mjc4MDAwMCwiVsOJTEVaIEFQRUzDkyBZIFBJREnDkyBGUkVOQVIgUkFDSU5H4oCTQk9DQSBIQVNUQSBRVUUgU0UgUkVTVUVMVkEgRUwgUkVDVVJTTyJd": {
-      "account": "main",
-      "title": "VÉLEZ APELÓ Y PIDIÓ FRENAR RACING–BOCA HASTA QUE SE RESUELVA EL RECURSO",
-      "dueAt": "2026-09-24T19:00:00.000Z",
-      "bufferPostId": "6ab5725dac73a45b8da5f425",
-      "createdAt": "2026-09-24T18:56:29.171Z"
     }
   },
   "nextAt": {
