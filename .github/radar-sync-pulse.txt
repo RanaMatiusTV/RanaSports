@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-14 00:29
+Fecha ARG: 2026-10-14 07:01
 Altas verificadas en Sheets: 7
-Filas: Noticias!3079:3085
-Última: LA FÓRMULA 1 PREPARA EL REGRESO DE LOS MOTORES V8 PARA 2030
+Filas: Noticias!3087:3093
+Última: VASCO FUE EL OCTAVO CLUB BRASILEÑO QUE GANÓ EN LA BOMBONERA
