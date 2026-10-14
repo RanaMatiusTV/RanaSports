@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-14T05:24:34.810Z",
+  "updatedAt": "2026-10-14T10:36:52.192Z",
   "trends": [
     {
-      "query": "noviembre",
+      "query": "castro",
+      "startedAt": "2026-10-14T10:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pronostico cordoba",
+      "startedAt": "2026-10-14T10:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "la isla del sol",
+      "startedAt": "2026-10-14T09:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "terremoto",
+      "startedAt": "2026-10-14T09:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "cronica",
+      "startedAt": "2026-10-14T07:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "betano",
+      "startedAt": "2026-10-14T07:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "roña castro",
+      "startedAt": "2026-10-14T05:40:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "character ai",
+      "startedAt": "2026-10-14T05:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "kick",
       "startedAt": "2026-10-14T02:50:00.000Z",
-      "volume": 5000
+      "volume": 2000
     },
     {
       "query": "diario ole",
       "startedAt": "2026-10-14T02:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sebastián villa",
-      "startedAt": "2026-10-14T02:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ole",
-      "startedAt": "2026-10-14T02:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "pamela david",
-      "startedAt": "2026-10-14T02:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "nazareno casero",
-      "startedAt": "2026-10-14T02:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "messi cup",
-      "startedAt": "2026-10-14T02:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "que pasa si boca pierde hoy",
-      "startedAt": "2026-10-14T02:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "como salio boca",
-      "startedAt": "2026-10-14T02:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "millonarios",
-      "startedAt": "2026-10-14T02:00:00.000Z",
       "volume": 200
     }
   ]
