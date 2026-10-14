@@ -410,7 +410,7 @@ function ceilFiveMinutes(ms) {
 }
 
 function futureCount(state, account, now) {
-  return Object.values(state.processed || {}).filter(x => x.account === account && Date.parse(x.dueAt || 0) > now).length;
+  return Object.values(state.processed || {}).filter(x => x.account === account && Date.parse(x.dueAt || 0) > now + 60_000).length;
 }
 
 function nextDueAt(state, account, now) {
@@ -432,6 +432,8 @@ function score(item) {
  const s=normalize(item.title+' '+item.summary);
  let n=priority(item);
  if(item.featured)n+=10;
+ if(/\b(murio|fallecio|fallecimiento|muerte)\b/.test(s))n+=50;
+ if(/\b(boca|river|racing|independiente|san lorenzo|seleccion argentina)\b/.test(s) && /\b(gano|perdio|cayo|goleo|empato|elimino|clasifico)\b/.test(s))n+=20;
  if(/\b(oficial|confirm|campeon|titulo|final|gol|sancion|renuncia|lesion|abandono|pole|record|messi|colapinto)\b/.test(s))n+=4;
  if(/\b(viral|insolito|bloop|polemica)\b/.test(s))n+=2;
  return n;
@@ -457,25 +459,49 @@ function canShareNow(state, account, now, policy) {
 
 function targets(config,now) {
  const result={};
- const hourMs=60*60000;
- for (const [account,policy] of Object.entries(config.accounts)) {
-  const desired=policy.hourlyMax;
-  const existing=[];
-  for (const x of Object.values(config._state.processed||{})) if(x.account===account && x.bufferPostId)existing.push(x);
-  const timeSlots=[];
-  for(let h=0;h<3;h++){
-   const at=Math.ceil((now+60000)/hourMs)*hourMs+h*hourMs;
-   for(let index=0;index<desired;index++){
-    const slot=at+index*policy.minGapMinutes*60000;
-    if(slot>=at+hourMs)continue;
-    const l=localParts(slot);
-    const blocked=existing.some(x=>Math.abs(Date.parse(x.dueAt)-slot)<policy.minGapMinutes*60000);
-    if(!blocked)timeSlots.push(slot);
-   }
+ const horizon=now+3*3600000;
+ for(const [account,policy] of Object.entries(config.accounts)){
+  const existing=Object.values(config._state.processed||{})
+    .filter(x=>x.account===account && x.bufferPostId && Number.isFinite(Date.parse(x.dueAt||'')))
+    .map(x=>Date.parse(x.dueAt));
+  const slots=[],gap=policy.minGapMinutes*60000;
+  for(let at=ceilFiveMinutes(now+60000);at<horizon;at+=SLOT_MS){
+   const hour=Math.floor(at/3600000);
+   const inHour=existing.filter(t=>Math.floor(t/3600000)===hour).length
+     +slots.filter(t=>Math.floor(t/3600000)===hour).length;
+   if(inHour>=policy.hourlyMax)continue;
+   if(existing.some(t=>Math.abs(t-at)<gap) || slots.some(t=>Math.abs(t-at)<gap))continue;
+   slots.push(at);
   }
-  result[account]=timeSlots;
+  result[account]=slots;
  }
  return result;
+}
+async function rescheduleBufferPost(apiKey,postId,dueAt){
+ const q='mutation EditPost { editPost(input:{id:'+gqlString(postId)+',mode:customScheduled,dueAt:'+gqlString(dueAt)+'}){... on PostActionSuccess{post{id dueAt}} ... on MutationError{message}} }';
+ const res=await bufferRequest(apiKey,q);
+ if(!res?.editPost?.post?.id)throw Error(res?.editPost?.message||'Buffer no cambió la hora del tuit');
+ return res.editPost.post;
+}
+async function promoteQueuedBreaking(apiKey,state,cfg,now){
+ const entries=Object.entries(state.processed||{})
+  .filter(([url,e])=>e.account==='sports' && e.mode==='customScheduled'
+    && e.bufferPostId && Date.parse(e.dueAt||0)>now+45*60000
+    && /\\b(murio|fallecio|fallecimiento|muerte)\\b/.test(normalize(e.title||'')))
+  .sort((a,b)=>Date.parse(b[1].createdAt||0)-Date.parse(a[1].createdAt||0));
+ for(const [url,entry] of entries.slice(0,1)){
+  const test={...state,processed:{...state.processed}};
+  delete test.processed[url];
+  const due=targets({...cfg,_state:test},now).sports?.[0];
+  if(!due || due>=Date.parse(entry.dueAt)-15*60000)continue;
+  try{
+   const post=await rescheduleBufferPost(apiKey,entry.bufferPostId,new Date(due).toISOString());
+   entry.dueAt=post.dueAt||new Date(due).toISOString();
+   entry.priorityRescheduledAt=new Date().toISOString();
+   writeState(state);
+   console.log('PRIORITY_MOVED sports '+entry.title+' => '+entry.dueAt);
+  }catch(e){console.error('PRIORITY_MOVE_FAILED '+entry.title+' '+e.message);}
+ }
 }
 function sameDayPublishedCount(state,account,day) {
  return Object.values(state.processed||{}).filter(e=>e.account===account && localParts(Date.parse(e.dueAt||e.createdAt||0)).day===day && e.bufferPostId).length;
@@ -507,6 +533,7 @@ async function main() {
  const now=Date.now(),activation=Date.parse(cfg.activationAt);
  const news=readNews(fs.readFileSync(NEWS_PATH,'utf8'));
  await discoverChannels(key,state);
+ await promoteQueuedBreaking(key,state,cfg,now);
  // Verify exact handles before any write. DiscoverChannels must always refresh on start.
  const ids={main:state.buffer.mainChannelId,f1:state.buffer.f1ChannelId,sports:state.buffer.sportsChannelId};
  if(Object.values(ids).some(x=>!x) || new Set(Object.values(ids)).size!==3)throw Error('Buffer no confirmó tres canales X diferentes');
