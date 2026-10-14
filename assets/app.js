@@ -36,8 +36,13 @@ function layoutNews() {
   if(card.hidden)return false;const url=card.querySelector('h3 a')?.href;
   if(url&&seen.has(url)){card.hidden=true;return false;}if(url)seen.add(url);return true;
  }).sort((a,b)=>publishedAt(b)-publishedAt(a));
- // La portada siempre destaca la noticia con fecha y hora de publicación más recientes.
- const featured=active==='todas'&&!search?.value.trim()?visible.slice(0,1):[];
+ // Tema editorial del 14/10: homenaje al Roña Castro. Otras noticias mantienen el orden cronológico.
+ // Una noticia posterior marcada manualmente como Destacada=SI puede reemplazarlo.
+ const editorialDay=new Intl.DateTimeFormat('en-US',{timeZone:'America/Argentina/Buenos_Aires',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date())==='10/14/2026';
+ const rona=editorialDay?visible.find(card=>(card.querySelector('h3')?.textContent||'').includes('MURIÓ EL ROÑA CASTRO A LOS 59 AÑOS')):null;
+ const replacement=rona?visible.find(card=>card!==rona&&card.dataset.featured==='1'&&publishedAt(card)>publishedAt(rona)):null;
+ const lead=(replacement||rona||visible[0]);
+ const featured=active==='todas'&&!search?.value.trim()&&lead?[lead]:[];
  newsGrid.classList.toggle('no-featured',featured.length===0);newsGrid.classList.toggle('single-featured',featured.length===1);
  const selected=new Set(featured);const latest=visible.filter(card=>!selected.has(card));
  cards.forEach(card=>{card.classList.remove('lead-story','secondary-story','more-story');card.dataset.section=selected.has(card)?'featured':'latest';});
