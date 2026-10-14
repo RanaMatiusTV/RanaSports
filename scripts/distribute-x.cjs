@@ -487,6 +487,45 @@ async function rescheduleBufferPost(apiKey,postId,dueAt){
  if(!res?.editPost?.post?.id)throw Error(res?.editPost?.message||'Buffer no cambió la hora del tuit');
  return res.editPost.post;
 }
+// Reformat only still-scheduled Buffer posts; keep their IDs, media and due times.
+// Previously sent tweets are intentionally never modified or duplicated.
+async function reformatQueuedPosts(apiKey,state,news,now) {
+ const pending=[];
+ for(const item of news){
+  const url=articleURL(item);
+  if(!url)continue;
+  const key=[url,previousArticleURL(item),legacyArticleURL(item)]
+    .find(k=>state.processed[k]?.bufferPostId);
+  if(!key)continue;
+  const entry=state.processed[key];
+  if(entry.mode==='shareNow' || entry.formattedFor===url ||
+      !Number.isFinite(Date.parse(entry.dueAt||'')) ||
+      Date.parse(entry.dueAt)<=now+2*60000)continue;
+  if(!['main','f1','sports'].includes(entry.account))continue;
+  pending.push({entry,url,title:item.title,desired:postText(item,entry.account,url)});
+ }
+ let updated=0;
+ for(const {entry,url,title,desired} of pending.slice(0,8)){
+  try {
+   const data=await bufferRequest(apiKey,'query GetPost{post(input:{id:'+gqlString(entry.bufferPostId)+'}){id text status dueAt}}');
+   const current=data?.post;
+   if(current?.status!=='scheduled' || !current?.text ||
+       Date.parse(current?.dueAt||0)<=Date.now()+2*60000)continue;
+   if(current.text!==desired){
+    const q='mutation EditPost { editPost(input:{id:'+gqlString(entry.bufferPostId)+',text:'+gqlString(desired)+',mode:customScheduled,dueAt:'+gqlString(current.dueAt)+'}){... on PostActionSuccess{post{id dueAt}} ... on MutationError{message}} }';
+    const result=await bufferRequest(apiKey,q);
+    if(!result?.editPost?.post?.id)throw Error(result?.editPost?.message||'Buffer rechazó cambio de formato');
+   }
+   entry.formattedFor=url;
+   entry.dueAt=current.dueAt;
+   writeState(state);
+   updated++;
+   console.log('FORMATTED_QUEUED_X '+title+' => '+url);
+  }catch(error){console.error('FORMAT_QUEUED_X_FAILED '+title+' '+error.message);}
+ }
+ if(updated)console.log('Reformatted scheduled X posts: '+updated);
+}
+
 async function promoteQueuedBreaking(apiKey,state,cfg,now){
  const entries=Object.entries(state.processed||{})
   .filter(([url,e])=>e.account==='sports' && e.mode==='customScheduled'
@@ -537,6 +576,7 @@ async function main() {
  const now=Date.now(),activation=Date.parse(cfg.activationAt);
  const news=readNews(fs.readFileSync(NEWS_PATH,'utf8'));
  await discoverChannels(key,state);
+ await reformatQueuedPosts(key,state,news,now);
  await promoteQueuedBreaking(key,state,cfg,now);
  // Verify exact handles before any write. DiscoverChannels must always refresh on start.
  const ids={main:state.buffer.mainChannelId,f1:state.buffer.f1ChannelId,sports:state.buffer.sportsChannelId};
