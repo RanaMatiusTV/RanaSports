@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-13 23:07
-Altas verificadas en Sheets: 6
-Filas: Noticias!3073:3078
-Última: LECLERC DENUNCIÓ QUE SU FERRARI FRENÓ SOLO EN EL GP DE SINGAPUR
+Fecha ARG: 2026-10-14 00:29
+Altas verificadas en Sheets: 7
+Filas: Noticias!3079:3085
+Última: LA FÓRMULA 1 PREPARA EL REGRESO DE LOS MOTORES V8 PARA 2030
