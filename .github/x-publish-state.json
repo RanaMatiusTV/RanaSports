@@ -1,6 +1,14 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/boca-cayo-1-0-ante-vasco-y-debera-remontar-la-serie-en-brasil/": {
+      "account": "sports",
+      "title": "BOCA CAYÓ 1-0 ANTE VASCO Y DEBERÁ REMONTAR LA SERIE EN BRASIL",
+      "dueAt": "2026-10-14T09:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acf4338ff1b8c5cdfcada1d",
+      "createdAt": "2026-10-14T08:54:16.761Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTkzNjI0MDAwMCwiTEFVVEFSTyBNQVJUw41ORVogTUFSQ8OTIERPUyBHT0xFUywgUEVSTyBJTlRFUiBDQVnDkyA0LTMgQU5URSBCUlVKQVMiXQ": {
       "account": "sports",
       "title": "LAUTARO MARTÍNEZ MARCÓ DOS GOLES, PERO INTER CAYÓ 4-3 ANTE BRUJAS",
@@ -5352,13 +5360,6 @@
       "dueAt": "2026-09-24T21:30:00.000Z",
       "bufferPostId": "6ab59300fb65dbc70b0e9540",
       "createdAt": "2026-09-24T21:15:44.536Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJlc3R1ZGlhbnRlcyIsMTc5MDI3NTYyMDAwMCwiRVNUVURJQU5URVMgTExBTcOTIEEgTUFSQ09TIFJPSk86IFFVSUVSRSBSRVBBVFJJQVJMTyBQQVJBIExBIFNFTUlGSU5BTCBERSBMSUJFUlRBRE9SRVMiXQ": {
-      "account": "main",
-      "title": "ESTUDIANTES LLAMÓ A MARCOS ROJO: QUIERE REPATRIARLO PARA LA SEMIFINAL DE LIBERTADORES",
-      "dueAt": "2026-09-24T21:25:00.000Z",
-      "bufferPostId": "6ab592ff7794ad3835666501",
-      "createdAt": "2026-09-24T21:15:43.665Z"
     }
   },
   "nextAt": {
