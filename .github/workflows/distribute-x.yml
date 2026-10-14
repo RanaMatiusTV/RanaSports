@@ -3,6 +3,8 @@ on:
   push:
     paths:
       - 'assets/news-live.csv'
+      - 'scripts/distribute-x.cjs'
+      - 'config/x-distribution.json'
       - '.github/workflows/distribute-x.yml'
   schedule:
     - cron: '15 * * * *'
