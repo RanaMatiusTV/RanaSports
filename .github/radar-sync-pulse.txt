@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-14 13:02
+Fecha ARG: 2026-10-14 15:04
 Altas verificadas en Sheets: 6
-Filas: Noticias!3107:3112
-Última: LOS REFUERZOS DE RACING QUEDARON BAJO LA LUPA ANTES DEL CLÁSICO
+Filas: Noticias!3113:3118
+Última: BOTTAS REVELÓ QUE TIENE UN WILLIAMS DE FÓRMULA 1 EN EL LIVING DE SU CASA
