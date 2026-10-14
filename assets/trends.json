@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-14T10:36:52.192Z",
+  "updatedAt": "2026-10-14T15:29:45.772Z",
   "trends": [
     {
-      "query": "castro",
-      "startedAt": "2026-10-14T10:00:00.000Z",
+      "query": "guillermina valdés",
+      "startedAt": "2026-10-14T14:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "pronostico cordoba",
-      "startedAt": "2026-10-14T10:00:00.000Z",
+      "query": "estatua viviente",
+      "startedAt": "2026-10-14T14:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "charlie sheen",
+      "startedAt": "2026-10-14T14:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "matías galarza",
+      "startedAt": "2026-10-14T14:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "moria casán",
+      "startedAt": "2026-10-14T14:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "la isla del sol",
-      "startedAt": "2026-10-14T09:20:00.000Z",
+      "query": "camión cisterna",
+      "startedAt": "2026-10-14T14:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "dia de la costurera",
+      "startedAt": "2026-10-14T13:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "terremoto",
-      "startedAt": "2026-10-14T09:10:00.000Z",
-      "volume": 200
+      "query": "hugo moyano",
+      "startedAt": "2026-10-14T12:00:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "cronica",
-      "startedAt": "2026-10-14T07:20:00.000Z",
-      "volume": 200
+      "query": "dólar estadounidense",
+      "startedAt": "2026-10-14T11:50:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "betano",
-      "startedAt": "2026-10-14T07:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "roña castro",
-      "startedAt": "2026-10-14T05:40:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "character ai",
-      "startedAt": "2026-10-14T05:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "kick",
-      "startedAt": "2026-10-14T02:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "diario ole",
-      "startedAt": "2026-10-14T02:40:00.000Z",
+      "query": "robin givens",
+      "startedAt": "2026-10-14T11:40:00.000Z",
       "volume": 200
     }
   ]
