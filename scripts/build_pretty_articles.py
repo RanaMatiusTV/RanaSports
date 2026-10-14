@@ -10,7 +10,10 @@ import re
 from build_sitemaps import normalized, timestamp, CATEGORY_ALIASES, write_if_different
 
 BASE = "https://ranasports.com.ar"
-CUTOFF = dt.date(2026, 10, 14)
+# Always include at least the previous local day: X distributes news up to 12 hours old.
+# Keep earlier links/pages through the persistent URL map.
+ARGENTINA_TZ = dt.timezone(dt.timedelta(hours=-3))
+CUTOFF = dt.datetime.now(ARGENTINA_TZ).date() - dt.timedelta(days=2)
 MAP = Path("assets/article-routes.js")
 OUTPUT = Path("/tmp/ranasports-pretty-pages.txt")
 FOLDERS = {"independiente": "futbol", "seleccion": "futbol",
