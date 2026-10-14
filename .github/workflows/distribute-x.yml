@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'assets/news-live.csv'
+      - 'assets/article-routes.js'
       - 'scripts/distribute-x.cjs'
       - 'config/x-distribution.json'
       - '.github/workflows/distribute-x.yml'
