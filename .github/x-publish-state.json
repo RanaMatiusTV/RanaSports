@@ -1,6 +1,22 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/noticia.html?n=WyJjb3BhIHN1ZGFtZXJpY2FuYSIsMTc5MTk0ODU0MDAwMCwiQU5EUsOJUyBHw5NNRVogVklPIERPUyBBTUFSSUxMQVMgRU4gU0VHVU5ET1MgWSBERUrDkyBBIFZBU0NPIENPTiBESUVaIl0": {
+      "account": "sports",
+      "title": "ANDRÉS GÓMEZ VIO DOS AMARILLAS EN SEGUNDOS Y DEJÓ A VASCO CON DIEZ",
+      "dueAt": "2026-10-14T11:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acf3716f847f2ad9ecad8df",
+      "createdAt": "2026-10-14T08:02:30.796Z"
+    },
+    "https://ranasports.com.ar/noticia.html?n=WyJib3hlbyIsMTc5MTk2NDUwMDAwMCwiTVVSScOTIEVMIFJPw5FBIENBU1RSTyBBIExPUyA1OSBBw5FPUzogTFVUTyBFTiBFTCBCT1hFTyBBUkdFTlRJTk8iXQ": {
+      "account": "sports",
+      "title": "MURIÓ EL ROÑA CASTRO A LOS 59 AÑOS: LUTO EN EL BOXEO ARGENTINO",
+      "dueAt": "2026-10-14T11:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acf3716848c31c80965f9ec",
+      "createdAt": "2026-10-14T08:02:30.214Z"
+    },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTk0ODU0MDAwMCwiTEEgRsOTUk1VTEEgMSBQUkVQQVJBIEVMIFJFR1JFU08gREUgTE9TIE1PVE9SRVMgVjggUEFSQSAyMDMwIl0": {
       "account": "f1",
       "title": "LA FÓRMULA 1 PREPARA EL REGRESO DE LOS MOTORES V8 PARA 2030",
@@ -5344,22 +5360,6 @@
       "createdAt": "2026-09-24T21:15:43.195Z",
       "externalLink": "https://x.com/2095690134515572737/status/2103234272949674311",
       "sentAt": "2026-09-24T21:25:01.784Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI3MzEwMDAwMCwiQ09MQVBJTlRPIFBJREUgTcOBUyBQQVJBIExBIENMQVNJRklDQUNJw5NOOiDigJxRVUVEQSBUUkFCQUpPIFBPUiBIQUNFUuKAnSJd": {
-      "account": "f1",
-      "title": "COLAPINTO PIDE MÁS PARA LA CLASIFICACIÓN: “QUEDA TRABAJO POR HACER”",
-      "dueAt": "2026-09-24T21:20:00.000Z",
-      "bufferPostId": "6ab592fe03180a4897a12138",
-      "createdAt": "2026-09-24T21:15:42.887Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103233022354973006",
-      "sentAt": "2026-09-24T21:20:03.604Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyODM2MDAwMDAsIllBIEVTVMOBIEVOIE1BUkNIQSBMQSBWRU5UQSBQQVJBIExBIERFU1BFRElEQSBERSBNRVNTSTogRU5UUkFEQVMgREVTREUgJDkwLjAwMCJd": {
-      "account": "main",
-      "title": "YA ESTÁ EN MARCHA LA VENTA PARA LA DESPEDIDA DE MESSI: ENTRADAS DESDE $90.000",
-      "dueAt": "2026-09-24T21:20:00.000Z",
-      "bufferPostId": "6ab592f27794ad3835666344",
-      "createdAt": "2026-09-24T21:15:30.253Z"
     }
   },
   "nextAt": {
