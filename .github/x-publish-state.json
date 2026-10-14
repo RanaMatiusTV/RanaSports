@@ -7,7 +7,8 @@
       "dueAt": "2026-10-14T09:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acf4338ff1b8c5cdfcada1d",
-      "createdAt": "2026-10-14T08:54:16.761Z"
+      "createdAt": "2026-10-14T08:54:16.761Z",
+      "formattedFor": "https://ranasports.com.ar/futbol/boca-cayo-1-0-ante-vasco-y-debera-remontar-la-serie-en-brasil/"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTkzNjI0MDAwMCwiTEFVVEFSTyBNQVJUw41ORVogTUFSQ8OTIERPUyBHT0xFUywgUEVSTyBJTlRFUiBDQVnDkyA0LTMgQU5URSBCUlVKQVMiXQ": {
       "account": "sports",
@@ -23,7 +24,8 @@
       "dueAt": "2026-10-14T11:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6acf3716f847f2ad9ecad8df",
-      "createdAt": "2026-10-14T08:02:30.796Z"
+      "createdAt": "2026-10-14T08:02:30.796Z",
+      "formattedFor": "https://ranasports.com.ar/futbol/andres-gomez-vio-dos-amarillas-en-segundos-y-dejo-a-vasco-con-diez/"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJib3hlbyIsMTc5MTk2NDUwMDAwMCwiTVVSScOTIEVMIFJPw5FBIENBU1RSTyBBIExPUyA1OSBBw5FPUzogTFVUTyBFTiBFTCBCT1hFTyBBUkdFTlRJTk8iXQ": {
       "account": "sports",
@@ -32,7 +34,8 @@
       "mode": "customScheduled",
       "bufferPostId": "6acf3716848c31c80965f9ec",
       "createdAt": "2026-10-14T08:02:30.214Z",
-      "priorityRescheduledAt": "2026-10-14T08:55:54.937Z"
+      "priorityRescheduledAt": "2026-10-14T08:55:54.937Z",
+      "formattedFor": "https://ranasports.com.ar/boxeo/murio-el-rona-castro/"
     },
     "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTk0ODU0MDAwMCwiTEEgRsOTUk1VTEEgMSBQUkVQQVJBIEVMIFJFR1JFU08gREUgTE9TIE1PVE9SRVMgVjggUEFSQSAyMDMwIl0": {
       "account": "f1",
