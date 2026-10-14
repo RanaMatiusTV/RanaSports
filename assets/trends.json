@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-14T15:29:45.772Z",
+  "updatedAt": "2026-10-14T19:42:00.309Z",
   "trends": [
     {
-      "query": "guillermina valdés",
-      "startedAt": "2026-10-14T14:50:00.000Z",
+      "query": "real madrid",
+      "startedAt": "2026-10-14T19:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "city psg",
+      "startedAt": "2026-10-14T19:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "estatua viviente",
-      "startedAt": "2026-10-14T14:40:00.000Z",
+      "query": "lincoln city - west ham",
+      "startedAt": "2026-10-14T19:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "charlie sheen",
-      "startedAt": "2026-10-14T14:40:00.000Z",
+      "query": "roma",
+      "startedAt": "2026-10-14T18:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "matías galarza",
-      "startedAt": "2026-10-14T14:30:00.000Z",
+      "query": "thiago mendes",
+      "startedAt": "2026-10-14T18:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "moria casán",
-      "startedAt": "2026-10-14T14:30:00.000Z",
-      "volume": 100
+      "query": "amoris laetitia",
+      "startedAt": "2026-10-14T18:50:00.000Z",
+      "volume": 200
     },
     {
-      "query": "camión cisterna",
-      "startedAt": "2026-10-14T14:10:00.000Z",
+      "query": "lucas beltrán",
+      "startedAt": "2026-10-14T18:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "dia de la costurera",
-      "startedAt": "2026-10-14T13:00:00.000Z",
-      "volume": 200
+      "query": "aston villa - fenerbahçe",
+      "startedAt": "2026-10-14T18:10:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "hugo moyano",
-      "startedAt": "2026-10-14T12:00:00.000Z",
+      "query": "real betis - porto",
+      "startedAt": "2026-10-14T18:10:00.000Z",
       "volume": 1000
     },
     {
-      "query": "dólar estadounidense",
-      "startedAt": "2026-10-14T11:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "robin givens",
-      "startedAt": "2026-10-14T11:40:00.000Z",
-      "volume": 200
+      "query": "roma - real madrid",
+      "startedAt": "2026-10-14T18:00:00.000Z",
+      "volume": 20000
     }
   ]
 }
