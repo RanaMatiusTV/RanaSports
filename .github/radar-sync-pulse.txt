@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-14 11:03
-Altas verificadas en Sheets: 7
-Filas: Noticias!3100:3106
-Última: DEL PRETE RECUPERÓ RODAJE Y SE PERFILA COMO UNA VARIANTE PARA INSUA
+Fecha ARG: 2026-10-14 13:02
+Altas verificadas en Sheets: 6
+Filas: Noticias!3107:3112
+Última: LOS REFUERZOS DE RACING QUEDARON BAJO LA LUPA ANTES DEL CLÁSICO
