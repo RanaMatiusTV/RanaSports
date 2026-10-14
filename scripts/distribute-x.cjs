@@ -123,7 +123,7 @@ const ARTICLE_ROUTES = (() => {
 function articleURL(item) {
   const slug=ARTICLE_ROUTES[articleId(item)];
   if (typeof slug==='string' && /^\/[a-z0-9-]+\/[a-z0-9-]+\/$/.test(slug)) return SITE_BASE + slug.slice(1);
-  return `${SITE_BASE}noticia.html?n=${articleId(item)}`;
+  return ''; // Wait for a real published sport/article URL; never tweet legacy links.
 }
 
 function previousArticleURL(item) {
@@ -264,7 +264,7 @@ function postText(item, account, url) {
   const linkEmoji = linkEmojiFor(item, account);
   let title = item.title.trim();
   if (title.length > 190) title = title.slice(0, 187).trimEnd() + '…';
-  return `${emoji}${linkEmoji} ${title}\n${account === 'f1' && hashtag !== '#F1' ? hashtag+' #F1' : hashtag}\n\n🔗 ${url}`;
+  return `${linkEmoji} ${title}\n${account === 'f1' && hashtag !== '#F1' ? hashtag+' #F1' : hashtag}\n\n🔗 ${url}`;
 }
 
 async function validateImage(url) {
@@ -549,6 +549,7 @@ async function main() {
   const accountActivation=Date.parse(cfg.accounts[account]?.activationAt || cfg.activationAt);
   if(!Number.isFinite(accountActivation) || now < accountActivation || item.date < accountActivation)continue;
   const url=articleURL(item),legacy=legacyArticleURL(item),previous=previousArticleURL(item);
+   if (!url) { console.log('WAITING_PRETTY_ARTICLE_URL '+item.title); continue; }
    if(state.processed[url]||state.processed[legacy]||state.processed[previous])continue;
   candidates.push({item,url,account,score:score(item)});
  }
