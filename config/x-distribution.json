@@ -36,7 +36,7 @@
     }
   },
   "selection": {
-    "maxAgeHours": 6,
+    "maxAgeHours": 12,
     "carryOverHours": 3,
     "ignorePreActivation": true,
     "duplicateAcrossAccounts": false,
