@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-14T19:42:00.309Z",
+  "updatedAt": "2026-10-14T22:38:10.080Z",
   "trends": [
     {
-      "query": "real madrid",
-      "startedAt": "2026-10-14T19:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "city psg",
-      "startedAt": "2026-10-14T19:10:00.000Z",
+      "query": "como va river",
+      "startedAt": "2026-10-14T22:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "lincoln city - west ham",
-      "startedAt": "2026-10-14T19:00:00.000Z",
-      "volume": 200
+      "query": "sarmiento",
+      "startedAt": "2026-10-14T22:00:00.000Z",
+      "volume": 5000
     },
     {
-      "query": "roma",
-      "startedAt": "2026-10-14T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "thiago mendes",
-      "startedAt": "2026-10-14T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "amoris laetitia",
-      "startedAt": "2026-10-14T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lucas beltrán",
-      "startedAt": "2026-10-14T18:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "aston villa - fenerbahçe",
-      "startedAt": "2026-10-14T18:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "real betis - porto",
-      "startedAt": "2026-10-14T18:10:00.000Z",
+      "query": "mineiro",
+      "startedAt": "2026-10-14T21:40:00.000Z",
       "volume": 1000
     },
     {
-      "query": "roma - real madrid",
-      "startedAt": "2026-10-14T18:00:00.000Z",
-      "volume": 20000
+      "query": "condenado",
+      "startedAt": "2026-10-14T21:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "jefatura de gabinete de ministros",
+      "startedAt": "2026-10-14T21:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "atlético mineiro - torque",
+      "startedAt": "2026-10-14T21:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "médico",
+      "startedAt": "2026-10-14T21:10:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "sarmiento - river plate",
+      "startedAt": "2026-10-14T21:00:00.000Z",
+      "volume": 200000
+    },
+    {
+      "query": "represa de yacyretá frontera argentina-paraguay",
+      "startedAt": "2026-10-14T21:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "posiciones de bodø/glimt contra borussia dortmund",
+      "startedAt": "2026-10-14T21:00:00.000Z",
+      "volume": 500
     }
   ]
 }
