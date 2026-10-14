@@ -1,6 +1,14 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/bottas-revelo-que-tiene-un-williams-de-formula-1-en-el-living-de-su-casa/": {
+      "account": "f1",
+      "title": "BOTTAS REVELÓ QUE TIENE UN WILLIAMS DE FÓRMULA 1 EN EL LIVING DE SU CASA",
+      "dueAt": "2026-10-14T20:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6acfe241f69efaca8e698df9",
+      "createdAt": "2026-10-14T20:12:49.609Z"
+    },
     "https://ranasports.com.ar/futbol/quique-sacco-presento-su-plan-para-presidir-independiente/": {
       "account": "main",
       "title": "QUIQUE SACCO PRESENTÓ SU PLAN PARA PRESIDIR INDEPENDIENTE",
@@ -5361,13 +5369,6 @@
       "dueAt": "2026-09-25T01:25:00.000Z",
       "bufferPostId": "6ab5cc8ca14029bcc71e838c",
       "createdAt": "2026-09-25T01:21:16.731Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJtZXNzaSIsMTc5MDI4NTcwMDAwMCwiTEEgREVTUEVESURBIERFIE1FU1NJIFRFTkRSw4EgRkFOIEZFU1QgRU4gQ0lVREFEIFVOSVZFUlNJVEFSSUEgQ09OIFBBTlRBTExBIEdJR0FOVEUiXQ": {
-      "account": "main",
-      "title": "LA DESPEDIDA DE MESSI TENDRÁ FAN FEST EN CIUDAD UNIVERSITARIA CON PANTALLA GIGANTE",
-      "dueAt": "2026-09-24T23:30:00.000Z",
-      "bufferPostId": "6ab5b101ab8dd25d006fd638",
-      "createdAt": "2026-09-24T23:23:45.591Z"
     }
   },
   "nextAt": {
