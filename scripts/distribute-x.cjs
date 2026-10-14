@@ -436,6 +436,25 @@ function score(item) {
  if(/\b(viral|insolito|bloop|polemica)\b/.test(s))n+=2;
  return n;
 }
+function isBreakingNews(item) {
+  // Prioritize confirmed deaths, major results and eliminations without flagging every preview.
+  const title = normalize(item.title);
+  return /\b(murio|fallecio|fallecimiento|muerte|murieron)\b/.test(title)
+    || /\b(gano|perdio|cayo|goleo|empato|elimino|clasifico|consagro|campeon|campeona)\b/.test(title)
+    || /\b(derrota|victoria|titulo|eliminacion)\b/.test(title) && /\b(confirmada|sufrio|historica|final|boca|river|racing|independiente|argentina)\b/.test(title);
+}
+
+function canShareNow(state, account, now, policy) {
+  const posts = Object.values(state.processed || {}).filter(x => x.account === account && x.bufferPostId);
+  const gapMs = policy.minGapMinutes * 60000;
+  if (posts.some(x => Math.abs(Date.parse(x.dueAt || 0) - now) < gapMs)) return false;
+  const sentWithinHour = posts.filter(x => {
+    const at = Date.parse(x.dueAt || 0);
+    return at <= now && at > now - 3600000;
+  }).length;
+  return sentWithinHour < policy.hourlyMax;
+}
+
 function targets(config,now) {
  const result={};
  const hourMs=60*60000;
@@ -450,7 +469,6 @@ function targets(config,now) {
     const slot=at+index*policy.minGapMinutes*60000;
     if(slot>=at+hourMs)continue;
     const l=localParts(slot);
-    if(account==='sports' && (l.hour<8 || l.hour>23))continue;
     const blocked=existing.some(x=>Math.abs(Date.parse(x.dueAt)-slot)<policy.minGapMinutes*60000);
     if(!blocked)timeSlots.push(slot);
    }
@@ -503,18 +521,23 @@ async function main() {
    if(state.processed[url]||state.processed[legacy]||state.processed[previous])continue;
   candidates.push({item,url,account,score:score(item)});
  }
- candidates.sort((a,b)=>b.score-a.score || b.item.date-a.item.date);
+ candidates.sort((a,b)=>
+   (isBreakingNews(b.item)?30:0)+b.score - ((isBreakingNews(a.item)?30:0)+a.score)
+   || b.item.date-a.item.date
+ );
  const slots=targets({...cfg,_state:state},now);
  const errors=await recentBufferErrors(key,state,activation);
  state.lockedUntil ||= {};
  const scheduled={main:0,f1:0,sports:0};
  const failed=new Set();
  for (const x of candidates) {
-  const account=x.account,pol=cfg.accounts[account],slot=slots[account]?.shift();
+  const account=x.account,pol=cfg.accounts[account];
+  const sendNow=account==='sports' && isBreakingNews(x.item) && canShareNow(state,account,now,pol);
+  const slot=sendNow ? now : slots[account]?.shift();
   if(!slot || failed.has(account) || errors.has(account) || Date.parse(state.lockedUntil[account]||0)>now)continue;
   const day=localParts(slot).day;
   if(pol.dailyMax!=null && sameDayPublishedCount(state,account,day)>=pol.dailyMax)continue;
-  if(futureCount(state,account,now)>=(account==='sports' ? 3 : MAX_FUTURE_PER_CHANNEL))continue;
+  if(!sendNow && futureCount(state,account,now)>=(account==='sports' ? 3 : MAX_FUTURE_PER_CHANNEL))continue;
   const image=await validateImage(x.item.image);
   const imgPath = (()=>{try{return decodeURIComponent(new URL(image).pathname).toLowerCase()}catch{return ''}})();
   const genericImage = /(?:^|[\/_.-])(logo|avatar|placeholder|default|icono|favicon|escudo)(?:[\/_.-]|$)/i.test(imgPath);
@@ -523,8 +546,9 @@ async function main() {
    continue;
   }
   try{
-   const post=await createBufferPost(key,ids[account],postText(x.item,account,x.url),image,new Date(slot).toISOString(),false);
-   state.processed[x.url]={account,title:x.item.title,dueAt:post.dueAt||new Date(slot).toISOString(),mode:'customScheduled',bufferPostId:post.id,createdAt:new Date().toISOString()};
+   const post=await createBufferPost(key,ids[account],postText(x.item,account,x.url),image,new Date(slot).toISOString(),sendNow);
+   state.processed[x.url]={account,title:x.item.title,dueAt:post.dueAt||new Date(slot).toISOString(),mode:sendNow?'shareNow':'customScheduled',bufferPostId:post.id,createdAt:new Date().toISOString()};
+   console.log((sendNow?'SHARE_NOW ':'QUEUED ')+account+' '+x.item.title);
    scheduled[account]++;writeState(state);
   }catch(err){ console.error('HALT '+account+' '+err.message);failed.add(account);state.lockedUntil[account]=new Date(now+12*3600000).toISOString();writeState(state); }
  }
