@@ -1,0 +1,1 @@
+window.RS_ARTICLE_ROUTES={};

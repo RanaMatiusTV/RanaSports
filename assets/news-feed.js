@@ -244,9 +244,13 @@
  function element(tag,className,text){const n=elementNode(tag);if(className)n.className=className;if(text!==undefined&&text!==null)n.textContent=text;return n;}
  function elementNode(tag){return document.createElement(tag);}
  function link(url,text,className){const n=element('a',className,text);n.href=url;if(new URL(url,location.href).origin!==location.origin){n.target='_blank';n.rel='noopener noreferrer';}return n;}
- function articleURL(item){
+ function articleToken(item){
   const identity=JSON.stringify([item.category,item.date,item.title]);const bytes=new TextEncoder().encode(identity);
-  const id=btoa(Array.from(bytes,b=>String.fromCharCode(b)).join('')).replaceAll('+','-').replaceAll('/','_').replace(/=+$/,'');
+  return btoa(Array.from(bytes,b=>String.fromCharCode(b)).join('')).replaceAll('+','-').replaceAll('/','_').replace(/=+$/,'');
+ }
+ function articleURL(item){
+  const id=articleToken(item),path=window.RS_ARTICLE_ROUTES?.[id];
+  if(path&&/^\/[a-z0-9-]+\/[a-z0-9-]+\/$/.test(path))return new URL(path.slice(1),siteBase).href;
   const u=new URL('noticia.html',siteBase);u.searchParams.set('n',id);return u.href;
  }
  function renderVideo(container,url){
@@ -348,8 +352,8 @@
   imageWithFallback(img,primary,candidates,()=>{figure.remove();queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));});
   figure.append(img);if(caption)figure.append(caption);detail.append(figure);
  }
- function requestedArticleId(){return new URL(location.href).searchParams.get('n')||'';}
- function findRequested(news){const requested=requestedArticleId();return news.find(x=>new URL(articleURL(x)).searchParams.get('n')===requested)||null;}
+ function requestedArticleId(){return new URL(location.href).searchParams.get('n')||window.RS_ARTICLE_ID||'';}
+ function findRequested(news){const requested=requestedArticleId();return news.find(x=>articleToken(x)===requested)||null;}
  async function fetchArchivedRequested(){
   if(!detail)return null;
   try{
@@ -409,7 +413,7 @@
   }
  }
  function render(news){
-  news=news.filter(item=>!REVOKED_ARTICLE_IDS.has(new URL(articleURL(item)).searchParams.get('n'))).sort((a,b)=>b.date-a.date);
+  news=news.filter(item=>!REVOKED_ARTICLE_IDS.has(articleToken(item))).sort((a,b)=>b.date-a.date);
   currentNews=news;
   if(detail){renderDetail(news);document.dispatchEvent(new Event('ranasports:news-updated'));return;}if(!grid)return;const fragment=document.createDocumentFragment();
   const query=normalize(searchInput?.value||'');

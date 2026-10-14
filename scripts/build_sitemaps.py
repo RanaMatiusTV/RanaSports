@@ -24,6 +24,21 @@ CATEGORY_ALIASES = {
 }
 
 
+def load_routes():
+    path = Path("assets/article-routes.js")
+    if not path.is_file():
+        return {}
+    try:
+        data = path.read_text(encoding="utf-8")
+        prefix = "window.RS_ARTICLE_ROUTES="
+        return json.loads(data[len(prefix):].strip().rstrip(";")) if data.startswith(prefix) else {}
+    except (OSError, ValueError):
+        return {}
+
+
+ROUTES = load_routes()
+
+
 def normalized(value):
     value = unicodedata.normalize("NFD", str(value or ""))
     return "".join(c for c in value if unicodedata.category(c) != "Mn").strip().lower()
@@ -69,7 +84,7 @@ def load_articles(filename):
             identity = json.dumps([category, millis, title], ensure_ascii=False,
                                   separators=(",", ":"))
             token = base64.urlsafe_b64encode(identity.encode("utf-8")).decode("ascii").rstrip("=")
-            url = BASE + "/noticia.html?n=" + token
+            url = BASE + ROUTES.get(token, "/noticia.html?n=" + token)
             articles[url] = (local, title)
     return sorted(((url, when, title) for url, (when, title) in articles.items()),
                   key=lambda article: article[1], reverse=True)
@@ -94,7 +109,7 @@ def xml_bytes(root):
 
 def build_general(static_urls, articles):
     root = ET.Element(f"{{{SM_NS}}}urlset")
-    for url in static_urls + [url for url, _, _ in articles[:49000]]:
+    for url in dict.fromkeys(static_urls + [url for url, _, _ in articles[:49000]]):
         node = ET.SubElement(root, f"{{{SM_NS}}}url")
         ET.SubElement(node, f"{{{SM_NS}}}loc").text = url
     return xml_bytes(root)
