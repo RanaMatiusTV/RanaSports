@@ -205,6 +205,13 @@ function linkEmojiFor(item, account) {
 function hashtagFor(item, account) {
   const corpus = normalize(`${item.sport} ${item.category} ${item.title} ${item.summary}`);
 
+  // A competition-specific hashtag overrides the nationality of a player.
+  // Covers "Champions League", "la Champions", "Liga de Campeones" and "UCL".
+  const isFootball = /\b(futbol|soccer|champions|uefa|inter|brujas)\b/.test(corpus)
+    || /^(seleccion|boca|river|racing|independiente|san lorenzo)$/.test(item.category);
+  if (isFootball && /\b(?:champions(?:\s+league)?|liga de campeones|ucl)\b/.test(corpus))
+    return '#ChampionsLeague';
+
   // 1) Selección Argentina explícita.
   if (
     item.category === 'seleccion' ||
