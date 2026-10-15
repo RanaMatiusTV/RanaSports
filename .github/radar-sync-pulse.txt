@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-15 07:00
+Fecha ARG: 2026-10-15 09:00
 Altas verificadas en Sheets: 6
-Filas: Noticias!3149:3154
-Última: RICHARLISON CELEBRÓ CON UN BAILE LA VICTORIA DE VASCO ANTE BOCA
+Filas: Noticias!3155:3160
+Última: SEEDORF VOLVIÓ A DIRIGIR DESPUÉS DE SIETE AÑOS Y ASUMIÓ EN CORINTHIANS
