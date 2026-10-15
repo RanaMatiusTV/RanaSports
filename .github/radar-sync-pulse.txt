@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-14 21:04
+Fecha ARG: 2026-10-14 23:00
 Altas verificadas en Sheets: 6
-Filas: Noticias!3131:3136
-Última: LISANDRO MARTÍNEZ ACLARÓ SUS CRÍTICAS AL UNITED: “HABLÉ CON RABIA Y FRUSTRACIÓN”
+Filas: Noticias!3137:3142
+Última: PSG VENCIÓ 4-2 AL MANCHESTER CITY EN UN PARTIDAZO
