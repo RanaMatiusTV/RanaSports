@@ -1,6 +1,22 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/alpine-presento-a-mike-elliott-para-potenciar-el-auto-de-colapinto-y-gasly/": {
+      "account": "f1",
+      "title": "ALPINE PRESENTÓ A MIKE ELLIOTT PARA POTENCIAR EL AUTO DE COLAPINTO Y GASLY",
+      "dueAt": "2026-10-15T20:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad1252a8ff147e7e6f5c744",
+      "createdAt": "2026-10-15T19:10:34.338Z"
+    },
+    "https://ranasports.com.ar/f1/briatore-respaldo-a-colapinto-tras-su-pedido-contra-el-odio-en-redes/": {
+      "account": "f1",
+      "title": "BRIATORE RESPALDÓ A COLAPINTO TRAS SU PEDIDO CONTRA EL ODIO EN REDES",
+      "dueAt": "2026-10-15T19:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad12529d14a253d4e0bab8e",
+      "createdAt": "2026-10-15T19:10:33.930Z"
+    },
     "https://ranasports.com.ar/f1/un-companero-de-colapinto-podria-perder-su-licencia-por-un-conflicto-judicial/": {
       "account": "f1",
       "title": "UN COMPAÑERO DE COLAPINTO PODRÍA PERDER SU LICENCIA POR UN CONFLICTO JUDICIAL",
@@ -5351,24 +5367,6 @@
       "createdAt": "2026-09-25T01:44:34.873Z",
       "externalLink": "https://x.com/2095690134515572737/status/2103304739899248738",
       "sentAt": "2026-09-25T02:05:02.610Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI3NTIwMDAwMCwiQVVESSBMTEVWw5MgMTQgQ0FNQklPUyBBIEJBS8OaIFkgQklOT1RUTyBBU0VHVVLDkyBRVUUgRUwgUEFRVUVURSBSRVNQT05ERSBDT01PIEVTUEVSQUJBTiJd": {
-      "account": "f1",
-      "title": "AUDI LLEVÓ 14 CAMBIOS A BAKÚ Y BINOTTO ASEGURÓ QUE EL PAQUETE RESPONDE COMO ESPERABAN",
-      "dueAt": "2026-09-25T02:00:00.000Z",
-      "bufferPostId": "6ab5d202607bee5b0322f667",
-      "createdAt": "2026-09-25T01:44:34.383Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103303548175868319",
-      "sentAt": "2026-09-25T02:00:18.499Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI3NDkwMDAwMCwiQU5UT05FTExJIFNFIFJFQ1VQRVLDkyBERSBVTiBQUk9CTEVNQSBISURSw4FVTElDTyBZIFRFUk1JTsOTIFNFR1VORE8gRU4gTEEgRlAyIERFIEJBS8OaIl0": {
-      "account": "f1",
-      "title": "ANTONELLI SE RECUPERÓ DE UN PROBLEMA HIDRÁULICO Y TERMINÓ SEGUNDO EN LA FP2 DE BAKÚ",
-      "dueAt": "2026-09-25T01:55:00.000Z",
-      "bufferPostId": "6ab5d201a14029bcc71f2944",
-      "createdAt": "2026-09-25T01:44:33.843Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103302222335324607",
-      "sentAt": "2026-09-25T01:55:02.461Z"
     }
   },
   "nextAt": {
