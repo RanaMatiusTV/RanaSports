@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-15T05:54:02.992Z",
+  "updatedAt": "2026-10-15T11:26:28.827Z",
   "trends": [
     {
-      "query": "atlético nacional - medellín",
-      "startedAt": "2026-10-15T04:10:00.000Z",
+      "query": "marco trungelliti",
+      "startedAt": "2026-10-15T11:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "europa league",
-      "startedAt": "2026-10-15T03:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fallecio norberto diprospero",
-      "startedAt": "2026-10-15T03:30:00.000Z",
+      "query": "norberto di próspero",
+      "startedAt": "2026-10-15T10:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "marcelo figoli",
-      "startedAt": "2026-10-15T02:30:00.000Z",
+      "query": "15 de octubre",
+      "startedAt": "2026-10-15T10:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "luciana aymar",
-      "startedAt": "2026-10-15T02:20:00.000Z",
+      "query": "alexander zverev",
+      "startedAt": "2026-10-15T10:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "weather",
+      "startedAt": "2026-10-15T10:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "paul aron",
+      "startedAt": "2026-10-15T10:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "evento de el niño de 2026-2027",
+      "startedAt": "2026-10-15T10:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "hilary swank",
+      "startedAt": "2026-10-15T09:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "es mi sueño",
+      "startedAt": "2026-10-15T09:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "nicolás otamendi",
+      "startedAt": "2026-10-15T09:30:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "pablo giralt",
-      "startedAt": "2026-10-15T02:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "posiciones de inter miami contra new york city football club",
-      "startedAt": "2026-10-15T01:50:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "karina mazzocco",
-      "startedAt": "2026-10-15T01:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "niño clima",
-      "startedAt": "2026-10-15T01:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "chicago fire - philadelphia",
-      "startedAt": "2026-10-15T01:20:00.000Z",
-      "volume": 200
     }
   ]
 }
