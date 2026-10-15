@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-14T22:38:10.080Z",
+  "updatedAt": "2026-10-15T00:52:52.710Z",
   "trends": [
     {
-      "query": "como va river",
-      "startedAt": "2026-10-14T22:20:00.000Z",
+      "query": "la pagina millonaria",
+      "startedAt": "2026-10-15T00:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "inter miami cf",
+      "startedAt": "2026-10-15T00:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "sarmiento",
-      "startedAt": "2026-10-14T22:00:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "mineiro",
-      "startedAt": "2026-10-14T21:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "condenado",
-      "startedAt": "2026-10-14T21:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "jefatura de gabinete de ministros",
-      "startedAt": "2026-10-14T21:40:00.000Z",
+      "query": "abel ferreira",
+      "startedAt": "2026-10-15T00:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "atlético mineiro - torque",
-      "startedAt": "2026-10-14T21:20:00.000Z",
+      "query": "palmeiras",
+      "startedAt": "2026-10-15T00:00:00.000Z",
       "volume": 2000
     },
     {
-      "query": "médico",
-      "startedAt": "2026-10-14T21:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "sarmiento - river plate",
-      "startedAt": "2026-10-14T21:00:00.000Z",
-      "volume": 200000
-    },
-    {
-      "query": "represa de yacyretá frontera argentina-paraguay",
-      "startedAt": "2026-10-14T21:00:00.000Z",
+      "query": "tabla de posiciones liga argentina",
+      "startedAt": "2026-10-15T00:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "posiciones de bodø/glimt contra borussia dortmund",
-      "startedAt": "2026-10-14T21:00:00.000Z",
+      "query": "torneo argentino",
+      "startedAt": "2026-10-15T00:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "adam bareiro",
+      "startedAt": "2026-10-14T23:50:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "liga argentina",
+      "startedAt": "2026-10-14T23:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "di prospero",
+      "startedAt": "2026-10-14T23:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "conmebol libertadores",
+      "startedAt": "2026-10-14T23:40:00.000Z",
+      "volume": 1000
     }
   ]
 }
