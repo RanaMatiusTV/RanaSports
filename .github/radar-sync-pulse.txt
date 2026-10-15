@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-15 17:00
+Fecha ARG: 2026-10-15 19:00
 Altas verificadas en Sheets: 6
-Filas: Noticias!3180:3185
-Última: FLAMENGO AVANZA EN LA RENOVACIÓN DE AGUSTÍN ROSSI
+Filas: Noticias!3186:3191
+Última: ARGENTINA SERÁ SEDE POR PRIMERA VEZ DEL MUNDIAL DE POWERCHAIR FOOTBALL
