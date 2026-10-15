@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-14 23:00
+Fecha ARG: 2026-10-15 00:25
 Altas verificadas en Sheets: 6
-Filas: Noticias!3137:3142
-Última: PSG VENCIÓ 4-2 AL MANCHESTER CITY EN UN PARTIDAZO
+Filas: Noticias!3143:3148
+Última: MONTIEL APUNTÓ CONTRA ZUNINO TRAS EL GOL ANULADO A RIVER
