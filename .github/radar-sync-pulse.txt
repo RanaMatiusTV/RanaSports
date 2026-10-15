@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-15 09:00
+Fecha ARG: 2026-10-15 11:00
 Altas verificadas en Sheets: 6
-Filas: Noticias!3155:3160
-Última: SEEDORF VOLVIÓ A DIRIGIR DESPUÉS DE SIETE AÑOS Y ASUMIÓ EN CORINTHIANS
+Filas: Noticias!3161:3166
+Última: ENZO RUIZ, EL EX BOCA QUE LLEVA UNA DÉCADA JUGANDO EN MALTA
