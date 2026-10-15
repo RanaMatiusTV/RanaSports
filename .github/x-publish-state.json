@@ -1,6 +1,14 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-pidio-que-cesen-los-mensajes-de-odio/": {
+      "account": "f1",
+      "title": "COLAPINTO PIDIÓ QUE CESEN LOS MENSAJES DE ODIO: “NO ME AYUDAN NI A MÍ NI A MI FUTURO”",
+      "dueAt": "2026-10-15T04:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad059c2e09e6bdb27e314b0",
+      "createdAt": "2026-10-15T04:42:42.992Z"
+    },
     "https://ranasports.com.ar/f1/bottas-revelo-que-tiene-un-williams-de-formula-1-en-el-living-de-su-casa/": {
       "account": "f1",
       "title": "BOTTAS REVELÓ QUE TIENE UN WILLIAMS DE FÓRMULA 1 EN EL LIVING DE SU CASA",
@@ -5362,13 +5370,6 @@
       "createdAt": "2026-09-25T01:44:33.261Z",
       "externalLink": "https://x.com/2095690134515572737/status/2103300961590497514",
       "sentAt": "2026-09-25T01:50:01.674Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyMjk5MDAwMDAsIkRFU1BFRElEQSBERSBNRVNTSTogTEFTIEVOVFJBREFTIFNBTEVOIEhPWSBBIExBUyAxOCBZIENVRVNUQU4gRU5UUkUgJDkwLjAwMCBZICQ0ODAuMDAwIl0": {
-      "account": "main",
-      "title": "DESPEDIDA DE MESSI: LAS ENTRADAS SALEN HOY A LAS 18 Y CUESTAN ENTRE $90.000 Y $480.000",
-      "dueAt": "2026-09-25T01:25:00.000Z",
-      "bufferPostId": "6ab5cc8ca14029bcc71e838c",
-      "createdAt": "2026-09-25T01:21:16.731Z"
     }
   },
   "nextAt": {
