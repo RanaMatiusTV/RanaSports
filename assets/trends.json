@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-15T11:26:28.827Z",
+  "updatedAt": "2026-10-15T15:43:54.359Z",
   "trends": [
     {
-      "query": "marco trungelliti",
-      "startedAt": "2026-10-15T11:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "norberto di próspero",
-      "startedAt": "2026-10-15T10:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "15 de octubre",
-      "startedAt": "2026-10-15T10:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "alexander zverev",
-      "startedAt": "2026-10-15T10:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "weather",
-      "startedAt": "2026-10-15T10:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "paul aron",
-      "startedAt": "2026-10-15T10:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "evento de el niño de 2026-2027",
-      "startedAt": "2026-10-15T10:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "hilary swank",
-      "startedAt": "2026-10-15T09:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "es mi sueño",
-      "startedAt": "2026-10-15T09:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "nicolás otamendi",
-      "startedAt": "2026-10-15T09:30:00.000Z",
+      "query": "kylian mbappé",
+      "startedAt": "2026-10-15T15:20:00.000Z",
       "volume": 2000
+    },
+    {
+      "query": "movistar",
+      "startedAt": "2026-10-15T15:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "crédito",
+      "startedAt": "2026-10-15T15:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "leonardo simons",
+      "startedAt": "2026-10-15T15:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "islas malvinas",
+      "startedAt": "2026-10-15T14:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "la voz",
+      "startedAt": "2026-10-15T14:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "lisandro martínez",
+      "startedAt": "2026-10-15T14:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "granizo",
+      "startedAt": "2026-10-15T14:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "allanamiento",
+      "startedAt": "2026-10-15T14:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "poder judicial de san juan",
+      "startedAt": "2026-10-15T14:20:00.000Z",
+      "volume": 500
     }
   ]
 }
