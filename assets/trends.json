@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-15T19:23:41.813Z",
+  "updatedAt": "2026-10-15T22:40:28.942Z",
   "trends": [
     {
-      "query": "juventus",
-      "startedAt": "2026-10-15T19:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "atalanta - pafos",
-      "startedAt": "2026-10-15T19:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lautaro martínez",
-      "startedAt": "2026-10-15T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "benfica",
-      "startedAt": "2026-10-15T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "celta de vigo",
-      "startedAt": "2026-10-15T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "brighton - kauno žalgiris",
-      "startedAt": "2026-10-15T18:10:00.000Z",
+      "query": "mercado cambiario",
+      "startedAt": "2026-10-15T22:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "reino unido",
-      "startedAt": "2026-10-15T18:10:00.000Z",
-      "volume": 500
+      "query": "juicio",
+      "startedAt": "2026-10-15T22:20:00.000Z",
+      "volume": 200
     },
     {
-      "query": "cronograma",
-      "startedAt": "2026-10-15T18:10:00.000Z",
+      "query": "huracán - gimnasia",
+      "startedAt": "2026-10-15T22:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "peaje",
+      "startedAt": "2026-10-15T22:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "covid-19",
+      "startedAt": "2026-10-15T22:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "epic games",
+      "startedAt": "2026-10-15T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "kristalina georgieva",
+      "startedAt": "2026-10-15T21:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "canal 13",
+      "startedAt": "2026-10-15T21:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jason statham",
+      "startedAt": "2026-10-15T21:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "az alkmaar",
-      "startedAt": "2026-10-15T18:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ajax",
-      "startedAt": "2026-10-15T17:50:00.000Z",
-      "volume": 500
+      "query": "emanuel ortega",
+      "startedAt": "2026-10-15T21:10:00.000Z",
+      "volume": 2000
     }
   ]
 }
