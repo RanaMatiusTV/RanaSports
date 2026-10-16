@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-16T09:47:12.258Z",
+  "updatedAt": "2026-10-16T14:50:27.344Z",
   "trends": [
     {
-      "query": "weather tomorrow",
-      "startedAt": "2026-10-16T07:50:00.000Z",
-      "volume": 100
+      "query": "marco trungelliti",
+      "startedAt": "2026-10-16T14:30:00.000Z",
+      "volume": 200
     },
     {
-      "query": "character ai",
-      "startedAt": "2026-10-16T06:00:00.000Z",
-      "volume": 100
+      "query": "isabel allende",
+      "startedAt": "2026-10-16T14:20:00.000Z",
+      "volume": 200
     },
     {
-      "query": "dodgers - brewers",
-      "startedAt": "2026-10-16T03:00:00.000Z",
-      "volume": 100
+      "query": "ezequiel pérez companc",
+      "startedAt": "2026-10-16T14:00:00.000Z",
+      "volume": 200
     },
     {
-      "query": "mlb",
-      "startedAt": "2026-10-16T02:50:00.000Z",
+      "query": "di prospero norberto",
+      "startedAt": "2026-10-16T13:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "la masacre de flores",
-      "startedAt": "2026-10-16T02:40:00.000Z",
-      "volume": 2000
+      "query": "dia del jefe",
+      "startedAt": "2026-10-16T13:00:00.000Z",
+      "volume": 500
     },
     {
-      "query": "contrabando",
-      "startedAt": "2026-10-16T02:30:00.000Z",
+      "query": "yate",
+      "startedAt": "2026-10-16T12:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "gaston gaudio",
-      "startedAt": "2026-10-16T02:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "freitas",
-      "startedAt": "2026-10-16T02:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tucu correa",
-      "startedAt": "2026-10-16T01:50:00.000Z",
+      "query": "santiago bausili",
+      "startedAt": "2026-10-16T12:00:00.000Z",
       "volume": 1000
     },
     {
-      "query": "juan sebastián verón",
-      "startedAt": "2026-10-16T01:30:00.000Z",
+      "query": "apagón eléctrico",
+      "startedAt": "2026-10-16T10:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "daniil medvédev",
+      "startedAt": "2026-10-16T10:40:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "islas malvinas (falkland islands)",
+      "startedAt": "2026-10-16T10:20:00.000Z",
+      "volume": 200
     }
   ]
 }
