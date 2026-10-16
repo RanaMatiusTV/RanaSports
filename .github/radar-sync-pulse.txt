@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-16 09:05
-Altas verificadas en Sheets: 6
-Filas: Noticias!3216:3221
-Última: EL ÚLTIMO CICLO DE RAMÓN DÍAZ EN RIVER: DOS TÍTULOS Y UNA RENUNCIA INESPERADA
+Fecha ARG: 2026-10-16 11:00
+Altas verificadas en Sheets: 7
+Filas: Noticias!3222:3228
+Última: BRIATORE RESPALDÓ EL PEDIDO DE COLAPINTO PARA FRENAR LOS ATAQUES EN REDES
