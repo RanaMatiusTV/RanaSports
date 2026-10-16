@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-16 00:25
+Fecha ARG: 2026-10-16 07:00
 Altas verificadas en Sheets: 6
-Filas: Noticias!3204:3209
-Última: ESTUDIANTES RECLAMÓ ROJA PARA PAQUETÁ POR UN CODAZO A PIOVI
+Filas: Noticias!3210:3215
+Última: BOCA RECIBE A TALLERES CON MAYORÍA DE TITULARES Y SIN PAREDES
