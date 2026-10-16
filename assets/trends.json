@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-15T22:40:28.942Z",
+  "updatedAt": "2026-10-16T00:45:50.988Z",
   "trends": [
     {
-      "query": "mercado cambiario",
-      "startedAt": "2026-10-15T22:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "juicio",
-      "startedAt": "2026-10-15T22:20:00.000Z",
+      "query": "ramiro funes mori",
+      "startedAt": "2026-10-16T00:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "huracán - gimnasia",
-      "startedAt": "2026-10-15T22:10:00.000Z",
+      "query": "edlp",
+      "startedAt": "2026-10-16T00:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "peaje",
-      "startedAt": "2026-10-15T22:10:00.000Z",
+      "query": "loteria nacional nocturna",
+      "startedAt": "2026-10-16T00:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "covid-19",
-      "startedAt": "2026-10-15T22:10:00.000Z",
-      "volume": 200
+      "query": "estudiantes - flamengo",
+      "startedAt": "2026-10-15T23:30:00.000Z",
+      "volume": 50000
     },
     {
-      "query": "epic games",
-      "startedAt": "2026-10-15T22:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "kristalina georgieva",
-      "startedAt": "2026-10-15T21:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "canal 13",
-      "startedAt": "2026-10-15T21:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "jason statham",
-      "startedAt": "2026-10-15T21:20:00.000Z",
+      "query": "pakistán",
+      "startedAt": "2026-10-15T23:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "emanuel ortega",
-      "startedAt": "2026-10-15T21:10:00.000Z",
+      "query": "matías rosso",
+      "startedAt": "2026-10-15T23:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "steven soderbergh",
+      "startedAt": "2026-10-15T23:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "tenis",
+      "startedAt": "2026-10-15T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "luck ra",
+      "startedAt": "2026-10-15T22:30:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "ramon diaz",
+      "startedAt": "2026-10-15T22:20:00.000Z",
       "volume": 2000
     }
   ]
