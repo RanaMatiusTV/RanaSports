@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-16 11:00
-Altas verificadas en Sheets: 7
-Filas: Noticias!3222:3228
-Última: BRIATORE RESPALDÓ EL PEDIDO DE COLAPINTO PARA FRENAR LOS ATAQUES EN REDES
+Fecha ARG: 2026-10-16 13:00
+Altas verificadas en Sheets: 6
+Filas: Noticias!3229:3234
+Última: ALL BOYS RECIBIÓ ONCE SANCIONES TRAS EL ESCÁNDALO ANTE GODOY CRUZ
