@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-16T14:50:27.344Z",
+  "updatedAt": "2026-10-16T18:48:13.529Z",
   "trends": [
     {
-      "query": "marco trungelliti",
-      "startedAt": "2026-10-16T14:30:00.000Z",
+      "query": "eliana guercio",
+      "startedAt": "2026-10-16T18:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "isabel allende",
-      "startedAt": "2026-10-16T14:20:00.000Z",
+      "query": "frosinone - sassuolo",
+      "startedAt": "2026-10-16T18:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "ezequiel pérez companc",
-      "startedAt": "2026-10-16T14:00:00.000Z",
+      "query": "deportivo - levante",
+      "startedAt": "2026-10-16T18:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "di prospero norberto",
-      "startedAt": "2026-10-16T13:40:00.000Z",
+      "query": "grand theft auto vi",
+      "startedAt": "2026-10-16T18:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jimena monteverde",
+      "startedAt": "2026-10-16T18:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "federico sturzenegger",
+      "startedAt": "2026-10-16T17:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jana maradona",
+      "startedAt": "2026-10-16T17:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "dia del jefe",
-      "startedAt": "2026-10-16T13:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "yate",
-      "startedAt": "2026-10-16T12:10:00.000Z",
+      "query": "dalila",
+      "startedAt": "2026-10-16T17:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "santiago bausili",
-      "startedAt": "2026-10-16T12:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "apagón eléctrico",
-      "startedAt": "2026-10-16T10:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "daniil medvédev",
-      "startedAt": "2026-10-16T10:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "islas malvinas (falkland islands)",
-      "startedAt": "2026-10-16T10:20:00.000Z",
+      "query": "nasa",
+      "startedAt": "2026-10-16T17:10:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "rodolfo sancho",
+      "startedAt": "2026-10-16T17:10:00.000Z",
+      "volume": 100
     }
   ]
 }
