@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-15 23:00
+Fecha ARG: 2026-10-16 00:25
 Altas verificadas en Sheets: 6
-Filas: Noticias!3198:3203
-Última: NOCIONI LLEVÓ TRANQUILIDAD TRAS UN ACCIDENTE DE LANCHAS EN EL PARANÁ
+Filas: Noticias!3204:3209
+Última: ESTUDIANTES RECLAMÓ ROJA PARA PAQUETÁ POR UN CODAZO A PIOVI
