@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-16 07:00
+Fecha ARG: 2026-10-16 09:05
 Altas verificadas en Sheets: 6
-Filas: Noticias!3210:3215
-Última: BOCA RECIBE A TALLERES CON MAYORÍA DE TITULARES Y SIN PAREDES
+Filas: Noticias!3216:3221
+Última: EL ÚLTIMO CICLO DE RAMÓN DÍAZ EN RIVER: DOS TÍTULOS Y UNA RENUNCIA INESPERADA
