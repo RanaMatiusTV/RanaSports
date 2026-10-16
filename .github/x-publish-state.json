@@ -1,6 +1,14 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/lando-norris-llamo-buen-amigo-a-colapinto-y-sello-la-reconciliacion/": {
+      "account": "f1",
+      "title": "LANDO NORRIS LLAMÓ «BUEN AMIGO» A COLAPINTO Y SELLÓ LA RECONCILIACIÓN",
+      "dueAt": "2026-10-16T07:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad1ce55ee2c696029c3de2f",
+      "createdAt": "2026-10-16T07:12:21.961Z"
+    },
     "https://ranasports.com.ar/f1/rafael-camara-reemplazara-a-ocon-en-haas-y-debutara-en-la-f1-en-2027/": {
       "account": "f1",
       "title": "RAFAEL CÂMARA REEMPLAZARÁ A OCON EN HAAS Y DEBUTARÁ EN LA F1 EN 2027",
@@ -5359,13 +5367,6 @@
       "dueAt": "2026-09-25T02:05:00.000Z",
       "bufferPostId": "6ab5d451607bee5b03231d09",
       "createdAt": "2026-09-25T01:54:25.416Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMjc2NDAwMDAwLCJHQVVESU8gTVVFVkUgRklDSEFTIEVOIElOREVQRU5ESUVOVEU6IFZJQUrDkyBBIE1JQU1JIFkgQlVTQ0EgQVJNQVIgU1UgQ0FORElEQVRVUkEiXQ": {
-      "account": "main",
-      "title": "GAUDIO MUEVE FICHAS EN INDEPENDIENTE: VIAJÓ A MIAMI Y BUSCA ARMAR SU CANDIDATURA",
-      "dueAt": "2026-09-25T02:00:00.000Z",
-      "bufferPostId": "6ab5d444607bee5b03231c4f",
-      "createdAt": "2026-09-25T01:54:12.930Z"
     }
   },
   "nextAt": {
