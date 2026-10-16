@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-16T18:48:13.529Z",
+  "updatedAt": "2026-10-16T22:04:59.555Z",
   "trends": [
     {
-      "query": "eliana guercio",
-      "startedAt": "2026-10-16T18:30:00.000Z",
+      "query": "superávit económico",
+      "startedAt": "2026-10-16T21:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "frosinone - sassuolo",
-      "startedAt": "2026-10-16T18:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "deportivo - levante",
-      "startedAt": "2026-10-16T18:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "grand theft auto vi",
-      "startedAt": "2026-10-16T18:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "jimena monteverde",
-      "startedAt": "2026-10-16T18:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "federico sturzenegger",
-      "startedAt": "2026-10-16T17:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "jana maradona",
-      "startedAt": "2026-10-16T17:40:00.000Z",
+      "query": "juan sebastián verón",
+      "startedAt": "2026-10-16T21:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "dalila",
-      "startedAt": "2026-10-16T17:20:00.000Z",
+      "query": "defensa y justicia - instituto",
+      "startedAt": "2026-10-16T21:10:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "club atlético all boys",
+      "startedAt": "2026-10-16T21:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "china suárez",
+      "startedAt": "2026-10-16T20:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "club atlético tucumán",
+      "startedAt": "2026-10-16T20:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "nasa",
-      "startedAt": "2026-10-16T17:10:00.000Z",
+      "query": "albania",
+      "startedAt": "2026-10-16T20:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "familia",
+      "startedAt": "2026-10-16T20:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "península de kamchatka",
+      "startedAt": "2026-10-16T20:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "rodolfo sancho",
-      "startedAt": "2026-10-16T17:10:00.000Z",
+      "query": "impuesto",
+      "startedAt": "2026-10-16T20:00:00.000Z",
       "volume": 100
     }
   ]
