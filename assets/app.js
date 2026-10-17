@@ -41,7 +41,9 @@ function layoutNews() {
  const editorialDay=new Intl.DateTimeFormat('en-US',{timeZone:'America/Argentina/Buenos_Aires',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date())==='10/14/2026';
  const rona=editorialDay?visible.find(card=>(card.querySelector('h3')?.textContent||'').includes('MURIÓ EL ROÑA CASTRO A LOS 59 AÑOS')):null;
  const replacement=rona?visible.find(card=>card!==rona&&card.dataset.featured==='1'&&publishedAt(card)>publishedAt(rona)):null;
- const lead=(replacement||rona||visible[0]);
+ // Priorizar noticias recientes marcadas editorialmente Destacada=SI, sin fijarlas permanentemente.
+ const recentFeatured=visible.find(card=>card.dataset.featured==='1' && publishedAt(card)>Date.now()-24*60*60*1000);
+ const lead=(recentFeatured||replacement||rona||visible[0]);
  const featured=active==='todas'&&!search?.value.trim()&&lead?[lead]:[];
  newsGrid.classList.toggle('no-featured',featured.length===0);newsGrid.classList.toggle('single-featured',featured.length===1);
  const selected=new Set(featured);const latest=visible.filter(card=>!selected.has(card));
