@@ -166,10 +166,12 @@
   const queue=[];
   const push=url=>{if(url&&!queue.includes(url))queue.push(url);};
   const originals=[primary,...(alternates||[])].filter(Boolean);
-  // Prefer the image proxy first: many sports-media CDNs reject browser hotlinking
-  // even when the same URL works server-side. Keep the original as a fallback.
-  for(const url of originals)push(proxiedImageURL(url));
-  for(const url of originals)push(url);
+
+   // Local editorial images load directly; external sports CDNs may need a proxy.
+   const local=url=>{try{return new URL(url,location.href).origin===location.origin;}catch{return false;}};
+   for(const url of originals)if(local(url))push(url);
+   for(const url of originals)if(!local(url))push(proxiedImageURL(url));
+   for(const url of originals)push(url);
   let index=0,busy=false,settled=false;
   const next=()=>{
    while(index<queue.length){
