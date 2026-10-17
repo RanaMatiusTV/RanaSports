@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-17T13:12:40.318Z",
+  "updatedAt": "2026-10-17T16:24:05.754Z",
   "trends": [
     {
-      "query": "economía",
-      "startedAt": "2026-10-17T12:50:00.000Z",
+      "query": "fenómeno",
+      "startedAt": "2026-10-17T16:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "psg vs",
+      "startedAt": "2026-10-17T16:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "venezia - napoli",
-      "startedAt": "2026-10-17T12:40:00.000Z",
+      "query": "aston villa",
+      "startedAt": "2026-10-17T16:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "gençlerbirliği - galatasaray",
-      "startedAt": "2026-10-17T12:40:00.000Z",
+      "query": "man city",
+      "startedAt": "2026-10-17T16:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "jodar",
-      "startedAt": "2026-10-17T12:30:00.000Z",
+      "query": "city",
+      "startedAt": "2026-10-17T16:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "leonardo ponzio",
+      "startedAt": "2026-10-17T16:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "ana del reino unido",
-      "startedAt": "2026-10-17T12:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "dia de la lealtad",
-      "startedAt": "2026-10-17T12:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "iga świątek",
-      "startedAt": "2026-10-17T12:00:00.000Z",
+      "query": "city vs",
+      "startedAt": "2026-10-17T15:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "puerto iguazú",
-      "startedAt": "2026-10-17T12:00:00.000Z",
-      "volume": 100
+      "query": "real betis - barcelona",
+      "startedAt": "2026-10-17T15:40:00.000Z",
+      "volume": 10000
     },
     {
-      "query": "chelsea vs",
-      "startedAt": "2026-10-17T11:50:00.000Z",
-      "volume": 200
+      "query": "bayern - rb leipzig",
+      "startedAt": "2026-10-17T15:40:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "darío barassi",
-      "startedAt": "2026-10-17T11:50:00.000Z",
-      "volume": 200
+      "query": "newcastle - aston villa",
+      "startedAt": "2026-10-17T15:40:00.000Z",
+      "volume": 500
     }
   ]
 }
