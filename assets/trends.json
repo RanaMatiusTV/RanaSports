@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-17T16:24:05.754Z",
+  "updatedAt": "2026-10-17T18:50:22.688Z",
   "trends": [
     {
-      "query": "fenómeno",
-      "startedAt": "2026-10-17T16:10:00.000Z",
+      "query": "macará - independiente del valle",
+      "startedAt": "2026-10-17T18:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "argentinos",
+      "startedAt": "2026-10-17T18:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "estrella verde",
+      "startedAt": "2026-10-17T18:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "acassuso - deportivo madryn",
+      "startedAt": "2026-10-17T18:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "psg vs",
-      "startedAt": "2026-10-17T16:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "aston villa",
-      "startedAt": "2026-10-17T16:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "man city",
-      "startedAt": "2026-10-17T16:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "city",
-      "startedAt": "2026-10-17T16:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "leonardo ponzio",
-      "startedAt": "2026-10-17T16:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "city vs",
-      "startedAt": "2026-10-17T15:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "real betis - barcelona",
-      "startedAt": "2026-10-17T15:40:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "bayern - rb leipzig",
-      "startedAt": "2026-10-17T15:40:00.000Z",
+      "query": "banfield",
+      "startedAt": "2026-10-17T18:20:00.000Z",
       "volume": 1000
     },
     {
-      "query": "newcastle - aston villa",
-      "startedAt": "2026-10-17T15:40:00.000Z",
+      "query": "valencia c. f. - athletic",
+      "startedAt": "2026-10-17T18:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "racing vs independiente",
+      "startedAt": "2026-10-17T18:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "agropecuario - colegiales",
+      "startedAt": "2026-10-17T18:00:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "berazategui vs lujan",
+      "startedAt": "2026-10-17T18:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "facundo bernal",
+      "startedAt": "2026-10-17T18:00:00.000Z",
+      "volume": 200
     }
   ]
 }
