@@ -19,7 +19,7 @@
  const searchInput=document.querySelector('#searchInput');
  let currentNews=[];
  let detailLookupSettled=!detail;
- const INITIAL_RENDER_LIMIT=36,RENDER_PAGE_SIZE=48;
+ const INITIAL_RENDER_LIMIT=30,RENDER_PAGE_SIZE=10;
  let renderLimit=INITIAL_RENDER_LIMIT,loadMoreObserver=null;
  const categories={independiente:'Independiente',futbol:'Fútbol',f1:'F1',seleccion:'Selección Argentina',agenda:'Agenda'};
  const normalize=v=>(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase();
@@ -410,7 +410,7 @@
   more.addEventListener('click',load);
   grid.insertAdjacentElement('afterend',more);
   if('IntersectionObserver' in window){
-   loadMoreObserver=new IntersectionObserver(entries=>{if(entries.some(entry=>entry.isIntersecting))load();},{rootMargin:'700px 0px'});
+   loadMoreObserver=new IntersectionObserver(entries=>{if(entries.some(entry=>entry.isIntersecting))load();},{rootMargin:'300px 0px'});
    loadMoreObserver.observe(more);
   }
  }
