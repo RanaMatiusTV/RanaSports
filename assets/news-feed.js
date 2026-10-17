@@ -565,5 +565,46 @@
  }
  searchInput?.addEventListener('input',()=>{renderLimit=INITIAL_RENDER_LIMIT;if(currentNews.length)render(currentNews);});
  window.addEventListener('hashchange',()=>{renderLimit=INITIAL_RENDER_LIMIT;if(currentNews.length)render(currentNews);});
- refresh();window.addEventListener('online',refresh);setInterval(()=>{if(document.visibilityState==='visible')refresh();},60*1000);
+ // Enlaces cortos: la nota está incluida en su HTML, sin descargar el feed completo.
+ // Enlaces antiguos: mostrar una copia local si existe y buscar solo las noticias del día.
+ function showFastArticle(csvText){
+  try{
+   const found=findRequested(readNews(csvText));
+   if(!found)return false;
+   if(!snapshot||!sameNewsFeed([found],lastGoodNews))render([found]);
+   lastGoodNews=[found];snapshot=true;detailLookupSettled=true;
+   return true;
+  }catch{return false;}
+ }
+ function requestedLocalDay(){
+  try{
+   const token=requestedArticleId();
+   const plain=atob(token.replace(/-/g,'+').replace(/_/g,'/')+'='.repeat((4-token.length%4)%4));
+   const bytes=Uint8Array.from(plain,c=>c.charCodeAt(0));
+   const identity=JSON.parse(new TextDecoder().decode(bytes));
+   const when=Number(identity?.[1]);
+   if(!Number.isFinite(when)||when<Date.UTC(2015,0,1))return '';
+   return new Date(when-3*60*60*1000).toISOString().slice(0,10);
+  }catch{return '';}
+ }
+ if(detail){
+  if(typeof window.RS_ARTICLE_CSV==='string'&&showFastArticle(window.RS_ARTICLE_CSV))return;
+  try{const prior=localStorage.getItem(CACHE_KEY);if(prior)showFastArticle(prior);}catch{}
+  (async()=>{
+   const day=requestedLocalDay();
+   if(day){
+    try{
+     const oneDay=new URL('assets/news-days/'+day+'.csv',siteBase);
+     const response=await fetch(oneDay.href,{cache:'no-store',credentials:'omit'});
+     if(response.ok&&showFastArticle(await response.text()))return;
+    }catch{}
+   }
+   // Respaldo para publicaciones anteriores a la creación de archivos diarios.
+   await refresh();
+  })();
+  window.addEventListener('online',()=>{if(!snapshot)refresh();});
+ }else{
+  refresh();window.addEventListener('online',refresh);
+  setInterval(()=>{if(document.visibilityState==='visible')refresh();},60*1000);
+ }
 })();
