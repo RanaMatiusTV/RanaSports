@@ -337,9 +337,9 @@
    const row=Object.fromEntries(keys.map((k,i)=>[k,(values[i]||'').trim()]));if(normalize(row.publicar)!=='si')return [];
    let category=normalize(row.categoria);category=({'otros deportes':'otros','formula 1':'f1','formula uno':'f1','futbol argentino':'futbol','seleccion argentina':'seleccion'})[category]||category;
    const date=timestamp(row.fecha,row.hora);if(!category||!row.titulo||!row.resumen||date===null)return [];
-   const video=imageDataURL(row['url video'])||safeURL(row['url video']);const hasYouTubeVideo=!!youtubeEmbedURL(video),hasFormula1Video=!!formula1EmbedURL(video),hasXPost=isXPost(video),hasVideo=!!video&&!hasXPost,hasEmbed=!!video;
+   const video=imageDataURL(row['url video'])||safeURL(row['url video']);const video2=imageDataURL(row['url video 2'])||safeURL(row['url video 2']);const hasYouTubeVideo=!!youtubeEmbedURL(video),hasFormula1Video=!!formula1EmbedURL(video),hasXPost=isXPost(video),hasVideo=!!video&&!hasXPost,hasEmbed=!!video;
    const eventText=normalize([row.categoria,row.titulo,row.resumen,row.fuente,row['url fuente']].filter(Boolean).join(' '));const isSuramericanos=/(juegos suramericanos|santa fe 2026|santafe2026)/.test(eventText);
-   return [{category,group:Object.hasOwn(categories,category)?category:'otros',sport:category==='seleccion'?'Selección Argentina':row.categoria,isSuramericanos,photoCredit:row['credito foto']||'',imageStatus:normalize(row['estado imagen']||''),date,title:row.titulo,summary:row.resumen,body:row.cuerpo||row.contenido||row['texto completo']||'',note:safeURL(row['url nota']),image:imageURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video,extraImage:imageDataURL(row['url imagen candidata']),featured:normalize(row.destacada)==='si',hasYouTubeVideo,hasFormula1Video,hasVideo,hasXPost,hasEmbed}];
+   return [{category,group:Object.hasOwn(categories,category)?category:'otros',sport:category==='seleccion'?'Selección Argentina':row.categoria,isSuramericanos,photoCredit:row['credito foto']||'',imageStatus:normalize(row['estado imagen']||''),date,title:row.titulo,summary:row.resumen,body:row.cuerpo||row.contenido||row['texto completo']||'',note:safeURL(row['url nota']),image:imageURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video,video2,extraImage:imageDataURL(row['url imagen candidata']),featured:normalize(row.destacada)==='si',hasYouTubeVideo,hasFormula1Video,hasVideo,hasXPost,hasEmbed}];
   }).sort((a,b)=>b.date-a.date);
  }
  function appendArticlePhoto(item){
@@ -386,7 +386,9 @@
   header.append(meta,heading,element('p','article-meta','Creado por @RanaMatiusTV · Medio asistido por IA'));detail.append(header);appendArticlePhoto(item);
   const paragraphs=editorialParagraphs(item),articleText=paragraphs.join('\n\n');
   const content=element('div','article-body');paragraphs.forEach((text,index)=>content.append(element('p',index===0?'article-summary':'article-paragraph',text)));
-  if(item.hasEmbed&&item.video!==item.image)renderEmbed(content,item.video);if(item.extraImage&&item.extraImage!==item.image&&item.extraImage!==item.video)renderSupplementalImage(content,item.extraImage);if(item.category==='f1'){const p=element('p');p.append(link('https://www.youtube.com/@RanaF1TV','🏎️ YouTube Rana F1','ghost-btn'));content.append(p);}detail.append(content);
+  const embedURLs=[item.video,item.video2].filter((url,i,all)=>url&&url!==item.image&&all.indexOf(url)===i);
+  for(const url of embedURLs){const embedHost=element('div','article-embed-entry');if(renderEmbed(embedHost,url))content.append(embedHost);}
+  if(item.extraImage&&item.extraImage!==item.image&&item.extraImage!==item.video)renderSupplementalImage(content,item.extraImage);if(item.category==='f1'){const p=element('p');p.append(link('https://www.youtube.com/@RanaF1TV','🏎️ YouTube Rana F1','ghost-btn'));content.append(p);}detail.append(content);
   const footer=element('footer','article-sources');
   if(item.source||item.sourceURL){const p=element('p','','Fuente: ');p.append(item.sourceURL?link(item.sourceURL,item.source||'Consultar fuente original'):document.createTextNode(item.source));footer.append(p);}
   if(item.note&&item.note!==articleURL(item)&&item.note!==item.sourceURL){const p=element('p');p.append(link(item.note,'Consultar la nota enlazada'));footer.append(p);}
@@ -429,7 +431,7 @@
  let snapshot=false,busy=false;
  let lastGoodNews=[];
  const newsIdentity=item=>item.category+'\n'+item.date+'\n'+item.title;
- const newsSignature=item=>[newsIdentity(item),item.summary,item.body,item.source,item.sourceURL,item.note,item.image,item.video,item.extraImage,item.featured?'1':'0',item.photoCredit,item.imageStatus].join('\n');
+ const newsSignature=item=>[newsIdentity(item),item.summary,item.body,item.source,item.sourceURL,item.note,item.image,item.video,item.video2,item.extraImage,item.featured?'1':'0',item.photoCredit,item.imageStatus].join('\n');
  const sameNewsFeed=(a,b)=>a.length===b.length&&a.every((item,index)=>newsSignature(item)===newsSignature(b[index]));
  function protectAgainstFeedRegression(fresh,previous){
   if(!previous.length)return {news:fresh,regressed:false};
