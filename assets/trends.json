@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-17T09:19:36.753Z",
+  "updatedAt": "2026-10-17T13:12:40.318Z",
   "trends": [
     {
-      "query": "australia - nueva zelanda",
-      "startedAt": "2026-10-17T04:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "nba",
-      "startedAt": "2026-10-17T04:50:00.000Z",
+      "query": "economía",
+      "startedAt": "2026-10-17T12:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "tamara paganini",
-      "startedAt": "2026-10-17T03:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "atlante - pumas",
-      "startedAt": "2026-10-17T03:40:00.000Z",
+      "query": "venezia - napoli",
+      "startedAt": "2026-10-17T12:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "tijuana - puebla",
-      "startedAt": "2026-10-17T03:40:00.000Z",
+      "query": "gençlerbirliği - galatasaray",
+      "startedAt": "2026-10-17T12:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jodar",
+      "startedAt": "2026-10-17T12:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "ana del reino unido",
+      "startedAt": "2026-10-17T12:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "17 de octubre dia de la lealtad",
-      "startedAt": "2026-10-17T03:40:00.000Z",
+      "query": "dia de la lealtad",
+      "startedAt": "2026-10-17T12:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "mujer",
-      "startedAt": "2026-10-17T03:30:00.000Z",
+      "query": "iga świątek",
+      "startedAt": "2026-10-17T12:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "posiciones de gimnasia y tiro de salta contra club atlético atlanta",
-      "startedAt": "2026-10-17T03:10:00.000Z",
-      "volume": 5000
+      "query": "puerto iguazú",
+      "startedAt": "2026-10-17T12:00:00.000Z",
+      "volume": 100
     },
     {
-      "query": "17 de octubre",
-      "startedAt": "2026-10-17T03:10:00.000Z",
-      "volume": 500
+      "query": "chelsea vs",
+      "startedAt": "2026-10-17T11:50:00.000Z",
+      "volume": 200
     },
     {
-      "query": "dia de la lealtad peronista",
-      "startedAt": "2026-10-17T03:10:00.000Z",
+      "query": "darío barassi",
+      "startedAt": "2026-10-17T11:50:00.000Z",
       "volume": 200
     }
   ]
