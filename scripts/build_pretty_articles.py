@@ -4,6 +4,7 @@ import base64
 import csv
 import datetime as dt
 import html
+import io
 import json
 from pathlib import Path
 import re
@@ -93,12 +94,19 @@ def page_markup(template, token, row, when, path):
     image_url = row.get("url imagen", "").strip()
     image_url = image_url if image_url.startswith(("https://", "http://")) else BASE + "/assets/icon-512.png"
     picture = html.escape(image_url, quote=True)
+    # Embed the exact editorial row: a detail page no longer needs to download 600 news rows.
+    inline_stream = io.StringIO()
+    inline_writer = csv.writer(inline_stream, lineterminator="\n")
+    inline_writer.writerow(list(row.keys()))
+    inline_writer.writerow(list(row.values()))
+    safe_article_csv = json.dumps(inline_stream.getvalue(), ensure_ascii=False).replace("<", "\\u003c")
     added = ('\n<base href="/">'
              '\n<meta name="robots" content="index,follow">'
              '\n<link rel="canonical" href="' + link + '">'
              '\n<meta property="article:published_time" content="' + when.isoformat() + '">'
              '\n<meta name="twitter:image" content="' + picture + '">'
-             '\n<script>window.RS_ARTICLE_ID=' + json.dumps(token) + ';</script>')
+             '\n<script>window.RS_ARTICLE_ID=' + json.dumps(token) +
+             ';window.RS_ARTICLE_CSV=' + safe_article_csv + ';</script>')
     content = template.replace("<head>", "<head>" + added, 1)
     content = content.replace("<title>Noticia | RanaSports</title>", "<title>" + title + "</title>", 1)
     content = content.replace('name="description" content="Noticias de RanaSports. Creado por @RanaMatiusTV."',
