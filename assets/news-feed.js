@@ -406,7 +406,7 @@
   document.querySelector('#newsLoadMore')?.remove();loadMoreObserver?.disconnect();loadMoreObserver=null;
   if(!grid||renderLimit>=total)return;
   const more=element('button','ghost-btn news-load-more','Cargar más noticias');more.id='newsLoadMore';more.type='button';
-  const load=()=>{renderLimit=Math.min(total,renderLimit+RENDER_PAGE_SIZE);render(currentNews);};
+  const load=()=>{renderLimit=Math.min(total,renderLimit+RENDER_PAGE_SIZE);render(currentNews,true);};
   more.addEventListener('click',load);
   grid.insertAdjacentElement('afterend',more);
   if('IntersectionObserver' in window){
@@ -414,7 +414,7 @@
    loadMoreObserver.observe(more);
   }
  }
- function render(news){
+ function render(news,appendPage=false){
   news=news.filter(item=>!REVOKED_ARTICLE_IDS.has(articleToken(item))).sort((a,b)=>b.date-a.date);
   currentNews=news;
   if(detail){renderDetail(news);document.dispatchEvent(new Event('ranasports:news-updated'));return;}if(!grid)return;const fragment=document.createDocumentFragment();
@@ -423,10 +423,14 @@
   let filtered=eventOnly?news.filter(item=>item.isSuramericanos):news;if(query)filtered=filtered.filter(item=>matchesSearch(item,query));
   // No adelantar destacadas antiguas: la portada se recorre solo por fecha y hora.
   const visibleNews=filtered.slice(0,renderLimit);
-  visibleNews.forEach((item,index)=>{const card=element('article','news-card');card.dataset.category=item.group;card.dataset.sport=item.category;card.dataset.suramericanos=item.isSuramericanos?'1':'0';card.dataset.featured=item.featured?'1':'0';const body=element('div','card-body');
+  // Al hacer scroll, conservar las tarjetas y sus imágenes ya renderizadas.
+  const alreadyLoaded=appendPage?grid.querySelectorAll('.news-card').length:0;
+  const canAppend=appendPage&&alreadyLoaded>0&&alreadyLoaded<visibleNews.length;
+  (canAppend?visibleNews.slice(alreadyLoaded):visibleNews).forEach((item,offset)=>{
+   const index=offset+(canAppend?alreadyLoaded:0);{const card=element('article','news-card');card.dataset.category=item.group;card.dataset.sport=item.category;card.dataset.suramericanos=item.isSuramericanos?'1':'0';card.dataset.featured=item.featured?'1':'0';const body=element('div','card-body');
    {const candidates=fallbackVisualCandidates(item),primary=candidates.shift()||'';if(primary){const visual=link(articleURL(item),'','card-visual news-image'),img=element('img');img.alt=item.title;img.width=800;img.height=450;img.loading=index<4?'eager':'lazy';if(index<2)img.fetchPriority='high';img.decoding='async';img.referrerPolicy='no-referrer';imageWithFallback(img,primary,candidates,()=>{visual.remove();queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));});visual.append(img);card.append(visual);}else{queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));}}
    const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':item.category==='agenda'?'badge-agenda':'badge-site'),item.sport));const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);body.append(meta);const heading=element('h3');heading.append(link(articleURL(item),item.title));body.append(heading,element('p','news-excerpt',item.summary));const actions=element('div','hero-actions');actions.append(link(articleURL(item),'Leer →','read-more'));body.append(actions);card.append(body);fragment.append(card);});
-  grid.replaceChildren(fragment);mountLoadMore(filtered.length);document.dispatchEvent(new Event('ranasports:news-updated'));
+  if(canAppend)grid.append(fragment);else grid.replaceChildren(fragment);mountLoadMore(filtered.length);document.dispatchEvent(new Event('ranasports:news-updated'));
  }
  let snapshot=false,busy=false;
  let lastGoodNews=[];
