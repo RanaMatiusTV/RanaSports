@@ -1,5 +1,5 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-16 23:00
+Fecha ARG: 2026-10-17 00:25
 Altas verificadas en Sheets: 6
-Filas: Noticias!3259:3264
-Última: FIFA SANCIONÓ A ESPAÑA POR CÁNTICOS ISLAMÓFOBOS
+Filas: Noticias!3265:3270
+Última: MARCELO DÍAZ RESPALDÓ AL PLANTEL DE RACING Y PROPUSO A NICOLÁS DIEZ COMO OPCIÓN
