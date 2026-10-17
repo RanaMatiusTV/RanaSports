@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-16T22:04:59.555Z",
+  "updatedAt": "2026-10-17T00:27:54.626Z",
   "trends": [
     {
-      "query": "superávit económico",
-      "startedAt": "2026-10-16T21:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "juan sebastián verón",
-      "startedAt": "2026-10-16T21:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "defensa y justicia - instituto",
-      "startedAt": "2026-10-16T21:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "club atlético all boys",
-      "startedAt": "2026-10-16T21:10:00.000Z",
+      "query": "internacional",
+      "startedAt": "2026-10-17T00:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "china suárez",
-      "startedAt": "2026-10-16T20:40:00.000Z",
-      "volume": 500
+      "query": "loteria nacional nocturna",
+      "startedAt": "2026-10-17T00:00:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "club atlético tucumán",
-      "startedAt": "2026-10-16T20:40:00.000Z",
+      "query": "loteria nacional nocturna de hoy",
+      "startedAt": "2026-10-17T00:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "albania",
-      "startedAt": "2026-10-16T20:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "familia",
-      "startedAt": "2026-10-16T20:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "península de kamchatka",
-      "startedAt": "2026-10-16T20:30:00.000Z",
+      "query": "tabla anual de la liga argentina",
+      "startedAt": "2026-10-17T00:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "impuesto",
-      "startedAt": "2026-10-16T20:00:00.000Z",
+      "query": "la cocina rebelde",
+      "startedAt": "2026-10-16T23:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "atlético rafaela - quilmes",
+      "startedAt": "2026-10-16T23:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "boca juniors - talleres",
+      "startedAt": "2026-10-16T23:30:00.000Z",
+      "volume": 50000
+    },
+    {
+      "query": "eugenia quevedo dr. psiquiatra - la pollera amarilla (en vivo)",
+      "startedAt": "2026-10-16T23:30:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "quiniela de tucumán",
+      "startedAt": "2026-10-16T23:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "lo dejamos aca",
+      "startedAt": "2026-10-16T23:00:00.000Z",
+      "volume": 500
     }
   ]
 }
