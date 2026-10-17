@@ -12,6 +12,8 @@ on:
     paths:
       - '.github/workflows/sync-news-live.yml'
       - '.github/radar-sync-pulse.txt'
+      - 'scripts/build_pretty_articles.py'
+      - 'scripts/build_news_days.py'
 
 permissions:
   contents: write
@@ -182,6 +184,12 @@ jobs:
           # SEO is best-effort: a sitemap error must NEVER prevent news sync.
           stage_changes() {
             git add assets/news-live.csv assets/news-archive.csv
+            # Legacy links need only the date's lightweight feed, not 600+ articles.
+            if python3 scripts/build_news_days.py; then
+              git add -A -- assets/news-days
+            else
+              echo "::warning::Daily article feeds skipped; existing links use legacy fallback."
+            fi
             # Static sport/title pages and URL map are best-effort: never block the feed.
             if python3 scripts/build_pretty_articles.py; then
               git add -- assets/article-routes.js
