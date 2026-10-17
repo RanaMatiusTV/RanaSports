@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-17T21:26:55.975Z",
+  "updatedAt": "2026-10-17T23:25:45.171Z",
   "trends": [
     {
-      "query": "river vs belgrano",
-      "startedAt": "2026-10-17T21:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "santi castro",
-      "startedAt": "2026-10-17T21:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "luciana salazar",
-      "startedAt": "2026-10-17T20:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "atlético mineiro - coritiba",
-      "startedAt": "2026-10-17T20:50:00.000Z",
+      "query": "nelson piquet",
+      "startedAt": "2026-10-17T23:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "jack doohan",
-      "startedAt": "2026-10-17T20:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "juan carlos diez",
-      "startedAt": "2026-10-17T20:40:00.000Z",
+      "query": "nyc fc - lafc",
+      "startedAt": "2026-10-17T23:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "boyacá chicó - atlético nacional",
-      "startedAt": "2026-10-17T20:40:00.000Z",
+      "query": "culturismo",
+      "startedAt": "2026-10-17T23:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "valencia cf",
-      "startedAt": "2026-10-17T20:40:00.000Z",
+      "query": "eminem",
+      "startedAt": "2026-10-17T23:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "agostina páez",
-      "startedAt": "2026-10-17T20:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "orsai",
-      "startedAt": "2026-10-17T20:30:00.000Z",
+      "query": "portillo",
+      "startedAt": "2026-10-17T22:50:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "puente",
+      "startedAt": "2026-10-17T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "posiciones de independiente rivadavia contra club atlético tigre",
+      "startedAt": "2026-10-17T22:40:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "atlanta united - inter miami",
+      "startedAt": "2026-10-17T22:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "accidente",
+      "startedAt": "2026-10-17T22:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "bitcoin",
+      "startedAt": "2026-10-17T22:40:00.000Z",
+      "volume": 200
     }
   ]
 }
