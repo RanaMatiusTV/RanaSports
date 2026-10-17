@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-17T18:50:22.688Z",
+  "updatedAt": "2026-10-17T21:26:55.975Z",
   "trends": [
     {
-      "query": "macará - independiente del valle",
-      "startedAt": "2026-10-17T18:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "argentinos",
-      "startedAt": "2026-10-17T18:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "estrella verde",
-      "startedAt": "2026-10-17T18:30:00.000Z",
+      "query": "river vs belgrano",
+      "startedAt": "2026-10-17T21:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "acassuso - deportivo madryn",
-      "startedAt": "2026-10-17T18:20:00.000Z",
+      "query": "santi castro",
+      "startedAt": "2026-10-17T21:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "luciana salazar",
+      "startedAt": "2026-10-17T20:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "banfield",
-      "startedAt": "2026-10-17T18:20:00.000Z",
+      "query": "atlético mineiro - coritiba",
+      "startedAt": "2026-10-17T20:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jack doohan",
+      "startedAt": "2026-10-17T20:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "juan carlos diez",
+      "startedAt": "2026-10-17T20:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "boyacá chicó - atlético nacional",
+      "startedAt": "2026-10-17T20:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "valencia cf",
+      "startedAt": "2026-10-17T20:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "agostina páez",
+      "startedAt": "2026-10-17T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "orsai",
+      "startedAt": "2026-10-17T20:30:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "valencia c. f. - athletic",
-      "startedAt": "2026-10-17T18:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "racing vs independiente",
-      "startedAt": "2026-10-17T18:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "agropecuario - colegiales",
-      "startedAt": "2026-10-17T18:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "berazategui vs lujan",
-      "startedAt": "2026-10-17T18:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "facundo bernal",
-      "startedAt": "2026-10-17T18:00:00.000Z",
-      "volume": 200
     }
   ]
 }
