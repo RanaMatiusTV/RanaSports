@@ -1,6 +1,6 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-18 11:11
-Radar: RADAR 1 RanaSports Noticias
-Altas verificadas en Sheets en esta corrida: 6
-Filas: Noticias!3350:3355
-Última: INDEPENDIENTE LLEGA AL CLÁSICO CON 19 TRIUNFOS DE VENTAJA SOBRE RACING EN EL HISTORIAL
+Fecha ARG: 2026-10-18 11:27
+Radar: RADAR 5 Actualidad Inmediata — prueba extraordinaria
+Altas verificadas en Sheets en esta corrida: 1
+Filas: Noticias!3356:3356
+Última: GABRIEL CALDERÓN ELOGIÓ A SCALONI: “ES BILARDO Y MENOTTI JUNTOS”
