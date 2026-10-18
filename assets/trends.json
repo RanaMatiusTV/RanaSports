@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-18T11:43:10.901Z",
+  "updatedAt": "2026-10-18T14:50:20.485Z",
   "trends": [
     {
-      "query": "santiago bausili",
-      "startedAt": "2026-10-18T11:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "dia de la madre 2026",
-      "startedAt": "2026-10-18T11:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "real sociedad - barcelona",
-      "startedAt": "2026-10-18T10:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "atp shanghai",
-      "startedAt": "2026-10-18T10:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "la nación",
-      "startedAt": "2026-10-18T10:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "maxi lópez",
-      "startedAt": "2026-10-18T10:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "periodista",
-      "startedAt": "2026-10-18T09:30:00.000Z",
+      "query": "gran premio de los estados unidos",
+      "startedAt": "2026-10-18T14:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "allanamiento",
-      "startedAt": "2026-10-18T09:00:00.000Z",
-      "volume": 1000
+      "query": "serie a",
+      "startedAt": "2026-10-18T14:10:00.000Z",
+      "volume": 500
     },
     {
-      "query": "camionero",
-      "startedAt": "2026-10-18T09:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "caiman",
-      "startedAt": "2026-10-18T09:00:00.000Z",
+      "query": "bayer leverkusen",
+      "startedAt": "2026-10-18T14:10:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "peaje",
+      "startedAt": "2026-10-18T14:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "fiorentina vs",
+      "startedAt": "2026-10-18T14:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "celta de vigo - alavés",
+      "startedAt": "2026-10-18T14:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "horóscopo",
+      "startedAt": "2026-10-18T14:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "liga italiana",
+      "startedAt": "2026-10-18T14:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "epicentro",
+      "startedAt": "2026-10-18T13:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "osasuna",
+      "startedAt": "2026-10-18T13:50:00.000Z",
+      "volume": 100
     }
   ]
 }
