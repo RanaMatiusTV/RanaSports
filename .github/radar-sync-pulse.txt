@@ -1,6 +1,6 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-18 13:06
+Fecha ARG: 2026-10-18 15:07
 Radar: RADAR 1 RanaSports Noticias
 Altas verificadas en Sheets en esta corrida: 6
-Filas: Noticias!3357:3362
-Última: CARLOS TATAY VOLVIÓ A COMPETIR EN KARTING Y SUEÑA CON CORRER EL DAKAR
+Filas: Noticias!3363:3368
+Última: BEARMAN APARECIÓ CON UNA FERRARI DE 1.050 CABALLOS EN MÓNACO
