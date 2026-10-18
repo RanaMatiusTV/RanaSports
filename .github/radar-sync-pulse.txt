@@ -1,6 +1,6 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-18 17:00
+Fecha ARG: 2026-10-18 19:07
 Radar: RADAR 1 RanaSports Noticias
-Altas verificadas en Sheets en esta corrida: 6
-Filas: Noticias!3369:3374
-Última: ROBARON OBJETOS DE MESSI DE UN MUSEO DURANTE DISTURBIOS EN PARÍS
+Altas verificadas en Sheets en esta corrida: 8
+Filas: Noticias!3375:3382
+Última: MARCOS ROJO VOLVIÓ A ESTUDIANTES ENTRE SILBIDOS Y APLAUSOS
