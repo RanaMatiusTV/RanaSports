@@ -1,7 +1,6 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-18 07:09
-Radar: RADAR 5 Actualidad Inmediata
-Altas verificadas en Sheets en esta corrida: 2
-Filas: Noticias!3335:3336
-Última: LA BARRA DE RACING TIENE UN NUEVO REFERENTE EN LA PREVIA DEL CLÁSICO
-Sincronizar además pendientes desde el pulso anterior, incluida Noticias!3334.
+Fecha ARG: 2026-10-18 07:12
+Radar: RADAR 1 RanaSports Noticias
+Altas verificadas en Sheets en esta corrida: 6
+Filas: Noticias!3337:3342
+Última: RIVER VISITA A BELGRANO CON LA OBLIGACIÓN DE VOLVER A LA ZONA DE PLAYOFFS
