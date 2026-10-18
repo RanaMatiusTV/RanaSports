@@ -1,5 +1,6 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-18 00:25
-Altas verificadas en Sheets: 6
-Filas: Noticias!3327:3332
-Última: BOCA JUGARÁ CON SU TERCERA CAMISETA ANTE VASCO EN EL MARACANÁ
+Fecha ARG: 2026-10-18 04:04
+Modo: PRUEBA EXTRAORDINARIA, sin cambios de programación de RADAR 1
+Altas verificadas en Sheets: 1
+Filas: Noticias!3333
+Última: LOS HINCHAS DE INDEPENDIENTE HICIERON UN BANDERAZO EN EL HOTEL Y LOS JUGADORES SALIERON A SALUDAR
