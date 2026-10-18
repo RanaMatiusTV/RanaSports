@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-18T20:40:38.247Z",
+  "updatedAt": "2026-10-18T22:36:39.204Z",
   "trends": [
     {
-      "query": "subasta",
-      "startedAt": "2026-10-18T20:20:00.000Z",
+      "query": "belgrano - river plate",
+      "startedAt": "2026-10-18T22:20:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "llaneros - santa fe",
+      "startedAt": "2026-10-18T22:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "estudiantes - san lorenzo",
-      "startedAt": "2026-10-18T20:10:00.000Z",
+      "query": "reino unido",
+      "startedAt": "2026-10-18T22:10:00.000Z",
       "volume": 1000
     },
     {
-      "query": "partidos de hoy",
-      "startedAt": "2026-10-18T20:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "federico sturzenegger",
-      "startedAt": "2026-10-18T20:00:00.000Z",
+      "query": "remo - bragantino",
+      "startedAt": "2026-10-18T22:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "los andes vs",
-      "startedAt": "2026-10-18T20:00:00.000Z",
-      "volume": 100
+      "query": "telekino 2450",
+      "startedAt": "2026-10-18T22:10:00.000Z",
+      "volume": 200
     },
     {
-      "query": "justin bieber",
-      "startedAt": "2026-10-18T20:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "cai",
-      "startedAt": "2026-10-18T20:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "atlético güemes - almagro",
-      "startedAt": "2026-10-18T19:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "mariano werner",
-      "startedAt": "2026-10-18T19:50:00.000Z",
+      "query": "sportivo luqueño - sportivo san lorenzo",
+      "startedAt": "2026-10-18T22:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "yate",
-      "startedAt": "2026-10-18T19:50:00.000Z",
+      "query": "valentina barbier",
+      "startedAt": "2026-10-18T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "cincinnati - columbus crew",
+      "startedAt": "2026-10-18T21:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "juana viale",
+      "startedAt": "2026-10-18T21:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "q' lokura",
+      "startedAt": "2026-10-18T21:40:00.000Z",
       "volume": 200
     }
   ]
