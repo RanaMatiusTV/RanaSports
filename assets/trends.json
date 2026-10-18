@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-17T23:25:45.171Z",
+  "updatedAt": "2026-10-18T01:32:21.494Z",
   "trends": [
     {
-      "query": "nelson piquet",
-      "startedAt": "2026-10-17T23:10:00.000Z",
+      "query": "inter miami cf",
+      "startedAt": "2026-10-18T01:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "nyc fc - lafc",
-      "startedAt": "2026-10-17T23:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "culturismo",
-      "startedAt": "2026-10-17T23:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "eminem",
-      "startedAt": "2026-10-17T23:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "portillo",
-      "startedAt": "2026-10-17T22:50:00.000Z",
+      "query": "club atlético river plate",
+      "startedAt": "2026-10-18T00:50:00.000Z",
       "volume": 1000
     },
     {
-      "query": "puente",
-      "startedAt": "2026-10-17T22:50:00.000Z",
+      "query": "puente dorrego",
+      "startedAt": "2026-10-18T00:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "posiciones de independiente rivadavia contra club atlético tigre",
-      "startedAt": "2026-10-17T22:40:00.000Z",
-      "volume": 10000
+      "query": "vehículo",
+      "startedAt": "2026-10-18T00:30:00.000Z",
+      "volume": 500
     },
     {
-      "query": "atlanta united - inter miami",
-      "startedAt": "2026-10-17T22:40:00.000Z",
-      "volume": 5000
+      "query": "lo dejamos aca pelicula",
+      "startedAt": "2026-10-18T00:30:00.000Z",
+      "volume": 500
     },
     {
-      "query": "accidente",
-      "startedAt": "2026-10-17T22:40:00.000Z",
+      "query": "camioneta",
+      "startedAt": "2026-10-18T00:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "resultado de la quiniela nacional y provincia nocturna de hoy",
+      "startedAt": "2026-10-18T00:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "posiciones de aucas contra liga de quito",
+      "startedAt": "2026-10-18T00:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "bitcoin",
-      "startedAt": "2026-10-17T22:40:00.000Z",
-      "volume": 200
+      "query": "primera división de paraguay",
+      "startedAt": "2026-10-18T00:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "quiniela nocturna de mendoza",
+      "startedAt": "2026-10-18T00:10:00.000Z",
+      "volume": 500
     }
   ]
 }
