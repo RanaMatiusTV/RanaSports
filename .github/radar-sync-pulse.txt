@@ -1,6 +1,7 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-18 04:04
-Modo: PRUEBA EXTRAORDINARIA, sin cambios de programación de RADAR 1
-Altas verificadas en Sheets: 1
-Filas: Noticias!3333
-Última: LOS HINCHAS DE INDEPENDIENTE HICIERON UN BANDERAZO EN EL HOTEL Y LOS JUGADORES SALIERON A SALUDAR
+Fecha ARG: 2026-10-18 07:09
+Radar: RADAR 5 Actualidad Inmediata
+Altas verificadas en Sheets en esta corrida: 2
+Filas: Noticias!3335:3336
+Última: LA BARRA DE RACING TIENE UN NUEVO REFERENTE EN LA PREVIA DEL CLÁSICO
+Sincronizar además pendientes desde el pulso anterior, incluida Noticias!3334.
