@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-18T14:50:20.485Z",
+  "updatedAt": "2026-10-18T18:04:41.366Z",
   "trends": [
     {
-      "query": "gran premio de los estados unidos",
-      "startedAt": "2026-10-18T14:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "serie a",
-      "startedAt": "2026-10-18T14:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "bayer leverkusen",
-      "startedAt": "2026-10-18T14:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "peaje",
-      "startedAt": "2026-10-18T14:10:00.000Z",
+      "query": "boca vs river",
+      "startedAt": "2026-10-18T17:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "fiorentina vs",
-      "startedAt": "2026-10-18T14:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "celta de vigo - alavés",
-      "startedAt": "2026-10-18T14:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "horóscopo",
-      "startedAt": "2026-10-18T14:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "liga italiana",
-      "startedAt": "2026-10-18T14:00:00.000Z",
+      "query": "sebastian fundora",
+      "startedAt": "2026-10-18T17:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "epicentro",
-      "startedAt": "2026-10-18T13:50:00.000Z",
-      "volume": 500
+      "query": "lua blanco",
+      "startedAt": "2026-10-18T17:40:00.000Z",
+      "volume": 100
     },
     {
-      "query": "osasuna",
-      "startedAt": "2026-10-18T13:50:00.000Z",
-      "volume": 100
+      "query": "berisso",
+      "startedAt": "2026-10-18T17:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "racing - independiente",
+      "startedAt": "2026-10-18T16:50:00.000Z",
+      "volume": 100000
+    },
+    {
+      "query": "sacerdote",
+      "startedAt": "2026-10-18T16:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "boca river",
+      "startedAt": "2026-10-18T16:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "monaco vs",
+      "startedAt": "2026-10-18T16:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "posiciones de celta de vigo contra alavés",
+      "startedAt": "2026-10-18T16:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "partidos hoy",
+      "startedAt": "2026-10-18T16:40:00.000Z",
+      "volume": 200
     }
   ]
 }
