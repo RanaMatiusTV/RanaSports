@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-18T01:32:21.494Z",
+  "updatedAt": "2026-10-18T06:35:58.898Z",
   "trends": [
     {
-      "query": "inter miami cf",
-      "startedAt": "2026-10-18T01:00:00.000Z",
+      "query": "twitch",
+      "startedAt": "2026-10-18T06:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "club atlético river plate",
-      "startedAt": "2026-10-18T00:50:00.000Z",
+      "query": "avalancha chile",
+      "startedAt": "2026-10-18T05:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "posiciones de club león contra club américa",
+      "startedAt": "2026-10-18T03:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "casa rosada",
+      "startedAt": "2026-10-18T03:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "día de la madre argentina",
+      "startedAt": "2026-10-18T03:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "suspenso psicológico",
+      "startedAt": "2026-10-18T03:20:00.000Z",
       "volume": 1000
     },
     {
-      "query": "puente dorrego",
-      "startedAt": "2026-10-18T00:40:00.000Z",
+      "query": "cruz azul - juárez",
+      "startedAt": "2026-10-18T03:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "vehículo",
-      "startedAt": "2026-10-18T00:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "lo dejamos aca pelicula",
-      "startedAt": "2026-10-18T00:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "camioneta",
-      "startedAt": "2026-10-18T00:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "resultado de la quiniela nacional y provincia nocturna de hoy",
-      "startedAt": "2026-10-18T00:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "posiciones de aucas contra liga de quito",
-      "startedAt": "2026-10-18T00:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "primera división de paraguay",
-      "startedAt": "2026-10-18T00:20:00.000Z",
+      "query": "cuando es el día de la madre",
+      "startedAt": "2026-10-18T03:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "quiniela nocturna de mendoza",
-      "startedAt": "2026-10-18T00:10:00.000Z",
-      "volume": 500
+      "query": "día de la madre",
+      "startedAt": "2026-10-18T02:50:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "hora",
+      "startedAt": "2026-10-18T02:50:00.000Z",
+      "volume": 200
     }
   ]
 }
