@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-18T18:04:41.366Z",
+  "updatedAt": "2026-10-18T20:40:38.247Z",
   "trends": [
     {
-      "query": "boca vs river",
-      "startedAt": "2026-10-18T17:50:00.000Z",
+      "query": "subasta",
+      "startedAt": "2026-10-18T20:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "estudiantes - san lorenzo",
+      "startedAt": "2026-10-18T20:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "partidos de hoy",
+      "startedAt": "2026-10-18T20:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "federico sturzenegger",
+      "startedAt": "2026-10-18T20:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "los andes vs",
+      "startedAt": "2026-10-18T20:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "sebastian fundora",
-      "startedAt": "2026-10-18T17:50:00.000Z",
+      "query": "justin bieber",
+      "startedAt": "2026-10-18T20:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "lua blanco",
-      "startedAt": "2026-10-18T17:40:00.000Z",
+      "query": "cai",
+      "startedAt": "2026-10-18T20:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "berisso",
-      "startedAt": "2026-10-18T17:30:00.000Z",
-      "volume": 200
+      "query": "atlético güemes - almagro",
+      "startedAt": "2026-10-18T19:50:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "racing - independiente",
-      "startedAt": "2026-10-18T16:50:00.000Z",
-      "volume": 100000
+      "query": "mariano werner",
+      "startedAt": "2026-10-18T19:50:00.000Z",
+      "volume": 500
     },
     {
-      "query": "sacerdote",
-      "startedAt": "2026-10-18T16:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "boca river",
-      "startedAt": "2026-10-18T16:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "monaco vs",
-      "startedAt": "2026-10-18T16:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "posiciones de celta de vigo contra alavés",
-      "startedAt": "2026-10-18T16:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "partidos hoy",
-      "startedAt": "2026-10-18T16:40:00.000Z",
+      "query": "yate",
+      "startedAt": "2026-10-18T19:50:00.000Z",
       "volume": 200
     }
   ]
