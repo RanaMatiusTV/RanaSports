@@ -1,6 +1,6 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-18 07:12
+Fecha ARG: 2026-10-18 09:09
 Radar: RADAR 1 RanaSports Noticias
-Altas verificadas en Sheets en esta corrida: 6
-Filas: Noticias!3337:3342
-Última: RIVER VISITA A BELGRANO CON LA OBLIGACIÓN DE VOLVER A LA ZONA DE PLAYOFFS
+Altas verificadas en Sheets en esta corrida: 7
+Filas: Noticias!3343:3349
+Última: MESSI Y PAULO DÍAZ INTERCAMBIARON CAMISETAS TRAS EL TRIUNFO DE INTER MIAMI
