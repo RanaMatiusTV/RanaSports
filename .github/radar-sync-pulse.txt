@@ -1,6 +1,5 @@
-RanaSports sync pulse
-Fecha ARG: 2026-10-19 09:09
-Radar: RADAR 1 RanaSports Noticias
-Altas verificadas en Sheets en esta corrida: 6
-Filas: Noticias!3408:3413
-Última: EL MAJESTUOSO CATAMARÁN QUE MESSI SUMÓ A SU FLOTA
+RADAR 5 — Actualidad Inmediata
+Fecha/hora ARG: 19/10/26, 9:26:37 a. m.
+Altas verificadas: 3
+Filas: 3414-3416
+Última noticia: EL BLOOPER DE CHICCO QUE LE COSTÓ A ALDOSIVI UNA DERROTA AGÓNICA EN RÍO CUARTO
