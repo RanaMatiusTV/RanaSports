@@ -1,6 +1,6 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-19 07:05
+Fecha ARG: 2026-10-19 09:09
 Radar: RADAR 1 RanaSports Noticias
 Altas verificadas en Sheets en esta corrida: 6
-Filas: Noticias!3402:3407
-Última: BELGRANO CAYÓ ANTE PALMEIRAS Y DEFINIRÁ SU PASE A CUARTOS DE LA LIBERTADORES FEMENINA
+Filas: Noticias!3408:3413
+Última: EL MAJESTUOSO CATAMARÁN QUE MESSI SUMÓ A SU FLOTA
