@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/formula-3/mattia-colnaghi-pasara-a-campos-racing-en-2027-con-el-respaldo-de-red-bull/": {
+      "account": "f1",
+      "title": "MATTIA COLNAGHI PASARÁ A CAMPOS RACING EN 2027 CON EL RESPALDO DE RED BULL",
+      "dueAt": "2026-10-19T16:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad63973052a3a25666a9e47",
+      "createdAt": "2026-10-19T15:38:27.895Z"
+    },
+    "https://ranasports.com.ar/futbol/un-exarbitro-respaldo-el-penal-a-independiente-en-el-clasico-ante-racing/": {
+      "account": "main",
+      "title": "UN EXÁRBITRO RESPALDÓ EL PENAL A INDEPENDIENTE EN EL CLÁSICO ANTE RACING",
+      "dueAt": "2026-10-19T15:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad6397203fb0cde45f76037",
+      "createdAt": "2026-10-19T15:38:26.976Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-renovo-el-contrato-de-milton-delgado-hasta-diciembre-de-2030/": {
+      "account": "sports",
+      "title": "BOCA RENOVÓ EL CONTRATO DE MILTON DELGADO HASTA DICIEMBRE DE 2030",
+      "dueAt": "2026-10-19T16:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad6397203fb0cde45f7600e",
+      "createdAt": "2026-10-19T15:38:26.578Z"
+    },
+    "https://ranasports.com.ar/futbol/racing-cerro-2026-sin-ganar-ninguno-de-sus-seis-clasicos/": {
+      "account": "sports",
+      "title": "RACING CERRÓ 2026 SIN GANAR NINGUNO DE SUS SEIS CLÁSICOS",
+      "dueAt": "2026-10-19T16:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad6397203fb0cde45f75fe5",
+      "createdAt": "2026-10-19T15:38:26.121Z"
+    },
+    "https://ranasports.com.ar/futbol/ladstatter-tuvo-una-dedicatoria-insultante-a-los-hinchas-de-estudiantes-tras-el-gol-agonico/": {
+      "account": "sports",
+      "title": "LADSTATTER TUVO UNA DEDICATORIA INSULTANTE A LOS HINCHAS DE ESTUDIANTES TRAS EL GOL AGÓNICO",
+      "dueAt": "2026-10-19T15:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad639719d422c1d321ec11b",
+      "createdAt": "2026-10-19T15:38:25.619Z"
+    },
+    "https://ranasports.com.ar/f1/honda-admitio-que-perdio-casi-dos-anos-de-desarrollo-y-complico-a-aston-martin/": {
+      "account": "f1",
+      "title": "HONDA ADMITIÓ QUE PERDIÓ CASI DOS AÑOS DE DESARROLLO Y COMPLICÓ A ASTON MARTIN",
+      "dueAt": "2026-10-19T15:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad639707f0d26254b219bc7",
+      "createdAt": "2026-10-19T15:38:25.085Z"
+    },
     "https://ranasports.com.ar/f1/rafael-camara-correra-en-formula-1-con-lentes-de-contacto/": {
       "account": "f1",
       "title": "RAFAEL CÂMARA CORRERÁ EN FÓRMULA 1 CON LENTES DE CONTACTO",
@@ -5319,50 +5367,6 @@
       "dueAt": "2026-09-25T03:00:00.000Z",
       "bufferPostId": "6ab5de10cbe818dd4ff5fd4a",
       "createdAt": "2026-09-25T02:36:01.000Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJ0YWVrd29uZG8iLDE3OTAyOTA4MDAwMDAsIkpPU8OJIExVSVMgQUNVw5FBIENPUlTDkyBVTkEgRVNQRVJBIERFIDEyIEHDkU9TOiBPUk8gQVJHRU5USU5PIEVOIFRBRUtXT05ETyJd": {
-      "account": "main",
-      "title": "JOSÉ LUIS ACUÑA CORTÓ UNA ESPERA DE 12 AÑOS: ORO ARGENTINO EN TAEKWONDO",
-      "dueAt": "2026-09-25T02:55:00.000Z",
-      "bufferPostId": "6ab5de10607bee5b03240430",
-      "createdAt": "2026-09-25T02:36:00.153Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjYW5vdGFqZSIsMTc5MDI4OTA2MDAwMCwiU8OBTkNIRVogWSBQSUVEUkFTIEdBTkFST04gRUwgQzIgNTAwIFBPUiBDSU5DTyBDRU5Uw4lTSU1BUyBZIFNPTiBERSBPUk8iXQ": {
-      "account": "main",
-      "title": "SÁNCHEZ Y PIEDRAS GANARON EL C2 500 POR CINCO CENTÉSIMAS Y SON DE ORO",
-      "dueAt": "2026-09-25T02:50:00.000Z",
-      "bufferPostId": "6ab5de0fcbe818dd4ff5fd17",
-      "createdAt": "2026-09-25T02:35:59.278Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJjYW5vdGFqZSIsMTc5MDI4OTA2MDAwMCwiT1JPIFBBUkEgRUwgSzQgTUFTQ1VMSU5POiBWRVJOSUNFLCBSw4laT0xBLCBWRVJHQVVWRU4gWSBDQVJSRVJBUyBDQU1QRU9ORVMiXQ": {
-      "account": "main",
-      "title": "ORO PARA EL K4 MASCULINO: VERNICE, RÉZOLA, VERGAUVEN Y CARRERAS CAMPEONES",
-      "dueAt": "2026-09-25T02:45:00.000Z",
-      "bufferPostId": "6ab5de0edb73444101dd5a47",
-      "createdAt": "2026-09-25T02:35:58.900Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTAyNzg1MDAwMDAsIkNVVEkgUk9NRVJPIFNFUsOBIENBUElUw4FOIERFIEFSR0VOVElOQSBFTiBMT1MgRE9TIFBSSU1FUk9TIEFNSVNUT1NPUyBTSU4gTUVTU0kiXQ": {
-      "account": "main",
-      "title": "CUTI ROMERO SERÁ CAPITÁN DE ARGENTINA EN LOS DOS PRIMEROS AMISTOSOS SIN MESSI",
-      "dueAt": "2026-09-25T02:40:00.000Z",
-      "bufferPostId": "6ab5de028c95968bb02902ff",
-      "createdAt": "2026-09-25T02:35:46.138Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMjgxNjIwMDAwLCJET1MgSlVWRU5JTEVTIERFIElOREVQRU5ESUVOVEUsIENJVEFET1MgQSBMQSBTVUIgMTcgUEFSQSBESVNQVVRBUiBMQSBWRVJURVggQ1VQIEVOIExPTkRSRVMiXQ": {
-      "account": "main",
-      "title": "DOS JUVENILES DE INDEPENDIENTE, CITADOS A LA SUB 17 PARA DISPUTAR LA VERTEX CUP EN LONDRES",
-      "dueAt": "2026-09-25T02:10:00.000Z",
-      "bufferPostId": "6ab5d74fcbe818dd4ff566bb",
-      "createdAt": "2026-09-25T02:07:12.186Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDI3NDMwMDAwMCwiU0FJTlogU1VGUknDkyBVTiBJTkNFTkRJTyBFTiBMT1MgRlJFTk9TIFkgV0lMTElBTVMgVFVWTyBVTiBKVUVWRVMgRU5UUkVDT1JUQURPIEVOIEJBS8OaIl0": {
-      "account": "f1",
-      "title": "SAINZ SUFRIÓ UN INCENDIO EN LOS FRENOS Y WILLIAMS TUVO UN JUEVES ENTRECORTADO EN BAKÚ",
-      "dueAt": "2026-09-25T02:35:00.000Z",
-      "bufferPostId": "6ab5d4544be5473030a0ea41",
-      "createdAt": "2026-09-25T01:54:28.960Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103312289310847258",
-      "sentAt": "2026-09-25T02:35:02.433Z"
     }
   },
   "nextAt": {
