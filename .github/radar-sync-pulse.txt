@@ -1,6 +1,6 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-18 19:07
+Fecha ARG: 2026-10-18 21:09
 Radar: RADAR 1 RanaSports Noticias
-Altas verificadas en Sheets en esta corrida: 8
-Filas: Noticias!3375:3382
-Última: MARCOS ROJO VOLVIÓ A ESTUDIANTES ENTRE SILBIDOS Y APLAUSOS
+Altas verificadas en Sheets en esta corrida: 7
+Filas: Noticias!3383:3389
+Última: FEDERICO FERNÁNDEZ VISITÓ AL DIBU MARTÍNEZ DESPUÉS DE SU OPERACIÓN
