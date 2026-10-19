@@ -1,6 +1,6 @@
 RanaSports sync pulse
-Fecha ARG: 2026-10-19 00:31
+Fecha ARG: 2026-10-19 07:05
 Radar: RADAR 1 RanaSports Noticias
 Altas verificadas en Sheets en esta corrida: 6
-Filas: Noticias!3396:3401
-Última: CRISTIANO SUPERA A MESSI EN UNA VOTACIÓN PAGA DEL BALÓN DE ORO
+Filas: Noticias!3402:3407
+Última: BELGRANO CAYÓ ANTE PALMEIRAS Y DEFINIRÁ SU PASE A CUARTOS DE LA LIBERTADORES FEMENINA
