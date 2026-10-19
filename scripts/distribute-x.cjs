@@ -559,12 +559,23 @@ function sameDayPublishedCount(state,account,day) {
 async function recentBufferErrors(apiKey,state,activation){
  const org=state.buffer.organizationId;
  const result=new Set();
+ // A failed Buffer post must never permanently disable X distribution.
+ // Honor recent posting failures for six hours, then automatically retry once.
+ const now=Date.now();
+ const since=Math.max(activation,now-6*3600000);
  for(const [account,field] of [['main','mainChannelId'],['f1','f1ChannelId'],['sports','sportsChannelId']]){
   const ch=state.buffer[field];if(!ch)continue;
   try {
    const query='query ErrorCheck {posts(first:100,input:{organizationId:'+gqlString(org)+',filter:{status:[error],channelIds:['+gqlString(ch)+']},sort:[{field:dueAt,direction:desc}]}){edges{node{id status dueAt}}}}';
    const x=await bufferRequest(apiKey,query);
-   if((x?.posts?.edges||[]).some(e=>Date.parse(e?.node?.dueAt||0)>=activation))result.add(account);
+   const recent=(x?.posts?.edges||[]).filter(e=>{
+     const due=Date.parse(e?.node?.dueAt||0);
+     return Number.isFinite(due) && due>=since && due<=now+3600000;
+   });
+   if(recent.length){
+     result.add(account);
+     console.warn('BUFFER_RECENT_ERROR_COOLDOWN '+account+' count='+recent.length+' until='+new Date(since+12*3600000).toISOString());
+   }
   }catch(e){throw Error('No pude comprobar errores de Buffer para '+account+': '+e.message);}
  }
  return result;
