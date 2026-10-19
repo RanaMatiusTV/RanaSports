@@ -127,6 +127,53 @@ jobs:
               return datetime.datetime.min
 
           data.sort(key=stamp, reverse=True)
+          # Editorial safety net: hide highly confident reprints of the SAME
+          # incident, even if different media supplied different source URLs.
+          # This is display/export-only: no radar, Sheet row or schedule changes.
+          # Require the same individual video AND >=6 significant shared title
+          # words within 36 hours. Distinct developments remain separate.
+          import re, unicodedata
+          skip_words = {'ante','como','con','del','desde','despues','entre',
+                        'esta','este','fue','hace','hasta','las','los','para',
+                        'pero','por','que','sin','sobre','sus','tras','una',
+                        'uno','al','de','el','en','la','un','y'}
+          def title_words(title):
+              plain = unicodedata.normalize('NFKD', title.casefold())
+              plain = ''.join(c for c in plain if not unicodedata.combining(c))
+              return {w for w in re.findall(r'[a-z0-9]+', plain)
+                      if len(w) >= 3 and w not in skip_words}
+          def individual_video(value):
+              return bool(re.search(
+                  r'(?:x\.com|twitter\.com)/[^/]+/status/[0-9]+|'
+                  r'(?:youtube\.com/watch\?v=|youtu\.be/)[\w-]{8,}',
+                  value, re.I))
+          seen_by_video = {}
+          kept_ascending = []
+          omitted_reprints = 0
+          for candidate in reversed(data):
+              video = candidate[10].strip() if len(candidate) > 10 else ''
+              words = title_words(candidate[4])
+              when = stamp(candidate)
+              repeated = False
+              if video and individual_video(video) and when != datetime.datetime.min:
+                  for earlier in seen_by_video.get(video, []):
+                      previous_words, previous_time = earlier
+                      if abs((when - previous_time).total_seconds()) > 36 * 3600:
+                          continue
+                      common = len(words & previous_words)
+                      if (common >= 6 and
+                          common / max(1, min(len(words), len(previous_words))) >= 0.70):
+                          repeated = True
+                          break
+              if repeated:
+                  omitted_reprints += 1
+                  continue
+              kept_ascending.append(candidate)
+              if video and individual_video(video) and when != datetime.datetime.min:
+                  seen_by_video.setdefault(video, []).append((words, when))
+          data = list(reversed(kept_ascending))
+          if omitted_reprints:
+              print(f'Suppressed {omitted_reprints} confirmed same-video/title reprints in feed')
           # Emergency repair: replace the broken March match image in this one story.
           # The photo is of the actual goalscorer (archive portrait), not a false match shot.
           target_title = "GIMNASIA DE MENDOZA VOLVIÓ AL TRIUNFO CON UN GOLAZO DE MÓDICA ANTE NEWELL'S"
