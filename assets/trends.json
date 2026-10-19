@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-19T11:16:17.255Z",
+  "updatedAt": "2026-10-19T17:30:36.421Z",
   "trends": [
     {
-      "query": "ambito financiero",
-      "startedAt": "2026-10-19T10:50:00.000Z",
+      "query": "dolly parton",
+      "startedAt": "2026-10-19T17:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "psg vs barcelona",
+      "startedAt": "2026-10-19T17:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "ernestina pais",
+      "startedAt": "2026-10-19T17:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "mdz",
-      "startedAt": "2026-10-19T10:40:00.000Z",
+      "query": "agustín ladstatter",
+      "startedAt": "2026-10-19T16:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "lomas de zamora",
+      "startedAt": "2026-10-19T16:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "río paraná",
+      "startedAt": "2026-10-19T16:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "la gaceta",
-      "startedAt": "2026-10-19T10:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tiempo de san juan",
-      "startedAt": "2026-10-19T10:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "19 de octubre que se celebra",
-      "startedAt": "2026-10-19T10:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "que pasa salta",
-      "startedAt": "2026-10-19T10:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "datachaco",
-      "startedAt": "2026-10-19T10:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "el litoral",
-      "startedAt": "2026-10-19T10:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "lmneuquen",
-      "startedAt": "2026-10-19T10:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "gobierno",
-      "startedAt": "2026-10-19T10:10:00.000Z",
+      "query": "ruta nacional 40",
+      "startedAt": "2026-10-19T16:20:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "festividad",
+      "startedAt": "2026-10-19T16:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "nicolás vázquez",
+      "startedAt": "2026-10-19T16:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "bono",
+      "startedAt": "2026-10-19T16:00:00.000Z",
+      "volume": 1000
     }
   ]
 }
