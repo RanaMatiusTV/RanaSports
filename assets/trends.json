@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-19T17:30:36.421Z",
+  "updatedAt": "2026-10-19T21:44:36.891Z",
   "trends": [
     {
-      "query": "dolly parton",
-      "startedAt": "2026-10-19T17:10:00.000Z",
+      "query": "sarmiento - barracas central",
+      "startedAt": "2026-10-19T21:30:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "horacio rodríguez larreta",
+      "startedAt": "2026-10-19T21:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "psg vs barcelona",
-      "startedAt": "2026-10-19T17:10:00.000Z",
+      "query": "luis brandoni",
+      "startedAt": "2026-10-19T21:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "posiciones de getafe cf contra rayo vallecano",
+      "startedAt": "2026-10-19T21:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "braga - gil vicente",
+      "startedAt": "2026-10-19T21:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "ernestina pais",
-      "startedAt": "2026-10-19T17:00:00.000Z",
+      "query": "newell's - central córdoba",
+      "startedAt": "2026-10-19T21:10:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "infocielo",
+      "startedAt": "2026-10-19T21:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "pedri",
+      "startedAt": "2026-10-19T21:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "braga vs",
+      "startedAt": "2026-10-19T21:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "el polaco",
+      "startedAt": "2026-10-19T21:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "agustín ladstatter",
-      "startedAt": "2026-10-19T16:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "lomas de zamora",
-      "startedAt": "2026-10-19T16:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "río paraná",
-      "startedAt": "2026-10-19T16:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "ruta nacional 40",
-      "startedAt": "2026-10-19T16:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "festividad",
-      "startedAt": "2026-10-19T16:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "nicolás vázquez",
-      "startedAt": "2026-10-19T16:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "bono",
-      "startedAt": "2026-10-19T16:00:00.000Z",
-      "volume": 1000
     }
   ]
 }
