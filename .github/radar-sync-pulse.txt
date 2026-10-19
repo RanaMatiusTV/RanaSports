@@ -1,5 +1,5 @@
-RADAR 1 — RanaSports Noticias
-Fecha/hora ARG: 19/10/2026 11:27
-Altas verificadas: 6
-Filas: 3423-3428
-Última noticia: BOCA RENOVÓ EL CONTRATO DE MILTON DELGADO HASTA DICIEMBRE DE 2030
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha/hora ARG: 19/10/2026 13:07
+Altas verificadas en Sheets: 2
+Filas: 3430-3431
+Última noticia: MANCHESTER CITY PODRÍA SUFRIR UNA QUITA DE PUNTOS QUE LO MANDE AL DESCENSO
