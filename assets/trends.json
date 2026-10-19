@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-19T05:20:11.214Z",
+  "updatedAt": "2026-10-19T11:16:17.255Z",
   "trends": [
     {
-      "query": "pacha espino",
-      "startedAt": "2026-10-19T03:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "tini stoessel",
-      "startedAt": "2026-10-19T02:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "marta fort",
-      "startedAt": "2026-10-19T02:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "edith hermida",
-      "startedAt": "2026-10-19T02:20:00.000Z",
+      "query": "ambito financiero",
+      "startedAt": "2026-10-19T10:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "diego peretti",
-      "startedAt": "2026-10-19T01:50:00.000Z",
+      "query": "mdz",
+      "startedAt": "2026-10-19T10:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "julieta nair calvo",
-      "startedAt": "2026-10-19T01:50:00.000Z",
+      "query": "la gaceta",
+      "startedAt": "2026-10-19T10:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "river vs racing",
-      "startedAt": "2026-10-19T01:40:00.000Z",
+      "query": "tiempo de san juan",
+      "startedAt": "2026-10-19T10:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "sorteo quini 6",
-      "startedAt": "2026-10-19T01:30:00.000Z",
-      "volume": 2000
+      "query": "19 de octubre que se celebra",
+      "startedAt": "2026-10-19T10:30:00.000Z",
+      "volume": 100
     },
     {
-      "query": "maru botana",
-      "startedAt": "2026-10-19T01:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "fausto vera",
-      "startedAt": "2026-10-19T01:30:00.000Z",
+      "query": "que pasa salta",
+      "startedAt": "2026-10-19T10:30:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "datachaco",
+      "startedAt": "2026-10-19T10:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "el litoral",
+      "startedAt": "2026-10-19T10:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "lmneuquen",
+      "startedAt": "2026-10-19T10:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "gobierno",
+      "startedAt": "2026-10-19T10:10:00.000Z",
+      "volume": 500
     }
   ]
 }
