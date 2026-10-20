@@ -1,5 +1,5 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Fecha/hora ARG: 20/10/2026 10:41
+RADAR 1 — RanaSports Noticias
+Fecha/hora ARG: 20/10/2026 11:05
 Altas verificadas en Sheets: 6
-Filas: 3489-3494
-Última noticia: DANI ALVES CRITICÓ EL TRATO QUE RECIBIÓ MESSI EN ARGENTINA ANTES DE SUS TÍTULOS
+Filas: 3495-3500
+Última noticia: CARDONA LE CEDIÓ LA CINTA A ARMANI TRAS SU CUMPLEAÑOS NÚMERO 40
