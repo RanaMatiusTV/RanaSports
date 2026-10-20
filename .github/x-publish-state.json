@@ -1,6 +1,30 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/boca-necesita-ganar-por-dos-goles-para-pasar-directo-a-la-final-de-la-sudamericana/": {
+      "account": "sports",
+      "title": "BOCA NECESITA GANAR POR DOS GOLES PARA PASAR DIRECTO A LA FINAL DE LA SUDAMERICANA",
+      "dueAt": "2026-10-20T21:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad7d10ea2af9351fbbedb6e",
+      "createdAt": "2026-10-20T20:37:34.915Z"
+    },
+    "https://ranasports.com.ar/futbol/miljevic-sigue-en-duda-para-volver-a-la-lista-de-racing-ante-river/": {
+      "account": "sports",
+      "title": "MILJEVIC SIGUE EN DUDA PARA VOLVER A LA LISTA DE RACING ANTE RIVER",
+      "dueAt": "2026-10-20T21:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad7d10e3a9ca84966b48ea0",
+      "createdAt": "2026-10-20T20:37:34.364Z"
+    },
+    "https://ranasports.com.ar/futbol/river-fue-el-equipo-que-mas-puntos-sumo-desde-que-completo-sus-refuerzos/": {
+      "account": "sports",
+      "title": "RIVER FUE EL EQUIPO QUE MÁS PUNTOS SUMÓ DESDE QUE COMPLETÓ SUS REFUERZOS",
+      "dueAt": "2026-10-20T20:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad7d10d3a9ca84966b48e77",
+      "createdAt": "2026-10-20T20:37:33.933Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-se-prepara-para-austin/": {
       "account": "f1",
       "title": "COLAPINTO SE PREPARA PARA AUSTIN: DÍAS Y HORARIOS DEL GRAN PREMIO DE ESTADOS UNIDOS",
@@ -5338,33 +5362,6 @@
       "createdAt": "2026-09-26T14:55:11.935Z",
       "externalLink": "https://x.com/2095690134515572737/status/2103862172040167649",
       "sentAt": "2026-09-26T15:00:04.599Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDQyNjU4MDAwMCwiQ09MQVBJTlRPIENIT0PDkyBBIEdBU0xZIFkgQUJBTkRPTsOTIEVOIEJBS8OaOiBET0JMRSBHT0xQRSBQQVJBIEFMUElORSJd": {
-      "account": "f1",
-      "title": "COLAPINTO CHOCÓ A GASLY Y ABANDONÓ EN BAKÚ: DOBLE GOLPE PARA ALPINE",
-      "dueAt": "2026-09-26T13:20:00.000Z",
-      "bufferPostId": "6ab7c57e05811e57372c8c67",
-      "createdAt": "2026-09-26T13:15:43.071Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103837001350853044",
-      "sentAt": "2026-09-26T13:20:03.408Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDM5NzU0MDAwMCwiQ09MQVBJTlRPIExBUkdBIE5PVkVOTyBFTiBCQUvDmjogSE9SQVJJTyBZIETDk05ERSBWRVIgTEEgQ0FSUkVSQSBERSBGMSJd": {
-      "account": "f1",
-      "title": "COLAPINTO LARGA NOVENO EN BAKÚ: HORARIO Y DÓNDE VER LA CARRERA DE F1",
-      "dueAt": "2026-09-26T10:10:00.000Z",
-      "bufferPostId": "6ab799843afb9171a82d5f1b",
-      "createdAt": "2026-09-26T10:08:04.820Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103789183869260234",
-      "sentAt": "2026-09-26T10:10:02.827Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDM4OTgwMDAwMCwiQ09MQVBJTlRPIExBUkdBUsOBIE5PVkVOTyBFTiBCQUvDmiBZIENSRUNFIExBIFRFTlNJw5NOIElOVEVSTkEgQ09OIEdBU0xZIl0": {
-      "account": "f1",
-      "title": "COLAPINTO LARGARÁ NOVENO EN BAKÚ Y CRECE LA TENSIÓN INTERNA CON GASLY",
-      "dueAt": "2026-09-26T03:15:00.000Z",
-      "bufferPostId": "6ab7380ef59168c975336dfc",
-      "createdAt": "2026-09-26T03:12:14.754Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103684742700831032",
-      "sentAt": "2026-09-26T03:15:02.130Z"
     }
   },
   "nextAt": {
