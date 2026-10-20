@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-20T15:22:11.997Z",
+  "updatedAt": "2026-10-20T19:35:03.390Z",
   "trends": [
     {
-      "query": "boy olmi",
-      "startedAt": "2026-10-20T15:00:00.000Z",
-      "volume": 200
+      "query": "disney",
+      "startedAt": "2026-10-20T19:20:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "lucas blondel",
-      "startedAt": "2026-10-20T14:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "barca vs psg",
-      "startedAt": "2026-10-20T14:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "boat",
-      "startedAt": "2026-10-20T14:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "balon de oro",
-      "startedAt": "2026-10-20T14:10:00.000Z",
+      "query": "nba",
+      "startedAt": "2026-10-20T19:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "ballon d'or",
-      "startedAt": "2026-10-20T14:10:00.000Z",
+      "query": "rodri",
+      "startedAt": "2026-10-20T19:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "noemi bocchi",
-      "startedAt": "2026-10-20T14:10:00.000Z",
+      "query": "ferran torres",
+      "startedAt": "2026-10-20T19:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "al nassr",
+      "startedAt": "2026-10-20T19:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "liverpool vs villarreal",
+      "startedAt": "2026-10-20T19:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "surf",
+      "startedAt": "2026-10-20T19:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "corrientes",
-      "startedAt": "2026-10-20T13:40:00.000Z",
+      "query": "psg vs",
+      "startedAt": "2026-10-20T19:00:00.000Z",
       "volume": 1000
     },
     {
-      "query": "india",
-      "startedAt": "2026-10-20T13:30:00.000Z",
+      "query": "espn",
+      "startedAt": "2026-10-20T19:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "subte",
-      "startedAt": "2026-10-20T13:00:00.000Z",
-      "volume": 20000
+      "query": "porto - psv",
+      "startedAt": "2026-10-20T19:00:00.000Z",
+      "volume": 200
     }
   ]
 }
