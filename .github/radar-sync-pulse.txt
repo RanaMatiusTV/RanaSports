@@ -1,5 +1,5 @@
-RADAR 1 — RanaSports Noticias
-Fecha/hora ARG: 20/10/2026 09:05
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha/hora ARG: 20/10/2026 10:41
 Altas verificadas en Sheets: 6
-Filas: 3483-3488
-Última noticia: PSG-BARCELONA ENCABEZA UNA JORNADA DE CHAMPIONS CON PRESENCIA ARGENTINA
+Filas: 3489-3494
+Última noticia: DANI ALVES CRITICÓ EL TRATO QUE RECIBIÓ MESSI EN ARGENTINA ANTES DE SUS TÍTULOS
