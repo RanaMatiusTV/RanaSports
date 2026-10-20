@@ -1,5 +1,5 @@
 RADAR 1 — RanaSports Noticias
-Fecha/hora ARG: 20/10/2026 14:59
+Fecha/hora ARG: 20/10/2026 17:10
 Altas verificadas en Sheets: 6
-Filas: 3510-3515
-Última noticia: PAREDES SE RECUPERÓ EN TIEMPO RÉCORD Y ESTARÁ EN EL BANCO ANTE VASCO
+Filas: 3517-3522
+Última noticia: SARMIENTO DENUNCIÓ UN GOL MAL ANULADO ANTE BARRACAS Y APUNTÓ CONTRA EL VAR
