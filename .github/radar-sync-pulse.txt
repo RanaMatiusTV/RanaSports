@@ -1,5 +1,5 @@
 RADAR 1 — RanaSports Noticias
-Fecha/hora ARG: 20/10/2026 11:05
+Fecha/hora ARG: 20/10/2026 13:01
 Altas verificadas en Sheets: 6
-Filas: 3495-3500
-Última noticia: CARDONA LE CEDIÓ LA CINTA A ARMANI TRAS SU CUMPLEAÑOS NÚMERO 40
+Filas: 3501-3506
+Última noticia: A 100 AÑOS DEL 8-0 DE ARGENTINA A PARAGUAY EN LA COPA AMÉRICA
