@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-revelo-que-trabajo-en-enstone-para-revertir-los-problemas-de-alpine/": {
+      "account": "f1",
+      "title": "COLAPINTO REVELÓ QUE TRABAJÓ EN ENSTONE PARA REVERTIR LOS PROBLEMAS DE ALPINE",
+      "dueAt": "2026-10-21T00:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad7ff3bc11f7f6be272819b",
+      "createdAt": "2026-10-20T23:54:36.064Z"
+    },
+    "https://ranasports.com.ar/futbol/fifa-sanciono-al-dt-de-egipto-y-a-un-jugador-por-el-partido-ante-argentina/": {
+      "account": "sports",
+      "title": "FIFA SANCIONÓ AL DT DE EGIPTO Y A UN JUGADOR POR EL PARTIDO ANTE ARGENTINA",
+      "dueAt": "2026-10-21T01:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad7ff3bc8c16a2bbdb70988",
+      "createdAt": "2026-10-20T23:54:35.394Z"
+    },
+    "https://ranasports.com.ar/futbol/sarmiento-denuncio-un-gol-mal-anulado-ante-barracas-y-apunto-contra-el-var/": {
+      "account": "sports",
+      "title": "SARMIENTO DENUNCIÓ UN GOL MAL ANULADO ANTE BARRACAS Y APUNTÓ CONTRA EL VAR",
+      "dueAt": "2026-10-21T00:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad7ff395a0b7fe6fa7d2990",
+      "createdAt": "2026-10-20T23:54:34.122Z"
+    },
+    "https://ranasports.com.ar/futbol/la-cocinera-de-la-seleccion-revelo-los-platos-favoritos-del-plantel/": {
+      "account": "sports",
+      "title": "LA COCINERA DE LA SELECCIÓN REVELÓ LOS PLATOS FAVORITOS DEL PLANTEL",
+      "dueAt": "2026-10-21T00:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad7ff3979ac5466f5c876f3",
+      "createdAt": "2026-10-20T23:54:33.241Z"
+    },
+    "https://ranasports.com.ar/futbol/maxi-meza-recupero-protagonismo-en-independiente/": {
+      "account": "main",
+      "title": "MAXI MEZA RECUPERÓ PROTAGONISMO EN INDEPENDIENTE: TRES GOLES EN SEIS TITULARIDADES",
+      "dueAt": "2026-10-21T00:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad7ff3879ac5466f5c876ab",
+      "createdAt": "2026-10-20T23:54:32.829Z"
+    },
     "https://ranasports.com.ar/futbol/boca-necesita-ganar-por-dos-goles-para-pasar-directo-a-la-final-de-la-sudamericana/": {
       "account": "sports",
       "title": "BOCA NECESITA GANAR POR DOS GOLES PARA PASAR DIRECTO A LA FINAL DE LA SUDAMERICANA",
@@ -5317,51 +5357,6 @@
       "createdAt": "2026-09-26T15:58:59.204Z",
       "externalLink": "https://x.com/2095690134515572737/status/2103877298030076344",
       "sentAt": "2026-09-26T16:00:11.208Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDQzMzkwMDAwMCwiTk9SUklTIFBJREnDkyBVTkEgU1VTUEVOU0nDk04gUEFSQSBDT0xBUElOVE8gVFJBUyBFTCBDSE9RVUUgREUgQkFLw5oiXQ": {
-      "account": "f1",
-      "title": "NORRIS PIDIÓ UNA SUSPENSIÓN PARA COLAPINTO TRAS EL CHOQUE DE BAKÚ",
-      "dueAt": "2026-09-26T15:40:00.000Z",
-      "bufferPostId": "6ab7e3540f79a37c5d32879a",
-      "createdAt": "2026-09-26T15:23:00.944Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103872226265031029",
-      "sentAt": "2026-09-26T15:40:01.729Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDQzMzMwMDAwMCwiR0FTTFksIEhFTEFETyBUUkFTIEVMIENIT1FVRSBDT04gQ09MQVBJTlRPOiDigJxOTyBURU5HTyBQQUxBQlJBU-KAnSJd": {
-      "account": "f1",
-      "title": "GASLY, HELADO TRAS EL CHOQUE CON COLAPINTO: “NO TENGO PALABRAS”",
-      "dueAt": "2026-09-26T15:35:00.000Z",
-      "bufferPostId": "6ab7e35405811e57372fff52",
-      "createdAt": "2026-09-26T15:23:00.547Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103870978791022858",
-      "sentAt": "2026-09-26T15:35:04.466Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDQzMzAwMDAwMCwiQ09MQVBJTlRPIFlBIE1JUkEgQSBNQUxBU0lBOiBDVcOBTkRPIFZVRUxWRSBBIENPUlJFUiBUUkFTIEVMIEdPTFBFIERFIEJBS8OaIl0": {
-      "account": "f1",
-      "title": "COLAPINTO YA MIRA A MALASIA: CUÁNDO VUELVE A CORRER TRAS EL GOLPE DE BAKÚ",
-      "dueAt": "2026-09-26T15:30:00.000Z",
-      "bufferPostId": "6ab7e352ccccb9429c316592",
-      "createdAt": "2026-09-26T15:22:58.401Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103869725025480974",
-      "sentAt": "2026-09-26T15:30:05.359Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDQyOTQwMDAwMCwiU0FJTlogVk9MVknDkyBBIExPUyBQVU5UT1MgWSBBTE9OU08gQUJBTkRPTsOTIEVOIFVOIEJBS8OaIENBw5NUSUNPIl0": {
-      "account": "f1",
-      "title": "SAINZ VOLVIÓ A LOS PUNTOS Y ALONSO ABANDONÓ EN UN BAKÚ CAÓTICO",
-      "dueAt": "2026-09-26T15:25:00.000Z",
-      "bufferPostId": "6ab7e35105811e57372fff1a",
-      "createdAt": "2026-09-26T15:22:57.711Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103868459348119779",
-      "sentAt": "2026-09-26T15:25:03.603Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDQyNjQ2MDAwMCwiQ09MQVBJTlRPIFBJREnDkyBQRVJEw5NOIFRSQVMgQ0hPQ0FSIEEgR0FTTFk6IOKAnEZVRSBVTiBFUlJPUiBHUkFWReKAnSJd": {
-      "account": "f1",
-      "title": "COLAPINTO PIDIÓ PERDÓN TRAS CHOCAR A GASLY: “FUE UN ERROR GRAVE”",
-      "dueAt": "2026-09-26T15:00:00.000Z",
-      "bufferPostId": "6ab7dccf4b4b9f2c1c4e8061",
-      "createdAt": "2026-09-26T14:55:11.935Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103862172040167649",
-      "sentAt": "2026-09-26T15:00:04.599Z"
     }
   },
   "nextAt": {
