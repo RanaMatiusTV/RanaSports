@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-20T10:25:13.894Z",
+  "updatedAt": "2026-10-20T15:22:11.997Z",
   "trends": [
     {
-      "query": "ypf",
-      "startedAt": "2026-10-20T09:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "pronostico mendoza",
-      "startedAt": "2026-10-20T09:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "javier milei",
-      "startedAt": "2026-10-20T09:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "eduardo costantini",
-      "startedAt": "2026-10-20T09:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "la capital",
-      "startedAt": "2026-10-20T09:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "vandalismo",
-      "startedAt": "2026-10-20T09:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "quien se fue de masterchef",
-      "startedAt": "2026-10-20T08:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "ley de reparación histórica para jubilados y pensionados",
-      "startedAt": "2026-10-20T08:50:00.000Z",
+      "query": "boy olmi",
+      "startedAt": "2026-10-20T15:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "juan román riquelme",
-      "startedAt": "2026-10-20T08:30:00.000Z",
+      "query": "lucas blondel",
+      "startedAt": "2026-10-20T14:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "salario",
-      "startedAt": "2026-10-20T08:20:00.000Z",
-      "volume": 2000
+      "query": "barca vs psg",
+      "startedAt": "2026-10-20T14:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "boat",
+      "startedAt": "2026-10-20T14:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "balon de oro",
+      "startedAt": "2026-10-20T14:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "ballon d'or",
+      "startedAt": "2026-10-20T14:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "noemi bocchi",
+      "startedAt": "2026-10-20T14:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "corrientes",
+      "startedAt": "2026-10-20T13:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "india",
+      "startedAt": "2026-10-20T13:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "subte",
+      "startedAt": "2026-10-20T13:00:00.000Z",
+      "volume": 20000
     }
   ]
 }
