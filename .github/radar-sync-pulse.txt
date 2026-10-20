@@ -1,5 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Fecha/hora ARG: 20/10/2026 19:05
-Altas verificadas en Sheets: 6
-Filas: 3523-3528
-Última noticia: FODEN HIZO UN TRIPLETE EN LA GOLEADA 5-1 DEL CITY SOBRE AEK
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha/hora ARG: 20/10/2026 20:10
+Altas verificadas en Sheets: 2
+Filas: 3529-3530
+Última noticia: COLAPINTO REVELÓ QUE TRABAJÓ EN ENSTONE PARA REVERTIR LOS PROBLEMAS DE ALPINE
+Estado: ESCRITURA VERIFICADA; SINCRONIZACION SOLICITADA
+Control antiduplicados: RADAR 1 y RADAR 5; descartados resultados Champions ya publicados y repetición de horarios GP Austin.
