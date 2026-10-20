@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-20T19:35:03.390Z",
+  "updatedAt": "2026-10-20T22:40:02.622Z",
   "trends": [
     {
-      "query": "disney",
-      "startedAt": "2026-10-20T19:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "nba",
-      "startedAt": "2026-10-20T19:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "rodri",
-      "startedAt": "2026-10-20T19:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ferran torres",
-      "startedAt": "2026-10-20T19:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "al nassr",
-      "startedAt": "2026-10-20T19:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "liverpool vs villarreal",
-      "startedAt": "2026-10-20T19:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "surf",
-      "startedAt": "2026-10-20T19:10:00.000Z",
+      "query": "villa pueyrredón",
+      "startedAt": "2026-10-20T22:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "psg vs",
-      "startedAt": "2026-10-20T19:00:00.000Z",
+      "query": "a que hora juega boca",
+      "startedAt": "2026-10-20T22:00:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "fabian gianola",
+      "startedAt": "2026-10-20T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "balon de oro de todos los tiempos",
+      "startedAt": "2026-10-20T21:50:00.000Z",
       "volume": 1000
     },
     {
-      "query": "espn",
-      "startedAt": "2026-10-20T19:00:00.000Z",
+      "query": "gaston pampa leturia",
+      "startedAt": "2026-10-20T21:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "porto - psv",
-      "startedAt": "2026-10-20T19:00:00.000Z",
+      "query": "fiambala",
+      "startedAt": "2026-10-20T21:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "alexis mac allister",
+      "startedAt": "2026-10-20T21:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "posiciones de vfb stuttgart contra atlético de madrid",
+      "startedAt": "2026-10-20T21:00:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "el mollar",
+      "startedAt": "2026-10-20T21:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "liam lawson",
+      "startedAt": "2026-10-20T21:00:00.000Z",
       "volume": 200
     }
   ]
