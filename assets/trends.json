@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-19T21:44:36.891Z",
+  "updatedAt": "2026-10-20T00:41:13.730Z",
   "trends": [
     {
-      "query": "sarmiento - barracas central",
-      "startedAt": "2026-10-19T21:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "horacio rodríguez larreta",
-      "startedAt": "2026-10-19T21:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "luis brandoni",
-      "startedAt": "2026-10-19T21:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "posiciones de getafe cf contra rayo vallecano",
-      "startedAt": "2026-10-19T21:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "braga - gil vicente",
-      "startedAt": "2026-10-19T21:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "newell's - central córdoba",
-      "startedAt": "2026-10-19T21:10:00.000Z",
+      "query": "alerta meteorológica",
+      "startedAt": "2026-10-20T00:10:00.000Z",
       "volume": 5000
     },
     {
-      "query": "infocielo",
-      "startedAt": "2026-10-19T21:10:00.000Z",
+      "query": "paro de colectivos hoy",
+      "startedAt": "2026-10-20T00:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "lucero acosta",
+      "startedAt": "2026-10-20T00:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "pedri",
-      "startedAt": "2026-10-19T21:10:00.000Z",
+      "query": "from",
+      "startedAt": "2026-10-20T00:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "braga vs",
-      "startedAt": "2026-10-19T21:10:00.000Z",
+      "query": "barracas",
+      "startedAt": "2026-10-19T23:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "feriados noviembre 2026",
+      "startedAt": "2026-10-19T23:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "deportivo riestra - unión",
+      "startedAt": "2026-10-19T23:40:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "cotización dólar hoy",
+      "startedAt": "2026-10-19T23:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "corinthians vs",
+      "startedAt": "2026-10-19T23:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "el polaco",
-      "startedAt": "2026-10-19T21:00:00.000Z",
+      "query": "suteba",
+      "startedAt": "2026-10-19T23:30:00.000Z",
       "volume": 200
     }
   ]
