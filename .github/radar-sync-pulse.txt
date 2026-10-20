@@ -1,5 +1,5 @@
 RADAR 1 — RanaSports Noticias
-Fecha/hora ARG: 20/10/2026 17:10
+Fecha/hora ARG: 20/10/2026 19:05
 Altas verificadas en Sheets: 6
-Filas: 3517-3522
-Última noticia: SARMIENTO DENUNCIÓ UN GOL MAL ANULADO ANTE BARRACAS Y APUNTÓ CONTRA EL VAR
+Filas: 3523-3528
+Última noticia: FODEN HIZO UN TRIPLETE EN LA GOLEADA 5-1 DEL CITY SOBRE AEK
