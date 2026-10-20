@@ -1,5 +1,5 @@
 RADAR 1 — RanaSports Noticias
-Fecha/hora ARG: 19/10/2026 23:06
+Fecha/hora ARG: 20/10/2026 00:31
 Altas verificadas en Sheets: 6
-Filas: 3465-3470
-Última noticia: RIESTRA Y UNIÓN EMPATARON 1-1 EN EL CIERRE DE LA FECHA
+Filas: 3471-3476
+Última noticia: NICOLÁS KEENAN Y ROB JETTEN ANUNCIARON QUE SERÁN PADRES EN 2027
