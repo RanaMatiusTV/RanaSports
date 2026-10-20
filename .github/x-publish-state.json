@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/marcone-y-montiel-evitaron-la-quinta-amarilla-y-estaran-ante-boca/": {
+      "account": "main",
+      "title": "MARCONE Y MONTIEL EVITARON LA QUINTA AMARILLA Y ESTARÁN ANTE BOCA",
+      "dueAt": "2026-10-20T00:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad6b448e9c669def5e10361",
+      "createdAt": "2026-10-20T00:22:33.026Z"
+    },
+    "https://ranasports.com.ar/futbol/racing-evalua-una-sancion-economica-para-espino-por-su-gesto-a-los-hinchas/": {
+      "account": "sports",
+      "title": "RACING EVALÚA UNA SANCIÓN ECONÓMICA PARA ESPINO POR SU GESTO A LOS HINCHAS",
+      "dueAt": "2026-10-20T01:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad6b4482fcafd0f184250e1",
+      "createdAt": "2026-10-20T00:22:32.289Z"
+    },
+    "https://ranasports.com.ar/futbol/la-uefa-le-envio-42-preguntas-a-la-fifa-y-puso-bajo-presion-a-infantino/": {
+      "account": "sports",
+      "title": "LA UEFA LE ENVIÓ 42 PREGUNTAS A LA FIFA Y PUSO BAJO PRESIÓN A INFANTINO",
+      "dueAt": "2026-10-20T00:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad6b447b81183413da56511",
+      "createdAt": "2026-10-20T00:22:31.369Z"
+    },
+    "https://ranasports.com.ar/futbol/marcha-atras-con-la-sancion/": {
+      "account": "sports",
+      "title": "MARCHA ATRÁS CON LA SANCIÓN: SARMIENTO PODRÁ RECIBIR A BARRACAS CON PÚBLICO",
+      "dueAt": "2026-10-20T00:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad6b4469d034d7aedce2136",
+      "createdAt": "2026-10-20T00:22:30.949Z"
+    },
+    "https://ranasports.com.ar/futbol/el-tas-definira-a-fines-de-noviembre-el-campeon-de-la-copa-africana/": {
+      "account": "sports",
+      "title": "EL TAS DEFINIRÁ A FINES DE NOVIEMBRE EL CAMPEÓN DE LA COPA AFRICANA",
+      "dueAt": "2026-10-20T00:22:26.087Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ad6b442e9c669def5e102b1",
+      "createdAt": "2026-10-20T00:22:28.204Z"
+    },
     "https://ranasports.com.ar/f1/horner-revelo-como-fue-su-abrupta-salida-de-red-bull/": {
       "account": "f1",
       "title": "HORNER REVELÓ CÓMO FUE SU ABRUPTA SALIDA DE RED BULL",
@@ -5329,45 +5369,6 @@
       "createdAt": "2026-09-25T14:05:08.717Z",
       "externalLink": "https://x.com/2095690134515572737/status/2103487199140298923",
       "sentAt": "2026-09-25T14:10:04.065Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDM0MTIwMDAwMCwiQ09MQVBJTlRPIENVTVBMScOTIEVMIE9CSkVUSVZPOiBTRSBNRVRJw5MgRU4gUTMgU09CUkUgTEEgSE9SQSBFTiBCQUvDmiJd": {
-      "account": "f1",
-      "title": "COLAPINTO CUMPLIÓ EL OBJETIVO: SE METIÓ EN Q3 SOBRE LA HORA EN BAKÚ",
-      "dueAt": "2026-09-25T13:10:00.000Z",
-      "bufferPostId": "6ab671ac41ce152764d25a04",
-      "createdAt": "2026-09-25T13:05:48.488Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103472103378825265",
-      "sentAt": "2026-09-25T13:10:05.230Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDMyODYwMDAwMCwiSU5Tw5NMSVRPIEVOIEJBS8OaOiBVTiBJTlNFQ1RPIEdPTFBFw5MgQSBDT0xBUElOVE8gRU4gUExFTkEgRlAzIl0": {
-      "account": "f1",
-      "title": "INSÓLITO EN BAKÚ: UN INSECTO GOLPEÓ A COLAPINTO EN PLENA FP3",
-      "dueAt": "2026-09-25T12:40:00.000Z",
-      "bufferPostId": "6ab66aa5d7638fd2853ce328",
-      "createdAt": "2026-09-25T12:35:49.883Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103464550917951657",
-      "sentAt": "2026-09-25T12:40:04.376Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMzM2NDAwMDAwLCJCT0ROQVIsIEVMIEjDiVJPRSBERUwgQ0zDgVNJQ08gREUgUkVTRVJWQTogSFVOR1LDjUEgTE8gREVTQ1VCUknDkyBQT1IgRk9PVEJBTEwgTUFOQUdFUiJd": {
-      "account": "main",
-      "title": "BODNAR, EL HÉROE DEL CLÁSICO DE RESERVA: HUNGRÍA LO DESCUBRIÓ POR FOOTBALL MANAGER",
-      "dueAt": "2026-09-25T12:40:00.000Z",
-      "bufferPostId": "6ab66a9c4be5473030b259b7",
-      "createdAt": "2026-09-25T12:35:40.740Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJwZWxvdGEgdmFzY2EiLDE3OTAyOTgwMDAwMDAsIkdBUkPDjUEgWSBQSU5UTyBTT04gREUgT1JPOiBBUkdFTlRJTkEgU0UgUVVFRMOTIENPTiBFTCBUUklOUVVFVEUgRkVNRU5JTk8iXQ": {
-      "account": "main",
-      "title": "GARCÍA Y PINTO SON DE ORO: ARGENTINA SE QUEDÓ CON EL TRINQUETE FEMENINO",
-      "dueAt": "2026-09-25T11:10:00.000Z",
-      "bufferPostId": "6ab653a6607bee5b03310f20",
-      "createdAt": "2026-09-25T10:57:42.825Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMzI2ODAwMDAwLCJJTkRFUEVORElFTlRFIFJFQ0lCRSBBIEZFUlJPIEVOIFZJTExBIERPTcONTklDTyBQT1IgRUwgQ0xBVVNVUkEgRkVNRU5JTk8iXQ": {
-      "account": "main",
-      "title": "INDEPENDIENTE RECIBE A FERRO EN VILLA DOMÍNICO POR EL CLAUSURA FEMENINO",
-      "dueAt": "2026-09-25T11:05:00.000Z",
-      "bufferPostId": "6ab6539a4be5473030af2fc0",
-      "createdAt": "2026-09-25T10:57:30.772Z"
     }
   },
   "nextAt": {
