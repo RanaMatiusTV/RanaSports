@@ -1,5 +1,5 @@
 RADAR 1 — RanaSports Noticias
-Fecha/hora ARG: 19/10/2026 21:04
+Fecha/hora ARG: 19/10/2026 23:06
 Altas verificadas en Sheets: 6
-Filas: 3459-3464
-Última noticia: LA UEFA LE ENVIÓ 42 PREGUNTAS A LA FIFA Y PUSO BAJO PRESIÓN A INFANTINO
+Filas: 3465-3470
+Última noticia: RIESTRA Y UNIÓN EMPATARON 1-1 EN EL CIERRE DE LA FECHA
