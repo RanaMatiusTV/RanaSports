@@ -1,7 +1,6 @@
-RADAR 5 — REINTENTO DE SINCRONIZACIÓN
-Fecha/hora ARG: 21/10/2026 07:30
-Altas verificadas en corrida original: 3
-Filas: 3552-3554
-Última noticia: MATÍAS PELLEGRINI SE RECUPERÓ Y VÉLEZ LO ESPERA PARA VISITAR A CENTRAL CÓRDOBA
-Estado: REINTENTO DE SINCRONIZACIÓN SOLICITADO; verificar CSV
-Nota: RADAR 1 ya emitió pulso posterior para filas 3555-3560. No se modificaron otros archivos.
+RADAR 1 — SEÑAL DE SINCRONIZACIÓN
+Fecha/hora ARG: 21/10/2026 09:04
+Altas verificadas: 6
+Filas: 3562-3567
+Última noticia: DEL INFARTO TRAS ENFRENTAR A LOS ALL BLACKS A SALVAR VIDAS COMO CARDIÓLOGO
+Estado: ALTAS RELEÍDAS EN SHEETS; SOLICITAR SYNC DEL FEED
