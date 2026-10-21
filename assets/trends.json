@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-21T06:01:05.902Z",
+  "updatedAt": "2026-10-21T11:46:17.545Z",
   "trends": [
     {
-      "query": "corte de agua",
-      "startedAt": "2026-10-21T05:10:00.000Z",
+      "query": "entradas u2",
+      "startedAt": "2026-10-21T11:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "christina applegate",
-      "startedAt": "2026-10-21T03:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "tigres - león",
-      "startedAt": "2026-10-21T03:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "davo xeneize",
-      "startedAt": "2026-10-21T03:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "final libertadores",
-      "startedAt": "2026-10-21T03:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "maru botana",
-      "startedAt": "2026-10-21T02:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "boca vs independiente",
-      "startedAt": "2026-10-21T02:50:00.000Z",
+      "query": "antena",
+      "startedAt": "2026-10-21T11:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "libertadores",
-      "startedAt": "2026-10-21T02:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "avianca",
-      "startedAt": "2026-10-21T02:50:00.000Z",
+      "query": "chaipa",
+      "startedAt": "2026-10-21T10:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "el nine",
-      "startedAt": "2026-10-21T02:50:00.000Z",
+      "query": "clima la plata",
+      "startedAt": "2026-10-21T10:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "ameba comecerebros",
+      "startedAt": "2026-10-21T10:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "boy olmi",
+      "startedAt": "2026-10-21T09:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "clima corrientes",
+      "startedAt": "2026-10-21T09:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clima bahia blanca",
+      "startedAt": "2026-10-21T09:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tomás martín etcheverry",
+      "startedAt": "2026-10-21T09:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "clima quilmes",
+      "startedAt": "2026-10-21T09:20:00.000Z",
       "volume": 200
     }
   ]
