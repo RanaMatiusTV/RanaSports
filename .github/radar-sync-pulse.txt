@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Fecha/hora ARG: 20/10/2026 22:10
-Altas verificadas en Sheets: 3
-Filas: 3537-3539
-Última noticia: SIMEONE RESPALDÓ A JULIÁN ÁLVAREZ TRAS SU GOL ANTE STUTTGART: ES DETERMINANTE
+RADAR 1 — RanaSports Noticias
+Fecha/hora ARG: 20/10/2026 23:07
+Altas verificadas en Sheets: 6
+Filas: 3540-3545
+Última noticia: AL NASSR AFRONTA UNA DEUDA MILLONARIA Y ANALIZA UNA POSIBLE VENTA
 Estado: ESCRITURA VERIFICADA; SINCRONIZACION SOLICITADA
-Control antiduplicados: noticias 3320-3536 y bloque reciente; descartadas coberturas repetidas de Paredes, gol de Julián y horarios del GP.
+Control antiduplicados: bloque reciente 3200-3539 y revisión de novedades; descartados gol de Di Lollo, árbitros de Independiente-Boca, respaldo de Simeone a Julián Álvarez, lesión de Fausto Vera y presidente de Vasco por ya publicados.
