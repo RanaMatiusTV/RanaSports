@@ -1,7 +1,5 @@
-RADAR 1
-21/10/2026 19:06 ART
-Altas verificadas: 6
-Filas: 3605-3610
-Última noticia: ISCO LE DIO AL BETIS EL TRIUNFO ANTE FEYENOORD
-Estado: sincronización solicitada
-ID: 20261021-1906-3605-3610
+RADAR 5 — 21/10/2026 20:10 ARG
+Altas verificadas: 0
+Filas: ninguna
+Estado: escritura bloqueada; sincronización solicitada
+ID: radar5-20261021-2010-cero-altas
