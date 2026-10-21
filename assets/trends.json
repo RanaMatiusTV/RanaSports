@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-21T00:57:55.712Z",
+  "updatedAt": "2026-10-21T06:01:05.902Z",
   "trends": [
     {
-      "query": "rodrigo battaglia",
-      "startedAt": "2026-10-21T00:40:00.000Z",
-      "volume": 500
+      "query": "corte de agua",
+      "startedAt": "2026-10-21T05:10:00.000Z",
+      "volume": 100
     },
     {
-      "query": "thiago mendes",
-      "startedAt": "2026-10-21T00:40:00.000Z",
+      "query": "christina applegate",
+      "startedAt": "2026-10-21T03:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tigres - león",
+      "startedAt": "2026-10-21T03:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "quien juega hoy",
-      "startedAt": "2026-10-21T00:30:00.000Z",
+      "query": "davo xeneize",
+      "startedAt": "2026-10-21T03:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "final libertadores",
+      "startedAt": "2026-10-21T03:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "maru botana",
+      "startedAt": "2026-10-21T02:50:00.000Z",
       "volume": 1000
     },
     {
-      "query": "boc",
-      "startedAt": "2026-10-21T00:30:00.000Z",
+      "query": "boca vs independiente",
+      "startedAt": "2026-10-21T02:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "facundo herrera",
-      "startedAt": "2026-10-21T00:30:00.000Z",
+      "query": "libertadores",
+      "startedAt": "2026-10-21T02:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "avianca",
+      "startedAt": "2026-10-21T02:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "club de regatas vasco da gama",
-      "startedAt": "2026-10-21T00:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "futbol hoy",
-      "startedAt": "2026-10-21T00:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "guadalajara - necaxa",
-      "startedAt": "2026-10-21T00:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "boca junior",
-      "startedAt": "2026-10-21T00:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "elina costantini",
-      "startedAt": "2026-10-21T00:20:00.000Z",
+      "query": "el nine",
+      "startedAt": "2026-10-21T02:50:00.000Z",
       "volume": 200
     }
   ]
