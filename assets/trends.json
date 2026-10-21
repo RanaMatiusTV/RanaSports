@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-20T22:40:02.622Z",
+  "updatedAt": "2026-10-21T00:57:55.712Z",
   "trends": [
     {
-      "query": "villa pueyrredón",
-      "startedAt": "2026-10-20T22:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "a que hora juega boca",
-      "startedAt": "2026-10-20T22:00:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "fabian gianola",
-      "startedAt": "2026-10-20T22:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "balon de oro de todos los tiempos",
-      "startedAt": "2026-10-20T21:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "gaston pampa leturia",
-      "startedAt": "2026-10-20T21:50:00.000Z",
+      "query": "rodrigo battaglia",
+      "startedAt": "2026-10-21T00:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "fiambala",
-      "startedAt": "2026-10-20T21:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "alexis mac allister",
-      "startedAt": "2026-10-20T21:10:00.000Z",
+      "query": "thiago mendes",
+      "startedAt": "2026-10-21T00:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "posiciones de vfb stuttgart contra atlético de madrid",
-      "startedAt": "2026-10-20T21:00:00.000Z",
-      "volume": 10000
+      "query": "quien juega hoy",
+      "startedAt": "2026-10-21T00:30:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "el mollar",
-      "startedAt": "2026-10-20T21:00:00.000Z",
+      "query": "boc",
+      "startedAt": "2026-10-21T00:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "facundo herrera",
+      "startedAt": "2026-10-21T00:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "liam lawson",
-      "startedAt": "2026-10-20T21:00:00.000Z",
+      "query": "club de regatas vasco da gama",
+      "startedAt": "2026-10-21T00:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "futbol hoy",
+      "startedAt": "2026-10-21T00:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "guadalajara - necaxa",
+      "startedAt": "2026-10-21T00:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "boca junior",
+      "startedAt": "2026-10-21T00:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "elina costantini",
+      "startedAt": "2026-10-21T00:20:00.000Z",
       "volume": 200
     }
   ]
