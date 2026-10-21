@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-21T16:07:37.098Z",
+  "updatedAt": "2026-10-21T20:08:55.334Z",
   "trends": [
     {
-      "query": "como - manchester united",
-      "startedAt": "2026-10-21T15:50:00.000Z",
-      "volume": 2000
+      "query": "inter",
+      "startedAt": "2026-10-21T19:50:00.000Z",
+      "volume": 500
     },
     {
-      "query": "aitana movistar arena",
-      "startedAt": "2026-10-21T15:30:00.000Z",
+      "query": "bernardo silva",
+      "startedAt": "2026-10-21T19:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "serpiente",
+      "startedAt": "2026-10-21T19:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "río paraná",
-      "startedAt": "2026-10-21T15:00:00.000Z",
-      "volume": 2000
+      "query": "josé maría muscari",
+      "startedAt": "2026-10-21T19:50:00.000Z",
+      "volume": 100
     },
     {
-      "query": "river vs ferro",
-      "startedAt": "2026-10-21T15:00:00.000Z",
+      "query": "colegio de arquitectos",
+      "startedAt": "2026-10-21T19:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "real madrid",
+      "startedAt": "2026-10-21T19:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "inter milan",
+      "startedAt": "2026-10-21T19:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "luisana lopilato",
-      "startedAt": "2026-10-21T14:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "pronostico la plata",
-      "startedAt": "2026-10-21T14:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "accuweather",
-      "startedAt": "2026-10-21T14:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "clima merlo",
-      "startedAt": "2026-10-21T13:50:00.000Z",
+      "query": "mercado cambiario",
+      "startedAt": "2026-10-21T19:30:00.000Z",
       "volume": 500
     },
     {
-      "query": "mateusz chmura",
-      "startedAt": "2026-10-21T13:40:00.000Z",
-      "volume": 2000
+      "query": "morena beltrán",
+      "startedAt": "2026-10-21T19:30:00.000Z",
+      "volume": 200
     },
     {
-      "query": "2027",
-      "startedAt": "2026-10-21T13:30:00.000Z",
-      "volume": 1000
+      "query": "bayern",
+      "startedAt": "2026-10-21T19:20:00.000Z",
+      "volume": 2000
     }
   ]
 }
