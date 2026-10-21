@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Fecha/hora ARG: 20/10/2026 20:10
-Altas verificadas en Sheets: 2
-Filas: 3529-3530
-Última noticia: COLAPINTO REVELÓ QUE TRABAJÓ EN ENSTONE PARA REVERTIR LOS PROBLEMAS DE ALPINE
+RADAR 1 — RanaSports Noticias
+Fecha/hora ARG: 20/10/2026 21:02
+Altas verificadas en Sheets: 6
+Filas: 3531-3536
+Última noticia: SEVILLA DENUNCIÓ QUE LA TV OMITIÓ LA REPETICIÓN DE UN CODAZO DE GÜLER
 Estado: ESCRITURA VERIFICADA; SINCRONIZACION SOLICITADA
-Control antiduplicados: RADAR 1 y RADAR 5; descartados resultados Champions ya publicados y repetición de horarios GP Austin.
+Control antiduplicados: bloque reciente de Noticias y cruces con altas de RADAR 5; actualizaciones materiales diferenciadas.
