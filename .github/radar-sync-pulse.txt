@@ -1,7 +1,7 @@
 RADAR 1 — RanaSports Noticias
-Fecha/hora ARG: 21/10/2026 00:28
+Fecha/hora ARG: 21/10/2026 06:58
 Altas verificadas en Sheets: 6
-Filas: 3546-3551
-Última noticia: ABSOLVIERON A LOS ACUSADOS POR EL CRIMEN DEL HINCHA DE INDEPENDIENTE JUAN CALVENTE
+Filas: 3555-3560
+Última noticia: PALMEIRAS DE FLACO LÓPEZ RECIBE A FLUMINENSE POR UN LUGAR EN LA FINAL
 Estado: ESCRITURA VERIFICADA; SINCRONIZACION SOLICITADA
-Control antiduplicados: bloque reciente verificado; descartados goles de Merentiel y Rodríguez, regreso de Paredes, gesto y disculpas de Espino, doblete de Mac Allister, dichos de Dani Alves sobre Messi y fallos de Cristiano Ronaldo por ya publicados.
+Control antiduplicados: bloque reciente verificado; descartadas las noticias ya publicadas de Messi/Make-A-Wish, Nico Paz, Matías Pellegrini, River con sus refuerzos, árbitros de la fecha 14 y despedida de Carlos Tevez.
