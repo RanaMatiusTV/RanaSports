@@ -1,6 +1,30 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/talleres-evalua-sancionar-a-matias-galarza-por-sus-elogios-a-boca/": {
+      "account": "sports",
+      "title": "TALLERES EVALÚA SANCIONAR A MATÍAS GALARZA POR SUS ELOGIOS A BOCA",
+      "dueAt": "2026-10-22T00:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad9498dcf322174cebbed70",
+      "createdAt": "2026-10-21T23:23:57.827Z"
+    },
+    "https://ranasports.com.ar/futbol/la-esposa-de-thiago-mendes-mostro-su-desanimo-tras-la-eliminacion-ante-boca/": {
+      "account": "sports",
+      "title": "LA ESPOSA DE THIAGO MENDES MOSTRÓ SU DESÁNIMO TRAS LA ELIMINACIÓN ANTE BOCA",
+      "dueAt": "2026-10-21T23:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad9498d7d56fe463dad0875",
+      "createdAt": "2026-10-21T23:23:57.222Z"
+    },
+    "https://ranasports.com.ar/futbol/maxi-lopez-se-emociono-al-recordar-a-su-padre-y-el-apoyo-de-river/": {
+      "account": "sports",
+      "title": "MAXI LÓPEZ SE EMOCIONÓ AL RECORDAR A SU PADRE Y EL APOYO DE RIVER",
+      "dueAt": "2026-10-21T23:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad9498cd0598dd30cfb5e58",
+      "createdAt": "2026-10-21T23:23:56.790Z"
+    },
     "https://ranasports.com.ar/futbol/independiente-prepara-cambios-para-recibir-a-boca/": {
       "account": "main",
       "title": "INDEPENDIENTE PREPARA CAMBIOS PARA RECIBIR A BOCA",
@@ -5334,29 +5358,6 @@
       "dueAt": "2026-09-28T09:30:00.000Z",
       "bufferPostId": "6aba320661ba3934e432022d",
       "createdAt": "2026-09-28T09:23:18.665Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA1ODQyMDAwMDAsIkNVVEkgUk9NRVJPIEhFUkVEQSBMQSBDSU5UQTogRUwgQ0FNSU5PIERFTCBOVUVWTyBDQVBJVMOBTiBERSBMQSBTRUxFQ0NJw5NOIl0": {
-      "account": "main",
-      "title": "CUTI ROMERO HEREDA LA CINTA: EL CAMINO DEL NUEVO CAPITÁN DE LA SELECCIÓN",
-      "dueAt": "2026-09-28T09:25:00.000Z",
-      "bufferPostId": "6aba320661ba3934e4320205",
-      "createdAt": "2026-09-28T09:23:18.362Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDU1NTQwMDAwMCwiQlJJQVRPUkUgRVZBTMOaQSBNRURJREFTIElOVEVSTkFTIFRSQVMgRUwgQ0hPUVVFIERFIENPTEFQSU5UTyBFTiBCQUvDmiJd": {
-      "account": "f1",
-      "title": "BRIATORE EVALÚA MEDIDAS INTERNAS TRAS EL CHOQUE DE COLAPINTO EN BAKÚ",
-      "dueAt": "2026-09-28T02:25:00.000Z",
-      "bufferPostId": "6ab9cecaa94ef4516f25f99e",
-      "createdAt": "2026-09-28T02:19:54.454Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104396936388215181",
-      "sentAt": "2026-09-28T02:25:02.651Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA1NDMyMjAwMDAsIkFSR0VOVElOQSBSRVRPTUEgRUwgVFJBQkFKTyBDT04gMzEgSlVHQURPUkVTIFkgU0NBTE9OSSBERUJFIFJFQ09SVEFSIE9DSE8gUEFSQSBCT0xJVklBIl0": {
-      "account": "main",
-      "title": "ARGENTINA RETOMA EL TRABAJO CON 31 JUGADORES Y SCALONI DEBE RECORTAR OCHO PARA BOLIVIA",
-      "dueAt": "2026-09-27T21:25:00.000Z",
-      "bufferPostId": "6ab98965612c9e6ac93479fe",
-      "createdAt": "2026-09-27T21:23:49.298Z"
     }
   },
   "nextAt": {
