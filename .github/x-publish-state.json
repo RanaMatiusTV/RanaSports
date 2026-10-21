@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/nazareno-arasa-dirigira-independiente-boca-y-adrian-franklin-estara-en-el-var/": {
+      "account": "main",
+      "title": "NAZARENO ARASA DIRIGIRÁ INDEPENDIENTE-BOCA Y ADRIÁN FRANKLIN ESTARÁ EN EL VAR",
+      "dueAt": "2026-10-21T05:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad844e09fdbc474fbfee7be",
+      "createdAt": "2026-10-21T04:51:44.459Z"
+    },
+    "https://ranasports.com.ar/futbol/absolvieron-a-los-acusados-por-el-crimen-del-hincha-de-independiente-juan-calvente/": {
+      "account": "main",
+      "title": "ABSOLVIERON A LOS ACUSADOS POR EL CRIMEN DEL HINCHA DE INDEPENDIENTE JUAN CALVENTE",
+      "dueAt": "2026-10-21T04:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad844e0d894396f66c722b7",
+      "createdAt": "2026-10-21T04:51:44.136Z"
+    },
+    "https://ranasports.com.ar/futbol/cristiano-ronaldo-erro-un-penal-y-un-gol-insolito-en-el-triunfo-de-al-nassr/": {
+      "account": "sports",
+      "title": "CRISTIANO RONALDO ERRÓ UN PENAL Y UN GOL INSÓLITO EN EL TRIUNFO DE AL NASSR",
+      "dueAt": "2026-10-21T05:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad844df50009d9e950b778c",
+      "createdAt": "2026-10-21T04:51:43.446Z"
+    },
+    "https://ranasports.com.ar/futbol/barcelona-sigue-de-cerca-a-lisandro-martinez-para-el-proximo-mercado/": {
+      "account": "sports",
+      "title": "BARCELONA SIGUE DE CERCA A LISANDRO MARTÍNEZ PARA EL PRÓXIMO MERCADO",
+      "dueAt": "2026-10-21T05:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad844dedb7d819821466c85",
+      "createdAt": "2026-10-21T04:51:42.904Z"
+    },
+    "https://ranasports.com.ar/futbol/di-lollo-marco-de-cabeza-a-los-tres-minutos-y-boca-empato-la-serie-con-vasco/": {
+      "account": "sports",
+      "title": "DI LOLLO MARCÓ DE CABEZA A LOS TRES MINUTOS Y BOCA EMPATÓ LA SERIE CON VASCO",
+      "dueAt": "2026-10-21T04:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad844ded894396f66c7228e",
+      "createdAt": "2026-10-21T04:51:42.590Z"
+    },
+    "https://ranasports.com.ar/boca/boca-tuvo-su-maracanazo-gano-3-1-y-se-metio-en-la-final-de-la-sudamericana/": {
+      "account": "sports",
+      "title": "BOCA TUVO SU MARACANAZO, GANÓ 3-1 Y SE METIÓ EN LA FINAL DE LA SUDAMERICANA",
+      "dueAt": "2026-10-21T04:51:40.908Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ad844dc50009d9e950b7756",
+      "createdAt": "2026-10-21T04:51:41.995Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-revelo-que-trabajo-en-enstone-para-revertir-los-problemas-de-alpine/": {
       "account": "f1",
       "title": "COLAPINTO REVELÓ QUE TRABAJÓ EN ENSTONE PARA REVERTIR LOS PROBLEMAS DE ALPINE",
@@ -5311,52 +5359,6 @@
       "createdAt": "2026-09-26T20:26:28.348Z",
       "externalLink": "https://x.com/2095690134515572737/status/2103945262678852094",
       "sentAt": "2026-09-26T20:30:14.982Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNDQzNjgwMDAwLCJJTkRFUEVORElFTlRFIFNVTcOTIFJPREFKRSBBTlRFIFRJR1JFOiBET1MgRU1QQVRFUyBFTiBBVkVMTEFORURBIl0": {
-      "account": "main",
-      "title": "INDEPENDIENTE SUMÓ RODAJE ANTE TIGRE: DOS EMPATES EN AVELLANEDA",
-      "dueAt": "2026-09-26T20:35:00.000Z",
-      "bufferPostId": "6ab82a643d66d464e5bc5eec",
-      "createdAt": "2026-09-26T20:26:13.077Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA0MzY4NDAwMDAsIkxBVVRBUk8gTUFSVMONTkVaIFkgTEEgU0VMRUNDScOTTiBQT1NUIE1FU1NJOiDigJxIQVkgUVVFIEFSUkFOQ0FSIERFIENFUk_igJ0iXQ": {
-      "account": "main",
-      "title": "LAUTARO MARTÍNEZ Y LA SELECCIÓN POST MESSI: “HAY QUE ARRANCAR DE CERO”",
-      "dueAt": "2026-09-26T20:30:00.000Z",
-      "bufferPostId": "6ab82a649f89edbefe7dd90b",
-      "createdAt": "2026-09-26T20:26:12.723Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDQzNDIwMDAwMCwiRUwgRE9CTEUgQUJBTkRPTk8gRU4gQkFLw5ogTEUgUEVHw5MgRlVFUlRFIEEgQUxQSU5FIEVOIEVMIE1VTkRJQUwgREUgQ09OU1RSVUNUT1JFUyJd": {
-      "account": "f1",
-      "title": "EL DOBLE ABANDONO EN BAKÚ LE PEGÓ FUERTE A ALPINE EN EL MUNDIAL DE CONSTRUCTORES",
-      "dueAt": "2026-09-26T17:00:00.000Z",
-      "bufferPostId": "6ab7f9123d66d464e5b6f818",
-      "createdAt": "2026-09-26T16:55:46.463Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103892411990565123",
-      "sentAt": "2026-09-26T17:00:14.438Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA0MjQ0ODAwMDAsIlNDQUxPTkkgU0lHVUUgREUgQ0VSQ0EgQSBMQVVUQVJPIEJMQU5DTyBQQVJBIExBIFNFTEVDQ0nDk04gREUgTk9WSUVNQlJFIl0": {
-      "account": "main",
-      "title": "SCALONI SIGUE DE CERCA A LAUTARO BLANCO PARA LA SELECCIÓN DE NOVIEMBRE",
-      "dueAt": "2026-09-26T17:00:00.000Z",
-      "bufferPostId": "6ab7f90a9f89edbefe78bdf6",
-      "createdAt": "2026-09-26T16:55:39.049Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwMzY0OTAwMDAwLCJMQVMgRElBQkxBUyBWT0xWSUVST04gQUwgVFJJVU5GTzogSU5ERVBFTkRJRU5URSBWRU5DScOTIDMtMiBBIEZFUlJPIEVOIFZJTExBIERPTcONTklDTyJd": {
-      "account": "main",
-      "title": "LAS DIABLAS VOLVIERON AL TRIUNFO: INDEPENDIENTE VENCIÓ 3-2 A FERRO EN VILLA DOMÍNICO",
-      "dueAt": "2026-09-26T16:20:00.000Z",
-      "bufferPostId": "6ab7efd8ccccb9429c3307e0",
-      "createdAt": "2026-09-26T16:16:24.580Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDQzMjQ2MDAwMCwiUlVTU0VMTCBHQU7DkyBFTiBCQUvDmiBZIFJFQ09SVMOTIEVOIEVMIE1VTkRJQUwgREUgRsOTUk1VTEEgMSJd": {
-      "account": "f1",
-      "title": "RUSSELL GANÓ EN BAKÚ Y RECORTÓ EN EL MUNDIAL DE FÓRMULA 1",
-      "dueAt": "2026-09-26T16:00:00.000Z",
-      "bufferPostId": "6ab7ebc3ccccb9429c32661c",
-      "createdAt": "2026-09-26T15:58:59.204Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2103877298030076344",
-      "sentAt": "2026-09-26T16:00:11.208Z"
     }
   },
   "nextAt": {
