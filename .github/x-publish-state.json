@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/independiente-prepara-cambios-para-recibir-a-boca/": {
+      "account": "main",
+      "title": "INDEPENDIENTE PREPARA CAMBIOS PARA RECIBIR A BOCA",
+      "dueAt": "2026-10-21T20:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad91c6cd79cb60bb03a8416",
+      "createdAt": "2026-10-21T20:11:24.495Z"
+    },
+    "https://ranasports.com.ar/futbol/mac-allister-hablo-de-su-contrato-en-liverpool-y-destaco-el-cambio-con-iraola/": {
+      "account": "sports",
+      "title": "MAC ALLISTER HABLÓ DE SU CONTRATO EN LIVERPOOL Y DESTACÓ EL CAMBIO CON IRAOLA",
+      "dueAt": "2026-10-21T21:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad91c6bb945508d3f853270",
+      "createdAt": "2026-10-21T20:11:24.041Z"
+    },
+    "https://ranasports.com.ar/tenis/cerundolo-gano-en-bruselas-paso-a-cuartos-y-alcanzo-70-triunfos-en-cancha-rapida/": {
+      "account": "sports",
+      "title": "CERÚNDOLO GANÓ EN BRUSELAS, PASÓ A CUARTOS Y ALCANZÓ 70 TRIUNFOS EN CANCHA RÁPIDA",
+      "dueAt": "2026-10-21T20:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad91c6b2109dcc39c07d7fa",
+      "createdAt": "2026-10-21T20:11:23.402Z"
+    },
+    "https://ranasports.com.ar/tenis-de-mesa/argentina-vencio-3-2-a-brasil-y-se-consagro-bicampeona-panamericana/": {
+      "account": "sports",
+      "title": "ARGENTINA VENCIÓ 3-2 A BRASIL Y SE CONSAGRÓ BICAMPEONA PANAMERICANA",
+      "dueAt": "2026-10-21T20:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad91c6ad79cb60bb03a83c2",
+      "createdAt": "2026-10-21T20:11:22.687Z"
+    },
+    "https://ranasports.com.ar/futbol/paredes-gano-los-cuatro-partidos-que-jugo-en-el-maracana/": {
+      "account": "sports",
+      "title": "PAREDES GANÓ LOS CUATRO PARTIDOS QUE JUGÓ EN EL MARACANÁ",
+      "dueAt": "2026-10-21T20:11:19.838Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ad91c670a921c67b7dc9cbc",
+      "createdAt": "2026-10-21T20:11:21.926Z"
+    },
     "https://ranasports.com.ar/futbol/icardi-pidio-cinco-millones-de-euros-y-se-enfrio-su-llegada-al-valencia/": {
       "account": "sports",
       "title": "ICARDI PIDIÓ CINCO MILLONES DE EUROS Y SE ENFRIÓ SU LLEGADA AL VALENCIA",
@@ -5317,47 +5357,6 @@
       "dueAt": "2026-09-27T21:25:00.000Z",
       "bufferPostId": "6ab98965612c9e6ac93479fe",
       "createdAt": "2026-09-27T21:23:49.298Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNTUyMjIwMDAwLCJHQVVESU8gU0UgUkVVTknDkyBDT04gRUwgRU1JUiBERSBRQVRBUiBZIEFWQU5aQSBDT04gU1UgQ0FORElEQVRVUkEgRU4gSU5ERVBFTkRJRU5URSJd": {
-      "account": "main",
-      "title": "GAUDIO SE REUNIÓ CON EL EMIR DE QATAR Y AVANZA CON SU CANDIDATURA EN INDEPENDIENTE",
-      "dueAt": "2026-09-27T20:20:00.000Z",
-      "bufferPostId": "6ab979df82dee5c85bc97647",
-      "createdAt": "2026-09-27T20:17:36.135Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDUyODY0MDAwMCwiRUwgS1VOIEFHw5xFUk8gU0FMScOTIEEgQkFOQ0FSIEEgQ09MQVBJTlRPIFkgUkVTUE9OREnDkyBBIExBUyBDUsONVElDQVMgREUgTk9SUklTIl0": {
-      "account": "f1",
-      "title": "EL KUN AGÜERO SALIÓ A BANCAR A COLAPINTO Y RESPONDIÓ A LAS CRÍTICAS DE NORRIS",
-      "dueAt": "2026-09-27T18:20:00.000Z",
-      "bufferPostId": "6ab95e0e43493a0ede992034",
-      "createdAt": "2026-09-27T18:18:54.611Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104274880254423097",
-      "sentAt": "2026-09-27T18:20:01.913Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA1MzE3MDAwMDAsIkFSR0VOVElOQSBZQSBUSUVORSBGRUNIQVMgWSBTRURFUyBQQVJBIExPUyBUUkVTIEFNSVNUT1NPUzogTUVTU0kgU0UgREVTUElERSBBTlRFIEJFTsONTiJd": {
-      "account": "main",
-      "title": "ARGENTINA YA TIENE FECHAS Y SEDES PARA LOS TRES AMISTOSOS: MESSI SE DESPIDE ANTE BENÍN",
-      "dueAt": "2026-09-27T18:20:00.000Z",
-      "bufferPostId": "6ab95df436a0dcfcb3df2e6e",
-      "createdAt": "2026-09-27T18:18:28.868Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDUxMDUyMDAwMCwiTU9OVE9ZQSBCQU5Dw5MgQSBDT0xBUElOVE8gVFJBUyBFTCBDSE9RVUUgRU4gQkFLw5o6IOKAnEFETUlSTyBBIExBIEdFTlRFIFFVRSBMTyBJTlRFTlRB4oCdIl0": {
-      "account": "f1",
-      "title": "MONTOYA BANCÓ A COLAPINTO TRAS EL CHOQUE EN BAKÚ: “ADMIRO A LA GENTE QUE LO INTENTA”",
-      "dueAt": "2026-09-27T16:20:00.000Z",
-      "bufferPostId": "6ab941e570ec211d1d1edbed",
-      "createdAt": "2026-09-27T16:18:45.443Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104244689398345985",
-      "sentAt": "2026-09-27T16:20:03.887Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDUxNDMwMDAwMCwiQUxQSU5FIFNBTEnDkyBBIEZSRU5BUiBFTCBPRElPIEVOIFJFREVTIFRSQVMgRUwgQ0hPUVVFIERFIENPTEFQSU5UTyBFTiBCQUvDmiJd": {
-      "account": "f1",
-      "title": "ALPINE SALIÓ A FRENAR EL ODIO EN REDES TRAS EL CHOQUE DE COLAPINTO EN BAKÚ",
-      "dueAt": "2026-09-27T15:15:00.000Z",
-      "bufferPostId": "6ab931dd43493a0ede936cfd",
-      "createdAt": "2026-09-27T15:10:21.133Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104228335874154596",
-      "sentAt": "2026-09-27T15:15:04.846Z"
     }
   },
   "nextAt": {
