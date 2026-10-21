@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-21T20:08:55.334Z",
+  "updatedAt": "2026-10-21T23:17:41.882Z",
   "trends": [
     {
-      "query": "inter",
-      "startedAt": "2026-10-21T19:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "bernardo silva",
-      "startedAt": "2026-10-21T19:50:00.000Z",
+      "query": "cincinnati - dc united",
+      "startedAt": "2026-10-21T22:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "serpiente",
-      "startedAt": "2026-10-21T19:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "josé maría muscari",
-      "startedAt": "2026-10-21T19:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "colegio de arquitectos",
-      "startedAt": "2026-10-21T19:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "real madrid",
-      "startedAt": "2026-10-21T19:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "inter milan",
-      "startedAt": "2026-10-21T19:40:00.000Z",
+      "query": "josé coronado",
+      "startedAt": "2026-10-21T22:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "mercado cambiario",
-      "startedAt": "2026-10-21T19:30:00.000Z",
-      "volume": 500
+      "query": "bernard",
+      "startedAt": "2026-10-21T22:50:00.000Z",
+      "volume": 100
     },
     {
-      "query": "morena beltrán",
-      "startedAt": "2026-10-21T19:30:00.000Z",
+      "query": "seguridad informática",
+      "startedAt": "2026-10-21T22:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "julián weich",
+      "startedAt": "2026-10-21T22:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "bayern",
-      "startedAt": "2026-10-21T19:20:00.000Z",
-      "volume": 2000
+      "query": "cuándo juega estudiantes",
+      "startedAt": "2026-10-21T22:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "suizo argentina",
+      "startedAt": "2026-10-21T22:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "rodrigo garro",
+      "startedAt": "2026-10-21T22:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "detención",
+      "startedAt": "2026-10-21T22:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "dinero",
+      "startedAt": "2026-10-21T22:00:00.000Z",
+      "volume": 200
     }
   ]
 }
