@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-22T07:33:11.396Z",
+  "updatedAt": "2026-10-22T13:12:05.664Z",
   "trends": [
     {
-      "query": "clima san luis",
-      "startedAt": "2026-10-22T04:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "santos - pumas",
-      "startedAt": "2026-10-22T03:50:00.000Z",
+      "query": "ley de discapacidad",
+      "startedAt": "2026-10-22T12:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "walker kessler",
-      "startedAt": "2026-10-22T03:40:00.000Z",
+      "query": "albañil",
+      "startedAt": "2026-10-22T12:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "ty jerome",
-      "startedAt": "2026-10-22T03:20:00.000Z",
+      "query": "entradas u2",
+      "startedAt": "2026-10-22T12:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "ernestina pais",
+      "startedAt": "2026-10-22T12:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "clayface",
-      "startedAt": "2026-10-22T03:10:00.000Z",
-      "volume": 200
+      "query": "milei",
+      "startedAt": "2026-10-22T11:30:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "paulinho",
-      "startedAt": "2026-10-22T03:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "liga mx",
-      "startedAt": "2026-10-22T03:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "davion mitchell",
-      "startedAt": "2026-10-22T03:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ziaire williams",
-      "startedAt": "2026-10-22T02:50:00.000Z",
+      "query": "elena rybakina",
+      "startedAt": "2026-10-22T11:30:00.000Z",
       "volume": 500
     },
     {
-      "query": "pachuca - cruz azul",
-      "startedAt": "2026-10-22T02:50:00.000Z",
-      "volume": 500
+      "query": "accuweather",
+      "startedAt": "2026-10-22T11:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "windy",
+      "startedAt": "2026-10-22T11:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jimena barón",
+      "startedAt": "2026-10-22T11:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "veterano",
+      "startedAt": "2026-10-22T10:40:00.000Z",
+      "volume": 200
     }
   ]
 }
