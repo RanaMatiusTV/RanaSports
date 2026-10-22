@@ -1,6 +1,5 @@
-RADAR 1 — 22/10/2026 18:58 ARG
-Altas verificadas: 6
-Filas: 3685–3690
-Última noticia: DAVO XENEIZE Y NEYMAR INTERCAMBIARON CAMISETAS EN UN ENCUENTRO ESPECIAL
-Estado: verificadas en Google Sheets; pulso de sincronización solicitado
-ID: radar1-20261022-1858-3685-3690
+RADAR 5 — 22/10/2026 20:10 ARG
+Altas verificadas: 0
+Filas: ninguna
+Estado: ejecución completada; escritura de Sheets bloqueada; sincronización solicitada.
+ID: radar5-20261022-2010-2026-10-22T23:09:59.207Z
