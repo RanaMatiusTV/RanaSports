@@ -1,6 +1,6 @@
-RADAR 1 — 22/10/2026 13:05 ARG
-Altas verificadas: 6
-Filas: 3658-3663
-Última noticia: EL BALÓN DE ORO 2026 SE ENTREGARÁ EL LUNES EN LONDRES CON MESSI NOMINADO
-Estado: verificado en Sheets; sincronización solicitada
-ID: radar1-20261022-1305-3658-3663
+RADAR 5 — 22/10/2026 14:10 ARG
+Altas verificadas: 3
+Filas: 3664, 3665, 3666
+Noticias: Argentina-Inglaterra semifinal Powerchair; Instituto 75-73 Lanús; Argentino 84-82 Boca
+Estado: verificadas en Google Sheets; pulso de sincronización solicitado
+ID: radar5-20261022-1410-3664-3666
