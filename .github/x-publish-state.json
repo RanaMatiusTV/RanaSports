@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-y-gasly-protagonizaron-un-video-para-anunciar-la-alianza-de-alpine-con-adobe/": {
+      "account": "f1",
+      "title": "COLAPINTO Y GASLY PROTAGONIZARON UN VIDEO PARA ANUNCIAR LA ALIANZA DE ALPINE CON ADOBE",
+      "dueAt": "2026-10-22T21:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ada6d6ae391db54dafcc372",
+      "createdAt": "2026-10-22T20:09:15.144Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-eligio-a-messi-para-el-balon-de-oro/": {
+      "account": "f1",
+      "title": "COLAPINTO ELIGIÓ A MESSI PARA EL BALÓN DE ORO: “SERÍA MUY LINDO QUE LO VUELVA A GANAR”",
+      "dueAt": "2026-10-22T20:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ada6d6ae391db54dafcc33e",
+      "createdAt": "2026-10-22T20:09:14.758Z"
+    },
+    "https://ranasports.com.ar/futbol/mineiro-espera-recuperar-al-arquero-everson-para-la-final-contra-boca/": {
+      "account": "sports",
+      "title": "MINEIRO ESPERA RECUPERAR AL ARQUERO EVERSON PARA LA FINAL CONTRA BOCA",
+      "dueAt": "2026-10-22T21:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ada6d6ae391db54dafcc315",
+      "createdAt": "2026-10-22T20:09:14.407Z"
+    },
+    "https://ranasports.com.ar/futbol/san-lorenzo-sigue-a-farias-y-sumo-otra-baja/": {
+      "account": "sports",
+      "title": "SAN LORENZO SIGUE A FARÍAS Y SUMÓ OTRA BAJA",
+      "dueAt": "2026-10-22T20:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ada6d699a872e86219fe7ce",
+      "createdAt": "2026-10-22T20:09:13.934Z"
+    },
+    "https://ranasports.com.ar/futbol/patanian-chicaneo-a-boca-desde-el-bernabeu-con-el-9/": {
+      "account": "sports",
+      "title": "PATANIAN CHICANEÓ A BOCA DESDE EL BERNABÉU CON EL 9:12",
+      "dueAt": "2026-10-22T20:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ada6d69e374ecc98223bb67",
+      "createdAt": "2026-10-22T20:09:13.541Z"
+    },
+    "https://ranasports.com.ar/basquet/argentino-de-junin-le-gano-84-82-a-boca-en-la-liga-nacional/": {
+      "account": "sports",
+      "title": "ARGENTINO DE JUNÍN LE GANÓ 84-82 A BOCA EN LA LIGA NACIONAL",
+      "dueAt": "2026-10-22T20:09:09.922Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ada6d6580b62e6575044370",
+      "createdAt": "2026-10-22T20:09:13.070Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-cambio-el-volante-por-las-riendas-en-austin/": {
       "account": "f1",
       "title": "COLAPINTO CAMBIÓ EL VOLANTE POR LAS RIENDAS EN AUSTIN",
@@ -5314,56 +5362,6 @@
       "dueAt": "2026-09-29T15:20:00.000Z",
       "bufferPostId": "6abbd540d379548ba996a62e",
       "createdAt": "2026-09-29T15:12:00.837Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2NzcyNjAwMDAsIlNDQUxPTkkgU0lHVUUgQSBUUkVTIENFTlRSQUxFUyBERUwgRsOaVEJPTCBMT0NBTCBQQVJBIExBIFJFTk9WQUNJw5NOIERFIExBIFNFTEVDQ0nDk04iXQ": {
-      "account": "main",
-      "title": "SCALONI SIGUE A TRES CENTRALES DEL FÚTBOL LOCAL PARA LA RENOVACIÓN DE LA SELECCIÓN",
-      "dueAt": "2026-09-29T15:15:00.000Z",
-      "bufferPostId": "6abbd540366dc407c5f0280c",
-      "createdAt": "2026-09-29T15:12:00.262Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY4MzYyMDAwMCwiQVNUT04gTUFSVElOIENPTkZJUk3DkyBBIEFMT05TTyBZIFNUUk9MTCBQQVJBIExBIFRFTVBPUkFEQSAyMDI3Il0": {
-      "account": "f1",
-      "title": "ASTON MARTIN CONFIRMÓ A ALONSO Y STROLL PARA LA TEMPORADA 2027",
-      "dueAt": "2026-09-29T12:35:00.000Z",
-      "bufferPostId": "6abbae9ca07a12d2d65cd30f",
-      "createdAt": "2026-09-29T12:27:08.334Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104912839274004931",
-      "sentAt": "2026-09-29T12:35:03.194Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY4MTEwMDAwMCwiQ09MQVBJTlRPIEFGUk9OVEFSw4EgRU4gU0VQQU5HIFVOIENJUkNVSVRPIE5VRVZPLCBMTFVWSUEgWSBDSU5DTyBQVUVTVE9TIERFIFNBTkNJw5NOIl0": {
-      "account": "f1",
-      "title": "COLAPINTO AFRONTARÁ EN SEPANG UN CIRCUITO NUEVO, LLUVIA Y CINCO PUESTOS DE SANCIÓN",
-      "dueAt": "2026-09-29T12:30:00.000Z",
-      "bufferPostId": "6abbae9b4561b6e412669486",
-      "createdAt": "2026-09-29T12:27:07.815Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104911589878968660",
-      "sentAt": "2026-09-29T12:30:05.318Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY3Njg0MDAwMCwiQVJWSUQgTElOREJMQUQgVE9Nw5MgQSBWRVJTVEFQUEVOIENPTU8gUkVGRVJFTkNJQSwgUEVSTyBRVUlFUkUgSEFDRVIgU1UgUFJPUElPIENBTUlOTyJd": {
-      "account": "f1",
-      "title": "ARVID LINDBLAD TOMÓ A VERSTAPPEN COMO REFERENCIA, PERO QUIERE HACER SU PROPIO CAMINO",
-      "dueAt": "2026-09-29T11:25:00.000Z",
-      "bufferPostId": "6abb9eb48b8e0389c1a2e201",
-      "createdAt": "2026-09-29T11:19:16.680Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104895219854417933",
-      "sentAt": "2026-09-29T11:25:02.989Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY1MDQ0MDAwMCwiUlVTU0VMTCBQQVJUSVLDgSBERVNERSBFTCBGT05ETyBFTiBNQUxBU0lBIFBPUiBDQU1CSUFSIExBIFVOSURBRCBERSBQT1RFTkNJQSJd": {
-      "account": "f1",
-      "title": "RUSSELL PARTIRÁ DESDE EL FONDO EN MALASIA POR CAMBIAR LA UNIDAD DE POTENCIA",
-      "dueAt": "2026-09-29T04:25:00.000Z",
-      "bufferPostId": "6abb3cadb6b26148958f004d",
-      "createdAt": "2026-09-29T04:21:01.318Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104789522433122518",
-      "sentAt": "2026-09-29T04:25:02.253Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2NDYwMDAwMDAsIlNDQUxPTkkgRU5TQVnDkyBVTiBPTkNFIENPTiBCQVJDTyBZIE5JQ08gUEFaIFBBUkEgRU5GUkVOVEFSIEEgQk9MSVZJQSJd": {
-      "account": "main",
-      "title": "SCALONI ENSAYÓ UN ONCE CON BARCO Y NICO PAZ PARA ENFRENTAR A BOLIVIA",
-      "dueAt": "2026-09-29T04:35:00.000Z",
-      "bufferPostId": "6abb3c9685cca6b1297b8e1f",
-      "createdAt": "2026-09-29T04:20:38.505Z"
     }
   },
   "nextAt": {
