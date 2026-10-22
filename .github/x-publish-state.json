@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-cambio-el-alpine-por-un-caballo-en-la-previa-del-gp-de-estados-unidos/": {
+      "account": "f1",
+      "title": "COLAPINTO CAMBIÓ EL ALPINE POR UN CABALLO EN LA PREVIA DEL GP DE ESTADOS UNIDOS",
+      "dueAt": "2026-10-22T05:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad99642b086d40f57335424",
+      "createdAt": "2026-10-22T04:51:14.458Z"
+    },
+    "https://ranasports.com.ar/f1/la-fia-endurecio-el-control-de-recursos-y-la-medida-podria-afectar-a-alpine/": {
+      "account": "f1",
+      "title": "LA FIA ENDURECIÓ EL CONTROL DE RECURSOS Y LA MEDIDA PODRÍA AFECTAR A ALPINE",
+      "dueAt": "2026-10-22T04:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad996411093844846df6eea",
+      "createdAt": "2026-10-22T04:51:14.005Z"
+    },
+    "https://ranasports.com.ar/futbol/angel-romero-cruzo-a-thiago-mendes/": {
+      "account": "sports",
+      "title": "ÁNGEL ROMERO CRUZÓ A THIAGO MENDES: «ROMPELA AHORA»",
+      "dueAt": "2026-10-22T05:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad99641ecaa6cda04294a06",
+      "createdAt": "2026-10-22T04:51:13.343Z"
+    },
+    "https://ranasports.com.ar/futbol/dominguez-advirtio-sobre-el-poderio-de-boca-antes-de-la-final/": {
+      "account": "sports",
+      "title": "DOMÍNGUEZ ADVIRTIÓ SOBRE EL PODERÍO DE BOCA ANTES DE LA FINAL",
+      "dueAt": "2026-10-22T05:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad9963fecaa6cda042949c7",
+      "createdAt": "2026-10-22T04:51:12.084Z"
+    },
+    "https://ranasports.com.ar/futbol/real-madrid-goleo-4-1-al-leipzig-de-demichelis/": {
+      "account": "sports",
+      "title": "REAL MADRID GOLEÓ 4-1 AL LEIPZIG DE DEMICHELIS",
+      "dueAt": "2026-10-22T04:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad9963aecaa6cda042948d1",
+      "createdAt": "2026-10-22T04:51:06.399Z"
+    },
+    "https://ranasports.com.ar/futbol/inter-gano-con-diez-y-sumo-sus-primeros-puntos-en-la-champions/": {
+      "account": "sports",
+      "title": "INTER GANÓ CON DIEZ Y SUMÓ SUS PRIMEROS PUNTOS EN LA CHAMPIONS",
+      "dueAt": "2026-10-22T04:51:03.320Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ad996371093844846df6cb7",
+      "createdAt": "2026-10-22T04:51:05.433Z"
+    },
     "https://ranasports.com.ar/futbol/talleres-evalua-sancionar-a-matias-galarza-por-sus-elogios-a-boca/": {
       "account": "sports",
       "title": "TALLERES EVALÚA SANCIONAR A MATÍAS GALARZA POR SUS ELOGIOS A BOCA",
@@ -5310,54 +5358,6 @@
       "dueAt": "2026-09-28T18:40:00.000Z",
       "bufferPostId": "6abab36ca0e5aa5ec3b00453",
       "createdAt": "2026-09-28T18:35:24.785Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDU5OTg2MDAwMCwiR0FTTFkgUFVTTyBFTCBSRVNQRVRPIENPTU8gQ09ORElDScOTTiBQQVJBIFNFR1VJUiBDT04gQ09MQVBJTlRPIEVOIEFMUElORSJd": {
-      "account": "f1",
-      "title": "GASLY PUSO EL RESPETO COMO CONDICIÓN PARA SEGUIR CON COLAPINTO EN ALPINE",
-      "dueAt": "2026-09-28T17:15:00.000Z",
-      "bufferPostId": "6aba9f597c19a799daebb1d9",
-      "createdAt": "2026-09-28T17:09:45.888Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104620921994485931",
-      "sentAt": "2026-09-28T17:15:04.688Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2MTEzODAwMDAsIkFSR0VOVElOQSBDT05GSVJNw5MgSE9SQVJJT1MgWSBTRURFUyBQQVJBIExPUyBBTUlTVE9TT1MgQU5URSBCT0xJVklBLCBCVVJLSU5BIEZBU08gWSBCRU7DjU4iXQ": {
-      "account": "main",
-      "title": "ARGENTINA CONFIRMÓ HORARIOS Y SEDES PARA LOS AMISTOSOS ANTE BOLIVIA, BURKINA FASO Y BENÍN",
-      "dueAt": "2026-09-28T17:20:00.000Z",
-      "bufferPostId": "6aba9f410b9d13a08ba9e4dc",
-      "createdAt": "2026-09-28T17:09:21.314Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA1OTU4NDAwMDAsIkxBIFNFTEVDQ0nDk04gVk9MVknDkyBBIEVOVFJFTkFSU0UgRU4gRVpFSVpBIEFOVEVTIERFTCBBTUlTVE9TTyBDT04gQk9MSVZJQSJd": {
-      "account": "main",
-      "title": "LA SELECCIÓN VOLVIÓ A ENTRENARSE EN EZEIZA ANTES DEL AMISTOSO CON BOLIVIA",
-      "dueAt": "2026-09-28T17:15:00.000Z",
-      "bufferPostId": "6aba9f406706f7fb01009f21",
-      "createdAt": "2026-09-28T17:09:20.961Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDU4OTc4MDAwMCwiTk9SUklTIFNFIFJFVFJBQ1TDkyBZIExFIFBJREnDkyBESVNDVUxQQVMgQSBDT0xBUElOVE8gVFJBUyBTVVMgRFVSQVMgQ1LDjVRJQ0FTIl0": {
-      "account": "f1",
-      "title": "NORRIS SE RETRACTÓ Y LE PIDIÓ DISCULPAS A COLAPINTO TRAS SUS DURAS CRÍTICAS",
-      "dueAt": "2026-09-28T11:25:00.000Z",
-      "bufferPostId": "6aba4d183c577104b144f038",
-      "createdAt": "2026-09-28T11:18:48.869Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104532831649100159",
-      "sentAt": "2026-09-28T11:25:02.324Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDU2NTMwMDAwMCwiRUwgS1VOIEFHw5xFUk8gREVGRU5EScOTIEEgQ09MQVBJTlRPIFkgTEUgUkVDTEFNw5MgUkVTUEVUTyBBIEFMUElORSJd": {
-      "account": "f1",
-      "title": "EL KUN AGÜERO DEFENDIÓ A COLAPINTO Y LE RECLAMÓ RESPETO A ALPINE",
-      "dueAt": "2026-09-28T11:20:00.000Z",
-      "bufferPostId": "6aba4d1887cd1a55c66c42e8",
-      "createdAt": "2026-09-28T11:18:48.141Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104531572317618597",
-      "sentAt": "2026-09-28T11:20:02.138Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA1ODU3NjAwMDAsIkFSR0VOVElOQSBWVUVMVkUgQSBFTlRSRU5BUlNFIFkgQUJSRSBNRURJQSBIT1JBIERFIExBIFBSw4FDVElDQSBBTlRFUyBERSBCT0xJVklBIl0": {
-      "account": "main",
-      "title": "ARGENTINA VUELVE A ENTRENARSE Y ABRE MEDIA HORA DE LA PRÁCTICA ANTES DE BOLIVIA",
-      "dueAt": "2026-09-28T09:30:00.000Z",
-      "bufferPostId": "6aba320661ba3934e432022d",
-      "createdAt": "2026-09-28T09:23:18.665Z"
     }
   },
   "nextAt": {
