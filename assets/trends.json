@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-22T01:52:01.495Z",
+  "updatedAt": "2026-10-22T07:33:11.396Z",
   "trends": [
     {
-      "query": "toluca - tijuana",
-      "startedAt": "2026-10-22T01:30:00.000Z",
+      "query": "clima san luis",
+      "startedAt": "2026-10-22T04:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "santos - pumas",
+      "startedAt": "2026-10-22T03:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "puebla - monterrey",
-      "startedAt": "2026-10-22T01:20:00.000Z",
+      "query": "walker kessler",
+      "startedAt": "2026-10-22T03:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "maxi iglesias",
-      "startedAt": "2026-10-22T01:20:00.000Z",
+      "query": "ty jerome",
+      "startedAt": "2026-10-22T03:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "lakers - warriors",
-      "startedAt": "2026-10-22T01:10:00.000Z",
+      "query": "clayface",
+      "startedAt": "2026-10-22T03:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "paulinho",
+      "startedAt": "2026-10-22T03:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "liga mx",
+      "startedAt": "2026-10-22T03:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "davion mitchell",
+      "startedAt": "2026-10-22T03:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "ziaire williams",
+      "startedAt": "2026-10-22T02:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "atlas - américa",
-      "startedAt": "2026-10-22T01:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "libertadores femenina",
-      "startedAt": "2026-10-22T01:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "belgrano femenino",
-      "startedAt": "2026-10-22T01:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "santa fe - jaguares",
-      "startedAt": "2026-10-22T00:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "thiago silva",
-      "startedAt": "2026-10-22T00:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "el preferido de palermo",
-      "startedAt": "2026-10-22T00:40:00.000Z",
+      "query": "pachuca - cruz azul",
+      "startedAt": "2026-10-22T02:50:00.000Z",
       "volume": 500
     }
   ]
