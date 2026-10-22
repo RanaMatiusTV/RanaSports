@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-21T23:17:41.882Z",
+  "updatedAt": "2026-10-22T01:52:01.495Z",
   "trends": [
     {
-      "query": "cincinnati - dc united",
-      "startedAt": "2026-10-21T22:50:00.000Z",
+      "query": "toluca - tijuana",
+      "startedAt": "2026-10-22T01:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "puebla - monterrey",
+      "startedAt": "2026-10-22T01:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "josé coronado",
-      "startedAt": "2026-10-21T22:50:00.000Z",
+      "query": "maxi iglesias",
+      "startedAt": "2026-10-22T01:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "lakers - warriors",
+      "startedAt": "2026-10-22T01:10:00.000Z",
       "volume": 500
     },
     {
-      "query": "bernard",
-      "startedAt": "2026-10-21T22:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "seguridad informática",
-      "startedAt": "2026-10-21T22:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "julián weich",
-      "startedAt": "2026-10-21T22:30:00.000Z",
+      "query": "atlas - américa",
+      "startedAt": "2026-10-22T01:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "cuándo juega estudiantes",
-      "startedAt": "2026-10-21T22:20:00.000Z",
+      "query": "libertadores femenina",
+      "startedAt": "2026-10-22T01:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "suizo argentina",
-      "startedAt": "2026-10-21T22:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "rodrigo garro",
-      "startedAt": "2026-10-21T22:10:00.000Z",
+      "query": "belgrano femenino",
+      "startedAt": "2026-10-22T01:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "detención",
-      "startedAt": "2026-10-21T22:10:00.000Z",
-      "volume": 100
+      "query": "santa fe - jaguares",
+      "startedAt": "2026-10-22T00:50:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "dinero",
-      "startedAt": "2026-10-21T22:00:00.000Z",
+      "query": "thiago silva",
+      "startedAt": "2026-10-22T00:50:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "el preferido de palermo",
+      "startedAt": "2026-10-22T00:40:00.000Z",
+      "volume": 500
     }
   ]
 }
