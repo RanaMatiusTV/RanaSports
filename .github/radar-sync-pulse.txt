@@ -1,5 +1,5 @@
-RADAR 5 — 21/10/2026 20:10 ARG
-Altas verificadas: 0
-Filas: ninguna
-Estado: escritura bloqueada; sincronización solicitada
-ID: radar5-20261021-2010-cero-altas
+RADAR 1 — 21/10/2026 21:07 ARG
+Altas verificadas: 6
+Filas: 3611-3616
+Última noticia: BRUNO FERNANDES CUESTIONÓ EL PLANTEO DEL UNITED TRAS EL 1-4 ANTE COMO
+ID: radar1-20261021-2107-6-altas
