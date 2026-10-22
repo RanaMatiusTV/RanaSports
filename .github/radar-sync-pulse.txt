@@ -1,6 +1,6 @@
-RADAR 1 — 22/10/2026 15:07 ARG
+RADAR 1 — 22/10/2026 17:08 ARG
 Altas verificadas: 6
-Filas: 3667–3672
-Última noticia: CERRO PORTEÑO SANCIONÓ A ALISEDA POR JUGAR AL PÁDEL
+Filas: 3677–3682
+Última noticia: ESTADOS UNIDOS SERÁ SEDE DEL PRIMER MUNDIAL DE CLUBES FEMENINO EN 2028
 Estado: verificadas en Google Sheets; pulso de sincronización solicitado
-ID: radar1-20261022-1507-3667-3672
+ID: radar1-20261022-1708-3677-3682
