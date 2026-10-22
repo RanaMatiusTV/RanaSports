@@ -1,5 +1,6 @@
-RADAR 5 — 22/10/2026 12:10 ARG
-Altas verificadas: 3
-Filas: 3655-3657
-Estado: verificado en Sheets; sincronizacion solicitada
-ID: radar5-20261022-1210-3655-3657
+RADAR 1 — 22/10/2026 13:05 ARG
+Altas verificadas: 6
+Filas: 3658-3663
+Última noticia: EL BALÓN DE ORO 2026 SE ENTREGARÁ EL LUNES EN LONDRES CON MESSI NOMINADO
+Estado: verificado en Sheets; sincronización solicitada
+ID: radar1-20261022-1305-3658-3663
