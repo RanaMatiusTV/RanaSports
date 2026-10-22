@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-cambio-el-volante-por-las-riendas-en-austin/": {
+      "account": "f1",
+      "title": "COLAPINTO CAMBIÓ EL VOLANTE POR LAS RIENDAS EN AUSTIN",
+      "dueAt": "2026-10-22T16:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ada2a07f09f431dcae5fe7b",
+      "createdAt": "2026-10-22T15:21:43.274Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-ya-tiene-horarios-para-salir-a-pista-en-austin/": {
+      "account": "f1",
+      "title": "COLAPINTO YA TIENE HORARIOS PARA SALIR A PISTA EN AUSTIN",
+      "dueAt": "2026-10-22T15:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ada2a06eb1348c17ac71782",
+      "createdAt": "2026-10-22T15:21:42.291Z"
+    },
+    "https://ranasports.com.ar/futbol/abel-ferreira-supero-una-marca-de-bianchi-y-se-acerca-a-gallardo/": {
+      "account": "sports",
+      "title": "ABEL FERREIRA SUPERÓ UNA MARCA DE BIANCHI Y SE ACERCA A GALLARDO",
+      "dueAt": "2026-10-22T16:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ada2a051cc831fdc3c4fd18",
+      "createdAt": "2026-10-22T15:21:41.431Z"
+    },
+    "https://ranasports.com.ar/futbol/un-titulo-de-boca-podria-abrirle-a-river-la-libertadores-2027/": {
+      "account": "sports",
+      "title": "UN TÍTULO DE BOCA PODRÍA ABRIRLE A RIVER LA LIBERTADORES 2027",
+      "dueAt": "2026-10-22T15:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ada2a04f09f431dcae5fdc4",
+      "createdAt": "2026-10-22T15:21:41.098Z"
+    },
+    "https://ranasports.com.ar/futbol/atletico-mineiro-perdio-a-alan-franco-para-la-final-con-boca/": {
+      "account": "sports",
+      "title": "ATLÉTICO MINEIRO PERDIÓ A ALAN FRANCO PARA LA FINAL CON BOCA",
+      "dueAt": "2026-10-22T15:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ada2a04bf6d801ac6f48495",
+      "createdAt": "2026-10-22T15:21:40.631Z"
+    },
+    "https://ranasports.com.ar/futbol/lucas-beltran-le-gano-la-pulseada-a-driussi-en-river/": {
+      "account": "sports",
+      "title": "LUCAS BELTRÁN LE GANÓ LA PULSEADA A DRIUSSI EN RIVER",
+      "dueAt": "2026-10-22T15:21:37.653Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ada2a01a6a09108d2722a17",
+      "createdAt": "2026-10-22T15:21:39.797Z"
+    },
     "https://ranasports.com.ar/rugby/los-pumas-citaron-a-33-jugadores-para-londres-y-moroni-quedo-fuera/": {
       "account": "sports",
       "title": "LOS PUMAS CITARON A 33 JUGADORES PARA LONDRES Y MORONI QUEDÓ FUERA",
@@ -5316,50 +5364,6 @@
       "dueAt": "2026-09-29T04:35:00.000Z",
       "bufferPostId": "6abb3c9685cca6b1297b8e1f",
       "createdAt": "2026-09-29T04:20:38.505Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNjQ0ODAwMDAwLCJJTkRFUEVORElFTlRFIEZJSsOTIFNVUyBFTEVDQ0lPTkVTIFBBUkEgRUwgMTMgREUgRElDSUVNQlJFIl0": {
-      "account": "main",
-      "title": "INDEPENDIENTE FIJÓ SUS ELECCIONES PARA EL 13 DE DICIEMBRE",
-      "dueAt": "2026-09-29T04:30:00.000Z",
-      "bufferPostId": "6abb3c9585cca6b1297b8df1",
-      "createdAt": "2026-09-29T04:20:37.573Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNjQ0NjIwMDAwLCJRVUlRVUUgU0FDQ08gTEFOWsOTIFNVIENBTkRJREFUVVJBIEEgUFJFU0lERU5URSBERSBJTkRFUEVORElFTlRFIl0": {
-      "account": "main",
-      "title": "QUIQUE SACCO LANZÓ SU CANDIDATURA A PRESIDENTE DE INDEPENDIENTE",
-      "dueAt": "2026-09-29T04:25:00.000Z",
-      "bufferPostId": "6abb3c94b6b26148958ef88d",
-      "createdAt": "2026-09-29T04:20:36.941Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2MzM4ODAwMDAsIkFGQSBDT05GSVJNw5MgTEEgVEVSTkEgQ09MT01CSUFOQSBQQVJBIEFSR0VOVElOQS1CT0xJVklBIl0": {
-      "account": "main",
-      "title": "AFA CONFIRMÓ LA TERNA COLOMBIANA PARA ARGENTINA-BOLIVIA",
-      "dueAt": "2026-09-28T23:30:00.000Z",
-      "bufferPostId": "6abaf72dc5484f9414a406bf",
-      "createdAt": "2026-09-28T23:24:29.257Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDYyNjI2MDAwMCwiQUxQSU5FIFNVTcOTIEEgREFOSUlMIEtWWUFUIEFMIFRSQUJBSk8gREUgU0lNVUxBRE9SIFBBUkEgQVlVREFSIEEgQ09MQVBJTlRPIFkgR0FTTFkiXQ": {
-      "account": "f1",
-      "title": "ALPINE SUMÓ A DANIIL KVYAT AL TRABAJO DE SIMULADOR PARA AYUDAR A COLAPINTO Y GASLY",
-      "dueAt": "2026-09-28T22:20:00.000Z",
-      "bufferPostId": "6abae6f785cca6b129713318",
-      "createdAt": "2026-09-28T22:15:19.578Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104697667515191433",
-      "sentAt": "2026-09-28T22:20:02.281Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2MzE2MDAwMDAsIkxBIFNFTEVDQ0nDk04gVk9MVknDkyBBIEVOVFJFTkFSU0UgWSBUQUdMSUFGSUNPIFkgVEhJQUdPIEFMTUFEQSBUUkFCQUpBUk9OIEFQQVJURSJd": {
-      "account": "main",
-      "title": "LA SELECCIÓN VOLVIÓ A ENTRENARSE Y TAGLIAFICO Y THIAGO ALMADA TRABAJARON APARTE",
-      "dueAt": "2026-09-28T22:35:00.000Z",
-      "bufferPostId": "6abae6dc85cca6b129712efb",
-      "createdAt": "2026-09-28T22:14:52.217Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNjMwMjgwMDAwLCJFTCBUQVMgRkFMTMOTIENPTlRSQSBJTkRFUEVORElFTlRFIFkgTEUgT1JERU7DkyBQQUdBUiBDQVNJIFVTJCAyLDkgTUlMTE9ORVMgUE9SIExPTcOTTkFDTyJd": {
-      "account": "main",
-      "title": "EL TAS FALLÓ CONTRA INDEPENDIENTE Y LE ORDENÓ PAGAR CASI US$ 2,9 MILLONES POR LOMÓNACO",
-      "dueAt": "2026-09-28T22:30:00.000Z",
-      "bufferPostId": "6abae6dbc5484f9414a22e76",
-      "createdAt": "2026-09-28T22:14:51.343Z"
     }
   },
   "nextAt": {
