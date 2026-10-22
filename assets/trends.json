@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-22T17:58:20.504Z",
+  "updatedAt": "2026-10-22T21:34:00.540Z",
   "trends": [
     {
-      "query": "incendio",
-      "startedAt": "2026-10-22T17:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "maxi iglesias",
-      "startedAt": "2026-10-22T17:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "importación",
-      "startedAt": "2026-10-22T17:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "dinamo zagreb",
-      "startedAt": "2026-10-22T17:30:00.000Z",
+      "query": "dengue",
+      "startedAt": "2026-10-22T21:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "juventus vs",
-      "startedAt": "2026-10-22T17:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "uefa europa league",
-      "startedAt": "2026-10-22T17:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "inflación",
-      "startedAt": "2026-10-22T17:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "brighton",
-      "startedAt": "2026-10-22T17:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ea cierra bioware",
-      "startedAt": "2026-10-22T17:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "juventus",
-      "startedAt": "2026-10-22T17:00:00.000Z",
+      "query": "paso de la patria",
+      "startedAt": "2026-10-22T21:10:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "ejecución",
+      "startedAt": "2026-10-22T21:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "leonor de borbón",
+      "startedAt": "2026-10-22T21:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "ajax",
+      "startedAt": "2026-10-22T20:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "a qué hora juega estudiantes",
+      "startedAt": "2026-10-22T20:30:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "dólar ámbito",
+      "startedAt": "2026-10-22T20:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "río neuquén",
+      "startedAt": "2026-10-22T20:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "tom skerritt",
+      "startedAt": "2026-10-22T20:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "parque camba cua",
+      "startedAt": "2026-10-22T20:10:00.000Z",
+      "volume": 200
     }
   ]
 }
