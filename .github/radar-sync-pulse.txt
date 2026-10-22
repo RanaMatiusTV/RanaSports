@@ -1,6 +1,6 @@
-RADAR 5 — 22/10/2026 14:10 ARG
-Altas verificadas: 3
-Filas: 3664, 3665, 3666
-Noticias: Argentina-Inglaterra semifinal Powerchair; Instituto 75-73 Lanús; Argentino 84-82 Boca
+RADAR 1 — 22/10/2026 15:07 ARG
+Altas verificadas: 6
+Filas: 3667–3672
+Última noticia: CERRO PORTEÑO SANCIONÓ A ALISEDA POR JUGAR AL PÁDEL
 Estado: verificadas en Google Sheets; pulso de sincronización solicitado
-ID: radar5-20261022-1410-3664-3666
+ID: radar1-20261022-1507-3667-3672
