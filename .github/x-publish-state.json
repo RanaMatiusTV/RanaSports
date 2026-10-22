@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/rugby/los-pumas-citaron-a-33-jugadores-para-londres-y-moroni-quedo-fuera/": {
+      "account": "sports",
+      "title": "LOS PUMAS CITARON A 33 JUGADORES PARA LONDRES Y MORONI QUEDÓ FUERA",
+      "dueAt": "2026-10-22T11:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad9e1d64187d54841a40b7c",
+      "createdAt": "2026-10-22T10:13:42.597Z"
+    },
+    "https://ranasports.com.ar/futbol/atletico-mineiro-resistio-en-montevideo-y-sera-el-rival-de-boca-en-la-final/": {
+      "account": "sports",
+      "title": "ATLÉTICO MINEIRO RESISTIÓ EN MONTEVIDEO Y SERÁ EL RIVAL DE BOCA EN LA FINAL",
+      "dueAt": "2026-10-22T10:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad9e1d6194287d6a1f22681",
+      "createdAt": "2026-10-22T10:13:42.098Z"
+    },
+    "https://ranasports.com.ar/futbol/palmeiras-elimino-a-fluminense-por-penales-y-es-finalista-de-la-libertadores/": {
+      "account": "sports",
+      "title": "PALMEIRAS ELIMINÓ A FLUMINENSE POR PENALES Y ES FINALISTA DE LA LIBERTADORES",
+      "dueAt": "2026-10-22T10:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ad9e1d5194287d6a1f22651",
+      "createdAt": "2026-10-22T10:13:41.415Z"
+    },
+    "https://ranasports.com.ar/polo/la-hache-gano-30-11-y-empato-un-record-de-41-goles-en-tortugas/": {
+      "account": "sports",
+      "title": "LA HACHE GANÓ 30-11 Y EMPATÓ UN RÉCORD DE 41 GOLES EN TORTUGAS",
+      "dueAt": "2026-10-22T10:13:37.870Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ad9e1d11ddfbd0b4bdc57df",
+      "createdAt": "2026-10-22T10:13:40.062Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-cambio-el-alpine-por-un-caballo-en-la-previa-del-gp-de-estados-unidos/": {
       "account": "f1",
       "title": "COLAPINTO CAMBIÓ EL ALPINE POR UN CABALLO EN LA PREVIA DEL GP DE ESTADOS UNIDOS",
@@ -5328,36 +5360,6 @@
       "dueAt": "2026-09-28T22:30:00.000Z",
       "bufferPostId": "6abae6dbc5484f9414a22e76",
       "createdAt": "2026-09-28T22:14:51.343Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2Mjk4NjAwMDAsIkJVUktJTkEgRkFTTyBHQU7DkyAxLTAgQU5URVMgREVMIEFNSVNUT1NPIENPTiBMQSBTRUxFQ0NJw5NOIEFSR0VOVElOQSJd": {
-      "account": "main",
-      "title": "BURKINA FASO GANÓ 1-0 ANTES DEL AMISTOSO CON LA SELECCIÓN ARGENTINA",
-      "dueAt": "2026-09-28T22:25:00.000Z",
-      "bufferPostId": "6abae6da85cca6b129712eae",
-      "createdAt": "2026-09-28T22:14:50.568Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA2MjY2MjAwMDAsIlBMQUNFTlRFIEVYUExJQ8OTIExBIENPTlZPQ0FUT1JJQSBERSBLSUtJIFJBTU9TIEEgTEEgU0VMRUNDScOTTiBTVUItMTciXQ": {
-      "account": "main",
-      "title": "PLACENTE EXPLICÓ LA CONVOCATORIA DE KIKI RAMOS A LA SELECCIÓN SUB-17",
-      "dueAt": "2026-09-28T22:20:00.000Z",
-      "bufferPostId": "6abae6d97889d8281c1ec43d",
-      "createdAt": "2026-09-28T22:14:49.811Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDYyMzM4MDAwMCwiQUxQSU5FIFZPTFZJw5MgQSBSRVNQQUxEQVIgQSBDT0xBUElOVE8gWSBMTyBQVVNPIEFMIEZSRU5URSBERUwgQU5VTkNJTyBQQVJBIE1BTEFTSUEiXQ": {
-      "account": "f1",
-      "title": "ALPINE VOLVIÓ A RESPALDAR A COLAPINTO Y LO PUSO AL FRENTE DEL ANUNCIO PARA MALASIA",
-      "dueAt": "2026-09-28T21:25:00.000Z",
-      "bufferPostId": "6abada34320ca548b4cdb742",
-      "createdAt": "2026-09-28T21:20:52.640Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104683824781169076",
-      "sentAt": "2026-09-28T21:25:01.968Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNjE0NzQwMDAwLCJBUlJBWUFHTyBQT0RSw41BIEpVR0FSIEFOVEUgSU5TVElUVVRPOyBaQUJBTEEgWSBFTCBDSElNWSDDgVZJTEEgU0lHVUVOIEVOIERVREEiXQ": {
-      "account": "main",
-      "title": "ARRAYAGO PODRÍA JUGAR ANTE INSTITUTO; ZABALA Y EL CHIMY ÁVILA SIGUEN EN DUDA",
-      "dueAt": "2026-09-28T18:40:00.000Z",
-      "bufferPostId": "6abab36ca0e5aa5ec3b00453",
-      "createdAt": "2026-09-28T18:35:24.785Z"
     }
   },
   "nextAt": {
