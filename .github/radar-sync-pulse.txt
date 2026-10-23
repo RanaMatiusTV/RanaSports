@@ -1,6 +1,5 @@
-RADAR 1 — 22/10/2026 21:03 ARG
-Altas verificadas: 6
-Filas: Noticias!3691:3696
-Última noticia: MAIGNAN VIO LA ROJA POR UN MANOTAZO Y MILAN FUE GOLEADO POR BOURNEMOUTH
-Estado: publicación en Sheets verificada; sincronización solicitada.
-ID: radar1-20261022-2103
+RADAR 5 — 22/10/2026, 22:16:20 ARG
+Altas verificadas: 2
+Filas: Noticias!3697:3698
+Estado: dos noticias escritas y verificadas en Sheets; otras candidatas bloqueadas; sincronización solicitada.
+ID: radar5-20261022-2210-1792718180586
