@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-entro-al-paddock-de-austin-sobre-una-motogp-y-se-robo-todas-las-miradas/": {
+      "account": "f1",
+      "title": "COLAPINTO ENTRÓ AL PADDOCK DE AUSTIN SOBRE UNA MOTOGP Y SE ROBÓ TODAS LAS MIRADAS",
+      "dueAt": "2026-10-23T16:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adb77f47af932dee4e83302",
+      "createdAt": "2026-10-23T15:06:28.761Z"
+    },
+    "https://ranasports.com.ar/f1/la-fia-aprobo-una-norma-que-podria-afectar-la-estructura-de-alpine/": {
+      "account": "f1",
+      "title": "LA FIA APROBÓ UNA NORMA QUE PODRÍA AFECTAR LA ESTRUCTURA DE ALPINE",
+      "dueAt": "2026-10-23T15:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adb77f391ffb6bdb08e3e51",
+      "createdAt": "2026-10-23T15:06:27.811Z"
+    },
+    "https://ranasports.com.ar/futbol/la-prensa-brasilena-califico-de-vergonzosa-la-eliminacion-de-flamengo/": {
+      "account": "sports",
+      "title": "LA PRENSA BRASILEÑA CALIFICÓ DE “VERGONZOSA” LA ELIMINACIÓN DE FLAMENGO",
+      "dueAt": "2026-10-23T16:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adb77f36bf37011a3800c00",
+      "createdAt": "2026-10-23T15:06:27.472Z"
+    },
+    "https://ranasports.com.ar/futbol/leo-pereira-respondio-a-las-criticas-tras-la-eliminacion-de-flamengo/": {
+      "account": "sports",
+      "title": "LÉO PEREIRA RESPONDIÓ A LAS CRÍTICAS TRAS LA ELIMINACIÓN DE FLAMENGO",
+      "dueAt": "2026-10-23T15:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adb77f2ce9fbd2e3b52d1f9",
+      "createdAt": "2026-10-23T15:06:27.061Z"
+    },
+    "https://ranasports.com.ar/futbol/viera-evalua-cambiar-el-esquema-de-independiente-para-recibir-a-boca-20261023-0900/": {
+      "account": "main",
+      "title": "VIERA EVALÚA CAMBIAR EL ESQUEMA DE INDEPENDIENTE PARA RECIBIR A BOCA",
+      "dueAt": "2026-10-23T15:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adb77f26fe59a6ed27ea34a",
+      "createdAt": "2026-10-23T15:06:26.615Z"
+    },
+    "https://ranasports.com.ar/boca/boca-incorporo-a-franco-gayoso-como-entrenador-de-arqueros-de-las-infantiles/": {
+      "account": "sports",
+      "title": "BOCA INCORPORÓ A FRANCO GAYOSO COMO ENTRENADOR DE ARQUEROS DE LAS INFANTILES",
+      "dueAt": "2026-10-23T15:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adb77f16bf37011a3800b78",
+      "createdAt": "2026-10-23T15:06:25.928Z"
+    },
     "https://ranasports.com.ar/futbol/tigre-y-atletico-tucuman-juegan-una-final-anticipada-por-la-clasificacion/": {
       "account": "sports",
       "title": "TIGRE Y ATLÉTICO TUCUMÁN JUEGAN UNA FINAL ANTICIPADA POR LA CLASIFICACIÓN",
@@ -5325,56 +5373,6 @@
       "createdAt": "2026-09-30T10:30:00.903Z",
       "externalLink": "https://x.com/2095690134515572737/status/2105245024996806998",
       "sentAt": "2026-09-30T10:35:02.460Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3NjI0MDAwMDAsIkFSR0VOVElOQSBSRUNJQkUgQSBCT0xJVklBIEEgTEFTIDIxIEVOIEVMIE1BUklPIEFMQkVSVE8gS0VNUEVTIl0": {
-      "account": "main",
-      "title": "ARGENTINA RECIBE A BOLIVIA A LAS 21 EN EL MARIO ALBERTO KEMPES",
-      "dueAt": "2026-09-30T10:50:00.000Z",
-      "bufferPostId": "6abce492358fc4e7d0067c69",
-      "createdAt": "2026-09-30T10:29:38.607Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105248798406533302",
-      "sentAt": "2026-09-30T10:50:02.095Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3NDg5NjAwMDAsIk1BUkNFTE8gRVNQSU5BIFBST1BVU08gQSBFTlpPIEZFUk7DgU5ERVogQ09NTyBIRVJFREVSTyBERSBMQSBDQU1JU0VUQSAxMCJd": {
-      "account": "main",
-      "title": "MARCELO ESPINA PROPUSO A ENZO FERNÁNDEZ COMO HEREDERO DE LA CAMISETA 10",
-      "dueAt": "2026-09-30T10:45:00.000Z",
-      "bufferPostId": "6abce49147bbf23a57cb70c6",
-      "createdAt": "2026-09-30T10:29:37.779Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105247547501523150",
-      "sentAt": "2026-09-30T10:45:03.837Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3NDg5NjAwMDAsIlNDQUxPTkkgQ09NUEFSw5MgRUwgTlVFVk8gUkVDQU1CSU8gQ09OIFNVIFBSSU1FUkEgTElTVEEgREUgMjAxOCJd": {
-      "account": "main",
-      "title": "SCALONI COMPARÓ EL NUEVO RECAMBIO CON SU PRIMERA LISTA DE 2018",
-      "dueAt": "2026-09-30T10:40:00.000Z",
-      "bufferPostId": "6abce4903decf0eacd5840df",
-      "createdAt": "2026-09-30T10:29:37.011Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105246282646159431",
-      "sentAt": "2026-09-30T10:40:02.427Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3MzcyNjAwMDAsIkPDk1JET0JBIFJFQ0lCScOTIEEgQ1VUSSBST01FUk8gQ09NTyBOVUVWTyBDQVBJVMOBTiBDT04gVU4gTVVSQUwgR0lHQU5URSJd": {
-      "account": "main",
-      "title": "CÓRDOBA RECIBIÓ A CUTI ROMERO COMO NUEVO CAPITÁN CON UN MURAL GIGANTE",
-      "dueAt": "2026-09-30T10:35:00.000Z",
-      "bufferPostId": "6abce48f358fc4e7d0067bfb",
-      "createdAt": "2026-09-30T10:29:36.171Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3MjkxNjAwMDAsIkxBIFNFTEVDQ0nDk04gTExFR8OTIEEgQ8OTUkRPQkEgWSBTVVMgUkVGRVJFTlRFUyBTRSBBQ0VSQ0FST04gQSBMT1MgSElOQ0hBUyJd": {
-      "account": "main",
-      "title": "LA SELECCIÓN LLEGÓ A CÓRDOBA Y SUS REFERENTES SE ACERCARON A LOS HINCHAS",
-      "dueAt": "2026-09-30T02:15:00.000Z",
-      "bufferPostId": "6abc7009f3db08ac9270399c",
-      "createdAt": "2026-09-30T02:12:25.577Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkwNzE4NjAwMDAwLCJOSUNPIFZBUlJPTkUgVk9MVkVSw4EgQSBDT01QRVRJUiBFTiBQRVRJVCBMRSBNQU5TIFRSQVMgU1UgU0FMSURBIERFIEYyIl0": {
-      "account": "f1",
-      "title": "NICO VARRONE VOLVERÁ A COMPETIR EN PETIT LE MANS TRAS SU SALIDA DE F2",
-      "dueAt": "2026-09-30T00:35:00.000Z",
-      "bufferPostId": "6abc5884d3050be9e37b0b43",
-      "createdAt": "2026-09-30T00:32:04.504Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2105094027896836285",
-      "sentAt": "2026-09-30T00:35:01.978Z"
     }
   },
   "nextAt": {
