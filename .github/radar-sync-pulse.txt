@@ -1,8 +1,8 @@
-RADAR 5 — 23/10/2026, 12:10 ARG
-Corrida: 2026-10-23 12:10 America/Argentina/Buenos_Aires
-Altas verificadas: 3
-Filas: Noticias!3738:3740
-Noticias: PAQUETÁ LLORÓ AL RECORDAR EL PENAL QUE LE ATAJÓ MUSLERA ANTE ESTUDIANTES | ANÍBAL MORENO ACOMPAÑÓ A UN HINCHA DE RIVER QUE RECIBIÓ EL ALTA EN EL GARRAHAN | BALTASAR RODRÍGUEZ GENERÓ ENOJO EN RACING CON UN POSTEO TRAS LA CLASIFICACIÓN DE ESTUDIANTES
-Estado: tres altas escritas y releídas en Google Sheets; solicitar actualización del CSV mediante workflow existente.
-Antiduplicados: descartados Viera cambia esquema, norma FIA Alpine y repercusión Mundial de Clubes 2029, ya publicados; no se tocaron noticias existentes ni R=TRUE.
-ID: radar5-20261023-1210-3738-3740-3
+RADAR 1 — 23/10/2026, 13:00 ARG
+Corrida: 2026-10-23 13:00 America/Argentina/Buenos_Aires
+Altas verificadas: 6
+Filas: Noticias!3741:3746
+Noticias: BOCA INCORPORÓ A FRANCO GAYOSO COMO ENTRENADOR DE ARQUEROS EN INFERIORES | ALEXIS MESSIDORO, DE PROMESA DE BOCA A FIGURA DEL FÚTBOL DE INDONESIA | COLAPINTO ABRE SU ACTIVIDAD EN AUSTIN CON DOS PRÁCTICAS LIBRES | FAUSTO VERA SE PERDERÁ EL SUPERCLÁSICO Y RIVER EVALÚA SU FUTURO | JUVENTUS VOLVIÓ A APUNTAR A TAGLIAFICO PARA EL MERCADO DE ENERO | MESSI PIDIÓ QUE LOS PADRES NO PRESIONEN A LOS CHICOS QUE JUEGAN AL FÚTBOL
+Estado: seis altas escritas, imágenes verificadas y filas releídas en Google Sheets; solicitar actualización del CSV mediante workflow existente.
+R: nuevas filas FALSE; registros TRUE intactos.
+ID: radar1-20261023-1300-3741-3746-6
