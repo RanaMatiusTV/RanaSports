@@ -1,8 +1,9 @@
-RADAR 1 — 23/10/2026, 09:00 ARG
-Corrida: 2026-10-23 09:00 America/Argentina/Buenos_Aires
-Altas verificadas: 6
-Filas: Noticias!3724:3729
-Última noticia: JONÁS MISZCZUK DEBUTÓ EN LA RESERVA DE RIVER DESPUÉS DE SUPERAR DOS GRAVES LESIONES
-Estado: seis altas escritas y releídas en Google Sheets; pulso único de sincronización enviado.
-Antiduplicados: cinco hechos ya publicados fueron descartados; no se modificaron noticias previas ni filas con R=TRUE.
-ID: radar1-20261023-0900-3724-3729-6
+RADAR 5 — 23/10/2026, 10:10 ARG
+Corrida: 2026-10-23 10:10 America/Argentina/Buenos_Aires
+Pulso generado: 23/10/2026, 10:11:28 ARG
+Altas verificadas: 2
+Filas: Noticias!3730, Noticias!3731
+Títulos: VERÓN PIDIÓ MEJORAR EL FÚTBOL ARGENTINO TRAS LA CLASIFICACIÓN DE ESTUDIANTES | ESTUDIANTES YA ASEGURÓ US$ 15,93 MILLONES POR LLEGAR A LA FINAL DE LA LIBERTADORES
+Estado: dos altas escritas y releídas en Google Sheets; sincronización solicitada, CSV por verificar.
+Antiduplicados: descartados Aranda/Bareiro, Antonelli en Austin, Colapinto en MotoGP, alfajores y otras notas ya publicadas. No se modificaron noticias previas.
+ID: radar5-20261023-1010-3730-3731-2
