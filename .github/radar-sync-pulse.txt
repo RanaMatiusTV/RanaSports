@@ -1,5 +1,6 @@
-RADAR 5 — 22/10/2026, 22:16:20 ARG
-Altas verificadas: 2
-Filas: Noticias!3697:3698
-Estado: dos noticias escritas y verificadas en Sheets; otras candidatas bloqueadas; sincronización solicitada.
-ID: radar5-20261022-2210-1792718180586
+RADAR 1 — 22/10/2026, 23:01:27 ARG
+Altas verificadas: 6
+Filas: Noticias!3699:3704
+Última noticia: ATLÉTICO MINEIRO YA MIDE EL IMPACTO DE LA HINCHADA DE BOCA PARA LA FINAL
+Estado: seis noticias escritas y verificadas en Sheets; sincronización solicitada.
+ID: radar1-20261022-2301
