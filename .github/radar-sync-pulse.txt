@@ -1,7 +1,8 @@
-RADAR 5 — Actualidad Inmediata
-Ejecución: 2026-10-23T14:10:32-03:00
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-23T15:05:00-03:00
 Zona horaria: America/Argentina/Buenos_Aires
-Altas verificadas: 4
-Filas: 3747, 3748, 3749, 3750
+Altas verificadas: 6
+Filas: 3751, 3752, 3753, 3754, 3755, 3756
+Última noticia: LOS 27 PUNTOS DE COLAPINTO REPRESENTAN CASI EL 40% DEL TOTAL DE ALPINE
 Estado: SHEETS_VERIFICADO; PULSO_GITHUB; CSV_PENDIENTE_COMPROBACION
-Identificador: radar5-20261023-141032-3747-3750
+Identificador: radar1-20261023-150500-3751-3756
