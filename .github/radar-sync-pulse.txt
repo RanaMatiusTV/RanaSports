@@ -1,8 +1,8 @@
-RADAR 1 — 23/10/2026, 11:00 ARG
-Corrida: 2026-10-23 11:00 America/Argentina/Buenos_Aires
-Altas verificadas: 6
-Filas: Noticias!3732:3737
-Última noticia: OKLAHOMA CITY VENCIÓ A DENVER Y CORTÓ UNA RACHA HISTÓRICA DE SHAI
-Estado: seis altas escritas y releídas en Google Sheets; pulso único de sincronización enviado.
-Antiduplicados: se incorporaron las filas concurrentes 3730–3731 al control; no se modificaron noticias previas ni filas con R=TRUE.
-ID: radar1-20261023-1100-3732-3737-6
+RADAR 5 — 23/10/2026, 12:10 ARG
+Corrida: 2026-10-23 12:10 America/Argentina/Buenos_Aires
+Altas verificadas: 3
+Filas: Noticias!3738:3740
+Noticias: PAQUETÁ LLORÓ AL RECORDAR EL PENAL QUE LE ATAJÓ MUSLERA ANTE ESTUDIANTES | ANÍBAL MORENO ACOMPAÑÓ A UN HINCHA DE RIVER QUE RECIBIÓ EL ALTA EN EL GARRAHAN | BALTASAR RODRÍGUEZ GENERÓ ENOJO EN RACING CON UN POSTEO TRAS LA CLASIFICACIÓN DE ESTUDIANTES
+Estado: tres altas escritas y releídas en Google Sheets; solicitar actualización del CSV mediante workflow existente.
+Antiduplicados: descartados Viera cambia esquema, norma FIA Alpine y repercusión Mundial de Clubes 2029, ya publicados; no se tocaron noticias existentes ni R=TRUE.
+ID: radar5-20261023-1210-3738-3740-3
