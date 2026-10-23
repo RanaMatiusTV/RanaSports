@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-22T21:34:00.540Z",
+  "updatedAt": "2026-10-23T00:10:25.302Z",
   "trends": [
     {
-      "query": "dengue",
-      "startedAt": "2026-10-22T21:20:00.000Z",
+      "query": "leonardo cohen arazi",
+      "startedAt": "2026-10-22T23:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "paso de la patria",
-      "startedAt": "2026-10-22T21:10:00.000Z",
-      "volume": 500
+      "query": "flamengo - estudiantes",
+      "startedAt": "2026-10-22T23:40:00.000Z",
+      "volume": 50000
     },
     {
-      "query": "ejecución",
-      "startedAt": "2026-10-22T21:00:00.000Z",
+      "query": "nito artaza",
+      "startedAt": "2026-10-22T23:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "leonor de borbón",
-      "startedAt": "2026-10-22T21:00:00.000Z",
+      "query": "juicio",
+      "startedAt": "2026-10-22T23:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "renault filante",
+      "startedAt": "2026-10-22T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "76ers - cavaliers",
+      "startedAt": "2026-10-22T22:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "chamamé",
+      "startedAt": "2026-10-22T22:30:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "club atlético tigre",
+      "startedAt": "2026-10-22T22:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "ajax",
-      "startedAt": "2026-10-22T20:40:00.000Z",
+      "query": "universidad nacional de la plata (unlp)",
+      "startedAt": "2026-10-22T22:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "a qué hora juega estudiantes",
-      "startedAt": "2026-10-22T20:30:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "dólar ámbito",
-      "startedAt": "2026-10-22T20:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "río neuquén",
-      "startedAt": "2026-10-22T20:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "tom skerritt",
-      "startedAt": "2026-10-22T20:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "parque camba cua",
-      "startedAt": "2026-10-22T20:10:00.000Z",
+      "query": "ciberataque",
+      "startedAt": "2026-10-22T22:10:00.000Z",
       "volume": 200
     }
   ]
