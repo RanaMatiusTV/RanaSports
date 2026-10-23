@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-23T09:37:35.427Z",
+  "updatedAt": "2026-10-23T14:27:09.499Z",
   "trends": [
     {
-      "query": "pronostico santa fe",
-      "startedAt": "2026-10-23T09:20:00.000Z",
+      "query": "banco central de la república argentina",
+      "startedAt": "2026-10-23T13:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "estancia",
-      "startedAt": "2026-10-23T09:10:00.000Z",
-      "volume": 100
+      "query": "árbol",
+      "startedAt": "2026-10-23T13:20:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "pronóstico del tiempo",
-      "startedAt": "2026-10-23T09:10:00.000Z",
+      "query": "feriados noviembre 2026",
+      "startedAt": "2026-10-23T13:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "alerta naranja tormentas",
+      "startedAt": "2026-10-23T13:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "clima posadas",
-      "startedAt": "2026-10-23T09:00:00.000Z",
+      "query": "islas malvinas (falkland islands)",
+      "startedAt": "2026-10-23T12:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "elena rybakina",
+      "startedAt": "2026-10-23T12:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "clima la plata",
-      "startedAt": "2026-10-23T09:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "tiempo de hoy",
-      "startedAt": "2026-10-23T09:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "bet 365",
-      "startedAt": "2026-10-23T04:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "diario ole",
-      "startedAt": "2026-10-23T03:20:00.000Z",
+      "query": "indio solari",
+      "startedAt": "2026-10-23T11:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "estadio centenario uruguay",
-      "startedAt": "2026-10-23T03:20:00.000Z",
+      "query": "nancy dure",
+      "startedAt": "2026-10-23T11:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "23 de octubre",
+      "startedAt": "2026-10-23T11:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "denver nuggets",
-      "startedAt": "2026-10-23T03:20:00.000Z",
-      "volume": 100
+      "query": "barcelona vs real madrid",
+      "startedAt": "2026-10-23T10:50:00.000Z",
+      "volume": 200
     }
   ]
 }
