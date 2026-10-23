@@ -1,7 +1,8 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-23T16:10:00-03:00
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-23T17:00:00-03:00
 Zona horaria: America/Argentina/Buenos_Aires
-Altas verificadas: 5
-Filas: 3757, 3758, 3759, 3760, 3761
-Estado: SHEETS_VERIFICADO; PULSO_GITHUB; CSV_PENDIENTE_COMPROBACION
-Identificador: radar5-20261023-1610-turn11
+Altas verificadas: 6
+Filas: 3762, 3763, 3764, 3765, 3766, 3767
+Última noticia: EL DELANTERO QUE REPITIÓ EL 'PENAL MÁS LENTO DEL MUNDO' Y VOLVIÓ A FALLAR
+Estado: SHEETS_VERIFICADO; PULSO_GITHUB
+Identificador: radar1-20261023-1700
