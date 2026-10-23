@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-abre-su-actividad-en-austin-con-dos-practicas-libres/": {
+      "account": "f1",
+      "title": "COLAPINTO ABRE SU ACTIVIDAD EN AUSTIN CON DOS PRÁCTICAS LIBRES",
+      "dueAt": "2026-10-24T00:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adbe9548b3d437ddc8d7541",
+      "createdAt": "2026-10-23T23:10:12.158Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-fue-17-en-la-primera-practica-de-austin-y-recibira-diez-puestos-de-penalizacion/": {
+      "account": "f1",
+      "title": "COLAPINTO FUE 17° EN LA PRIMERA PRÁCTICA DE AUSTIN Y RECIBIRÁ DIEZ PUESTOS DE PENALIZACIÓN",
+      "dueAt": "2026-10-23T23:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adbe9539acae620d820d3dd",
+      "createdAt": "2026-10-23T23:10:11.924Z"
+    },
+    "https://ranasports.com.ar/futbol/messi-recibio-el-premio-princesa-de-asturias-de-los-deportes-en-oviedo/": {
+      "account": "sports",
+      "title": "MESSI RECIBIÓ EL PREMIO PRINCESA DE ASTURIAS DE LOS DEPORTES EN OVIEDO",
+      "dueAt": "2026-10-24T00:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adbe9533d5b27036b570d4f",
+      "createdAt": "2026-10-23T23:10:11.175Z"
+    },
+    "https://ranasports.com.ar/polideportivo/suspendieron-provisionalmente-a-la-campeona-olimpica-peres-jepchirchir-por-un-control-de-epo/": {
+      "account": "sports",
+      "title": "SUSPENDIERON PROVISIONALMENTE A LA CAMPEONA OLÍMPICA PERES JEPCHIRCHIR POR UN CONTROL DE EPO",
+      "dueAt": "2026-10-23T23:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adbe9520b5343d07054a2d1",
+      "createdAt": "2026-10-23T23:10:10.322Z"
+    },
+    "https://ranasports.com.ar/boca/roskopf-conto-que-se-entero-por-twitter-de-su-venta-a-boca-y-hoy-busca-ser-campeon-en-bolivia/": {
+      "account": "sports",
+      "title": "ROSKOPF CONTÓ QUE SE ENTERÓ POR TWITTER DE SU VENTA A BOCA Y HOY BUSCA SER CAMPEÓN EN BOLIVIA",
+      "dueAt": "2026-10-23T23:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adbe9513d5b27036b570cfd",
+      "createdAt": "2026-10-23T23:10:09.657Z"
+    },
+    "https://ranasports.com.ar/futbol/argentina-goleo-5-1-a-marruecos-y-se-clasifico-a-octavos-del-mundial-sub-17-femenino/": {
+      "account": "sports",
+      "title": "ARGENTINA GOLEÓ 5-1 A MARRUECOS Y SE CLASIFICÓ A OCTAVOS DEL MUNDIAL SUB-17 FEMENINO",
+      "dueAt": "2026-10-23T23:10:07.173Z",
+      "mode": "shareNow",
+      "bufferPostId": "6adbe94fe4be8a4d862ceddf",
+      "createdAt": "2026-10-23T23:10:09.270Z"
+    },
     "https://ranasports.com.ar/f1/los-27-puntos-de-colapinto-representan-casi-el-40-del-total-de-alpine/": {
       "account": "f1",
       "title": "LOS 27 PUNTOS DE COLAPINTO REPRESENTAN CASI EL 40% DEL TOTAL DE ALPINE",
@@ -5313,60 +5361,6 @@
       "createdAt": "2026-09-30T16:24:34.993Z",
       "externalLink": "https://x.com/2095690134515572737/status/2105334379249590769",
       "sentAt": "2026-09-30T16:30:06.155Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3ODMzNDAwMDAsIkFGQSBBUEVMw5MgTEEgU0FOQ0nDk04gREUgRElFWiBQQVJUSURPUyBBIExFQU5EUk8gUEFSRURFUyJd": {
-      "account": "main",
-      "title": "AFA APELÓ LA SANCIÓN DE DIEZ PARTIDOS A LEANDRO PAREDES",
-      "dueAt": "2026-09-30T17:00:00.000Z",
-      "bufferPostId": "6abd37a9ac4ad3cac21b63bf",
-      "createdAt": "2026-09-30T16:24:09.460Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105341940342432099",
-      "sentAt": "2026-09-30T17:00:08.958Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3ODMxMDAwMDAsIkxBIFBFUEEgQlJJWlVFTEEgQ0FOVEFSw4EgRUwgSElNTk8gQU5URVMgREUgQVJHRU5USU5BLUJPTElWSUEiXQ": {
-      "account": "main",
-      "title": "LA PEPA BRIZUELA CANTARÁ EL HIMNO ANTES DE ARGENTINA-BOLIVIA",
-      "dueAt": "2026-09-30T16:55:00.000Z",
-      "bufferPostId": "6abd37a8f1b6fecf52414845",
-      "createdAt": "2026-09-30T16:24:08.853Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105340653198581921",
-      "sentAt": "2026-09-30T16:55:01.962Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3ODMwNDAwMDAsIkFSR0VOVElOQSBBQlJFIFVOQSBOVUVWQSBFUkEgRU5UUkUgRUwgUkVDQU1CSU8gWSBMQSBERVNQRURJREEgREUgTUVTU0kiXQ": {
-      "account": "main",
-      "title": "ARGENTINA ABRE UNA NUEVA ERA ENTRE EL RECAMBIO Y LA DESPEDIDA DE MESSI",
-      "dueAt": "2026-09-30T16:50:00.000Z",
-      "bufferPostId": "6abd37a8f1b6fecf5241481c",
-      "createdAt": "2026-09-30T16:24:08.361Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105339396505436461",
-      "sentAt": "2026-09-30T16:50:02.416Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNzgxMzAwMDAwLCJJTkRFUEVORElFTlRFIFNVTcOTIEEgTkFIVUVMIEJBTkVHQVMgQ09NTyBSRUZVRVJaTyJd": {
-      "account": "main",
-      "title": "INDEPENDIENTE SUMÓ A NAHUEL BANEGAS COMO REFUERZO",
-      "dueAt": "2026-09-30T16:45:00.000Z",
-      "bufferPostId": "6abd37a79ffc1183ec545d4c",
-      "createdAt": "2026-09-30T16:24:07.490Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105338146615398691",
-      "sentAt": "2026-09-30T16:45:04.366Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3ODAxNjAwMDAsIkxBIENBTUlTRVRBIDEwIFFVRURBUsOBIFZBQ0FOVEUgQU5URSBCT0xJVklBIFkgQlVSS0lOQSBGQVNPIl0": {
-      "account": "main",
-      "title": "LA CAMISETA 10 QUEDARÁ VACANTE ANTE BOLIVIA Y BURKINA FASO",
-      "dueAt": "2026-09-30T16:40:00.000Z",
-      "bufferPostId": "6abd37a69b1389900eb9039d",
-      "createdAt": "2026-09-30T16:24:06.723Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105336881109959047",
-      "sentAt": "2026-09-30T16:40:02.676Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3Nzg3MjAwMDAsIkFSR0VOVElOQSBSRUdSRVNBIEEgQ8OTUkRPQkEgQ09OIFVOIEhJU1RPUklBTCBNVVkgRkFWT1JBQkxFIl0": {
-      "account": "main",
-      "title": "ARGENTINA REGRESA A CÓRDOBA CON UN HISTORIAL MUY FAVORABLE",
-      "dueAt": "2026-09-30T16:35:00.000Z",
-      "bufferPostId": "6abd37a6ac4ad3cac21b6375",
-      "createdAt": "2026-09-30T16:24:06.294Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105335633770164320",
-      "sentAt": "2026-09-30T16:35:05.342Z"
     }
   },
   "nextAt": {
