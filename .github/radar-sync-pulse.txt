@@ -1,6 +1,7 @@
-RADAR 1 — 23/10/2026, 00:26:37 ARG
-Altas verificadas: 6
-Filas: Noticias!3706:3711
-Última noticia: ROONEY APUNTÓ CONTRA LISANDRO MARTÍNEZ EN MEDIO DE LA CRISIS DEL UNITED
-Estado: seis noticias escritas y verificadas en Sheets; sincronización solicitada.
-ID: radar1-20261023-0026
+RADAR 5 — 23/10/2026, 06:13:22 ARG
+Corrida: 2026-10-23 06:10 America/Argentina/Buenos_Aires
+Altas verificadas: 2
+Filas: Noticias!3712, Noticias!3713
+Estado: dos noticias nuevas escritas y releídas en Google Sheets; se solicita sincronización del portal.
+Antiduplicados: se cotejaron filas recientes y antecedentes por hecho; no se editaron noticias existentes.
+ID: radar5-20261023-0610-1792746802678
