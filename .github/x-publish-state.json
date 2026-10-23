@@ -1,13 +1,22 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/boca/martin-ojeda-reconocio-que-le-gustaria-jugar-en-boca/": {
+      "account": "sports",
+      "title": "MARTÍN OJEDA RECONOCIÓ QUE LE GUSTARÍA JUGAR EN BOCA",
+      "dueAt": "2026-10-23T04:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adace891dc335d347eee019",
+      "createdAt": "2026-10-23T03:03:37.455Z"
+    },
     "https://ranasports.com.ar/boca/atletico-mineiro-ya-mide-el-impacto-de-la-hinchada-de-boca-para-la-final/": {
       "account": "sports",
       "title": "ATLÉTICO MINEIRO YA MIDE EL IMPACTO DE LA HINCHADA DE BOCA PARA LA FINAL",
       "dueAt": "2026-10-23T03:55:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6adacb3f9ef33e7811b3ddf6",
-      "createdAt": "2026-10-23T02:49:36.039Z"
+      "createdAt": "2026-10-23T02:49:36.039Z",
+      "formattedFor": "https://ranasports.com.ar/boca/atletico-mineiro-ya-mide-el-impacto-de-la-hinchada-de-boca-para-la-final/"
     },
     "https://ranasports.com.ar/boca/cicinho-puso-a-atletico-mineiro-por-encima-de-boca-antes-de-la-final/": {
       "account": "sports",
@@ -15,7 +24,8 @@
       "dueAt": "2026-10-23T03:25:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6adacb3fd447d56a647263bd",
-      "createdAt": "2026-10-23T02:49:35.647Z"
+      "createdAt": "2026-10-23T02:49:35.647Z",
+      "formattedFor": "https://ranasports.com.ar/boca/cicinho-puso-a-atletico-mineiro-por-encima-de-boca-antes-de-la-final/"
     },
     "https://ranasports.com.ar/futbol/el-flamengo-estudiantes-tambien-puede-alterar-el-camino-al-mundial-de-clubes-2029/": {
       "account": "sports",
@@ -5361,13 +5371,6 @@
       "dueAt": "2026-09-29T20:40:00.000Z",
       "bufferPostId": "6abc1db7a1ba5ce146db375b",
       "createdAt": "2026-09-29T20:21:11.683Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3MDgxMDAwMDAsIlBBTEFDSU9TIFkgRkxPUkVTIEZVRVJPTiBMSUJFUkFET1MgWSBUT0LDjUFTIEFORFJBREEgUVVFRMOTIEZVRVJBIERFIExBIFNFTEVDQ0nDk04iXQ": {
-      "account": "main",
-      "title": "PALACIOS Y FLORES FUERON LIBERADOS Y TOBÍAS ANDRADA QUEDÓ FUERA DE LA SELECCIÓN",
-      "dueAt": "2026-09-29T20:35:00.000Z",
-      "bufferPostId": "6abc1db63b1eb12e6e361e5e",
-      "createdAt": "2026-09-29T20:21:11.025Z"
     }
   },
   "nextAt": {
