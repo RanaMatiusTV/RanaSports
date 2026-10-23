@@ -1,8 +1,7 @@
-RADAR 1 — 23/10/2026, 13:00 ARG
-Corrida: 2026-10-23 13:00 America/Argentina/Buenos_Aires
-Altas verificadas: 6
-Filas: Noticias!3741:3746
-Noticias: BOCA INCORPORÓ A FRANCO GAYOSO COMO ENTRENADOR DE ARQUEROS EN INFERIORES | ALEXIS MESSIDORO, DE PROMESA DE BOCA A FIGURA DEL FÚTBOL DE INDONESIA | COLAPINTO ABRE SU ACTIVIDAD EN AUSTIN CON DOS PRÁCTICAS LIBRES | FAUSTO VERA SE PERDERÁ EL SUPERCLÁSICO Y RIVER EVALÚA SU FUTURO | JUVENTUS VOLVIÓ A APUNTAR A TAGLIAFICO PARA EL MERCADO DE ENERO | MESSI PIDIÓ QUE LOS PADRES NO PRESIONEN A LOS CHICOS QUE JUEGAN AL FÚTBOL
-Estado: seis altas escritas, imágenes verificadas y filas releídas en Google Sheets; solicitar actualización del CSV mediante workflow existente.
-R: nuevas filas FALSE; registros TRUE intactos.
-ID: radar1-20261023-1300-3741-3746-6
+RADAR 5 — Actualidad Inmediata
+Ejecución: 2026-10-23T14:10:32-03:00
+Zona horaria: America/Argentina/Buenos_Aires
+Altas verificadas: 4
+Filas: 3747, 3748, 3749, 3750
+Estado: SHEETS_VERIFICADO; PULSO_GITHUB; CSV_PENDIENTE_COMPROBACION
+Identificador: radar5-20261023-141032-3747-3750
