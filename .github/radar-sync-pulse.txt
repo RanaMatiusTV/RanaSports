@@ -1,8 +1,9 @@
-RADAR 1 — RanaSports Noticias
-Ejecución: 2026-10-23T17:00:00-03:00
+RADAR 5 — RanaSports Actualidad Inmediata
+Ejecución: 2026-10-23T18:10:00-03:00
 Zona horaria: America/Argentina/Buenos_Aires
-Altas verificadas: 6
-Filas: 3762, 3763, 3764, 3765, 3766, 3767
-Última noticia: EL DELANTERO QUE REPITIÓ EL 'PENAL MÁS LENTO DEL MUNDO' Y VOLVIÓ A FALLAR
-Estado: SHEETS_VERIFICADO; PULSO_GITHUB
-Identificador: radar1-20261023-1700
+Altas verificadas: 2
+Filas: 3768, 3769
+Noticias: FALCIONI ROTARÁ EL EQUIPO DE ATLÉTICO TUCUMÁN ANTE TIGRE PARA PRIORIZAR LA COPA ARGENTINA | URUGUAY RESERVÓ A MERENTIEL Y BOCA PODRÍA PERDERLO PARA LA SEMIFINAL CON BANFIELD
+Descartadas por duplicación: Independiente-Abaldo/Cabral (fila 3724), Colapinto-sanción (fila 3762), Messi-Premio Asturias (fila 3763)
+Estado: SHEETS_VERIFICADO; PULSO_GITHUB; CSV_PENDIENTE_COMPROBACION
+Identificador: radar5-20261023-1810-3768-3769
