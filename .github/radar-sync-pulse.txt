@@ -1,6 +1,6 @@
-RADAR 1 — 22/10/2026, 23:01:27 ARG
+RADAR 1 — 23/10/2026, 00:26:37 ARG
 Altas verificadas: 6
-Filas: Noticias!3699:3704
-Última noticia: ATLÉTICO MINEIRO YA MIDE EL IMPACTO DE LA HINCHADA DE BOCA PARA LA FINAL
+Filas: Noticias!3706:3711
+Última noticia: ROONEY APUNTÓ CONTRA LISANDRO MARTÍNEZ EN MEDIO DE LA CRISIS DEL UNITED
 Estado: seis noticias escritas y verificadas en Sheets; sincronización solicitada.
-ID: radar1-20261022-2301
+ID: radar1-20261023-0026
