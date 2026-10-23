@@ -1,8 +1,8 @@
-RADAR 1 — 23/10/2026, 07:00:17 ARG
-Corrida: 2026-10-23 07:00 America/Argentina/Buenos_Aires
-Altas verificadas: 6
-Filas: Noticias!3714:3719
-Última noticia: TIGRE Y ATLÉTICO TUCUMÁN JUEGAN UNA FINAL ANTICIPADA POR LA CLASIFICACIÓN
-Estado: seis noticias nuevas escritas y releídas en Google Sheets; se solicita sincronización del portal.
-Antiduplicados: se cotejó el bloque reciente y se preservaron todos los registros existentes, incluidos los R=TRUE.
-ID: radar1-20261023-0700-3719
+RADAR 5 — 23/10/2026, 08:17:28 ARG
+Corrida: 2026-10-23 08:10 America/Argentina/Buenos_Aires
+Altas verificadas: 4
+Filas: Noticias!3720:3723
+Última noticia: BALESTRINI QUIERE PRESIDIR VÉLEZ Y PROMETIÓ BUSCAR LA RENOVACIÓN DE LOS BARROS SCHELOTTO
+Estado: cuatro altas escritas y releídas en Google Sheets; pulso de sincronización solicitado.
+Antiduplicados: comparados títulos, protagonistas, hechos, fechas y URL contra las filas recientes y búsquedas de la planilla completa; sin modificaciones de noticias previas.
+ID: radar5-20261023-0810-3720-3723-28
