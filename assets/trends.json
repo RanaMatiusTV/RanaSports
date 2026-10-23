@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-23T00:10:25.302Z",
+  "updatedAt": "2026-10-23T04:46:57.190Z",
   "trends": [
     {
-      "query": "leonardo cohen arazi",
-      "startedAt": "2026-10-22T23:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "flamengo - estudiantes",
-      "startedAt": "2026-10-22T23:40:00.000Z",
-      "volume": 50000
-    },
-    {
-      "query": "nito artaza",
-      "startedAt": "2026-10-22T23:40:00.000Z",
+      "query": "estadio centenario uruguay",
+      "startedAt": "2026-10-23T03:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "juicio",
-      "startedAt": "2026-10-22T23:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "renault filante",
-      "startedAt": "2026-10-22T22:50:00.000Z",
+      "query": "el dia",
+      "startedAt": "2026-10-23T03:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "76ers - cavaliers",
-      "startedAt": "2026-10-22T22:40:00.000Z",
-      "volume": 1000
+      "query": "diario ole",
+      "startedAt": "2026-10-23T03:20:00.000Z",
+      "volume": 200
     },
     {
-      "query": "chamamé",
-      "startedAt": "2026-10-22T22:30:00.000Z",
+      "query": "palmeiras",
+      "startedAt": "2026-10-23T03:10:00.000Z",
       "volume": 2000
     },
     {
-      "query": "club atlético tigre",
-      "startedAt": "2026-10-22T22:20:00.000Z",
+      "query": "estudiantes vs corinthians",
+      "startedAt": "2026-10-23T02:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "universidad nacional de la plata (unlp)",
-      "startedAt": "2026-10-22T22:10:00.000Z",
+      "query": "partido hoy",
+      "startedAt": "2026-10-23T02:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "martin ojeda",
+      "startedAt": "2026-10-23T02:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "partido",
+      "startedAt": "2026-10-23T02:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "ciberataque",
-      "startedAt": "2026-10-22T22:10:00.000Z",
-      "volume": 200
+      "query": "flamengo fc",
+      "startedAt": "2026-10-23T02:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "buquebus",
+      "startedAt": "2026-10-23T02:30:00.000Z",
+      "volume": 2000
     }
   ]
 }
