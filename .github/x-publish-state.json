@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/boca/atletico-mineiro-ya-mide-el-impacto-de-la-hinchada-de-boca-para-la-final/": {
+      "account": "sports",
+      "title": "ATLÉTICO MINEIRO YA MIDE EL IMPACTO DE LA HINCHADA DE BOCA PARA LA FINAL",
+      "dueAt": "2026-10-23T03:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adacb3f9ef33e7811b3ddf6",
+      "createdAt": "2026-10-23T02:49:36.039Z"
+    },
+    "https://ranasports.com.ar/boca/cicinho-puso-a-atletico-mineiro-por-encima-de-boca-antes-de-la-final/": {
+      "account": "sports",
+      "title": "CICINHO PUSO A ATLÉTICO MINEIRO POR ENCIMA DE BOCA ANTES DE LA FINAL",
+      "dueAt": "2026-10-23T03:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adacb3fd447d56a647263bd",
+      "createdAt": "2026-10-23T02:49:35.647Z"
+    },
+    "https://ranasports.com.ar/futbol/el-flamengo-estudiantes-tambien-puede-alterar-el-camino-al-mundial-de-clubes-2029/": {
+      "account": "sports",
+      "title": "EL FLAMENGO-ESTUDIANTES TAMBIÉN PUEDE ALTERAR EL CAMINO AL MUNDIAL DE CLUBES 2029",
+      "dueAt": "2026-10-23T02:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adacb3f535235087b79db1c",
+      "createdAt": "2026-10-23T02:49:35.175Z"
+    },
+    "https://ranasports.com.ar/f1/antonelli-puede-ser-campeon-de-formula-1-en-austin-pero-necesita-una-carambola/": {
+      "account": "f1",
+      "title": "ANTONELLI PUEDE SER CAMPEÓN DE FÓRMULA 1 EN AUSTIN, PERO NECESITA UNA CARÁMBOLA",
+      "dueAt": "2026-10-23T02:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adacb3ed447d56a6472637f",
+      "createdAt": "2026-10-23T02:49:34.819Z"
+    },
+    "https://ranasports.com.ar/futbol/murio-leonardo-cohen-arazi-condenado-en-la-causa-de-abuso-en-independiente/": {
+      "account": "main",
+      "title": "MURIÓ LEONARDO COHEN ARAZI, CONDENADO EN LA CAUSA DE ABUSO EN INDEPENDIENTE",
+      "dueAt": "2026-10-23T02:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adacb3e8d2197cb2a1084f9",
+      "createdAt": "2026-10-23T02:49:34.410Z"
+    },
+    "https://ranasports.com.ar/futbol/el-veredicto-del-juicio-por-la-muerte-de-maradona-se-conocera-el-22-de-diciembre/": {
+      "account": "sports",
+      "title": "EL VEREDICTO DEL JUICIO POR LA MUERTE DE MARADONA SE CONOCERÁ EL 22 DE DICIEMBRE",
+      "dueAt": "2026-10-23T02:49:31.904Z",
+      "mode": "shareNow",
+      "bufferPostId": "6adacb3bd447d56a64726314",
+      "createdAt": "2026-10-23T02:49:33.987Z"
+    },
     "https://ranasports.com.ar/futbol/viera-evalua-cambiar-el-esquema-de-independiente-para-recibir-a-boca/": {
       "account": "main",
       "title": "VIERA EVALÚA CAMBIAR EL ESQUEMA DE INDEPENDIENTE PARA RECIBIR A BOCA",
@@ -5320,52 +5368,6 @@
       "dueAt": "2026-09-29T20:35:00.000Z",
       "bufferPostId": "6abc1db63b1eb12e6e361e5e",
       "createdAt": "2026-09-29T20:21:11.025Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3MDU4ODAwMDAsIlNDQUxPTkkgTEUgQUJSScOTIExBUyBQVUVSVEFTIEEgUEFSRURFUyBQQVJBIFZPTFZFUiBBIExBIFNFTEVDQ0nDk04iXQ": {
-      "account": "main",
-      "title": "SCALONI LE ABRIÓ LAS PUERTAS A PAREDES PARA VOLVER A LA SELECCIÓN",
-      "dueAt": "2026-09-29T20:30:00.000Z",
-      "bufferPostId": "6abc1db53b1eb12e6e361e36",
-      "createdAt": "2026-09-29T20:21:09.866Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3MDM3ODAwMDAsIlNDQUxPTkkgUFJPQsOTIEEgTEFVVEFSTyBZIEpVTEnDgU4gSlVOVE9TIFBBUkEgRU5GUkVOVEFSIEEgQk9MSVZJQSJd": {
-      "account": "main",
-      "title": "SCALONI PROBÓ A LAUTARO Y JULIÁN JUNTOS PARA ENFRENTAR A BOLIVIA",
-      "dueAt": "2026-09-29T20:25:00.000Z",
-      "bufferPostId": "6abc1db53b1eb12e6e361e0e",
-      "createdAt": "2026-09-29T20:21:09.472Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkwNzAxMTQwMDAwLCJDT0xBUElOVE8gUVVFRMOTIE5PVkVOTyBFTiBFTCBSQU5LSU5HIERFIERBw5FPUyBERSBMQSBGw5NSTVVMQSAxIl0": {
-      "account": "f1",
-      "title": "COLAPINTO QUEDÓ NOVENO EN EL RANKING DE DAÑOS DE LA FÓRMULA 1",
-      "dueAt": "2026-09-29T18:30:00.000Z",
-      "bufferPostId": "6abc02778db23fcd3a35fd90",
-      "createdAt": "2026-09-29T18:24:55.160Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2105002182265188848",
-      "sentAt": "2026-09-29T18:30:04.219Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3MDIxMDAwMDAsIlNDQUxPTkkgUkFUSUZJQ8OTIFNVIElOVEVOQ0nDk04gREUgQ09OVElOVUFSIFkgQVBVTlTDkyBBIENPTVBFVElSIEhBU1RBIDIwMzAiXQ": {
-      "account": "main",
-      "title": "SCALONI RATIFICÓ SU INTENCIÓN DE CONTINUAR Y APUNTÓ A COMPETIR HASTA 2030",
-      "dueAt": "2026-09-29T18:35:00.000Z",
-      "bufferPostId": "6abc025ba784493a8ae606ab",
-      "createdAt": "2026-09-29T18:24:27.229Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNzAwODQwMDAwLCJJTkRFUEVORElFTlRFIFJFQ1VQRVLDkyBBTCBDSElNWSDDgVZJTEEgWSBORUdPQ0lBIEEgQ09OVFJBUlJFTE9KIFBPUiBCQU5FR0FTIl0": {
-      "account": "main",
-      "title": "INDEPENDIENTE RECUPERÓ AL CHIMY ÁVILA Y NEGOCIA A CONTRARRELOJ POR BANEGAS",
-      "dueAt": "2026-09-29T18:30:00.000Z",
-      "bufferPostId": "6abc025af9bc1204bdf207da",
-      "createdAt": "2026-09-29T18:24:26.215Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDY5NDMwMDAwMCwiQ09MQVBJTlRPIEFQVU5UQSBBIFBFTEVBUiBQT1IgRUwgVE9QIDEwIEVOIFNVIERFQlVUIEVOIFNFUEFORyJd": {
-      "account": "f1",
-      "title": "COLAPINTO APUNTA A PELEAR POR EL TOP 10 EN SU DEBUT EN SEPANG",
-      "dueAt": "2026-09-29T17:20:00.000Z",
-      "bufferPostId": "6abbf1f48db23fcd3a339f21",
-      "createdAt": "2026-09-29T17:14:28.682Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2104984571917807657",
-      "sentAt": "2026-09-29T17:20:05.554Z"
     }
   },
   "nextAt": {
