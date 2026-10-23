@@ -1,17 +1,42 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-23T04:46:57.190Z",
+  "updatedAt": "2026-10-23T09:37:35.427Z",
   "trends": [
     {
-      "query": "estadio centenario uruguay",
-      "startedAt": "2026-10-23T03:20:00.000Z",
+      "query": "pronostico santa fe",
+      "startedAt": "2026-10-23T09:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "el dia",
-      "startedAt": "2026-10-23T03:20:00.000Z",
+      "query": "estancia",
+      "startedAt": "2026-10-23T09:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "pronóstico del tiempo",
+      "startedAt": "2026-10-23T09:10:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "clima posadas",
+      "startedAt": "2026-10-23T09:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "clima la plata",
+      "startedAt": "2026-10-23T09:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tiempo de hoy",
+      "startedAt": "2026-10-23T09:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "bet 365",
+      "startedAt": "2026-10-23T04:10:00.000Z",
+      "volume": 100
     },
     {
       "query": "diario ole",
@@ -19,39 +44,14 @@
       "volume": 200
     },
     {
-      "query": "palmeiras",
-      "startedAt": "2026-10-23T03:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "estudiantes vs corinthians",
-      "startedAt": "2026-10-23T02:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "partido hoy",
-      "startedAt": "2026-10-23T02:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "martin ojeda",
-      "startedAt": "2026-10-23T02:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "partido",
-      "startedAt": "2026-10-23T02:40:00.000Z",
+      "query": "estadio centenario uruguay",
+      "startedAt": "2026-10-23T03:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "flamengo fc",
-      "startedAt": "2026-10-23T02:40:00.000Z",
+      "query": "denver nuggets",
+      "startedAt": "2026-10-23T03:20:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "buquebus",
-      "startedAt": "2026-10-23T02:30:00.000Z",
-      "volume": 2000
     }
   ]
 }
