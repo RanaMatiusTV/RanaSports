@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-priorizo-el-ritmo-de-carrera-tras-recibir-diez-puestos-de-sancion/": {
+      "account": "f1",
+      "title": "COLAPINTO PRIORIZÓ EL RITMO DE CARRERA TRAS RECIBIR DIEZ PUESTOS DE SANCIÓN",
+      "dueAt": "2026-10-24T08:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adc5c016887a2efc1a40c0d",
+      "createdAt": "2026-10-24T07:19:29.875Z"
+    },
+    "https://ranasports.com.ar/f1/norris-revelo-que-toma-analgesicos-por-los-baches-de-los-circuitos/": {
+      "account": "f1",
+      "title": "NORRIS REVELÓ QUE TOMA ANALGÉSICOS POR LOS BACHES DE LOS CIRCUITOS",
+      "dueAt": "2026-10-24T07:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adc5c018b3d437ddca791eb",
+      "createdAt": "2026-10-24T07:19:29.121Z"
+    },
+    "https://ranasports.com.ar/messi/messi-agradecio-el-premio-princesa-de-asturias-y-el-carino-recibido-en-espana/": {
+      "account": "sports",
+      "title": "MESSI AGRADECIÓ EL PREMIO PRINCESA DE ASTURIAS Y EL CARIÑO RECIBIDO EN ESPAÑA",
+      "dueAt": "2026-10-24T08:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adc5c003d5b27036b70da13",
+      "createdAt": "2026-10-24T07:19:28.796Z"
+    },
+    "https://ranasports.com.ar/rugby/santiago-carreras-salio-lesionado-y-encendio-una-alarma-en-los-pumas/": {
+      "account": "sports",
+      "title": "SANTIAGO CARRERAS SALIÓ LESIONADO Y ENCENDIÓ UNA ALARMA EN LOS PUMAS",
+      "dueAt": "2026-10-24T08:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adc5bff3d5b27036b70d9de",
+      "createdAt": "2026-10-24T07:19:27.953Z"
+    },
+    "https://ranasports.com.ar/futbol/defensa-visita-a-talleres-con-la-chance-de-sellar-su-pase-a-los-playoffs/": {
+      "account": "sports",
+      "title": "DEFENSA VISITA A TALLERES CON LA CHANCE DE SELLAR SU PASE A LOS PLAYOFFS",
+      "dueAt": "2026-10-24T07:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adc5bfe0b5343d0706e9af8",
+      "createdAt": "2026-10-24T07:19:26.560Z"
+    },
+    "https://ranasports.com.ar/futbol/atletico-tucuman-gano-en-victoria-y-la-derrota-provoco-la-salida-de-dabove-en-tigre/": {
+      "account": "sports",
+      "title": "ATLÉTICO TUCUMÁN GANÓ EN VICTORIA Y LA DERROTA PROVOCÓ LA SALIDA DE DABOVE EN TIGRE",
+      "dueAt": "2026-10-24T07:19:23.872Z",
+      "mode": "shareNow",
+      "bufferPostId": "6adc5bfbbd33ce99c30e9d8c",
+      "createdAt": "2026-10-24T07:19:25.983Z"
+    },
     "https://ranasports.com.ar/futbol/independiente-perfila-a-abaldo-por-cabral-y-mantiene-a-arias-para-recibir-a-boca/": {
       "account": "main",
       "title": "INDEPENDIENTE PERFILA A ABALDO POR CABRAL Y MANTIENE A ARIAS PARA RECIBIR A BOCA",
@@ -5300,60 +5348,6 @@
       "createdAt": "2026-10-01T01:23:03.671Z",
       "externalLink": "https://x.com/768913759301754880/status/2105469001757282692",
       "sentAt": "2026-10-01T01:25:02.731Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MTI5ODAwMDAsIlJPTcOBTiBWRUdBIERFQlVUw5MgRU4gTEEgU0VMRUNDScOTTiBZIEZVRSBFTCBFU1RSRU5PIE7Dmk1FUk8gNjYgREVMIENJQ0xPIFNDQUxPTkkiXQ": {
-      "account": "main",
-      "title": "ROMÁN VEGA DEBUTÓ EN LA SELECCIÓN Y FUE EL ESTRENO NÚMERO 66 DEL CICLO SCALONI",
-      "dueAt": "2026-10-01T00:45:00.000Z",
-      "bufferPostId": "6abda82505e9a5c46ab1f1c8",
-      "createdAt": "2026-10-01T00:24:05.211Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105458934362288454",
-      "sentAt": "2026-10-01T00:45:02.412Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MTI3NDAwMDAsIkxBIE5VRVZBIEVUQVBBIERFIExBIFNFTEVDQ0nDk04gQ09NRU5aw5MgU0lOIExBIEPDgUJBTEEgREUgTE9TIENBUkFNRUxPUyJd": {
-      "account": "main",
-      "title": "LA NUEVA ETAPA DE LA SELECCIÓN COMENZÓ SIN LA CÁBALA DE LOS CARAMELOS",
-      "dueAt": "2026-10-01T00:40:00.000Z",
-      "bufferPostId": "6abda824532e76427a498013",
-      "createdAt": "2026-10-01T00:24:04.838Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105457673265090872",
-      "sentAt": "2026-10-01T00:40:01.773Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MTE5MDAwMDAsIkFSR0VOVElOQSBDT05GSVJNw5MgRUwgT05DRSBDT04gUFJFU1RJQU5OSSwgTklDTyBQQVogWSBST03DgU4gVkVHQSBBTlRFIEJPTElWSUEiXQ": {
-      "account": "main",
-      "title": "ARGENTINA CONFIRMÓ EL ONCE CON PRESTIANNI, NICO PAZ Y ROMÁN VEGA ANTE BOLIVIA",
-      "dueAt": "2026-10-01T00:35:00.000Z",
-      "bufferPostId": "6abda824b29c0fecf40fc8a7",
-      "createdAt": "2026-10-01T00:24:04.466Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105456414994874621",
-      "sentAt": "2026-10-01T00:35:01.807Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MDk2ODAwMDAsIkVMIENMVUIgREUgQkFSUklPIFFVRSBGT1JNw5MgQUwgQ1VUSSBST01FUk8gUkVDT1JEw5MgU1VTIFBSSU1FUk9TIFBBU09TIl0": {
-      "account": "main",
-      "title": "EL CLUB DE BARRIO QUE FORMÓ AL CUTI ROMERO RECORDÓ SUS PRIMEROS PASOS",
-      "dueAt": "2026-10-01T00:30:00.000Z",
-      "bufferPostId": "6abda823b29c0fecf40fc87e",
-      "createdAt": "2026-10-01T00:24:03.894Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105455194225996189",
-      "sentAt": "2026-10-01T00:30:10.702Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MDk2ODAwMDAsIkpIT04gT1NQSU5BIFNFUsOBIEVMIMOBUkJJVFJPIERFIEFSR0VOVElOQS1CT0xJVklBIEVOIEPDk1JET0JBIl0": {
-      "account": "main",
-      "title": "JHON OSPINA SERÁ EL ÁRBITRO DE ARGENTINA-BOLIVIA EN CÓRDOBA",
-      "dueAt": "2026-09-30T23:45:00.000Z",
-      "bufferPostId": "6abd998a05e9a5c46ab00616",
-      "createdAt": "2026-09-30T23:21:46.421Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105443841369092486",
-      "sentAt": "2026-09-30T23:45:03.982Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MDYwODAwMDAsIkVMIERJQlUgRU5DQUJFWsOTIEVMIEdFU1RPIERFIExBIFNFTEVDQ0nDk04gQ09OIExPUyBISU5DSEFTIEVOIEPDk1JET0JBIl0": {
-      "account": "main",
-      "title": "EL DIBU ENCABEZÓ EL GESTO DE LA SELECCIÓN CON LOS HINCHAS EN CÓRDOBA",
-      "dueAt": "2026-09-30T23:40:00.000Z",
-      "bufferPostId": "6abd9989c6f337a779f7df26",
-      "createdAt": "2026-09-30T23:21:45.392Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105442575549088213",
-      "sentAt": "2026-09-30T23:40:02.122Z"
     }
   },
   "nextAt": {
