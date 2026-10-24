@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/independiente-recibe-a-boca-en-un-partido-clave-para-los-dos-frentes/": {
+      "account": "main",
+      "title": "INDEPENDIENTE RECIBE A BOCA EN UN PARTIDO CLAVE PARA LOS DOS FRENTES",
+      "dueAt": "2026-10-24T12:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adca79d3d5b27036b84190d",
+      "createdAt": "2026-10-24T12:42:05.535Z"
+    },
+    "https://ranasports.com.ar/rugby/un-pisoton-en-el-rugby-gales-podria-derivar-en-una-sancion-de-por-vida/": {
+      "account": "sports",
+      "title": "UN PISOTÓN EN EL RUGBY GALÉS PODRÍA DERIVAR EN UNA SANCIÓN DE POR VIDA",
+      "dueAt": "2026-10-24T14:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adca79c3d5b27036b8418e4",
+      "createdAt": "2026-10-24T12:42:04.909Z"
+    },
+    "https://ranasports.com.ar/automovilismo/el-galvez-usara-43-mil-toneladas-de-asfalto-en-su-modernizacion/": {
+      "account": "sports",
+      "title": "EL GÁLVEZ USARÁ 43 MIL TONELADAS DE ASFALTO EN SU MODERNIZACIÓN",
+      "dueAt": "2026-10-24T13:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adca79c0b5343d070828782",
+      "createdAt": "2026-10-24T12:42:04.265Z"
+    },
+    "https://ranasports.com.ar/futbol/scaloni-prepara-la-primera-lista-de-la-seleccion-tras-el-retiro-de-messi/": {
+      "account": "sports",
+      "title": "SCALONI PREPARA LA PRIMERA LISTA DE LA SELECCIÓN TRAS EL RETIRO DE MESSI",
+      "dueAt": "2026-10-24T12:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adca79b6887a2efc1b7f48b",
+      "createdAt": "2026-10-24T12:42:03.190Z"
+    },
+    "https://ranasports.com.ar/beisbol/milwaukee-brewers-gano-3-2-a-tampa-bay-y-se-adelanto-en-la-serie-mundial/": {
+      "account": "sports",
+      "title": "MILWAUKEE BREWERS GANÓ 3-2 A TAMPA BAY Y SE ADELANTÓ EN LA SERIE MUNDIAL",
+      "dueAt": "2026-10-24T12:41:55.188Z",
+      "mode": "shareNow",
+      "bufferPostId": "6adca7938b3d437ddcbb5f5f",
+      "createdAt": "2026-10-24T12:42:01.363Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-priorizo-el-ritmo-de-carrera-tras-recibir-diez-puestos-de-sancion/": {
       "account": "f1",
       "title": "COLAPINTO PRIORIZÓ EL RITMO DE CARRERA TRAS RECIBIR DIEZ PUESTOS DE SANCIÓN",
@@ -5303,51 +5343,6 @@
       "createdAt": "2026-10-01T02:23:33.079Z",
       "externalLink": "https://x.com/768913759301754880/status/2105486614872895940",
       "sentAt": "2026-10-01T02:35:01.934Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MTg1MDAwMDAsIkNJTkNPIEpVR0FET1JFUyBERUJVVEFST04gRU4gTEEgU0VMRUNDScOTTiBZIFNDQUxPTkkgTExFR8OTIEEgNzAgRVNUUkVOT1MiXQ": {
-      "account": "main",
-      "title": "CINCO JUGADORES DEBUTARON EN LA SELECCIÓN Y SCALONI LLEGÓ A 70 ESTRENOS",
-      "dueAt": "2026-10-01T02:30:00.000Z",
-      "bufferPostId": "6abdc42424db200ef443f327",
-      "createdAt": "2026-10-01T02:23:32.721Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105485373048578416",
-      "sentAt": "2026-10-01T02:30:05.921Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MTY4ODAwMDAsIkNVVEkgUk9NRVJPIE1BUkPDkyBERSBDQUJFWkEgRUwgMy0wIERFIEFSR0VOVElOQSBBTlRFIEJPTElWSUEiXQ": {
-      "account": "main",
-      "title": "CUTI ROMERO MARCÓ DE CABEZA EL 3-0 DE ARGENTINA ANTE BOLIVIA",
-      "dueAt": "2026-10-01T02:25:00.000Z",
-      "bufferPostId": "6abdc424b29c0fecf412da5a",
-      "createdAt": "2026-10-01T02:23:32.350Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105484098701533671",
-      "sentAt": "2026-10-01T02:25:02.058Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MTU4NjAwMDAsIkFSR0VOVElOQSBERUrDkyBFTCBQQVJDSEUgREUgQ0FNUEXDk04gTVVORElBTCBZIFZPTFZJw5MgQSBVU0FSIEVMIERFIExBIENPUEEgQU3DiVJJQ0EiXQ": {
-      "account": "main",
-      "title": "ARGENTINA DEJÓ EL PARCHE DE CAMPEÓN MUNDIAL Y VOLVIÓ A USAR EL DE LA COPA AMÉRICA",
-      "dueAt": "2026-10-01T01:35:00.000Z",
-      "bufferPostId": "6abdb5f824db200ef4424c55",
-      "createdAt": "2026-10-01T01:23:04.559Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105471516863266857",
-      "sentAt": "2026-10-01T01:35:02.594Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MTQ0ODAwMDAsIkxBVVRBUk8gTUFSVMONTkVaIFkgTklDTyBQQVogUFVTSUVST04gMi0wIEEgQVJHRU5USU5BIEFOVEUgQk9MSVZJQSJd": {
-      "account": "main",
-      "title": "LAUTARO MARTÍNEZ Y NICO PAZ PUSIERON 2-0 A ARGENTINA ANTE BOLIVIA",
-      "dueAt": "2026-10-01T01:30:00.000Z",
-      "bufferPostId": "6abdb5f824db200ef4424c03",
-      "createdAt": "2026-10-01T01:23:04.128Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105470297239429578",
-      "sentAt": "2026-10-01T01:30:11.554Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MTM5NDAwMDAsIkxBUE9SVEUgQUNVU8OTIEEgTEEgU0VMRUNDScOTTiBBUkdFTlRJTkEgREUgUFJBQ1RJQ0FSIOKAnEFOVElGw5pUQk9M4oCdIEVOIEVMIE1VTkRJQUwiXQ": {
-      "account": "main",
-      "title": "LAPORTE ACUSÓ A LA SELECCIÓN ARGENTINA DE PRACTICAR “ANTIFÚTBOL” EN EL MUNDIAL",
-      "dueAt": "2026-10-01T01:25:00.000Z",
-      "bufferPostId": "6abdb5f724db200ef4424bd2",
-      "createdAt": "2026-10-01T01:23:03.671Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105469001757282692",
-      "sentAt": "2026-10-01T01:25:02.731Z"
     }
   },
   "nextAt": {
