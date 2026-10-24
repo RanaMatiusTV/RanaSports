@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-24 16:10 America/Argentina/Buenos_Aires
-Altas verificadas: 1
-Filas: 3833
-Última noticia: COLAPINTO FUE 15° EN LA FP3 DE AUSTIN Y HAMILTON LIDERÓ CON FERRARI
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-24 17:01 America/Argentina/Buenos_Aires
+Altas verificadas: 6
+Filas: 3834-3839
+Última noticia: ARGENTINA ARRASÓ EN LOS PREMIOS FIH CON CAIRO, DOMENE, COSENTINO Y DÍAZ
 Estado: ALTAS_VERIFICADAS; SHEETS_ACTUALIZADO; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR5-20261024T1610-3833
+Identificador de ejecución: RADAR1-20261024T1701-3834-3839
