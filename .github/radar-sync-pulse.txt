@@ -1,6 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Ejecución: 2026-10-24 15:00 America/Argentina/Buenos_Aires
-Altas verificadas: 6
-Filas: 3827-3832
-Última noticia: A 30 AÑOS DEL RETIRO, SABATINI EXPLICÓ POR QUÉ NECESITÓ ALEJARSE DEL TENIS
+RADAR 5 — RanaSports Actualidad Inmediata
+Ejecución: 2026-10-24 16:10 America/Argentina/Buenos_Aires
+Altas verificadas: 1
+Filas: 3833
+Última noticia: COLAPINTO FUE 15° EN LA FP3 DE AUSTIN Y HAMILTON LIDERÓ CON FERRARI
 Estado: ALTAS_VERIFICADAS; SHEETS_ACTUALIZADO; SINCRONIZACION_SOLICITADA
+Identificador de ejecución: RADAR5-20261024T1610-3833
