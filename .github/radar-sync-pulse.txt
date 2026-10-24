@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-23 22:10 America/Argentina/Buenos_Aires
-Identificador único: radar5-20261023-2210-f3783-3784
-Altas verificadas: 2
-Filas: 3783, 3784
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-23 23:00 America/Argentina/Buenos_Aires
+Identificador único: radar1-20261023-2300-f3785-3790
+Altas verificadas: 6
+Filas: 3785, 3786, 3787, 3788, 3789, 3790
 Estado: SHEETS_VERIFICADO; PULSO_SOLICITADO
-Último título: COLAPINTO CREE QUE LA F1 PODRÍA VOLVER A ARGENTINA ANTES DE 2030
+Último título: COLAPINTO PRIORIZÓ EL RITMO DE CARRERA TRAS RECIBIR DIEZ PUESTOS DE SANCIÓN
