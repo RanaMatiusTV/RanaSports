@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-24T09:07:33.180Z",
+  "updatedAt": "2026-10-24T13:19:02.743Z",
   "trends": [
     {
-      "query": "mi anses",
-      "startedAt": "2026-10-24T06:30:00.000Z",
+      "query": "vanuatu",
+      "startedAt": "2026-10-24T12:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "24 de octubre",
+      "startedAt": "2026-10-24T12:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "como - sassuolo",
+      "startedAt": "2026-10-24T12:20:00.000Z",
       "volume": 1000
     },
     {
-      "query": "nancy pazos",
-      "startedAt": "2026-10-24T03:30:00.000Z",
+      "query": "ángel di maría",
+      "startedAt": "2026-10-24T12:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "nafta",
+      "startedAt": "2026-10-24T12:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "aston villa vs man city",
+      "startedAt": "2026-10-24T12:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "puerto madero",
-      "startedAt": "2026-10-24T03:10:00.000Z",
-      "volume": 200
+      "query": "changomâs",
+      "startedAt": "2026-10-24T11:50:00.000Z",
+      "volume": 500
     },
     {
-      "query": "necaxa",
-      "startedAt": "2026-10-24T02:50:00.000Z",
-      "volume": 200
+      "query": "rayo vallecano - elche c. f.",
+      "startedAt": "2026-10-24T11:30:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "pronostico cordoba",
-      "startedAt": "2026-10-24T02:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "nadie quiere esto",
-      "startedAt": "2026-10-24T02:10:00.000Z",
+      "query": "policía",
+      "startedAt": "2026-10-24T11:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "cotizacion dolar blue hoy",
-      "startedAt": "2026-10-24T01:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "nba hoy",
-      "startedAt": "2026-10-24T01:40:00.000Z",
+      "query": "aquarium mar del plata",
+      "startedAt": "2026-10-24T11:00:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "juventud antoniana",
-      "startedAt": "2026-10-24T01:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "clima parana",
-      "startedAt": "2026-10-24T01:30:00.000Z",
-      "volume": 500
     }
   ]
 }
