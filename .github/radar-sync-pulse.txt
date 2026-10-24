@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Ejecución: 2026-10-23 21:00 America/Argentina/Buenos_Aires
-Identificador único: radar1-20261023-2100-6
-Altas verificadas: 6
-Filas: 3777-3782
+RADAR 5 — RanaSports Actualidad Inmediata
+Ejecución: 2026-10-23 22:10 America/Argentina/Buenos_Aires
+Identificador único: radar5-20261023-2210-f3783-3784
+Altas verificadas: 2
+Filas: 3783, 3784
 Estado: SHEETS_VERIFICADO; PULSO_SOLICITADO
-Último título: CUATRO ARGENTINOS GANARON LOS PREMIOS FIH 2026 Y SOFÍA CAIRO FUE LA MEJOR DEL MUNDO
+Último título: COLAPINTO CREE QUE LA F1 PODRÍA VOLVER A ARGENTINA ANTES DE 2030
