@@ -1,6 +1,22 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/antonelli-quedo-a-42-milesimas-de-leclerc-pero-mercedes-aun-busca-equilibrio/": {
+      "account": "f1",
+      "title": "ANTONELLI QUEDÓ A 42 MILÉSIMAS DE LECLERC PERO MERCEDES AÚN BUSCA EQUILIBRIO",
+      "dueAt": "2026-10-24T17:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adcde948b3d437ddccc1acf",
+      "createdAt": "2026-10-24T16:36:36.446Z"
+    },
+    "https://ranasports.com.ar/f1/albon-perdio-20-vueltas-por-limites-de-pista-en-un-viernes-insolito-en-austin/": {
+      "account": "f1",
+      "title": "ALBON PERDIÓ 20 VUELTAS POR LÍMITES DE PISTA EN UN VIERNES INSÓLITO EN AUSTIN",
+      "dueAt": "2026-10-24T16:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adcde930b5343d070929348",
+      "createdAt": "2026-10-24T16:36:35.723Z"
+    },
     "https://ranasports.com.ar/futbol/independiente-recibe-a-boca-en-un-partido-clave-para-los-dos-frentes/": {
       "account": "main",
       "title": "INDEPENDIENTE RECIBE A BOCA EN UN PARTIDO CLAVE PARA LOS DOS FRENTES",
@@ -5325,24 +5341,6 @@
       "createdAt": "2026-10-01T03:10:47.950Z",
       "externalLink": "https://x.com/768913759301754880/status/2105496697522532768",
       "sentAt": "2026-10-01T03:15:05.875Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MTkyODAwMDAsIkFSR0VOVElOQSBHT0xFw5MgNC0wIEEgQk9MSVZJQSBFTiBFTCBJTklDSU8gREUgTEEgRVJBIFBPU1QtTUVTU0kiXQ": {
-      "account": "main",
-      "title": "ARGENTINA GOLEÓ 4-0 A BOLIVIA EN EL INICIO DE LA ERA POST-MESSI",
-      "dueAt": "2026-10-01T02:40:00.000Z",
-      "bufferPostId": "6abdc42526106f73326c4407",
-      "createdAt": "2026-10-01T02:23:33.425Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105487874434998741",
-      "sentAt": "2026-10-01T02:40:02.334Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MTg4MDAwMDAsIkpPU8OJIE1BTlVFTCBMw5NQRVogSElaTyBTVSBQUklNRVIgR09MIEVOIExBIFNFTEVDQ0nDk04gUEFSQSBFTCA0LTAiXQ": {
-      "account": "main",
-      "title": "JOSÉ MANUEL LÓPEZ HIZO SU PRIMER GOL EN LA SELECCIÓN PARA EL 4-0",
-      "dueAt": "2026-10-01T02:35:00.000Z",
-      "bufferPostId": "6abdc42405e9a5c46ab50665",
-      "createdAt": "2026-10-01T02:23:33.079Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105486614872895940",
-      "sentAt": "2026-10-01T02:35:01.934Z"
     }
   },
   "nextAt": {
