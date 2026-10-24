@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Ejecución: 2026-10-24 17:01 America/Argentina/Buenos_Aires
-Altas verificadas: 6
-Filas: 3834-3839
-Última noticia: ARGENTINA ARRASÓ EN LOS PREMIOS FIH CON CAIRO, DOMENE, COSENTINO Y DÍAZ
+RADAR 5 — RanaSports Actualidad Inmediata
+Ejecución: 2026-10-24 18:10 America/Argentina/Buenos_Aires
+Altas verificadas: 2
+Filas: 3840, 3841
+Noticias: BANFIELD Y LANÚS EMPATARON 1-1 EN EL CLÁSICO DEL SUR | CERÚNDOLO CAYÓ ANTE GRIEKSPOOR EN BRUSELAS
 Estado: ALTAS_VERIFICADAS; SHEETS_ACTUALIZADO; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR1-20261024T1701-3834-3839
+Identificador de ejecución: RADAR5-20261024T1810-3840-3841
