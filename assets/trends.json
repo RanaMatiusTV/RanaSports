@@ -1,17 +1,17 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-24T04:34:12.072Z",
+  "updatedAt": "2026-10-24T09:07:33.180Z",
   "trends": [
+    {
+      "query": "mi anses",
+      "startedAt": "2026-10-24T06:30:00.000Z",
+      "volume": 1000
+    },
     {
       "query": "nancy pazos",
       "startedAt": "2026-10-24T03:30:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "f1 gp estados unidos",
-      "startedAt": "2026-10-24T03:10:00.000Z",
-      "volume": 2000
     },
     {
       "query": "puerto madero",
