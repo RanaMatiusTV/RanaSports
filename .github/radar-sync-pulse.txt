@@ -1,7 +1,7 @@
 RADAR 1 — RanaSports Noticias
-Ejecución: 2026-10-23 23:00 America/Argentina/Buenos_Aires
-Identificador único: radar1-20261023-2300-f3785-3790
+Ejecución: 2026-10-24 00:25 America/Argentina/Buenos_Aires
+Identificador único: radar1-20261024-0025-f3791-3796
 Altas verificadas: 6
-Filas: 3785, 3786, 3787, 3788, 3789, 3790
+Filas: 3791, 3792, 3793, 3794, 3795, 3796
 Estado: SHEETS_VERIFICADO; PULSO_SOLICITADO
-Último título: COLAPINTO PRIORIZÓ EL RITMO DE CARRERA TRAS RECIBIR DIEZ PUESTOS DE SANCIÓN
+Último título: SAN LORENZO RECIBE A NEWELL'S EN UN DUELO DIRECTO POR LOS OCTAVOS
