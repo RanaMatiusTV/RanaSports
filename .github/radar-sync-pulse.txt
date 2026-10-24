@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Ejecución: 2026-10-24 07:00 America/Argentina/Buenos_Aires
-Identificador único: radar1-20261024-0700-f3799-3804-v1
-Altas verificadas: 6
-Filas: 3799, 3800, 3801, 3802, 3803, 3804
+RADAR 5 — RanaSports Actualidad Inmediata
+Ejecución: 2026-10-24 08:10 America/Argentina/Buenos_Aires
+Identificador único: radar5-20261024-0810-f3805-v1
+Altas verificadas: 1
+Filas: 3805
 Estado: SHEETS_VERIFICADO; PULSO_SOLICITADO
-Última noticia: CENTRAL CÓRDOBA RECIBE A VÉLEZ EN EL CIERRE DEL DOMINGO
+Última noticia: MATEO KALEJMAN REVELÓ QUE FINANCIA SU CARRERA CON UN NEGOCIO PROPIO Y SIN BECAS
