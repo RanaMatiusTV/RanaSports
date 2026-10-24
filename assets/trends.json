@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-24T19:28:45.965Z",
+  "updatedAt": "2026-10-24T21:53:26.851Z",
   "trends": [
     {
-      "query": "talleres - defensa y justicia",
-      "startedAt": "2026-10-24T19:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lone'er kavanagh",
-      "startedAt": "2026-10-24T19:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "barca vs real madrid",
-      "startedAt": "2026-10-24T19:10:00.000Z",
+      "query": "richard gere",
+      "startedAt": "2026-10-24T21:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "internacional - botafogo",
-      "startedAt": "2026-10-24T19:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "aleksandr vólkov",
-      "startedAt": "2026-10-24T19:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "mirassol - são paulo",
-      "startedAt": "2026-10-24T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "rizvan kuniev",
-      "startedAt": "2026-10-24T18:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "lens fc",
-      "startedAt": "2026-10-24T18:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ferro - chaco for ever",
-      "startedAt": "2026-10-24T18:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "posiciones de chelsea contra tottenham",
-      "startedAt": "2026-10-24T18:40:00.000Z",
+      "query": "san lorenzo - newell's",
+      "startedAt": "2026-10-24T21:20:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "posiciones de atlético de madrid contra deportivo la coruña",
+      "startedAt": "2026-10-24T21:10:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "julia roberts",
+      "startedAt": "2026-10-24T21:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "palmeiras - bragantino",
+      "startedAt": "2026-10-24T20:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "quilmes",
+      "startedAt": "2026-10-24T20:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "new york rb - inter miami",
+      "startedAt": "2026-10-24T20:40:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "vasco da gama - corinthians",
+      "startedAt": "2026-10-24T20:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "porto",
+      "startedAt": "2026-10-24T20:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "gil vicente - porto",
+      "startedAt": "2026-10-24T20:10:00.000Z",
+      "volume": 200
     }
   ]
 }
