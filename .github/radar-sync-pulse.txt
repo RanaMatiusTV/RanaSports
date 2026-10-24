@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-24 18:10 America/Argentina/Buenos_Aires
-Altas verificadas: 2
-Filas: 3840, 3841
-Noticias: BANFIELD Y LANÚS EMPATARON 1-1 EN EL CLÁSICO DEL SUR | CERÚNDOLO CAYÓ ANTE GRIEKSPOOR EN BRUSELAS
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-24 19:02 America/Argentina/Buenos_Aires
+Altas verificadas: 6
+Filas: 3842, 3843, 3844, 3845, 3846, 3847
+Última noticia: LECLERC SERÁ PADRE Y ASEGURÓ QUE NO SE PERDERÁ NINGÚN GRAN PREMIO
 Estado: ALTAS_VERIFICADAS; SHEETS_ACTUALIZADO; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR5-20261024T1810-3840-3841
+Identificador de ejecución: RADAR1-20261024T1902-3842-3847
