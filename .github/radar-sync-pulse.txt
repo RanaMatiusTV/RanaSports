@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-24 10:10 America/Argentina/Buenos_Aires
-Identificador único: radar5-20261024-1010-f3812-f3813-run11
-Altas verificadas: 2
-Filas: 3812, 3813
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-24 11:00 America/Argentina/Buenos_Aires
+Identificador único: radar1-20261024-1100-f3814-f3819
+Altas verificadas: 6
+Filas: 3814-3819
 Estado: SHEETS_VERIFICADO; PULSO_SOLICITADO
-Última noticia: LA FIA QUIERE QUE LOS AUTOS DE F1 PESEN MENOS DE 700 KILOS DESDE 2030 O 2031
+Última noticia: UN ARGENTINO CONVIRTIÓ DOS FIAT 600 EN HOMENAJES RODANTES A BOCA Y LA SELECCIÓN
