@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-24 08:10 America/Argentina/Buenos_Aires
-Identificador único: radar5-20261024-0810-f3805-v1
-Altas verificadas: 1
-Filas: 3805
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-24 09:00 America/Argentina/Buenos_Aires
+Identificador único: radar1-20261024-0900-f3806-f3811-v1
+Altas verificadas: 6
+Filas: 3806-3811
 Estado: SHEETS_VERIFICADO; PULSO_SOLICITADO
-Última noticia: MATEO KALEJMAN REVELÓ QUE FINANCIA SU CARRERA CON UN NEGOCIO PROPIO Y SIN BECAS
+Última noticia: RIC FLAIR FUE HOSPITALIZADO DE URGENCIA TRAS DESPLOMARSE EN TAMPA
