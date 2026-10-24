@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/liam-lawson-dio-un-recital-en-austin-antes-del-gran-premio-de-estados-unidos/": {
+      "account": "f1",
+      "title": "LIAM LAWSON DIO UN RECITAL EN AUSTIN ANTES DEL GRAN PREMIO DE ESTADOS UNIDOS",
+      "dueAt": "2026-10-24T20:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add07310b5343d0709c5548",
+      "createdAt": "2026-10-24T19:29:53.257Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-fue-15-en-la-fp3-de-austin-y-hamilton-lidero-con-ferrari/": {
+      "account": "f1",
+      "title": "COLAPINTO FUE 15° EN LA FP3 DE AUSTIN Y HAMILTON LIDERÓ CON FERRARI",
+      "dueAt": "2026-10-24T19:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add07303d5b27036b9d6dbb",
+      "createdAt": "2026-10-24T19:29:52.876Z"
+    },
+    "https://ranasports.com.ar/racing/racing-definio-el-equipo-para-visitar-a-river-con-cannavo-y-tello/": {
+      "account": "sports",
+      "title": "RACING DEFINIÓ EL EQUIPO PARA VISITAR A RIVER CON CANNAVO Y TELLO",
+      "dueAt": "2026-10-24T20:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add07306887a2efc1d13404",
+      "createdAt": "2026-10-24T19:29:52.408Z"
+    },
+    "https://ranasports.com.ar/argentinos-en-el-exterior/taty-castellanos-busca-relanzarse-en-el-ascenso-ingles-con-west-ham/": {
+      "account": "sports",
+      "title": "TATY CASTELLANOS BUSCA RELANZARSE EN EL ASCENSO INGLÉS CON WEST HAM",
+      "dueAt": "2026-10-24T20:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add072f0b5343d0709c551f",
+      "createdAt": "2026-10-24T19:29:52.142Z"
+    },
+    "https://ranasports.com.ar/futbol/fabian-basualdo-recordo-como-se-convirtio-en-el-primer-representante-de-messi/": {
+      "account": "sports",
+      "title": "FABIÁN BASUALDO RECORDÓ CÓMO SE CONVIRTIÓ EN EL PRIMER REPRESENTANTE DE MESSI",
+      "dueAt": "2026-10-24T19:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add072fbd33ce99c33c198c",
+      "createdAt": "2026-10-24T19:29:51.645Z"
+    },
+    "https://ranasports.com.ar/futbol/argentina-cayo-1-0-ante-argelia-en-el-debut-del-mundial-sub-15/": {
+      "account": "sports",
+      "title": "ARGENTINA CAYÓ 1-0 ANTE ARGELIA EN EL DEBUT DEL MUNDIAL SUB-15",
+      "dueAt": "2026-10-24T19:29:49.132Z",
+      "mode": "shareNow",
+      "bufferPostId": "6add072d3d5b27036b9d6d1a",
+      "createdAt": "2026-10-24T19:29:51.227Z"
+    },
     "https://ranasports.com.ar/f1/antonelli-quedo-a-42-milesimas-de-leclerc-pero-mercedes-aun-busca-equilibrio/": {
       "account": "f1",
       "title": "ANTONELLI QUEDÓ A 42 MILÉSIMAS DE LECLERC PERO MERCEDES AÚN BUSCA EQUILIBRIO",
@@ -5287,60 +5335,6 @@
       "createdAt": "2026-10-01T06:27:31.796Z",
       "externalLink": "https://x.com/768913759301754880/status/2105545773073014897",
       "sentAt": "2026-10-01T06:30:06.397Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MjU3NjAwMDAsIlNDQUxPTkkgUkVWRUzDkyBMQSBDSEFSTEEgREVMIFJFRU5DVUVOVFJPIFkgRUwgREVTQUbDjU8gREUgSlVHQVIgU0lOIE1FU1NJIl0": {
-      "account": "main",
-      "title": "SCALONI REVELÓ LA CHARLA DEL REENCUENTRO Y EL DESAFÍO DE JUGAR SIN MESSI",
-      "dueAt": "2026-10-01T04:45:00.000Z",
-      "bufferPostId": "6abddff205e9a5c46ab854b6",
-      "createdAt": "2026-10-01T04:22:11.024Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105519331752747084",
-      "sentAt": "2026-10-01T04:45:02.325Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MjM1NDAwMDAsIkdJQVksIFZFR0EgWSBTSU3Dk04gQUJSSUVST04gTEEgUkVOT1ZBQ0nDk04gREUgTE9TIExBVEVSQUxFUyBFTiBMQSBTRUxFQ0NJw5NOIl0": {
-      "account": "main",
-      "title": "GIAY, VEGA Y SIMÓN ABRIERON LA RENOVACIÓN DE LOS LATERALES EN LA SELECCIÓN",
-      "dueAt": "2026-10-01T04:40:00.000Z",
-      "bufferPostId": "6abddff27b21e6b4b73a3e62",
-      "createdAt": "2026-10-01T04:22:10.511Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105518071276359724",
-      "sentAt": "2026-10-01T04:40:01.816Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MjM0ODAwMDAsIkNVVEkgUk9NRVJPOiBDQVBJVMOBTiwgR09MRUFET1IgWSBQUk9GRVRBIEVOIFNVIFRJRVJSQSJd": {
-      "account": "main",
-      "title": "CUTI ROMERO: CAPITÁN, GOLEADOR Y PROFETA EN SU TIERRA",
-      "dueAt": "2026-10-01T04:35:00.000Z",
-      "bufferPostId": "6abddff124db200ef4470789",
-      "createdAt": "2026-10-01T04:22:09.955Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105516812821492030",
-      "sentAt": "2026-10-01T04:35:01.763Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MjM0ODAwMDAsIkxBVVRBUk8gWSBKVUxJw4FOIFNVUEVSQVJPTiBMQSBQUlVFQkEgREVMIERPQkxFIE5VRVZFIEVOIExBIEVSQSBQT1NULU1FU1NJIl0": {
-      "account": "main",
-      "title": "LAUTARO Y JULIÁN SUPERARON LA PRUEBA DEL DOBLE NUEVE EN LA ERA POST-MESSI",
-      "dueAt": "2026-10-01T04:30:00.000Z",
-      "bufferPostId": "6abddff126106f73326f96cf",
-      "createdAt": "2026-10-01T04:22:09.433Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105515587677913113",
-      "sentAt": "2026-10-01T04:30:09.714Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MjM0ODAwMDAsIkZMQUNPIEzDk1BFWiwgRU1PQ0lPTkFETyBUUkFTIFNVIFBSSU1FUiBHT0wgRU4gTEEgU0VMRUNDScOTTjog4oCcVU4gRMONQSBJTk9MVklEQUJMReKAnSJd": {
-      "account": "main",
-      "title": "FLACO LÓPEZ, EMOCIONADO TRAS SU PRIMER GOL EN LA SELECCIÓN: “UN DÍA INOLVIDABLE”",
-      "dueAt": "2026-10-01T04:25:00.000Z",
-      "bufferPostId": "6abddff0b29c0fecf415f829",
-      "createdAt": "2026-10-01T04:22:08.953Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105514295605756222",
-      "sentAt": "2026-10-01T04:25:01.558Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MjExNDAwMDAsIlNDQUxPTkkgREVTVEFDw5MgTEEgSURFTlRJREFEIERFIEFSR0VOVElOQSBUUkFTIEVMIDQtMCBBTlRFIEJPTElWSUEiXQ": {
-      "account": "main",
-      "title": "SCALONI DESTACÓ LA IDENTIDAD DE ARGENTINA TRAS EL 4-0 ANTE BOLIVIA",
-      "dueAt": "2026-10-01T03:15:00.000Z",
-      "bufferPostId": "6abdcf37f245fa4cd53c5ea5",
-      "createdAt": "2026-10-01T03:10:47.950Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105496697522532768",
-      "sentAt": "2026-10-01T03:15:05.875Z"
     }
   },
   "nextAt": {
