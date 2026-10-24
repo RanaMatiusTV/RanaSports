@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Ejecución: 2026-10-24 09:00 America/Argentina/Buenos_Aires
-Identificador único: radar1-20261024-0900-f3806-f3811-v1
-Altas verificadas: 6
-Filas: 3806-3811
+RADAR 5 — RanaSports Actualidad Inmediata
+Ejecución: 2026-10-24 10:10 America/Argentina/Buenos_Aires
+Identificador único: radar5-20261024-1010-f3812-f3813-run11
+Altas verificadas: 2
+Filas: 3812, 3813
 Estado: SHEETS_VERIFICADO; PULSO_SOLICITADO
-Última noticia: RIC FLAIR FUE HOSPITALIZADO DE URGENCIA TRAS DESPLOMARSE EN TAMPA
+Última noticia: LA FIA QUIERE QUE LOS AUTOS DE F1 PESEN MENOS DE 700 KILOS DESDE 2030 O 2031
