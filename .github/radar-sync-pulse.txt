@@ -1,7 +1,8 @@
-RADAR 1 — RanaSports Noticias
-Ejecución: 2026-10-24 11:00 America/Argentina/Buenos_Aires
-Identificador único: radar1-20261024-1100-f3814-f3819
-Altas verificadas: 6
-Filas: 3814-3819
-Estado: SHEETS_VERIFICADO; PULSO_SOLICITADO
-Última noticia: UN ARGENTINO CONVIRTIÓ DOS FIAT 600 EN HOMENAJES RODANTES A BOCA Y LA SELECCIÓN
+RADAR 5 — RanaSports Actualidad Inmediata
+Ejecución: 2026-10-24 12:10 America/Argentina/Buenos_Aires
+Identificador único: radar5-20261024-1210-cero-altas
+Candidatas evaluadas: 3 (Independiente-Boca, Banfield-Lanús, horarios Colapinto en Austin)
+Descartadas por duplicación de hecho: 3
+Altas verificadas: 0
+Filas: ninguna
+Estado: SIN_ALTAS_NUEVAS; SHEETS_CONSULTADO; PULSO_SOLICITADO
