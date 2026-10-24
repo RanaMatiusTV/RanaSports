@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-24T16:58:19.868Z",
+  "updatedAt": "2026-10-24T19:28:45.965Z",
   "trends": [
     {
-      "query": "paramount",
-      "startedAt": "2026-10-24T16:40:00.000Z",
+      "query": "talleres - defensa y justicia",
+      "startedAt": "2026-10-24T19:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "festival bandera 2026",
-      "startedAt": "2026-10-24T16:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "napoli vs roma",
-      "startedAt": "2026-10-24T16:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "lionel messi - balón de oro",
-      "startedAt": "2026-10-24T16:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "el niño",
-      "startedAt": "2026-10-24T16:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "ufc",
-      "startedAt": "2026-10-24T16:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "banfield lanus",
-      "startedAt": "2026-10-24T16:10:00.000Z",
+      "query": "lone'er kavanagh",
+      "startedAt": "2026-10-24T19:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "river racing",
-      "startedAt": "2026-10-24T16:10:00.000Z",
+      "query": "barca vs real madrid",
+      "startedAt": "2026-10-24T19:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "internacional - botafogo",
+      "startedAt": "2026-10-24T19:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "aleksandr vólkov",
+      "startedAt": "2026-10-24T19:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "mirassol - são paulo",
+      "startedAt": "2026-10-24T18:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "rizvan kuniev",
+      "startedAt": "2026-10-24T18:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "lens fc",
+      "startedAt": "2026-10-24T18:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "ferro - chaco for ever",
+      "startedAt": "2026-10-24T18:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "posiciones de chelsea contra tottenham",
+      "startedAt": "2026-10-24T18:40:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "excursionistas",
-      "startedAt": "2026-10-24T16:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "la mona jiménez",
-      "startedAt": "2026-10-24T16:00:00.000Z",
-      "volume": 100
     }
   ]
 }
