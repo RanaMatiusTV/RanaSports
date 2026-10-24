@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-23T21:41:33.074Z",
+  "updatedAt": "2026-10-24T00:01:50.710Z",
   "trends": [
     {
-      "query": "pedri",
-      "startedAt": "2026-10-23T21:10:00.000Z",
+      "query": "nito artaza",
+      "startedAt": "2026-10-23T23:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "virginia lago",
-      "startedAt": "2026-10-23T21:10:00.000Z",
+      "query": "team liquid",
+      "startedAt": "2026-10-23T23:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "balon de oro",
-      "startedAt": "2026-10-23T21:00:00.000Z",
+      "query": "tigre - atlético tucumán",
+      "startedAt": "2026-10-23T23:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "ruta provincial 1",
+      "startedAt": "2026-10-23T23:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "gimnasia y esgrima - platense",
-      "startedAt": "2026-10-23T20:50:00.000Z",
-      "volume": 5000
+      "query": "pacers - mavericks",
+      "startedAt": "2026-10-23T23:20:00.000Z",
+      "volume": 200
     },
     {
-      "query": "lol esports",
-      "startedAt": "2026-10-23T20:40:00.000Z",
+      "query": "sol",
+      "startedAt": "2026-10-23T23:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "gimnasia - sarmiento",
-      "startedAt": "2026-10-23T20:30:00.000Z",
-      "volume": 20000
+      "query": "cruzeiro",
+      "startedAt": "2026-10-23T23:10:00.000Z",
+      "volume": 200
     },
     {
-      "query": "omar sy",
-      "startedAt": "2026-10-23T20:30:00.000Z",
-      "volume": 100
+      "query": "magic - timberwolves",
+      "startedAt": "2026-10-23T23:10:00.000Z",
+      "volume": 200
     },
     {
-      "query": "marcela coronel",
-      "startedAt": "2026-10-23T19:50:00.000Z",
+      "query": "juan alberto mateyko",
+      "startedAt": "2026-10-23T22:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "celtics - knicks",
+      "startedAt": "2026-10-23T22:20:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "minería",
-      "startedAt": "2026-10-23T19:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gabigol",
-      "startedAt": "2026-10-23T19:50:00.000Z",
-      "volume": 200
     }
   ]
 }
