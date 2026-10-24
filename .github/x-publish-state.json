@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/independiente-tendria-a-abaldo-por-cabral-para-el-clasico-con-boca/": {
+      "account": "main",
+      "title": "INDEPENDIENTE TENDRÍA A ABALDO POR CABRAL PARA EL CLÁSICO CON BOCA",
+      "dueAt": "2026-10-24T22:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add31563d5b27036ba60d64",
+      "createdAt": "2026-10-24T22:29:42.843Z"
+    },
+    "https://ranasports.com.ar/f1/leclerc-sera-padre-y-aseguro-que-no-se-perdera-ningun-gran-premio/": {
+      "account": "f1",
+      "title": "LECLERC SERÁ PADRE Y ASEGURÓ QUE NO SE PERDERÁ NINGÚN GRAN PREMIO",
+      "dueAt": "2026-10-24T23:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add31556887a2efc1d9c481",
+      "createdAt": "2026-10-24T22:29:42.123Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-avanzo-a-q2-en-austin-quedo-15-y-largara-con-diez-puestos-de-penalizacion/": {
+      "account": "f1",
+      "title": "COLAPINTO AVANZÓ A Q2 EN AUSTIN, QUEDÓ 15° Y LARGARÁ CON DIEZ PUESTOS DE PENALIZACIÓN",
+      "dueAt": "2026-10-24T22:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add31558b3d437ddcde7cea",
+      "createdAt": "2026-10-24T22:29:41.693Z"
+    },
+    "https://ranasports.com.ar/boca/boca-podria-ser-multado-en-brasil-por-el-logo-de-betsson-en-el-maracana/": {
+      "account": "sports",
+      "title": "BOCA PODRÍA SER MULTADO EN BRASIL POR EL LOGO DE BETSSON EN EL MARACANÁ",
+      "dueAt": "2026-10-24T23:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add31546887a2efc1d9c458",
+      "createdAt": "2026-10-24T22:29:40.884Z"
+    },
+    "https://ranasports.com.ar/futbol/defensa-y-justicia-vencio-2-1-a-talleres-y-se-clasifico-a-los-playoffs/": {
+      "account": "sports",
+      "title": "DEFENSA Y JUSTICIA VENCIÓ 2-1 A TALLERES Y SE CLASIFICÓ A LOS PLAYOFFS",
+      "dueAt": "2026-10-24T23:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add31546887a2efc1d9c41a",
+      "createdAt": "2026-10-24T22:29:40.492Z"
+    },
+    "https://ranasports.com.ar/tenis/cerundolo-saco-para-ganar-pero-griekspoor-lo-elimino-en-semifinales-de-bruselas/": {
+      "account": "sports",
+      "title": "CERÚNDOLO SACÓ PARA GANAR, PERO GRIEKSPOOR LO ELIMINÓ EN SEMIFINALES DE BRUSELAS",
+      "dueAt": "2026-10-24T22:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add3153e4be8a4d867d92f5",
+      "createdAt": "2026-10-24T22:29:39.803Z"
+    },
+    "https://ranasports.com.ar/futbol/chaco-for-ever-goleo-3-0-a-ferro-y-dejo-abierta-la-definicion-de-la-primera-nacional/": {
+      "account": "sports",
+      "title": "CHACO FOR EVER GOLEÓ 3-0 A FERRO Y DEJÓ ABIERTA LA DEFINICIÓN DE LA PRIMERA NACIONAL",
+      "dueAt": "2026-10-24T22:29:36.681Z",
+      "mode": "shareNow",
+      "bufferPostId": "6add31508b3d437ddcde7c3f",
+      "createdAt": "2026-10-24T22:29:38.833Z"
+    },
     "https://ranasports.com.ar/f1/liam-lawson-dio-un-recital-en-austin-antes-del-gran-premio-de-estados-unidos/": {
       "account": "f1",
       "title": "LIAM LAWSON DIO UN RECITAL EN AUSTIN ANTES DEL GRAN PREMIO DE ESTADOS UNIDOS",
@@ -5272,69 +5328,6 @@
       "createdAt": "2026-10-01T15:20:54.525Z",
       "externalLink": "https://x.com/2095690134515572737/status/2105681666358325692",
       "sentAt": "2026-10-01T15:30:05.831Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDg2Mjg0MDAwMCwiTk9SUklTIEFETUlUScOTIFFVRSBTRSBFUVVJVk9Dw5MgQ09OIENPTEFQSU5UTyBZIFJFVkVMw5MgTEFTIERJU0NVTFBBUyBNVVRVQVMiXQ": {
-      "account": "f1",
-      "title": "NORRIS ADMITIÓ QUE SE EQUIVOCÓ CON COLAPINTO Y REVELÓ LAS DISCULPAS MUTUAS",
-      "dueAt": "2026-10-01T15:25:00.000Z",
-      "bufferPostId": "6abe7a550dabbef02f77af8c",
-      "createdAt": "2026-10-01T15:20:54.106Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2105680391893897626",
-      "sentAt": "2026-10-01T15:25:01.976Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDg1OTkwMDAwMCwiQ09MQVBJTlRPIExFIFJFU1BPTkRJw5MgQSBOT1JSSVMgWSBDVUVTVElPTsOTIExPUyBBVEFRVUVTIENPTlRSQSBMT1MgQVJHRU5USU5PUyJd": {
-      "account": "f1",
-      "title": "COLAPINTO LE RESPONDIÓ A NORRIS Y CUESTIONÓ LOS ATAQUES CONTRA LOS ARGENTINOS",
-      "dueAt": "2026-10-01T14:05:00.000Z",
-      "bufferPostId": "6abe682d81230a0fd705b875",
-      "createdAt": "2026-10-01T14:03:25.624Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2105660285788750048",
-      "sentAt": "2026-10-01T14:05:08.363Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4NTUyMjAwMDAsIk5JQ08gUEFaIEdBTsOTIExBIEVOQ1VFU1RBIFBBUkEgSEVSRURBUiBMQSAxMCBERSBNRVNTSSBFTiBMQSBTRUxFQ0NJw5NOIl0": {
-      "account": "main",
-      "title": "NICO PAZ GANÓ LA ENCUESTA PARA HEREDAR LA 10 DE MESSI EN LA SELECCIÓN",
-      "dueAt": "2026-10-01T13:35:00.000Z",
-      "bufferPostId": "6abe6053a1257d1a53a20621",
-      "createdAt": "2026-10-01T13:29:55.792Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105652712096358532",
-      "sentAt": "2026-10-01T13:35:02.613Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDg1MjcwMDAwMCwiQ09MQVBJTlRPOiBIT1JBUklPUyBZIFRWIERFIExBUyBQUsOBQ1RJQ0FTIERFTCBHUCBERSBNQUxBU0lBIl0": {
-      "account": "f1",
-      "title": "COLAPINTO: HORARIOS Y TV DE LAS PRÁCTICAS DEL GP DE MALASIA",
-      "dueAt": "2026-10-01T12:35:00.000Z",
-      "bufferPostId": "6abe521432539d486889dd95",
-      "createdAt": "2026-10-01T12:29:08.285Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2105637616989204692",
-      "sentAt": "2026-10-01T12:35:03.692Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4NTAzNjAwMDAsIlNDQUxPTkkgRUxPR0nDkyBBTCBDVVRJIFJPTUVSTywgUEVSTyBMRSBFWElHScOTIENPTkRVQ1RBIEVKRU1QTEFSIENPTU8gQ0FQSVTDgU4iXQ": {
-      "account": "main",
-      "title": "SCALONI ELOGIÓ AL CUTI ROMERO, PERO LE EXIGIÓ CONDUCTA EJEMPLAR COMO CAPITÁN",
-      "dueAt": "2026-10-01T12:30:00.000Z",
-      "bufferPostId": "6abe51faf8b74af576c45abf",
-      "createdAt": "2026-10-01T12:28:42.742Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105636390197149711",
-      "sentAt": "2026-10-01T12:30:11.200Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MjU4ODAwMDAsIk1BU1RBTlRVT05PIENPTlTDkyBFTCBET0xPUiBERSBRVUVEQVIgQUZVRVJBIERFTCBNVU5ESUFMIFkgREVTVEFDw5MgTEEgTElCRVJUQUQgUVVFIExFIERBIFNDQUxPTkkiXQ": {
-      "account": "main",
-      "title": "MASTANTUONO CONTÓ EL DOLOR DE QUEDAR AFUERA DEL MUNDIAL Y DESTACÓ LA LIBERTAD QUE LE DA SCALONI",
-      "dueAt": "2026-10-01T06:35:00.000Z",
-      "bufferPostId": "6abdfd54cbc2e2c98ff5d4cb",
-      "createdAt": "2026-10-01T06:27:32.123Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105547011881668654",
-      "sentAt": "2026-10-01T06:35:01.765Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4MjIxMDAwMDAsIkxBIFNFTEVDQ0nDk04gWUEgVElFTkUgRkVDSEEgUEFSQSBTVVMgUFLDk1hJTU9TIERPUyBBTUlTVE9TT1MiXQ": {
-      "account": "main",
-      "title": "LA SELECCIÓN YA TIENE FECHA PARA SUS PRÓXIMOS DOS AMISTOSOS",
-      "dueAt": "2026-10-01T06:30:00.000Z",
-      "bufferPostId": "6abdfd5355a3f6ac7b276edd",
-      "createdAt": "2026-10-01T06:27:31.796Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105545773073014897",
-      "sentAt": "2026-10-01T06:30:06.397Z"
     }
   },
   "nextAt": {
