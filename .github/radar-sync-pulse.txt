@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Ejecución: 2026-10-24 00:25 America/Argentina/Buenos_Aires
-Identificador único: radar1-20261024-0025-f3791-3796
-Altas verificadas: 6
-Filas: 3791, 3792, 3793, 3794, 3795, 3796
+RADAR 5 — RanaSports Actualidad Inmediata
+Ejecución: 2026-10-24 06:10 America/Argentina/Buenos_Aires
+Identificador único: radar5-20261024-0610-f3797-3798-v11
+Altas verificadas: 2
+Filas: 3797, 3798
 Estado: SHEETS_VERIFICADO; PULSO_SOLICITADO
-Último título: SAN LORENZO RECIBE A NEWELL'S EN UN DUELO DIRECTO POR LOS OCTAVOS
+Noticias: LEONEL JAIME FRENÓ UN ATAQUE POR FAIR PLAY, LO SILBARON Y TERMINÓ LLORANDO | MILWAUKEE BREWERS GANÓ 3-2 A TAMPA BAY Y SE ADELANTÓ EN LA SERIE MUNDIAL
