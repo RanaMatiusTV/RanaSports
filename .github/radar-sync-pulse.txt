@@ -1,8 +1,6 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-24 12:10 America/Argentina/Buenos_Aires
-Identificador único: radar5-20261024-1210-cero-altas
-Candidatas evaluadas: 3 (Independiente-Boca, Banfield-Lanús, horarios Colapinto en Austin)
-Descartadas por duplicación de hecho: 3
-Altas verificadas: 0
-Filas: ninguna
-Estado: SIN_ALTAS_NUEVAS; SHEETS_CONSULTADO; PULSO_SOLICITADO
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-24 13:00 America/Argentina/Buenos_Aires
+Altas verificadas: 6
+Filas: 3820-3825
+Última noticia: JAGGER HERRERA MOSTRÓ SUS FOTOS DE INFANTILES Y REAFIRMÓ SU IDENTIDAD CON BOCA
+Estado: ALTAS_VERIFICADAS; SHEETS_ACTUALIZADO; SINCRONIZACION_SOLICITADA
