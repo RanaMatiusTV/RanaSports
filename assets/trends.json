@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-24T00:01:50.710Z",
+  "updatedAt": "2026-10-24T04:34:12.072Z",
   "trends": [
     {
-      "query": "nito artaza",
-      "startedAt": "2026-10-23T23:40:00.000Z",
+      "query": "nancy pazos",
+      "startedAt": "2026-10-24T03:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "team liquid",
-      "startedAt": "2026-10-23T23:40:00.000Z",
+      "query": "f1 gp estados unidos",
+      "startedAt": "2026-10-24T03:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "puerto madero",
+      "startedAt": "2026-10-24T03:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "necaxa",
+      "startedAt": "2026-10-24T02:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pronostico cordoba",
+      "startedAt": "2026-10-24T02:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "nadie quiere esto",
+      "startedAt": "2026-10-24T02:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "tigre - atlético tucumán",
-      "startedAt": "2026-10-23T23:20:00.000Z",
+      "query": "cotizacion dolar blue hoy",
+      "startedAt": "2026-10-24T01:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "ruta provincial 1",
-      "startedAt": "2026-10-23T23:20:00.000Z",
+      "query": "nba hoy",
+      "startedAt": "2026-10-24T01:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "pacers - mavericks",
-      "startedAt": "2026-10-23T23:20:00.000Z",
-      "volume": 200
+      "query": "juventud antoniana",
+      "startedAt": "2026-10-24T01:30:00.000Z",
+      "volume": 500
     },
     {
-      "query": "sol",
-      "startedAt": "2026-10-23T23:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "cruzeiro",
-      "startedAt": "2026-10-23T23:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "magic - timberwolves",
-      "startedAt": "2026-10-23T23:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "juan alberto mateyko",
-      "startedAt": "2026-10-23T22:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "celtics - knicks",
-      "startedAt": "2026-10-23T22:20:00.000Z",
-      "volume": 1000
+      "query": "clima parana",
+      "startedAt": "2026-10-24T01:30:00.000Z",
+      "volume": 500
     }
   ]
 }
