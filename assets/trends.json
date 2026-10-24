@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-24T13:19:02.743Z",
+  "updatedAt": "2026-10-24T16:58:19.868Z",
   "trends": [
     {
-      "query": "vanuatu",
-      "startedAt": "2026-10-24T12:50:00.000Z",
+      "query": "paramount",
+      "startedAt": "2026-10-24T16:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "festival bandera 2026",
+      "startedAt": "2026-10-24T16:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "24 de octubre",
-      "startedAt": "2026-10-24T12:30:00.000Z",
+      "query": "napoli vs roma",
+      "startedAt": "2026-10-24T16:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "como - sassuolo",
-      "startedAt": "2026-10-24T12:20:00.000Z",
+      "query": "lionel messi - balón de oro",
+      "startedAt": "2026-10-24T16:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "el niño",
+      "startedAt": "2026-10-24T16:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "ufc",
+      "startedAt": "2026-10-24T16:10:00.000Z",
       "volume": 1000
     },
     {
-      "query": "ángel di maría",
-      "startedAt": "2026-10-24T12:20:00.000Z",
+      "query": "banfield lanus",
+      "startedAt": "2026-10-24T16:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "nafta",
-      "startedAt": "2026-10-24T12:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "aston villa vs man city",
-      "startedAt": "2026-10-24T12:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "changomâs",
-      "startedAt": "2026-10-24T11:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "rayo vallecano - elche c. f.",
-      "startedAt": "2026-10-24T11:30:00.000Z",
+      "query": "river racing",
+      "startedAt": "2026-10-24T16:10:00.000Z",
       "volume": 1000
     },
     {
-      "query": "policía",
-      "startedAt": "2026-10-24T11:10:00.000Z",
+      "query": "excursionistas",
+      "startedAt": "2026-10-24T16:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "aquarium mar del plata",
-      "startedAt": "2026-10-24T11:00:00.000Z",
-      "volume": 200
+      "query": "la mona jiménez",
+      "startedAt": "2026-10-24T16:00:00.000Z",
+      "volume": 100
     }
   ]
 }
