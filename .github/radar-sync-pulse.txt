@@ -1,8 +1,6 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-24 14:10 America/Argentina/Buenos_Aires
-Altas verificadas: 1
-Filas: 3826
-Última noticia: MOURINHO LE RESPONDIÓ A FERMÍN Y FLICK LO ELOGIÓ ANTES DEL CLÁSICO
-Descartadas por duplicación: 4 (Racing variantes; River lateral; Boca Braida; Flamengo reclamo)
-Descartadas por falta de confirmación: 1 (Jorginho dopaje)
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-24 15:00 America/Argentina/Buenos_Aires
+Altas verificadas: 6
+Filas: 3827-3832
+Última noticia: A 30 AÑOS DEL RETIRO, SABATINI EXPLICÓ POR QUÉ NECESITÓ ALEJARSE DEL TENIS
 Estado: ALTAS_VERIFICADAS; SHEETS_ACTUALIZADO; SINCRONIZACION_SOLICITADA
