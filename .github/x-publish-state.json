@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/independiente-perfila-a-abaldo-por-cabral-y-mantiene-a-arias-para-recibir-a-boca/": {
+      "account": "main",
+      "title": "INDEPENDIENTE PERFILA A ABALDO POR CABRAL Y MANTIENE A ARIAS PARA RECIBIR A BOCA",
+      "dueAt": "2026-10-24T01:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adc0bad0b5343d0705ce5f7",
+      "createdAt": "2026-10-24T01:36:45.483Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-mejoro-al-15-puesto-en-la-fp2-de-austin-y-leclerc-lidero-el-viernes/": {
+      "account": "f1",
+      "title": "COLAPINTO MEJORÓ AL 15° PUESTO EN LA FP2 DE AUSTIN Y LECLERC LIDERÓ EL VIERNES",
+      "dueAt": "2026-10-24T02:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adc0bac0b5343d0705ce5ce",
+      "createdAt": "2026-10-24T01:36:45.026Z"
+    },
+    "https://ranasports.com.ar/racing/racing-cobrara-cerca-de-us-250-000-por-la-final-de-estudiantes-en-la-libertadores/": {
+      "account": "sports",
+      "title": "RACING COBRARÁ CERCA DE US$250.000 POR LA FINAL DE ESTUDIANTES EN LA LIBERTADORES",
+      "dueAt": "2026-10-24T02:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adc0bacbd33ce99c3fd4147",
+      "createdAt": "2026-10-24T01:36:44.746Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-cree-que-la-f1-podria-volver-a-argentina-antes-de-2030/": {
+      "account": "f1",
+      "title": "COLAPINTO CREE QUE LA F1 PODRÍA VOLVER A ARGENTINA ANTES DE 2030",
+      "dueAt": "2026-10-24T01:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adc0bacbd33ce99c3fd411e",
+      "createdAt": "2026-10-24T01:36:44.216Z"
+    },
+    "https://ranasports.com.ar/futbol/gimnasia-vencio-2-0-a-sarmiento-y-se-afirmo-en-zona-de-playoffs/": {
+      "account": "sports",
+      "title": "GIMNASIA VENCIÓ 2-0 A SARMIENTO Y SE AFIRMÓ EN ZONA DE PLAYOFFS",
+      "dueAt": "2026-10-24T02:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adc0bab6887a2efc1927a32",
+      "createdAt": "2026-10-24T01:36:43.740Z"
+    },
+    "https://ranasports.com.ar/viral/el-delantero-que-repitio-el-penal-mas-lento-del-mundo-y-volvio-a-fallar/": {
+      "account": "sports",
+      "title": "EL DELANTERO QUE REPITIÓ EL 'PENAL MÁS LENTO DEL MUNDO' Y VOLVIÓ A FALLAR",
+      "dueAt": "2026-10-24T01:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adc0baa8b3d437ddc95ec15",
+      "createdAt": "2026-10-24T01:36:42.383Z"
+    },
+    "https://ranasports.com.ar/futbol/platense-dio-vuelta-a-gimnasia-de-mendoza-y-lo-gano-en-la-ultima/": {
+      "account": "sports",
+      "title": "PLATENSE DIO VUELTA A GIMNASIA DE MENDOZA Y LO GANÓ EN LA ÚLTIMA",
+      "dueAt": "2026-10-24T01:36:39.424Z",
+      "mode": "shareNow",
+      "bufferPostId": "6adc0ba70b5343d0705ce56d",
+      "createdAt": "2026-10-24T01:36:41.559Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-abre-su-actividad-en-austin-con-dos-practicas-libres/": {
       "account": "f1",
       "title": "COLAPINTO ABRE SU ACTIVIDAD EN AUSTIN CON DOS PRÁCTICAS LIBRES",
@@ -5298,69 +5354,6 @@
       "createdAt": "2026-09-30T23:21:45.392Z",
       "externalLink": "https://x.com/768913759301754880/status/2105442575549088213",
       "sentAt": "2026-09-30T23:40:02.122Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3OTg4ODAwMDAsIk1PSEFNRUQgUkVTUEFMRMOTIExBIENPTlRJTlVJREFEIERFIFNDQUxPTkkgRU4gTEEgU0VMRUNDScOTTiJd": {
-      "account": "main",
-      "title": "MOHAMED RESPALDÓ LA CONTINUIDAD DE SCALONI EN LA SELECCIÓN",
-      "dueAt": "2026-09-30T23:35:00.000Z",
-      "bufferPostId": "6abd99875feb60d6345fef8c",
-      "createdAt": "2026-09-30T23:21:43.670Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105441316104475035",
-      "sentAt": "2026-09-30T23:35:01.950Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3OTQzMjAwMDAsIlpBTkVUVEkgTEUgQUdSQURFQ0nDkyBBIE1FU1NJIFkgUEFMUElUw5MgU1UgREVTUEVESURBIERFIExBIFNFTEVDQ0nDk04iXQ": {
-      "account": "main",
-      "title": "ZANETTI LE AGRADECIÓ A MESSI Y PALPITÓ SU DESPEDIDA DE LA SELECCIÓN",
-      "dueAt": "2026-09-30T23:30:00.000Z",
-      "bufferPostId": "6abd9987c6f337a779f7def5",
-      "createdAt": "2026-09-30T23:21:43.204Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105440087274066217",
-      "sentAt": "2026-09-30T23:30:08.893Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwNzkyMjgwMDAwLCJCQU5FR0FTIFNFIEVOVFJFTsOTIFBPUiBQUklNRVJBIFZFWiBZIFBVRURFIERFQlVUQVIgQU5URSBJTlNUSVRVVE8iXQ": {
-      "account": "main",
-      "title": "BANEGAS SE ENTRENÓ POR PRIMERA VEZ Y PUEDE DEBUTAR ANTE INSTITUTO",
-      "dueAt": "2026-09-30T23:25:00.000Z",
-      "bufferPostId": "6abd998605e9a5c46ab005ec",
-      "createdAt": "2026-09-30T23:21:42.690Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105438803095687384",
-      "sentAt": "2026-09-30T23:25:02.714Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3OTA2NjAwMDAsIkxBIFVCQSBESVNUSU5HVUlSw4EgQSBMSU9ORUwgTUVTU0kgQ09OIFVOIERPQ1RPUkFETyBIT05PUklTIENBVVNBIl0": {
-      "account": "main",
-      "title": "LA UBA DISTINGUIRÁ A LIONEL MESSI CON UN DOCTORADO HONORIS CAUSA",
-      "dueAt": "2026-09-30T18:35:00.000Z",
-      "bufferPostId": "6abd52b92f3e6ae2be674684",
-      "createdAt": "2026-09-30T18:19:37.374Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105365819962101765",
-      "sentAt": "2026-09-30T18:35:02.257Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3ODgxNDAwMDAsIlNDQUxPTkkgRU5TQVnDkyBET1MgTUVESU9DQU1QSVNUQVMgQUJJRVJUT1MgWSBDT05GSVJNw5MgTEEgRFVQTEEgTEFVVEFSTy1KVUxJw4FOIEFOVEUgQk9MSVZJQSJd": {
-      "account": "main",
-      "title": "SCALONI ENSAYÓ DOS MEDIOCAMPISTAS ABIERTOS Y CONFIRMÓ LA DUPLA LAUTARO-JULIÁN ANTE BOLIVIA",
-      "dueAt": "2026-09-30T18:30:00.000Z",
-      "bufferPostId": "6abd52b87aad006ba5cd4594",
-      "createdAt": "2026-09-30T18:19:36.526Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105364578200633478",
-      "sentAt": "2026-09-30T18:30:06.230Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA3ODc5NjAwMDAsIkZJRkEgTk8gTElCRVJBUsOBIENVUE9TIERFIEFSR0VOVElOQSwgVVJVR1VBWSBZIFBBUkFHVUFZIEVOIExBUyBFTElNSU5BVE9SSUFTIDIwMzAiXQ": {
-      "account": "main",
-      "title": "FIFA NO LIBERARÁ CUPOS DE ARGENTINA, URUGUAY Y PARAGUAY EN LAS ELIMINATORIAS 2030",
-      "dueAt": "2026-09-30T18:25:00.000Z",
-      "bufferPostId": "6abd52b72f3e6ae2be67463d",
-      "createdAt": "2026-09-30T18:19:35.969Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105363303677497477",
-      "sentAt": "2026-09-30T18:25:02.297Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDc4MTU0MDAwMCwiSk9EWSBTQ0hFQ0tURVI6IERFIENBTVBFw5NOIENPTiBGRVJSQVJJIEEgUFJPRFVDVE9SIERFIE1PWlpBUkVMTEEgWSBIRUxBRE9TIl0": {
-      "account": "f1",
-      "title": "JODY SCHECKTER: DE CAMPEÓN CON FERRARI A PRODUCTOR DE MOZZARELLA Y HELADOS",
-      "dueAt": "2026-09-30T16:30:00.000Z",
-      "bufferPostId": "6abd37c29ffc1183ec54644e",
-      "createdAt": "2026-09-30T16:24:34.993Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2105334379249590769",
-      "sentAt": "2026-09-30T16:30:06.155Z"
     }
   },
   "nextAt": {
