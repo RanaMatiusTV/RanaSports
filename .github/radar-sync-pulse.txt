@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-25T06:10:00-03:00 America/Argentina/Buenos_Aires
-Altas verificadas: 2
-Filas: 3869, 3870
-Últimas noticias: MOTOGP DE AUSTRALIA CANCELADO POR MAL TIEMPO; JORGE MARTÍN SIN SEGUNDA FRACTURA TRAS TOMOGRAFÍA
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-25T07:10:00-03:00 America/Argentina/Buenos_Aires
+Altas verificadas: 6
+Filas: 3871-3876
+Última noticia: AMENAZARON AL PLANTEL DE NUEVA CHICAGO EN PLENA LUCHA POR NO DESCENDER
 Estado: ALTAS_VERIFICADAS; SHEETS_ACTUALIZADO; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR5-20261025061000-3869-3870
+Identificador de ejecución: RADAR1-20261025071000-3871-3876
