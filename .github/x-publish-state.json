@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/tenis/rybakina-retuvo-el-titulo-de-ningbo-y-afianzo-su-numero-uno/": {
+      "account": "sports",
+      "title": "RYBAKINA RETUVO EL TÍTULO DE NINGBO Y AFIANZÓ SU NÚMERO UNO",
+      "dueAt": "2026-10-25T18:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ade2d51bd33ce99c37e41fe",
+      "createdAt": "2026-10-25T16:24:49.978Z"
+    },
+    "https://ranasports.com.ar/futbol/newcastle-gano-2-0-en-su-visita-a-crystal-palace/": {
+      "account": "sports",
+      "title": "NEWCASTLE GANÓ 2-0 EN SU VISITA A CRYSTAL PALACE",
+      "dueAt": "2026-10-25T17:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ade2d516887a2efc113f666",
+      "createdAt": "2026-10-25T16:24:49.135Z"
+    },
+    "https://ranasports.com.ar/futbol/bournemouth-goleo-3-0-al-manchester-united-en-old-trafford/": {
+      "account": "sports",
+      "title": "BOURNEMOUTH GOLEÓ 3-0 AL MANCHESTER UNITED EN OLD TRAFFORD",
+      "dueAt": "2026-10-25T17:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ade2d4f6887a2efc113f5eb",
+      "createdAt": "2026-10-25T16:24:47.714Z"
+    },
+    "https://ranasports.com.ar/futbol/athletic-club-goleo-4-0-a-getafe-en-san-mames/": {
+      "account": "sports",
+      "title": "ATHLETIC CLUB GOLEÓ 4-0 A GETAFE EN SAN MAMÉS",
+      "dueAt": "2026-10-25T16:24:43.423Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ade2d4b8b3d437ddc17ea11",
+      "createdAt": "2026-10-25T16:24:45.595Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-definio-como-rara-su-clasificacion-en-austin-y-explico-los-problemas-del-alpine/": {
       "account": "f1",
       "title": "COLAPINTO DEFINIÓ COMO “RARA” SU CLASIFICACIÓN EN AUSTIN Y EXPLICÓ LOS PROBLEMAS DEL ALPINE",
@@ -5276,42 +5308,6 @@
       "createdAt": "2026-10-03T02:23:48.629Z",
       "externalLink": "https://x.com/768913759301754880/status/2106208875154112845",
       "sentAt": "2026-10-03T02:25:02.254Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDk3MzQyMDAwMCwiQUxQSU5FIEVYUExJQ8OTIFBPUiBRVcOJIENBTUJJw5MgRUwgTU9UT1IgREUgQ09MQVBJTlRPIFBFU0UgQSBMQSBTQU5DScOTTiJd": {
-      "account": "f1",
-      "title": "ALPINE EXPLICÓ POR QUÉ CAMBIÓ EL MOTOR DE COLAPINTO PESE A LA SANCIÓN",
-      "dueAt": "2026-10-02T23:35:00.000Z",
-      "bufferPostId": "6ac03e635831428806a8ab3a",
-      "createdAt": "2026-10-02T23:29:40.086Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2106166092636852716",
-      "sentAt": "2026-10-02T23:35:02.056Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5Nzc4NjAwMDAsIlNDQUxPTkkgUFJPQsOTIExBIEJBU0UgREVMIEVRVUlQTyBQQVJBIEVORlJFTlRBUiBBIEJVUktJTkEgRkFTTyJd": {
-      "account": "main",
-      "title": "SCALONI PROBÓ LA BASE DEL EQUIPO PARA ENFRENTAR A BURKINA FASO",
-      "dueAt": "2026-10-02T23:40:00.000Z",
-      "bufferPostId": "6ac03e4ef942e391370109f1",
-      "createdAt": "2026-10-02T23:29:19.018Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106167349980082294",
-      "sentAt": "2026-10-02T23:40:01.830Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5NzMxODAwMDAsIkVMIE1PTlVNRU5UQUwgUVVFRMOTIElNUEVDQUJMRSBZIFlBIEVTUEVSQSBBIExBIFNFTEVDQ0nDk04iXQ": {
-      "account": "main",
-      "title": "EL MONUMENTAL QUEDÓ IMPECABLE Y YA ESPERA A LA SELECCIÓN",
-      "dueAt": "2026-10-02T23:35:00.000Z",
-      "bufferPostId": "6ac03e4e6091822e891cbf7f",
-      "createdAt": "2026-10-02T23:29:18.243Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106166094331347154",
-      "sentAt": "2026-10-02T23:35:02.469Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDk3MDQ4MDAwMCwiVkVSU1RBUFBFTiBBR1JBREVDScOTIExPUyBFTE9HSU9TIERFIENPTEFQSU5UTyBUUkFTIEVMIENIT1FVRSBERSBCQUvDmiJd": {
-      "account": "f1",
-      "title": "VERSTAPPEN AGRADECIÓ LOS ELOGIOS DE COLAPINTO TRAS EL CHOQUE DE BAKÚ",
-      "dueAt": "2026-10-02T20:20:00.000Z",
-      "bufferPostId": "6ac011afe25183641e567b00",
-      "createdAt": "2026-10-02T20:18:55.346Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2106117019825320405",
-      "sentAt": "2026-10-02T20:20:02.196Z"
     }
   },
   "nextAt": {
