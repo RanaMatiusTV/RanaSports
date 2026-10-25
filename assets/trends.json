@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-25T00:19:45.577Z",
+  "updatedAt": "2026-10-25T05:19:05.051Z",
   "trends": [
     {
-      "query": "león - toluca",
-      "startedAt": "2026-10-24T23:50:00.000Z",
+      "query": "pumas - tigres",
+      "startedAt": "2026-10-25T03:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "navarrete vs foster",
+      "startedAt": "2026-10-25T03:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "luisana lopilato",
-      "startedAt": "2026-10-24T23:50:00.000Z",
+      "query": "posiciones de rosario central contra club atlético huracán",
+      "startedAt": "2026-10-25T02:40:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "posiciones de santos futebol clube contra esporte clube bahia",
+      "startedAt": "2026-10-25T02:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "posiciones de club ciudad de bolívar fútbol contra colon de santa fe",
+      "startedAt": "2026-10-25T02:10:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "neymar",
+      "startedAt": "2026-10-25T02:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "fútbol sala",
+      "startedAt": "2026-10-25T02:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "posiciones de atlanta united contra chicago fire fc",
+      "startedAt": "2026-10-25T01:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "rodrigo lussich",
+      "startedAt": "2026-10-25T01:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "polino",
+      "startedAt": "2026-10-25T01:50:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "posiciones de new york red bulls contra inter miami",
-      "startedAt": "2026-10-24T23:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "rosario central - huracán",
-      "startedAt": "2026-10-24T23:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "alfarería",
-      "startedAt": "2026-10-24T23:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "américa - cúcuta",
-      "startedAt": "2026-10-24T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "mavericks - spurs",
-      "startedAt": "2026-10-24T23:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "gran premio de los estados unidos",
-      "startedAt": "2026-10-24T23:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "jeremy clarkson",
-      "startedAt": "2026-10-24T23:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "dc united - cincinnati",
-      "startedAt": "2026-10-24T23:20:00.000Z",
-      "volume": 200
     }
   ]
 }
