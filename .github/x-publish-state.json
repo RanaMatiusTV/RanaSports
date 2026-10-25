@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-definio-como-rara-su-clasificacion-en-austin-y-explico-los-problemas-del-alpine/": {
+      "account": "f1",
+      "title": "COLAPINTO DEFINIÓ COMO “RARA” SU CLASIFICACIÓN EN AUSTIN Y EXPLICÓ LOS PROBLEMAS DEL ALPINE",
+      "dueAt": "2026-10-25T12:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6addeacbbd33ce99c36c2c2c",
+      "createdAt": "2026-10-25T11:40:59.888Z"
+    },
+    "https://ranasports.com.ar/futbol/cipolletti-y-san-martin-de-formosa-definen-el-primer-ascenso-a-la-primera-nacional/": {
+      "account": "sports",
+      "title": "CIPOLLETTI Y SAN MARTÍN DE FORMOSA DEFINEN EL PRIMER ASCENSO A LA PRIMERA NACIONAL",
+      "dueAt": "2026-10-25T12:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6addeacb0b5343d070cccd1d",
+      "createdAt": "2026-10-25T11:40:59.582Z"
+    },
+    "https://ranasports.com.ar/f1/alpine-respaldo-a-colapinto-y-rechazo-los-dichos-de-clarkson/": {
+      "account": "f1",
+      "title": "ALPINE RESPALDÓ A COLAPINTO Y RECHAZÓ LOS DICHOS DE CLARKSON",
+      "dueAt": "2026-10-25T11:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6addeaca6887a2efc101b57f",
+      "createdAt": "2026-10-25T11:40:59.028Z"
+    },
+    "https://ranasports.com.ar/futbol/deportivo-madryn-goleo-4-1-a-san-telmo-en-la-primera-nacional/": {
+      "account": "sports",
+      "title": "DEPORTIVO MADRYN GOLEÓ 4-1 A SAN TELMO EN LA PRIMERA NACIONAL",
+      "dueAt": "2026-10-25T12:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6addeaca3d5b27036bcd95be",
+      "createdAt": "2026-10-25T11:40:58.790Z"
+    },
+    "https://ranasports.com.ar/futbol/rosario-central-vencio-2-0-a-huracan-se-clasifico-y-tomo-la-punta-de-la-tabla-anual/": {
+      "account": "sports",
+      "title": "ROSARIO CENTRAL VENCIÓ 2-0 A HURACÁN, SE CLASIFICÓ Y TOMÓ LA PUNTA DE LA TABLA ANUAL",
+      "dueAt": "2026-10-25T11:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6addeac8bd33ce99c36c2b2d",
+      "createdAt": "2026-10-25T11:40:57.134Z"
+    },
+    "https://ranasports.com.ar/messi/messi-entro-en-el-segundo-tiempo-pero-inter-miami-cayo-2-0-ante-new-york-red-bulls/": {
+      "account": "sports",
+      "title": "MESSI ENTRÓ EN EL SEGUNDO TIEMPO, PERO INTER MIAMI CAYÓ 2-0 ANTE NEW YORK RED BULLS",
+      "dueAt": "2026-10-25T11:40:54.417Z",
+      "mode": "shareNow",
+      "bufferPostId": "6addeac68b3d437ddc05a966",
+      "createdAt": "2026-10-25T11:40:56.540Z"
+    },
     "https://ranasports.com.ar/f1/un-periodista-ingles-invitado-por-alpine-se-burlo-de-colapinto-y-genero-repudio/": {
       "account": "f1",
       "title": "UN PERIODISTA INGLÉS INVITADO POR ALPINE SE BURLÓ DE COLAPINTO Y GENERÓ REPUDIO",
@@ -5264,60 +5312,6 @@
       "createdAt": "2026-10-02T20:18:55.346Z",
       "externalLink": "https://x.com/2095690134515572737/status/2106117019825320405",
       "sentAt": "2026-10-02T20:20:02.196Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5NjMyODAwMDAsIkJVUktJTkEgRkFTTyBTSUdVRSBWQVJBREEgWSBMTEVHQVLDjUEgU09CUkUgTEEgSE9SQSBQQVJBIEVORlJFTlRBUiBBIEFSR0VOVElOQSJd": {
-      "account": "main",
-      "title": "BURKINA FASO SIGUE VARADA Y LLEGARÍA SOBRE LA HORA PARA ENFRENTAR A ARGENTINA",
-      "dueAt": "2026-10-02T20:20:00.000Z",
-      "bufferPostId": "6ac01195a82b64098f43bc63",
-      "createdAt": "2026-10-02T20:18:29.136Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106117018042663274",
-      "sentAt": "2026-10-02T20:20:01.775Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDk1MzI2MDAwMCwiQlJJQVRPUkUgRU5HQcORw5MgQUwgUEFERE9DSyBDT04gVU5BIEhPSkEgRU4gQkxBTkNPIl0": {
-      "account": "f1",
-      "title": "BRIATORE ENGAÑÓ AL PADDOCK CON UNA HOJA EN BLANCO",
-      "dueAt": "2026-10-02T16:25:00.000Z",
-      "bufferPostId": "6abfda37373007cd24ea9172",
-      "createdAt": "2026-10-02T16:22:15.827Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2106057878452801957",
-      "sentAt": "2026-10-02T16:25:01.780Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5NDM4NDAwMDAsIkxFT05FTCBGTE9SRVMgUk9NUEnDkyBVTiBSw4lDT1JEIENPTiBTVSBERUJVVCBFTiBMQSBTRUxFQ0NJw5NOIl0": {
-      "account": "main",
-      "title": "LEONEL FLORES ROMPIÓ UN RÉCORD CON SU DEBUT EN LA SELECCIÓN",
-      "dueAt": "2026-10-02T16:25:00.000Z",
-      "bufferPostId": "6abfda1e8ab404f933003000",
-      "createdAt": "2026-10-02T16:21:50.465Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106057880419942636",
-      "sentAt": "2026-10-02T16:25:02.310Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5Mzc0MjAwMDAsIk1FU1NJIExMRUfDkyBBTCBQQcONUyBQQVJBIFNVIERFU1BFRElEQSBERSBMQSBTRUxFQ0NJw5NOIl0": {
-      "account": "main",
-      "title": "MESSI LLEGÓ AL PAÍS PARA SU DESPEDIDA DE LA SELECCIÓN",
-      "dueAt": "2026-10-02T12:30:00.000Z",
-      "bufferPostId": "6abfa275b41a266eabf98edd",
-      "createdAt": "2026-10-02T12:24:21.473Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105998816264454498",
-      "sentAt": "2026-10-02T12:30:20.266Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDkzMjUwMDAwMCwiQ09MQVBJTlRPIEZVRSDDmkxUSU1PIEVOIExBIEZQMiBQRVJPIFBSSU9SSVrDkyBFTCBSSVRNTyBERSBDQVJSRVJBIl0": {
-      "account": "f1",
-      "title": "COLAPINTO FUE ÚLTIMO EN LA FP2 PERO PRIORIZÓ EL RITMO DE CARRERA",
-      "dueAt": "2026-10-02T10:30:00.000Z",
-      "bufferPostId": "6abf870679e44b20b328d0dc",
-      "createdAt": "2026-10-02T10:27:19.153Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2105968552066818160",
-      "sentAt": "2026-10-02T10:30:04.719Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDkyMjcyMDAwMCwiQ09MQVBJTlRPIEZVRSAxOcKwIEVOIExBIEZQMSBZIFJFQ0lCScOTIDE1IFBVRVNUT1MgREUgU0FOQ0nDk04iXQ": {
-      "account": "f1",
-      "title": "COLAPINTO FUE 19° EN LA FP1 Y RECIBIÓ 15 PUESTOS DE SANCIÓN",
-      "dueAt": "2026-10-02T07:30:00.000Z",
-      "bufferPostId": "6abf5c1163de9e09a291d7a1",
-      "createdAt": "2026-10-02T07:24:01.590Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2105923254376337685",
-      "sentAt": "2026-10-02T07:30:04.959Z"
     }
   },
   "nextAt": {
