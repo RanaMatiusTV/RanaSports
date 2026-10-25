@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/alpine-repudio-un-comentario-de-jeremy-clarkson-contra-colapinto/": {
+      "account": "f1",
+      "title": "ALPINE REPUDIÓ UN COMENTARIO DE JEREMY CLARKSON CONTRA COLAPINTO",
+      "dueAt": "2026-10-25T19:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ade5aed8b3d437ddc24a1b9",
+      "createdAt": "2026-10-25T19:39:25.203Z"
+    },
+    "https://ranasports.com.ar/futbol/temperley-mantiene-viva-la-pelea-por-un-lugar-en-la-final/": {
+      "account": "sports",
+      "title": "TEMPERLEY MANTIENE VIVA LA PELEA POR UN LUGAR EN LA FINAL",
+      "dueAt": "2026-10-25T20:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ade5aec6887a2efc1200172",
+      "createdAt": "2026-10-25T19:39:24.678Z"
+    },
+    "https://ranasports.com.ar/futbol/celta-y-betis-empataron-sin-goles-en-balaidos-y-repartieron-puntos/": {
+      "account": "sports",
+      "title": "CELTA Y BETIS EMPATARON SIN GOLES EN BALAÍDOS Y REPARTIERON PUNTOS",
+      "dueAt": "2026-10-25T20:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ade5aebbd33ce99c38a5a3e",
+      "createdAt": "2026-10-25T19:39:23.761Z"
+    },
+    "https://ranasports.com.ar/futbol/sunderland-y-leeds-empataron-0-0-bajo-fuertes-vientos-y-los-locales-siguen-ultimos/": {
+      "account": "sports",
+      "title": "SUNDERLAND Y LEEDS EMPATARON 0-0 BAJO FUERTES VIENTOS Y LOS LOCALES SIGUEN ÚLTIMOS",
+      "dueAt": "2026-10-25T19:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ade5aeae4be8a4d86c32c45",
+      "createdAt": "2026-10-25T19:39:22.311Z"
+    },
     "https://ranasports.com.ar/tenis/rybakina-retuvo-el-titulo-de-ningbo-y-afianzo-su-numero-uno/": {
       "account": "sports",
       "title": "RYBAKINA RETUVO EL TÍTULO DE NINGBO Y AFIANZÓ SU NÚMERO UNO",
@@ -5272,42 +5304,6 @@
       "createdAt": "2026-10-03T10:18:41.900Z",
       "externalLink": "https://x.com/2095690134515572737/status/2106328411815776363",
       "sentAt": "2026-10-03T10:20:01.962Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwOTk1NDQwMDAwLCJTSUxCSURPUyBZIOKAnFFVRSBTRSBWQVlBTiBUT0RPU-KAnTogTEEgR0VOVEUgREUgSU5ERVBFTkRJRU5URSBFWFBMT1TDkyBUUkFTIExBIEdPTEVBREEiXQ": {
-      "account": "main",
-      "title": "SILBIDOS Y “QUE SE VAYAN TODOS”: LA GENTE DE INDEPENDIENTE EXPLOTÓ TRAS LA GOLEADA",
-      "dueAt": "2026-10-03T10:25:00.000Z",
-      "bufferPostId": "6ac0d6687d53b827e0d6b1f6",
-      "createdAt": "2026-10-03T10:18:16.535Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106329668831846511",
-      "sentAt": "2026-10-03T10:25:01.712Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwOTkxNjYwMDAwLCJWSUVSQSBBU1VNScOTIExBIEZSQUdJTElEQUQgREUgSU5ERVBFTkRJRU5URSBUUkFTIEVMIDEtNDog4oCcTk9TIExMRUdBTiBZIEVTIEdPTOKAnSJd": {
-      "account": "main",
-      "title": "VIERA ASUMIÓ LA FRAGILIDAD DE INDEPENDIENTE TRAS EL 1-4: “NOS LLEGAN Y ES GOL”",
-      "dueAt": "2026-10-03T10:20:00.000Z",
-      "bufferPostId": "6ac0d668905eed02e06074b4",
-      "createdAt": "2026-10-03T10:18:16.178Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106328413032038613",
-      "sentAt": "2026-10-03T10:20:02.322Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwOTg3NzYwMDAwLCJJTlNUSVRVVE8gR09MRcOTIDQtMSBBIElOREVQRU5ESUVOVEUgWSBBRklSTcOTIFNVIExJREVSQVpHTyBFTiBMQSBaT05BIEEiXQ": {
-      "account": "main",
-      "title": "INSTITUTO GOLEÓ 4-1 A INDEPENDIENTE Y AFIRMÓ SU LIDERAZGO EN LA ZONA A",
-      "dueAt": "2026-10-03T02:30:00.000Z",
-      "bufferPostId": "6ac067359ae13d7e3f41f2f6",
-      "createdAt": "2026-10-03T02:23:49.719Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106210144006656003",
-      "sentAt": "2026-10-03T02:30:04.733Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5ODQxMDAwMDAsIkNVVEkgUk9NRVJPIENPTlTDkyBRVUUgTUVTU0kgTE8gRUxJR0nDkyBDT01PIENBUElUw4FOIFkgUkVWRUzDkyBTVSBNQVlPUiBBUlJFUEVOVElNSUVOVE8iXQ": {
-      "account": "main",
-      "title": "CUTI ROMERO CONTÓ QUE MESSI LO ELIGIÓ COMO CAPITÁN Y REVELÓ SU MAYOR ARREPENTIMIENTO",
-      "dueAt": "2026-10-03T02:25:00.000Z",
-      "bufferPostId": "6ac067345831428806ada716",
-      "createdAt": "2026-10-03T02:23:48.629Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106208875154112845",
-      "sentAt": "2026-10-03T02:25:02.254Z"
     }
   },
   "nextAt": {
