@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-abandono-en-austin-por-los-danos-en-su-alpine/": {
+      "account": "f1",
+      "title": "COLAPINTO ABANDONÓ EN AUSTIN POR LOS DAÑOS EN SU ALPINE",
+      "dueAt": "2026-10-25T23:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ade8416e4be8a4d86cd3edd",
+      "createdAt": "2026-10-25T22:35:02.895Z"
+    },
+    "https://ranasports.com.ar/futbol/viera-saco-a-rodrigo-rey-del-arco-de-independiente-para-recibir-a-boca/": {
+      "account": "main",
+      "title": "VIERA SACÓ A RODRIGO REY DEL ARCO DE INDEPENDIENTE PARA RECIBIR A BOCA",
+      "dueAt": "2026-10-25T22:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ade8416e4be8a4d86cd3cc1",
+      "createdAt": "2026-10-25T22:35:02.333Z"
+    },
+    "https://ranasports.com.ar/futbol/atlanta-gano-en-jujuy-y-se-metio-de-lleno-en-la-pelea-por-la-final/": {
+      "account": "sports",
+      "title": "ATLANTA GANÓ EN JUJUY Y SE METIÓ DE LLENO EN LA PELEA POR LA FINAL",
+      "dueAt": "2026-10-25T23:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ade84158b3d437ddc2eaee8",
+      "createdAt": "2026-10-25T22:35:01.811Z"
+    },
+    "https://ranasports.com.ar/f1/antonelli-gano-en-austin-y-quedo-a-un-paso-del-titulo/": {
+      "account": "f1",
+      "title": "ANTONELLI GANÓ EN AUSTIN Y QUEDÓ A UN PASO DEL TÍTULO",
+      "dueAt": "2026-10-25T22:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ade84130b5343d070f544f6",
+      "createdAt": "2026-10-25T22:34:59.939Z"
+    },
+    "https://ranasports.com.ar/futbol/all-boys-gano-en-cordoba-y-tomo-aire-en-la-lucha-por-la-permanencia/": {
+      "account": "sports",
+      "title": "ALL BOYS GANÓ EN CÓRDOBA Y TOMÓ AIRE EN LA LUCHA POR LA PERMANENCIA",
+      "dueAt": "2026-10-25T23:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ade84133d5b27036bf5fd1a",
+      "createdAt": "2026-10-25T22:34:59.240Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-le-gano-a-independiente-con-un-cabezazo-agonico-de-facundo-herrera/": {
+      "account": "sports",
+      "title": "BOCA LE GANÓ A INDEPENDIENTE CON UN CABEZAZO AGÓNICO DE FACUNDO HERRERA",
+      "dueAt": "2026-10-25T22:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ade8410e4be8a4d86cd3b12",
+      "createdAt": "2026-10-25T22:34:56.416Z"
+    },
+    "https://ranasports.com.ar/futbol/argentina-gano-dos-partidos-en-el-mundial-sub-15-y-sigue-en-carrera/": {
+      "account": "sports",
+      "title": "ARGENTINA GANÓ DOS PARTIDOS EN EL MUNDIAL SUB 15 Y SIGUE EN CARRERA",
+      "dueAt": "2026-10-25T22:34:53.900Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ade840d6887a2efc129c413",
+      "createdAt": "2026-10-25T22:34:56.029Z"
+    },
     "https://ranasports.com.ar/f1/alpine-repudio-un-comentario-de-jeremy-clarkson-contra-colapinto/": {
       "account": "f1",
       "title": "ALPINE REPUDIÓ UN COMENTARIO DE JEREMY CLARKSON CONTRA COLAPINTO",
@@ -5241,69 +5297,6 @@
       "createdAt": "2026-10-03T18:36:47.589Z",
       "externalLink": "https://x.com/768913759301754880/status/2106454243179733010",
       "sentAt": "2026-10-03T18:40:02.543Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTAyNTIwMDAwMCwiQ09MQVBJTlRPIENPTkbDjUEgRU4gUkVNT05UQVIgREVTREUgRUwgRk9ORE8gQ09OIFVOQSBFU1RSQVRFR0lBIEFHUkVTSVZBIERFIE5FVU3DgVRJQ09TIl0": {
-      "account": "f1",
-      "title": "COLAPINTO CONFÍA EN REMONTAR DESDE EL FONDO CON UNA ESTRATEGIA AGRESIVA DE NEUMÁTICOS",
-      "dueAt": "2026-10-03T14:40:00.000Z",
-      "bufferPostId": "6ac11251814d657011c8bb55",
-      "createdAt": "2026-10-03T14:33:53.840Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2106393843650204155",
-      "sentAt": "2026-10-03T14:40:02.185Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDk4NTYwMDAwMCwiRUwgQVNGQUxUTyBERSBTRVBBTkcgQUJSRSBVTkEgT1BPUlRVTklEQUQgRVNUUkFUw4lHSUNBIFBBUkEgQ09MQVBJTlRPIl0": {
-      "account": "f1",
-      "title": "EL ASFALTO DE SEPANG ABRE UNA OPORTUNIDAD ESTRATÉGICA PARA COLAPINTO",
-      "dueAt": "2026-10-03T14:35:00.000Z",
-      "bufferPostId": "6ac11251814d657011c8bb0d",
-      "createdAt": "2026-10-03T14:33:53.137Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2106392585094750249",
-      "sentAt": "2026-10-03T14:35:02.047Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwMzIyODAwMDAsIkJVUktJTkEgRkFTTyBERVNUUkFCw5MgRUwgVklBSkUgWSBMTEVHQVLDgSBTT0JSRSBMQSBIT1JBIFBBUkEgRU5GUkVOVEFSIEEgQVJHRU5USU5BIl0": {
-      "account": "main",
-      "title": "BURKINA FASO DESTRABÓ EL VIAJE Y LLEGARÁ SOBRE LA HORA PARA ENFRENTAR A ARGENTINA",
-      "dueAt": "2026-10-03T14:50:00.000Z",
-      "bufferPostId": "6ac1123e905eed02e069d617",
-      "createdAt": "2026-10-03T14:33:34.852Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106396372140232874",
-      "sentAt": "2026-10-03T14:50:04.959Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwMzA2MDAwMDAsIlNDQUxPTkkgWUEgVElFTkUgU0lFVEUgRklKT1MgWSBUUkVTIFBVRVNUT1MgQUJJRVJUT1MgRU4gTEEgTlVFVkEgU0VMRUNDScOTTiJd": {
-      "account": "main",
-      "title": "SCALONI YA TIENE SIETE FIJOS Y TRES PUESTOS ABIERTOS EN LA NUEVA SELECCIÓN",
-      "dueAt": "2026-10-03T14:45:00.000Z",
-      "bufferPostId": "6ac1123ead7fd83bc5f5fe96",
-      "createdAt": "2026-10-03T14:33:34.397Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106395119016423568",
-      "sentAt": "2026-10-03T14:45:06.363Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA5NzY2MDAwMDAsIklOU1VBIFBST1BVU08gVU5BIE1PVklMSVpBQ0nDk04gUEFSQSBRVUUgTUVTU0kgU0lHQSBFTiBMQSBTRUxFQ0NJw5NOIEhBU1RBIDIwMzAiXQ": {
-      "account": "main",
-      "title": "INSUA PROPUSO UNA MOVILIZACIÓN PARA QUE MESSI SIGA EN LA SELECCIÓN HASTA 2030",
-      "dueAt": "2026-10-03T14:40:00.000Z",
-      "bufferPostId": "6ac1123d905eed02e069d5ce",
-      "createdAt": "2026-10-03T14:33:33.847Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106393844371575240",
-      "sentAt": "2026-10-03T14:40:02.412Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwOTcxMjAwMDAwLCJDVUFUUk8gQ0FORElEQVRPUyBZIFVOQSBFTEVDQ0nDk04gQ0xBVkUgUE9SIEVMIEZVVFVSTyBERSBJTkRFUEVORElFTlRFIl0": {
-      "account": "main",
-      "title": "CUATRO CANDIDATOS Y UNA ELECCIÓN CLAVE POR EL FUTURO DE INDEPENDIENTE",
-      "dueAt": "2026-10-03T14:35:00.000Z",
-      "bufferPostId": "6ac1123c814d657011c8b8c4",
-      "createdAt": "2026-10-03T14:33:32.851Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106392585694478644",
-      "sentAt": "2026-10-03T14:35:02.236Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTAxOTE0MDAwMCwiVkVSU1RBUFBFTiBISVpPIExBIFBPTEUgRU4gTUFMQVNJQSBZIENPTEFQSU5UTyBMQVJHQVLDgSAyMcKwIFBFU0UgQSBDTEFTSUZJQ0FSIDE1wrAiXQ": {
-      "account": "f1",
-      "title": "VERSTAPPEN HIZO LA POLE EN MALASIA Y COLAPINTO LARGARÁ 21° PESE A CLASIFICAR 15°",
-      "dueAt": "2026-10-03T10:20:00.000Z",
-      "bufferPostId": "6ac0d681fec591339470b7dc",
-      "createdAt": "2026-10-03T10:18:41.900Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2106328411815776363",
-      "sentAt": "2026-10-03T10:20:01.962Z"
     }
   },
   "nextAt": {
