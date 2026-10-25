@@ -1,9 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-24T22:15:03-03:00 America/Argentina/Buenos_Aires
-Altas verificadas: 1
-Filas: 3856
-Noticias: SAN LORENZO EMPATÓ 0-0 CON NEWELL'S Y SIGUE FUERA DE LOS PLAYOFFS
-Candidatas: San Lorenzo-Newell's (resultado final); Rosario Central-Huracán (en juego); Independiente-Boca (previa ya cubierta); Colapinto-Austin (clasificación y declaraciones ya cubiertas)
-Descartadas por duplicación: 2 (Independiente-Boca; Colapinto-Austin)
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-24T23:00:13-03:00 America/Argentina/Buenos_Aires
+Altas verificadas: 6
+Filas: 3857-3862
+Última noticia: FLAMENGO ACLARÓ SU RECLAMO POR MARCOS ROJO Y PIDIÓ UNA RESOLUCIÓN ANTES DE LA FINAL
 Estado: ALTAS_VERIFICADAS; SHEETS_ACTUALIZADO; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR5-20261024221503-3856
+Identificador de ejecución: RADAR1-20261024230013-3857-3862
