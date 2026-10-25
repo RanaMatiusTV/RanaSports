@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-25T20:49:11.259Z",
+  "updatedAt": "2026-10-25T23:15:25.147Z",
   "trends": [
     {
-      "query": "club mitre vs. godoy cruz",
-      "startedAt": "2026-10-25T20:30:00.000Z",
+      "query": "francisco ortega",
+      "startedAt": "2026-10-25T22:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "arda güler",
-      "startedAt": "2026-10-25T20:30:00.000Z",
+      "query": "santiago beltrán",
+      "startedAt": "2026-10-25T22:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "boca unidos",
-      "startedAt": "2026-10-25T20:30:00.000Z",
+      "query": "el destape",
+      "startedAt": "2026-10-25T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "ruta nacional 16",
+      "startedAt": "2026-10-25T22:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "deportes",
-      "startedAt": "2026-10-25T20:20:00.000Z",
+      "query": "cómo va river",
+      "startedAt": "2026-10-25T22:40:00.000Z",
       "volume": 1000
     },
     {
-      "query": "jadson viera",
-      "startedAt": "2026-10-25T20:20:00.000Z",
-      "volume": 500
+      "query": "pagina 12",
+      "startedAt": "2026-10-25T22:40:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "boca vs river",
-      "startedAt": "2026-10-25T20:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "futbol online",
-      "startedAt": "2026-10-25T20:20:00.000Z",
+      "query": "murio carlos riganti",
+      "startedAt": "2026-10-25T22:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "fut",
-      "startedAt": "2026-10-25T20:20:00.000Z",
+      "query": "resultados das eleições",
+      "startedAt": "2026-10-25T22:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "argentinos vs",
+      "startedAt": "2026-10-25T22:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "real vs barcelona",
-      "startedAt": "2026-10-25T20:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "o globo",
-      "startedAt": "2026-10-25T20:20:00.000Z",
-      "volume": 200
+      "query": "riber",
+      "startedAt": "2026-10-25T22:20:00.000Z",
+      "volume": 1000
     }
   ]
 }
