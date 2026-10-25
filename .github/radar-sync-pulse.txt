@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-25T16:10:00-03:00 America/Argentina/Buenos_Aires
-Altas verificadas: 2
-Filas: Noticias!3904:3905
-Noticias: SUNDERLAND Y LEEDS EMPATARON 0-0 BAJO FUERTES VIENTOS Y LOS LOCALES SIGUEN ÚLTIMOS | CELTA Y BETIS EMPATARON SIN GOLES EN BALAÍDOS Y REPARTIERON PUNTOS
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-25T17:01:00-03:00 America/Argentina/Buenos_Aires
+Altas verificadas: 7
+Filas: Noticias!3906:3912
+Última noticia: SIMEONE RESPALDÓ A JULIÁN ÁLVAREZ TRAS SUS DISCULPAS A LOS HINCHAS DEL ATLÉTICO
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR5-20261025161000-2-3904-3905
+Identificador de ejecución: RADAR1-20261025170100-7-3906-3912
