@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Ejecución: 2026-10-25T07:10:00-03:00 America/Argentina/Buenos_Aires
-Altas verificadas: 6
-Filas: 3871-3876
-Última noticia: AMENAZARON AL PLANTEL DE NUEVA CHICAGO EN PLENA LUCHA POR NO DESCENDER
+RADAR 5 — RanaSports Actualidad Inmediata
+Ejecución: 2026-10-25T08:10:00-03:00 America/Argentina/Buenos_Aires
+Altas verificadas: 1
+Filas: 3877
+Última noticia: ALPINE RESPALDÓ A COLAPINTO Y RECHAZÓ LOS DICHOS DE CLARKSON
 Estado: ALTAS_VERIFICADAS; SHEETS_ACTUALIZADO; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR1-20261025071000-3871-3876
+Identificador de ejecución: RADAR5-20261025081000-3877
