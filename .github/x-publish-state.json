@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/argentinos-por-el-mundo/julian-alvarez-marco-el-gol-del-triunfo-del-atletico-de-madrid/": {
+      "account": "sports",
+      "title": "JULIÁN ÁLVAREZ MARCÓ EL GOL DEL TRIUNFO DEL ATLÉTICO DE MADRID",
+      "dueAt": "2026-10-25T02:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add5761bd33ce99c34cf27a",
+      "createdAt": "2026-10-25T01:12:01.963Z"
+    },
+    "https://ranasports.com.ar/f1/antonelli-hizo-la-pole-en-austin-con-verstappen-segundo-y-hadjar-tercero/": {
+      "account": "f1",
+      "title": "ANTONELLI HIZO LA POLE EN AUSTIN CON VERSTAPPEN SEGUNDO Y HADJAR TERCERO",
+      "dueAt": "2026-10-25T01:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add57606887a2efc1e2188f",
+      "createdAt": "2026-10-25T01:12:00.993Z"
+    },
+    "https://ranasports.com.ar/futbol/fifa-revivio-desde-el-aire-el-gol-de-lautaro-martinez-a-inglaterra/": {
+      "account": "sports",
+      "title": "FIFA REVIVIÓ DESDE EL AIRE EL GOL DE LAUTARO MARTÍNEZ A INGLATERRA",
+      "dueAt": "2026-10-25T01:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add57606887a2efc1e21866",
+      "createdAt": "2026-10-25T01:12:00.728Z"
+    },
+    "https://ranasports.com.ar/boca/paredes-concentra-y-blanco-descansa/": {
+      "account": "sports",
+      "title": "PAREDES CONCENTRA Y BLANCO DESCANSA: LAS NOVEDADES DE BOCA PARA VISITAR A INDEPENDIENTE",
+      "dueAt": "2026-10-25T01:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6add57606887a2efc1e21832",
+      "createdAt": "2026-10-25T01:12:00.413Z"
+    },
     "https://ranasports.com.ar/futbol/independiente-tendria-a-abaldo-por-cabral-para-el-clasico-con-boca/": {
       "account": "main",
       "title": "INDEPENDIENTE TENDRÍA A ABALDO POR CABRAL PARA EL CLÁSICO CON BOCA",
@@ -5292,42 +5324,6 @@
       "createdAt": "2026-10-01T20:20:18.614Z",
       "externalLink": "https://x.com/768913759301754880/status/2105757161833877772",
       "sentAt": "2026-10-01T20:30:05.376Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTA4ODA1NDAwMDAsIkxBIFNFTEVDQ0nDk04gVk9MVknDkyBBIEVOVFJFTkFSU0UgWSBZQSBQUkVQQVJBIEVMIFBBUlRJRE8gQ09OIEJVUktJTkEgRkFTTyJd": {
-      "account": "main",
-      "title": "LA SELECCIÓN VOLVIÓ A ENTRENARSE Y YA PREPARA EL PARTIDO CON BURKINA FASO",
-      "dueAt": "2026-10-01T20:25:00.000Z",
-      "bufferPostId": "6abec081ff1f8cde6642e57b",
-      "createdAt": "2026-10-01T20:20:18.124Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105755899834855452",
-      "sentAt": "2026-10-01T20:25:04.459Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDg2NzQwMDAwMCwiTElOREJMQUQgVEFNQknDiU4gRlVFIFNBTkNJT05BRE8gWSBMQVJHQVLDgSDDmkxUSU1PIEVOIEVMIEdQIERFIE1BTEFTSUEiXQ": {
-      "account": "f1",
-      "title": "LINDBLAD TAMBIÉN FUE SANCIONADO Y LARGARÁ ÚLTIMO EN EL GP DE MALASIA",
-      "dueAt": "2026-10-01T17:25:00.000Z",
-      "bufferPostId": "6abe9648a73dd7ce83e20822",
-      "createdAt": "2026-10-01T17:20:08.728Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2105710589523730930",
-      "sentAt": "2026-10-01T17:25:01.653Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkwODY5NjIwMDAwLCJJTkRFUEVORElFTlRFIElOU0NSSUJJw5MgQSBNQUNIVUNBIEVOIEFGQSwgUEVSTyBUT0RBVsONQSBFU1BFUkEgRE9TIEhBQklMSVRBQ0lPTkVTIl0": {
-      "account": "main",
-      "title": "INDEPENDIENTE INSCRIBIÓ A MACHUCA EN AFA, PERO TODAVÍA ESPERA DOS HABILITACIONES",
-      "dueAt": "2026-10-01T17:25:00.000Z",
-      "bufferPostId": "6abe962e114676b96a061db1",
-      "createdAt": "2026-10-01T17:19:43.073Z",
-      "externalLink": "https://x.com/768913759301754880/status/2105710592187064663",
-      "sentAt": "2026-10-01T17:25:02.326Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MDg2NDQwMDAwMCwiR0FTTFkgRElPIFBPUiBDRVJSQURPIEVMIENIT1FVRSBDT04gQ09MQVBJTlRPOiDigJxZQSBFU1TDgSBUT0RPIEJJRU7igJ0iXQ": {
-      "account": "f1",
-      "title": "GASLY DIO POR CERRADO EL CHOQUE CON COLAPINTO: “YA ESTÁ TODO BIEN”",
-      "dueAt": "2026-10-01T15:30:00.000Z",
-      "bufferPostId": "6abe7a560dabbef02f77afd5",
-      "createdAt": "2026-10-01T15:20:54.525Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2105681666358325692",
-      "sentAt": "2026-10-01T15:30:05.831Z"
     }
   },
   "nextAt": {
