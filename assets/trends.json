@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-25T17:51:54.494Z",
+  "updatedAt": "2026-10-25T20:49:11.259Z",
   "trends": [
     {
-      "query": "aldosivi - belgrano",
-      "startedAt": "2026-10-25T17:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "posiciones de celta de vigo contra betis",
-      "startedAt": "2026-10-25T17:20:00.000Z",
+      "query": "club mitre vs. godoy cruz",
+      "startedAt": "2026-10-25T20:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "real sociedad - levante",
-      "startedAt": "2026-10-25T17:00:00.000Z",
-      "volume": 200
+      "query": "arda güler",
+      "startedAt": "2026-10-25T20:30:00.000Z",
+      "volume": 100
     },
     {
-      "query": "boca river",
-      "startedAt": "2026-10-25T17:00:00.000Z",
+      "query": "boca unidos",
+      "startedAt": "2026-10-25T20:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "deportes",
+      "startedAt": "2026-10-25T20:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "jadson viera",
+      "startedAt": "2026-10-25T20:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "bayern munich",
-      "startedAt": "2026-10-25T17:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "marsella - le havre",
-      "startedAt": "2026-10-25T16:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "comerciantes unidos - cienciano",
-      "startedAt": "2026-10-25T16:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "tauro",
-      "startedAt": "2026-10-25T16:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "gabriel bortoleto",
-      "startedAt": "2026-10-25T16:40:00.000Z",
+      "query": "boca vs river",
+      "startedAt": "2026-10-25T20:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "canal 9 en vivo",
-      "startedAt": "2026-10-25T16:40:00.000Z",
+      "query": "futbol online",
+      "startedAt": "2026-10-25T20:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "fut",
+      "startedAt": "2026-10-25T20:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "real vs barcelona",
+      "startedAt": "2026-10-25T20:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "o globo",
+      "startedAt": "2026-10-25T20:20:00.000Z",
       "volume": 200
     }
   ]
