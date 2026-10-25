@@ -1,10 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución programada: 2026-10-25T14:10:00-03:00 America/Argentina/Buenos_Aires
-Verificación: 2026-10-25T14:12:49-03:00
-Altas verificadas: 0
-Filas: ninguna
-Candidatas evaluadas: 8
-Descartadas por duplicación o falta de novedad sustancial: 8
-Última fila existente verificada: Noticias!3896
-Estado: SIN_ALTAS; ANTIDUPLICADOS_VERIFICADO; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR5-20261025141000-0
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-25T15:05:00-03:00 America/Argentina/Buenos_Aires
+Altas verificadas: 6
+Filas: Noticias!3897:3902
+Última noticia: LEILA PEREIRA CALIFICÓ DE “RIDÍCULO” EL RECLAMO DE FLAMENGO POR MARCOS ROJO
+Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
+Identificador de ejecución: RADAR1-20261025150500-6
