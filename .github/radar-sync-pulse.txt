@@ -1,8 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-25T12:10:37-03:00 America/Argentina/Buenos_Aires
-Altas verificadas: 0
-Filas: ninguna
-Candidatas revisadas: 8
-Descartadas por duplicación del hecho o falta de novedad sustancial: 8
-Estado: SIN_ALTAS; CONTROL_ANTIDUPLICADOS_COMPLETADO; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR5-20261025121037-0
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-25T13:03:00-03:00 America/Argentina/Buenos_Aires
+Altas verificadas: 6
+Filas: Noticias!3891:3896
+Última noticia: ATHLETIC CLUB GOLEÓ 4-0 A GETAFE EN SAN MAMÉS
+Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
+Identificador de ejecución: RADAR1-20261025130300-6
