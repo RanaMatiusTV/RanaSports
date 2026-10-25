@@ -1,7 +1,8 @@
-RADAR 5 — Actualidad Inmediata
+RADAR 1 — RanaSports Noticias
 fecha_arg=2026-10-25
-hora_arg=18:10
-altas_verificadas=1
-filas=3913
+hora_arg=19:10
+altas_verificadas=7
+filas=3914:3920
+ultima_noticia=ARANDA Y BAREIRO ACELERAN SU RECUPERACIÓN Y BOCA LOS ESPERA PARA LA RECTA FINAL
 estado=GOOGLE_SHEETS_VERIFICADO
-pulso_id=2026-10-25T21:08:09.059Z
+pulso_id=2026-10-25T22:10:12Z
