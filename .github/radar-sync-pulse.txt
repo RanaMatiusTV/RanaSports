@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Ejecución: 2026-10-25T17:01:00-03:00 America/Argentina/Buenos_Aires
-Altas verificadas: 7
-Filas: Noticias!3906:3912
-Última noticia: SIMEONE RESPALDÓ A JULIÁN ÁLVAREZ TRAS SUS DISCULPAS A LOS HINCHAS DEL ATLÉTICO
-Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR1-20261025170100-7-3906-3912
+RADAR 5 — Actualidad Inmediata
+fecha_arg=2026-10-25
+hora_arg=18:10
+altas_verificadas=1
+filas=3913
+estado=GOOGLE_SHEETS_VERIFICADO
+pulso_id=2026-10-25T21:08:09.059Z
