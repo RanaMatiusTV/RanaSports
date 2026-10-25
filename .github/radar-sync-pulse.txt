@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-25T10:09:35-03:00 America/Argentina/Buenos_Aires
-Altas verificadas: 1
-Filas: 3884
-Última noticia: KWIZERA BATIÓ EL RÉCORD DE ESPAÑA Y CHEPKIRUI LOGRÓ LA MEJOR MARCA DEL AÑO EN VALENCIA
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-25T11:02:00-03:00 America/Argentina/Buenos_Aires
+Altas verificadas: 6
+Filas: 3885-3890
+Última noticia: CATLIN GANÓ EN HONG KONG Y CLASIFICÓ POR PRIMERA VEZ AL MASTERS
 Estado: ALTAS_VERIFICADAS; SHEETS_ACTUALIZADO; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR5-202610251010-3884
+Identificador de ejecución: RADAR1-202610251102-3885-3890
