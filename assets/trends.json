@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-25T10:08:46.670Z",
+  "updatedAt": "2026-10-25T14:21:56.483Z",
   "trends": [
     {
-      "query": "pumas - tigres",
-      "startedAt": "2026-10-25T03:40:00.000Z",
+      "query": "atalanta - frosinone",
+      "startedAt": "2026-10-25T14:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "navarrete vs foster",
-      "startedAt": "2026-10-25T03:10:00.000Z",
+      "query": "franco mastantuono",
+      "startedAt": "2026-10-25T14:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "mónaco - losc",
+      "startedAt": "2026-10-25T14:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "psv - feyenoord",
+      "startedAt": "2026-10-25T14:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "hull city - brentford",
+      "startedAt": "2026-10-25T14:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "actc",
+      "startedAt": "2026-10-25T14:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "crystal palace - newcastle",
+      "startedAt": "2026-10-25T13:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "messi cup",
+      "startedAt": "2026-10-25T13:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "posiciones de rosario central contra club atlético huracán",
-      "startedAt": "2026-10-25T02:40:00.000Z",
-      "volume": 10000
+      "query": "neurocientífico",
+      "startedAt": "2026-10-25T13:50:00.000Z",
+      "volume": 100
     },
     {
-      "query": "posiciones de santos futebol clube contra esporte clube bahia",
-      "startedAt": "2026-10-25T02:20:00.000Z",
+      "query": "liverpool - brighton",
+      "startedAt": "2026-10-25T13:30:00.000Z",
       "volume": 2000
-    },
-    {
-      "query": "posiciones de club ciudad de bolívar fútbol contra colon de santa fe",
-      "startedAt": "2026-10-25T02:10:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "neymar",
-      "startedAt": "2026-10-25T02:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "fútbol sala",
-      "startedAt": "2026-10-25T02:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "rodrigo lussich",
-      "startedAt": "2026-10-25T01:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "universitario - juan pablo ii college",
-      "startedAt": "2026-10-25T01:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "marcelo polino",
-      "startedAt": "2026-10-25T01:30:00.000Z",
-      "volume": 500
     }
   ]
 }
