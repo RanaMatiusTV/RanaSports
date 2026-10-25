@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-10-25T08:10:00-03:00 America/Argentina/Buenos_Aires
-Altas verificadas: 1
-Filas: 3877
-Última noticia: ALPINE RESPALDÓ A COLAPINTO Y RECHAZÓ LOS DICHOS DE CLARKSON
+RADAR 1 — RanaSports Noticias
+Ejecución: 2026-10-25T09:08:00-03:00 America/Argentina/Buenos_Aires
+Altas verificadas: 6
+Filas: 3878-3883
+Última noticia: WEMBANYAMA GUIÓ EL PRIMER TRIUNFO DE SAN ANTONIO
 Estado: ALTAS_VERIFICADAS; SHEETS_ACTUALIZADO; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR5-20261025081000-3877
+Identificador de ejecución: RADAR1-20261025090800-3878-3883
