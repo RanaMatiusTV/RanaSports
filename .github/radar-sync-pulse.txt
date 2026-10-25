@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Ejecución: 2026-10-25T09:08:00-03:00 America/Argentina/Buenos_Aires
-Altas verificadas: 6
-Filas: 3878-3883
-Última noticia: WEMBANYAMA GUIÓ EL PRIMER TRIUNFO DE SAN ANTONIO
+RADAR 5 — RanaSports Actualidad Inmediata
+Ejecución: 2026-10-25T10:09:35-03:00 America/Argentina/Buenos_Aires
+Altas verificadas: 1
+Filas: 3884
+Última noticia: KWIZERA BATIÓ EL RÉCORD DE ESPAÑA Y CHEPKIRUI LOGRÓ LA MEJOR MARCA DEL AÑO EN VALENCIA
 Estado: ALTAS_VERIFICADAS; SHEETS_ACTUALIZADO; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR1-20261025090800-3878-3883
+Identificador de ejecución: RADAR5-202610251010-3884
