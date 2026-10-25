@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Ejecución: 2026-10-25T15:05:00-03:00 America/Argentina/Buenos_Aires
-Altas verificadas: 6
-Filas: Noticias!3897:3902
-Última noticia: LEILA PEREIRA CALIFICÓ DE “RIDÍCULO” EL RECLAMO DE FLAMENGO POR MARCOS ROJO
+RADAR 5 — RanaSports Actualidad Inmediata
+Ejecución: 2026-10-25T16:10:00-03:00 America/Argentina/Buenos_Aires
+Altas verificadas: 2
+Filas: Noticias!3904:3905
+Noticias: SUNDERLAND Y LEEDS EMPATARON 0-0 BAJO FUERTES VIENTOS Y LOS LOCALES SIGUEN ÚLTIMOS | CELTA Y BETIS EMPATARON SIN GOLES EN BALAÍDOS Y REPARTIERON PUNTOS
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
-Identificador de ejecución: RADAR1-20261025150500-6
+Identificador de ejecución: RADAR5-20261025161000-2-3904-3905
