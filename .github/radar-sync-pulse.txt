@@ -1,10 +1,11 @@
-RADAR 1 — RanaSports Noticias
+RADAR 5 — RanaSports Actualidad Inmediata
 fecha_arg=2026-10-26
-hora_arg=11:07
-altas_verificadas=7
-filas=3957-3963
-candidatas_evaluadas=8
-descartadas_duplicado_o_sin_novedad=1
-ultima_noticia=MONTERO SE AFIANZÓ COMO FIGURA DE BOCA ANTES DEL SUPERCLÁSICO
+hora_arg=12:10
+altas_verificadas=1
+filas=3964
+candidatas_evaluadas=5
+descartadas_duplicado_o_sin_novedad=3
+descartadas_foto_no_validada=1
+ultima_noticia=LINDBLAD ACUSÓ A ALPINE DE ORDENARLE A COLAPINTO QUE LO FRENARA EN AUSTIN
 estado=ALTAS_VERIFICADAS_EN_SHEETS
-pulso_id=2026-10-26T11:07:46-03:00-radar1-corrida-1100
+pulso_id=2026-10-26T12:10:00-03:00-radar5-corrida-1210
