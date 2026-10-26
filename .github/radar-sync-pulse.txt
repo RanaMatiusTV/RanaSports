@@ -1,8 +1,8 @@
-RADAR 5 — RanaSports Actualidad Inmediata
+RADAR 1 — RanaSports Noticias
 fecha_arg=2026-10-26
-hora_arg=08:10
-altas_verificadas=1
-filas=3949
-ultima_noticia=TROGLIO CRUZÓ A LOSADA POR SUS DICHOS ANTES DEL CLÁSICO ENTRE BANFIELD Y LANÚS
+hora_arg=09:14
+altas_verificadas=7
+filas=3950-3956
+ultima_noticia=RIESTRA NECESITA TRES PUNTOS PARA ASEGURAR LA PERMANENCIA EN PRIMERA
 estado=GOOGLE_SHEETS_VERIFICADO
-pulso_id=2026-10-26T08:10:00-03:00-radar5-3949-run11
+pulso_id=2026-10-26T09:14:00-03:00-radar1-3950-3956
