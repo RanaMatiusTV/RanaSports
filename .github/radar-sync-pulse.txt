@@ -1,11 +1,11 @@
-RADAR 1 — RanaSports Noticias
+RADAR 5 — RanaSports Actualidad Inmediata
 fecha_arg=2026-10-26
-hora_arg=13:00
-altas_verificadas=7
-filas=3965-3971
-candidatas_evaluadas=9
-descartadas_duplicado_o_sin_novedad=2
-descartadas_foto_no_validada=0
-ultima_noticia=GIMNASIA VUELVE A SOÑAR CON RODRIGO REY PARA 2027
-estado=ALTAS_VERIFICADAS_EN_SHEETS
-pulso_id=2026-10-26T13:00:00-03:00-radar1-corrida-1300
+hora_arg=14:10
+altas_verificadas=2
+filas=3972,3973
+candidatas_evaluadas=7
+descartadas_duplicado_o_sin_novedad=5
+noticia_1=GUILLERMO BARROS SCHELOTTO NO DESCARTÓ VOLVER A BOCA Y EXPLICÓ SU SALIDA
+noticia_2=LA VENTA DE ENTRADAS PARA LA FINAL DE BOCA SERÍA EL 3 DE NOVIEMBRE
+estado=ALTAS_VERIFICADAS_EN_SHEETS_CSV_PENDIENTE_DE_COMPROBACION
+pulso_id=2026-10-26T14:10:00-03:00-radar5-filas-3972-3973
