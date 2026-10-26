@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-25T23:15:25.147Z",
+  "updatedAt": "2026-10-26T01:13:34.765Z",
   "trends": [
     {
-      "query": "francisco ortega",
-      "startedAt": "2026-10-25T22:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "santiago beltrán",
-      "startedAt": "2026-10-25T22:50:00.000Z",
+      "query": "dilma rousseff",
+      "startedAt": "2026-10-26T00:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "el destape",
-      "startedAt": "2026-10-25T22:50:00.000Z",
-      "volume": 200
+      "query": "tabla anual liga argentina",
+      "startedAt": "2026-10-26T00:20:00.000Z",
+      "volume": 10000
     },
     {
-      "query": "ruta nacional 16",
-      "startedAt": "2026-10-25T22:50:00.000Z",
+      "query": "infobae",
+      "startedAt": "2026-10-26T00:20:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "cómo salió river racing",
+      "startedAt": "2026-10-26T00:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "river plate posiciones",
+      "startedAt": "2026-10-26T00:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "cómo va river",
-      "startedAt": "2026-10-25T22:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "pagina 12",
-      "startedAt": "2026-10-25T22:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "murio carlos riganti",
-      "startedAt": "2026-10-25T22:40:00.000Z",
+      "query": "trump",
+      "startedAt": "2026-10-26T00:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "resultados das eleições",
-      "startedAt": "2026-10-25T22:30:00.000Z",
+      "query": "como salio river hoy",
+      "startedAt": "2026-10-26T00:10:00.000Z",
       "volume": 1000
     },
     {
-      "query": "argentinos vs",
-      "startedAt": "2026-10-25T22:30:00.000Z",
+      "query": "balon de oro 2026",
+      "startedAt": "2026-10-26T00:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "riber",
-      "startedAt": "2026-10-25T22:20:00.000Z",
-      "volume": 1000
+      "query": "infobae argentina",
+      "startedAt": "2026-10-26T00:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "barracas central - estudiantes de río cuarto",
+      "startedAt": "2026-10-26T00:00:00.000Z",
+      "volume": 5000
     }
   ]
 }
