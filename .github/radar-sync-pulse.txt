@@ -1,11 +1,11 @@
-RADAR 5 — RanaSports Actualidad Inmediata
+RADAR 1 — RanaSports Noticias
 fecha_arg=2026-10-26
-hora_arg=12:10
-altas_verificadas=1
-filas=3964
-candidatas_evaluadas=5
-descartadas_duplicado_o_sin_novedad=3
-descartadas_foto_no_validada=1
-ultima_noticia=LINDBLAD ACUSÓ A ALPINE DE ORDENARLE A COLAPINTO QUE LO FRENARA EN AUSTIN
+hora_arg=13:00
+altas_verificadas=7
+filas=3965-3971
+candidatas_evaluadas=9
+descartadas_duplicado_o_sin_novedad=2
+descartadas_foto_no_validada=0
+ultima_noticia=GIMNASIA VUELVE A SOÑAR CON RODRIGO REY PARA 2027
 estado=ALTAS_VERIFICADAS_EN_SHEETS
-pulso_id=2026-10-26T12:10:00-03:00-radar5-corrida-1210
+pulso_id=2026-10-26T13:00:00-03:00-radar1-corrida-1300
