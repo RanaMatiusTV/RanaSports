@@ -1,8 +1,8 @@
-RADAR 5 — RanaSports Actualidad Inmediata
+RADAR 1 — RanaSports Noticias
 fecha_arg=2026-10-25
-hora_arg=20:10
-altas_verificadas=1
-filas=3921
-ultima_noticia=REAL MADRID VENCIÓ 2-1 A BARCELONA CON UN DOBLETE DE MBAPPÉ EN EL CAMP NOU
+hora_arg=21:01
+altas_verificadas=6
+filas=3922-3927
+ultima_noticia=RIVERO VOLVIÓ A SER TITULAR Y MARCÓ EL 1-0 DE RIVER ANTE RACING
 estado=GOOGLE_SHEETS_VERIFICADO
-pulso_id=2026-10-25T23:10:00Z-radar5-3921-attempt1
+pulso_id=2026-10-26T00:01:00Z-radar1-3922-3927
