@@ -1,8 +1,8 @@
-RADAR 1 — RanaSports Noticias
+RADAR 5 — RanaSports Actualidad Inmediata
 fecha_arg=2026-10-26
-hora_arg=00:35
-altas_verificadas=6
-filas=3936,3937,3938,3939,3940,3941
-ultima_noticia=BOCA GOLEÓ AL CITY, NEWELL'S VENCIÓ AL ARSENAL Y RIVER EMPATÓ EN LA MESSI CUP
+hora_arg=06:10
+altas_verificadas=1
+filas=3942
+ultima_noticia=BAYERN PIDIÓ NO HABLAR DE FÚTBOL CON KOMPANY DURANTE SU INTERNACIÓN
 estado=GOOGLE_SHEETS_VERIFICADO
-pulso_id=2026-10-26T00:35:43-03:00-radar1-3936-3941
+pulso_id=2026-10-26T06:10:05-03:00-radar5-3942
