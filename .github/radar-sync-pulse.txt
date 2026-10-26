@@ -1,8 +1,8 @@
-RADAR 1 — RanaSports Noticias
+RADAR 5 — RanaSports Actualidad Inmediata
 fecha_arg=2026-10-26
-hora_arg=07:05
-altas_verificadas=6
-filas=3943-3948
-ultima_noticia=ANTONELLI PUEDE SER CAMPEÓN DE LA FÓRMULA 1 EN MÉXICO
+hora_arg=08:10
+altas_verificadas=1
+filas=3949
+ultima_noticia=TROGLIO CRUZÓ A LOSADA POR SUS DICHOS ANTES DEL CLÁSICO ENTRE BANFIELD Y LANÚS
 estado=GOOGLE_SHEETS_VERIFICADO
-pulso_id=2026-10-26T07:05:00-03:00-radar1-3943-3948
+pulso_id=2026-10-26T08:10:00-03:00-radar5-3949-run11
