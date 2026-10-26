@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/briatore-explico-por-que-colapinto-no-pudo-terminar-el-gp-de-estados-unidos/": {
+      "account": "f1",
+      "title": "BRIATORE EXPLICÓ POR QUÉ COLAPINTO NO PUDO TERMINAR EL GP DE ESTADOS UNIDOS",
+      "dueAt": "2026-10-26T15:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adf611413bbb91ebaf2bed1",
+      "createdAt": "2026-10-26T14:17:56.990Z"
+    },
+    "https://ranasports.com.ar/futbol/racing-quedo-sin-copas-internacionales-en-2027-despues-de-doce-participaciones-seguidas/": {
+      "account": "sports",
+      "title": "RACING QUEDÓ SIN COPAS INTERNACIONALES EN 2027 DESPUÉS DE DOCE PARTICIPACIONES SEGUIDAS",
+      "dueAt": "2026-10-26T15:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adf61148e6c1ef513efcd52",
+      "createdAt": "2026-10-26T14:17:56.131Z"
+    },
+    "https://ranasports.com.ar/futbol/el-var-anulo-el-2-0-de-river-por-interferencia-de-montiel-sobre-cambeses/": {
+      "account": "sports",
+      "title": "EL VAR ANULÓ EL 2-0 DE RIVER POR INTERFERENCIA DE MONTIEL SOBRE CAMBESES",
+      "dueAt": "2026-10-26T14:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adf6113c19bb19045b0da23",
+      "createdAt": "2026-10-26T14:17:55.559Z"
+    },
+    "https://ranasports.com.ar/futbol/chirola-romero-expreso-su-bronca-tras-la-derrota-de-racing-ante-river/": {
+      "account": "sports",
+      "title": "CHIROLA ROMERO EXPRESÓ SU BRONCA TRAS LA DERROTA DE RACING ANTE RIVER",
+      "dueAt": "2026-10-26T14:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adf6112c19bb19045b0d9b1",
+      "createdAt": "2026-10-26T14:17:55.069Z"
+    },
+    "https://ranasports.com.ar/futbol/velez-goleo-5-0-a-central-cordoba-con-un-triplete-de-ronaldo-martinez/": {
+      "account": "sports",
+      "title": "VÉLEZ GOLEÓ 5-0 A CENTRAL CÓRDOBA CON UN TRIPLETE DE RONALDO MARTÍNEZ",
+      "dueAt": "2026-10-26T14:17:52.497Z",
+      "mode": "shareNow",
+      "bufferPostId": "6adf6110c19bb19045b0d8cd",
+      "createdAt": "2026-10-26T14:17:54.629Z"
+    },
+    "https://ranasports.com.ar/f1/antonelli-puede-ser-campeon-de-la-formula-1-en-mexico/": {
+      "account": "f1",
+      "title": "ANTONELLI PUEDE SER CAMPEÓN DE LA FÓRMULA 1 EN MÉXICO",
+      "dueAt": "2026-10-26T14:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adf610f13bbb91ebaf2bd41",
+      "createdAt": "2026-10-26T14:17:51.895Z"
+    },
     "https://ranasports.com.ar/f1/un-cambio-en-la-parrilla-de-austin-beneficio-a-colapinto-antes-de-la-largada/": {
       "account": "f1",
       "title": "UN CAMBIO EN LA PARRILLA DE AUSTIN BENEFICIÓ A COLAPINTO ANTES DE LA LARGADA",
@@ -5234,60 +5282,6 @@
       "createdAt": "2026-10-04T12:07:32.518Z",
       "externalLink": "https://x.com/768913759301754880/status/2106720996979851487",
       "sentAt": "2026-10-04T12:20:01.559Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwODE0MjAwMDAsIkVMIDctMCBBTlRFIEJVUktJTkEgRkFTTyBJR1VBTMOTIExBIE1BWU9SIEdPTEVBREEgREVMIENJQ0xPIFNDQUxPTkkiXQ": {
-      "account": "main",
-      "title": "EL 7-0 ANTE BURKINA FASO IGUALÓ LA MAYOR GOLEADA DEL CICLO SCALONI",
-      "dueAt": "2026-10-04T12:15:00.000Z",
-      "bufferPostId": "6ac24183d8dbde86e145fb38",
-      "createdAt": "2026-10-04T12:07:31.778Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106719763397226801",
-      "sentAt": "2026-10-04T12:15:07.443Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwODEzMDAwMDAsIk1BU1RBTlRVT05PIFJFU1BPTkRJw5MgQSBMQVMgRVhJR0VOQ0lBUyBUUkFTIFNVIFBSSU1FUiBHT0wgRU4gTEEgU0VMRUNDScOTTiJd": {
-      "account": "main",
-      "title": "MASTANTUONO RESPONDIÓ A LAS EXIGENCIAS TRAS SU PRIMER GOL EN LA SELECCIÓN",
-      "dueAt": "2026-10-04T12:10:00.000Z",
-      "bufferPostId": "6ac24183365aeab50be07a77",
-      "createdAt": "2026-10-04T12:07:31.137Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106718482804998411",
-      "sentAt": "2026-10-04T12:10:02.185Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwNzkyNjAwMDAsIlBSRVNUSUFOTkkgWSBNQVNUQU5UVU9OTyBNQVJDQVJPTiBTVVMgUFJJTUVST1MgR09MRVMgRU4gTEEgU0VMRUNDScOTTiBNQVlPUiJd": {
-      "account": "main",
-      "title": "PRESTIANNI Y MASTANTUONO MARCARON SUS PRIMEROS GOLES EN LA SELECCIÓN MAYOR",
-      "dueAt": "2026-10-04T03:05:00.000Z",
-      "bufferPostId": "6ac1b6b0aa79e514b90804ba",
-      "createdAt": "2026-10-04T02:15:12.245Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106581330024612179",
-      "sentAt": "2026-10-04T03:05:02.470Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwNzkyNjAwMDAsIkFSR0VOVElOQSBHT0xFw5MgNy0wIEEgQlVSS0lOQSBGQVNPIEVOIEVMIE1PTlVNRU5UQUwiXQ": {
-      "account": "main",
-      "title": "ARGENTINA GOLEÓ 7-0 A BURKINA FASO EN EL MONUMENTAL",
-      "dueAt": "2026-10-04T03:00:00.000Z",
-      "bufferPostId": "6ac1b6af7d53b827e0f6d192",
-      "createdAt": "2026-10-04T02:15:11.645Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106580097079574840",
-      "sentAt": "2026-10-04T03:00:08.428Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwNzgxMjAwMDAsIkxFT05FTCBGTE9SRVM6IERPQkxFVEUgRU4gQk9DQSBZIFBBUlRJRE8gQ09OIExBIFNFTEVDQ0nDk04gRU4gTUVOT1MgREUgMjQgSE9SQVMiXQ": {
-      "account": "main",
-      "title": "LEONEL FLORES: DOBLETE EN BOCA Y PARTIDO CON LA SELECCIÓN EN MENOS DE 24 HORAS",
-      "dueAt": "2026-10-04T02:55:00.000Z",
-      "bufferPostId": "6ac1b6ae7d53b827e0f6d161",
-      "createdAt": "2026-10-04T02:15:11.045Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106578811135426996",
-      "sentAt": "2026-10-04T02:55:01.876Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwNzc0MDAwMDAsIkxBVVRBUk8gSUdVQUzDkyBBIEFHw5xFUk8gWSBZQSBFUyBFTCBURVJDRVIgR09MRUFET1IgSElTVMOTUklDTyBERSBMQSBTRUxFQ0NJw5NOIl0": {
-      "account": "main",
-      "title": "LAUTARO IGUALÓ A AGÜERO Y YA ES EL TERCER GOLEADOR HISTÓRICO DE LA SELECCIÓN",
-      "dueAt": "2026-10-04T02:50:00.000Z",
-      "bufferPostId": "6ac1b6aead7fd83bc50c799d",
-      "createdAt": "2026-10-04T02:15:10.694Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106577553087406382",
-      "sentAt": "2026-10-04T02:50:01.876Z"
     }
   },
   "nextAt": {
