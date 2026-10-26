@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-26T01:13:34.765Z",
+  "updatedAt": "2026-10-26T06:13:53.772Z",
   "trends": [
     {
-      "query": "dilma rousseff",
-      "startedAt": "2026-10-26T00:40:00.000Z",
+      "query": "sports",
+      "startedAt": "2026-10-26T04:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "tabla anual liga argentina",
-      "startedAt": "2026-10-26T00:20:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "infobae",
-      "startedAt": "2026-10-26T00:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "cómo salió river racing",
-      "startedAt": "2026-10-26T00:20:00.000Z",
+      "query": "eric bauza",
+      "startedAt": "2026-10-26T04:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "river plate posiciones",
-      "startedAt": "2026-10-26T00:20:00.000Z",
+      "query": "tijuana - santos",
+      "startedAt": "2026-10-26T04:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "trump",
-      "startedAt": "2026-10-26T00:10:00.000Z",
+      "query": "susana roccasalvo",
+      "startedAt": "2026-10-26T03:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "como salio river hoy",
-      "startedAt": "2026-10-26T00:10:00.000Z",
+      "query": "quini 6 sorteo 3420",
+      "startedAt": "2026-10-26T02:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "desinflación",
+      "startedAt": "2026-10-26T02:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jalen williams",
+      "startedAt": "2026-10-26T02:20:00.000Z",
       "volume": 1000
     },
     {
-      "query": "balon de oro 2026",
-      "startedAt": "2026-10-26T00:10:00.000Z",
+      "query": "kings - grizzlies",
+      "startedAt": "2026-10-26T02:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "infobae argentina",
-      "startedAt": "2026-10-26T00:10:00.000Z",
-      "volume": 200
+      "query": "geraldo alckmin",
+      "startedAt": "2026-10-26T02:00:00.000Z",
+      "volume": 100
     },
     {
-      "query": "barracas central - estudiantes de río cuarto",
-      "startedAt": "2026-10-26T00:00:00.000Z",
-      "volume": 5000
+      "query": "servicio meteorológico nacional",
+      "startedAt": "2026-10-26T01:40:00.000Z",
+      "volume": 1000
     }
   ]
 }
