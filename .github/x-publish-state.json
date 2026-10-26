@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/un-cambio-en-la-parrilla-de-austin-beneficio-a-colapinto-antes-de-la-largada/": {
+      "account": "f1",
+      "title": "UN CAMBIO EN LA PARRILLA DE AUSTIN BENEFICIÓ A COLAPINTO ANTES DE LA LARGADA",
+      "dueAt": "2026-10-26T06:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adef17fd62a2f4f0043b6c0",
+      "createdAt": "2026-10-26T06:21:51.919Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-no-podra-ser-campeon-de-la-tabla-anual-en-el-superclasico/": {
+      "account": "sports",
+      "title": "BOCA NO PODRÁ SER CAMPEÓN DE LA TABLA ANUAL EN EL SUPERCLÁSICO",
+      "dueAt": "2026-10-26T07:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adef17ecacf63ab0ac22423",
+      "createdAt": "2026-10-26T06:21:51.024Z"
+    },
+    "https://ranasports.com.ar/futbol/arruabarrena-rechazo-la-suerte-de-campeon-de-boca/": {
+      "account": "sports",
+      "title": "ARRUABARRENA RECHAZÓ LA “SUERTE DE CAMPEÓN” DE BOCA: “ACÁ CON EL CULO NO SE GANA”",
+      "dueAt": "2026-10-26T06:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adef17ed62a2f4f0043b67d",
+      "createdAt": "2026-10-26T06:21:50.625Z"
+    },
+    "https://ranasports.com.ar/messi/mateo-messi-marco-un-golazo-y-fue-campeon-con-inter-miami-sub-12/": {
+      "account": "sports",
+      "title": "MATEO MESSI MARCÓ UN GOLAZO Y FUE CAMPEÓN CON INTER MIAMI SUB 12",
+      "dueAt": "2026-10-26T06:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adef17debc709901afc0863",
+      "createdAt": "2026-10-26T06:21:49.748Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-goleo-al-city-newell-s-vencio-al-arsenal-y-river-empato-en-la-messi-cup/": {
+      "account": "sports",
+      "title": "BOCA GOLEÓ AL CITY, NEWELL'S VENCIÓ AL ARSENAL Y RIVER EMPATÓ EN LA MESSI CUP",
+      "dueAt": "2026-10-26T06:21:47.281Z",
+      "mode": "shareNow",
+      "bufferPostId": "6adef17bebc709901afc0829",
+      "createdAt": "2026-10-26T06:21:49.412Z"
+    },
     "https://ranasports.com.ar/futbol/viera-explico-la-suplencia-de-rey-y-cuestiono-al-arbitraje-tras-caer-ante-boca/": {
       "account": "main",
       "title": "VIERA EXPLICÓ LA SUPLENCIA DE REY Y CUESTIONÓ AL ARBITRAJE TRAS CAER ANTE BOCA",
@@ -5248,51 +5288,6 @@
       "createdAt": "2026-10-04T02:15:10.694Z",
       "externalLink": "https://x.com/768913759301754880/status/2106577553087406382",
       "sentAt": "2026-10-04T02:50:01.876Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwNzY5ODAwMDAsIlNPVUzDiSwgUEFMQUNJT1MgWSBTQU5USUFHTyBDQVNUUk8gREVCVVRBUk9OIEVOIExBIFNFTEVDQ0nDk04gTUFZT1IiXQ": {
-      "account": "main",
-      "title": "SOULÉ, PALACIOS Y SANTIAGO CASTRO DEBUTARON EN LA SELECCIÓN MAYOR",
-      "dueAt": "2026-10-04T02:45:00.000Z",
-      "bufferPostId": "6ac1b6ae814d657011defe6d",
-      "createdAt": "2026-10-04T02:15:10.354Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106576297958703451",
-      "sentAt": "2026-10-04T02:45:02.633Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwNzA1NjAwMDAsIlRBUElBIENBTUJJw5MgRUwgUklUVUFMIERFTCBNQVRFIFkgU1VNw5MgQSBDVUFUUk8gUkVGRVJFTlRFUyBERSBMQSBTRUxFQ0NJw5NOIl0": {
-      "account": "main",
-      "title": "TAPIA CAMBIÓ EL RITUAL DEL MATE Y SUMÓ A CUATRO REFERENTES DE LA SELECCIÓN",
-      "dueAt": "2026-10-04T02:40:00.000Z",
-      "bufferPostId": "6ac1b6ad814d657011defe44",
-      "createdAt": "2026-10-04T02:15:09.601Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106575039000637464",
-      "sentAt": "2026-10-04T02:40:02.510Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwNjk0ODAwMDAsIlNDQUxPTkkgQ09ORklSTcOTIEVMIEVRVUlQTyBERSBBUkdFTlRJTkEgUEFSQSBSRUNJQklSIEEgQlVSS0lOQSBGQVNPIl0": {
-      "account": "main",
-      "title": "SCALONI CONFIRMÓ EL EQUIPO DE ARGENTINA PARA RECIBIR A BURKINA FASO",
-      "dueAt": "2026-10-04T02:35:00.000Z",
-      "bufferPostId": "6ac1b6ac7d53b827e0f6d0f1",
-      "createdAt": "2026-10-04T02:15:08.886Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106573778155135384",
-      "sentAt": "2026-10-04T02:35:01.944Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwNjU3NjAwMDAsIkxPUyBISU5DSEFTIEVMSUdJRVJPTiBBIE5JQ08gUEFaIENPTU8gSEVSRURFUk8gREUgTEEgMTAgREUgTEEgU0VMRUNDScOTTiJd": {
-      "account": "main",
-      "title": "LOS HINCHAS ELIGIERON A NICO PAZ COMO HEREDERO DE LA 10 DE LA SELECCIÓN",
-      "dueAt": "2026-10-04T02:30:00.000Z",
-      "bufferPostId": "6ac1b6ab8dc991c73c663d2c",
-      "createdAt": "2026-10-04T02:15:08.058Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106572528105750827",
-      "sentAt": "2026-10-04T02:30:03.870Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEwNjQ5MjAwMDAsIkVuem8gRmVybsOhbmRleiB2aXNpdMOzIGEgY2hpY29zIGludGVybmFkb3MgZW4gZWwgSG9zcGl0YWwgR2FycmFoYW4iXQ": {
-      "account": "main",
-      "title": "Enzo Fernández visitó a chicos internados en el Hospital Garrahan",
-      "dueAt": "2026-10-04T02:25:00.000Z",
-      "bufferPostId": "6ac1b6ab5829d2489a00d8e3",
-      "createdAt": "2026-10-04T02:15:07.444Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106571260402541053",
-      "sentAt": "2026-10-04T02:25:01.574Z"
     }
   },
   "nextAt": {
