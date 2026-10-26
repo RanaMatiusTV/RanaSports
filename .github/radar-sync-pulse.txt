@@ -1,8 +1,8 @@
-RADAR 5 — RanaSports Actualidad Inmediata
+RADAR 1 — RanaSports Noticias
 fecha_arg=2026-10-26
-hora_arg=06:10
-altas_verificadas=1
-filas=3942
-ultima_noticia=BAYERN PIDIÓ NO HABLAR DE FÚTBOL CON KOMPANY DURANTE SU INTERNACIÓN
+hora_arg=07:05
+altas_verificadas=6
+filas=3943-3948
+ultima_noticia=ANTONELLI PUEDE SER CAMPEÓN DE LA FÓRMULA 1 EN MÉXICO
 estado=GOOGLE_SHEETS_VERIFICADO
-pulso_id=2026-10-26T06:10:05-03:00-radar5-3942
+pulso_id=2026-10-26T07:05:00-03:00-radar1-3943-3948
