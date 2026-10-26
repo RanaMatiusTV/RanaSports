@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-26T06:13:53.772Z",
+  "updatedAt": "2026-10-26T13:04:15.851Z",
   "trends": [
     {
-      "query": "sports",
-      "startedAt": "2026-10-26T04:10:00.000Z",
+      "query": "ignacio online",
+      "startedAt": "2026-10-26T12:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "eric bauza",
-      "startedAt": "2026-10-26T04:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "tijuana - santos",
-      "startedAt": "2026-10-26T04:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "susana roccasalvo",
-      "startedAt": "2026-10-26T03:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "quini 6 sorteo 3420",
-      "startedAt": "2026-10-26T02:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "desinflación",
-      "startedAt": "2026-10-26T02:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "jalen williams",
-      "startedAt": "2026-10-26T02:20:00.000Z",
+      "query": "arba",
+      "startedAt": "2026-10-26T12:40:00.000Z",
       "volume": 1000
     },
     {
-      "query": "kings - grizzlies",
-      "startedAt": "2026-10-26T02:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "geraldo alckmin",
-      "startedAt": "2026-10-26T02:00:00.000Z",
+      "query": "luna llena en tauro",
+      "startedAt": "2026-10-26T12:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "servicio meteorológico nacional",
-      "startedAt": "2026-10-26T01:40:00.000Z",
-      "volume": 1000
+      "query": "cyanide lol",
+      "startedAt": "2026-10-26T12:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "justicia cordoba",
+      "startedAt": "2026-10-26T12:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "bullying catamarca",
+      "startedAt": "2026-10-26T12:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "sabrina rojas",
+      "startedAt": "2026-10-26T12:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "mercado libre",
+      "startedAt": "2026-10-26T11:50:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "riesgo país",
+      "startedAt": "2026-10-26T11:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "investing",
+      "startedAt": "2026-10-26T11:40:00.000Z",
+      "volume": 200
     }
   ]
 }
