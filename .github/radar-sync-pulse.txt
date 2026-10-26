@@ -1,8 +1,8 @@
-RADAR 1 — RanaSports Noticias
+RADAR 5 — RanaSports Actualidad Inmediata
 fecha_arg=2026-10-25
-hora_arg=21:01
-altas_verificadas=6
-filas=3922-3927
-ultima_noticia=RIVERO VOLVIÓ A SER TITULAR Y MARCÓ EL 1-0 DE RIVER ANTE RACING
+hora_arg=22:10
+altas_verificadas=2
+filas=3928,3929
+ultima_noticia=RIVER VENCIÓ 1-0 A RACING Y LLEGA CON IMPULSO AL SUPERCLÁSICO
 estado=GOOGLE_SHEETS_VERIFICADO
-pulso_id=2026-10-26T00:01:00Z-radar1-3922-3927
+pulso_id=2026-10-25T22:10:00-03:00-radar5-3928-3929-1792976946993
