@@ -1,9 +1,10 @@
-RADAR 5 — RanaSports Actualidad Inmediata
+RADAR 1 — RanaSports Noticias
 fecha_arg=2026-10-26
-hora_arg=10:10
-altas_verificadas=0
-filas=ninguna
-candidatas_evaluadas=6
-descartadas_duplicado_o_sin_novedad=6
-estado=SIN_ALTAS_ANTIDUPLICADOS_VERIFICADO
-pulso_id=2026-10-26T10:10:00-03:00-radar5-corrida-11-cero-altas
+hora_arg=11:07
+altas_verificadas=7
+filas=3957-3963
+candidatas_evaluadas=8
+descartadas_duplicado_o_sin_novedad=1
+ultima_noticia=MONTERO SE AFIANZÓ COMO FIGURA DE BOCA ANTES DEL SUPERCLÁSICO
+estado=ALTAS_VERIFICADAS_EN_SHEETS
+pulso_id=2026-10-26T11:07:46-03:00-radar1-corrida-1100
