@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-26T19:17:31.576Z",
+  "updatedAt": "2026-10-26T23:21:18.527Z",
   "trends": [
     {
-      "query": "instituto geofísico del perú",
-      "startedAt": "2026-10-26T19:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "agustín canapino",
-      "startedAt": "2026-10-26T18:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "psg - lyon",
-      "startedAt": "2026-10-26T18:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "universidad nacional de la plata (unlp)",
-      "startedAt": "2026-10-26T18:40:00.000Z",
+      "query": "neymar",
+      "startedAt": "2026-10-26T23:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "juan martín del potro",
-      "startedAt": "2026-10-26T18:40:00.000Z",
+      "query": "worlds",
+      "startedAt": "2026-10-26T23:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "guillermo barros schelotto",
-      "startedAt": "2026-10-26T18:40:00.000Z",
+      "query": "administración pública",
+      "startedAt": "2026-10-26T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "ronaldo nazario",
+      "startedAt": "2026-10-26T22:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "enzo hoyos",
+      "startedAt": "2026-10-26T22:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "comercio",
-      "startedAt": "2026-10-26T18:20:00.000Z",
-      "volume": 2000
+      "query": "lpl",
+      "startedAt": "2026-10-26T22:40:00.000Z",
+      "volume": 100
     },
     {
-      "query": "choque frontal",
-      "startedAt": "2026-10-26T18:20:00.000Z",
-      "volume": 500
+      "query": "cuantos balones de oro tiene messi",
+      "startedAt": "2026-10-26T22:30:00.000Z",
+      "volume": 200
     },
     {
-      "query": "defensores de belgrano - san miguel",
-      "startedAt": "2026-10-26T18:10:00.000Z",
-      "volume": 2000
+      "query": "alexia putellas",
+      "startedAt": "2026-10-26T22:20:00.000Z",
+      "volume": 5000
     },
     {
-      "query": "santa clara - benfica",
-      "startedAt": "2026-10-26T18:10:00.000Z",
-      "volume": 1000
+      "query": "gleizes",
+      "startedAt": "2026-10-26T22:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "thierry henry",
+      "startedAt": "2026-10-26T22:20:00.000Z",
+      "volume": 100
     }
   ]
 }
