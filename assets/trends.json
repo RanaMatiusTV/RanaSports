@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-26T13:04:15.851Z",
+  "updatedAt": "2026-10-26T19:17:31.576Z",
   "trends": [
     {
-      "query": "ignacio online",
-      "startedAt": "2026-10-26T12:50:00.000Z",
+      "query": "instituto geofísico del perú",
+      "startedAt": "2026-10-26T19:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "arba",
-      "startedAt": "2026-10-26T12:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "luna llena en tauro",
-      "startedAt": "2026-10-26T12:40:00.000Z",
+      "query": "agustín canapino",
+      "startedAt": "2026-10-26T18:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "cyanide lol",
-      "startedAt": "2026-10-26T12:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "justicia cordoba",
-      "startedAt": "2026-10-26T12:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "bullying catamarca",
-      "startedAt": "2026-10-26T12:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "sabrina rojas",
-      "startedAt": "2026-10-26T12:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "mercado libre",
-      "startedAt": "2026-10-26T11:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "riesgo país",
-      "startedAt": "2026-10-26T11:40:00.000Z",
+      "query": "psg - lyon",
+      "startedAt": "2026-10-26T18:40:00.000Z",
       "volume": 2000
     },
     {
-      "query": "investing",
-      "startedAt": "2026-10-26T11:40:00.000Z",
+      "query": "universidad nacional de la plata (unlp)",
+      "startedAt": "2026-10-26T18:40:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "juan martín del potro",
+      "startedAt": "2026-10-26T18:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "guillermo barros schelotto",
+      "startedAt": "2026-10-26T18:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "comercio",
+      "startedAt": "2026-10-26T18:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "choque frontal",
+      "startedAt": "2026-10-26T18:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "defensores de belgrano - san miguel",
+      "startedAt": "2026-10-26T18:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "santa clara - benfica",
+      "startedAt": "2026-10-26T18:10:00.000Z",
+      "volume": 1000
     }
   ]
 }
