@@ -1,8 +1,8 @@
-RADAR 5 — RanaSports Actualidad Inmediata
+RADAR 1 — RanaSports Noticias
 fecha_arg=2026-10-25
-hora_arg=22:10
-altas_verificadas=2
-filas=3928,3929
-ultima_noticia=RIVER VENCIÓ 1-0 A RACING Y LLEGA CON IMPULSO AL SUPERCLÁSICO
+hora_arg=23:05
+altas_verificadas=6
+filas=3930,3931,3932,3933,3934,3935
+ultima_noticia=MARCELO GALLARDO VOLVIÓ AL MONUMENTAL Y FUE OVACIONADO POR LOS HINCHAS DE RIVER
 estado=GOOGLE_SHEETS_VERIFICADO
-pulso_id=2026-10-25T22:10:00-03:00-radar5-3928-3929-1792976946993
+pulso_id=2026-10-25T23:05:00-03:00-radar1-3930-3935
