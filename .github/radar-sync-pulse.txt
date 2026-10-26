@@ -1,8 +1,9 @@
-RADAR 1 — RanaSports Noticias
+RADAR 5 — RanaSports Actualidad Inmediata
 fecha_arg=2026-10-26
-hora_arg=09:14
-altas_verificadas=7
-filas=3950-3956
-ultima_noticia=RIESTRA NECESITA TRES PUNTOS PARA ASEGURAR LA PERMANENCIA EN PRIMERA
-estado=GOOGLE_SHEETS_VERIFICADO
-pulso_id=2026-10-26T09:14:00-03:00-radar1-3950-3956
+hora_arg=10:10
+altas_verificadas=0
+filas=ninguna
+candidatas_evaluadas=6
+descartadas_duplicado_o_sin_novedad=6
+estado=SIN_ALTAS_ANTIDUPLICADOS_VERIFICADO
+pulso_id=2026-10-26T10:10:00-03:00-radar5-corrida-11-cero-altas
