@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/charlyn-corral-gano-el-trofeo-gerd-muller-femenino-en-el-balon-de-oro-2026/": {
+      "account": "sports",
+      "title": "CHARLYN CORRAL GANÓ EL TROFEO GERD MÜLLER FEMENINO EN EL BALÓN DE ORO 2026",
+      "dueAt": "2026-10-27T01:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adfeff414a7789a82fa29a5",
+      "createdAt": "2026-10-27T00:27:32.841Z"
+    },
+    "https://ranasports.com.ar/futbol/alexia-putellas-gano-su-tercer-balon-de-oro-femenino-en-la-gala-de-londres/": {
+      "account": "sports",
+      "title": "ALEXIA PUTELLAS GANÓ SU TERCER BALÓN DE ORO FEMENINO EN LA GALA DE LONDRES",
+      "dueAt": "2026-10-27T01:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adfeff414a7789a82fa2963",
+      "createdAt": "2026-10-27T00:27:32.222Z"
+    },
+    "https://ranasports.com.ar/futbol/harry-kane-gano-el-balon-de-oro-2026-y-termino-con-25-anos-de-espera-para-inglaterra/": {
+      "account": "sports",
+      "title": "HARRY KANE GANÓ EL BALÓN DE ORO 2026 Y TERMINÓ CON 25 AÑOS DE ESPERA PARA INGLATERRA",
+      "dueAt": "2026-10-27T00:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6adfeff33bff354cec69bb39",
+      "createdAt": "2026-10-27T00:27:31.849Z"
+    },
+    "https://ranasports.com.ar/futbol/unai-simon-gano-el-trofeo-yashin-2026-y-dibu-martinez-termino-quinto/": {
+      "account": "sports",
+      "title": "UNAI SIMÓN GANÓ EL TROFEO YASHIN 2026 Y DIBU MARTÍNEZ TERMINÓ QUINTO",
+      "dueAt": "2026-10-27T00:27:29.199Z",
+      "mode": "shareNow",
+      "bufferPostId": "6adfeff1f266a5f7e1063f51",
+      "createdAt": "2026-10-27T00:27:31.321Z"
+    },
     "https://ranasports.com.ar/futbol/viera-dio-dos-dias-libres-y-el-rojo-volvera-a-trabajar-el-miercoles/": {
       "account": "main",
       "title": "VIERA DIO DOS DÍAS LIBRES Y EL ROJO VOLVERÁ A TRABAJAR EL MIÉRCOLES",
@@ -5239,42 +5271,6 @@
       "createdAt": "2026-10-04T21:17:11.751Z",
       "externalLink": "https://x.com/2095690134515572737/status/2106856897043173771",
       "sentAt": "2026-10-04T21:20:02.674Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTExNDQzNjAwMDAsIlBSRVNUSUFOTkkgTUFSQ8OTIFNVIFBSSU1FUiBHT0wgWSBBQ0xBUsOTIFNVIEZVVFVSTyBBTlRFIEVMIElOVEVSw4lTIERFIFJJVkVSIl0": {
-      "account": "main",
-      "title": "PRESTIANNI MARCÓ SU PRIMER GOL Y ACLARÓ SU FUTURO ANTE EL INTERÉS DE RIVER",
-      "dueAt": "2026-10-04T21:25:00.000Z",
-      "bufferPostId": "6ac2c24569a169193a4cb6f5",
-      "createdAt": "2026-10-04T21:16:53.631Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106858153182687363",
-      "sentAt": "2026-10-04T21:25:02.137Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTExNDQzNjAwMDAsIkRJQlUgTUFSVMONTkVaIFZJU0lUw5MgRUwgVEMgWSBERVNBRknDkyBBIFNDQUxPTkkgQSBVTkEgQ0FSUkVSQSJd": {
-      "account": "main",
-      "title": "DIBU MARTÍNEZ VISITÓ EL TC Y DESAFIÓ A SCALONI A UNA CARRERA",
-      "dueAt": "2026-10-04T21:20:00.000Z",
-      "bufferPostId": "6ac2c24469a169193a4cb6c8",
-      "createdAt": "2026-10-04T21:16:53.132Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106856897038930424",
-      "sentAt": "2026-10-04T21:20:02.741Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTExODU2MDAwMCwiQ09MQVBJTlRPIEFQVU5Uw5MgQ09OVFJBIExBIEVTVFJBVEVHSUEgREUgQUxQSU5FOiDigJxGVUUgTEEgREVDSVNJw5NOIElOQ09SUkVDVEHigJ0iXQ": {
-      "account": "f1",
-      "title": "COLAPINTO APUNTÓ CONTRA LA ESTRATEGIA DE ALPINE: “FUE LA DECISIÓN INCORRECTA”",
-      "dueAt": "2026-10-04T18:20:00.000Z",
-      "bufferPostId": "6ac29878fe1389e4133c3029",
-      "createdAt": "2026-10-04T18:18:32.787Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2106811596034998704",
-      "sentAt": "2026-10-04T18:20:02.045Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTExMzcwNDAwMDAsIk1FU1NJIFNFIFNVTUEgQSBMQSBTRUxFQ0NJw5NOIFBBUkEgUFJFUEFSQVIgU1UgREVTUEVESURBIEFOVEUgQkVOw41OIl0": {
-      "account": "main",
-      "title": "MESSI SE SUMA A LA SELECCIÓN PARA PREPARAR SU DESPEDIDA ANTE BENÍN",
-      "dueAt": "2026-10-04T18:30:00.000Z",
-      "bufferPostId": "6ac2985f63761da98b57a72e",
-      "createdAt": "2026-10-04T18:18:07.845Z",
-      "externalLink": "https://x.com/768913759301754880/status/2106814150395474006",
-      "sentAt": "2026-10-04T18:30:11.458Z"
     }
   },
   "nextAt": {
