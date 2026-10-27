@@ -1,11 +1,10 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-27 12:10 America/Argentina/Buenos_Aires
-Pulso único: RADAR5-20261027T1210-RUN11-CERO
-Candidatas evaluadas: 9
-Descartadas por cobertura previa / duplicación de hecho: 8
-Descartadas por falta de novedad sustancial: 1
-Altas verificadas: 0
-Filas nuevas: ninguna
-Última fila existente comprobada: 4040
-Estado: SIN_ALTAS; ANTIDUPLICADOS_VERIFICADO; SINCRONIZACION_SOLICITADA
-R=TRUE intacto. No se modificaron noticias existentes, otros radares, workflows ni CSV.
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-27 13:07 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-20261027T1307-RUN13
+Candidatas detectadas: 10
+Descartadas por duplicación o falta de novedad actual: 4
+Altas verificadas: 6
+Filas nuevas: 4041-4046
+Última noticia: RAMÍREZ, TELLO Y FALCÓN PÉREZ SON LOS CANDIDATOS PARA DIRIGIR EL SUPERCLÁSICO
+Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
+R=TRUE intacto. No se modificaron noticias existentes, workflows ni archivos CSV directamente.
