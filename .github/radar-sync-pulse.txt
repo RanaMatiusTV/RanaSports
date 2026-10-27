@@ -1,10 +1,10 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-27 06:10 America/Argentina/Buenos_Aires
-Altas verificadas: 1
-Filas: 4021
-Última noticia: MILWAUKEE GOLEÓ 10-1 A TAMPA BAY Y QUEDÓ A UN TRIUNFO DE GANAR SU PRIMERA SERIE MUNDIAL
-Candidatas evaluadas: 5
-Descartadas por duplicación o cobertura previa: 3
-Descartadas por falta de fotografía editorial única validada: 1
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-27 07:07 America/Argentina/Buenos_Aires
+Altas verificadas: 6
+Filas: 4022-4027
+Última noticia: ARGENTINOS RECIBE A INDEPENDIENTE RIVADAVIA EN UN DUELO CLAVE POR LA CIMA Y LAS COPAS
+Candidatas evaluadas: 14
+Descartadas por duplicación o cobertura previa: 8
+Fotos H verificadas: 6
 Estado: GOOGLE_SHEETS_VERIFICADO; SINCRONIZACION_SOLICITADA
-Pulso único: RADAR5-20261027T0610-4021
+Pulso único: RADAR1-20261027T0707-4022-4027
