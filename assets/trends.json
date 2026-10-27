@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-27T08:22:30.469Z",
+  "updatedAt": "2026-10-27T14:54:57.226Z",
   "trends": [
     {
-      "query": "clima mendoza",
-      "startedAt": "2026-10-27T07:20:00.000Z",
+      "query": "carlos alcaraz",
+      "startedAt": "2026-10-27T14:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "devaluación",
+      "startedAt": "2026-10-27T14:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "discord",
-      "startedAt": "2026-10-27T06:00:00.000Z",
+      "query": "swift",
+      "startedAt": "2026-10-27T14:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "mbappe china",
+      "startedAt": "2026-10-27T14:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "iván de pineda",
-      "startedAt": "2026-10-27T05:00:00.000Z",
-      "volume": 100
+      "query": "virginia aparicio inta",
+      "startedAt": "2026-10-27T14:10:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "bet 365",
-      "startedAt": "2026-10-27T04:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "yaxel lendeborg",
-      "startedAt": "2026-10-27T04:00:00.000Z",
+      "query": "frente frío",
+      "startedAt": "2026-10-27T14:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "posiciones de independiente santa fe contra atlético bucaramanga",
-      "startedAt": "2026-10-27T03:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "27 de octubre que se celebra",
-      "startedAt": "2026-10-27T03:10:00.000Z",
+      "query": "calzado",
+      "startedAt": "2026-10-27T13:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "27 de octubre",
-      "startedAt": "2026-10-27T03:10:00.000Z",
-      "volume": 100
+      "query": "lourdes sanchez",
+      "startedAt": "2026-10-27T13:30:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "tornado",
-      "startedAt": "2026-10-27T02:50:00.000Z",
-      "volume": 200
+      "query": "real brasileño",
+      "startedAt": "2026-10-27T13:00:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "rockets - hawks",
-      "startedAt": "2026-10-27T02:50:00.000Z",
-      "volume": 100
+      "query": "boda",
+      "startedAt": "2026-10-27T12:50:00.000Z",
+      "volume": 500
     }
   ]
 }
