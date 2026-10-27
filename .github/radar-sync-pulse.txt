@@ -1,10 +1,9 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-26 22:10 America/Argentina/Buenos_Aires
-Altas verificadas: 1
-Filas: 4008
-Última noticia: LAUTARO MARTÍNEZ TERMINÓ 22° EN EL BALÓN DE ORO 2026
-Candidatas evaluadas: 4
-Descartadas por duplicación o ya cubiertas: 2
-Descartadas por resultado sin confirmar: 1
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-26 23:02 America/Argentina/Buenos_Aires
+Altas verificadas: 6
+Filas: 4009-4014
+Última noticia: KANE DEDICÓ EL BALÓN DE ORO A SU FAMILIA Y YAMAL MOSTRÓ SU DECEPCIÓN
+Candidatas evaluadas: 12
+Descartadas por duplicación o ya cubiertas: 6
 Estado: GOOGLE_SHEETS_VERIFICADO; SINCRONIZACION_SOLICITADA
-Pulso único: RADAR5-20261026T2210-4008-LAUTARO
+Pulso único: RADAR1-20261026T2302-4009-4014
