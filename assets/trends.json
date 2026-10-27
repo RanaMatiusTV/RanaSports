@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-27T14:54:57.226Z",
+  "updatedAt": "2026-10-27T20:05:09.681Z",
   "trends": [
     {
-      "query": "carlos alcaraz",
-      "startedAt": "2026-10-27T14:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "devaluación",
-      "startedAt": "2026-10-27T14:30:00.000Z",
+      "query": "gobierno de la provincia de córdoba",
+      "startedAt": "2026-10-27T19:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "swift",
-      "startedAt": "2026-10-27T14:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "mbappe china",
-      "startedAt": "2026-10-27T14:20:00.000Z",
+      "query": "deshielo",
+      "startedAt": "2026-10-27T19:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "virginia aparicio inta",
-      "startedAt": "2026-10-27T14:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "frente frío",
-      "startedAt": "2026-10-27T14:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "calzado",
-      "startedAt": "2026-10-27T13:30:00.000Z",
+      "query": "wayne rooney",
+      "startedAt": "2026-10-27T19:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "lourdes sanchez",
-      "startedAt": "2026-10-27T13:30:00.000Z",
-      "volume": 1000
+      "query": "oliver bearman",
+      "startedAt": "2026-10-27T19:30:00.000Z",
+      "volume": 200
     },
     {
-      "query": "real brasileño",
-      "startedAt": "2026-10-27T13:00:00.000Z",
-      "volume": 1000
+      "query": "copa del rey",
+      "startedAt": "2026-10-27T19:30:00.000Z",
+      "volume": 100
     },
     {
-      "query": "boda",
-      "startedAt": "2026-10-27T12:50:00.000Z",
-      "volume": 500
+      "query": "roma - cagliari",
+      "startedAt": "2026-10-27T19:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "boca vs flamengo messi cup",
+      "startedAt": "2026-10-27T19:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "boca messi cup",
+      "startedAt": "2026-10-27T19:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "metropoles",
+      "startedAt": "2026-10-27T19:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "fleetwood - arsenal",
+      "startedAt": "2026-10-27T19:10:00.000Z",
+      "volume": 5000
     }
   ]
 }
