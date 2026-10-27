@@ -1,9 +1,9 @@
 RADAR 1 — RANASPORTS NOTICIAS
-Ejecución: 2026-10-26 23:02 America/Argentina/Buenos_Aires
+Ejecución: 2026-10-27 00:27 America/Argentina/Buenos_Aires
 Altas verificadas: 6
-Filas: 4009-4014
-Última noticia: KANE DEDICÓ EL BALÓN DE ORO A SU FAMILIA Y YAMAL MOSTRÓ SU DECEPCIÓN
+Filas: 4015-4020
+Última noticia: CATALINA TURIENZO QUEDÓ ENTRE LAS CUATRO FINALISTAS AL PREMIO DE MEJOR VELERISTA JUVENIL
 Candidatas evaluadas: 12
-Descartadas por duplicación o ya cubiertas: 6
+Descartadas por duplicación o ya cubiertas: 4
 Estado: GOOGLE_SHEETS_VERIFICADO; SINCRONIZACION_SOLICITADA
-Pulso único: RADAR1-20261026T2302-4009-4014
+Pulso único: RADAR1-20261027T0027-4015-4020
