@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-27T20:05:09.681Z",
+  "updatedAt": "2026-10-27T23:45:48.636Z",
   "trends": [
     {
-      "query": "gobierno de la provincia de córdoba",
-      "startedAt": "2026-10-27T19:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "deshielo",
-      "startedAt": "2026-10-27T19:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "wayne rooney",
-      "startedAt": "2026-10-27T19:40:00.000Z",
+      "query": "spurs - kings",
+      "startedAt": "2026-10-27T23:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "oliver bearman",
-      "startedAt": "2026-10-27T19:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "copa del rey",
-      "startedAt": "2026-10-27T19:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "roma - cagliari",
-      "startedAt": "2026-10-27T19:20:00.000Z",
+      "query": "tormenta",
+      "startedAt": "2026-10-27T23:10:00.000Z",
       "volume": 2000
     },
     {
-      "query": "boca vs flamengo messi cup",
-      "startedAt": "2026-10-27T19:20:00.000Z",
+      "query": "celtics - nets",
+      "startedAt": "2026-10-27T23:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "boca messi cup",
-      "startedAt": "2026-10-27T19:20:00.000Z",
+      "query": "nicolas ramirez",
+      "startedAt": "2026-10-27T22:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "metropoles",
-      "startedAt": "2026-10-27T19:20:00.000Z",
+      "query": "córdoba",
+      "startedAt": "2026-10-27T22:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "messi cup resultados",
+      "startedAt": "2026-10-27T22:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "día del bancario",
+      "startedAt": "2026-10-27T22:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "fleetwood - arsenal",
-      "startedAt": "2026-10-27T19:10:00.000Z",
-      "volume": 5000
+      "query": "siameses",
+      "startedAt": "2026-10-27T22:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "copa mundial femenina de fútbol sub-17",
+      "startedAt": "2026-10-27T22:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "argentinos",
+      "startedAt": "2026-10-27T22:10:00.000Z",
+      "volume": 2000
     }
   ]
 }
