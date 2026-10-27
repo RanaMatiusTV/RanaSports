@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/alpine-freno-el-desarrollo-del-a526-y-colapinto-terminara-el-ano-sin-nuevas-mejoras/": {
+      "account": "f1",
+      "title": "ALPINE FRENÓ EL DESARROLLO DEL A526 Y COLAPINTO TERMINARÁ EL AÑO SIN NUEVAS MEJORAS",
+      "dueAt": "2026-10-27T19:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae0f1649886bd6ed21d47fc",
+      "createdAt": "2026-10-27T18:45:56.384Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-no-correra-la-fp1-en-mexico/": {
+      "account": "f1",
+      "title": "COLAPINTO NO CORRERÁ LA FP1 EN MÉXICO: MINÌ TOMARÁ SU ALPINE",
+      "dueAt": "2026-10-27T18:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae0f1630df7e3b215961da1",
+      "createdAt": "2026-10-27T18:45:55.851Z"
+    },
+    "https://ranasports.com.ar/futbol/barcelona-fue-multado-con-602-euros-por-contactar-a-julian-alvarez/": {
+      "account": "sports",
+      "title": "BARCELONA FUE MULTADO CON 602 EUROS POR CONTACTAR A JULIÁN ÁLVAREZ",
+      "dueAt": "2026-10-27T19:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae0f163327423179f369971",
+      "createdAt": "2026-10-27T18:45:55.352Z"
+    },
+    "https://ranasports.com.ar/futbol/river-descanso-antes-del-superclasico-y-ponzio-evalua-tres-cambios/": {
+      "account": "sports",
+      "title": "RIVER DESCANSÓ ANTES DEL SUPERCLÁSICO Y PONZIO EVALÚA TRES CAMBIOS",
+      "dueAt": "2026-10-27T19:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae0f1629886bd6ed21d47ad",
+      "createdAt": "2026-10-27T18:45:54.923Z"
+    },
+    "https://ranasports.com.ar/futbol/cuti-romero-eligio-a-julian-alvarez-para-heredar-la-10-de-messi/": {
+      "account": "sports",
+      "title": "CUTI ROMERO ELIGIÓ A JULIÁN ÁLVAREZ PARA HEREDAR LA 10 DE MESSI",
+      "dueAt": "2026-10-27T18:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae0f162ffe45e9612e60848",
+      "createdAt": "2026-10-27T18:45:54.445Z"
+    },
+    "https://ranasports.com.ar/basquet/lanus-remonto-ante-regatas-y-gano-72-63-por-la-liga-nacional/": {
+      "account": "sports",
+      "title": "LANÚS REMONTÓ ANTE REGATAS Y GANÓ 72-63 POR LA LIGA NACIONAL",
+      "dueAt": "2026-10-27T18:45:52.034Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ae0f15f9886bd6ed21d46f1",
+      "createdAt": "2026-10-27T18:45:54.149Z"
+    },
     "https://ranasports.com.ar/futbol/union-dio-vuelta-el-partido-y-vencio-3-1-a-estudiantes-en-santa-fe/": {
       "account": "sports",
       "title": "UNIÓN DIO VUELTA EL PARTIDO Y VENCIÓ 3-1 A ESTUDIANTES EN SANTA FE",
@@ -5208,60 +5256,6 @@
       "createdAt": "2026-10-05T22:20:12.939Z",
       "externalLink": "https://x.com/768913759301754880/status/2107235639305367552",
       "sentAt": "2026-10-05T22:25:01.884Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyMjU5NjAwMDAsIk1FU1NJIFJFQUxJWsOTIFNVIMOaTFRJTUEgUFLDgUNUSUNBIENPTiBMQSBTRUxFQ0NJw5NOIEFOVEVTIERFIExBIERFU1BFRElEQSJd": {
-      "account": "main",
-      "title": "MESSI REALIZÓ SU ÚLTIMA PRÁCTICA CON LA SELECCIÓN ANTES DE LA DESPEDIDA",
-      "dueAt": "2026-10-05T21:35:00.000Z",
-      "bufferPostId": "6ac4177b5b14a019116b83ad",
-      "createdAt": "2026-10-05T21:32:43.332Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107223055923610033",
-      "sentAt": "2026-10-05T21:35:01.801Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxMjIwMDIwMDAwLCJJTkRFUEVORElFTlRFIFBFUkRJw5MgQSBNQVhJIE1FWkEgWSBTSUdVRSBERSBDRVJDQSBBIENVQVRSTyBUT0NBRE9TIFBBUkEgVklTSVRBUiBBIFRBTExFUkVTIl0": {
-      "account": "main",
-      "title": "INDEPENDIENTE PERDIÓ A MAXI MEZA Y SIGUE DE CERCA A CUATRO TOCADOS PARA VISITAR A TALLERES",
-      "dueAt": "2026-10-05T18:20:00.000Z",
-      "bufferPostId": "6ac3e6b50ed83c24b771617e",
-      "createdAt": "2026-10-05T18:04:37.625Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107173984261296212",
-      "sentAt": "2026-10-05T18:20:02.216Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyMTkxODAwMDAsIkJFTsONTiBSRUNPUlJJw5MgQlVFTk9TIEFJUkVTIFkgUEFMUElUw5MgTEEgREVTUEVESURBIERFIE1FU1NJIEVOIEVMIE1PTlVNRU5UQUwiXQ": {
-      "account": "main",
-      "title": "BENÍN RECORRIÓ BUENOS AIRES Y PALPITÓ LA DESPEDIDA DE MESSI EN EL MONUMENTAL",
-      "dueAt": "2026-10-05T18:15:00.000Z",
-      "bufferPostId": "6ac3e6b4fbfba590d083850c",
-      "createdAt": "2026-10-05T18:04:36.796Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107172760539545940",
-      "sentAt": "2026-10-05T18:15:10.427Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyMTgyMjAwMDAsIkxBUyBBVVNFTkNJQVMgUVVFIFRFTkRSw4EgTEEgREVTUEVESURBIERFIE1FU1NJIENPTiBMQSBTRUxFQ0NJw5NOIEFSR0VOVElOQSJd": {
-      "account": "main",
-      "title": "LAS AUSENCIAS QUE TENDRÁ LA DESPEDIDA DE MESSI CON LA SELECCIÓN ARGENTINA",
-      "dueAt": "2026-10-05T18:10:00.000Z",
-      "bufferPostId": "6ac3e6b41c518f0f52121032",
-      "createdAt": "2026-10-05T18:04:36.477Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107171467892809991",
-      "sentAt": "2026-10-05T18:10:02.280Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyMTI0NjAwMDAsIkRJQlUgRU1PQ0lPTsOTIEEgVU5BIE5FTkEgQUwgSEFCTEFSIERFIE1BTFZJTkFTIFkgRUwgVFJJVU5GTyBBTlRFIElOR0xBVEVSUkEiXQ": {
-      "account": "main",
-      "title": "DIBU EMOCIONÓ A UNA NENA AL HABLAR DE MALVINAS Y EL TRIUNFO ANTE INGLATERRA",
-      "dueAt": "2026-10-05T16:25:00.000Z",
-      "bufferPostId": "6ac3ceecc9864b5b32e04ab2",
-      "createdAt": "2026-10-05T16:23:08.143Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107145043022684225",
-      "sentAt": "2026-10-05T16:25:02.245Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTIwNDkwMDAwMCwiRUwgTUFOQUdFUiBERSBDT0xBUElOVE8gTE8gUkVTUEFMRMOTOiDigJxFTCBQVUVTVE8gMTMgTk8gQ1VFTlRBIFRPREEgTEEgSElTVE9SSUHigJ0iXQ": {
-      "account": "f1",
-      "title": "EL MANAGER DE COLAPINTO LO RESPALDÓ: “EL PUESTO 13 NO CUENTA TODA LA HISTORIA”",
-      "dueAt": "2026-10-05T14:35:00.000Z",
-      "bufferPostId": "6ac3b4a4dfedad7d11c5f7f6",
-      "createdAt": "2026-10-05T14:31:00.825Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2107117361652187394",
-      "sentAt": "2026-10-05T14:35:02.351Z"
     }
   },
   "nextAt": {
