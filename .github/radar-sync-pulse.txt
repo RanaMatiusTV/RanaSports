@@ -1,10 +1,10 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-27 14:10 America/Argentina/Buenos_Aires
-Pulso único: RADAR5-20261027T1410-RUN11-4047-4048
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-27 15:01 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-20261027T1501-4049-4054
 Candidatas evaluadas: 7
-Descartadas por duplicación, cobertura previa o falta de novedad suficiente: 5
-Altas verificadas: 2
-Filas nuevas: 4047, 4048
-Noticias: margen inferior a 41 puntos entre Kane y Mbappé; pelea y expulsiones tras Galatasaray-Fenerbahçe
+Duplicados descartados: 1
+Altas verificadas: 6
+Filas nuevas: 4049, 4050, 4051, 4052, 4053, 4054
+Última noticia: GUTI CUESTIONÓ EL BALÓN DE ORO DE KANE Y PREFIRIÓ A LAMINE O MBAPPÉ
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
 R=TRUE intacto. Sin modificación de noticias anteriores, workflows ni CSV directamente.
