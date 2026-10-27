@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/alpine-terminara-2026-sin-nuevas-mejoras-para-colapinto-y-gasly/": {
+      "account": "f1",
+      "title": "ALPINE TERMINARÁ 2026 SIN NUEVAS MEJORAS PARA COLAPINTO Y GASLY",
+      "dueAt": "2026-10-28T00:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae12c5fe774525088d522bc",
+      "createdAt": "2026-10-27T22:57:35.766Z"
+    },
+    "https://ranasports.com.ar/f1/wolff-respondio-a-quienes-dudaron-de-antonelli-en-la-formula-1/": {
+      "account": "f1",
+      "title": "WOLFF RESPONDIÓ A QUIENES DUDARON DE ANTONELLI EN LA FÓRMULA 1",
+      "dueAt": "2026-10-27T23:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae12c5eea4e38da72fe8821",
+      "createdAt": "2026-10-27T22:57:35.064Z"
+    },
+    "https://ranasports.com.ar/futbol/ronaldo-martinez-quedo-a-un-gol-de-activar-la-compra-obligatoria-de-velez/": {
+      "account": "sports",
+      "title": "RONALDO MARTÍNEZ QUEDÓ A UN GOL DE ACTIVAR LA COMPRA OBLIGATORIA DE VÉLEZ",
+      "dueAt": "2026-10-28T00:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae12c5e34ac815e693abb6c",
+      "createdAt": "2026-10-27T22:57:34.638Z"
+    },
+    "https://ranasports.com.ar/futbol/galindez-replanteo-su-futuro-en-huracan-pese-a-tener-contrato-hasta-2027/": {
+      "account": "sports",
+      "title": "GALÍNDEZ REPLANTEÓ SU FUTURO EN HURACÁN PESE A TENER CONTRATO HASTA 2027",
+      "dueAt": "2026-10-27T23:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae12c5e34ac815e693abb25",
+      "createdAt": "2026-10-27T22:57:34.181Z"
+    },
+    "https://ranasports.com.ar/futbol/cuti-romero-revelo-que-jugo-infiltrado-la-final-del-mundial-2026/": {
+      "account": "sports",
+      "title": "CUTI ROMERO REVELÓ QUE JUGÓ INFILTRADO LA FINAL DEL MUNDIAL 2026",
+      "dueAt": "2026-10-27T23:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae12c5de774525088d52287",
+      "createdAt": "2026-10-27T22:57:33.713Z"
+    },
+    "https://ranasports.com.ar/boxeo/nicolas-peralta-hizo-historia-y-es-campeon-mundial-juvenil/": {
+      "account": "sports",
+      "title": "NICOLÁS PERALTA HIZO HISTORIA Y ES CAMPEÓN MUNDIAL JUVENIL",
+      "dueAt": "2026-10-27T22:57:29.923Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ae12c59ea4e38da72fe872d",
+      "createdAt": "2026-10-27T22:57:32.159Z"
+    },
     "https://ranasports.com.ar/f1/alpine-freno-el-desarrollo-del-a526-y-colapinto-terminara-el-ano-sin-nuevas-mejoras/": {
       "account": "f1",
       "title": "ALPINE FRENÓ EL DESARROLLO DEL A526 Y COLAPINTO TERMINARÁ EL AÑO SIN NUEVAS MEJORAS",
@@ -5202,60 +5250,6 @@
       "createdAt": "2026-10-06T08:11:22.748Z",
       "externalLink": "https://x.com/768913759301754880/status/2107385385181442495",
       "sentAt": "2026-10-06T08:20:04.147Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyNDU1MjAwMDAsIlRBR0xJQUZJQ08gRlVFIEFVVE9DUsONVElDTyBDT04gTEEgRklOQUwgREVMIE1VTkRJQUw6IOKAnE5PIEZVSU1PUyBMQSBTRUxFQ0NJw5NOIFFVRSBDT05PQ8ONQSBUT0RPIEVMIE1VTkRP4oCdIl0": {
-      "account": "main",
-      "title": "TAGLIAFICO FUE AUTOCRÍTICO CON LA FINAL DEL MUNDIAL: “NO FUIMOS LA SELECCIÓN QUE CONOCÍA TODO EL MUNDO”",
-      "dueAt": "2026-10-06T08:15:00.000Z",
-      "bufferPostId": "6ac4ad29d807824c4fcd89c2",
-      "createdAt": "2026-10-06T08:11:22.155Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107384124063223869",
-      "sentAt": "2026-10-06T08:15:03.489Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJmMSIsMTc5MTIzOTIyMDAwMCwiQk9UVEFTIFVOScOTIFNFUEFORyBZIFNJTkdBUFVSIEVOIEJJQ0lDTEVUQSBUUkFTIEVMIEdSQU4gUFJFTUlPIERFIE1BTEFTSUEiXQ": {
-      "account": "f1",
-      "title": "BOTTAS UNIÓ SEPANG Y SINGAPUR EN BICICLETA TRAS EL GRAN PREMIO DE MALASIA",
-      "dueAt": "2026-10-06T00:25:00.000Z",
-      "bufferPostId": "6ac43d9facc08dcd5e99dde9",
-      "createdAt": "2026-10-06T00:15:27.849Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2107265839510552615",
-      "sentAt": "2026-10-06T00:25:02.317Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkxMjM3OTYwMDAwLCJBTE9OU08gUFJFUEFSQSBTVSBSRUdSRVNPIEFMIERBS0FSIFBBUkEgMjAyNyBDT04gVU4gUFJPWUVDVE8gTElHQURPIEEgQVNUT04gTUFSVElOIl0": {
-      "account": "f1",
-      "title": "ALONSO PREPARA SU REGRESO AL DAKAR PARA 2027 CON UN PROYECTO LIGADO A ASTON MARTIN",
-      "dueAt": "2026-10-06T00:20:00.000Z",
-      "bufferPostId": "6ac43d9f032d052998731afb",
-      "createdAt": "2026-10-06T00:15:27.358Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2107264579294085186",
-      "sentAt": "2026-10-06T00:20:01.739Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyMzgzMjAwMDAsIkJFTsONTiBTRSBDUlVaw5MgQ09OIFJPU0FSSU8gQ0VOVFJBTCBZIFBPU8OTIENPTiDDgU5HRUwgREkgTUFSw41BIl0": {
-      "account": "main",
-      "title": "BENÍN SE CRUZÓ CON ROSARIO CENTRAL Y POSÓ CON ÁNGEL DI MARÍA",
-      "dueAt": "2026-10-06T00:20:00.000Z",
-      "bufferPostId": "6ac43d84ae999c0b7ff557e5",
-      "createdAt": "2026-10-06T00:15:01.123Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107264579302539564",
-      "sentAt": "2026-10-06T00:20:01.737Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyMzM5NDAwMDAsIkJVUktJTkEgRkFTTyBGVUUgUkVDSUJJREEgQ09NTyBIRVJPSUNBIFRSQVMgRUwgNy0wIEFOVEUgQVJHRU5USU5BIl0": {
-      "account": "main",
-      "title": "BURKINA FASO FUE RECIBIDA COMO HEROICA TRAS EL 7-0 ANTE ARGENTINA",
-      "dueAt": "2026-10-05T22:30:00.000Z",
-      "bufferPostId": "6ac4229d38629554e3447b70",
-      "createdAt": "2026-10-05T22:20:13.286Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107236912213672394",
-      "sentAt": "2026-10-05T22:30:05.418Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyMzM0MDAwMDAsIkJFTsONTiBMTEVHQSBDT04gSlVOSU9SIE9MQUlUQU4gQ09NTyBGSUdVUkEgUEFSQSBMQSBERVNQRURJREEgREUgTUVTU0kiXQ": {
-      "account": "main",
-      "title": "BENÍN LLEGA CON JUNIOR OLAITAN COMO FIGURA PARA LA DESPEDIDA DE MESSI",
-      "dueAt": "2026-10-05T22:25:00.000Z",
-      "bufferPostId": "6ac4229ce8b512ed4f5b942d",
-      "createdAt": "2026-10-05T22:20:12.939Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107235639305367552",
-      "sentAt": "2026-10-05T22:25:01.884Z"
     }
   },
   "nextAt": {
