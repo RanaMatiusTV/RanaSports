@@ -1,11 +1,8 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-27 10:10 America/Argentina/Buenos_Aires
-Pulso único: RADAR5-20261027T1010-RUN11
-Altas verificadas: 0
-Filas nuevas: ninguna
-Última fila revisada: 4033
-Candidatas evaluadas: 7
-Descartadas por duplicación/cobertura previa: 3
-Descartadas por falta de inmediatez/novedad sustancial: 4
-Estado: SIN_ALTAS; SINCRONIZACION_SOLICITADA
-Notas existentes intactas. No se modificaron workflows ni CSV.
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-27 11:04 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-20261027T1104-RUN
+Altas verificadas: 6
+Filas nuevas: 4035-4040
+Última noticia: RIQUELME NEGÓ HABER LLAMADO A THIAGO ALMADA ANTES DE SU LLEGADA A RIVER
+Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
+R=TRUE histórico intacto. No se modificaron workflows ni CSV.
