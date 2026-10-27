@@ -1,8 +1,7 @@
-RADAR 1 — RANASPORTS NOTICIAS
-Ejecución: 2026-10-27 09:00 America/Argentina/Buenos_Aires
-Altas verificadas: 6
-Filas nuevas: 4028-4033
-H verificadas: 6
-Última noticia: JANNIK SINNER CONFIRMÓ SU REGRESO EN EL SIX KINGS SLAM TRAS SUPERAR LA LESIÓN DE RODILLA
-Estado: PUBLICADO_EN_SHEETS; SINCRONIZACION_SOLICITADA
-Pulso único: RADAR1-20261027T0900
+RADAR 5 — Actualidad Inmediata
+Ejecución: 2026-10-27T10:41:00-03:00
+Horario programado: 2026-10-27 10:10 America/Argentina/Buenos_Aires
+Noticias nuevas verificadas: 1
+Filas: 4034
+Estado: GOOGLE_SHEETS_VERIFICADO; PULSO_ENVIADO; CSV_PENDIENTE_DE_COMPROBACION
+Identificador ejecución: radar5-20261027-1010-4034-v1
