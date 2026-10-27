@@ -1,13 +1,14 @@
-RADAR 1 — RANASPORTS NOTICIAS
-Ejecución: 2026-10-27 19:00 America/Argentina/Buenos_Aires
-Pulso único: RADAR1-20261027T1900-4068-YAMAL
-Candidatas evaluadas: 13
-Duplicados o coberturas previas descartadas: 7
-Altas verificadas: 6
-Filas nuevas: 4063-4068
-Última fila comprobada: 4068
-Noticia: LAMINE YAMAL PROMETIÓ VOLVER POR EL BALÓN DE ORO TRAS QUEDAR TERCERO
+RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
+Ejecución: 2026-10-27 20:06:25 America/Argentina/Buenos_Aires
+Pulso único: RADAR5-20261027200625-4069-RAMIREZ
+Candidatas evaluadas: 5
+Duplicados o coberturas previas descartadas: 3
+Descartadas por prioridad editorial: 1
+Altas verificadas: 1
+Filas nuevas: 4069
+Última fila comprobada: 4069
+Noticia: NICOLÁS RAMÍREZ FUE CONFIRMADO COMO ÁRBITRO DEL SUPERCLÁSICO BOCA-RIVER
+Novedad sustancial: designación oficial tras dos notas previas sobre candidatos (3987 y 4046).
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
-H verificadas: 6/6, imágenes directas, pertinentes y visibles.
-F verificados: 6/6, dos párrafos sustantivos y extensión proporcional.
-R=TRUE intacto. Sin modificar noticias anteriores, workflows ni CSV directamente.
+Imagen H verificada visualmente; A=SI, O=VERIFICADA, R=FALSE.
+Sin modificar noticias anteriores, workflows ni CSV directamente.
