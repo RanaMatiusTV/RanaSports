@@ -1,13 +1,13 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-27 18:14 America/Argentina/Buenos_Aires
-Pulso único: RADAR5-20261027T1814-4062-INSUA-CUELLO
-Candidatas evaluadas: 7
-Descartadas por duplicación/cobertura previa: 3
-Descartadas por falta de novedad o foto apta: 3
-Altas verificadas: 1
-Filas nuevas: 4062
-Última fila comprobada: 4062
-Noticia: INSÚA HABLÓ CON EL PLANTEL POR EL ENOJO DE CUELLO Y LO MANTUVO ENTRE LOS TITULARES
-Estado: ALTA_VERIFICADA; SINCRONIZACION_SOLICITADA
-Control antiduplicados por hecho y URL realizado sobre noticias históricas y recientes. Duplicado preexistente Alpine filas 4042 y 4059 conservado.
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-27 19:00 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-20261027T1900-4068-YAMAL
+Candidatas evaluadas: 13
+Duplicados o coberturas previas descartadas: 7
+Altas verificadas: 6
+Filas nuevas: 4063-4068
+Última fila comprobada: 4068
+Noticia: LAMINE YAMAL PROMETIÓ VOLVER POR EL BALÓN DE ORO TRAS QUEDAR TERCERO
+Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
+H verificadas: 6/6, imágenes directas, pertinentes y visibles.
+F verificados: 6/6, dos párrafos sustantivos y extensión proporcional.
 R=TRUE intacto. Sin modificar noticias anteriores, workflows ni CSV directamente.
