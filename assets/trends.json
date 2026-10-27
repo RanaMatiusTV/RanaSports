@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-26T23:21:18.527Z",
+  "updatedAt": "2026-10-27T02:25:48.305Z",
   "trends": [
     {
-      "query": "neymar",
-      "startedAt": "2026-10-26T23:00:00.000Z",
-      "volume": 200
+      "query": "marta fort",
+      "startedAt": "2026-10-27T01:50:00.000Z",
+      "volume": 500
     },
     {
-      "query": "worlds",
-      "startedAt": "2026-10-26T23:00:00.000Z",
+      "query": "jazz - grizzlies",
+      "startedAt": "2026-10-27T01:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "administración pública",
-      "startedAt": "2026-10-26T22:50:00.000Z",
+      "query": "nuggets - warriors",
+      "startedAt": "2026-10-27T01:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "gran hermano",
+      "startedAt": "2026-10-27T01:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "ronaldo nazario",
-      "startedAt": "2026-10-26T22:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "enzo hoyos",
-      "startedAt": "2026-10-26T22:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "lpl",
-      "startedAt": "2026-10-26T22:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "cuantos balones de oro tiene messi",
-      "startedAt": "2026-10-26T22:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "alexia putellas",
-      "startedAt": "2026-10-26T22:20:00.000Z",
+      "query": "posiciones de flamengo contra atlético mineiro",
+      "startedAt": "2026-10-27T01:10:00.000Z",
       "volume": 5000
     },
     {
-      "query": "gleizes",
-      "startedAt": "2026-10-26T22:20:00.000Z",
+      "query": "valeria mazza",
+      "startedAt": "2026-10-27T01:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "crucero",
+      "startedAt": "2026-10-27T01:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "santa fe - bucaramanga",
+      "startedAt": "2026-10-27T00:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "rays - brewers",
+      "startedAt": "2026-10-27T00:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "thierry henry",
-      "startedAt": "2026-10-26T22:20:00.000Z",
-      "volume": 100
+      "query": "barco",
+      "startedAt": "2026-10-27T00:40:00.000Z",
+      "volume": 2000
     }
   ]
 }
