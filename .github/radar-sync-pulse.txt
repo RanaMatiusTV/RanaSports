@@ -1,13 +1,13 @@
 RADAR 1 — RANASPORTS NOTICIAS
-Ejecución: 2026-10-27 23:00 America/Argentina/Buenos_Aires
-Pulso único: RADAR1-202610272300-4079-4085
-Candidatas válidas evaluadas: 9
-Duplicados exactos descartados: 0
-Omitidas por prioridad o ventana editorial: 2
-Altas verificadas: 7
-Filas nuevas: 4079, 4080, 4081, 4082, 4083, 4084, 4085
-Última fila comprobada: 4085
-Última noticia: CRISIS EN RIESTRA: GUILLERMO DURÓ DEJÓ DE SER EL ENTRENADOR
+Ejecución: 2026-10-28 00:25 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-202610280025-4086-4091
+Candidatas válidas evaluadas: 10
+Duplicados o hechos ya cubiertos descartados: 3
+Omitidas por control fotográfico: 1
+Altas verificadas: 6
+Filas nuevas: 4086, 4087, 4088, 4089, 4090, 4091
+Última fila comprobada: 4091
+Última noticia: ENZO HOYOS LLEVÓ A LUJÁN LA ILUSIÓN DE FERRO POR VOLVER A PRIMERA
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
 Fotografías H directas comprobadas visualmente; A=SI, O=VERIFICADA, R=FALSE.
 Sin borrar ni modificar noticias existentes, otros radares, workflows o CSV directamente.
