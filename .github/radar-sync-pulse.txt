@@ -1,12 +1,11 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-28 08:13:22 America/Argentina/Buenos_Aires
-Pulso único: RADAR5-20261028081322-4101
-Candidatas evaluadas: 10
-Descartadas por duplicación o cobertura previa: 6
-Descartadas por prioridad editorial: 1
-Altas verificadas: 3
-Filas nuevas: 4099, 4100, 4101
-Última fila comprobada: 4101
-Noticias: LUNA CINALLI LOGRÓ SU PRIMER TRIUNFO EN UN WTA 125 Y AVANZÓ A OCTAVOS EN CURITIBA | EL HIJO DE AUGUSTO FERNÁNDEZ HIZO UN GOLAZO DE TIRO LIBRE EN LA MESSI CUP | UGO CARABELLI VENCIÓ A FEDERICO CORIA Y AVANZÓ A OCTAVOS EN GUAYAQUIL
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-28 09:01:00 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-20261028090100-4108
+Candidatas evaluadas: 15
+Descartadas por duplicación o cobertura previa: 8
+Altas verificadas: 7
+Filas nuevas: 4102, 4103, 4104, 4105, 4106, 4107, 4108
+Última fila comprobada: 4108
+Última noticia: BRUNETTA AVANZA PARA JUGAR EN LA SELECCIÓN DE MÉXICO TRAS HABLAR CON RAFA MÁRQUEZ
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
 A=SI, O=VERIFICADA, R=FALSE; fotografías directas verificadas visualmente. Sin modificar noticias existentes, otros radares, workflows ni CSV directamente.
