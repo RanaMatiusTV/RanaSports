@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-27T23:45:48.636Z",
+  "updatedAt": "2026-10-28T02:36:02.559Z",
   "trends": [
     {
-      "query": "spurs - kings",
-      "startedAt": "2026-10-27T23:30:00.000Z",
+      "query": "rocio marengo",
+      "startedAt": "2026-10-28T02:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "tormenta",
-      "startedAt": "2026-10-27T23:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "celtics - nets",
-      "startedAt": "2026-10-27T23:10:00.000Z",
+      "query": "quien se va de masterchef hoy",
+      "startedAt": "2026-10-28T02:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "nicolas ramirez",
-      "startedAt": "2026-10-27T22:50:00.000Z",
+      "query": "2 de noviembre",
+      "startedAt": "2026-10-28T02:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "córdoba",
-      "startedAt": "2026-10-27T22:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "messi cup resultados",
-      "startedAt": "2026-10-27T22:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "día del bancario",
-      "startedAt": "2026-10-27T22:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "siameses",
-      "startedAt": "2026-10-27T22:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "copa mundial femenina de fútbol sub-17",
-      "startedAt": "2026-10-27T22:20:00.000Z",
+      "query": "lakers - trail blazers",
+      "startedAt": "2026-10-28T02:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "argentinos",
-      "startedAt": "2026-10-27T22:10:00.000Z",
-      "volume": 2000
+      "query": "boston celtics",
+      "startedAt": "2026-10-28T01:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "junior",
+      "startedAt": "2026-10-28T01:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "laura bozzo",
+      "startedAt": "2026-10-28T01:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "matthew perry",
+      "startedAt": "2026-10-28T01:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "dia de los muertos",
+      "startedAt": "2026-10-28T01:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "nadia podoroska",
+      "startedAt": "2026-10-28T01:20:00.000Z",
+      "volume": 200
     }
   ]
 }
