@@ -1,13 +1,12 @@
-RADAR 1 — RANASPORTS NOTICIAS
-Ejecución: 2026-10-28 00:25 America/Argentina/Buenos_Aires
-Pulso único: RADAR1-202610280025-4086-4091
-Candidatas válidas evaluadas: 10
-Duplicados o hechos ya cubiertos descartados: 3
-Omitidas por control fotográfico: 1
-Altas verificadas: 6
-Filas nuevas: 4086, 4087, 4088, 4089, 4090, 4091
-Última fila comprobada: 4091
-Última noticia: ENZO HOYOS LLEVÓ A LUJÁN LA ILUSIÓN DE FERRO POR VOLVER A PRIMERA
+RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
+Ejecución: 2026-10-28 06:10 America/Argentina/Buenos_Aires
+Pulso único: RADAR5-202610280610-4092
+Candidatas evaluadas: 7
+Descartadas por duplicación o cobertura previa: 5
+Descartadas por prioridad editorial o imagen no apta: 1
+Altas verificadas: 1
+Filas nuevas: 4092
+Última fila comprobada: 4092
+Última noticia: NICO DIEZ LE AGRADECIÓ A CIRO POR EL PIQUE QUE AYUDÓ AL GOL DE ARGENTINOS
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
-Fotografías H directas comprobadas visualmente; A=SI, O=VERIFICADA, R=FALSE.
-Sin borrar ni modificar noticias existentes, otros radares, workflows o CSV directamente.
+A=SI, O=VERIFICADA, R=FALSE; foto H directa inspeccionada. Sin modificar noticias existentes, otros radares, workflows ni CSV directamente.
