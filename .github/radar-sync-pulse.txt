@@ -1,13 +1,12 @@
-RADAR 1 — RANASPORTS NOTICIAS
-Ejecución: 2026-10-27 21:02:53 America/Argentina/Buenos_Aires
-Pulso único: RADAR1-20261027210253-4075-GUILLERMO
-Candidatos detectados: 9
-Duplicados descartados: 3
-Altas verificadas: 6
-Filas nuevas: 4070-4075
-Última fila comprobada: 4075
-Última noticia: RACING SE ILUSIONA CON GUILLERMO TRAS SUS DUDAS SOBRE LA CONTINUIDAD EN VÉLEZ
-Ventana utilizada: 8 horas, tras no alcanzar la cuota en 2 y 4 horas.
+RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
+Ejecución: 2026-10-27 22:10 America/Argentina/Buenos_Aires
+Pulso único: RADAR5-202610272210-4076-4078-ARGENTINOS-MESSICUP-NICOPAZ
+Candidatas evaluadas: 7
+Descartadas por duplicación o falta de novedad sustancial: 4
+Altas verificadas: 3
+Filas nuevas: 4076, 4077, 4078
+Última fila comprobada: 4078
+Última noticia: NICO PAZ MARCÓ Y ASISTIÓ EN LA REMONTADA 3-1 DEL COMO ANTE TORINO
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
-Seis imágenes H directas y verificadas visualmente; A=SI, O=VERIFICADA, R=FALSE.
-Sin modificar noticias anteriores, workflows ni CSV directamente.
+Fotografías H directas comprobadas visualmente; A=SI, O=VERIFICADA, R=FALSE.
+Sin borrar ni modificar noticias existentes, otros radares, workflows o CSV directamente.
