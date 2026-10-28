@@ -1,11 +1,11 @@
-RADAR 1 — RANASPORTS NOTICIAS
-Ejecución: 2026-10-28 15:02 America/Argentina/Buenos_Aires
-Pulso único: RADAR1-20261028T1502-4127-4132
+RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
+Ejecución: 2026-10-28 16:10 America/Argentina/Buenos_Aires
+Pulso único: RADAR5-20261028T1610-4133-4135
 Candidatas evaluadas: 10
-Descartadas por duplicación del mismo hecho: 4
-Altas verificadas: 6
-Filas nuevas: 4127-4132
-Última fila comprobada: 4132
-Última noticia: LA IFAB ANALIZA CAMBIOS EN LOS PENALES Y UNA REVISIÓN INTEGRAL DEL VAR
+Descartadas por duplicación/cobertura previa: 5
+Descartadas por escasa novedad o prioridad editorial: 2
+Altas verificadas: 3
+Filas nuevas: 4133, 4134, 4135
+Última fila comprobada: 4135
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
-A=SI, O=VERIFICADA, R=FALSE. No se modificaron noticias existentes, otros radares, workflows ni CSV directamente.
+A=SI, O=VERIFICADA, R=FALSE. Sin cambios en noticias existentes, otros radares, workflows ni CSV directamente.
