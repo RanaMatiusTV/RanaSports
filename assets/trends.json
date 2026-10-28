@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-28T08:59:12.737Z",
+  "updatedAt": "2026-10-28T15:59:36.958Z",
   "trends": [
     {
-      "query": "meteorología",
-      "startedAt": "2026-10-28T07:40:00.000Z",
+      "query": "passaglia",
+      "startedAt": "2026-10-28T15:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "fecha de cobro auh noviembre 2026",
-      "startedAt": "2026-10-28T04:10:00.000Z",
+      "query": "caza furtiva",
+      "startedAt": "2026-10-28T15:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "mlb",
-      "startedAt": "2026-10-28T03:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "pronostico santa fe",
-      "startedAt": "2026-10-28T03:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "clima santa fe",
-      "startedAt": "2026-10-28T03:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "quien se fue de masterchef hoy",
-      "startedAt": "2026-10-28T02:50:00.000Z",
+      "query": "boca messi cup",
+      "startedAt": "2026-10-28T15:40:00.000Z",
       "volume": 1000
     },
     {
-      "query": "2 de noviembre",
-      "startedAt": "2026-10-28T02:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "rocio marengo",
-      "startedAt": "2026-10-28T02:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lakers - trail blazers",
-      "startedAt": "2026-10-28T02:10:00.000Z",
+      "query": "pensión",
+      "startedAt": "2026-10-28T15:30:00.000Z",
       "volume": 2000
     },
     {
-      "query": "junior",
-      "startedAt": "2026-10-28T01:40:00.000Z",
+      "query": "quiniela de tucuman",
+      "startedAt": "2026-10-28T15:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "fatima bañez",
+      "startedAt": "2026-10-28T15:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "novak djokovic",
+      "startedAt": "2026-10-28T15:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "juegos ps plus noviembre 2026",
+      "startedAt": "2026-10-28T15:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "privatización",
+      "startedAt": "2026-10-28T15:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clima necochea",
+      "startedAt": "2026-10-28T15:00:00.000Z",
       "volume": 200
     }
   ]
