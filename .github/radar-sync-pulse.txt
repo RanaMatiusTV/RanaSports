@@ -1,12 +1,12 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-28 06:10 America/Argentina/Buenos_Aires
-Pulso único: RADAR5-202610280610-4092
-Candidatas evaluadas: 7
-Descartadas por duplicación o cobertura previa: 5
-Descartadas por prioridad editorial o imagen no apta: 1
-Altas verificadas: 1
-Filas nuevas: 4092
-Última fila comprobada: 4092
-Última noticia: NICO DIEZ LE AGRADECIÓ A CIRO POR EL PIQUE QUE AYUDÓ AL GOL DE ARGENTINOS
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-28 07:04 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-202610280704-4098
+Candidatas evaluadas: 28
+Descartadas por duplicación o cobertura previa: 20
+Descartadas por imagen no apta: 2
+Altas verificadas: 6
+Filas nuevas: 4093-4098
+Última fila comprobada: 4098
+Última noticia: LA AFA PRESENTÓ LA PELOTA ESPECIAL QUE ESTRENARÁN BOCA Y RIVER EN EL SUPERCLÁSICO
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
-A=SI, O=VERIFICADA, R=FALSE; foto H directa inspeccionada. Sin modificar noticias existentes, otros radares, workflows ni CSV directamente.
+A=SI, O=VERIFICADA, R=FALSE; seis fotos H directas inspeccionadas. Sin modificar noticias existentes, otros radares, workflows ni CSV directamente.
