@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/fleetwood-elimino-al-arsenal-por-penales-en-un-batacazo-de-la-copa-de-la-liga/": {
+      "account": "sports",
+      "title": "FLEETWOOD ELIMINÓ AL ARSENAL POR PENALES EN UN BATACAZO DE LA COPA DE LA LIGA",
+      "dueAt": "2026-10-28T03:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae15b4df6d6782c59a40b5b",
+      "createdAt": "2026-10-28T02:17:49.294Z"
+    },
+    "https://ranasports.com.ar/futbol/el-llanto-de-bolcato-tras-el-error-que-marco-la-derrota-de-independiente-rivadavia/": {
+      "account": "sports",
+      "title": "EL LLANTO DE BOLCATO TRAS EL ERROR QUE MARCÓ LA DERROTA DE INDEPENDIENTE RIVADAVIA",
+      "dueAt": "2026-10-28T02:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae15b4cf6d6782c59a40b27",
+      "createdAt": "2026-10-28T02:17:48.582Z"
+    },
+    "https://ranasports.com.ar/futbol/en-boca-cayo-mal-la-designacion-de-nicolas-ramirez-para-el-superclasico/": {
+      "account": "sports",
+      "title": "EN BOCA CAYÓ MAL LA DESIGNACIÓN DE NICOLÁS RAMÍREZ PARA EL SUPERCLÁSICO",
+      "dueAt": "2026-10-28T02:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae15b4c21e984edd69ee021",
+      "createdAt": "2026-10-28T02:17:48.231Z"
+    },
+    "https://ranasports.com.ar/futbol/argentinos-le-gano-1-0-a-independiente-rivadavia-e-igualo-a-boca-en-la-tabla-anual/": {
+      "account": "sports",
+      "title": "ARGENTINOS LE GANÓ 1-0 A INDEPENDIENTE RIVADAVIA E IGUALÓ A BOCA EN LA TABLA ANUAL",
+      "dueAt": "2026-10-28T02:17:45.179Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ae15b49d689807dda1ab984",
+      "createdAt": "2026-10-28T02:17:47.304Z"
+    },
     "https://ranasports.com.ar/f1/alpine-terminara-2026-sin-nuevas-mejoras-para-colapinto-y-gasly/": {
       "account": "f1",
       "title": "ALPINE TERMINARÁ 2026 SIN NUEVAS MEJORAS PARA COLAPINTO Y GASLY",
@@ -5214,42 +5246,6 @@
       "createdAt": "2026-10-06T15:12:29.654Z",
       "externalLink": "https://x.com/768913759301754880/status/2107489896474493011",
       "sentAt": "2026-10-06T15:15:21.620Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODU5NjAwMDAsIkxBIERFU1BFRElEQSBERSBNRVNTSSBZQSBUSUVORSBHUklMTEEgQ09NUExFVEE6IFRPRE9TIExPUyBTSE9XUyBZIEhPUkFSSU9TIl0": {
-      "account": "main",
-      "title": "LA DESPEDIDA DE MESSI YA TIENE GRILLA COMPLETA: TODOS LOS SHOWS Y HORARIOS",
-      "dueAt": "2026-10-06T11:35:00.000Z",
-      "bufferPostId": "6ac4dc4ac26b904b503bd186",
-      "createdAt": "2026-10-06T11:32:26.618Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107434452016136664",
-      "sentAt": "2026-10-06T11:35:02.650Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODEyODAwMDAsIkVMIE1PTlVNRU5UQUwgU0UgVklTVEnDkyBERSBHQUxBIFBBUkEgTEEgw5pMVElNQSBGVU5DScOTTiBERSBNRVNTSSBDT04gTEEgU0VMRUNDScOTTiJd": {
-      "account": "main",
-      "title": "EL MONUMENTAL SE VISTIÓ DE GALA PARA LA ÚLTIMA FUNCIÓN DE MESSI CON LA SELECCIÓN",
-      "dueAt": "2026-10-06T10:35:00.000Z",
-      "bufferPostId": "6ac4cd02f3da78683bb76bbc",
-      "createdAt": "2026-10-06T10:27:14.729Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107419348889461200",
-      "sentAt": "2026-10-06T10:35:01.756Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODEyMjAwMDAsIk9UQU1FTkRJIFNFIERFU1BJREnDkyBERSBMT1MgRU5UUkVOQU1JRU5UT1MgQ09OIExBIFNFTEVDQ0nDk046IOKAnFNFIENJRVJSQSBVTkEgUEFSVEUgRU5PUk1FIERFIE1JIFZJREHigJ0iXQ": {
-      "account": "main",
-      "title": "OTAMENDI SE DESPIDIÓ DE LOS ENTRENAMIENTOS CON LA SELECCIÓN: “SE CIERRA UNA PARTE ENORME DE MI VIDA”",
-      "dueAt": "2026-10-06T10:30:00.000Z",
-      "bufferPostId": "6ac4cd015eb2d92e7a5ec0e3",
-      "createdAt": "2026-10-06T10:27:14.006Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107418106729505110",
-      "sentAt": "2026-10-06T10:30:05.521Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyNDY5MDAwMDAsIlJPU0FSSU8gREVTUExFR8OTIFVOQSBDQU1JU0VUQSBHSUdBTlRFIENPTiBVTiDigJxHUkFDSUFT4oCdIFBBUkEgTUVTU0kiXQ": {
-      "account": "main",
-      "title": "ROSARIO DESPLEGÓ UNA CAMISETA GIGANTE CON UN “GRACIAS” PARA MESSI",
-      "dueAt": "2026-10-06T08:20:00.000Z",
-      "bufferPostId": "6ac4ad2ab0effcd6ca4ff249",
-      "createdAt": "2026-10-06T08:11:22.748Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107385385181442495",
-      "sentAt": "2026-10-06T08:20:04.147Z"
     }
   },
   "nextAt": {
