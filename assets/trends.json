@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-28T15:59:36.958Z",
+  "updatedAt": "2026-10-28T21:02:51.540Z",
   "trends": [
     {
-      "query": "passaglia",
-      "startedAt": "2026-10-28T15:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "caza furtiva",
-      "startedAt": "2026-10-28T15:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "boca messi cup",
-      "startedAt": "2026-10-28T15:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "pensión",
-      "startedAt": "2026-10-28T15:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "quiniela de tucuman",
-      "startedAt": "2026-10-28T15:30:00.000Z",
+      "query": "city",
+      "startedAt": "2026-10-28T20:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "fatima bañez",
-      "startedAt": "2026-10-28T15:30:00.000Z",
+      "query": "chelsea vs liverpool",
+      "startedAt": "2026-10-28T20:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "novak djokovic",
-      "startedAt": "2026-10-28T15:20:00.000Z",
-      "volume": 1000
+      "query": "porto - académico de viseu futebol clube",
+      "startedAt": "2026-10-28T20:40:00.000Z",
+      "volume": 100
     },
     {
-      "query": "juegos ps plus noviembre 2026",
-      "startedAt": "2026-10-28T15:20:00.000Z",
+      "query": "leverkusen",
+      "startedAt": "2026-10-28T20:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "privatización",
-      "startedAt": "2026-10-28T15:20:00.000Z",
+      "query": "aníbal moreno",
+      "startedAt": "2026-10-28T20:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "clima necochea",
-      "startedAt": "2026-10-28T15:00:00.000Z",
+      "query": "ecocarnes",
+      "startedAt": "2026-10-28T20:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "dfb pokal",
+      "startedAt": "2026-10-28T20:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "julián santero",
+      "startedAt": "2026-10-28T20:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "balon de oro de todos los tiempos",
+      "startedAt": "2026-10-28T20:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "sedán",
+      "startedAt": "2026-10-28T19:50:00.000Z",
       "volume": 200
     }
   ]
