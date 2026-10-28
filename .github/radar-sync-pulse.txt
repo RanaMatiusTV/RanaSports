@@ -1,12 +1,11 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-28 18:10 America/Argentina/Buenos_Aires
-Pulso único: RADAR5-20261028T1810-0-4141
-Candidatas evaluadas: 8
-Descartadas por duplicación/cobertura previa: 4
-Descartadas por fotografía directa no comprobada: 4
-Altas verificadas: 0
-Filas nuevas: ninguna
-Última fila comprobada: 4141
-Estado: CERO_ALTAS; SINCRONIZACION_SOLICITADA
-Criterio: se conservaron las noticias existentes. Ninguna noticia sin fotografía directa válida comprobada fue incorporada.
-Sin cambios en otros radares, workflows ni assets/news-live.csv directamente.
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-28 19:00 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-20261028T1900-6-4147
+Candidatas evaluadas: 13
+Descartadas por duplicación/cobertura previa: 7
+Altas verificadas: 6
+Filas nuevas: 4142-4147
+H verificadas: 6/6
+Última noticia: LANDO NORRIS TENDRÁ SU PROPIO EQUIPO EN LA FÓRMULA 2 DESDE 2027
+Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
+Sin cambios en workflows ni en assets/news-live.csv directamente.
