@@ -1,11 +1,11 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-28 16:10 America/Argentina/Buenos_Aires
-Pulso único: RADAR5-20261028T1610-4133-4135
-Candidatas evaluadas: 10
-Descartadas por duplicación/cobertura previa: 5
-Descartadas por escasa novedad o prioridad editorial: 2
-Altas verificadas: 3
-Filas nuevas: 4133, 4134, 4135
-Última fila comprobada: 4135
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-28 17:00 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-20261028T1700-4136-4141
+Candidatas evaluadas: 13
+Descartadas por duplicación/cobertura previa: 7
+Altas verificadas: 6
+Filas nuevas: 4136, 4137, 4138, 4139, 4140, 4141
+Última fila comprobada: 4141
+Última noticia: MILITO RECIBIÓ A BURDISSO EN EL PREDIO DE RACING Y EL ENCUENTRO GENERÓ REPERCUSIÓN
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
 A=SI, O=VERIFICADA, R=FALSE. Sin cambios en noticias existentes, otros radares, workflows ni CSV directamente.
