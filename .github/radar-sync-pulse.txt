@@ -1,11 +1,11 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-28 14:10 America/Argentina/Buenos_Aires
-Pulso único: RADAR5-20261028T1410-4126-BCLA
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-28 15:02 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-20261028T1502-4127-4132
 Candidatas evaluadas: 10
-Descartadas por duplicación del mismo hecho: 9
-Altas verificadas: 1
-Filas nuevas: 4126
-Última fila comprobada: 4126
-Última noticia: LA BCLA CONFIRMÓ SU FIXTURE: FERRO, QUIMSA Y GIMNASIA YA TIENEN FECHAS
+Descartadas por duplicación del mismo hecho: 4
+Altas verificadas: 6
+Filas nuevas: 4127-4132
+Última fila comprobada: 4132
+Última noticia: LA IFAB ANALIZA CAMBIOS EN LOS PENALES Y UNA REVISIÓN INTEGRAL DEL VAR
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
 A=SI, O=VERIFICADA, R=FALSE. No se modificaron noticias existentes, otros radares, workflows ni CSV directamente.
