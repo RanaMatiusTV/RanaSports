@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-no-correra-la-primera-practica-en-mexico-y-sera-reemplazado-por-gabriele-mini/": {
+      "account": "f1",
+      "title": "COLAPINTO NO CORRERÁ LA PRIMERA PRÁCTICA EN MÉXICO Y SERÁ REEMPLAZADO POR GABRIELE MINÌ",
+      "dueAt": "2026-10-28T16:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae22541ac0d79d7033e6a83",
+      "createdAt": "2026-10-28T16:39:29.465Z"
+    },
+    "https://ranasports.com.ar/futbol/mercedes-diz-marco-seis-goles-y-lidera-a-la-seleccion-sub-17-en-el-mundial/": {
+      "account": "sports",
+      "title": "MERCEDES DIZ MARCÓ SEIS GOLES Y LIDERA A LA SELECCIÓN SUB-17 EN EL MUNDIAL",
+      "dueAt": "2026-10-28T17:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae22540c867e35d50b9faed",
+      "createdAt": "2026-10-28T16:39:28.506Z"
+    },
+    "https://ranasports.com.ar/futbol/lomonaco-debuto-en-elche-con-triunfo-y-jugo-los-90-minutos/": {
+      "account": "main",
+      "title": "LOMÓNACO DEBUTÓ EN ELCHE CON TRIUNFO Y JUGÓ LOS 90 MINUTOS",
+      "dueAt": "2026-10-28T16:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae2253fbf52775abae13756",
+      "createdAt": "2026-10-28T16:39:28.088Z"
+    },
+    "https://ranasports.com.ar/futbol/river-remonto-ante-flamengo-y-se-metio-en-las-semifinales-de-la-messi-cup/": {
+      "account": "sports",
+      "title": "RIVER REMONTÓ ANTE FLAMENGO Y SE METIÓ EN LAS SEMIFINALES DE LA MESSI CUP",
+      "dueAt": "2026-10-28T17:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae2253fc867e35d50b9fa4f",
+      "createdAt": "2026-10-28T16:39:27.302Z"
+    },
+    "https://ranasports.com.ar/futbol/argentinos-juniors-solo-perdio-dos-partidos-como-local-en-dos-anos/": {
+      "account": "sports",
+      "title": "ARGENTINOS JUNIORS SOLO PERDIÓ DOS PARTIDOS COMO LOCAL EN DOS AÑOS",
+      "dueAt": "2026-10-28T16:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae2253ebf52775abae136f6",
+      "createdAt": "2026-10-28T16:39:26.829Z"
+    },
+    "https://ranasports.com.ar/futbol/murio-eulalia-marzetti-la-madre-de-lionel-scaloni/": {
+      "account": "sports",
+      "title": "MURIÓ EULALIA MARZETTI, LA MADRE DE LIONEL SCALONI, A LOS 74 AÑOS",
+      "dueAt": "2026-10-28T16:39:22.809Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ae2253aac0d79d7033e694f",
+      "createdAt": "2026-10-28T16:39:25.968Z"
+    },
     "https://ranasports.com.ar/futbol/river-tambien-mostro-malestar-por-el-arbitraje-elegido-para-el-superclasico/": {
       "account": "sports",
       "title": "RIVER TAMBIÉN MOSTRÓ MALESTAR POR EL ARBITRAJE ELEGIDO PARA EL SUPERCLÁSICO",
@@ -5188,60 +5236,6 @@
       "createdAt": "2026-10-06T17:48:46.510Z",
       "externalLink": "https://x.com/768913759301754880/status/2107528827874210059",
       "sentAt": "2026-10-06T17:50:03.594Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODk2ODAwMDAsIkFOVE9ORUxBIFBBTFBJVMOTIExBIERFU1BFRElEQSBERSBNRVNTSSBZIE1PU1RSw5MgTEEgQ0FNSVNFVEEgRVNQRUNJQUwiXQ": {
-      "account": "main",
-      "title": "ANTONELA PALPITÓ LA DESPEDIDA DE MESSI Y MOSTRÓ LA CAMISETA ESPECIAL",
-      "dueAt": "2026-10-06T16:00:00.000Z",
-      "bufferPostId": "6ac50fe39a4f7a88bc2586f9",
-      "createdAt": "2026-10-06T15:12:35.549Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107501173066391625",
-      "sentAt": "2026-10-06T16:00:10.198Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODkwODAwMDAsIkRFIENBUElUw4FOIFNJTEVOQ0lPU08gQSBSRUZFUkVOVEUgVE9UQUw6IExBIEVWT0xVQ0nDk04gREVMIExJREVSQVpHTyBERSBNRVNTSSJd": {
-      "account": "main",
-      "title": "DE CAPITÁN SILENCIOSO A REFERENTE TOTAL: LA EVOLUCIÓN DEL LIDERAZGO DE MESSI",
-      "dueAt": "2026-10-06T15:55:00.000Z",
-      "bufferPostId": "6ac50fe300682644acf19136",
-      "createdAt": "2026-10-06T15:12:35.231Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107499890041405659",
-      "sentAt": "2026-10-06T15:55:04.196Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODkwMjAwMDAsIkJFTsONTiBTRSBISVpPIFhFTkVJWkUgQU5URVMgREUgRU5GUkVOVEFSIEEgTUVTU0k6IFZJU0lUQSBZIE1BVEUgRU4gTEEgQk9NQk9ORVJBIl0": {
-      "account": "main",
-      "title": "BENÍN SE HIZO XENEIZE ANTES DE ENFRENTAR A MESSI: VISITA Y MATE EN LA BOMBONERA",
-      "dueAt": "2026-10-06T15:50:00.000Z",
-      "bufferPostId": "6ac50fe2e02198815242507d",
-      "createdAt": "2026-10-06T15:12:34.668Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107498627123847503",
-      "sentAt": "2026-10-06T15:50:03.038Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODg5NjAwMDAsIk1FU1NJIFNFIERFU1BJREUgSU5WSUNUTyBFTiBFTCBNT05VTUVOVEFMOiAyOCBQQVJUSURPUyBZIDE5IEdPTEVTIl0": {
-      "account": "main",
-      "title": "MESSI SE DESPIDE INVICTO EN EL MONUMENTAL: 28 PARTIDOS Y 19 GOLES",
-      "dueAt": "2026-10-06T15:45:00.000Z",
-      "bufferPostId": "6ac50fe100682644acf19107",
-      "createdAt": "2026-10-06T15:12:33.903Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107497403225981197",
-      "sentAt": "2026-10-06T15:45:11.289Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODg5MDAwMDAsIkVMIEZBTiBGRVNUIOKAnEdSQUNJQVMsIExFT-KAnSBBQlJFIEFMIE1FRElPRMONQSBDT04gTcOaU0lDQSwgQ09QQVMgWSBQQU5UQUxMQSBHSUdBTlRFIl0": {
-      "account": "main",
-      "title": "EL FAN FEST “GRACIAS, LEO” ABRE AL MEDIODÍA CON MÚSICA, COPAS Y PANTALLA GIGANTE",
-      "dueAt": "2026-10-06T15:40:00.000Z",
-      "bufferPostId": "6ac50fdf9a4f7a88bc258692",
-      "createdAt": "2026-10-06T15:12:32.010Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107496119928328609",
-      "sentAt": "2026-10-06T15:40:05.445Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODg4NDAwMDAsIkVMIERUIERFIEJFTsONTiBRVUlFUkUgUVVFIE1FU1NJIExFIEZJUk1FIExBIENBTUlTRVRBIFFVRSBHVUFSRMOTIERFU0RFIDIwMTgiXQ": {
-      "account": "main",
-      "title": "EL DT DE BENÍN QUIERE QUE MESSI LE FIRME LA CAMISETA QUE GUARDÓ DESDE 2018",
-      "dueAt": "2026-10-06T15:35:00.000Z",
-      "bufferPostId": "6ac50fdffd4ede7c41a16925",
-      "createdAt": "2026-10-06T15:12:31.254Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107494851998585043",
-      "sentAt": "2026-10-06T15:35:03.041Z"
     }
   },
   "nextAt": {
