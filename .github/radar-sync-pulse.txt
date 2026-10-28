@@ -1,11 +1,12 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-28 12:10:00 America/Argentina/Buenos_Aires
-Pulso único: RADAR5-20261028121000-4116-4119
-Candidatas evaluadas: 10
-Descartadas por duplicación o cobertura previa sin novedad sustancial: 2
-Descartadas por imagen no comprobada, rumor o prioridad editorial: 4
-Altas verificadas: 4
-Filas nuevas: 4116, 4117, 4118, 4119
-Última fila comprobada: 4119
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-28 13:12:00 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-20261028131200-4120-4125
+Candidatas evaluadas: 7
+Duplicados descartados: 0
+Descartadas por control visual de imagen: 1
+Altas verificadas: 6
+Filas nuevas: 4120, 4121, 4122, 4123, 4124, 4125
+Última fila comprobada: 4125
+Última noticia: ESTUDIANTES PRESENTÓ SU DESCARGO Y CONFÍA EN SOSTENER LA FINAL ANTE PALMEIRAS
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
 A=SI, O=VERIFICADA, R=FALSE. No se modificaron noticias existentes, otros radares, workflows ni CSV directamente.
