@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/river-tambien-mostro-malestar-por-el-arbitraje-elegido-para-el-superclasico/": {
+      "account": "sports",
+      "title": "RIVER TAMBIÉN MOSTRÓ MALESTAR POR EL ARBITRAJE ELEGIDO PARA EL SUPERCLÁSICO",
+      "dueAt": "2026-10-28T10:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae1c370979a56d9e57a3cc2",
+      "createdAt": "2026-10-28T09:42:08.888Z"
+    },
+    "https://ranasports.com.ar/futbol/thiago-almada-afronta-en-la-bombonera-su-primer-gran-superclasico-con-river/": {
+      "account": "sports",
+      "title": "THIAGO ALMADA AFRONTA EN LA BOMBONERA SU PRIMER GRAN SUPERCLÁSICO CON RIVER",
+      "dueAt": "2026-10-28T10:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae1c370b66c6234913c4988",
+      "createdAt": "2026-10-28T09:42:08.617Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-y-river-avanzaron-a-cuartos-como-lideres-de-grupo-en-la-messi-cup/": {
+      "account": "sports",
+      "title": "BOCA Y RIVER AVANZARON A CUARTOS COMO LÍDERES DE GRUPO EN LA MESSI CUP",
+      "dueAt": "2026-10-28T09:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae1c3705719a3c4c80dd981",
+      "createdAt": "2026-10-28T09:42:08.248Z"
+    },
+    "https://ranasports.com.ar/futbol/zoey-kuhn-cambio-california-por-rosario-central-y-fue-campeona-con-ascenso/": {
+      "account": "sports",
+      "title": "ZOEY KUHN CAMBIÓ CALIFORNIA POR ROSARIO CENTRAL Y FUE CAMPEONA CON ASCENSO",
+      "dueAt": "2026-10-28T09:42:05.715Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ae1c36d26cf140c4c838c78",
+      "createdAt": "2026-10-28T09:42:07.833Z"
+    },
     "https://ranasports.com.ar/futbol/fleetwood-elimino-al-arsenal-por-penales-en-un-batacazo-de-la-copa-de-la-liga/": {
       "account": "sports",
       "title": "FLEETWOOD ELIMINÓ AL ARSENAL POR PENALES EN UN BATACAZO DE LA COPA DE LA LIGA",
@@ -5210,42 +5242,6 @@
       "createdAt": "2026-10-06T15:12:31.254Z",
       "externalLink": "https://x.com/768913759301754880/status/2107494851998585043",
       "sentAt": "2026-10-06T15:35:03.041Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODg3ODAwMDAsIlRPQ0FMTEkgUkVDT1JEw5MgRUwgUFJJTUVSIEdPTCBERSBNRVNTSSBZIFNFIEVNT0NJT07DkyBDT04gU1UgREVTUEVESURBIl0": {
-      "account": "main",
-      "title": "TOCALLI RECORDÓ EL PRIMER GOL DE MESSI Y SE EMOCIONÓ CON SU DESPEDIDA",
-      "dueAt": "2026-10-06T15:30:00.000Z",
-      "bufferPostId": "6ac50fdee02198815242501e",
-      "createdAt": "2026-10-06T15:12:30.890Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107493606705545497",
-      "sentAt": "2026-10-06T15:30:06.083Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODg3MjAwMDAsIkVMIE1VTkRJQUwgMjAzMCBTRVLDgSBFTCBQUklNRVJPIFNJTiBNRVNTSSBFTiAyOCBBw5FPUyJd": {
-      "account": "main",
-      "title": "EL MUNDIAL 2030 SERÁ EL PRIMERO SIN MESSI EN 28 AÑOS",
-      "dueAt": "2026-10-06T15:25:00.000Z",
-      "bufferPostId": "6ac50fdefd4ede7c41a168f6",
-      "createdAt": "2026-10-06T15:12:30.460Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107492331687383388",
-      "sentAt": "2026-10-06T15:25:02.102Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODg2NjAwMDAsIkxPUyBDVUFUUk8gUsOJQ09SRFMgR0lHQU5URVMgUVVFIE1FU1NJIERFSkEgRU4gTEEgU0VMRUNDScOTTiBBUkdFTlRJTkEiXQ": {
-      "account": "main",
-      "title": "LOS CUATRO RÉCORDS GIGANTES QUE MESSI DEJA EN LA SELECCIÓN ARGENTINA",
-      "dueAt": "2026-10-06T15:20:00.000Z",
-      "bufferPostId": "6ac50fdd0c0a17c2690cb0ef",
-      "createdAt": "2026-10-06T15:12:30.079Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107491073790472593",
-      "sentAt": "2026-10-06T15:20:02.252Z"
-    },
-    "https://ranamatiustv.github.io/RanaSports/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyODg2MDAwMDAsIk1FU1NJIFVTQVLDgSBVTkEgQ0FNSVNFVEEgRVNQRUNJQUwgRU4gU1Ugw5pMVElNTyBQQVJUSURPIENPTiBMQSBTRUxFQ0NJw5NOIl0": {
-      "account": "main",
-      "title": "MESSI USARÁ UNA CAMISETA ESPECIAL EN SU ÚLTIMO PARTIDO CON LA SELECCIÓN",
-      "dueAt": "2026-10-06T15:15:00.000Z",
-      "bufferPostId": "6ac50fdd00682644acf19069",
-      "createdAt": "2026-10-06T15:12:29.654Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107489896474493011",
-      "sentAt": "2026-10-06T15:15:21.620Z"
     }
   },
   "nextAt": {
