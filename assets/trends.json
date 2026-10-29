@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-29T07:03:07.378Z",
+  "updatedAt": "2026-10-29T14:16:19.080Z",
   "trends": [
     {
-      "query": "lakers",
-      "startedAt": "2026-10-29T04:20:00.000Z",
-      "volume": 100
+      "query": "lotería",
+      "startedAt": "2026-10-29T14:00:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "américa - tijuana",
-      "startedAt": "2026-10-29T03:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "gimena accardi",
-      "startedAt": "2026-10-29T02:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "bucks - rockets",
-      "startedAt": "2026-10-29T02:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "julieta nair calvo",
-      "startedAt": "2026-10-29T02:20:00.000Z",
+      "query": "estadio alberto j. armando la bombonera",
+      "startedAt": "2026-10-29T13:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "golden state warriors",
-      "startedAt": "2026-10-29T02:20:00.000Z",
+      "query": "gobernador de corrientes",
+      "startedAt": "2026-10-29T13:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "karina mazzocco",
-      "startedAt": "2026-10-29T02:10:00.000Z",
+      "query": "carlos tevez",
+      "startedAt": "2026-10-29T13:00:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "universo",
+      "startedAt": "2026-10-29T12:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "embargo",
+      "startedAt": "2026-10-29T12:30:00.000Z",
       "volume": 500
     },
     {
-      "query": "clippers - lakers",
-      "startedAt": "2026-10-29T02:00:00.000Z",
+      "query": "black friday",
+      "startedAt": "2026-10-29T12:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "faecys",
+      "startedAt": "2026-10-29T11:40:00.000Z",
       "volume": 1000
     },
     {
-      "query": "falcioni",
-      "startedAt": "2026-10-29T02:00:00.000Z",
-      "volume": 100
+      "query": "helicóptero",
+      "startedAt": "2026-10-29T11:40:00.000Z",
+      "volume": 200
     },
     {
-      "query": "beca",
-      "startedAt": "2026-10-29T01:50:00.000Z",
-      "volume": 200
+      "query": "crucero",
+      "startedAt": "2026-10-29T10:40:00.000Z",
+      "volume": 100
     }
   ]
 }
