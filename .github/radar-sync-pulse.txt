@@ -1,9 +1,6 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Fecha ARG: 2026-10-29
-Hora ARG: 16:10
-Altas verificadas: 1
-Filas: 4212
-Estado: Google Sheets verificado; sincronización GitHub solicitada; visibilidad pública pendiente de comprobar
-Candidatas: 3 (Cantizano lesión; advertencia CONMEBOL entradas; horarios F1 México)
-Descartadas: 2 (CONMEBOL: sin foto individual apta; F1 México: información de horarios ya cubierta/escasa novedad)
-Ejecución identificada por SHA anterior: 24123e5e95c5f30a8885605f25f70d1d913f2d58
+RADAR 1 — RanaSports Noticias
+Fecha y hora ARG: 2026-10-29 17:03:15
+Altas verificadas: 7
+Filas: 4213-4219
+Última noticia: EL TIERNO GESTO DE MESSI CON UN NENE ANTES DEL EMPATE DE INTER MIAMI
+Estado: Google Sheets verificado; señal de sincronización emitida
