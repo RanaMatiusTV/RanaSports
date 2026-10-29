@@ -1,7 +1,10 @@
-RADAR 5 — Actualidad Inmediata
-Fecha ARG: 29/10/2026
-Hora ARG: 08:10
-Altas verificadas: 1
-Filas: 4178
-Estado: Sheets verificado; pulso de sincronización solicitado; CSV y visibilidad pendientes de comprobación
-Ejecución: radar5-20261029-0810-fila4178-checo-cadillac-2029
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-29 09:00 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-20261029T0900-7-4185
+Candidatas evaluadas: 14
+Descartadas por duplicación o cobertura previa: 7
+Altas verificadas: 7
+Filas nuevas: 4179-4185
+Última noticia: PLATENSE PODRÍA CLASIFICARSE A LA LIBERTADORES AUNQUE PIERDA LA FINAL
+Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
+No se modificaron workflows ni assets/news-live.csv directamente.
