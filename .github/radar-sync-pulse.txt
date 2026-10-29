@@ -1,7 +1,8 @@
-RADAR 5 — Actualidad Inmediata
+RADAR 1 — RanaSports Noticias
 Fecha ARG: 2026-10-29
-Hora ARG: 12:10:00 -03:00
-Altas verificadas: 1
-Filas: 4196
-Estado: Sheets verificado; sincronización solicitada; CSV pendiente de comprobación
-Origen: RADAR5-20261029-1210
+Hora ARG: 13:03:00 -03:00
+Altas verificadas: 7
+Filas: 4197-4203
+Última noticia: ZEBALLOS RESPALDÓ LA CARTA CONTRA EL RECORTE DE CUADROS Y PREMIOS EN EL DOBLES
+Estado: Sheets verificado; sincronización solicitada
+Origen: RADAR1-20261029-1303
