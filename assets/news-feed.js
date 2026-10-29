@@ -286,28 +286,14 @@
   wrap.append(img);container.append(wrap);return true;
  }
  function renderLinkEmbed(container,url){
-  const target=safeURL(url);
-  if(!target||imageEmbedURL(target)||isInstagramPost(target))return false;
-  try{
-   const u=new URL(target);
-   if(!['https:','http:'].includes(u.protocol)||/\\.(?:jpe?g|png|webp|gif|avif|svg)(?:$|\\?)/i.test(u.pathname))return false;
-   // Only use explicit media/video destinations; never turn an arbitrary article into a video CTA.
-   const mediaHost=/(^|\\.)(youtube\\.com|youtu\\.be|vimeo\\.com|dailymotion\\.com|twitch\\.tv|kick\\.com|formula1\\.com|motorsport\\.com)$/.test(u.hostname);
-   const mediaPath=/(\\/video\\/|\\/videos\\/|\\/reel\\/|\\/clip\\/|\\/clips\\/|\\/watch\\/|\\/player\\/|\\/embed\\/)/i.test(u.pathname);
-   if(!mediaHost&&!mediaPath)return false;
-  }catch{return false;}
-  const wrap=element('div','external-embed-card');
-  const anchor=link(target,'MIRÁ EL VIDEO ACÁ!','external-video-link');
-  anchor.target='_blank';anchor.rel='noopener noreferrer';
-  anchor.style.cssText='display:inline-block;padding:14px 22px;background:#d71920;color:white;border-radius:9px;font-weight:800;text-decoration:none;text-align:center';
-  wrap.append(anchor);container.append(wrap);return true;
+  return false;
  }
  function renderEmbed(container,url){
   if(container.querySelector('.video-embed,.x-embed,.image-embed,.external-embed-card'))return false;
   if(imageEmbedURL(url))return renderImageEmbed(container,url);
   if(isXPost(url))return renderXPost(container,url);
   if(videoEmbedURL(url))return renderVideo(container,url);
-  return renderLinkEmbed(container,url);
+  return false;
  }
  function renderSupplementalImage(container,url){
   if(!imageDataURL(url)||container.querySelector('.supplemental-image'))return false;
