@@ -1,6 +1,9 @@
-RADAR 1 — 2026-10-29 15:01 America/Argentina/Buenos_Aires
-Altas verificadas: 7
-Filas: 4205-4211
-Última noticia: BOCA TIENE VENTAJA SOBRE ARGENTINOS EN EL DESEMPATE POR LA TABLA ANUAL
-Estado: Google Sheets verificado; sincronización pública por comprobar
-Ejecución: radar1-20261029-1501-filas4205-4211
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha ARG: 2026-10-29
+Hora ARG: 16:10
+Altas verificadas: 1
+Filas: 4212
+Estado: Google Sheets verificado; sincronización GitHub solicitada; visibilidad pública pendiente de comprobar
+Candidatas: 3 (Cantizano lesión; advertencia CONMEBOL entradas; horarios F1 México)
+Descartadas: 2 (CONMEBOL: sin foto individual apta; F1 México: información de horarios ya cubierta/escasa novedad)
+Ejecución identificada por SHA anterior: 24123e5e95c5f30a8885605f25f70d1d913f2d58
