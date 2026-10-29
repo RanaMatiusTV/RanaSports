@@ -1,11 +1,7 @@
-RADAR 1 — RANASPORTS NOTICIAS
-Ejecución: 2026-10-29 11:00 America/Argentina/Buenos_Aires
-Pulso único: RADAR1-20261029T1100-7-4189-4195
-Candidatas evaluadas: 10
-Descartadas por duplicación o cobertura previa: 2
-Descartadas por prioridad editorial: 1
-Altas verificadas: 7
-Filas nuevas: 4189-4195
-Última noticia: NICO WILLIAMS REVELÓ QUE UN EMPUJÓN DE MOLINA FUE CLAVE EN LA FINAL DEL MUNDIAL
-Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
-No se modificaron workflows ni assets/news-live.csv directamente.
+RADAR 5 — Actualidad Inmediata
+Fecha ARG: 2026-10-29
+Hora ARG: 12:10:00 -03:00
+Altas verificadas: 1
+Filas: 4196
+Estado: Sheets verificado; sincronización solicitada; CSV pendiente de comprobación
+Origen: RADAR5-20261029-1210
