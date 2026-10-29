@@ -1,13 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/avalos-se-destaca-en-olimpia-tras-su-paso-por-independiente/": {
+      "account": "main",
+      "title": "ÁVALOS SE DESTACA EN OLIMPIA TRAS SU PASO POR INDEPENDIENTE",
+      "dueAt": "2026-10-29T21:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae3b5e0397c2ef8f3460aff",
+      "createdAt": "2026-10-29T21:08:48.676Z"
+    },
+    "https://ranasports.com.ar/boca/arruabarrena-mezclo-el-equipo-y-mantiene-dos-dudas-en-el-ataque-de-boca-para-el-superclasico/": {
+      "account": "sports",
+      "title": "ARRUABARRENA MEZCLÓ EL EQUIPO Y MANTIENE DOS DUDAS EN EL ATAQUE DE BOCA PARA EL SUPERCLÁSICO",
+      "dueAt": "2026-10-29T22:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae3b5e0d62dd708c6d9869d",
+      "createdAt": "2026-10-29T21:08:48.318Z"
+    },
+    "https://ranasports.com.ar/futbol/zeballos-sumo-minutos-en-la-goleada-que-sufrio-monza-y-sigue-sin-afianzarse-en-italia/": {
+      "account": "sports",
+      "title": "ZEBALLOS SUMÓ MINUTOS EN LA GOLEADA QUE SUFRIÓ MONZA Y SIGUE SIN AFIANZARSE EN ITALIA",
+      "dueAt": "2026-10-29T22:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae3b5df397c2ef8f3460ad4",
+      "createdAt": "2026-10-29T21:08:47.691Z"
+    },
     "https://ranasports.com.ar/f1/cadillac-renovo-a-checo-perez-hasta-2029-en-la-formula-1/": {
       "account": "f1",
       "title": "CADILLAC RENOVÓ A CHECO PÉREZ HASTA 2029 EN LA FÓRMULA 1",
       "dueAt": "2026-10-29T21:35:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ae3ad1574dca2a545c5c805",
-      "createdAt": "2026-10-29T20:31:17.825Z"
+      "createdAt": "2026-10-29T20:31:17.825Z",
+      "formattedFor": "https://ranasports.com.ar/f1/cadillac-renovo-a-checo-perez-hasta-2029-en-la-formula-1/"
     },
     "https://ranasports.com.ar/f1/colapinto-cedera-su-alpine-a-mini-en-una-practica-record-en-mexico/": {
       "account": "f1",
@@ -23,7 +48,8 @@
       "dueAt": "2026-10-29T21:35:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6ae3ad143e03e4917a7c7b66",
-      "createdAt": "2026-10-29T20:31:16.534Z"
+      "createdAt": "2026-10-29T20:31:16.534Z",
+      "formattedFor": "https://ranasports.com.ar/futbol/platense-se-consagro-primer-campeon-del-torneo-femenino-sub-12/"
     },
     "https://ranasports.com.ar/tenis/sierra-y-ortenzi-avanzaron-en-curitiba-y-podoroska-gano-en-queretaro/": {
       "account": "sports",
@@ -5181,33 +5207,6 @@
       "createdAt": "2026-10-06T23:54:22.898Z",
       "externalLink": "https://x.com/768913759301754880/status/2107626971769233889",
       "sentAt": "2026-10-07T00:20:02.831Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTAyMDAwMDAsIkxPUyBQSUJFUyBRVUUgQ1JFQ0lFUk9OIFZJRU5ETyBBIE1FU1NJIFkgQUhPUkEgU0VSw4FOIFBBUlRFIERFIFNVIERFU1BFRElEQSJd": {
-      "account": "main",
-      "title": "LOS PIBES QUE CRECIERON VIENDO A MESSI Y AHORA SERÁN PARTE DE SU DESPEDIDA",
-      "dueAt": "2026-10-07T00:15:00.000Z",
-      "bufferPostId": "6ac58a2eb8cf36ab20bdccbc",
-      "createdAt": "2026-10-06T23:54:22.311Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107625727835185236",
-      "sentAt": "2026-10-07T00:15:06.460Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTAxNDAwMDAsIkRFTCBQRUxPIExBUkdPIEFMIFRSVUNPIEVOIFFBVEFSOiBDSU5DTyBISVNUT1JJQVMgTcONTklNQVMgREUgTUVTU0kgRU4gTEEgU0VMRUNDScOTTiJd": {
-      "account": "main",
-      "title": "DEL PELO LARGO AL TRUCO EN QATAR: CINCO HISTORIAS MÍNIMAS DE MESSI EN LA SELECCIÓN",
-      "dueAt": "2026-10-07T00:10:00.000Z",
-      "bufferPostId": "6ac58a2a4852a95e8c25ee4a",
-      "createdAt": "2026-10-06T23:54:19.056Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107624454788469091",
-      "sentAt": "2026-10-07T00:10:02.899Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTAwMjAwMDAsIuKAnEhPWSBFTVBJRVpBIE9UUkEgVklEQeKAnTogRUwgTUVOU0FKRSBERSBDQVJPTElOQSBCQUxESU5JIFBBUkEgTUVTU0kgWSBBTlRPTkVMQSJd": {
-      "account": "main",
-      "title": "“HOY EMPIEZA OTRA VIDA”: EL MENSAJE DE CAROLINA BALDINI PARA MESSI Y ANTONELA",
-      "dueAt": "2026-10-07T00:05:00.000Z",
-      "bufferPostId": "6ac58a29b8cf36ab20bdcb19",
-      "createdAt": "2026-10-06T23:54:17.924Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107623207695986969",
-      "sentAt": "2026-10-07T00:05:05.403Z"
     }
   },
   "nextAt": {
