@@ -1,12 +1,11 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-28 22:10 America/Argentina/Buenos_Aires
-Pulso único: RADAR5-20261028T2210-1-4157-221354
-Candidatas evaluadas: 5
-Descartadas por duplicación o cobertura previa: 1 (reclamo Flamengo/Estudiantes ya cubierto en fila 4130)
-Descartadas por prioridad o fotografía no verificada: 2 (Fluminense-Internacional; Santos-Palmeiras)
-No publicadas por partido en curso: 1 (Atlético Tucumán-Platense)
-Altas verificadas: 1
-Filas nuevas: 4157
-Noticia: CORINTHIANS REMONTÓ ANTE SANTA FE Y SE METIÓ EN LA FINAL DE LA LIBERTADORES FEMENINA
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-28 23:00 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-20261028T2300-6-4158-4163
+Candidatos detectados: 10
+Duplicados descartados: 3
+Descartado por resultado inconsistente/no verificado: 1
+Altas verificadas: 6
+Filas nuevas: 4158-4163
+Última noticia: REAL MADRID SE DISCULPÓ CON CHINA POR LOS COMENTARIOS DE MBAPPÉ
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
 Sin modificaciones de workflows ni assets/news-live.csv directamente.
