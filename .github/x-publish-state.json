@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-se-tomo-dos-dias-en-los-cabos-antes-del-gp-de-mexico/": {
+      "account": "f1",
+      "title": "COLAPINTO SE TOMÓ DOS DÍAS EN LOS CABOS ANTES DEL GP DE MÉXICO",
+      "dueAt": "2026-10-29T17:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae36fab22e5eb36271c47b5",
+      "createdAt": "2026-10-29T16:09:15.864Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-palpito-mexico-y-explico-por-que-correr-alli-se-siente-como-estar-en-familia/": {
+      "account": "f1",
+      "title": "COLAPINTO PALPITÓ MÉXICO Y EXPLICÓ POR QUÉ CORRER ALLÍ SE SIENTE COMO ESTAR EN FAMILIA",
+      "dueAt": "2026-10-29T16:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae36fab041e128612bc388a",
+      "createdAt": "2026-10-29T16:09:15.252Z"
+    },
+    "https://ranasports.com.ar/futbol/machuca-quedara-habilitado-y-podria-ser-titular-en-independiente-ante-defensa/": {
+      "account": "main",
+      "title": "MACHUCA QUEDARÁ HABILITADO Y PODRÍA SER TITULAR EN INDEPENDIENTE ANTE DEFENSA",
+      "dueAt": "2026-10-29T17:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae36faa1b42fad16d9136f1",
+      "createdAt": "2026-10-29T16:09:14.257Z"
+    },
+    "https://ranasports.com.ar/futbol/avalos-brilla-en-olimpia-mientras-independiente-extrana-sus-goles/": {
+      "account": "main",
+      "title": "ÁVALOS BRILLA EN OLIMPIA MIENTRAS INDEPENDIENTE EXTRAÑA SUS GOLES",
+      "dueAt": "2026-10-29T16:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae36fa9041e128612bc3836",
+      "createdAt": "2026-10-29T16:09:13.905Z"
+    },
+    "https://ranasports.com.ar/boca/boca-se-apoya-en-paredes-y-su-defensa-pero-debe-mejorar-la-eficacia-ante-river/": {
+      "account": "sports",
+      "title": "BOCA SE APOYA EN PAREDES Y SU DEFENSA, PERO DEBE MEJORAR LA EFICACIA ANTE RIVER",
+      "dueAt": "2026-10-29T17:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae36fa888bef8e9b74b0f33",
+      "createdAt": "2026-10-29T16:09:13.121Z"
+    },
+    "https://ranasports.com.ar/tenis/villa-real-gano-una-final-dramatica-y-ascendio-a-la-copa-profesional-de-clubes/": {
+      "account": "sports",
+      "title": "VILLA REAL GANÓ UNA FINAL DRAMÁTICA Y ASCENDIÓ A LA COPA PROFESIONAL DE CLUBES",
+      "dueAt": "2026-10-29T16:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae36fa80471a99f44a8cb34",
+      "createdAt": "2026-10-29T16:09:12.576Z"
+    },
+    "https://ranasports.com.ar/futbol/la-afa-dispuso-un-minuto-de-silencio-en-memoria-de-la-madre-de-scaloni/": {
+      "account": "sports",
+      "title": "LA AFA DISPUSO UN MINUTO DE SILENCIO EN MEMORIA DE LA MADRE DE SCALONI",
+      "dueAt": "2026-10-29T16:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae36fa70471a99f44a8cae0",
+      "createdAt": "2026-10-29T16:09:11.886Z"
+    },
     "https://ranasports.com.ar/basquet/gimnasia-de-comodoro-vencio-73-61-a-ferro-y-sumo-su-tercer-triunfo-seguido/": {
       "account": "sports",
       "title": "GIMNASIA DE COMODORO VENCIÓ 73-61 A FERRO Y SUMÓ SU TERCER TRIUNFO SEGUIDO",
@@ -5157,69 +5213,6 @@
       "createdAt": "2026-10-06T20:15:46.075Z",
       "externalLink": "https://x.com/768913759301754880/status/2107575381800759633",
       "sentAt": "2026-10-06T20:55:02.783Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI3MDAwMDAsIlJJVkVSIEFVVE9SSVrDkyBBIFRISUFHTyBBTE1BREEgQSBFTlRSRU5BUlNFIENPTiBNRVNTSSBQRVNFIEEgU1UgTEVTScOTTiJd": {
-      "account": "main",
-      "title": "RIVER AUTORIZÓ A THIAGO ALMADA A ENTRENARSE CON MESSI PESE A SU LESIÓN",
-      "dueAt": "2026-10-06T20:50:00.000Z",
-      "bufferPostId": "6ac553bce0e7ba24e07af29a",
-      "createdAt": "2026-10-06T20:02:05.116Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107574119801704871",
-      "sentAt": "2026-10-06T20:50:01.890Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTMxMDQ0MDAwMCwiTEVDTEVSQyBBTEVSVMOTIFBPUiBMQSBGQUxMQSBERSBTT0ZUV0FSRSBRVUUgREVKw5MgQSBMT1MgRjEgU0lOIEFDRUxFUkFDScOTTiJd": {
-      "account": "f1",
-      "title": "LECLERC ALERTÓ POR LA FALLA DE SOFTWARE QUE DEJÓ A LOS F1 SIN ACELERACIÓN",
-      "dueAt": "2026-10-06T20:00:00.000Z",
-      "bufferPostId": "6ac551ef38b9e9d5545dfbf3",
-      "createdAt": "2026-10-06T19:54:23.286Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2107561561736806403",
-      "sentAt": "2026-10-06T20:00:07.826Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI2NDAwMDAsIlBBUFUgR8OTTUVaIE5PIEVTVEFSw4EgRU4gRUwgTU9OVU1FTlRBTCwgUEVSTyBDT01FTlRBUsOBIExBIERFU1BFRElEQSBERSBNRVNTSSBFTiBLVVdBSVQiXQ": {
-      "account": "main",
-      "title": "PAPU GÓMEZ NO ESTARÁ EN EL MONUMENTAL, PERO COMENTARÁ LA DESPEDIDA DE MESSI EN KUWAIT",
-      "dueAt": "2026-10-06T20:45:00.000Z",
-      "bufferPostId": "6ac551ee299f8672071d3611",
-      "createdAt": "2026-10-06T19:54:22.763Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107572868481499193",
-      "sentAt": "2026-10-06T20:45:03.640Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI1ODAwMDAsIuKAnERFU1BFRElSIEFMIE1FSk9S4oCdOiBMT1MgTUVOU0FKRVMgREVMIERJQlUsIE9UQU1FTkRJLCBFTlpPIFkgTUFTVEFOVFVPTk8gUEFSQSBNRVNTSSJd": {
-      "account": "main",
-      "title": "“DESPEDIR AL MEJOR”: LOS MENSAJES DEL DIBU, OTAMENDI, ENZO Y MASTANTUONO PARA MESSI",
-      "dueAt": "2026-10-06T20:40:00.000Z",
-      "bufferPostId": "6ac551ee535ade2f59d1b8ae",
-      "createdAt": "2026-10-06T19:54:22.247Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107571604649623724",
-      "sentAt": "2026-10-06T20:40:02.238Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI1MjAwMDAsIkxBIFNFTEVDQ0nDk04gRUxJR0nDkyDigJxNT01FTlRP4oCdLCBERSBMT1MgQ0FGUkVTLCBQQVJBIEVMIFZJREVPIERFTCDDmkxUSU1PIEVOVFJFTkFNSUVOVE8gREUgTUVTU0kiXQ": {
-      "account": "main",
-      "title": "LA SELECCIÓN ELIGIÓ “MOMENTO”, DE LOS CAFRES, PARA EL VIDEO DEL ÚLTIMO ENTRENAMIENTO DE MESSI",
-      "dueAt": "2026-10-06T20:35:00.000Z",
-      "bufferPostId": "6ac551ed38b9e9d5545dfbbe",
-      "createdAt": "2026-10-06T19:54:21.567Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107570348027772987",
-      "sentAt": "2026-10-06T20:35:02.655Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDI0NjAwMDAsIuKAnE1PTUVOVE9TIEVTUEVDSUFMRVMgUVVFIFPDiSBRVUUgVk9ZIEEgRVhUUkHDkUFS4oCdOiBFTCBNRU5TQUpFIERFIE1FU1NJIEFOVEVTIERFTCBBREnDk1MiXQ": {
-      "account": "main",
-      "title": "“MOMENTOS ESPECIALES QUE SÉ QUE VOY A EXTRAÑAR”: EL MENSAJE DE MESSI ANTES DEL ADIÓS",
-      "dueAt": "2026-10-06T20:30:00.000Z",
-      "bufferPostId": "6ac551ece0e7ba24e07a9b63",
-      "createdAt": "2026-10-06T19:54:21.033Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107569111089709097",
-      "sentAt": "2026-10-06T20:30:07.777Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMDA5MDAwMDAsIk1FU1NJOiDigJxERUrDiSBUT0RPLCBNRSBWT1kgRU4gUEFa4oCdIl0": {
-      "account": "main",
-      "title": "MESSI: “DEJÉ TODO, ME VOY EN PAZ”",
-      "dueAt": "2026-10-06T20:25:00.000Z",
-      "bufferPostId": "6ac551ec544ff8353df8e635",
-      "createdAt": "2026-10-06T19:54:20.459Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107567828085686284",
-      "sentAt": "2026-10-06T20:25:01.880Z"
     }
   },
   "nextAt": {
