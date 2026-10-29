@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/formula-2/lando-norris-tendra-su-propio-equipo-en-la-formula-2-desde-2027/": {
+      "account": "f1",
+      "title": "LANDO NORRIS TENDRÁ SU PROPIO EQUIPO EN LA FÓRMULA 2 DESDE 2027",
+      "dueAt": "2026-10-29T02:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae2a601411377cb91aec58c",
+      "createdAt": "2026-10-29T01:48:49.848Z"
+    },
+    "https://ranasports.com.ar/futbol/gaudio-prometio-una-ciudad-roja-y-confirmo-a-burdisso-como-asesor/": {
+      "account": "main",
+      "title": "GAUDIO PROMETIÓ UNA “CIUDAD ROJA” Y CONFIRMÓ A BURDISSO COMO ASESOR",
+      "dueAt": "2026-10-29T01:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae2a6017a72c9efac0eff8d",
+      "createdAt": "2026-10-29T01:48:49.501Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-protagonizo-un-comercial-lleno-de-guinos-argentinos/": {
+      "account": "f1",
+      "title": "COLAPINTO PROTAGONIZÓ UN COMERCIAL LLENO DE GUIÑOS ARGENTINOS",
+      "dueAt": "2026-10-29T01:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae2a60004f348da4003d94f",
+      "createdAt": "2026-10-29T01:48:49.042Z"
+    },
+    "https://ranasports.com.ar/futbol/messi-se-saco-fotos-con-los-juveniles-de-river-tras-el-pase-a-semifinales/": {
+      "account": "sports",
+      "title": "MESSI SE SACÓ FOTOS CON LOS JUVENILES DE RIVER TRAS EL PASE A SEMIFINALES",
+      "dueAt": "2026-10-29T03:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae2a600411377cb91aec543",
+      "createdAt": "2026-10-29T01:48:48.649Z"
+    },
+    "https://ranasports.com.ar/futbol/platense-se-consagro-como-primer-campeon-del-torneo-femenino-sub-12/": {
+      "account": "sports",
+      "title": "PLATENSE SE CONSAGRÓ COMO PRIMER CAMPEÓN DEL TORNEO FEMENINO SUB 12",
+      "dueAt": "2026-10-29T02:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae2a5ff7a72c9efac0eff45",
+      "createdAt": "2026-10-29T01:48:47.891Z"
+    },
+    "https://ranasports.com.ar/futbol/mbangula-marco-tres-goles-y-bologna-le-gano-4-2-al-milan-en-san-siro/": {
+      "account": "sports",
+      "title": "MBANGULA MARCÓ TRES GOLES Y BOLOGNA LE GANÓ 4-2 AL MILAN EN SAN SIRO",
+      "dueAt": "2026-10-29T01:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae2a5fecc91be5434c00cb2",
+      "createdAt": "2026-10-29T01:48:47.059Z"
+    },
+    "https://ranasports.com.ar/futbol/argentina-cayo-por-penales-ante-ghana-y-se-despidio-del-mundial-sub-17-femenino/": {
+      "account": "sports",
+      "title": "ARGENTINA CAYÓ POR PENALES ANTE GHANA Y SE DESPIDIÓ DEL MUNDIAL SUB-17 FEMENINO",
+      "dueAt": "2026-10-29T01:48:44.458Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ae2a5fc7d94db46db2bc851",
+      "createdAt": "2026-10-29T01:48:46.539Z"
+    },
     "https://ranasports.com.ar/futbol/aguero-detallo-su-plan-con-nakis/": {
       "account": "main",
       "title": "AGÜERO DETALLÓ SU PLAN CON NAKIS: SPONSORS, VÍNCULOS INTERNACIONALES Y ALBIL AL FRENTE DEL FÚTBOL",
@@ -5168,69 +5224,6 @@
       "createdAt": "2026-10-06T19:54:18.796Z",
       "externalLink": "https://x.com/768913759301754880/status/2107562795881398598",
       "sentAt": "2026-10-06T20:05:02.140Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTE3ODAwMDAsIk1FU1NJIENJRVJSQSBVTkEgRVJBOiAyMSBBw5FPUywgVU4gTUVTIFkgMjAgRMONQVMgQ09OIExBIFNFTEVDQ0nDk04iXQ": {
-      "account": "main",
-      "title": "MESSI CIERRA UNA ERA: 21 AÑOS, UN MES Y 20 DÍAS CON LA SELECCIÓN",
-      "dueAt": "2026-10-06T20:00:00.000Z",
-      "bufferPostId": "6ac551ea535ade2f59d1b86c",
-      "createdAt": "2026-10-06T19:54:18.257Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107561558435840002",
-      "sentAt": "2026-10-06T20:00:07.091Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU4MDAwMDAsIuKAnEVMIMOaTFRJTU8gVEFOR0_igJ06IEVMIFZJREVPIE9GSUNJQUwgREUgQUZBIFBBUkEgREVTUEVESVIgQSBNRVNTSSJd": {
-      "account": "main",
-      "title": "“EL ÚLTIMO TANGO”: EL VIDEO OFICIAL DE AFA PARA DESPEDIR A MESSI",
-      "dueAt": "2026-10-06T19:45:00.000Z",
-      "bufferPostId": "6ac54e93e0e7ba24e07a2e15",
-      "createdAt": "2026-10-06T19:40:04.087Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107557767745622518",
-      "sentAt": "2026-10-06T19:45:03.320Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU3NDAwMDAsIkxBUyBFTlRSQURBUyBQQVJBIExBIERFU1BFRElEQSBERSBNRVNTSSBTRSBBR09UQVJPTiBFTiA5MCBNSU5VVE9TIl0": {
-      "account": "main",
-      "title": "LAS ENTRADAS PARA LA DESPEDIDA DE MESSI SE AGOTARON EN 90 MINUTOS",
-      "dueAt": "2026-10-06T18:35:00.000Z",
-      "bufferPostId": "6ac53483d2a44aef5fd84fc0",
-      "createdAt": "2026-10-06T17:48:51.704Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107540153593934138",
-      "sentAt": "2026-10-06T18:35:03.775Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU2ODAwMDAsIkVMIFJFR0FMTyBERUwgUExBTlRFTCBQQVJBIE1FU1NJOiBVTkEgQ0FNSVNFVEEgRklSTUFEQSBZIE1FTlNBSkVTIERFIEFNT1IiXQ": {
-      "account": "main",
-      "title": "EL REGALO DEL PLANTEL PARA MESSI: UNA CAMISETA FIRMADA Y MENSAJES DE AMOR",
-      "dueAt": "2026-10-06T18:30:00.000Z",
-      "bufferPostId": "6ac534830231af6af7bc5633",
-      "createdAt": "2026-10-06T17:48:51.153Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107538959676879154",
-      "sentAt": "2026-10-06T18:30:19.120Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU2MjAwMDAsIkPDk01PIFZFUiBMQSBERVNQRURJREEgREUgTUVTU0kgUE9SIFRWIFkgU1RSRUFNSU5HIEVOIEFSR0VOVElOQSJd": {
-      "account": "main",
-      "title": "CÓMO VER LA DESPEDIDA DE MESSI POR TV Y STREAMING EN ARGENTINA",
-      "dueAt": "2026-10-06T18:25:00.000Z",
-      "bufferPostId": "6ac53482384c7a8a1588c521",
-      "createdAt": "2026-10-06T17:48:50.755Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107537640366977051",
-      "sentAt": "2026-10-06T18:25:04.527Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU1NjAwMDAsIkRFIExBIFBBVEVSTkFMIEEgTEEgR0xPUklBOiBESUVaIE1PTUVOVE9TIFFVRSBNQVJDQVJPTiBMQSBISVNUT1JJQSBERSBNRVNTSSBFTiBMQSBTRUxFQ0NJw5NOIl0": {
-      "account": "main",
-      "title": "DE LA PATERNAL A LA GLORIA: DIEZ MOMENTOS QUE MARCARON LA HISTORIA DE MESSI EN LA SELECCIÓN",
-      "dueAt": "2026-10-06T18:20:00.000Z",
-      "bufferPostId": "6ac534816cefee849320008e",
-      "createdAt": "2026-10-06T17:48:49.768Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107536386790154454",
-      "sentAt": "2026-10-06T18:20:05.722Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTU1MDAwMDAsIkVMIERFQlVUIERFIE1FU1NJIERVUsOTIDQ1IFNFR1VORE9TIFkgU0NBTE9OSSBGVUUgRUwgUFJJTUVSTyBFTiBERUZFTkRFUkxPIl0": {
-      "account": "main",
-      "title": "EL DEBUT DE MESSI DURÓ 45 SEGUNDOS Y SCALONI FUE EL PRIMERO EN DEFENDERLO",
-      "dueAt": "2026-10-06T18:15:00.000Z",
-      "bufferPostId": "6ac534800231af6af7bc540d",
-      "createdAt": "2026-10-06T17:48:48.946Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107535157737484620",
-      "sentAt": "2026-10-06T18:15:12.595Z"
     }
   },
   "nextAt": {
