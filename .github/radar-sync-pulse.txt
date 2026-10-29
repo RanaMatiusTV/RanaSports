@@ -1,11 +1,12 @@
-RADAR 1 — RANASPORTS NOTICIAS
-Ejecución: 2026-10-28 21:00 America/Argentina/Buenos_Aires
-Pulso único: RADAR1-20261028T2100-6-4151-4156
-Candidatas evaluadas: 25
-Descartadas por duplicación o cobertura previa: 14
-Descartadas por imagen insuficiente o prioridad: 5
-Altas verificadas: 6
-Filas nuevas: 4151, 4152, 4153, 4154, 4155, 4156
-Última noticia: GENOA DIO EL GOLPE, VENCIÓ 2-0 A JUVENTUS Y FRENÓ SU MARCHA EN LA SERIE A
+RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
+Ejecución: 2026-10-28 22:10 America/Argentina/Buenos_Aires
+Pulso único: RADAR5-20261028T2210-1-4157-221354
+Candidatas evaluadas: 5
+Descartadas por duplicación o cobertura previa: 1 (reclamo Flamengo/Estudiantes ya cubierto en fila 4130)
+Descartadas por prioridad o fotografía no verificada: 2 (Fluminense-Internacional; Santos-Palmeiras)
+No publicadas por partido en curso: 1 (Atlético Tucumán-Platense)
+Altas verificadas: 1
+Filas nuevas: 4157
+Noticia: CORINTHIANS REMONTÓ ANTE SANTA FE Y SE METIÓ EN LA FINAL DE LA LIBERTADORES FEMENINA
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
 Sin modificaciones de workflows ni assets/news-live.csv directamente.
