@@ -1,5 +1,6 @@
-RADAR 5 — 2026-10-29 14:10 America/Argentina/Buenos_Aires
-Altas verificadas: 1
-Filas: 4204
+RADAR 1 — 2026-10-29 15:01 America/Argentina/Buenos_Aires
+Altas verificadas: 7
+Filas: 4205-4211
+Última noticia: BOCA TIENE VENTAJA SOBRE ARGENTINOS EN EL DESEMPATE POR LA TABLA ANUAL
 Estado: Google Sheets verificado; sincronización pública por comprobar
-Ejecución: radar5-20261029-1410-fila4204-afa-formato-2027
+Ejecución: radar1-20261029-1501-filas4205-4211
