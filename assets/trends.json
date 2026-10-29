@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-29T00:54:12.657Z",
+  "updatedAt": "2026-10-29T07:03:07.378Z",
   "trends": [
     {
-      "query": "jazz - spurs",
-      "startedAt": "2026-10-29T00:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "nba hoy",
-      "startedAt": "2026-10-29T00:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "primera división",
-      "startedAt": "2026-10-29T00:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "mañana hay paro nacional?",
-      "startedAt": "2026-10-29T00:20:00.000Z",
+      "query": "lakers",
+      "startedAt": "2026-10-29T04:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "pelicans - nuggets",
-      "startedAt": "2026-10-29T00:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "paro universitario",
-      "startedAt": "2026-10-29T00:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "hawks - heat",
-      "startedAt": "2026-10-29T00:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "sandra pettovello",
-      "startedAt": "2026-10-28T23:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "delfín - independiente del valle",
-      "startedAt": "2026-10-28T23:50:00.000Z",
+      "query": "américa - tijuana",
+      "startedAt": "2026-10-29T03:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "bulls - knicks",
-      "startedAt": "2026-10-28T23:50:00.000Z",
+      "query": "gimena accardi",
+      "startedAt": "2026-10-29T02:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "bucks - rockets",
+      "startedAt": "2026-10-29T02:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "julieta nair calvo",
+      "startedAt": "2026-10-29T02:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "golden state warriors",
+      "startedAt": "2026-10-29T02:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "karina mazzocco",
+      "startedAt": "2026-10-29T02:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "clippers - lakers",
+      "startedAt": "2026-10-29T02:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "falcioni",
+      "startedAt": "2026-10-29T02:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "beca",
+      "startedAt": "2026-10-29T01:50:00.000Z",
       "volume": 200
     }
   ]
