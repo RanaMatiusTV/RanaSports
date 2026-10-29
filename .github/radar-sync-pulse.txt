@@ -1,10 +1,11 @@
-RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
-Ejecución: 2026-10-28 20:10 America/Argentina/Buenos_Aires
-Pulso único: RADAR5-20261028T2010-3-4148-4150
-Candidatas evaluadas: 8
-Descartadas por duplicación o cobertura previa: 3
-Descartadas por imagen insuficiente o prioridad: 2
-Altas verificadas: 3
-Filas nuevas: 4148, 4149, 4150
+RADAR 1 — RANASPORTS NOTICIAS
+Ejecución: 2026-10-28 21:00 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-20261028T2100-6-4151-4156
+Candidatas evaluadas: 25
+Descartadas por duplicación o cobertura previa: 14
+Descartadas por imagen insuficiente o prioridad: 5
+Altas verificadas: 6
+Filas nuevas: 4151, 4152, 4153, 4154, 4155, 4156
+Última noticia: GENOA DIO EL GOLPE, VENCIÓ 2-0 A JUVENTUS Y FRENÓ SU MARCHA EN LA SERIE A
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
 Sin modificaciones de workflows ni assets/news-live.csv directamente.
