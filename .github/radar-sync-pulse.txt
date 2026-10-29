@@ -1,11 +1,11 @@
 RADAR 1 — RANASPORTS NOTICIAS
-Ejecución: 2026-10-28 23:00 America/Argentina/Buenos_Aires
-Pulso único: RADAR1-20261028T2300-6-4158-4163
-Candidatos detectados: 10
-Duplicados descartados: 3
-Descartado por resultado inconsistente/no verificado: 1
+Ejecución: 2026-10-29 00:25 America/Argentina/Buenos_Aires
+Pulso único: RADAR1-20261029T0025-6-4164-4169
+Candidatos detectados: 13
+Duplicados descartados: 7
 Altas verificadas: 6
-Filas nuevas: 4158-4163
-Última noticia: REAL MADRID SE DISCULPÓ CON CHINA POR LOS COMENTARIOS DE MBAPPÉ
+Imágenes H verificadas: 6
+Filas nuevas: 4164-4169
+Última noticia: MESSI YA ES EL TERCER DEPORTISTA CON MÁS INGRESOS DE LA HISTORIA
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
 Sin modificaciones de workflows ni assets/news-live.csv directamente.
