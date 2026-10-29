@@ -1,10 +1,11 @@
-RADAR 1 — RANASPORTS NOTICIAS
-Ejecución: 2026-10-29 09:00 America/Argentina/Buenos_Aires
-Pulso único: RADAR1-20261029T0900-7-4185
-Candidatas evaluadas: 14
-Descartadas por duplicación o cobertura previa: 7
-Altas verificadas: 7
-Filas nuevas: 4179-4185
-Última noticia: PLATENSE PODRÍA CLASIFICARSE A LA LIBERTADORES AUNQUE PIERDA LA FINAL
+RADAR 5 — RANASPORTS ACTUALIDAD INMEDIATA
+Ejecución: 2026-10-29 10:10 America/Argentina/Buenos_Aires
+Pulso único: RADAR5-20261029T101154-3-4186-4188
+Candidatas evaluadas: 8
+Descartadas por duplicación o cobertura previa: 3
+Descartadas por escasa novedad o prioridad: 2
+Altas verificadas: 3
+Filas nuevas: 4186, 4187, 4188
+Titulares: NEYMAR RECIBIÓ DOS FECHAS DE SUSPENSIÓN; VALENTÍN BARCO FALLÓ EN LOS PENALES; CONMEBOL ABRE LA PREVENTA DE LA FINAL
 Estado: ALTAS_VERIFICADAS; SINCRONIZACION_SOLICITADA
 No se modificaron workflows ni assets/news-live.csv directamente.
