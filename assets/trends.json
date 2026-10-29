@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-29T19:40:34.705Z",
+  "updatedAt": "2026-10-29T23:35:51.316Z",
   "trends": [
     {
-      "query": "uocra",
-      "startedAt": "2026-10-29T19:20:00.000Z",
+      "query": "brasileirão serie a",
+      "startedAt": "2026-10-29T23:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "superclásico del fútbol argentino",
-      "startedAt": "2026-10-29T19:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "atleta",
-      "startedAt": "2026-10-29T19:20:00.000Z",
+      "query": "clima rafaela",
+      "startedAt": "2026-10-29T23:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "fiorentina - atalanta",
-      "startedAt": "2026-10-29T19:10:00.000Z",
+      "query": "btc usd",
+      "startedAt": "2026-10-29T23:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "moria casán",
+      "startedAt": "2026-10-29T23:00:00.000Z",
       "volume": 1000
     },
     {
-      "query": "china ansa",
-      "startedAt": "2026-10-29T19:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "clima tucuman",
-      "startedAt": "2026-10-29T19:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "instituto nacional de tecnología industrial",
-      "startedAt": "2026-10-29T19:00:00.000Z",
+      "query": "hackeo binance",
+      "startedAt": "2026-10-29T23:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "everton - newcastle",
-      "startedAt": "2026-10-29T18:50:00.000Z",
+      "query": "tiempo en santa fe",
+      "startedAt": "2026-10-29T23:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "punilla",
+      "startedAt": "2026-10-29T22:50:00.000Z",
       "volume": 1000
     },
     {
-      "query": "elke sommer",
-      "startedAt": "2026-10-29T18:50:00.000Z",
-      "volume": 200
+      "query": "autopsia de nancy godoy",
+      "startedAt": "2026-10-29T22:50:00.000Z",
+      "volume": 20000
     },
     {
-      "query": "djokovic",
-      "startedAt": "2026-10-29T18:40:00.000Z",
-      "volume": 100
+      "query": "vasco da gama - flamengo",
+      "startedAt": "2026-10-29T22:20:00.000Z",
+      "volume": 10000
+    },
+    {
+      "query": "posiciones de hb køge (femenino) contra fútbol club barcelona femenino",
+      "startedAt": "2026-10-29T22:20:00.000Z",
+      "volume": 1000
     }
   ]
 }
