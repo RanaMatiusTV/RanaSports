@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-28T21:02:51.540Z",
+  "updatedAt": "2026-10-29T00:54:12.657Z",
   "trends": [
     {
-      "query": "city",
-      "startedAt": "2026-10-28T20:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "chelsea vs liverpool",
-      "startedAt": "2026-10-28T20:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "porto - académico de viseu futebol clube",
-      "startedAt": "2026-10-28T20:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "leverkusen",
-      "startedAt": "2026-10-28T20:30:00.000Z",
+      "query": "jazz - spurs",
+      "startedAt": "2026-10-29T00:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "aníbal moreno",
-      "startedAt": "2026-10-28T20:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "ecocarnes",
-      "startedAt": "2026-10-28T20:20:00.000Z",
+      "query": "nba hoy",
+      "startedAt": "2026-10-29T00:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "dfb pokal",
-      "startedAt": "2026-10-28T20:20:00.000Z",
+      "query": "primera división",
+      "startedAt": "2026-10-29T00:20:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "mañana hay paro nacional?",
+      "startedAt": "2026-10-29T00:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "julián santero",
-      "startedAt": "2026-10-28T20:10:00.000Z",
+      "query": "pelicans - nuggets",
+      "startedAt": "2026-10-29T00:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "paro universitario",
+      "startedAt": "2026-10-29T00:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "balon de oro de todos los tiempos",
-      "startedAt": "2026-10-28T20:00:00.000Z",
+      "query": "hawks - heat",
+      "startedAt": "2026-10-29T00:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "sandra pettovello",
+      "startedAt": "2026-10-28T23:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "delfín - independiente del valle",
+      "startedAt": "2026-10-28T23:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "sedán",
-      "startedAt": "2026-10-28T19:50:00.000Z",
+      "query": "bulls - knicks",
+      "startedAt": "2026-10-28T23:50:00.000Z",
       "volume": 200
     }
   ]
