@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/basquet/gimnasia-de-comodoro-vencio-73-61-a-ferro-y-sumo-su-tercer-triunfo-seguido/": {
+      "account": "sports",
+      "title": "GIMNASIA DE COMODORO VENCIÓ 73-61 A FERRO Y SUMÓ SU TERCER TRIUNFO SEGUIDO",
+      "dueAt": "2026-10-29T10:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae304612467e67f128a3b07",
+      "createdAt": "2026-10-29T08:31:29.613Z"
+    },
+    "https://ranasports.com.ar/basquet/platense-aplasto-80-58-a-san-lorenzo-en-boedo/": {
+      "account": "sports",
+      "title": "PLATENSE APLASTÓ 80-58 A SAN LORENZO EN BOEDO",
+      "dueAt": "2026-10-29T09:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae304609c8338621358118b",
+      "createdAt": "2026-10-29T08:31:28.761Z"
+    },
+    "https://ranasports.com.ar/futbol/platense-vencio-a-atletico-tucuman-por-penales-y-es-finalista-de-la-copa-argentina/": {
+      "account": "sports",
+      "title": "PLATENSE VENCIÓ A ATLÉTICO TUCUMÁN POR PENALES Y ES FINALISTA DE LA COPA ARGENTINA",
+      "dueAt": "2026-10-29T08:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae3045f2467e67f128a3a80",
+      "createdAt": "2026-10-29T08:31:27.467Z"
+    },
+    "https://ranasports.com.ar/f1/la-fia-revelo-que-gasly-recibio-13-000-amenazas-tras-el-cruce-con-colapinto/": {
+      "account": "f1",
+      "title": "LA FIA REVELÓ QUE GASLY RECIBIÓ 13.000 AMENAZAS TRAS EL CRUCE CON COLAPINTO",
+      "dueAt": "2026-10-29T08:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae3045ef66393dd5697e17e",
+      "createdAt": "2026-10-29T08:31:27.073Z"
+    },
     "https://ranasports.com.ar/formula-2/lando-norris-tendra-su-propio-equipo-en-la-formula-2-desde-2027/": {
       "account": "f1",
       "title": "LANDO NORRIS TENDRÁ SU PROPIO EQUIPO EN LA FÓRMULA 2 DESDE 2027",
@@ -5188,42 +5220,6 @@
       "createdAt": "2026-10-06T19:54:20.459Z",
       "externalLink": "https://x.com/768913759301754880/status/2107567828085686284",
       "sentAt": "2026-10-06T20:25:01.880Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTIwMjAwMDAsIlJJU0FTLCBERSBQQVVMIFkgRUwgTE9DTzogQVPDjSBGVUUgRUwgw5pMVElNTyBFTlRSRU5BTUlFTlRPIERFIE1FU1NJIENPTiBMQSBTRUxFQ0NJw5NOIl0": {
-      "account": "main",
-      "title": "RISAS, DE PAUL Y EL LOCO: ASÍ FUE EL ÚLTIMO ENTRENAMIENTO DE MESSI CON LA SELECCIÓN",
-      "dueAt": "2026-10-06T20:20:00.000Z",
-      "bufferPostId": "6ac551eb9b4b7d7d77d5e8b4",
-      "createdAt": "2026-10-06T19:54:20.074Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107566571115721123",
-      "sentAt": "2026-10-06T20:20:02.220Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTE5NjAwMDAsIlNDQUxPTkkgUFJFUEFSQSBVTkEgRk9STUFDScOTTiBDT04gTE9TIEhJU1TDk1JJQ09TIFBBUkEgRUwgw5pMVElNTyBQQVJUSURPIERFIE1FU1NJIl0": {
-      "account": "main",
-      "title": "SCALONI PREPARA UNA FORMACIÓN CON LOS HISTÓRICOS PARA EL ÚLTIMO PARTIDO DE MESSI",
-      "dueAt": "2026-10-06T20:15:00.000Z",
-      "bufferPostId": "6ac551eb299f8672071d35d3",
-      "createdAt": "2026-10-06T19:54:19.599Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107565316486185158",
-      "sentAt": "2026-10-06T20:15:03.047Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTE5MDAwMDAsIkxBIERFU1BFRElEQSBERSBNRVNTSSBURU5EUsOBIEEgVkFSSU9TIENBTVBFT05FUyBFTiBFTCBNT05VTUVOVEFMIFkgQVVTRU5DSUFTIERFIFBFU08iXQ": {
-      "account": "main",
-      "title": "LA DESPEDIDA DE MESSI TENDRÁ A VARIOS CAMPEONES EN EL MONUMENTAL Y AUSENCIAS DE PESO",
-      "dueAt": "2026-10-06T20:10:00.000Z",
-      "bufferPostId": "6ac551eb299f8672071d35aa",
-      "createdAt": "2026-10-06T19:54:19.321Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107564054982046111",
-      "sentAt": "2026-10-06T20:10:02.324Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEyOTE4NDAwMDAsIk3DgVMgREUgTUlMIEVGRUNUSVZPUyBDVVNUT0RJQVLDgU4gTEEgREVTUEVESURBIERFIE1FU1NJIFkgRUwgRkFOIEZFU1QiXQ": {
-      "account": "main",
-      "title": "MÁS DE MIL EFECTIVOS CUSTODIARÁN LA DESPEDIDA DE MESSI Y EL FAN FEST",
-      "dueAt": "2026-10-06T20:05:00.000Z",
-      "bufferPostId": "6ac551ea9b4b7d7d77d5e850",
-      "createdAt": "2026-10-06T19:54:18.796Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107562795881398598",
-      "sentAt": "2026-10-06T20:05:02.140Z"
     }
   },
   "nextAt": {
