@@ -1,6 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Fecha y hora ARG: 2026-10-29 17:03:15
-Altas verificadas: 7
-Filas: 4213-4219
-Última noticia: EL TIERNO GESTO DE MESSI CON UN NENE ANTES DEL EMPATE DE INTER MIAMI
-Estado: Google Sheets verificado; señal de sincronización emitida
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha y hora ARG: 2026-10-29 18:10
+Altas verificadas: 1
+Filas: 4220
+Última noticia: LANÚS PROPUSO QUE VUELVAN LAS PROMOCIONES A PRIMERA DIVISIÓN EN 2028
+Estado: Google Sheets fila 4220 releída y verificada; pulso de sincronización emitido
+Ejecución: RADAR5-20261029-1810-4220
