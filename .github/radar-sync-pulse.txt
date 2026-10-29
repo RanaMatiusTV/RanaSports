@@ -1,8 +1,5 @@
-RADAR 1 — RanaSports Noticias
-Fecha ARG: 2026-10-29
-Hora ARG: 13:03:00 -03:00
-Altas verificadas: 7
-Filas: 4197-4203
-Última noticia: ZEBALLOS RESPALDÓ LA CARTA CONTRA EL RECORTE DE CUADROS Y PREMIOS EN EL DOBLES
-Estado: Sheets verificado; sincronización solicitada
-Origen: RADAR1-20261029-1303
+RADAR 5 — 2026-10-29 14:10 America/Argentina/Buenos_Aires
+Altas verificadas: 1
+Filas: 4204
+Estado: Google Sheets verificado; sincronización pública por comprobar
+Ejecución: radar5-20261029-1410-fila4204-afa-formato-2027
