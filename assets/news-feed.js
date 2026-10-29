@@ -286,14 +286,19 @@
   wrap.append(img);container.append(wrap);return true;
  }
  function renderLinkEmbed(container,url){
-  return false;
+  const target=safeURL(url);
+  if(!target||!/^https?:\/\//i.test(target)||container.querySelector('.external-embed-card'))return false;
+  const card=link(target,'','external-embed-card');
+  const title=element('strong','', 'MIRÁ EL VIDEO ACÁ!');
+  const description=element('span','', 'Abrir contenido original en otra pestaña');
+  card.append(title,description);container.append(card);return true;
  }
  function renderEmbed(container,url){
   if(container.querySelector('.video-embed,.x-embed,.image-embed,.external-embed-card'))return false;
   if(imageEmbedURL(url))return renderImageEmbed(container,url);
   if(isXPost(url))return renderXPost(container,url);
   if(videoEmbedURL(url))return renderVideo(container,url);
-  return false;
+  return renderLinkEmbed(container,url);
  }
  function renderSupplementalImage(container,url){
   if(!imageDataURL(url)||container.querySelector('.supplemental-image'))return false;
