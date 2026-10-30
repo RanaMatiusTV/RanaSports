@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-29T23:35:51.316Z",
+  "updatedAt": "2026-10-30T02:57:34.146Z",
   "trends": [
     {
-      "query": "brasileirão serie a",
-      "startedAt": "2026-10-29T23:10:00.000Z",
+      "query": "manu ginobili",
+      "startedAt": "2026-10-30T02:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "trail blazers - grizzlies",
+      "startedAt": "2026-10-30T02:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "clima rafaela",
-      "startedAt": "2026-10-29T23:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "btc usd",
-      "startedAt": "2026-10-29T23:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "moria casán",
-      "startedAt": "2026-10-29T23:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "hackeo binance",
-      "startedAt": "2026-10-29T23:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "tiempo en santa fe",
-      "startedAt": "2026-10-29T23:00:00.000Z",
+      "query": "pablo migliore",
+      "startedAt": "2026-10-30T02:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "punilla",
-      "startedAt": "2026-10-29T22:50:00.000Z",
+      "query": "andrea kimi antonelli",
+      "startedAt": "2026-10-30T01:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pago anses",
+      "startedAt": "2026-10-30T01:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "telefe",
+      "startedAt": "2026-10-30T01:40:00.000Z",
       "volume": 1000
     },
     {
-      "query": "autopsia de nancy godoy",
-      "startedAt": "2026-10-29T22:50:00.000Z",
-      "volume": 20000
+      "query": "enrique piñeyro",
+      "startedAt": "2026-10-30T01:30:00.000Z",
+      "volume": 200
     },
     {
-      "query": "vasco da gama - flamengo",
-      "startedAt": "2026-10-29T22:20:00.000Z",
-      "volume": 10000
+      "query": "puma rodriguez",
+      "startedAt": "2026-10-30T01:30:00.000Z",
+      "volume": 500
     },
     {
-      "query": "posiciones de hb køge (femenino) contra fútbol club barcelona femenino",
-      "startedAt": "2026-10-29T22:20:00.000Z",
-      "volume": 1000
+      "query": "pelicans - kings",
+      "startedAt": "2026-10-30T01:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clima san rafael",
+      "startedAt": "2026-10-30T01:20:00.000Z",
+      "volume": 200
     }
   ]
 }
