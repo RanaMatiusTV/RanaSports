@@ -34,14 +34,13 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          # Guard against Google returning an older public CSV snapshot.
-          # Only accept a snapshot that contains the last radar pulse headline
-          # and is not older than the feed already on GitHub.
+          # Use the published CSV, which is accessible from GitHub Actions.
+          # The private spreadsheet /gviz endpoint returns HTTP 401 without Google OAuth.
+          # Never publish an older snapshot or omit the last radar's expected headline.
           python3 - <<'PY'
           import csv, datetime, os, re, subprocess, sys, time
 
           sheet_id = '12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4'
-          live_url = f'https://docs.google.com/spreadsheets/d/{sheet_id}/gviz/tq?tqx=out:csv&sheet=Noticias'
           published_url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?output=csv'
           pulse_path = '.github/radar-sync-pulse.txt'
           pulse = open(pulse_path, encoding='utf-8').read() if os.path.isfile(pulse_path) else ''
@@ -67,8 +66,11 @@ jobs:
 
           previous = read_feed('assets/news-live.csv') if os.path.isfile('assets/news-live.csv') else []
           previous_max = max((timestamp(r) for r in previous), default=datetime.datetime.min)
-          for attempt in range(1, 5):
-              for label, base_url in [('live', live_url), ('published', published_url)]:
+          # Google's published CSV can lag the editable Sheet. Allow it time to refresh
+          # rather than failing on the first stale response (cron/push will retry too).
+          max_attempts = 20
+          for attempt in range(1, max_attempts + 1):
+              for label, base_url in [('published', published_url)]:
                   url = f'{base_url}&_={time.time_ns()}'
                   cmd = ['curl', '-fLsS', '--retry', '2', '--retry-delay', '2',
                          '--connect-timeout', '15', '--max-time', '90',
@@ -89,9 +91,9 @@ jobs:
                       sys.exit(0)
                   except (subprocess.CalledProcessError, ValueError, OSError) as e:
                       print(f'::warning::{label} attempt {attempt} unavailable: {e}', flush=True)
-              if attempt < 4:
-                  time.sleep(12)
-          print('::error::Sheet CSV is stale or unavailable after retries; refusing silent success', flush=True)
+              if attempt < max_attempts:
+                  time.sleep(15)
+          print('::error::Published Sheet CSV is stale or unavailable after extended retries; preserving the last known-good news feed', flush=True)
           sys.exit(1)
           PY
           python3 - <<'PY'
