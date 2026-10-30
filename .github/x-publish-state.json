@@ -1,6 +1,22 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/tsolov-freno-su-debut-en-f1-porque-dejo-de-sentir-la-pierna/": {
+      "account": "f1",
+      "title": "TSOLOV FRENÓ SU DEBUT EN F1 PORQUE DEJÓ DE SENTIR LA PIERNA",
+      "dueAt": "2026-10-31T00:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae52d00eaa24d6f9a466cd6",
+      "createdAt": "2026-10-30T23:49:20.200Z"
+    },
+    "https://ranasports.com.ar/f1/antonelli-puede-consagrarse-campeon-de-formula-1-en-mexico/": {
+      "account": "f1",
+      "title": "ANTONELLI PUEDE CONSAGRARSE CAMPEÓN DE FÓRMULA 1 EN MÉXICO",
+      "dueAt": "2026-10-30T23:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae52cff1891472093a3f02e",
+      "createdAt": "2026-10-30T23:49:19.717Z"
+    },
     "https://ranasports.com.ar/futbol/burdisso-trabaja-para-el-proyecto-de-gaudio-en-independiente-y-visito-a-racing/": {
       "account": "main",
       "title": "BURDISSO TRABAJA PARA EL PROYECTO DE GAUDIO EN INDEPENDIENTE Y VISITÓ A RACING",
@@ -5181,20 +5197,6 @@
       "dueAt": "2026-10-07T09:45:00.000Z",
       "bufferPostId": "6ac60d51e72849271d023cf7",
       "createdAt": "2026-10-07T09:13:53.998Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzE1NjAwMDAsIkVMIE1PTlVNRU5UQUwgT1ZBQ0lPTsOTIEEgRU5SSVFVRSBNQUNBWUEgTcOBUlFVRVogRU4gTEEgREVTUEVESURBIERFIE1FU1NJIl0": {
-      "account": "main",
-      "title": "EL MONUMENTAL OVACIONÓ A ENRIQUE MACAYA MÁRQUEZ EN LA DESPEDIDA DE MESSI",
-      "dueAt": "2026-10-07T09:40:00.000Z",
-      "bufferPostId": "6ac60d51ec8d0b69d56d95eb",
-      "createdAt": "2026-10-07T09:13:53.678Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzE1MDAwMDAsIk1FU1NJIEFCUkFaw5MgQSBTVVMgVFJFUyBISUpPUyBZIERJTyBTVSDDmkxUSU1BIEFSRU5HQSBBTlRFUyBERSBKVUdBUiBDT04gQVJHRU5USU5BIl0": {
-      "account": "main",
-      "title": "MESSI ABRAZÓ A SUS TRES HIJOS Y DIO SU ÚLTIMA ARENGA ANTES DE JUGAR CON ARGENTINA",
-      "dueAt": "2026-10-07T09:35:00.000Z",
-      "bufferPostId": "6ac60d50d8c9f8421f2ea922",
-      "createdAt": "2026-10-07T09:13:52.459Z"
     }
   },
   "nextAt": {
