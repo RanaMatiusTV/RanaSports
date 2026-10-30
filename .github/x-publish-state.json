@@ -1,6 +1,30 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/prieto-sigue-habilitado-en-argentinos-tras-aclararse-la-amarilla-fantasma/": {
+      "account": "sports",
+      "title": "PRIETO SIGUE HABILITADO EN ARGENTINOS TRAS ACLARARSE LA AMARILLA FANTASMA",
+      "dueAt": "2026-10-30T02:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae3ec986385db216a193d06",
+      "createdAt": "2026-10-30T01:02:16.170Z"
+    },
+    "https://ranasports.com.ar/futbol/enzo-fernandez-revelo-la-charla-de-messi-antes-de-la-final-y-nego-teorias-conspirativas/": {
+      "account": "sports",
+      "title": "ENZO FERNÁNDEZ REVELÓ LA CHARLA DE MESSI ANTES DE LA FINAL Y NEGÓ TEORÍAS CONSPIRATIVAS",
+      "dueAt": "2026-10-30T01:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae3ec962782e7f331c50ae7",
+      "createdAt": "2026-10-30T01:02:14.951Z"
+    },
+    "https://ranasports.com.ar/futbol/nico-williams-revelo-que-un-empujon-de-molina-fue-clave-en-la-final-del-mundial/": {
+      "account": "sports",
+      "title": "NICO WILLIAMS REVELÓ QUE UN EMPUJÓN DE MOLINA FUE CLAVE EN LA FINAL DEL MUNDIAL",
+      "dueAt": "2026-10-30T01:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae3ec954b8768bfb2d0f259",
+      "createdAt": "2026-10-30T01:02:14.142Z"
+    },
     "https://ranasports.com.ar/futbol/avalos-se-destaca-en-olimpia-tras-su-paso-por-independiente/": {
       "account": "main",
       "title": "ÁVALOS SE DESTACA EN OLIMPIA TRAS SU PASO POR INDEPENDIENTE",
@@ -5180,33 +5204,6 @@
       "createdAt": "2026-10-06T23:54:24.619Z",
       "externalLink": "https://x.com/768913759301754880/status/2107630744273068490",
       "sentAt": "2026-10-07T00:35:02.277Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTAzODAwMDAsIkVMIFZJREVPIERFIExBIEFGQSBRVUUgRU1PQ0lPTsOTIEEgQU5UT05FTEEgRU4gTEEgREVTUEVESURBIERFIE1FU1NJIl0": {
-      "account": "main",
-      "title": "EL VIDEO DE LA AFA QUE EMOCIONÓ A ANTONELA EN LA DESPEDIDA DE MESSI",
-      "dueAt": "2026-10-07T00:30:00.000Z",
-      "bufferPostId": "6ac58a2fc863cdf278d3ae3c",
-      "createdAt": "2026-10-06T23:54:24.059Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107629519175614641",
-      "sentAt": "2026-10-07T00:30:10.198Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTAzMjAwMDAsIkNVQU5ETyBNRVNTSSBZQSBCUklMTEFCQSBFTiBCQVJDRUxPTkEsIFBFUk8gTEUgUEVEw41BIFBMQVRBIEEgU1UgTUFNw4EgUEFSQSBDT01QUkFSIENISUNMRVMiXQ": {
-      "account": "main",
-      "title": "CUANDO MESSI YA BRILLABA EN BARCELONA, PERO LE PEDÍA PLATA A SU MAMÁ PARA COMPRAR CHICLES",
-      "dueAt": "2026-10-07T00:25:00.000Z",
-      "bufferPostId": "6ac58a2fe6827ebf4473a208",
-      "createdAt": "2026-10-06T23:54:23.635Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107628225404842436",
-      "sentAt": "2026-10-07T00:25:01.684Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTAyNjAwMDAsIkxPUyBHRVNUT1MgU0VDUkVUT1MgREUgTUVTU0k6IFBBR8OTIERFVURBUyBZIFJFR0FMw5MgRUxFQ1RST0RPTcOJU1RJQ09TIEEgRU1QTEVBRE9TIERFIEFGQSJd": {
-      "account": "main",
-      "title": "LOS GESTOS SECRETOS DE MESSI: PAGÓ DEUDAS Y REGALÓ ELECTRODOMÉSTICOS A EMPLEADOS DE AFA",
-      "dueAt": "2026-10-07T00:20:00.000Z",
-      "bufferPostId": "6ac58a2ec863cdf278d3adfe",
-      "createdAt": "2026-10-06T23:54:22.898Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107626971769233889",
-      "sentAt": "2026-10-07T00:20:02.831Z"
     }
   },
   "nextAt": {
