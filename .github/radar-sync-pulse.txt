@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Fecha y hora ARG: 2026-10-30 17:11
-Altas verificadas: 6
-Filas: 4288-4293
-Última noticia: DIBU RECHAZÓ LAS TEORÍAS CONSPIRATIVAS SOBRE LA FINAL DEL MUNDIAL
-Estado: altas escritas y releídas en Sheets; H verificadas; R histórico intacto; nuevas filas con R=FALSE.
-Ejecución: RADAR1-20261030-1711-6-ALTAS-4288-4293
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha y hora ARG: 2026-10-30 18:10
+Altas verificadas: 1
+Filas: 4294
+Última noticia: LECLERC LIDERÓ LA FP1 EN MÉXICO Y MINÌ FUE 14° CON EL ALPINE DE COLAPINTO
+Estado: fila 4294 escrita y releída en Sheets; imagen directa verificada; R=FALSE; publicaciones históricas intactas.
+Ejecución: RADAR5-20261030-1810-1-ALTA-4294-FP1
