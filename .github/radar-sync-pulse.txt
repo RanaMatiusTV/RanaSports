@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Fecha y hora ARG: 2026-10-30 16:10
-Altas verificadas: 0
-Filas: ninguna
-Estado: control de novedades y antiduplicados realizado; candidatas cubiertas previamente o sin novedad sustancial; FP1 México en curso sin resultado oficial confirmado al corte. Sin modificaciones en Noticias.
-Última fila observada en Sheets: 4287 (15:02)
-Ejecución: RADAR5-20261030-1610-CERO-ALTAS-REVISION-4287
+RADAR 1 — RanaSports Noticias
+Fecha y hora ARG: 2026-10-30 17:11
+Altas verificadas: 6
+Filas: 4288-4293
+Última noticia: DIBU RECHAZÓ LAS TEORÍAS CONSPIRATIVAS SOBRE LA FINAL DEL MUNDIAL
+Estado: altas escritas y releídas en Sheets; H verificadas; R histórico intacto; nuevas filas con R=FALSE.
+Ejecución: RADAR1-20261030-1711-6-ALTAS-4288-4293
