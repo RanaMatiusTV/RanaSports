@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/burdisso-trabaja-para-el-proyecto-de-gaudio-en-independiente-y-visito-a-racing/": {
+      "account": "main",
+      "title": "BURDISSO TRABAJA PARA EL PROYECTO DE GAUDIO EN INDEPENDIENTE Y VISITÓ A RACING",
+      "dueAt": "2026-10-30T20:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae4ef8feaa24d6f9a354b25",
+      "createdAt": "2026-10-30T19:27:11.270Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-revelo-que-checo-perez-es-su-unico-amigo-en-la-formula-1/": {
+      "account": "f1",
+      "title": "COLAPINTO REVELÓ QUE CHECO PÉREZ ES SU ÚNICO AMIGO EN LA FÓRMULA 1",
+      "dueAt": "2026-10-30T20:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae4ef8e10a950f1373ec271",
+      "createdAt": "2026-10-30T19:27:10.562Z"
+    },
+    "https://ranasports.com.ar/f1/gabriele-mini-el-joven-que-reemplazara-a-colapinto-en-la-fp1-de-mexico/": {
+      "account": "f1",
+      "title": "GABRIELE MINÌ, EL JOVEN QUE REEMPLAZARÁ A COLAPINTO EN LA FP1 DE MÉXICO",
+      "dueAt": "2026-10-30T19:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae4ef8da351214acfa645d7",
+      "createdAt": "2026-10-30T19:27:09.853Z"
+    },
+    "https://ranasports.com.ar/futbol/la-afa-confirmo-la-bombonera-y-el-kempes-para-los-amistosos-de-noviembre/": {
+      "account": "sports",
+      "title": "LA AFA CONFIRMÓ LA BOMBONERA Y EL KEMPES PARA LOS AMISTOSOS DE NOVIEMBRE",
+      "dueAt": "2026-10-30T21:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae4ef8c260ad0ee5bc624e1",
+      "createdAt": "2026-10-30T19:27:08.929Z"
+    },
+    "https://ranasports.com.ar/futbol/argentina-sub-15-cerro-el-mundial-con-un-triunfo-por-penales-ante-senegal/": {
+      "account": "sports",
+      "title": "ARGENTINA SUB 15 CERRÓ EL MUNDIAL CON UN TRIUNFO POR PENALES ANTE SENEGAL",
+      "dueAt": "2026-10-30T20:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae4ef8a260ad0ee5bc62462",
+      "createdAt": "2026-10-30T19:27:07.145Z"
+    },
+    "https://ranasports.com.ar/automovilismo/jacky-ickx-cambio-la-largada-de-le-mans-con-una-protesta-por-la-seguridad/": {
+      "account": "sports",
+      "title": "JACKY ICKX CAMBIÓ LA LARGADA DE LE MANS CON UNA PROTESTA POR LA SEGURIDAD",
+      "dueAt": "2026-10-30T19:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae4ef89260ad0ee5bc623fe",
+      "createdAt": "2026-10-30T19:27:05.220Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-cree-que-la-altura-de-mexico-puede-favorecer-al-alpine/": {
       "account": "f1",
       "title": "COLAPINTO CREE QUE LA ALTURA DE MÉXICO PUEDE FAVORECER AL ALPINE",
@@ -5147,58 +5195,6 @@
       "dueAt": "2026-10-07T09:35:00.000Z",
       "bufferPostId": "6ac60d50d8c9f8421f2ea922",
       "createdAt": "2026-10-07T09:13:52.459Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzE0NDAwMDAsIkxBIFBFTE9UQSBFU1BFQ0lBTCBERUwgw5pMVElNTyBQQVJUSURPIERFIE1FU1NJIENPTiBMQSBTRUxFQ0NJw5NOIEFSR0VOVElOQSJd": {
-      "account": "main",
-      "title": "LA PELOTA ESPECIAL DEL ÚLTIMO PARTIDO DE MESSI CON LA SELECCIÓN ARGENTINA",
-      "dueAt": "2026-10-07T09:30:00.000Z",
-      "bufferPostId": "6ac60d4de72849271d023bec",
-      "createdAt": "2026-10-07T09:13:49.959Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxMzMxMjYwMDAwLCJFU0VRVUlFTCBCQVJDTyBSRU5PVsOTIENPTiBTUEFSVEFLIE1PU0PDmiBIQVNUQSAyMDMwIFkgQUxFSsOTIFNVIFJFR1JFU08gQSBJTkRFUEVORElFTlRFIE8gUklWRVIiXQ": {
-      "account": "main",
-      "title": "ESEQUIEL BARCO RENOVÓ CON SPARTAK MOSCÚ HASTA 2030 Y ALEJÓ SU REGRESO A INDEPENDIENTE O RIVER",
-      "dueAt": "2026-10-07T09:25:00.000Z",
-      "bufferPostId": "6ac60d4dec8d0b69d56d94ef",
-      "createdAt": "2026-10-07T09:13:49.462Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107764130199273865",
-      "sentAt": "2026-10-07T09:25:03.924Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMjc1NDAwMDAsIk1FU1NJIFkgU0NBTE9OSSBMTE9SQVJPTiBDT04gRUwgSElNTk8gRU4gTEEgREVTUEVESURBIERFTCBDQVBJVMOBTiJd": {
-      "account": "main",
-      "title": "MESSI Y SCALONI LLORARON CON EL HIMNO EN LA DESPEDIDA DEL CAPITÁN",
-      "dueAt": "2026-10-07T09:20:00.000Z",
-      "bufferPostId": "6ac60d4ad8c9f8421f2ea84e",
-      "createdAt": "2026-10-07T09:13:46.432Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107762863947276632",
-      "sentAt": "2026-10-07T09:20:02.123Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMjcxMjAwMDAsIkVMIEhPTUJSRSBRVUUgQVNJU1RJw5MgRUwgUFJJTUVSIEdPTCBERSBNRVNTSSBDT04gQVJHRU5USU5BIEZVRSBBTCBNT05VTUVOVEFMIFBBUkEgREVTUEVESVJMTyJd": {
-      "account": "main",
-      "title": "EL HOMBRE QUE ASISTIÓ EL PRIMER GOL DE MESSI CON ARGENTINA FUE AL MONUMENTAL PARA DESPEDIRLO",
-      "dueAt": "2026-10-07T09:15:00.000Z",
-      "bufferPostId": "6ac60d49e9ee972c35d3278f",
-      "createdAt": "2026-10-07T09:13:45.937Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107761614946508962",
-      "sentAt": "2026-10-07T09:15:04.227Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMjY3NjAwMDAsIlBBUFUgR8OTTUVaIE5PIEZVRSBBTCBNT05VTUVOVEFMIFkgQ09NRU5Uw5MgTEEgREVTUEVESURBIERFIE1FU1NJIFBBUkEgTEEgVFYgREUgS1VXQUlUIl0": {
-      "account": "main",
-      "title": "PAPU GÓMEZ NO FUE AL MONUMENTAL Y COMENTÓ LA DESPEDIDA DE MESSI PARA LA TV DE KUWAIT",
-      "dueAt": "2026-10-07T04:45:00.000Z",
-      "bufferPostId": "6ac5c27bb6dcff802a0785a7",
-      "createdAt": "2026-10-07T03:54:35.644Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107693662482182152",
-      "sentAt": "2026-10-07T04:45:03.260Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMjY0NjAwMDAsIkFOVE9ORUxBIFkgQ0VMSUEgVklWSUVST04gREVTREUgRUwgUEFMQ08gTEEgT1ZBQ0nDk04gQSBNRVNTSSBFTiBFTCBNT05VTUVOVEFMIl0": {
-      "account": "main",
-      "title": "ANTONELA Y CELIA VIVIERON DESDE EL PALCO LA OVACIÓN A MESSI EN EL MONUMENTAL",
-      "dueAt": "2026-10-07T04:40:00.000Z",
-      "bufferPostId": "6ac5c27bc22c37a573b6034a",
-      "createdAt": "2026-10-07T03:54:35.378Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107692403263959396",
-      "sentAt": "2026-10-07T04:40:02.946Z"
     }
   },
   "nextAt": {
