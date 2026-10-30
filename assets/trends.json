@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-30T16:41:47.116Z",
+  "updatedAt": "2026-10-30T21:03:24.490Z",
   "trends": [
     {
-      "query": "superclasico",
-      "startedAt": "2026-10-30T16:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "taylor fritz",
-      "startedAt": "2026-10-30T16:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "atp viena",
-      "startedAt": "2026-10-30T16:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tommy paul",
-      "startedAt": "2026-10-30T15:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "accidente de tránsito",
-      "startedAt": "2026-10-30T15:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "assassin's creed",
-      "startedAt": "2026-10-30T14:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "carlos alcaraz",
-      "startedAt": "2026-10-30T14:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "glaciar",
-      "startedAt": "2026-10-30T14:20:00.000Z",
+      "query": "emiliano martínez",
+      "startedAt": "2026-10-30T20:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "huerta",
-      "startedAt": "2026-10-30T14:10:00.000Z",
-      "volume": 500
+      "query": "daniel osvaldo",
+      "startedAt": "2026-10-30T20:40:00.000Z",
+      "volume": 200
     },
     {
-      "query": "intel",
-      "startedAt": "2026-10-30T13:50:00.000Z",
+      "query": "inflación",
+      "startedAt": "2026-10-30T20:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "radar",
+      "startedAt": "2026-10-30T20:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "polonia",
+      "startedAt": "2026-10-30T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "lockheed martin f-16 fighting falcon",
+      "startedAt": "2026-10-30T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "clube atlético mineiro",
+      "startedAt": "2026-10-30T20:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "starlink",
+      "startedAt": "2026-10-30T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "sheffield united - wrexham",
+      "startedAt": "2026-10-30T20:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "benjamín vicuña",
+      "startedAt": "2026-10-30T20:20:00.000Z",
       "volume": 200
     }
   ]
