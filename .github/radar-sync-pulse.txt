@@ -1,7 +1,9 @@
-RADAR 1 — RanaSports Noticias
-Fecha y hora ARG: 2026-10-30 19:07
-Altas verificadas: 8
-Filas: 4295-4302
-Última noticia: EL CUADRO QUE MESSI ELIGIÓ CAMBIÓ LA VIDA DE UNA PINTORA CORDOBESA
-Estado: filas 4295-4302 escritas y releídas en Sheets; 8 imágenes directas verificadas; R=FALSE; R=TRUE intactos.
-Ejecución: RADAR1-20261030-1907-8-ALTAS-4295-4302
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha y hora ARG: 2026-10-30 20:13:48 -03:00
+Altas verificadas: 0
+Filas: ninguna
+Candidatas examinadas: 4 (FP2 Mexico, incidente Lawson-Verstappen, previa Sarmiento-Rosario Central, reiteracion Leclerc FP1)
+Descartadas por duplicacion del hecho: 2
+Sin alta por verificacion insuficiente/foto directa no comprobada: 2
+Estado: 0 altas; noticias existentes intactas; R=TRUE intocable; no se editaron workflows ni CSV.
+Ejecucion: RADAR5-20261030-201348-0-ALTAS
