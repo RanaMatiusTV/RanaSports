@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Fecha y hora ARG: 2026-10-30 09:11:46
-Altas verificadas: 6
-Filas: Noticias!4257:4262
-Última noticia: MANU GINÓBILI CONTÓ QUE SU ROL EN LOS SPURS ES “MEDIO PART-TIME”
-Estado: seis altas escritas y releídas; H verificadas; R=FALSE en las nuevas filas
-Ejecución: RADAR1-20261030-0900-SEIS-ALTAS
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha y hora ARG: 2026-10-30 10:10:00
+Altas verificadas: 3
+Filas: Noticias!4263:4265
+Última noticia: SARMIENTO JUGARÁ SU PARTIDO 400 EN PRIMERA DIVISIÓN ANTE ROSARIO CENTRAL
+Estado: tres altas escritas y releídas; fotografías directas comprobadas; A=SI, O=VERIFICADA, R=FALSE
+Ejecución: RADAR5-20261030-1010-4263-4265
