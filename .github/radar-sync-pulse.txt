@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Fecha y hora ARG: 2026-10-30 00:27
-Altas verificadas: 6
-Filas: 4243-4248
-Última noticia: ROQUE ALFARO SUPERÓ DOS CÁNCERES Y AGRADECIÓ LA BECA VITALICIA DE RIVER
-Estado: Google Sheets filas 4243-4248 releídas y verificadas; pulso de sincronización emitido
-Ejecución: RADAR1-20261030-0027-4243-4248
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha y hora ARG: 2026-10-30 06:10
+Altas verificadas: 2
+Filas: 4249, 4250
+Noticias: PODOROSKA GANÓ 6-1 Y 6-1 Y AVANZÓ A CUARTOS EN QUERÉTARO | COLAPINTO REVELÓ QUE CHECO PÉREZ ES SU ÚNICO AMIGO EN LA FÓRMULA 1
+Estado: Google Sheets filas 4249-4250 releídas y verificadas; pulso de sincronización solicitado
+Ejecución: RADAR5-20261030-0610-4249-4250
