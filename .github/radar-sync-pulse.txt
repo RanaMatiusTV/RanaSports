@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Fecha y hora ARG: 2026-10-30 14:10
-Altas verificadas: 2
-Filas: Noticias!4280:4281
-Noticias: NAKIS ADVIERTE QUE LA DEUDA DE INDEPENDIENTE PODRÍA LLEGAR A US$43 MILLONES | LA AFA CONFIRMÓ LA BOMBONERA Y EL KEMPES PARA LOS AMISTOSOS DE NOVIEMBRE
-Estado: dos altas escritas y releídas; fotografías directas verificadas visualmente; R=FALSE; control antiduplicados por hecho y URL realizado
-Ejecución: RADAR5-20261030-1410-DOS-ALTAS-4280-4281
+RADAR 1 — RanaSports Noticias
+Fecha y hora ARG: 2026-10-30 15:02
+Altas verificadas: 6
+Filas: Noticias!4282:4287
+Última noticia: NEWMAN Y ALUMNI ABREN LAS SEMIFINALES DEL TOP 14 DE LA URBA
+Estado: seis altas escritas y releídas; H fotográficas directas verificadas; R=FALSE; control antiduplicados por hecho realizado
+Ejecución: RADAR1-20261030-1502-SEIS-ALTAS-4282-4287
