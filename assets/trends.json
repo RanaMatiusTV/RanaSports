@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-30T09:58:45.398Z",
+  "updatedAt": "2026-10-30T16:41:47.116Z",
   "trends": [
     {
-      "query": "weather",
-      "startedAt": "2026-10-30T09:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "windy",
-      "startedAt": "2026-10-30T09:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "tiempo de hoy",
-      "startedAt": "2026-10-30T08:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "smn",
-      "startedAt": "2026-10-30T08:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "temperatura",
-      "startedAt": "2026-10-30T08:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "clima hoy",
-      "startedAt": "2026-10-30T08:00:00.000Z",
-      "volume": 50000
-    },
-    {
-      "query": "clima la plata",
-      "startedAt": "2026-10-30T08:00:00.000Z",
+      "query": "superclasico",
+      "startedAt": "2026-10-30T16:20:00.000Z",
       "volume": 2000
     },
     {
-      "query": "clima de hoy",
-      "startedAt": "2026-10-30T08:00:00.000Z",
-      "volume": 1000
+      "query": "taylor fritz",
+      "startedAt": "2026-10-30T16:10:00.000Z",
+      "volume": 100
     },
     {
-      "query": "el clima",
-      "startedAt": "2026-10-30T08:00:00.000Z",
+      "query": "atp viena",
+      "startedAt": "2026-10-30T16:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "pronostico",
-      "startedAt": "2026-10-30T07:50:00.000Z",
-      "volume": 5000
+      "query": "tommy paul",
+      "startedAt": "2026-10-30T15:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "accidente de tránsito",
+      "startedAt": "2026-10-30T15:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "assassin's creed",
+      "startedAt": "2026-10-30T14:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "carlos alcaraz",
+      "startedAt": "2026-10-30T14:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "glaciar",
+      "startedAt": "2026-10-30T14:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "huerta",
+      "startedAt": "2026-10-30T14:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "intel",
+      "startedAt": "2026-10-30T13:50:00.000Z",
+      "volume": 200
     }
   ]
 }
