@@ -1,7 +1,7 @@
 RADAR 1 — RanaSports Noticias
-Fecha y hora ARG: 2026-10-29 23:04
+Fecha y hora ARG: 2026-10-30 00:27
 Altas verificadas: 6
-Filas: 4237-4242
-Última noticia: MAIDANA RESPALDÓ A PONZIO Y PIDIÓ ACTITUD PARA EL SUPERCLÁSICO
-Estado: Google Sheets filas 4237-4242 releídas y verificadas; pulso de sincronización emitido
-Ejecución: RADAR1-20261029-2304-4237-4242
+Filas: 4243-4248
+Última noticia: ROQUE ALFARO SUPERÓ DOS CÁNCERES Y AGRADECIÓ LA BECA VITALICIA DE RIVER
+Estado: Google Sheets filas 4243-4248 releídas y verificadas; pulso de sincronización emitido
+Ejecución: RADAR1-20261030-0027-4243-4248
