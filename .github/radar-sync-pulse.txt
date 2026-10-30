@@ -1,7 +1,10 @@
-RADAR 1 — RanaSports Noticias
-Fecha y hora ARG: 2026-10-30 07:00
-Altas verificadas: 6
-Filas: 4251-4256
-Última noticia: EL SUPERCLÁSICO TENDRÁ TRES ANILLOS DE CONTROL Y MÁS DE MIL POLICÍAS
-Estado: Google Sheets filas 4251-4256 releídas y verificadas; pulso de sincronización solicitado
-Ejecución: RADAR1-20261030-0700-4251-4256
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha y hora ARG: 2026-10-30 08:10
+Altas verificadas: 0
+Filas: ninguna
+Candidatas evaluadas: 7
+Descartadas por hecho ya publicado: 5
+Descartadas por imagen directa no comprobada: 1
+Descartadas por falta de novedad: 1
+Estado: corrida completada sin altas; control de duplicados sobre Noticias hasta fila 4256; solicitar sincronizacion aun con cero altas
+Ejecucion: RADAR5-20261030-0810-CERO-ALONSO
