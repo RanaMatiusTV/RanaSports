@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Fecha y hora ARG: 2026-10-30 15:02
-Altas verificadas: 6
-Filas: Noticias!4282:4287
-Última noticia: NEWMAN Y ALUMNI ABREN LAS SEMIFINALES DEL TOP 14 DE LA URBA
-Estado: seis altas escritas y releídas; H fotográficas directas verificadas; R=FALSE; control antiduplicados por hecho realizado
-Ejecución: RADAR1-20261030-1502-SEIS-ALTAS-4282-4287
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha y hora ARG: 2026-10-30 16:10
+Altas verificadas: 0
+Filas: ninguna
+Estado: control de novedades y antiduplicados realizado; candidatas cubiertas previamente o sin novedad sustancial; FP1 México en curso sin resultado oficial confirmado al corte. Sin modificaciones en Noticias.
+Última fila observada en Sheets: 4287 (15:02)
+Ejecución: RADAR5-20261030-1610-CERO-ALTAS-REVISION-4287
