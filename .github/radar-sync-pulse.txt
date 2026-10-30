@@ -1,6 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Fecha y hora ARG: 2026-10-29 22:10
-Altas verificadas: 2
-Filas: 4235, 4236
-Estado: Google Sheets Noticias filas 4235 y 4236 releídas y verificadas; pulso de sincronización solicitado
-Ejecución: RADAR5-20261029-2210-4235-4236
+RADAR 1 — RanaSports Noticias
+Fecha y hora ARG: 2026-10-29 23:04
+Altas verificadas: 6
+Filas: 4237-4242
+Última noticia: MAIDANA RESPALDÓ A PONZIO Y PIDIÓ ACTITUD PARA EL SUPERCLÁSICO
+Estado: Google Sheets filas 4237-4242 releídas y verificadas; pulso de sincronización emitido
+Ejecución: RADAR1-20261029-2304-4237-4242
