@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-cree-que-la-altura-de-mexico-puede-favorecer-al-alpine/": {
+      "account": "f1",
+      "title": "COLAPINTO CREE QUE LA ALTURA DE MÉXICO PUEDE FAVORECER AL ALPINE",
+      "dueAt": "2026-10-30T15:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae4a59cd9c1092d2629abcc",
+      "createdAt": "2026-10-30T14:11:40.470Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-bromeo-con-pedir-por-radio-el-resultado-del-superclasico-en-mexico/": {
+      "account": "f1",
+      "title": "COLAPINTO BROMEÓ CON PEDIR POR RADIO EL RESULTADO DEL SUPERCLÁSICO EN MÉXICO",
+      "dueAt": "2026-10-30T14:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae4a59cdf85d8ab2f3af564",
+      "createdAt": "2026-10-30T14:11:40.128Z"
+    },
+    "https://ranasports.com.ar/boca/boca-aprobo-un-balance-con-mas-de-15-500-millones-de-superavit/": {
+      "account": "sports",
+      "title": "BOCA APROBÓ UN BALANCE CON MÁS DE $15.500 MILLONES DE SUPERÁVIT",
+      "dueAt": "2026-10-30T15:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae4a59be266b27191ecbab2",
+      "createdAt": "2026-10-30T14:11:39.764Z"
+    },
+    "https://ranasports.com.ar/futbol/barcelona-puso-a-lisandro-martinez-entre-sus-objetivos-para-2027/": {
+      "account": "sports",
+      "title": "BARCELONA PUSO A LISANDRO MARTÍNEZ ENTRE SUS OBJETIVOS PARA 2027",
+      "dueAt": "2026-10-30T14:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae4a59be266b27191ecba5c",
+      "createdAt": "2026-10-30T14:11:39.464Z"
+    },
+    "https://ranasports.com.ar/boca/en-boca-tomaron-como-una-falta-de-respeto-la-ausencia-de-river-en-la-conferencia/": {
+      "account": "sports",
+      "title": "EN BOCA TOMARON COMO UNA FALTA DE RESPETO LA AUSENCIA DE RIVER EN LA CONFERENCIA",
+      "dueAt": "2026-10-30T14:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae4a59ad9c1092d2629ab12",
+      "createdAt": "2026-10-30T14:11:39.103Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-cedera-su-alpine-a-gabriele-mini-en-la-fp1-del-gp-de-mexico/": {
       "account": "f1",
       "title": "COLAPINTO CEDERÁ SU ALPINE A GABRIELE MINI EN LA FP1 DEL GP DE MÉXICO",
@@ -5159,49 +5199,6 @@
       "createdAt": "2026-10-07T03:54:35.378Z",
       "externalLink": "https://x.com/768913759301754880/status/2107692403263959396",
       "sentAt": "2026-10-07T04:40:02.946Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMjU4NjAwMDAsIkFSR0VOVElOQSBDT05GSVJNw5MgRUwgRVFVSVBPIFBBUkEgRUwgw5pMVElNTyBQQVJUSURPIERFIE1FU1NJOiBPVEFNRU5ESSBUQU1CScOJTiBTRSBERVNQSURFIl0": {
-      "account": "main",
-      "title": "ARGENTINA CONFIRMÓ EL EQUIPO PARA EL ÚLTIMO PARTIDO DE MESSI: OTAMENDI TAMBIÉN SE DESPIDE",
-      "dueAt": "2026-10-07T04:35:00.000Z",
-      "bufferPostId": "6ac5c27a6d07ab8da7596a30",
-      "createdAt": "2026-10-07T03:54:34.902Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107691139788570796",
-      "sentAt": "2026-10-07T04:35:01.630Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMjUwMjAwMDAsIk1FU1NJIFJPTVBJw5MgRU4gTExBTlRPIEVOIEVMIE1JQ1JPIFJVTUJPIEEgU1Ugw5pMVElNTyBQQVJUSURPIENPTiBMQSBTRUxFQ0NJw5NOIl0": {
-      "account": "main",
-      "title": "MESSI ROMPIÓ EN LLANTO EN EL MICRO RUMBO A SU ÚLTIMO PARTIDO CON LA SELECCIÓN",
-      "dueAt": "2026-10-07T04:30:00.000Z",
-      "bufferPostId": "6ac5c27a203d24e39e0ad30c",
-      "createdAt": "2026-10-07T03:54:34.323Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107689939949240664",
-      "sentAt": "2026-10-07T04:30:15.600Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTgzNjAwMDAsIlVOIE1JQ1JPIERFU0NBUE9UQUJMRSBBUEFSRUNJw5MgRU4gRVpFSVpBIFBBUkEgTEEgREVTUEVESURBIERFIE1FU1NJIl0": {
-      "account": "main",
-      "title": "UN MICRO DESCAPOTABLE APARECIÓ EN EZEIZA PARA LA DESPEDIDA DE MESSI",
-      "dueAt": "2026-10-07T04:25:00.000Z",
-      "bufferPostId": "6ac5c279c22c37a573b6031a",
-      "createdAt": "2026-10-07T03:54:33.715Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107688622988173482",
-      "sentAt": "2026-10-07T04:25:01.562Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTc1ODAwMDAsIkVMIFNVQlRFIERFU1BJREnDkyBBIE1FU1NJIENPTiBDQU1JU0VUQVMsIFRST0ZFT1MgWSBVTkEgQ0FCUkEgRU4gVU4gRU1PVElWTyBWSURFTyJd": {
-      "account": "main",
-      "title": "EL SUBTE DESPIDIÓ A MESSI CON CAMISETAS, TROFEOS Y UNA CABRA EN UN EMOTIVO VIDEO",
-      "dueAt": "2026-10-07T04:20:00.000Z",
-      "bufferPostId": "6ac5c27836c2a7788dcc51e4",
-      "createdAt": "2026-10-07T03:54:32.557Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMTcxMDAwMDAsIk5JQ08gUEFaIFkgTUFTVEFOVFVPTk8gQVBBUkVDRU4gQ09NTyBDQU5ESURBVE9TIEEgSEVSRURBUiBMQSAxMCBERSBNRVNTSSJd": {
-      "account": "main",
-      "title": "NICO PAZ Y MASTANTUONO APARECEN COMO CANDIDATOS A HEREDAR LA 10 DE MESSI",
-      "dueAt": "2026-10-07T04:15:00.000Z",
-      "bufferPostId": "6ac5c2786d07ab8da75969ac",
-      "createdAt": "2026-10-07T03:54:32.098Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107686111468191976",
-      "sentAt": "2026-10-07T04:15:02.783Z"
     }
   },
   "nextAt": {
