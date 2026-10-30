@@ -1,7 +1,7 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Fecha y hora ARG: 2026-10-30 06:10
-Altas verificadas: 2
-Filas: 4249, 4250
-Noticias: PODOROSKA GANÓ 6-1 Y 6-1 Y AVANZÓ A CUARTOS EN QUERÉTARO | COLAPINTO REVELÓ QUE CHECO PÉREZ ES SU ÚNICO AMIGO EN LA FÓRMULA 1
-Estado: Google Sheets filas 4249-4250 releídas y verificadas; pulso de sincronización solicitado
-Ejecución: RADAR5-20261030-0610-4249-4250
+RADAR 1 — RanaSports Noticias
+Fecha y hora ARG: 2026-10-30 07:00
+Altas verificadas: 6
+Filas: 4251-4256
+Última noticia: EL SUPERCLÁSICO TENDRÁ TRES ANILLOS DE CONTROL Y MÁS DE MIL POLICÍAS
+Estado: Google Sheets filas 4251-4256 releídas y verificadas; pulso de sincronización solicitado
+Ejecución: RADAR1-20261030-0700-4251-4256
