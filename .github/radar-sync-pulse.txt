@@ -1,9 +1,10 @@
 RADAR 5 — Actualidad Inmediata
 Fecha ARG: 31/10/2026
-Hora ARG: 18:10
-Cantidad altas verificadas: 1
-Filas: 4318
+Hora ARG: 20:10
+Cantidad altas verificadas: 3
+Filas: 4319, 4320, 4321
 Estado: SHEETS_VERIFICADO; PULSO_SOLICITADO
-Control antiduplicados: revisadas filas recientes 4270-4317 y CSV; FP3 es resultado nuevo distinto de FP1/FP2; imagen de archivo validada, no repetida en filas 3950-4320.
-Candidatas: FP3 Colapinto/Norris (publicada); clasificación México (en desarrollo); previa Independiente-Defensa (sin novedad sustancial); Dakar apertura (ya cubierta); Canelo-Mbilli (previa ya cubierta).
-Ejecución: 2026-10-31T18:13:06-03:00
+Control antiduplicados: revisadas filas recientes de RADAR 1, RADAR 5 y otras noticias (3980-4321), y assets/news-live.csv. Clasificación México es nueva respecto de FP3; victoria de Canelo es resultado posterior a la previa; final del ascenso confirmada después de los resultados del sábado.
+Candidatas: clasificación Colapinto/Hamilton (publicada); Canelo-Mbilli resultado (publicada); Godoy Cruz-Tristán Suárez (publicada); Alonso posible ausencia en México (no confirmada); Independiente-Defensa (sin novedad sustancial); previas Superclásico y Dakar (ya cubiertas).
+Fotos directas comprobadas: TyC Sports/Colapinto archivo 24/10; N+/AFP Canelo-Mbilli del 31/10; MDZ/Maru Mena festejo Godoy Cruz del 31/10.
+Ejecución: 2026-10-31T20:10:00-03:00
