@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/polideportivo/arrancan-los-juegos-olimpicos-de-la-juventud-dakar-2026-con-42-argentinos/": {
+      "account": "sports",
+      "title": "ARRANCAN LOS JUEGOS OLÍMPICOS DE LA JUVENTUD DAKAR 2026 CON 42 ARGENTINOS",
+      "dueAt": "2026-10-31T13:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae5e09ca114574349a56f05",
+      "createdAt": "2026-10-31T12:35:40.944Z"
+    },
+    "https://ranasports.com.ar/f1/verstappen-y-lawson-recibieron-una-sancion-de-un-puesto-en-la-grilla-de-mexico/": {
+      "account": "f1",
+      "title": "VERSTAPPEN Y LAWSON RECIBIERON UNA SANCIÓN DE UN PUESTO EN LA GRILLA DE MÉXICO",
+      "dueAt": "2026-10-31T12:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae5e09ceaa24d6f9a74e799",
+      "createdAt": "2026-10-31T12:35:40.278Z"
+    },
+    "https://ranasports.com.ar/futbol/rosario-central-remonto-2-1-a-sarmiento-con-un-doblete-de-avila-y-lidera-la-anual/": {
+      "account": "sports",
+      "title": "ROSARIO CENTRAL REMONTÓ 2-1 A SARMIENTO CON UN DOBLETE DE ÁVILA Y LIDERA LA ANUAL",
+      "dueAt": "2026-10-31T12:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae5e09bceb491e585f7f7a3",
+      "createdAt": "2026-10-31T12:35:39.520Z"
+    },
+    "https://ranasports.com.ar/futbol/racing-gano-2-1-y-aldosivi-descendio-a-la-primera-nacional/": {
+      "account": "sports",
+      "title": "RACING GANÓ 2-1 Y ALDOSIVI DESCENDIÓ A LA PRIMERA NACIONAL",
+      "dueAt": "2026-10-31T12:35:36.234Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ae5e098406ab8a018ba303f",
+      "createdAt": "2026-10-31T12:35:38.336Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-termino-16-en-la-fp2-de-mexico-y-leclerc-volvio-a-liderar/": {
       "account": "f1",
       "title": "COLAPINTO TERMINÓ 16° EN LA FP2 DE MÉXICO Y LECLERC VOLVIÓ A LIDERAR",
@@ -5167,40 +5199,6 @@
       "createdAt": "2026-10-07T17:33:41.519Z",
       "externalLink": "https://x.com/768913759301754880/status/2107891208420810863",
       "sentAt": "2026-10-07T17:50:01.760Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzODE3MjAwMDAsIkxBIFNFTEVDQ0nDk04gWUEgTUlSQSBBIE5PVklFTUJSRTogRE9TIEFNSVNUT1NPUyBZIEVMIElOSUNJTyBERSBMQSBFUkEgU0lOIE1FU1NJIl0": {
-      "account": "main",
-      "title": "LA SELECCIÓN YA MIRA A NOVIEMBRE: DOS AMISTOSOS Y EL INICIO DE LA ERA SIN MESSI",
-      "dueAt": "2026-10-07T17:45:00.000Z",
-      "bufferPostId": "6ac6827420b8d89a06780e83",
-      "createdAt": "2026-10-07T17:33:40.882Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107889959638032407",
-      "sentAt": "2026-10-07T17:45:03.984Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzODE2MDAwMDAsIkxFT05FTCBGTE9SRVMgQ0VSUsOTIFVOQSBTRU1BTkEgU0_DkUFEQSBKVU5UTyBBIE1FU1NJIFkgU0UgR0FOw5MgVU4gTFVHQVIgRU4gRUwgUkVDQU1CSU8iXQ": {
-      "account": "main",
-      "title": "LEONEL FLORES CERRÓ UNA SEMANA SOÑADA JUNTO A MESSI Y SE GANÓ UN LUGAR EN EL RECAMBIO",
-      "dueAt": "2026-10-07T17:40:00.000Z",
-      "bufferPostId": "6ac68274e59f0d0f616715a3",
-      "createdAt": "2026-10-07T17:33:40.402Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107888694065508706",
-      "sentAt": "2026-10-07T17:40:02.444Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzNzQ0MDAwMDAsIkNISVFVSSBUQVBJQSBERVNQSURJw5MgQSBNRVNTSSBDT04gVU5BIENBUlRBOiDigJxNSSBIw4lST0UgRkFWT1JJVE_igJ0iXQ": {
-      "account": "main",
-      "title": "CHIQUI TAPIA DESPIDIÓ A MESSI CON UNA CARTA: “MI HÉROE FAVORITO”",
-      "dueAt": "2026-10-07T17:35:00.000Z",
-      "bufferPostId": "6ac68273ea45b37c36bd02a0",
-      "createdAt": "2026-10-07T17:33:39.803Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107887435229065233",
-      "sentAt": "2026-10-07T17:35:02.138Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzkwNjAwMDAsIkJBUkNFTE9OQSBERVNQSURJw5MgQSBNRVNTSSBDT04gVU4gTUVOU0FKRSBUUkFTIFNVIMOaTFRJTU8gUEFSVElETyBDT04gQVJHRU5USU5BIl0": {
-      "account": "main",
-      "title": "BARCELONA DESPIDIÓ A MESSI CON UN MENSAJE TRAS SU ÚLTIMO PARTIDO CON ARGENTINA",
-      "dueAt": "2026-10-07T11:00:00.000Z",
-      "bufferPostId": "6ac62350dc114118aebbfcc4",
-      "createdAt": "2026-10-07T10:47:44.423Z"
     }
   },
   "nextAt": {
