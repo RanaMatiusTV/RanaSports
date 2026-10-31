@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-30T21:03:24.490Z",
+  "updatedAt": "2026-10-31T00:46:35.949Z",
   "trends": [
     {
-      "query": "emiliano martínez",
-      "startedAt": "2026-10-30T20:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "daniel osvaldo",
-      "startedAt": "2026-10-30T20:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "inflación",
-      "startedAt": "2026-10-30T20:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "radar",
-      "startedAt": "2026-10-30T20:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "polonia",
-      "startedAt": "2026-10-30T20:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lockheed martin f-16 fighting falcon",
-      "startedAt": "2026-10-30T20:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "clube atlético mineiro",
-      "startedAt": "2026-10-30T20:30:00.000Z",
+      "query": "timberwolves - clippers",
+      "startedAt": "2026-10-31T00:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "starlink",
-      "startedAt": "2026-10-30T20:30:00.000Z",
+      "query": "dalma maradona",
+      "startedAt": "2026-10-31T00:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "sheffield united - wrexham",
-      "startedAt": "2026-10-30T20:30:00.000Z",
+      "query": "clima santiago del estero",
+      "startedAt": "2026-10-31T00:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "benjamín vicuña",
-      "startedAt": "2026-10-30T20:20:00.000Z",
+      "query": "exportación",
+      "startedAt": "2026-10-31T00:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "coppola",
+      "startedAt": "2026-10-31T00:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "gelp",
+      "startedAt": "2026-10-30T23:50:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "wizards - hornets",
+      "startedAt": "2026-10-30T23:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "haití",
+      "startedAt": "2026-10-30T23:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "racing - aldosivi",
+      "startedAt": "2026-10-30T23:20:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "sarmiento - rosario central",
+      "startedAt": "2026-10-30T23:20:00.000Z",
+      "volume": 20000
     }
   ]
 }
