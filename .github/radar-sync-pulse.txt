@@ -1,15 +1,14 @@
 RADAR 5 — RanaSports Actualidad Inmediata
-Fecha y hora ARG: 2026-10-31 10:10:00 -03:00
-Ejecución: RADAR5-20261031-101000-2-ALTAS-4314-4315
-Altas verificadas: 2
-Filas: Noticias!4314, Noticias!4315
-Noticias:
-4314 — CONMEBOL CAMBIÓ EL HORARIO DE LA FINAL ENTRE BOCA Y ATLÉTICO MINEIRO: SERÁ A LAS 20
-4315 — ARANDA RECIBIÓ LOS BOTINES DE MESSI Y SUEÑA CON ESTRENARLOS EN LA FINAL
-Candidatas evaluadas: horario final Boca-Atlético Mineiro; botines de Messi recibidos por Tomás Aranda; Colapinto balance FP2; Boca-River formación; Rosario Central-Sarmiento tabla anual; sanción Verstappen-Lawson; Canelo-Mbilli previa; Boca-Benfica Messi Cup; Riestra permanencia; Sanguinetti reacción al descenso.
-Descartadas por duplicación del hecho o cobertura previa: Colapinto balance FP2 (fila 4303), formación Boca-River (filas 4252 y 4299), Rosario Central-Sarmiento y tabla anual (fila 4312), sanción Verstappen-Lawson (fila 4310), Canelo-Mbilli previa (fila 4270), Riestra permanencia consecuencia de Aldosivi descendido (fila 4311).
-Sin alta por menor prioridad o novedad sustancial insuficiente: declaraciones Sanguinetti, Boca-Benfica Messi Cup.
-Control antiduplicados: consulta de Noticias recientes hasta fila 4313, búsqueda por hechos/URLs y comprobación de assets/news-live.csv; relectura inmediata antes de cada escritura.
-Fotografías: 4314 foto directa 16:9 del estadio Metropolitano, Deportes RCN, septiembre 2026; 4315 foto directa 16:9 de Messi y Aranda, TyC Sports, archivo; ambas abiertas y comprobadas.
-Integridad: A=SI, B=31/10/2026, C=10:10, O=VERIFICADA, R=FALSE, ambas filas escritas y releídas; ninguna noticia anterior alterada.
-Estado: 2 altas verificadas en Google Sheets. Pulso GitHub emitido; sincronización CSV y visibilidad pública pendientes de comprobación posterior.
+Fecha y hora ARG: 2026-10-31 12:10:00 -03:00
+Ejecución: RADAR5-20261031-121000-1-ALTA-4316
+Altas verificadas: 1
+Filas: Noticias!4316
+Noticia: 4316 — HAMILTON PERDIÓ POTENCIA EN MÉXICO Y FERRARI INVESTIGA LA FALLA ANTES DE CLASIFICAR
+Candidatas evaluadas: falla de potencia de Hamilton en FP2; previa de Defensa y Justicia-Independiente; previa Boca-River; horarios de Colapinto en FP3 y clasificación; semifinal de Julia Riera; agenda de Dakar 2026; tiempos FP2 Leclerc-Colapinto; sanción Verstappen-Lawson.
+Descartadas por duplicación o cobertura previa: horarios de Colapinto, previa Boca-River, agenda inaugural Dakar, tiempos FP2 y sanción Verstappen-Lawson.
+Sin alta por falta de novedad confirmada: alineaciones probables Independiente (no confirmadas al momento del control); semifinal Riera-Grabher (aún no disputada).
+Control antiduplicados: lectura Noticias!A4220:J4330 y A4311:R4322, búsqueda en filas 3650-4330 por Hamilton y en H1:H4315 por fotografía; relectura inmediata de A4314:R4318 antes de escribir.
+Fuente: Fórmula 1, 31/10/2026, declaraciones de Hamilton y Vasseur tras FP2 México.
+Fotografía: Wikimedia Commons, archivo Ferrari SF-26 de Hamilton en China 13/03/2026, 2921x1643, autor Liauzh, CC BY 4.0, imagen directa abierta y comprobada; no repetida en H1:H4315.
+Integridad: A=SI, B=31/10/2026, C=12:10, O=VERIFICADA, R=FALSE; fila 4316 escrita y releída; ninguna noticia anterior modificada.
+Estado: 1 alta verificada en Google Sheets. Pulso GitHub emitido; comprobación posterior del CSV y de visibilidad pública por separado.
