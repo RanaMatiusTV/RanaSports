@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-termino-16-en-la-fp2-de-mexico-y-leclerc-volvio-a-liderar/": {
+      "account": "f1",
+      "title": "COLAPINTO TERMINÓ 16° EN LA FP2 DE MÉXICO Y LECLERC VOLVIÓ A LIDERAR",
+      "dueAt": "2026-10-31T06:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae5806bb84259308bbd51fe",
+      "createdAt": "2026-10-31T05:45:15.778Z"
+    },
+    "https://ranasports.com.ar/f1/verstappen-y-lawson-chocaron-en-la-fp2-de-mexico-y-fueron-citados-por-los-comisarios/": {
+      "account": "f1",
+      "title": "VERSTAPPEN Y LAWSON CHOCARON EN LA FP2 DE MÉXICO Y FUERON CITADOS POR LOS COMISARIOS",
+      "dueAt": "2026-10-31T05:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae5806bb84259308bbd51d4",
+      "createdAt": "2026-10-31T05:45:15.190Z"
+    },
+    "https://ranasports.com.ar/futbol/dibu-martinez-confirmo-que-estara-en-la-doble-fecha-fifa-de-noviembre/": {
+      "account": "sports",
+      "title": "DIBU MARTÍNEZ CONFIRMÓ QUE ESTARÁ EN LA DOBLE FECHA FIFA DE NOVIEMBRE",
+      "dueAt": "2026-10-31T06:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae5806aeaa24d6f9a59dc5e",
+      "createdAt": "2026-10-31T05:45:14.631Z"
+    },
+    "https://ranasports.com.ar/futbol/el-cuadro-que-messi-eligio-cambio-la-vida-de-una-pintora-cordobesa/": {
+      "account": "sports",
+      "title": "EL CUADRO QUE MESSI ELIGIÓ CAMBIÓ LA VIDA DE UNA PINTORA CORDOBESA",
+      "dueAt": "2026-10-31T06:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae5806ab84259308bbd5159",
+      "createdAt": "2026-10-31T05:45:14.170Z"
+    },
+    "https://ranasports.com.ar/futbol/dibu-revelo-que-le-colocaron-una-placa-y-cuatro-tornillos-en-la-mandibula/": {
+      "account": "sports",
+      "title": "DIBU REVELÓ QUE LE COLOCARON UNA PLACA Y CUATRO TORNILLOS EN LA MANDÍBULA",
+      "dueAt": "2026-10-31T05:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae58069a1145743498a74e1",
+      "createdAt": "2026-10-31T05:45:13.375Z"
+    },
+    "https://ranasports.com.ar/futbol/gimnasia-gano-en-rio-cuarto-y-se-subio-a-la-cima-de-la-zona-b/": {
+      "account": "sports",
+      "title": "GIMNASIA GANÓ EN RÍO CUARTO Y SE SUBIÓ A LA CIMA DE LA ZONA B",
+      "dueAt": "2026-10-31T05:45:10.055Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ae58065b84259308bbd50a2",
+      "createdAt": "2026-10-31T05:45:12.217Z"
+    },
     "https://ranasports.com.ar/f1/tsolov-freno-su-debut-en-f1-porque-dejo-de-sentir-la-pierna/": {
       "account": "f1",
       "title": "TSOLOV FRENÓ SU DEBUT EN F1 PORQUE DEJÓ DE SENTIR LA PIERNA",
@@ -5153,50 +5201,6 @@
       "dueAt": "2026-10-07T11:00:00.000Z",
       "bufferPostId": "6ac62350dc114118aebbfcc4",
       "createdAt": "2026-10-07T10:47:44.423Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzkwMDAwMDAsIkVMIFBBUlRJRE8gU0UgREVUVVZPIEVOIEVMIE1JTlVUTyAxMCBQQVJBIExBIEdSQU4gT1ZBQ0nDk04gQSBNRVNTSSJd": {
-      "account": "main",
-      "title": "EL PARTIDO SE DETUVO EN EL MINUTO 10 PARA LA GRAN OVACIÓN A MESSI",
-      "dueAt": "2026-10-07T10:55:00.000Z",
-      "bufferPostId": "6ac6234f2ff102be34bdb686",
-      "createdAt": "2026-10-07T10:47:43.981Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzg5NDAwMDAsIkRBTklFTCBPU1ZBTERPIFJFQVBBUkVDScOTIERFU0RFIFRFUkFQSUEgSU5URU5TSVZBIFBBUkEgREVTUEVESVIgQSBNRVNTSSJd": {
-      "account": "main",
-      "title": "DANIEL OSVALDO REAPARECIÓ DESDE TERAPIA INTENSIVA PARA DESPEDIR A MESSI",
-      "dueAt": "2026-10-07T10:50:00.000Z",
-      "bufferPostId": "6ac6234f2ff102be34bdb65c",
-      "createdAt": "2026-10-07T10:47:43.508Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107785510689132649",
-      "sentAt": "2026-10-07T10:50:01.450Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzg4ODAwMDAsIk9UQU1FTkRJIFNFIERFU1BJREnDkyBERSBMQSBTRUxFQ0NJw5NOIENPTiBVTiBHT0wgWSBVTkEgT1ZBQ0nDk04gRU4gRUwgTU9OVU1FTlRBTCJd": {
-      "account": "main",
-      "title": "OTAMENDI SE DESPIDIÓ DE LA SELECCIÓN CON UN GOL Y UNA OVACIÓN EN EL MONUMENTAL",
-      "dueAt": "2026-10-07T10:00:00.000Z",
-      "bufferPostId": "6ac60d52e72849271d023d20",
-      "createdAt": "2026-10-07T09:13:55.033Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzg4MjAwMDAsIkRFTCAxMCBBTCBGVVRVUk86IE5JQ08gUEFaIE1BUkPDkyBVTiBHT0xBWk8gVFJBUyBVTkEgQVNJU1RFTkNJQSBERSBNRVNTSSJd": {
-      "account": "main",
-      "title": "DEL 10 AL FUTURO: NICO PAZ MARCÓ UN GOLAZO TRAS UNA ASISTENCIA DE MESSI",
-      "dueAt": "2026-10-07T09:55:00.000Z",
-      "bufferPostId": "6ac60d5258829b4601cb1314",
-      "createdAt": "2026-10-07T09:13:54.713Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzg3NjAwMDAsIk1FU1NJIE1BUkPDkyBERSBQRU5BTCBTVSDDmkxUSU1PIEdPTCBDT04gTEEgU0VMRUNDScOTTiBBUkdFTlRJTkEiXQ": {
-      "account": "main",
-      "title": "MESSI MARCÓ DE PENAL SU ÚLTIMO GOL CON LA SELECCIÓN ARGENTINA",
-      "dueAt": "2026-10-07T09:50:00.000Z",
-      "bufferPostId": "6ac60d52ec8d0b69d56d9634",
-      "createdAt": "2026-10-07T09:13:54.344Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzg3MDAwMDAsIkFSR0VOVElOQSBHT0xFw5MgMy0wIEEgQkVOw41OIEVOIExBIMOaTFRJTUEgRlVOQ0nDk04gREUgTUVTU0kgQ09OIExBIFNFTEVDQ0nDk04iXQ": {
-      "account": "main",
-      "title": "ARGENTINA GOLEÓ 3-0 A BENÍN EN LA ÚLTIMA FUNCIÓN DE MESSI CON LA SELECCIÓN",
-      "dueAt": "2026-10-07T09:45:00.000Z",
-      "bufferPostId": "6ac60d51e72849271d023cf7",
-      "createdAt": "2026-10-07T09:13:53.998Z"
     }
   },
   "nextAt": {
