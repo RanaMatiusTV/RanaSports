@@ -1,8 +1,9 @@
 RADAR 5 — Actualidad Inmediata
 Fecha ARG: 31/10/2026
-Hora ARG: 16:10
+Hora ARG: 18:10
 Cantidad altas verificadas: 1
-Filas: 4317
+Filas: 4318
 Estado: SHEETS_VERIFICADO; PULSO_SOLICITADO
-Control antiduplicados: hecho Ocon/Hirakawa sin antecedente en filas 3800-4316
-Ejecución: 2026-10-31T16:10:00-03:00; SHA anterior 8295241033bccf67f3e38a4af701c0f51df90a1c
+Control antiduplicados: revisadas filas recientes 4270-4317 y CSV; FP3 es resultado nuevo distinto de FP1/FP2; imagen de archivo validada, no repetida en filas 3950-4320.
+Candidatas: FP3 Colapinto/Norris (publicada); clasificación México (en desarrollo); previa Independiente-Defensa (sin novedad sustancial); Dakar apertura (ya cubierta); Canelo-Mbilli (previa ya cubierta).
+Ejecución: 2026-10-31T18:13:06-03:00
