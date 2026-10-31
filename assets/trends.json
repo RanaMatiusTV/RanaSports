@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-31T00:46:35.949Z",
+  "updatedAt": "2026-10-31T06:20:48.270Z",
   "trends": [
     {
-      "query": "timberwolves - clippers",
-      "startedAt": "2026-10-31T00:30:00.000Z",
+      "query": "clima puerto madryn",
+      "startedAt": "2026-10-31T05:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "dalma maradona",
-      "startedAt": "2026-10-31T00:30:00.000Z",
+      "query": "warriors vs lakers",
+      "startedAt": "2026-10-31T04:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "clima santiago del estero",
-      "startedAt": "2026-10-31T00:30:00.000Z",
-      "volume": 100
+      "query": "warriors",
+      "startedAt": "2026-10-31T03:40:00.000Z",
+      "volume": 500
     },
     {
-      "query": "exportación",
-      "startedAt": "2026-10-31T00:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "coppola",
-      "startedAt": "2026-10-31T00:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "gelp",
-      "startedAt": "2026-10-30T23:50:00.000Z",
+      "query": "puebla - pumas",
+      "startedAt": "2026-10-31T03:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "wizards - hornets",
-      "startedAt": "2026-10-30T23:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "haití",
-      "startedAt": "2026-10-30T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "racing - aldosivi",
-      "startedAt": "2026-10-30T23:20:00.000Z",
+      "query": "noche de brujas",
+      "startedAt": "2026-10-31T03:00:00.000Z",
       "volume": 20000
     },
     {
-      "query": "sarmiento - rosario central",
-      "startedAt": "2026-10-30T23:20:00.000Z",
-      "volume": 20000
+      "query": "isack hadjar",
+      "startedAt": "2026-10-31T03:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "clima neuquen",
+      "startedAt": "2026-10-31T02:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "matias ale",
+      "startedAt": "2026-10-31T02:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "colision netflix",
+      "startedAt": "2026-10-31T02:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "tabla anual 2026",
+      "startedAt": "2026-10-31T02:20:00.000Z",
+      "volume": 500
     }
   ]
 }
