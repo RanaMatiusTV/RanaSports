@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-31T20:40:42.628Z",
+  "updatedAt": "2026-10-31T23:45:30.128Z",
   "trends": [
     {
-      "query": "pronostico cordoba",
-      "startedAt": "2026-10-31T20:20:00.000Z",
+      "query": "rosario",
+      "startedAt": "2026-10-31T23:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "aston villa",
-      "startedAt": "2026-10-31T20:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "clima cordoba",
-      "startedAt": "2026-10-31T20:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "colón - defensores de belgrano",
-      "startedAt": "2026-10-31T20:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "radar",
-      "startedAt": "2026-10-31T20:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "inter",
-      "startedAt": "2026-10-31T20:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "brian fariñas pérez",
-      "startedAt": "2026-10-31T20:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "clima san juan",
-      "startedAt": "2026-10-31T20:00:00.000Z",
+      "query": "ronaldo martínez",
+      "startedAt": "2026-10-31T23:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "posiciones de betis contra málaga cf",
-      "startedAt": "2026-10-31T19:50:00.000Z",
+      "query": "spurs - timberwolves",
+      "startedAt": "2026-10-31T23:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pachuca - tigres",
+      "startedAt": "2026-10-31T23:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "juventud antoniana",
+      "startedAt": "2026-10-31T23:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "la voz del interior",
+      "startedAt": "2026-10-31T23:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "sebastian",
+      "startedAt": "2026-10-31T23:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "stuart barlow",
+      "startedAt": "2026-10-31T23:00:00.000Z",
       "volume": 1000
     },
     {
-      "query": "qualy f1",
-      "startedAt": "2026-10-31T19:50:00.000Z",
-      "volume": 200
+      "query": "club atlético vélez sarsfield",
+      "startedAt": "2026-10-31T23:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "infopico",
+      "startedAt": "2026-10-31T22:40:00.000Z",
+      "volume": 100
     }
   ]
 }
