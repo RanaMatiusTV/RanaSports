@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-31T13:05:01.336Z",
+  "updatedAt": "2026-10-31T17:42:47.551Z",
   "trends": [
     {
-      "query": "el cuento del tío",
-      "startedAt": "2026-10-31T12:50:00.000Z",
+      "query": "godoy cruz - almirante brown",
+      "startedAt": "2026-10-31T17:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "chelsea vs manchester united",
-      "startedAt": "2026-10-31T12:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "nicolás otamendi",
-      "startedAt": "2026-10-31T12:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "levante - atlético madrid",
-      "startedAt": "2026-10-31T12:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "murió patrick stewart",
-      "startedAt": "2026-10-31T12:00:00.000Z",
+      "query": "roma",
+      "startedAt": "2026-10-31T17:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "chelsea - manchester united",
-      "startedAt": "2026-10-31T11:40:00.000Z",
-      "volume": 10000
-    },
-    {
-      "query": "challenger de guayaquil",
-      "startedAt": "2026-10-31T11:20:00.000Z",
+      "query": "feyenoord",
+      "startedAt": "2026-10-31T17:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "thiago agustín tirante",
-      "startedAt": "2026-10-31T10:40:00.000Z",
+      "query": "granizo",
+      "startedAt": "2026-10-31T17:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "posiciones de bayer leverkusen contra vfb stuttgart",
+      "startedAt": "2026-10-31T17:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "bbc news mundo",
+      "startedAt": "2026-10-31T17:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "river messi cup",
+      "startedAt": "2026-10-31T17:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "enzo fernández",
+      "startedAt": "2026-10-31T16:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "arresto",
-      "startedAt": "2026-10-31T10:10:00.000Z",
-      "volume": 500
+      "query": "atlanta",
+      "startedAt": "2026-10-31T16:50:00.000Z",
+      "volume": 200
     },
     {
-      "query": "guillermo coppola",
-      "startedAt": "2026-10-31T09:50:00.000Z",
-      "volume": 500
+      "query": "brighton",
+      "startedAt": "2026-10-31T16:50:00.000Z",
+      "volume": 200
     }
   ]
 }
