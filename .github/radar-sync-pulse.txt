@@ -1,8 +1,8 @@
-RADAR 1 — RanaSports Noticias
-Fecha y hora ARG: 2026-10-30 21:11:00 -03:00
-Altas verificadas: 6
-Filas: Noticias!4303:4308
-Última noticia: SARMIENTO Y ROSARIO CENTRAL DEFINIERON SUS ONCE PARA EL PARTIDO EN JUNÍN
-Fotos H verificadas: 6/6
-Estado: altas escritas y releídas en Sheets; R=TRUE intocable; nuevas filas R=FALSE.
-Ejecución: RADAR1-20261030-211100-6-ALTAS
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha y hora ARG: 2026-10-30 22:10:00 -03:00
+Altas verificadas: 1
+Filas: Noticias!4309
+Última noticia: VERSTAPPEN Y LAWSON CHOCARON EN LA FP2 DE MÉXICO Y FUERON CITADOS POR LOS COMISARIOS
+Descartes: FP2 Colapinto/Leclerc ya cubierta; partidos Racing-Aldosivi y Sarmiento-Central en curso; declaraciones de Colapinto sin novedad sustancial; incidente Hamilton sin fotografía editorial directa verificada.
+Estado: Sheets verificado, R=FALSE; sincronización CSV pendiente de comprobación.
+Ejecución: RADAR5-20261030-221000-1-ALTA-4309
