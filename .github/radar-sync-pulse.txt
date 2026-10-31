@@ -1,8 +1,10 @@
 RADAR 5 — RanaSports Actualidad Inmediata
-Fecha y hora ARG: 2026-10-30 22:10:00 -03:00
-Altas verificadas: 1
-Filas: Noticias!4309
-Última noticia: VERSTAPPEN Y LAWSON CHOCARON EN LA FP2 DE MÉXICO Y FUERON CITADOS POR LOS COMISARIOS
-Descartes: FP2 Colapinto/Leclerc ya cubierta; partidos Racing-Aldosivi y Sarmiento-Central en curso; declaraciones de Colapinto sin novedad sustancial; incidente Hamilton sin fotografía editorial directa verificada.
-Estado: Sheets verificado, R=FALSE; sincronización CSV pendiente de comprobación.
-Ejecución: RADAR5-20261030-221000-1-ALTA-4309
+Fecha y hora ARG: 2026-10-31 06:10:00 -03:00
+Altas verificadas: 2
+Filas: Noticias!4310, Noticias!4311
+Noticias: VERSTAPPEN Y LAWSON RECIBIERON UNA SANCIÓN DE UN PUESTO EN LA GRILLA DE MÉXICO | RACING GANÓ 2-1 Y ALDOSIVI DESCENDIÓ A LA PRIMERA NACIONAL
+Candidatas revisadas: sanción FIA; resultado Racing-Aldosivi; resultado Sarmiento-Rosario Central; previa Defensa-Independiente; choque Verstappen-Lawson; alineaciones Racing-Aldosivi y Sarmiento-Central.
+Descartadas por duplicación: choque y citaciones Verstappen-Lawson ya cubiertos en fila 4309; formaciones Racing-Aldosivi y Sarmiento-Central ya cubiertas en 4307-4308.
+Sin alta: Sarmiento-Rosario Central 1-2 (resultado confirmado, fotografía directa diferente no validada); previa Independiente-Defensa sin novedad sustancial nueva.
+Estado: Sheets filas 4310-4311 escritas y releídas, A=SI, O=VERIFICADA, R=FALSE; pulso de sincronización solicitado; estado CSV pendiente de comprobación posterior.
+Ejecución: RADAR5-20261031-061000-2-ALTAS-4310-4311
