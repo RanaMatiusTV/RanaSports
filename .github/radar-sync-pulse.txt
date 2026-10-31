@@ -1,10 +1,11 @@
 RADAR 5 — RanaSports Actualidad Inmediata
-Fecha y hora ARG: 2026-10-31 06:10:00 -03:00
+Fecha y hora ARG: 2026-10-31 08:10:00 -03:00
 Altas verificadas: 2
-Filas: Noticias!4310, Noticias!4311
-Noticias: VERSTAPPEN Y LAWSON RECIBIERON UNA SANCIÓN DE UN PUESTO EN LA GRILLA DE MÉXICO | RACING GANÓ 2-1 Y ALDOSIVI DESCENDIÓ A LA PRIMERA NACIONAL
-Candidatas revisadas: sanción FIA; resultado Racing-Aldosivi; resultado Sarmiento-Rosario Central; previa Defensa-Independiente; choque Verstappen-Lawson; alineaciones Racing-Aldosivi y Sarmiento-Central.
-Descartadas por duplicación: choque y citaciones Verstappen-Lawson ya cubiertos en fila 4309; formaciones Racing-Aldosivi y Sarmiento-Central ya cubiertas en 4307-4308.
-Sin alta: Sarmiento-Rosario Central 1-2 (resultado confirmado, fotografía directa diferente no validada); previa Independiente-Defensa sin novedad sustancial nueva.
-Estado: Sheets filas 4310-4311 escritas y releídas, A=SI, O=VERIFICADA, R=FALSE; pulso de sincronización solicitado; estado CSV pendiente de comprobación posterior.
-Ejecución: RADAR5-20261031-061000-2-ALTAS-4310-4311
+Filas: Noticias!4312, Noticias!4313
+Noticias: ROSARIO CENTRAL REMONTÓ 2-1 A SARMIENTO CON UN DOBLETE DE ÁVILA Y LIDERA LA ANUAL | ARRANCAN LOS JUEGOS OLÍMPICOS DE LA JUVENTUD DAKAR 2026 CON 42 ARGENTINOS
+Candidatas evaluadas: Rosario Central-Sarmiento resultado; Dakar 2026 comienzo; Gimnasia LP-Estudiantes RC resultado; Tigre-Huracán resultado; reforma torneo 2027; sanción FIA Verstappen-Lawson; FP2 de México; Racing-Aldosivi.
+Descartadas por duplicación: reforma AFA 2027 ya publicada (fila 4204); sanción FIA Verstappen-Lawson ya publicada (4310); FP2 ya cubierta (4303); Racing-Aldosivi ya publicada (4311).
+Sin alta por fotografía específica diferente no validada: Gimnasia LP 2-1 Estudiantes de Río Cuarto; Tigre 2-0 Huracán.
+Control: consulta de filas recientes y búsqueda por hechos, URLs e imágenes; fotos directas 16:9 verificadas, ambas identificadas como archivo; A=SI, O=VERIFICADA, R=FALSE. Filas 4312-4313 escritas y releídas.
+Estado: altas verificadas en Sheets; pulso GitHub emitido; CSV y visibilidad pública pendientes de comprobación posterior.
+Ejecución: RADAR5-20261031-081000-2-ALTAS-4312-4313
