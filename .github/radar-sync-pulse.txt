@@ -1,14 +1,12 @@
 RADAR 5 — RanaSports Actualidad Inmediata
-Fecha y hora ARG: 2026-10-31 12:10:00 -03:00
-Ejecución: RADAR5-20261031-121000-1-ALTA-4316
-Altas verificadas: 1
-Filas: Noticias!4316
-Noticia: 4316 — HAMILTON PERDIÓ POTENCIA EN MÉXICO Y FERRARI INVESTIGA LA FALLA ANTES DE CLASIFICAR
-Candidatas evaluadas: falla de potencia de Hamilton en FP2; previa de Defensa y Justicia-Independiente; previa Boca-River; horarios de Colapinto en FP3 y clasificación; semifinal de Julia Riera; agenda de Dakar 2026; tiempos FP2 Leclerc-Colapinto; sanción Verstappen-Lawson.
-Descartadas por duplicación o cobertura previa: horarios de Colapinto, previa Boca-River, agenda inaugural Dakar, tiempos FP2 y sanción Verstappen-Lawson.
-Sin alta por falta de novedad confirmada: alineaciones probables Independiente (no confirmadas al momento del control); semifinal Riera-Grabher (aún no disputada).
-Control antiduplicados: lectura Noticias!A4220:J4330 y A4311:R4322, búsqueda en filas 3650-4330 por Hamilton y en H1:H4315 por fotografía; relectura inmediata de A4314:R4318 antes de escribir.
-Fuente: Fórmula 1, 31/10/2026, declaraciones de Hamilton y Vasseur tras FP2 México.
-Fotografía: Wikimedia Commons, archivo Ferrari SF-26 de Hamilton en China 13/03/2026, 2921x1643, autor Liauzh, CC BY 4.0, imagen directa abierta y comprobada; no repetida en H1:H4315.
-Integridad: A=SI, B=31/10/2026, C=12:10, O=VERIFICADA, R=FALSE; fila 4316 escrita y releída; ninguna noticia anterior modificada.
-Estado: 1 alta verificada en Google Sheets. Pulso GitHub emitido; comprobación posterior del CSV y de visibilidad pública por separado.
+Fecha y hora ARG: 2026-10-31 14:12:26 -03:00
+Ejecución: RADAR5-20261031-141226-0-ALTAS
+Altas verificadas: 0
+Filas: ninguna
+Estado: SIN ALTAS; control antiduplicados y verificación de actualidad completados.
+Candidatas evaluadas: Gimnasia 2-1 Estudiantes de Río Cuarto; Tigre 2-0 Huracán; previa de Boca-River; FP3 de México/Colapinto; programación de Dakar 2026; declaraciones de Emiliano Martínez; previa Independiente-Defensa y Justicia.
+Descartadas por duplicación: Gimnasia-Estudiantes RC ya publicado en Noticias!4304; Tigre-Huracán ya publicado en Noticias!4305; Boca-River, Dakar, declaraciones Dibu y novedades previas de F1 ya cubiertas en noticias recientes.
+Descartadas por falta de hecho nuevo confirmado: FP3 de México comenzaba a las 14:30 ARG y aún no tenía resultados; no se verificó alineación definitiva ni otro hecho sustancial nuevo de Independiente-Defensa.
+Control: Google Sheets Noticias!D4080:J4330, A4270:R4400 y H1:H4330; assets/news-live.csv consultado; comparación por acontecimiento, protagonistas, fecha y contenido, no solo título.
+Integridad: ninguna noticia escrita, borrada, modificada ni despublicada. R=TRUE intocable.
+GitHub: señal única de sincronización de esta ejecución; comprobar assets/news-live.csv por separado.
