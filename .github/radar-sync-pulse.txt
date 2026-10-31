@@ -1,11 +1,15 @@
 RADAR 5 — RanaSports Actualidad Inmediata
-Fecha y hora ARG: 2026-10-31 08:10:00 -03:00
+Fecha y hora ARG: 2026-10-31 10:10:00 -03:00
+Ejecución: RADAR5-20261031-101000-2-ALTAS-4314-4315
 Altas verificadas: 2
-Filas: Noticias!4312, Noticias!4313
-Noticias: ROSARIO CENTRAL REMONTÓ 2-1 A SARMIENTO CON UN DOBLETE DE ÁVILA Y LIDERA LA ANUAL | ARRANCAN LOS JUEGOS OLÍMPICOS DE LA JUVENTUD DAKAR 2026 CON 42 ARGENTINOS
-Candidatas evaluadas: Rosario Central-Sarmiento resultado; Dakar 2026 comienzo; Gimnasia LP-Estudiantes RC resultado; Tigre-Huracán resultado; reforma torneo 2027; sanción FIA Verstappen-Lawson; FP2 de México; Racing-Aldosivi.
-Descartadas por duplicación: reforma AFA 2027 ya publicada (fila 4204); sanción FIA Verstappen-Lawson ya publicada (4310); FP2 ya cubierta (4303); Racing-Aldosivi ya publicada (4311).
-Sin alta por fotografía específica diferente no validada: Gimnasia LP 2-1 Estudiantes de Río Cuarto; Tigre 2-0 Huracán.
-Control: consulta de filas recientes y búsqueda por hechos, URLs e imágenes; fotos directas 16:9 verificadas, ambas identificadas como archivo; A=SI, O=VERIFICADA, R=FALSE. Filas 4312-4313 escritas y releídas.
-Estado: altas verificadas en Sheets; pulso GitHub emitido; CSV y visibilidad pública pendientes de comprobación posterior.
-Ejecución: RADAR5-20261031-081000-2-ALTAS-4312-4313
+Filas: Noticias!4314, Noticias!4315
+Noticias:
+4314 — CONMEBOL CAMBIÓ EL HORARIO DE LA FINAL ENTRE BOCA Y ATLÉTICO MINEIRO: SERÁ A LAS 20
+4315 — ARANDA RECIBIÓ LOS BOTINES DE MESSI Y SUEÑA CON ESTRENARLOS EN LA FINAL
+Candidatas evaluadas: horario final Boca-Atlético Mineiro; botines de Messi recibidos por Tomás Aranda; Colapinto balance FP2; Boca-River formación; Rosario Central-Sarmiento tabla anual; sanción Verstappen-Lawson; Canelo-Mbilli previa; Boca-Benfica Messi Cup; Riestra permanencia; Sanguinetti reacción al descenso.
+Descartadas por duplicación del hecho o cobertura previa: Colapinto balance FP2 (fila 4303), formación Boca-River (filas 4252 y 4299), Rosario Central-Sarmiento y tabla anual (fila 4312), sanción Verstappen-Lawson (fila 4310), Canelo-Mbilli previa (fila 4270), Riestra permanencia consecuencia de Aldosivi descendido (fila 4311).
+Sin alta por menor prioridad o novedad sustancial insuficiente: declaraciones Sanguinetti, Boca-Benfica Messi Cup.
+Control antiduplicados: consulta de Noticias recientes hasta fila 4313, búsqueda por hechos/URLs y comprobación de assets/news-live.csv; relectura inmediata antes de cada escritura.
+Fotografías: 4314 foto directa 16:9 del estadio Metropolitano, Deportes RCN, septiembre 2026; 4315 foto directa 16:9 de Messi y Aranda, TyC Sports, archivo; ambas abiertas y comprobadas.
+Integridad: A=SI, B=31/10/2026, C=10:10, O=VERIFICADA, R=FALSE, ambas filas escritas y releídas; ninguna noticia anterior alterada.
+Estado: 2 altas verificadas en Google Sheets. Pulso GitHub emitido; sincronización CSV y visibilidad pública pendientes de comprobación posterior.
