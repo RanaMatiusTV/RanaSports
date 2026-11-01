@@ -1,11 +1,42 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T04:38:30-03:00",
+  "updated_at": "2026-11-01T12:15:27-03:00",
   "timezone": "America/Argentina/Buenos_Aires",
   "window_hours": 8,
-  "pending": 0,
-  "source_articles_inspected_this_run": 0,
+  "pending": 2,
+  "source_articles_inspected_this_run": 2,
   "candidates_unverified": 0,
   "note": "Candidate URLs are hints, not verified embeds. Radars must check exact event, live K and R, and write K in batches.",
-  "items": []
+  "items": [
+    {
+      "id": "126d29cd6a206ebd",
+      "row": 4327,
+      "date": "01/11/2026",
+      "time": "08:10",
+      "title": "JULIA RIERA CAYÓ ANTE GRABHER EN SEMIFINALES DE CURITIBA POR DOBLE 6-3",
+      "source": "La Opinión / Tennis Majors",
+      "source_url": "https://laopinionline.ar/articulo/julia-riera-perdio-en-semis-curitiba",
+      "age_hours": 4.09,
+      "attempts": 1,
+      "last_checked": "2026-11-01T12:15:27-03:00",
+      "next_retry": "2026-11-01T12:35:27-03:00",
+      "candidates": [],
+      "source_status": "inspected"
+    },
+    {
+      "id": "459fa921e855ad15",
+      "row": 4332,
+      "date": "01/11/2026",
+      "time": "12:10",
+      "title": "MARCONE SE PIERDE EL PARTIDO CON DEFENSA: VIERA PRUEBA A CRUZ Y DAVID MARTÍNEZ",
+      "source": "Olé / Independiente",
+      "source_url": "https://www.ole.com.ar/independiente/independiente-jadsonviera-defensayjusticia-ivanmarcone_0_QgnVUk5QZy.html",
+      "age_hours": 0.09,
+      "attempts": 1,
+      "last_checked": "2026-11-01T12:15:27-03:00",
+      "next_retry": "2026-11-01T12:35:27-03:00",
+      "candidates": [],
+      "source_status": "inspected"
+    }
+  ]
 }
