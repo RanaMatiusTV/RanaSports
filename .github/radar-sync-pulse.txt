@@ -1,11 +1,11 @@
 RADAR 5 — Actualidad Inmediata
 Fecha ARG: 01/11/2026
-Hora ARG: 08:10
+Hora ARG: 10:10
 Cantidad altas verificadas: 3
-Filas: 4326, 4327, 4328
+Filas: 4329, 4330, 4331
 Estado: SHEETS_VERIFICADO; PULSO_ENVIADO; CSV_PENDIENTE_DE_COMPROBACION
-Noticias: Hindú 16-12 CASI (finalista URBA); Julia Riera cayó 6-3 6-3 ante Grabher en semifinales Curitiba; Newman remontó y ganó 25-20 a Alumni (finalista URBA).
-Antiduplicados: búsqueda en toda la planilla D1:J4350 para HINDÚ, NEWMAN, RIERA; relectura de filas recientes antes de cada alta y comprobación de assets/news-live.csv. Se descartaron previas ya cubiertas de Superclásico, Lawson/Colapinto, Juegos Dakar y resultados previos de Liga Profesional.
-Fotos: Informe Norte (Hindú-CASI), La Opinión/Curitiba Open (Riera), Prensa URBA/Periodismo Rugby (Newman-Alumni). Las tres imágenes directas fueron abiertas y visualmente comprobadas.
-Sin modificaciones a otras noticias, CSV o workflows.
-Ejecución ARG: 2026-11-01T08:08:40-03:00
+Noticias: Ocon reconoció discusión con Haas y negó violencia física; Morena Beltrán denunció amenazas durante Estudiantes-Instituto; Lucas Ocampos convirtió de chilena en el 3-3 Monterrey-Tijuana.
+Antiduplicados: lectura de últimas filas y búsquedas de protagonistas/hechos en D1:J4370; relectura inmediatamente antes de cada escritura; revisión de assets/news-live.csv y de URLs de fotos en H1:H4400. Se descartaron previas y horarios del Superclásico, clasificación/sanción ya cubiertas de Colapinto y Lawson, y antecedente del reemplazo de Ocon sin su nuevo comunicado.
+Fotos: Wikimedia Commons CC BY 4.0 (Ocon, archivo China 2026); El Litoral (Morena Beltrán, archivo 2026); Flashscore (Ocampos, archivo Monterrey 2026). Fotografías directas abiertas y comprobadas; no capturas.
+Sin modificaciones a noticias existentes, otros radares, CSV o workflows.
+Ejecución ARG: 2026-11-01T10:13:37-03:00; lote: RADAR5-20261101-1010-4329-4331
