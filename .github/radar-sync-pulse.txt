@@ -1,10 +1,11 @@
 RADAR 5 — Actualidad Inmediata
 Fecha ARG: 01/11/2026
-Hora ARG: 06:10
-Cantidad altas verificadas: 2
-Filas: 4324, 4325
-Estado: SHEETS_VERIFICADO; PULSO_SOLICITADO
-Noticias: descalificación técnica de Lawson tras la clasificación de México (Colapinto asciende al P11 de largada); Estudiantes de La Plata empató 3-3 con Instituto después de ir 0-3 con un jugador menos.
-Control antiduplicados: cotejadas noticias recientes de RADAR 1, RADAR 5 y otras (filas 3800-4325), y assets/news-live.csv. La descalificación técnica de Lawson es distinta de la sanción de un puesto por choque en FP2 y del resultado original de clasificación; el 3-3 de Estudiantes-Instituto no estaba publicado.
-Fotografías: Wikimedia Commons (Lawson con Racing Bulls en China 2026, CC BY 4.0) y 90min (Tiago Palacios con Estudiantes, archivo de Libertadores), URLs directas comprobadas. K vacío en ambas.
-Ejecución ARG: 2026-11-01T06:10:00-03:00
+Hora ARG: 08:10
+Cantidad altas verificadas: 3
+Filas: 4326, 4327, 4328
+Estado: SHEETS_VERIFICADO; PULSO_ENVIADO; CSV_PENDIENTE_DE_COMPROBACION
+Noticias: Hindú 16-12 CASI (finalista URBA); Julia Riera cayó 6-3 6-3 ante Grabher en semifinales Curitiba; Newman remontó y ganó 25-20 a Alumni (finalista URBA).
+Antiduplicados: búsqueda en toda la planilla D1:J4350 para HINDÚ, NEWMAN, RIERA; relectura de filas recientes antes de cada alta y comprobación de assets/news-live.csv. Se descartaron previas ya cubiertas de Superclásico, Lawson/Colapinto, Juegos Dakar y resultados previos de Liga Profesional.
+Fotos: Informe Norte (Hindú-CASI), La Opinión/Curitiba Open (Riera), Prensa URBA/Periodismo Rugby (Newman-Alumni). Las tres imágenes directas fueron abiertas y visualmente comprobadas.
+Sin modificaciones a otras noticias, CSV o workflows.
+Ejecución ARG: 2026-11-01T08:08:40-03:00
