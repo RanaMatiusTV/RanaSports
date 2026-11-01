@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-10-31T23:45:30.128Z",
+  "updatedAt": "2026-11-01T02:37:55.907Z",
   "trends": [
     {
-      "query": "rosario",
-      "startedAt": "2026-10-31T23:30:00.000Z",
-      "volume": 200
+      "query": "lawson",
+      "startedAt": "2026-11-01T02:20:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "ronaldo martínez",
-      "startedAt": "2026-10-31T23:30:00.000Z",
+      "query": "wnba",
+      "startedAt": "2026-11-01T02:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "spurs - timberwolves",
-      "startedAt": "2026-10-31T23:20:00.000Z",
+      "query": "alerta roja",
+      "startedAt": "2026-11-01T01:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "pachuca - tigres",
-      "startedAt": "2026-10-31T23:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "juventud antoniana",
-      "startedAt": "2026-10-31T23:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "la voz del interior",
-      "startedAt": "2026-10-31T23:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sebastian",
-      "startedAt": "2026-10-31T23:10:00.000Z",
+      "query": "marido de la china ansa",
+      "startedAt": "2026-11-01T01:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "stuart barlow",
-      "startedAt": "2026-10-31T23:00:00.000Z",
-      "volume": 1000
+      "query": "colorado - chicago fire",
+      "startedAt": "2026-11-01T01:40:00.000Z",
+      "volume": 200
     },
     {
-      "query": "club atlético vélez sarsfield",
-      "startedAt": "2026-10-31T23:00:00.000Z",
-      "volume": 100
+      "query": "monterrey - tijuana",
+      "startedAt": "2026-11-01T01:20:00.000Z",
+      "volume": 500
     },
     {
-      "query": "infopico",
-      "startedAt": "2026-10-31T22:40:00.000Z",
-      "volume": 100
+      "query": "squash",
+      "startedAt": "2026-11-01T01:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "noelia marzol",
+      "startedAt": "2026-11-01T01:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "santi maratea",
+      "startedAt": "2026-11-01T01:00:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "rockets - thunder",
+      "startedAt": "2026-11-01T00:50:00.000Z",
+      "volume": 200
     }
   ]
 }
