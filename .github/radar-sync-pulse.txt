@@ -1,12 +1,5 @@
-RADAR 5 — Actualidad Inmediata
-Fecha ARG: 01/11/2026
-Hora ARG: 14:10
-Cantidad altas verificadas: 2
-Filas: 4333, 4334
-Estado: SHEETS_VERIFICADO; PULSO_ENVIADO; CSV_PENDIENTE_DE_COMPROBACION
-Noticias: MARC MÁRQUEZ GANÓ EN MALASIA Y QUEDÓ A UN PASO DEL TÍTULO DE MOTOGP | ALCARAZ VENCIÓ A DE MIÑAUR Y SE CONSAGRÓ CAMPEÓN DEL ATP 500 DE VIENA
-Fuentes: https://www.motogp.com/en/news/2026/06/20/1178131 | https://www.reuters.com/sports/tennis/alcaraz-beats-de-minaur-win-vienna-title-2026-11-01/
-Antiduplicados: búsqueda histórica completa en títulos y recientes 4300-4332; contraste con assets/news-live.csv. Descargadas como repetición la grilla de Colapinto por sanción de Lawson, las previas generales de Boca-River y la baja de Marcone. Se consideraron otros resultados del motociclismo sin publicar por prioridad editorial. Relectura de las últimas filas antes de cada escritura.
-Verificación: filas 4333 y 4334 releídas con A=SI, O=VERIFICADA, R=FALSE y fotos directas de archivo comprobadas.
-Sin borrar, editar ni despublicar noticias existentes; RADAR 1, otros radares, workflows y CSV sin modificaciones directas.
-Lote único: RADAR5-20261101-1410-4333-4334-MOTOGP-TENIS
+RADAR 5 — RanaSports Actualidad Inmediata
+Ejecución ARG: 2026-11-01 16:10:48 -03:00
+Altas verificadas: 2
+Filas: Noticias!4335, Noticias!4336
+Estado: SHEETS_VERIFICADAS; GITHUB_PULSO_ENVIADO; CSV_PENDIENTE_DE_COMPROBACION
