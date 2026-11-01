@@ -1,72 +1,11 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T16:44:40-03:00",
+  "updated_at": "2026-11-01T20:39:40-03:00",
   "timezone": "America/Argentina/Buenos_Aires",
   "window_hours": 8,
-  "pending": 4,
-  "source_articles_inspected_this_run": 4,
+  "pending": 0,
+  "source_articles_inspected_this_run": 0,
   "candidates_unverified": 0,
   "note": "Candidate URLs are hints, not verified embeds. Radars must check exact event, live K and R, and write K in batches.",
-  "items": [
-    {
-      "id": "459fa921e855ad15",
-      "row": 4332,
-      "date": "01/11/2026",
-      "time": "12:10",
-      "title": "MARCONE SE PIERDE EL PARTIDO CON DEFENSA: VIERA PRUEBA A CRUZ Y DAVID MARTÍNEZ",
-      "source": "Olé / Independiente",
-      "source_url": "https://www.ole.com.ar/independiente/independiente-jadsonviera-defensayjusticia-ivanmarcone_0_QgnVUk5QZy.html",
-      "age_hours": 4.58,
-      "attempts": 2,
-      "last_checked": "2026-11-01T16:44:40-03:00",
-      "next_retry": "2026-11-01T17:24:40-03:00",
-      "candidates": [],
-      "source_status": "inspected"
-    },
-    {
-      "id": "62889dad5cc5e9be",
-      "row": 4333,
-      "date": "01/11/2026",
-      "time": "14:10",
-      "title": "MARC MÁRQUEZ GANÓ EN MALASIA Y QUEDÓ A UN PASO DEL TÍTULO DE MOTOGP",
-      "source": "MotoGP oficial / Reuters",
-      "source_url": "https://www.motogp.com/en/news/2026/06/20/1178131",
-      "age_hours": 2.58,
-      "attempts": 1,
-      "last_checked": "2026-11-01T16:44:40-03:00",
-      "next_retry": "2026-11-01T17:04:40-03:00",
-      "candidates": [],
-      "source_status": "inspected"
-    },
-    {
-      "id": "124d9f1958ca0705",
-      "row": 4334,
-      "date": "01/11/2026",
-      "time": "14:10",
-      "title": "ALCARAZ VENCIÓ A DE MIÑAUR Y SE CONSAGRÓ CAMPEÓN DEL ATP 500 DE VIENA",
-      "source": "Reuters / ATP",
-      "source_url": "https://www.reuters.com/sports/tennis/alcaraz-beats-de-minaur-win-vienna-title-2026-11-01/",
-      "age_hours": 2.58,
-      "attempts": 1,
-      "last_checked": "2026-11-01T16:44:40-03:00",
-      "next_retry": "2026-11-01T17:04:40-03:00",
-      "candidates": [],
-      "source_status": "HTTPError"
-    },
-    {
-      "id": "3ec8f6d09fc23584",
-      "row": 4336,
-      "date": "01/11/2026",
-      "time": "16:10",
-      "title": "ARSENAL VENCIÓ 1-0 A LIVERPOOL EN ANFIELD DESPUÉS DE 14 AÑOS Y QUEDÓ LÍDER",
-      "source": "The Guardian / UOL",
-      "source_url": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
-      "age_hours": 0.58,
-      "attempts": 1,
-      "last_checked": "2026-11-01T16:44:40-03:00",
-      "next_retry": "2026-11-01T17:04:40-03:00",
-      "candidates": [],
-      "source_status": "inspected"
-    }
-  ]
+  "items": []
 }
