@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/rugby/hindu-vencio-16-12-a-casi-y-jugara-la-final-del-top-14-ante-newman/": {
+      "account": "sports",
+      "title": "HINDÚ VENCIÓ 16-12 A CASI Y JUGARÁ LA FINAL DEL TOP 14 ANTE NEWMAN",
+      "dueAt": "2026-11-01T20:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae796aab7d22b897a0c2804",
+      "createdAt": "2026-11-01T19:44:43.049Z"
+    },
+    "https://ranasports.com.ar/futbol/arsenal-vencio-1-0-a-liverpool-en-anfield-despues-de-14-anos-y-quedo-lider/": {
+      "account": "sports",
+      "title": "ARSENAL VENCIÓ 1-0 A LIVERPOOL EN ANFIELD DESPUÉS DE 14 AÑOS Y QUEDÓ LÍDER",
+      "dueAt": "2026-11-01T20:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae796a9b7d22b897a0c27d0",
+      "createdAt": "2026-11-01T19:44:41.857Z"
+    },
+    "https://ranasports.com.ar/tenis/alcaraz-vencio-a-de-minaur-y-se-consagro-campeon-del-atp-500-de-viena/": {
+      "account": "sports",
+      "title": "ALCARAZ VENCIÓ A DE MIÑAUR Y SE CONSAGRÓ CAMPEÓN DEL ATP 500 DE VIENA",
+      "dueAt": "2026-11-01T19:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae796a9026a1294e55c8b7f",
+      "createdAt": "2026-11-01T19:44:41.354Z"
+    },
+    "https://ranasports.com.ar/motogp/marc-marquez-gano-en-malasia-y-quedo-a-un-paso-del-titulo-de-motogp/": {
+      "account": "sports",
+      "title": "MARC MÁRQUEZ GANÓ EN MALASIA Y QUEDÓ A UN PASO DEL TÍTULO DE MOTOGP",
+      "dueAt": "2026-11-01T19:44:36.676Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ae796a43f7155902f72d521",
+      "createdAt": "2026-11-01T19:44:40.798Z"
+    },
     "https://ranasports.com.ar/f1/ocon-admitio-una-discusion-con-haas-pero-nego-violencia-fisica-tras-su-exclusion-en-mexico/": {
       "account": "f1",
       "title": "OCON ADMITIÓ UNA DISCUSIÓN CON HAAS, PERO NEGÓ VIOLENCIA FÍSICA TRAS SU EXCLUSIÓN EN MÉXICO",
@@ -5146,42 +5178,6 @@
       "createdAt": "2026-10-08T14:36:29.913Z",
       "externalLink": "https://x.com/768913759301754880/status/2108215864751186021",
       "sentAt": "2026-10-08T15:20:05.830Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0NTQxNDAwMDAsIk1VUknDkyBVTiBFWFRFU09SRVJPIERFIENPTMOTTiBUUkFTIFVOQSBBR1JFU0nDk04gRU4gVU5BIERJU0NVU0nDk04gREUgVFLDgU5TSVRPIl0": {
-      "account": "main",
-      "title": "MURIÓ UN EXTESORERO DE COLÓN TRAS UNA AGRESIÓN EN UNA DISCUSIÓN DE TRÁNSITO",
-      "dueAt": "2026-10-08T15:15:00.000Z",
-      "bufferPostId": "6ac7aa6d82db5af660c93d52",
-      "createdAt": "2026-10-08T14:36:29.398Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108214629943959739",
-      "sentAt": "2026-10-08T15:15:11.495Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTQ1NDE0MDAwMCwiR0FCUklFTCBST0RSw41HVUVaIERFSkEgUklWRVIgREVTUFXDiVMgREUgTcOBUyBERSAyNSBBw5FPUyBGT1JNQU5ETyBUQUxFTlRPUyJd": {
-      "account": "main",
-      "title": "GABRIEL RODRÍGUEZ DEJA RIVER DESPUÉS DE MÁS DE 25 AÑOS FORMANDO TALENTOS",
-      "dueAt": "2026-10-08T15:10:00.000Z",
-      "bufferPostId": "6ac7aa6c444a36d3be25f696",
-      "createdAt": "2026-10-08T14:36:28.802Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108213331391635961",
-      "sentAt": "2026-10-08T15:10:01.812Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDU0MTQwMDAwLCJWQVNDTyBHQU7DkyBFTCBDTMOBU0lDTyBDT04gR09MIEFSR0VOVElOTyBZIExMRUdBIEVOIFJBQ0hBIFBBUkEgRU5GUkVOVEFSIEEgQk9DQSJd": {
-      "account": "main",
-      "title": "VASCO GANÓ EL CLÁSICO CON GOL ARGENTINO Y LLEGA EN RACHA PARA ENFRENTAR A BOCA",
-      "dueAt": "2026-10-08T15:05:00.000Z",
-      "bufferPostId": "6ac7aa6ce63932e2c5a66a71",
-      "createdAt": "2026-10-08T14:36:28.428Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108212090913591585",
-      "sentAt": "2026-10-08T15:05:06.116Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTQ1NDE0MDAwMCwiRE9Nw41OR1VFWiBERVNBRknDkyBBIE1FU1NJIEEgSlVHQVIgTEEgQ09QQSBMSUJFUlRBRE9SRVMiXQ": {
-      "account": "main",
-      "title": "DOMÍNGUEZ DESAFIÓ A MESSI A JUGAR LA COPA LIBERTADORES",
-      "dueAt": "2026-10-08T15:00:00.000Z",
-      "bufferPostId": "6ac7aa6bdaf7bb7cba259732",
-      "createdAt": "2026-10-08T14:36:27.869Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108210860522868837",
-      "sentAt": "2026-10-08T15:00:12.737Z"
     }
   },
   "nextAt": {
