@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-01T09:44:22.835Z",
+  "updatedAt": "2026-11-01T16:25:15.473Z",
   "trends": [
     {
-      "query": "fuego",
-      "startedAt": "2026-11-01T08:40:00.000Z",
+      "query": "ciara mageean",
+      "startedAt": "2026-11-01T16:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "colisión película netflix",
-      "startedAt": "2026-11-01T05:00:00.000Z",
-      "volume": 100
+      "query": "alvarado",
+      "startedAt": "2026-11-01T16:00:00.000Z",
+      "volume": 200
     },
     {
-      "query": "mi argentina",
-      "startedAt": "2026-11-01T04:50:00.000Z",
+      "query": "lyon - angers",
+      "startedAt": "2026-11-01T15:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "liverpool - arsenal",
+      "startedAt": "2026-11-01T15:30:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "dgo",
+      "startedAt": "2026-11-01T15:30:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "posiciones de getafe cf contra sevilla fc",
+      "startedAt": "2026-11-01T15:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "boston river - torque",
+      "startedAt": "2026-11-01T15:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "loto plus hoy",
-      "startedAt": "2026-11-01T04:40:00.000Z",
-      "volume": 200
+      "query": "evento de el niño de 2026-2027",
+      "startedAt": "2026-11-01T15:20:00.000Z",
+      "volume": 500
     },
     {
-      "query": "inpres",
-      "startedAt": "2026-11-01T04:10:00.000Z",
-      "volume": 200
+      "query": "u. católica - u. de chile",
+      "startedAt": "2026-11-01T15:10:00.000Z",
+      "volume": 500
     },
     {
-      "query": "gilberto mora",
-      "startedAt": "2026-11-01T03:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "jack nicholson",
-      "startedAt": "2026-11-01T03:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "américa - toluca",
-      "startedAt": "2026-11-01T03:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "1 de noviembre que se celebra",
-      "startedAt": "2026-11-01T03:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tom nolan",
-      "startedAt": "2026-11-01T03:00:00.000Z",
-      "volume": 100
+      "query": "gladys, la bomba tucumana",
+      "startedAt": "2026-11-01T15:00:00.000Z",
+      "volume": 500
     }
   ]
 }
