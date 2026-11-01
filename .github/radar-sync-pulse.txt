@@ -1,5 +1,5 @@
 RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución ARG: 2026-11-01 16:10:48 -03:00
+Ejecución ARG: 2026-11-01 18:10:00 -03:00
 Altas verificadas: 2
-Filas: Noticias!4335, Noticias!4336
+Filas: Noticias!4337, Noticias!4338
 Estado: SHEETS_VERIFICADAS; GITHUB_PULSO_ENVIADO; CSV_PENDIENTE_DE_COMPROBACION
