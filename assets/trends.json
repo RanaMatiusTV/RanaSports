@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-01T16:25:15.473Z",
+  "updatedAt": "2026-11-01T20:49:48.331Z",
   "trends": [
     {
-      "query": "ciara mageean",
-      "startedAt": "2026-11-01T16:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "alvarado",
-      "startedAt": "2026-11-01T16:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lyon - angers",
-      "startedAt": "2026-11-01T15:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "liverpool - arsenal",
-      "startedAt": "2026-11-01T15:30:00.000Z",
+      "query": "newells hoy",
+      "startedAt": "2026-11-01T20:30:00.000Z",
       "volume": 5000
     },
     {
-      "query": "dgo",
-      "startedAt": "2026-11-01T15:30:00.000Z",
-      "volume": 2000
+      "query": "instituto de obra social de las fuerzas armadas",
+      "startedAt": "2026-11-01T20:30:00.000Z",
+      "volume": 100
     },
     {
-      "query": "posiciones de getafe cf contra sevilla fc",
-      "startedAt": "2026-11-01T15:30:00.000Z",
+      "query": "tabla anual",
+      "startedAt": "2026-11-01T20:20:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "magic - celtics",
+      "startedAt": "2026-11-01T20:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "boston river - torque",
-      "startedAt": "2026-11-01T15:20:00.000Z",
-      "volume": 500
+      "query": "atlético grau - universitario",
+      "startedAt": "2026-11-01T20:20:00.000Z",
+      "volume": 200
     },
     {
-      "query": "evento de el niño de 2026-2027",
-      "startedAt": "2026-11-01T15:20:00.000Z",
-      "volume": 500
+      "query": "antonelli",
+      "startedAt": "2026-11-01T20:20:00.000Z",
+      "volume": 200
     },
     {
-      "query": "u. católica - u. de chile",
-      "startedAt": "2026-11-01T15:10:00.000Z",
-      "volume": 500
+      "query": "ole deportivo",
+      "startedAt": "2026-11-01T20:20:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "gladys, la bomba tucumana",
-      "startedAt": "2026-11-01T15:00:00.000Z",
+      "query": "marsella - toulouse",
+      "startedAt": "2026-11-01T20:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "elecciones eeuu",
+      "startedAt": "2026-11-01T20:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "quien gano",
+      "startedAt": "2026-11-01T20:00:00.000Z",
       "volume": 500
     }
   ]
