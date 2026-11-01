@@ -1,6 +1,30 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/boxeo/canelo-vencio-a-mbilli-por-decision-unanime-y-recupero-el-titulo-supermediano/": {
+      "account": "sports",
+      "title": "CANELO VENCIÓ A MBILLI POR DECISIÓN UNÁNIME Y RECUPERÓ EL TÍTULO SUPERMEDIANO",
+      "dueAt": "2026-11-01T01:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae6920c21c807e9d595753d",
+      "createdAt": "2026-11-01T01:12:44.908Z"
+    },
+    "https://ranasports.com.ar/futbol/godoy-cruz-gano-2-1-en-el-descuento-y-jugara-la-final-del-ascenso-ante-tristan-suarez/": {
+      "account": "sports",
+      "title": "GODOY CRUZ GANÓ 2-1 EN EL DESCUENTO Y JUGARÁ LA FINAL DEL ASCENSO ANTE TRISTÁN SUÁREZ",
+      "dueAt": "2026-11-01T01:12:42.373Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ae6920a1ee172cd6dd1ef4f",
+      "createdAt": "2026-11-01T01:12:44.463Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-clasifico-12-en-mexico-y-hamilton-logro-su-primera-pole-con-ferrari/": {
+      "account": "f1",
+      "title": "COLAPINTO CLASIFICÓ 12° EN MÉXICO Y HAMILTON LOGRÓ SU PRIMERA POLE CON FERRARI",
+      "dueAt": "2026-11-01T01:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae69209cf3a3112f3d2c64b",
+      "createdAt": "2026-11-01T01:12:41.703Z"
+    },
     "https://ranasports.com.ar/f1/haas-bajo-a-ocon-en-mexico/": {
       "account": "f1",
       "title": "HAAS BAJÓ A OCON EN MÉXICO: HIRAKAWA DEBUTARÁ EN LA FÓRMULA 1",
@@ -5167,33 +5191,6 @@
       "createdAt": "2026-10-08T02:00:22.647Z",
       "externalLink": "https://x.com/768913759301754880/status/2108018301230039104",
       "sentAt": "2026-10-08T02:15:03.060Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MTA4MjAwMDAsIuKAnE5PIFRFIFZBWUFT4oCdOiBMQSBDQU5DScOTTiBRVUUgRUwgUExBTlRFTCBMRSBERURJQ8OTIEEgTUVTU0kgRU4gRUwgTUlDUk8iXQ": {
-      "account": "main",
-      "title": "“NO TE VAYAS”: LA CANCIÓN QUE EL PLANTEL LE DEDICÓ A MESSI EN EL MICRO",
-      "dueAt": "2026-10-08T02:10:00.000Z",
-      "bufferPostId": "6ac6f9352977c961bdc10479",
-      "createdAt": "2026-10-08T02:00:21.302Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108017038887190992",
-      "sentAt": "2026-10-08T02:10:02.034Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MTA3MDAwMDAsIkxBIERFU09QSUxBTlRFIERFRElDQVRPUklBIERFIE1FU1NJIEEgTVVTU086IOKAnFZPWSBBIEVYVFJBw5FBUiBDQUdBUlRFIEEgR09MRVPigJ0iXQ": {
-      "account": "main",
-      "title": "LA DESOPILANTE DEDICATORIA DE MESSI A MUSSO: “VOY A EXTRAÑAR CAGARTE A GOLES”",
-      "dueAt": "2026-10-08T02:05:00.000Z",
-      "bufferPostId": "6ac6f9342977c961bdc103f7",
-      "createdAt": "2026-10-08T02:00:20.266Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108015781044785584",
-      "sentAt": "2026-10-08T02:05:02.273Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MDMyNjAwMDAsIk1FU1NJOiDigJxZQSBFWFRSQcORTyBWRVNUSVIgTEEgQ0VMRVNURSBZIEJMQU5DQeKAnSBZIFVOIFJFQ1VFUkRPIFBBUkEgTUFSQURPTkEiXQ": {
-      "account": "main",
-      "title": "MESSI: “YA EXTRAÑO VESTIR LA CELESTE Y BLANCA” Y UN RECUERDO PARA MARADONA",
-      "dueAt": "2026-10-07T22:25:00.000Z",
-      "bufferPostId": "6ac6c44a57f9bd074d1b0f2e",
-      "createdAt": "2026-10-07T22:14:34.401Z",
-      "externalLink": "https://x.com/768913759301754880/status/2107960415510479087",
-      "sentAt": "2026-10-07T22:25:02.042Z"
     }
   },
   "nextAt": {
