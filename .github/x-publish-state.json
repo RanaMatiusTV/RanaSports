@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/ocon-admitio-una-discusion-con-haas-pero-nego-violencia-fisica-tras-su-exclusion-en-mexico/": {
+      "account": "f1",
+      "title": "OCON ADMITIÓ UNA DISCUSIÓN CON HAAS, PERO NEGÓ VIOLENCIA FÍSICA TRAS SU EXCLUSIÓN EN MÉXICO",
+      "dueAt": "2026-11-01T16:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae756f47924eda132d138e8",
+      "createdAt": "2026-11-01T15:12:52.958Z"
+    },
+    "https://ranasports.com.ar/futbol/marcone-se-pierde-el-partido-con-defensa/": {
+      "account": "main",
+      "title": "MARCONE SE PIERDE EL PARTIDO CON DEFENSA: VIERA PRUEBA A CRUZ Y DAVID MARTÍNEZ",
+      "dueAt": "2026-11-01T15:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae756f48755094b828d5fe5",
+      "createdAt": "2026-11-01T15:12:52.456Z"
+    },
+    "https://ranasports.com.ar/f1/lawson-fue-descalificado-en-mexico-y-colapinto-avanzo-al-11-puesto-de-largada/": {
+      "account": "f1",
+      "title": "LAWSON FUE DESCALIFICADO EN MÉXICO Y COLAPINTO AVANZÓ AL 11° PUESTO DE LARGADA",
+      "dueAt": "2026-11-01T15:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae756f336ecc9984810a43e",
+      "createdAt": "2026-11-01T15:12:51.885Z"
+    },
+    "https://ranasports.com.ar/futbol/ocampos-marco-un-golazo-de-chilena-en-el-3-3-entre-monterrey-y-tijuana/": {
+      "account": "sports",
+      "title": "OCAMPOS MARCÓ UN GOLAZO DE CHILENA EN EL 3-3 ENTRE MONTERREY Y TIJUANA",
+      "dueAt": "2026-11-01T16:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae756f2fa39ab5d4d7f79ad",
+      "createdAt": "2026-11-01T15:12:51.006Z"
+    },
+    "https://ranasports.com.ar/futbol/estudiantes-perdia-3-0-y-con-diez-jugadores-le-empato-3-3-a-instituto/": {
+      "account": "sports",
+      "title": "ESTUDIANTES PERDÍA 3-0 Y CON DIEZ JUGADORES LE EMPATÓ 3-3 A INSTITUTO",
+      "dueAt": "2026-11-01T15:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae756f08755094b828d5f14",
+      "createdAt": "2026-11-01T15:12:48.928Z"
+    },
+    "https://ranasports.com.ar/tenis/julia-riera-cayo-ante-grabher-en-semifinales-de-curitiba-por-doble-6-3/": {
+      "account": "sports",
+      "title": "JULIA RIERA CAYÓ ANTE GRABHER EN SEMIFINALES DE CURITIBA POR DOBLE 6-3",
+      "dueAt": "2026-11-01T15:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae756f07924eda132d137e2",
+      "createdAt": "2026-11-01T15:12:48.392Z"
+    },
+    "https://ranasports.com.ar/futbol/morena-beltran-denuncio-amenazas-de-muerte-durante-estudiantes-instituto/": {
+      "account": "sports",
+      "title": "MORENA BELTRÁN DENUNCIÓ AMENAZAS DE MUERTE DURANTE ESTUDIANTES-INSTITUTO",
+      "dueAt": "2026-11-01T15:12:43.670Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ae756eb7924eda132d136ba",
+      "createdAt": "2026-11-01T15:12:45.833Z"
+    },
     "https://ranasports.com.ar/futbol/talleres-goleo-3-0-a-riestra-con-tres-remates-de-afuera-del-area-y-corto-su-mala-racha/": {
       "account": "sports",
       "title": "TALLERES GOLEÓ 3-0 A RIESTRA CON TRES REMATES DE AFUERA DEL ÁREA Y CORTÓ SU MALA RACHA",
@@ -5126,69 +5182,6 @@
       "createdAt": "2026-10-08T14:36:27.869Z",
       "externalLink": "https://x.com/768913759301754880/status/2108210860522868837",
       "sentAt": "2026-10-08T15:00:12.737Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTQ1NDE0MDAwMCwiTUVTU0kgTEUgUkVHQUzDkyBBIFJJVkVSIFVOQSBDQU1JU0VUQSBGSVJNQURBIFFVRSBRVUVEQVLDgSBFTiBFTCBNVVNFTyJd": {
-      "account": "main",
-      "title": "MESSI LE REGALÓ A RIVER UNA CAMISETA FIRMADA QUE QUEDARÁ EN EL MUSEO",
-      "dueAt": "2026-10-08T14:55:00.000Z",
-      "bufferPostId": "6ac7aa6b82db5af660c93d0f",
-      "createdAt": "2026-10-08T14:36:27.436Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108209557436576036",
-      "sentAt": "2026-10-08T14:55:02.048Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTQ1NDE0MDAwMCwiQUZBIERFU1BJREnDkyBBIE1FU1NJIENPTiBVTiBFTU9USVZPIFZJREVPOiDigJxVTk8gTcOBUyBERSBOT1NPVFJPU-KAnSJd": {
-      "account": "main",
-      "title": "AFA DESPIDIÓ A MESSI CON UN EMOTIVO VIDEO: “UNO MÁS DE NOSOTROS”",
-      "dueAt": "2026-10-08T14:50:00.000Z",
-      "bufferPostId": "6ac7aa6adaf7bb7cba259709",
-      "createdAt": "2026-10-08T14:36:27.041Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108208303666778372",
-      "sentAt": "2026-10-08T14:50:03.140Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0NjgxMjAwMDAsIlRBR0xJQUZJQ08gUkVWRUzDkyBRVUUgSlVHw5MgTEEgRklOQUwgREVMIE1VTkRJQUwgQ09OIExPUyBET1MgQ1XDgURSSUNFUFMgQUNBTEFNQlJBRE9TIl0": {
-      "account": "main",
-      "title": "TAGLIAFICO REVELÓ QUE JUGÓ LA FINAL DEL MUNDIAL CON LOS DOS CUÁDRICEPS ACALAMBRADOS",
-      "dueAt": "2026-10-08T14:45:00.000Z",
-      "bufferPostId": "6ac7aa6a08d405a9e7056990",
-      "createdAt": "2026-10-08T14:36:26.567Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108207052061307193",
-      "sentAt": "2026-10-08T14:45:04.812Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0NjE0MDAwMDAsIkVMIERUIERFIEJFTsONTiBTRSBRVUVKw5MgVFJBUyBMQSBERVNQRURJREEgREUgTUVTU0k6IOKAnE5PIE5PUyBESUVST04gTkFEQeKAnSJd": {
-      "account": "main",
-      "title": "EL DT DE BENÍN SE QUEJÓ TRAS LA DESPEDIDA DE MESSI: “NO NOS DIERON NADA”",
-      "dueAt": "2026-10-08T14:40:00.000Z",
-      "bufferPostId": "6ac7aa6a82db5af660c93ce6",
-      "createdAt": "2026-10-08T14:36:26.175Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108205797230428556",
-      "sentAt": "2026-10-08T14:40:05.590Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MjQ4NjAwMDAsIlJPTcOBTiBWRUdBIFkgU1UgVElNSURFWiBDT04gTUVTU0k6IOKAnE5PIFBPRMONQSBOSSBNSVJBUkxPIEEgTE9TIE9KT1PigJ0iXQ": {
-      "account": "main",
-      "title": "ROMÁN VEGA Y SU TIMIDEZ CON MESSI: “NO PODÍA NI MIRARLO A LOS OJOS”",
-      "dueAt": "2026-10-08T09:00:00.000Z",
-      "bufferPostId": "6ac758ea6bf3dfa8dcf297ee",
-      "createdAt": "2026-10-08T08:48:42.197Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108120229830123688",
-      "sentAt": "2026-10-08T09:00:04.680Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0MjQ4NjAwMDAsIlNDQUxPTkkgUVVJRVJFIENPTlZFTkNFUiBBIFdBTFRFUiBTQU1VRUwgUEFSQSBRVUUgU0lHQSBFTiBMQSBTRUxFQ0NJw5NOIl0": {
-      "account": "main",
-      "title": "SCALONI QUIERE CONVENCER A WALTER SAMUEL PARA QUE SIGA EN LA SELECCIÓN",
-      "dueAt": "2026-10-08T08:55:00.000Z",
-      "bufferPostId": "6ac758e911ada005acb42fb4",
-      "createdAt": "2026-10-08T08:48:41.876Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108118958410694881",
-      "sentAt": "2026-10-08T08:55:01.567Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTEzMzEzODAwMDAsIkVMIEVNT1RJVk8gTUVOU0FKRSBERSBMVUlTIFNVw4FSRVogUEFSQSBNRVNTSSBBTlRFUyBERSBTVSBERVNQRURJREEgREUgTEEgU0VMRUNDScOTTiJd": {
-      "account": "main",
-      "title": "EL EMOTIVO MENSAJE DE LUIS SUÁREZ PARA MESSI ANTES DE SU DESPEDIDA DE LA SELECCIÓN",
-      "dueAt": "2026-10-08T08:50:00.000Z",
-      "bufferPostId": "6ac758e96bf3dfa8dcf2978c",
-      "createdAt": "2026-10-08T08:48:41.243Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108117704401916172",
-      "sentAt": "2026-10-08T08:50:02.643Z"
     }
   },
   "nextAt": {
