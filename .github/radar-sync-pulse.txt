@@ -1,10 +1,10 @@
 RADAR 5 — Actualidad Inmediata
 Fecha ARG: 31/10/2026
-Hora ARG: 20:10
-Cantidad altas verificadas: 3
-Filas: 4319, 4320, 4321
+Hora ARG: 22:10
+Cantidad altas verificadas: 2
+Filas: 4322, 4323
 Estado: SHEETS_VERIFICADO; PULSO_SOLICITADO
-Control antiduplicados: revisadas filas recientes de RADAR 1, RADAR 5 y otras noticias (3980-4321), y assets/news-live.csv. Clasificación México es nueva respecto de FP3; victoria de Canelo es resultado posterior a la previa; final del ascenso confirmada después de los resultados del sábado.
-Candidatas: clasificación Colapinto/Hamilton (publicada); Canelo-Mbilli resultado (publicada); Godoy Cruz-Tristán Suárez (publicada); Alonso posible ausencia en México (no confirmada); Independiente-Defensa (sin novedad sustancial); previas Superclásico y Dakar (ya cubiertas).
-Fotos directas comprobadas: TyC Sports/Colapinto archivo 24/10; N+/AFP Canelo-Mbilli del 31/10; MDZ/Maru Mena festejo Godoy Cruz del 31/10.
-Ejecución: 2026-10-31T20:10:00-03:00
+Noticias: Vélez 2-2 San Lorenzo (resultado y remontada); Talleres 3-0 Deportivo Riestra (resultado y fin de racha).
+Control antiduplicados: cotejadas noticias recientes de RADAR 1, RADAR 5 y otras (filas 4100-4323), y assets/news-live.csv; sin cobertura previa de los dos resultados. No se publicaron previas repetidas del Superclásico, clasificación F1 México ni el partido Estudiantes-Instituto aún en desarrollo.
+Fotografías: San Lorenzo oficial (Cuello y Auzmendi, archivo identificado) y Cadena 3 (Talleres ante Riestra, 31/10), ambas URLs directas abiertas y comprobadas.
+Ejecución ARG: 2026-10-31T22:12:47-03:00
