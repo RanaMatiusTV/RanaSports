@@ -1,11 +1,72 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T18:41:27-03:00",
+  "updated_at": "2026-10-31T22:16:09-03:00",
   "timezone": "America/Argentina/Buenos_Aires",
   "window_hours": 8,
-  "pending": 0,
-  "source_articles_inspected_this_run": 0,
+  "pending": 4,
+  "source_articles_inspected_this_run": 4,
   "candidates_unverified": 0,
   "note": "Candidate URLs are hints, not verified embeds. Radars must check exact event, live K and R, and write K in batches.",
-  "items": []
+  "items": [
+    {
+      "id": "8d46615fbe2a7b01",
+      "row": 4320,
+      "date": "31/10/2026",
+      "time": "20:10",
+      "title": "CANELO VENCIÓ A MBILLI POR DECISIÓN UNÁNIME Y RECUPERÓ EL TÍTULO SUPERMEDIANO",
+      "source": "TyC Sports / N+ / Fox Sports",
+      "source_url": "https://www.tycsports.com/boxeo/canelo-alvarez-vs-christian-mbilli-como-llegan-a-la-pelea-cartelera-completa-de-la-velada-horario-y-donde-ver-en-vivo-id769061.html",
+      "age_hours": 2.1,
+      "attempts": 1,
+      "last_checked": "2026-10-31T22:16:09-03:00",
+      "next_retry": "2026-10-31T22:36:09-03:00",
+      "candidates": [],
+      "source_status": "inspected"
+    },
+    {
+      "id": "d2205f125d2bc02b",
+      "row": 4321,
+      "date": "31/10/2026",
+      "time": "20:10",
+      "title": "GODOY CRUZ GANÓ 2-1 EN EL DESCUENTO Y JUGARÁ LA FINAL DEL ASCENSO ANTE TRISTÁN SUÁREZ",
+      "source": "TyC Sports / MDZ",
+      "source_url": "https://www.tycsports.com/primera-nacional/la-infartante-definicion-de-la-zona-a-que-termino-en-la-hazana-de-godoy-cruz-id769653.html",
+      "age_hours": 2.1,
+      "attempts": 1,
+      "last_checked": "2026-10-31T22:16:09-03:00",
+      "next_retry": "2026-10-31T22:36:09-03:00",
+      "candidates": [],
+      "source_status": "inspected"
+    },
+    {
+      "id": "a7637dbe670e803b",
+      "row": 4322,
+      "date": "31/10/2026",
+      "time": "22:10",
+      "title": "VÉLEZ GANABA 2-0, PERO SAN LORENZO SE LO EMPATÓ 2-2 Y COMPLICÓ SU PELEA POR LA ANUAL",
+      "source": "TyC Sports / San Lorenzo",
+      "source_url": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-velez-vs-san-lorenzo-fecha-15-id769326.html",
+      "age_hours": 0.1,
+      "attempts": 1,
+      "last_checked": "2026-10-31T22:16:09-03:00",
+      "next_retry": "2026-10-31T22:36:09-03:00",
+      "candidates": [],
+      "source_status": "inspected"
+    },
+    {
+      "id": "9b9f405e881e9368",
+      "row": 4323,
+      "date": "31/10/2026",
+      "time": "22:10",
+      "title": "TALLERES GOLEÓ 3-0 A RIESTRA CON TRES REMATES DE AFUERA DEL ÁREA Y CORTÓ SU MALA RACHA",
+      "source": "TyC Sports / Cadena 3",
+      "source_url": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-dep-riestra-vs-talleres-fecha-15-id769290.html",
+      "age_hours": 0.1,
+      "attempts": 1,
+      "last_checked": "2026-10-31T22:16:09-03:00",
+      "next_retry": "2026-10-31T22:36:09-03:00",
+      "candidates": [],
+      "source_status": "inspected"
+    }
+  ]
 }
