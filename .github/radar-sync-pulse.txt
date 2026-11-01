@@ -1,11 +1,13 @@
 RADAR 5 — Actualidad Inmediata
 Fecha ARG: 01/11/2026
-Hora ARG: 10:10
-Cantidad altas verificadas: 3
-Filas: 4329, 4330, 4331
+Hora ARG: 12:10
+Cantidad altas verificadas: 1
+Filas: 4332
 Estado: SHEETS_VERIFICADO; PULSO_ENVIADO; CSV_PENDIENTE_DE_COMPROBACION
-Noticias: Ocon reconoció discusión con Haas y negó violencia física; Morena Beltrán denunció amenazas durante Estudiantes-Instituto; Lucas Ocampos convirtió de chilena en el 3-3 Monterrey-Tijuana.
-Antiduplicados: lectura de últimas filas y búsquedas de protagonistas/hechos en D1:J4370; relectura inmediatamente antes de cada escritura; revisión de assets/news-live.csv y de URLs de fotos en H1:H4400. Se descartaron previas y horarios del Superclásico, clasificación/sanción ya cubiertas de Colapinto y Lawson, y antecedente del reemplazo de Ocon sin su nuevo comunicado.
-Fotos: Wikimedia Commons CC BY 4.0 (Ocon, archivo China 2026); El Litoral (Morena Beltrán, archivo 2026); Flashscore (Ocampos, archivo Monterrey 2026). Fotografías directas abiertas y comprobadas; no capturas.
-Sin modificaciones a noticias existentes, otros radares, CSV o workflows.
-Ejecución ARG: 2026-11-01T10:13:37-03:00; lote: RADAR5-20261101-1010-4329-4331
+Noticia: MARCONE SE PIERDE EL PARTIDO CON DEFENSA: VIERA PRUEBA A CRUZ Y DAVID MARTÍNEZ
+Fuente: https://www.ole.com.ar/independiente/independiente-jadsonviera-defensayjusticia-ivanmarcone_0_QgnVUk5QZy.html
+Antiduplicados: revisión filas 4260-4331 y búsquedas históricas MARCONE, FACUNDO CRUZ, DEFENSA Y JUSTICIA, CHACARITA, MACHUCA; contraste con assets/news-live.csv. Se descartó nueva nota sobre habilitación de Machuca (ya publicada fila 4171), la descalificación de Lawson (fila 4324), previas genéricas de Boca-River, Chacarita-Nueva Chicago y calendario Dakar. Se descartó la posible baja de Alonso por información contradictoria, sin confirmación oficial. Relectura inmediatamente antes de escritura.
+Foto: El Gráfico, fotografía directa horizontal de Iván Marcone, archivo enero 2025, abierta y comprobada visualmente; sin captura ni texto agregado.
+Verificación: fila 4332 releída con A=SI, O=VERIFICADA y R=FALSE.
+Sin modificación de noticias existentes, RADAR 1, otros radares, workflows ni CSV.
+Lote único: RADAR5-20261101-1210-4332-MARCONE
