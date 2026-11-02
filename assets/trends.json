@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-02T06:52:02.852Z",
+  "updatedAt": "2026-11-02T17:03:14.012Z",
   "trends": [
     {
-      "query": "clima rosario",
-      "startedAt": "2026-11-02T05:50:00.000Z",
+      "query": "al-sadd - al-ahli saudi",
+      "startedAt": "2026-11-02T16:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "la toretto",
+      "startedAt": "2026-11-02T16:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "murio juan atkins",
+      "startedAt": "2026-11-02T16:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pity alvarez",
+      "startedAt": "2026-11-02T16:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "posiciones de pakhtakor contra al-nassr",
+      "startedAt": "2026-11-02T15:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "chicago vs chacarita",
+      "startedAt": "2026-11-02T15:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "quini",
-      "startedAt": "2026-11-02T04:50:00.000Z",
+      "query": "all boys - estudiantes",
+      "startedAt": "2026-11-02T15:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "fecha de cobro jubilados noviembre 2026",
+      "startedAt": "2026-11-02T15:30:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "frío",
+      "startedAt": "2026-11-02T15:20:00.000Z",
       "volume": 1000
     },
     {
-      "query": "microsoft",
-      "startedAt": "2026-11-02T04:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "santa fe - once caldas",
-      "startedAt": "2026-11-02T04:00:00.000Z",
+      "query": "liga de campeones de la afc",
+      "startedAt": "2026-11-02T15:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "montagne",
-      "startedAt": "2026-11-02T03:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "avión",
-      "startedAt": "2026-11-02T03:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "megatone",
-      "startedAt": "2026-11-02T03:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "latam",
-      "startedAt": "2026-11-02T03:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "cyber",
-      "startedAt": "2026-11-02T03:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "samsung",
-      "startedAt": "2026-11-02T02:50:00.000Z",
-      "volume": 1000
     }
   ]
 }
