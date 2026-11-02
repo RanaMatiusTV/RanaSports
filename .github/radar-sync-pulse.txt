@@ -1,8 +1,8 @@
-RADAR 6 — RanaSports Actualidad Inmediata
-Ejecución programada: 2026-11-02 13:10 America/Argentina/Buenos_Aires
-Altas verificadas: 2
+RanaSports — Resincronización correctiva extraordinaria
+Fecha: 2026-11-02 13:46 America/Argentina/Buenos_Aires
+Motivo: RADAR 6 registró en Google Sheets las filas 4373 y 4374 a las 13:10, pero esas publicaciones aún no aparecen en assets/news-live.csv.
+Altas esperadas: 2
 Filas: 4373, 4374
-Noticias: Independiente visita a Defensa y Justicia, hora, TV y panorama de octavos; definidos los siete cruces del Reducido de la Primera Nacional 2026.
-Antiduplicados: verificadas noticias recientes y bloque histórico 3950-4372; descartados 2500 hinchas visitantes (publicado en fila 4041), sanciones de Alpine, Superclásico, tabla anual de Boca y declaraciones ya cubiertas.
-Fotos H: 2 comprobadas visualmente, ambas identificadas como archivo en crédito y criterio.
-Estado: GOOGLE_SHEETS_VERIFICADO; GITHUB_PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
+Última noticia: QUEDARON DEFINIDOS LOS SIETE CRUCES DEL REDUCIDO DE LA PRIMERA NACIONAL 2026
+Estado: REQUIERE_SYNC_FEED_Y_VERIFICACION_PORTAL
+Acción: disparar sync-news-live.yml mediante push sobre este archivo sin modificar la planilla ni el CSV directamente.
