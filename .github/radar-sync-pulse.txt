@@ -1,11 +1,11 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Fecha: 2026-11-02 14:10:15 America/Argentina/Buenos_Aires
-Corrida: RADAR5-20261102-1410
-Altas verificadas: 0
-Filas nuevas: ninguna
-Última fila existente verificada: 4374
-Última noticia: QUEDARON DEFINIDOS LOS SIETE CRUCES DEL REDUCIDO DE LA PRIMERA NACIONAL 2026
-Estado: SIN_ALTAS_NUEVAS; FOTO_DIRECTA_NO_VALIDADA_EN_CANDIDATAS; SOLICITAR_SYNC_Y_VERIFICAR_FEED
-Candidata comprobada sin publicación: Paraguay 9-2 Islas Salomón en futsal Dakar 2026; falta fotografía directa comprobada.
-Senegal-Argentina: previsto para las 14:30 ARG; sin resultado al momento de la corrida.
-Acción: ejecutar sincronización de noticias; no modificar directamente CSV ni workflows.
+RADAR 6 — RanaSports Actualidad Inmediata
+Fecha: 2026-11-02 15:10 America/Argentina/Buenos_Aires
+Corrida: RADAR6-20261102-1510
+Altas verificadas: 2
+Filas nuevas: 4375,4376
+Última noticia: LOS PUMITAS 7S CAYERON 24-12 ANTE SUDÁFRICA Y QUEDARON EN LA PELEA POR EL BRONCE EN DAKAR
+Estado: GOOGLE_SHEETS_VERIFICADO; SINCRONIZACION_SOLICITADA; CSV_Y_PORTADA_PENDIENTES
+Noticias: FRASCAROLI Y GARCÍA CURADO VENCIERON A DOMINICANA Y ESTÁN EN CUARTOS EN DAKAR 2026 | LOS PUMITAS 7S CAYERON 24-12 ANTE SUDÁFRICA Y QUEDARON EN LA PELEA POR EL BRONCE EN DAKAR
+Control: 2 filas releídas; A=SI, H foto directa enlazada, R=FALSE, 2 párrafos. Sin duplicados recientes.
+Nota editorial: Senegal-Argentina futsal (14:30 ARG) sin resultado final oficial confirmado al cierre de esta corrida.
+Acción: sincronizar Sheets publicado con assets/news-live.csv y comprobar la presencia de ambos títulos.
