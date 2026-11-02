@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-02T17:03:14.012Z",
+  "updatedAt": "2026-11-02T23:52:17.570Z",
   "trends": [
     {
-      "query": "al-sadd - al-ahli saudi",
-      "startedAt": "2026-11-02T16:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "la toretto",
-      "startedAt": "2026-11-02T16:10:00.000Z",
+      "query": "atlético tucumán - argentinos jrs.",
+      "startedAt": "2026-11-02T23:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "murio juan atkins",
-      "startedAt": "2026-11-02T16:10:00.000Z",
+      "query": "independiente rivadavia - banfield",
+      "startedAt": "2026-11-02T23:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "pity alvarez",
-      "startedAt": "2026-11-02T16:00:00.000Z",
+      "query": "base naval puerto belgrano",
+      "startedAt": "2026-11-02T23:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "posiciones de sporting cristal contra fc cajamarca",
+      "startedAt": "2026-11-02T23:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "fede bal",
+      "startedAt": "2026-11-02T23:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "quilmes rock 2027",
+      "startedAt": "2026-11-02T23:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "posiciones de pakhtakor contra al-nassr",
-      "startedAt": "2026-11-02T15:50:00.000Z",
-      "volume": 2000
+      "query": "posiciones de benfica contra fc alverca",
+      "startedAt": "2026-11-02T23:10:00.000Z",
+      "volume": 200
     },
     {
-      "query": "chicago vs chacarita",
-      "startedAt": "2026-11-02T15:50:00.000Z",
-      "volume": 500
+      "query": "claudio tapia",
+      "startedAt": "2026-11-02T23:00:00.000Z",
+      "volume": 200
     },
     {
-      "query": "all boys - estudiantes",
-      "startedAt": "2026-11-02T15:40:00.000Z",
-      "volume": 2000
+      "query": "brad pitt",
+      "startedAt": "2026-11-02T23:00:00.000Z",
+      "volume": 100
     },
     {
-      "query": "fecha de cobro jubilados noviembre 2026",
-      "startedAt": "2026-11-02T15:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "frío",
-      "startedAt": "2026-11-02T15:20:00.000Z",
+      "query": "todo noticias",
+      "startedAt": "2026-11-02T22:50:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "liga de campeones de la afc",
-      "startedAt": "2026-11-02T15:20:00.000Z",
-      "volume": 200
     }
   ]
 }
