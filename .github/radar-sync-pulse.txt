@@ -1,8 +1,11 @@
-RanaSports — Resincronización correctiva extraordinaria
-Fecha: 2026-11-02 13:46 America/Argentina/Buenos_Aires
-Motivo: RADAR 6 registró en Google Sheets las filas 4373 y 4374 a las 13:10, pero esas publicaciones aún no aparecen en assets/news-live.csv.
-Altas esperadas: 2
-Filas: 4373, 4374
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha: 2026-11-02 14:10:15 America/Argentina/Buenos_Aires
+Corrida: RADAR5-20261102-1410
+Altas verificadas: 0
+Filas nuevas: ninguna
+Última fila existente verificada: 4374
 Última noticia: QUEDARON DEFINIDOS LOS SIETE CRUCES DEL REDUCIDO DE LA PRIMERA NACIONAL 2026
-Estado: REQUIERE_SYNC_FEED_Y_VERIFICACION_PORTAL
-Acción: disparar sync-news-live.yml mediante push sobre este archivo sin modificar la planilla ni el CSV directamente.
+Estado: SIN_ALTAS_NUEVAS; FOTO_DIRECTA_NO_VALIDADA_EN_CANDIDATAS; SOLICITAR_SYNC_Y_VERIFICAR_FEED
+Candidata comprobada sin publicación: Paraguay 9-2 Islas Salomón en futsal Dakar 2026; falta fotografía directa comprobada.
+Senegal-Argentina: previsto para las 14:30 ARG; sin resultado al momento de la corrida.
+Acción: ejecutar sincronización de noticias; no modificar directamente CSV ni workflows.
