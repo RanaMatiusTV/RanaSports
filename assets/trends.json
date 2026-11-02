@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-01T20:49:48.331Z",
+  "updatedAt": "2026-11-02T00:43:32.050Z",
   "trends": [
     {
-      "query": "newells hoy",
-      "startedAt": "2026-11-01T20:30:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "instituto de obra social de las fuerzas armadas",
-      "startedAt": "2026-11-01T20:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "tabla anual",
-      "startedAt": "2026-11-01T20:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "magic - celtics",
-      "startedAt": "2026-11-01T20:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "atlético grau - universitario",
-      "startedAt": "2026-11-01T20:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "antonelli",
-      "startedAt": "2026-11-01T20:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ole deportivo",
-      "startedAt": "2026-11-01T20:20:00.000Z",
+      "query": "inter miami",
+      "startedAt": "2026-11-02T00:20:00.000Z",
       "volume": 2000
     },
     {
-      "query": "marsella - toulouse",
-      "startedAt": "2026-11-01T20:10:00.000Z",
+      "query": "hernan lacunza",
+      "startedAt": "2026-11-02T00:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "elecciones eeuu",
-      "startedAt": "2026-11-01T20:10:00.000Z",
-      "volume": 1000
+      "query": "ivan de pineda",
+      "startedAt": "2026-11-02T00:20:00.000Z",
+      "volume": 200
     },
     {
-      "query": "quien gano",
-      "startedAt": "2026-11-01T20:00:00.000Z",
+      "query": "gasly",
+      "startedAt": "2026-11-02T00:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "cuando llega el papa a la argentina",
+      "startedAt": "2026-11-02T00:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "silvio trucco",
+      "startedAt": "2026-11-02T00:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "resultados elecciones eeuu",
+      "startedAt": "2026-11-02T00:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "rodrigo lussich",
+      "startedAt": "2026-11-02T00:00:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "roberto mouras",
+      "startedAt": "2026-11-02T00:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "apple tv",
+      "startedAt": "2026-11-02T00:00:00.000Z",
+      "volume": 200
     }
   ]
 }
