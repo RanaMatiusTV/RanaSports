@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-02T00:43:32.050Z",
+  "updatedAt": "2026-11-02T06:52:02.852Z",
   "trends": [
     {
-      "query": "inter miami",
-      "startedAt": "2026-11-02T00:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "hernan lacunza",
-      "startedAt": "2026-11-02T00:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ivan de pineda",
-      "startedAt": "2026-11-02T00:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gasly",
-      "startedAt": "2026-11-02T00:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "cuando llega el papa a la argentina",
-      "startedAt": "2026-11-02T00:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "silvio trucco",
-      "startedAt": "2026-11-02T00:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "resultados elecciones eeuu",
-      "startedAt": "2026-11-02T00:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "rodrigo lussich",
-      "startedAt": "2026-11-02T00:00:00.000Z",
+      "query": "clima rosario",
+      "startedAt": "2026-11-02T05:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "roberto mouras",
-      "startedAt": "2026-11-02T00:00:00.000Z",
+      "query": "quini",
+      "startedAt": "2026-11-02T04:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "microsoft",
+      "startedAt": "2026-11-02T04:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "santa fe - once caldas",
+      "startedAt": "2026-11-02T04:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "apple tv",
-      "startedAt": "2026-11-02T00:00:00.000Z",
+      "query": "montagne",
+      "startedAt": "2026-11-02T03:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "avión",
+      "startedAt": "2026-11-02T03:30:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "megatone",
+      "startedAt": "2026-11-02T03:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "latam",
+      "startedAt": "2026-11-02T03:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "cyber",
+      "startedAt": "2026-11-02T03:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "samsung",
+      "startedAt": "2026-11-02T02:50:00.000Z",
+      "volume": 1000
     }
   ]
 }
