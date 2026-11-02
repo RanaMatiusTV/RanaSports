@@ -1,11 +1,11 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Fecha: 2026-11-02 16:10 America/Argentina/Buenos_Aires
-Corrida: RADAR5-20261102-1610
+RADAR 6 — RanaSports Actualidad Inmediata
+Fecha: 2026-11-02 17:09 America/Argentina/Buenos_Aires
+Corrida: RADAR6-20261102-1710
 Altas verificadas: 1
-Filas nuevas: 4377
-Última noticia: LOS PUMITAS 7S GANARON EL BRONCE EN DAKAR 2026 TRAS GOLEAR 36-5 A CANADÁ
+Filas nuevas: 4378
+Última noticia: INDEPENDIENTE ELIMINÓ A FERRO EN FUTSAL Y SE METIÓ EN LAS SEMIFINALES DE PRIMERA
 Estado: GOOGLE_SHEETS_VERIFICADO; SINCRONIZACION_SOLICITADA; CSV_Y_PORTADA_PENDIENTES
-Noticias: LOS PUMITAS 7S GANARON EL BRONCE EN DAKAR 2026 TRAS GOLEAR 36-5 A CANADÁ
-Control: filas recientes 4373-4377 releídas; sin duplicado del bronce de rugby; A=SI; H foto directa; O=VERIFICADA; R=FALSE.
-Descartadas: semifinal de Los Pumitas y otras medallas ya publicadas; Senegal-Argentina futsal sin resultado final oficial confirmado al momento de la revisión.
-Acción: sincronizar la planilla Noticias con assets/news-live.csv y esperar el título sentinela exacto.
+Noticias: INDEPENDIENTE ELIMINÓ A FERRO EN FUTSAL Y SE METIÓ EN LAS SEMIFINALES DE PRIMERA
+Control: A=SI; 2 párrafos; H imagen directa AFA de archivo marzo 2026 verificada visualmente; R=FALSE; sin duplicados recientes.
+Descartadas: bronce de Los Pumitas 7s y otras medallas ya publicadas; Senegal-Argentina futsal sin resultado oficial confirmado en FIFA/AFA y sin foto validada; previa Defensa-Independiente ya publicada.
+Acción: sincronizar Noticias con assets/news-live.csv y esperar el título sentinela exacto.
