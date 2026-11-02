@@ -1,7 +1,6 @@
-RADAR 6 — RanaSports Actualidad Inmediata
-Ejecución programada: 2026-11-02 11:10 America/Argentina/Buenos_Aires
-Publicación verificada: 2026-11-02 11:37 America/Argentina/Buenos_Aires
-Altas verificadas: 1
-Filas: 4369
-Última noticia: THIAGO CARVALLO GANÓ EL BRONCE EN JUDO Y SUMÓ LA SEGUNDA MEDALLA ARGENTINA EN DAKAR 2026
+RADAR 5 — RanaSports Actualidad Inmediata
+Ejecución programada: 2026-11-02 12:10 America/Argentina/Buenos_Aires
+Altas verificadas: 3
+Filas: 4370, 4371, 4372
+Noticias: Colapinto pidió disculpas por la sanción en México; River perfila reemplazantes para Aldosivi; Unai Simón reveló gesto del Dibu tras la final del Mundial.
 Estado: GOOGLE_SHEETS_VERIFICADO; GITHUB_PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
