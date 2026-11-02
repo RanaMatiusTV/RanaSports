@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/river/river-prepara-dos-cambios-para-aldosivi/": {
+      "account": "sports",
+      "title": "RIVER PREPARA DOS CAMBIOS PARA ALDOSIVI: GONZÁLEZ Y RIVERO ASOMAN POR LOS EXPULSADOS",
+      "dueAt": "2026-11-02T17:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae8b31af1669be3eabf5e2e",
+      "createdAt": "2026-11-02T15:58:18.980Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-pidio-disculpas-a-alpine-por-la-sancion-en-mexico/": {
+      "account": "f1",
+      "title": "COLAPINTO PIDIÓ DISCULPAS A ALPINE POR LA SANCIÓN EN MÉXICO: “EL ERROR ES MÍO”",
+      "dueAt": "2026-11-02T16:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae8b31aa8c7e349215a543f",
+      "createdAt": "2026-11-02T15:58:18.644Z"
+    },
+    "https://ranasports.com.ar/futbol/unai-simon-revelo-el-gesto-del-dibu-tras-la-final-del-mundial/": {
+      "account": "sports",
+      "title": "UNAI SIMÓN REVELÓ EL GESTO DEL DIBU TRAS LA FINAL DEL MUNDIAL: “ME SORPRENDIÓ PARA BIEN”",
+      "dueAt": "2026-11-02T16:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae8b31a2426d4fa35079912",
+      "createdAt": "2026-11-02T15:58:18.130Z"
+    },
+    "https://ranasports.com.ar/futbol/publicaron-los-audios-del-var-del-superclasico/": {
+      "account": "sports",
+      "title": "PUBLICARON LOS AUDIOS DEL VAR DEL SUPERCLÁSICO: ASÍ EXPLICARON LAS DOS ROJAS A RIVER",
+      "dueAt": "2026-11-02T16:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae8b31931e164b233f007d6",
+      "createdAt": "2026-11-02T15:58:17.636Z"
+    },
+    "https://ranasports.com.ar/natacion/cecilia-dieleke-gano-el-primer-oro-argentino-en-dakar-2026-y-batio-el-record-sudamericano/": {
+      "account": "sports",
+      "title": "CECILIA DIELEKE GANÓ EL PRIMER ORO ARGENTINO EN DAKAR 2026 Y BATIÓ EL RÉCORD SUDAMERICANO",
+      "dueAt": "2026-11-02T15:58:15.584Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ae8b31731e164b233f0072d",
+      "createdAt": "2026-11-02T15:58:16.766Z"
+    },
     "https://ranasports.com.ar/futbol/bayern-y-dortmund-empataron-2-2-en-el-clasico-aleman/": {
       "account": "sports",
       "title": "BAYERN Y DORTMUND EMPATARON 2-2 EN EL CLÁSICO ALEMÁN: KANE FALLÓ UN PENAL",
@@ -5109,56 +5149,6 @@
       "createdAt": "2026-10-08T16:08:36.538Z",
       "externalLink": "https://x.com/768913759301754880/status/2108232213552599343",
       "sentAt": "2026-10-08T16:25:03.704Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDc1NjIwMDAwLCJBUlJVQUJBUlJFTkEgUFVFREUgTE9HUkFSIEVMIE1FSk9SIElOVklDVE8gREUgQk9DQSBFTiBMQSBFUkEgUklRVUVMTUUiXQ": {
-      "account": "main",
-      "title": "ARRUABARRENA PUEDE LOGRAR EL MEJOR INVICTO DE BOCA EN LA ERA RIQUELME",
-      "dueAt": "2026-10-08T16:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac7c004d1ababbf88b9213a",
-      "createdAt": "2026-10-08T16:08:36.130Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108230950056251895",
-      "sentAt": "2026-10-08T16:20:02.531Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0NzU2MjAwMDAsIlRBR0xJQUZJQ08gUkVWRUzDkyBRVUUgRVNUVVZPIEEgUFVOVE8gREUgUVVFREFSIEFGVUVSQSBERUwgTVVORElBTCJd": {
-      "account": "main",
-      "title": "TAGLIAFICO REVELÓ QUE ESTUVO A PUNTO DE QUEDAR AFUERA DEL MUNDIAL",
-      "dueAt": "2026-10-08T16:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac7c003b99c473c41bcf336",
-      "createdAt": "2026-10-08T16:08:35.799Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108229725877354565",
-      "sentAt": "2026-10-08T16:15:10.638Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE0NzU2MjAwMDAsIkxBIFNVQiAxNyBHT0xFw5MgQSBDSElOQSBZIFNFIENPTlNBR1LDkyBDQU1QRU9OQSBERSBMQSBWRVJURVggQ1VQIl0": {
-      "account": "main",
-      "title": "LA SUB 17 GOLEÓ A CHINA Y SE CONSAGRÓ CAMPEONA DE LA VERTEX CUP",
-      "dueAt": "2026-10-08T16:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac7c003d1ababbf88b92107",
-      "createdAt": "2026-10-08T16:08:35.420Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108228458165805429",
-      "sentAt": "2026-10-08T16:10:08.469Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0NzMyMjAwMDAsIlRBR0xJQUZJQ08gQ1VFU1RJT07DkyBFTCBGT1JNQVRPIERFTCBGw5pUQk9MIEFSR0VOVElOTzog4oCcQkFKw5MgTVVDSE8gTEEgQ0FMSURBROKAnSJd": {
-      "account": "main",
-      "title": "TAGLIAFICO CUESTIONÓ EL FORMATO DEL FÚTBOL ARGENTINO: “BAJÓ MUCHO LA CALIDAD”",
-      "dueAt": "2026-10-08T15:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac7b74bb99c473c41bb1620",
-      "createdAt": "2026-10-08T15:31:23.330Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108219632167305238",
-      "sentAt": "2026-10-08T15:35:04.155Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTQ2ODEyMDAwMCwiTEFVVEFSTyBQRVJFWVJBIEdBTsOTIFRFUlJFTk8gWSBQVUVERSBSRUVNUExBWkFSIEEgVEhJQUdPIEFMTUFEQSBFTiBSSVZFUiJd": {
-      "account": "main",
-      "title": "LAUTARO PEREYRA GANÓ TERRENO Y PUEDE REEMPLAZAR A THIAGO ALMADA EN RIVER",
-      "dueAt": "2026-10-08T14:39:55.503Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ac7ab3be63932e2c5a6871f",
-      "createdAt": "2026-10-08T14:39:57.641Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108205760274436498",
-      "sentAt": "2026-10-08T14:39:56.798Z"
     }
   },
   "nextAt": {
