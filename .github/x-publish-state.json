@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/bayern-y-dortmund-empataron-2-2-en-el-clasico-aleman/": {
+      "account": "sports",
+      "title": "BAYERN Y DORTMUND EMPATARON 2-2 EN EL CLÁSICO ALEMÁN: KANE FALLÓ UN PENAL",
+      "dueAt": "2026-11-02T07:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae8290d1a965d64fbf0ef71",
+      "createdAt": "2026-11-02T06:09:18.044Z"
+    },
+    "https://ranasports.com.ar/futbol/machuca-quedo-habilitado-y-fue-convocado/": {
+      "account": "main",
+      "title": "MACHUCA QUEDÓ HABILITADO Y FUE CONVOCADO: PODRÍA DEBUTAR ANTE DEFENSA",
+      "dueAt": "2026-11-02T06:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae8290b76279ec7eb96d2ac",
+      "createdAt": "2026-11-02T06:09:15.257Z"
+    },
+    "https://ranasports.com.ar/futbol/barracas-se-lo-empato-2-2-a-belgrano-en-la-ultima-jugada-tras-ir-0-2/": {
+      "account": "sports",
+      "title": "BARRACAS SE LO EMPATÓ 2-2 A BELGRANO EN LA ÚLTIMA JUGADA TRAS IR 0-2",
+      "dueAt": "2026-11-02T06:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae8290a76279ec7eb96d265",
+      "createdAt": "2026-11-02T06:09:14.632Z"
+    },
+    "https://ranasports.com.ar/river/ponzio-cuestiono-al-arbitro-y-al-var-tras-la-derrota-de-river-en-la-bombonera/": {
+      "account": "sports",
+      "title": "PONZIO CUESTIONÓ AL ÁRBITRO Y AL VAR TRAS LA DERROTA DE RIVER EN LA BOMBONERA",
+      "dueAt": "2026-11-02T06:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae8290a64604db314436afb",
+      "createdAt": "2026-11-02T06:09:14.167Z"
+    },
+    "https://ranasports.com.ar/futbol/barcelona-goleo-6-1-al-alaves-con-dobletes-de-raphinha-y-lamine-yamal/": {
+      "account": "sports",
+      "title": "BARCELONA GOLEÓ 6-1 AL ALAVÉS CON DOBLETES DE RAPHINHA Y LAMINE YAMAL",
+      "dueAt": "2026-11-02T06:09:09.413Z",
+      "mode": "shareNow",
+      "bufferPostId": "6ae8290564604db3144368f1",
+      "createdAt": "2026-11-02T06:09:13.614Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-cayo-del-octavo-al-15-puesto-en-mexico/": {
+      "account": "f1",
+      "title": "COLAPINTO CAYÓ DEL OCTAVO AL 15.º PUESTO EN MÉXICO: DIEZ SEGUNDOS Y OTRO PUNTO DE PENALIZACIÓN",
+      "dueAt": "2026-11-02T07:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae82904759fc887b6cfde26",
+      "createdAt": "2026-11-02T06:09:08.359Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-supo-que-boca-gano-el-superclasico-durante-la-bandera-roja-en-mexico/": {
+      "account": "f1",
+      "title": "COLAPINTO SUPO QUE BOCA GANÓ EL SUPERCLÁSICO DURANTE LA BANDERA ROJA EN MÉXICO",
+      "dueAt": "2026-11-02T06:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae829037817c41d1a483f5f",
+      "createdAt": "2026-11-02T06:09:08.010Z"
+    },
     "https://ranasports.com.ar/automovilismo/yankelevich-logro-su-primer-triunfo-en-el-tc2000-y-toyota-copo-el-podio-en-general-roca/": {
       "account": "sports",
       "title": "YANKELEVICH LOGRÓ SU PRIMER TRIUNFO EN EL TC2000 Y TOYOTA COPÓ EL PODIO EN GENERAL ROCA",
@@ -5103,76 +5159,6 @@
       "createdAt": "2026-10-08T14:39:57.641Z",
       "externalLink": "https://x.com/768913759301754880/status/2108205760274436498",
       "sentAt": "2026-10-08T14:39:56.798Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDY4MTIwMDAwLCJMQSBWVUVMVEEgREUgTU9OVEVSTyBPQkxJR0EgQSBCT0NBIEEgREVKQVIgQUZVRVJBIEEgVU4gRVhUUkFOSkVSTyBBTlRFIElOU1RJVFVUTyJd": {
-      "account": "main",
-      "title": "LA VUELTA DE MONTERO OBLIGA A BOCA A DEJAR AFUERA A UN EXTRANJERO ANTE INSTITUTO",
-      "dueAt": "2026-10-08T14:39:51.339Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ac7ab3782db5af660c95c14",
-      "createdAt": "2026-10-08T14:39:53.477Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108205742457029004",
-      "sentAt": "2026-10-08T14:39:52.541Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTQ2ODEyMDAwMCwiRUwgQ8OBTElETyBFTkNVRU5UUk8gRU5UUkUgQ0VMSUEsIExBIE1BTcOBIERFIE1FU1NJLCBZIERBVk8gWEVORUlaRSBFTiBFTCBNT05VTUVOVEFMIl0": {
-      "account": "main",
-      "title": "EL CÁLIDO ENCUENTRO ENTRE CELIA, LA MAMÁ DE MESSI, Y DAVO XENEIZE EN EL MONUMENTAL",
-      "dueAt": "2026-10-08T14:39:47.040Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ac7ab3308d405a9e70585c5",
-      "createdAt": "2026-10-08T14:39:49.199Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108205725314953540",
-      "sentAt": "2026-10-08T14:39:48.423Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIiwxNzkxNDY4MTIwMDAwLCJHQUxBVEFTQVJBWSBSRVZFTMOTIFBPUiBRVcOJIE5PIFJFTk9Ww5MgQSBJQ0FSREkgWSBQUkVQQVJBIFVOQSBERVNQRURJREEiXQ": {
-      "account": "main",
-      "title": "GALATASARAY REVELÓ POR QUÉ NO RENOVÓ A ICARDI Y PREPARA UNA DESPEDIDA",
-      "dueAt": "2026-10-08T14:39:42.686Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ac7ab2ee63932e2c5a68583",
-      "createdAt": "2026-10-08T14:39:44.835Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108205706289528948",
-      "sentAt": "2026-10-08T14:39:43.899Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDY4MTIwMDAwLCJEQUxNQSBDT05Uw5MgTEEgU09SUFJFU0EgUVVFIEhJWk8gTExPUkFSIEEgTUFSQURPTkEgRU4gU1UgUkVHUkVTTyBBIEJPQ0EiXQ": {
-      "account": "main",
-      "title": "DALMA CONTÓ LA SORPRESA QUE HIZO LLORAR A MARADONA EN SU REGRESO A BOCA",
-      "dueAt": "2026-10-08T14:39:39.777Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ac7ab2b82db5af660c95afa",
-      "createdAt": "2026-10-08T14:39:40.910Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108205693404586105",
-      "sentAt": "2026-10-08T14:39:40.746Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0NjE0MDAwMDAsIklOREVQRU5ESUVOVEUgUklWQURBVklBIFFVSUVSRSBSRVBBVFJJQVIgQSBSRUFMSSBQQVJBIFJFRU1QTEFaQVIgQSBTQUxBUyJd": {
-      "account": "main",
-      "title": "INDEPENDIENTE RIVADAVIA QUIERE REPATRIAR A REALI PARA REEMPLAZAR A SALAS",
-      "dueAt": "2026-10-08T14:39:35.856Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ac7ab27e63932e2c5a683da",
-      "createdAt": "2026-10-08T14:39:37.993Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108205677659275519",
-      "sentAt": "2026-10-08T14:39:37.084Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJpbnRlcm5hY2lvbmFsIiwxNzkxNDYxNDAwMDAwLCJDUklTVElBTk8gUk9OQUxETyBMRSBQRUfDkyBBIFVOIFBFUklPRElTVEE6IOKAnERFSsOBIEVMIELDk1RPWCwgUEFSRUPDiVMgVU5BIE1BTlpBTkHigJ0iXQ": {
-      "account": "main",
-      "title": "CRISTIANO RONALDO LE PEGÓ A UN PERIODISTA: “DEJÁ EL BÓTOX, PARECÉS UNA MANZANA”",
-      "dueAt": "2026-10-08T14:39:31.535Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ac7ab23444a36d3be261048",
-      "createdAt": "2026-10-08T14:39:33.722Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108205659007189031",
-      "sentAt": "2026-10-08T14:39:32.633Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTQ2MTQwMDAwMCwiUklWRVIgQ09SUkUgUklFU0dPIERFIFFVRURBUlNFIEFGVUVSQSBERSBET1MgTElCRVJUQURPUkVTIENPTlNFQ1VUSVZBUyJd": {
-      "account": "main",
-      "title": "RIVER CORRE RIESGO DE QUEDARSE AFUERA DE DOS LIBERTADORES CONSECUTIVAS",
-      "dueAt": "2026-10-08T14:39:27.310Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ac7ab1f444a36d3be260f90",
-      "createdAt": "2026-10-08T14:39:29.500Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108205641621745822",
-      "sentAt": "2026-10-08T14:39:28.491Z"
     }
   },
   "nextAt": {
