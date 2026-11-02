@@ -1,11 +1,11 @@
-RADAR 6 — RanaSports Actualidad Inmediata
-Fecha: 2026-11-02 15:10 America/Argentina/Buenos_Aires
-Corrida: RADAR6-20261102-1510
-Altas verificadas: 2
-Filas nuevas: 4375,4376
-Última noticia: LOS PUMITAS 7S CAYERON 24-12 ANTE SUDÁFRICA Y QUEDARON EN LA PELEA POR EL BRONCE EN DAKAR
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha: 2026-11-02 16:10 America/Argentina/Buenos_Aires
+Corrida: RADAR5-20261102-1610
+Altas verificadas: 1
+Filas nuevas: 4377
+Última noticia: LOS PUMITAS 7S GANARON EL BRONCE EN DAKAR 2026 TRAS GOLEAR 36-5 A CANADÁ
 Estado: GOOGLE_SHEETS_VERIFICADO; SINCRONIZACION_SOLICITADA; CSV_Y_PORTADA_PENDIENTES
-Noticias: FRASCAROLI Y GARCÍA CURADO VENCIERON A DOMINICANA Y ESTÁN EN CUARTOS EN DAKAR 2026 | LOS PUMITAS 7S CAYERON 24-12 ANTE SUDÁFRICA Y QUEDARON EN LA PELEA POR EL BRONCE EN DAKAR
-Control: 2 filas releídas; A=SI, H foto directa enlazada, R=FALSE, 2 párrafos. Sin duplicados recientes.
-Nota editorial: Senegal-Argentina futsal (14:30 ARG) sin resultado final oficial confirmado al cierre de esta corrida.
-Acción: sincronizar Sheets publicado con assets/news-live.csv y comprobar la presencia de ambos títulos.
+Noticias: LOS PUMITAS 7S GANARON EL BRONCE EN DAKAR 2026 TRAS GOLEAR 36-5 A CANADÁ
+Control: filas recientes 4373-4377 releídas; sin duplicado del bronce de rugby; A=SI; H foto directa; O=VERIFICADA; R=FALSE.
+Descartadas: semifinal de Los Pumitas y otras medallas ya publicadas; Senegal-Argentina futsal sin resultado final oficial confirmado al momento de la revisión.
+Acción: sincronizar la planilla Noticias con assets/news-live.csv y esperar el título sentinela exacto.
