@@ -1,12 +1,13 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Fecha: 2026-11-02 18:10 America/Argentina/Buenos_Aires
-Corrida: RADAR5-20261102-1810-11
-Altas verificadas: 0
-Filas nuevas: ninguna
-Última noticia: INDEPENDIENTE ELIMINÓ A FERRO EN FUTSAL Y SE METIÓ EN LAS SEMIFINALES DE PRIMERA
-Última fila verificada en planilla: 4378
-Estado: SIN_ALTAS_NUEVAS; GOOGLE_SHEETS_RELEIDO; SINCRONIZACION_SOLICITADA
-Candidatas evaluadas: Senegal-Argentina futsal (resultado oficial no verificable); medallas Dakar 2026 (sin nuevas medallas argentinas confirmadas); Independiente-Defensa (previa ya cubierta); Paraguay-Islas Salomon futsal (sin fotografia directa verificada).
-Descartadas por duplicación: apertura Dakar, oro Dieleke, bronce Carvallo, bronce Pumitas, triunfo Independiente futsal, previa Defensa-Independiente.
-Control: sin escrituras; no se modificaron noticias anteriores; R=TRUE intocable.
+RADAR 6 — RanaSports Actualidad Inmediata
+Fecha: 2026-11-02 19:10 America/Argentina/Buenos_Aires
+Corrida: RADAR6-20261102-1910
+Altas verificadas: 2
+Filas nuevas: 4379,4380
+Última noticia: ARANDA Y BAREIRO RECIBIERON EL ALTA MÉDICA Y VOLVIERON A ENTRENARSE CON BOCA
+Última fila verificada en planilla: 4380
+Estado: GOOGLE_SHEETS_VERIFICADO; FOTOS_DIRECTAS_VERIFICADAS_CON_ARCHIVO_IDENTIFICADO; GITHUB_PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
+Fuentes: TyC Sports; Boca Juniors (oficial); fotos de archivo Club Atlético River Plate (2024) e Infobae (2026).
+Antiduplicados: River-Boca futsal 1-0 y alta médica de Aranda/Bareiro no estaban publicados; descartados previa Defensa-Independiente, medallas Dieleke, Carvallo y Pumitas, cobertura repetida del Superclásico de Primera.
+Dakar 2026: se revisaron COA, Olympics/COI, DeporTV y fuentes de futsal; Senegal-Argentina sin marcador oficial comprobado. No se publicaron resultados no confirmados.
+Control: R=FALSE en nuevas filas; R=TRUE histórico intacto; no se modificaron otras noticias ni radares.
 Acción: exportar Noticias a assets/news-live.csv y exigir título sentinela exacto antes de declarar éxito.
