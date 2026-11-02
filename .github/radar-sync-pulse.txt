@@ -1,6 +1,6 @@
 RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución: 2026-11-02 08:10 America/Argentina/Buenos_Aires
-Pulso: 2026-11-02T08:10:41-03:00
-Altas verificadas: 2
-Filas: 4363,4364
+Ejecución: 2026-11-02 10:10 America/Argentina/Buenos_Aires
+Pulso: 2026-11-02T10:10:00-03:00; intento=1
+Altas verificadas: 4
+Filas: 4365,4366,4367,4368
 Estado: GOOGLE_SHEETS_VERIFICADO; GITHUB_PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
