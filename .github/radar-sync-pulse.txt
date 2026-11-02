@@ -1,5 +1,6 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución ARG: 2026-11-01 20:10:00 -03:00
-Altas verificadas: 1
-Filas: Noticias!4339
-Estado: SHEETS_VERIFICADAS; GITHUB_PULSO_ENVIADO; CSV_PENDIENTE_DE_COMPROBACION
+RADAR 1 — recuperación extraordinaria manual RanaSports
+Ejecución ARG: 2026-11-01 21:40:00 -03:00
+Altas verificadas: 3
+Filas: Noticias!4340:4342
+Última: BOCA QUEDÓ A UN TRIUNFO DE GANAR LA TABLA ANUAL: EL ESCENARIO TRAS EL SUPERCLÁSICO
+Estado: SHEETS_VERIFICADAS; FOTO_ARCHIVO_TEMPORAL; PULSO_GITHUB_SOLICITADO
