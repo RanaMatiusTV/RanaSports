@@ -1,9 +1,7 @@
-RANASPORTS — SINCRONIZACIÓN EXTRAORDINARIA GP MÉXICO 2026
-Fecha y hora ARG: 2026-11-01 23:08
-Corrida: EXTRAORDINARIA — SANCIONES ALPINE
-Altas verificadas: 4
-Filas nuevas: Noticias!4356:4359
-Correcciones: Noticias!4339 y Noticias!4355
+RANASPORTS — SINCRONIZACIÓN EXTRAORDINARIA DE FOTOS DEL GP MÉXICO 2026
+Fecha y hora ARG: 2026-11-01 23:13
+Corrida: REPARACIÓN IMÁGENES — SANCIONES ALPINE
+Filas verificadas con URL imagen, crédito y candidato: Noticias!4356:4359
+Publicación: 4 notas (Alpine conjunto, Colapinto, Gasly, clasificación)
 Última noticia: ASÍ QUEDÓ LA CLASIFICACIÓN FINAL DEL GP DE MÉXICO: LAWSON SÉPTIMO, COLAPINTO 15.º Y GASLY 17.º
-Fuentes oficiales: FIA docs 84, 85, 86 y 87
-Estado: SHEETS_VERIFICADAS; CSV_POR_SINCRONIZAR; IMÁGENES_PENDIENTES
+Estado: SHEETS_FOTOS_CARGADAS; PULSO_GITHUB_ENVIADO; CSV_POR_VERIFICAR
