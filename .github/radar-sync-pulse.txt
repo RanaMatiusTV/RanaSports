@@ -1,6 +1,8 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Ejecución programada: 2026-11-02 12:10 America/Argentina/Buenos_Aires
-Altas verificadas: 3
-Filas: 4370, 4371, 4372
-Noticias: Colapinto pidió disculpas por la sanción en México; River perfila reemplazantes para Aldosivi; Unai Simón reveló gesto del Dibu tras la final del Mundial.
+RADAR 6 — RanaSports Actualidad Inmediata
+Ejecución programada: 2026-11-02 13:10 America/Argentina/Buenos_Aires
+Altas verificadas: 2
+Filas: 4373, 4374
+Noticias: Independiente visita a Defensa y Justicia, hora, TV y panorama de octavos; definidos los siete cruces del Reducido de la Primera Nacional 2026.
+Antiduplicados: verificadas noticias recientes y bloque histórico 3950-4372; descartados 2500 hinchas visitantes (publicado en fila 4041), sanciones de Alpine, Superclásico, tabla anual de Boca y declaraciones ya cubiertas.
+Fotos H: 2 comprobadas visualmente, ambas identificadas como archivo en crédito y criterio.
 Estado: GOOGLE_SHEETS_VERIFICADO; GITHUB_PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
