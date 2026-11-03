@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-03T06:44:45.802Z",
+  "updatedAt": "2026-11-03T14:40:57.665Z",
   "trends": [
     {
-      "query": "iran",
-      "startedAt": "2026-11-03T05:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "javier milei",
-      "startedAt": "2026-11-03T04:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "grizzlies - pelicans",
-      "startedAt": "2026-11-03T04:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "karl bushby",
-      "startedAt": "2026-11-03T03:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "nano villarnovo",
-      "startedAt": "2026-11-03T03:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "josé luis gioia",
-      "startedAt": "2026-11-03T02:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "paro nacional de transporte",
-      "startedAt": "2026-11-03T02:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "lakers - heat",
-      "startedAt": "2026-11-03T02:40:00.000Z",
+      "query": "novak djokovic",
+      "startedAt": "2026-11-03T14:00:00.000Z",
       "volume": 1000
     },
     {
-      "query": "vix index",
-      "startedAt": "2026-11-03T02:40:00.000Z",
+      "query": "josé luis gioia sufrió un acv",
+      "startedAt": "2026-11-03T14:00:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "juan minujin",
+      "startedAt": "2026-11-03T14:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "posiciones de atlético tucumán contra argentinos juniors",
-      "startedAt": "2026-11-03T02:30:00.000Z",
-      "volume": 50000
+      "query": "osfa",
+      "startedAt": "2026-11-03T13:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "paro nacional",
+      "startedAt": "2026-11-03T13:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "predicción",
+      "startedAt": "2026-11-03T13:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "elecciones eeuu",
+      "startedAt": "2026-11-03T12:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "3 de noviembre",
+      "startedAt": "2026-11-03T12:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "terremoto sismo temblor hoy epicentro",
+      "startedAt": "2026-11-03T12:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "feriado bancario noviembre 2026",
+      "startedAt": "2026-11-03T12:40:00.000Z",
+      "volume": 100
     }
   ]
 }
