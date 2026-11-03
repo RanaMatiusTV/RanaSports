@@ -1,6 +1,22 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/rugby/los-pumitas-7s-ganaron-el-bronce-en-dakar-2026-tras-golear-36-5-a-canada/": {
+      "account": "sports",
+      "title": "LOS PUMITAS 7S GANARON EL BRONCE EN DAKAR 2026 TRAS GOLEAR 36-5 A CANADÁ",
+      "dueAt": "2026-11-03T06:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae984453f84a453ac0b941d",
+      "createdAt": "2026-11-03T06:50:45.972Z"
+    },
+    "https://ranasports.com.ar/f1/briatore-respaldo-a-colapinto-tras-la-sancion-en-mexico/": {
+      "account": "f1",
+      "title": "BRIATORE RESPALDÓ A COLAPINTO TRAS LA SANCIÓN EN MÉXICO: “HIZO UNA MUY BUENA CARRERA”",
+      "dueAt": "2026-11-03T06:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6ae98445e5f645e4e3316db4",
+      "createdAt": "2026-11-03T06:50:45.346Z"
+    },
     "https://ranasports.com.ar/rugby/los-pumitas-7s-cayeron-24-12-ante-sudafrica-y-quedaron-en-la-pelea-por-el-bronce-en-dakar/": {
       "account": "sports",
       "title": "LOS PUMITAS 7S CAYERON 24-12 ANTE SUDÁFRICA Y QUEDARON EN LA PELEA POR EL BRONCE EN DAKAR",
@@ -5119,26 +5135,6 @@
       "createdAt": "2026-10-08T18:04:39.437Z",
       "externalLink": "https://x.com/768913759301754880/status/2108262406212182472",
       "sentAt": "2026-10-08T18:25:02.166Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0ODI1MjAwMDAsIk9UQU1FTkRJLCBGTE9SRVMgWSBQSVpBUlJPIFNFIERFU1RBQ0FST04gRU4gTEEgRkVDSEEgRklGQSJd": {
-      "account": "main",
-      "title": "OTAMENDI, FLORES Y PIZARRO SE DESTACARON EN LA FECHA FIFA",
-      "dueAt": "2026-10-08T18:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac7db3696e7c60048641322",
-      "createdAt": "2026-10-08T18:04:39.070Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108261148462121335",
-      "sentAt": "2026-10-08T18:20:02.306Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDgyNTIwMDAwLCJCT0NBIFZJQUpBIEEgQ8OTUkRPQkEgQ09OIE1PTlRFUk8sIEJBVFRBR0xJQSBZIEVMIEpVVkVOSUwgSk9BUVXDjU4gUlVJWiJd": {
-      "account": "main",
-      "title": "BOCA VIAJA A CÓRDOBA CON MONTERO, BATTAGLIA Y EL JUVENIL JOAQUÍN RUIZ",
-      "dueAt": "2026-10-08T18:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac7db36777d0616a6fc5a3e",
-      "createdAt": "2026-10-08T18:04:38.677Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108259943711232242",
-      "sentAt": "2026-10-08T18:15:15.149Z"
     }
   },
   "nextAt": {
