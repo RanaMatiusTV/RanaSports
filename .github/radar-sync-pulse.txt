@@ -1,10 +1,8 @@
-RADAR 1 — RanaSports Rescate Complementario
-Corrida extraordinaria: 2026-11-03 08:50 America/Argentina/Buenos_Aires
-Ventana de búsqueda: últimas 12 horas y noticias nuevas verificadas de hoy 03/11
-Altas verificadas: 6
-Filas nuevas: Noticias!4387:4392
-Temas: fallecimiento Jesús de Miguel Tenerife; suspensión copas RFEF; Champions previa 3/11; programación oficial Fecha 16 Clausura; venta entradas final Boca-Mineiro; video a bordo Colapinto sanción.
+SINCRONIZACIÓN EXTRAORDINARIA — EMBED RANASPORTS
+Corrida: 2026-11-03 09:08 America/Argentina/Buenos_Aires
+Causa: sincronizar URL de video en noticia del fallecimiento del jugador del Tenerife
+Fila modificada en Google Sheets: Noticias!K4387
+Enlace video: https://x.com/laligaa_neews/status/2117272602523684948
 Última noticia: UN VIDEO A BORDO DE COLAPINTO REAVIVÓ LA POLÉMICA POR SU SANCIÓN EN EL GP DE MÉXICO
-Última fila verificada en planilla: 4392
-Estado: ALTAS_VERIFICADAS; FOTO_H_SIN_VALIDACION_POR_PEDIDO_USUARIO; SINCRONIZACION_SOLICITADA
-Sin modificar manualmente assets/news-live.csv, assets/news-archive.csv ni workflows.
+Estado: K4387_VERIFICADA_EN_SHEETS; PUBLICACION_CSV_SOLICITADA
+No se modificaron manualmente los CSV ni workflows.
