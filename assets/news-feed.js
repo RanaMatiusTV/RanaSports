@@ -162,9 +162,14 @@
   // vinculados a esa misma noticia; nunca un screenshot automático de la página.
   return queue;
  }
+ // Evitar reintentar continuamente URLs que acaban de fallar.
+ const failedImageSources=new Map();
+ const FAILED_SOURCE_RETRY_MS=15*60*1000;
  function imageWithFallback(img,primary,alternates=[],onFail){
   const queue=[];
-  const push=url=>{if(url&&!queue.includes(url))queue.push(url);};
+  const push=url=>{if(url&&!queue.includes(url)&&(failedImageSources.get(url)||0)<Date.now())queue.push(url);};
+  img.dataset.rsImageSignature=[primary,...(alternates||[])].filter(Boolean).join('\n');
+  img.style.visibility='hidden';
   const originals=[primary,...(alternates||[])].filter(Boolean);
 
    // Local editorial images load directly; external sports CDNs may need a proxy.
@@ -178,10 +183,10 @@
     const url=queue[index++];
     if(url&&url!==img.currentSrc&&url!==img.src){img.src=url;return true;}
    }
-   if(!settled){settled=true;onFail?.();}return false;
+   if(!settled){settled=true;queueMicrotask(()=>onFail?.());}return false;
   };
-  img.addEventListener('load',()=>{settled=true;});
-  img.addEventListener('error',()=>{if(busy)return;busy=true;next();busy=false;});
+  img.addEventListener('load',()=>{settled=true;img.style.visibility='visible';failedImageSources.delete(img.currentSrc||img.src);});
+  img.addEventListener('error',()=>{if(busy)return;busy=true;failedImageSources.set(img.currentSrc||img.src,Date.now()+FAILED_SOURCE_RETRY_MS);next();busy=false;});
   next();
  }
  function sameImageSource(current,target){
@@ -204,7 +209,9 @@
     visual.append(img);card.insertBefore(visual,card.firstChild);
    }
    const current=img.currentSrc||img.src||'';
-   if(sameImageSource(current,primary))return;
+   const signature=[primary,...candidates].filter(Boolean).join('\n');
+   if(img.dataset.rsImageSignature===signature)return;
+   if(img.complete&&img.naturalWidth>1&&[primary,...candidates].some(url=>sameImageSource(current,url)))return;
    imageWithFallback(img,primary,candidates,()=>visual.remove());
   });
  }
