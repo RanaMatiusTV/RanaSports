@@ -1,8 +1,8 @@
 RADAR 5 — Actualidad Inmediata
-Corrida: 2026-11-03 16:10 America/Argentina/Buenos_Aires
-Altas verificadas: 0
-Filas nuevas: ninguna
-Candidatas: Thiago Pizzini séptimo en 400 m libre y diploma olímpico; Cecilia Dieleke finalista 100 m espalda (DeporTV 03/11); Agustín Asmu octavos tenis de mesa (DeporTV 02/11)
-Descartadas por duplicación: Argentina 9-2 Senegal; Independiente 1-1 Defensa; medallas Dieleke, Carvallo y Pumitas
-Última noticia: UN VIDEO A BORDO DE COLAPINTO REAVIVÓ LA POLÉMICA POR SU SANCIÓN EN EL GP DE MÉXICO
-Estado: SIN_ALTAS; PULSO_ENVIADO; VERIFICACION_CSV_PENDIENTE
+Corrida: 2026-11-03 18:10 America/Argentina/Buenos_Aires
+Altas verificadas: 1
+Filas nuevas: 4393
+Candidatas: Cecilia Dieleke bronce 100 m espalda (publicada); Thiago Pizzini diploma 400 m libre; Agustín Asmu octavos tenis de mesa; Alpine Minì reemplaza a Gasly en FP1 Brasil
+Descartadas por duplicación: oro Dieleke 200 m espalda; Argentina 9-2 Senegal; Independiente 1-1 Defensa; bronce Carvallo y Pumitas
+Última noticia: CECILIA DIELEKE GANÓ EL BRONCE EN LOS 100 METROS ESPALDA Y SUMÓ SU SEGUNDA MEDALLA EN DAKAR 2026
+Estado: ALTA_VERIFICADA; PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
