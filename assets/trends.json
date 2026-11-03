@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-03T14:40:57.665Z",
+  "updatedAt": "2026-11-03T20:38:20.293Z",
   "trends": [
     {
-      "query": "novak djokovic",
-      "startedAt": "2026-11-03T14:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "josé luis gioia sufrió un acv",
-      "startedAt": "2026-11-03T14:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "juan minujin",
-      "startedAt": "2026-11-03T14:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "osfa",
-      "startedAt": "2026-11-03T13:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "paro nacional",
-      "startedAt": "2026-11-03T13:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "predicción",
-      "startedAt": "2026-11-03T13:00:00.000Z",
+      "query": "roma fc",
+      "startedAt": "2026-11-03T20:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "elecciones eeuu",
-      "startedAt": "2026-11-03T12:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "3 de noviembre",
-      "startedAt": "2026-11-03T12:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "terremoto sismo temblor hoy epicentro",
-      "startedAt": "2026-11-03T12:40:00.000Z",
+      "query": "bayern munich",
+      "startedAt": "2026-11-03T20:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "feriado bancario noviembre 2026",
-      "startedAt": "2026-11-03T12:40:00.000Z",
+      "query": "villarreal vs psg",
+      "startedAt": "2026-11-03T20:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "man utd vs roma",
+      "startedAt": "2026-11-03T20:20:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "rachel apa",
+      "startedAt": "2026-11-03T20:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "roma",
+      "startedAt": "2026-11-03T20:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "posiciones de galatasaray contra vfb stuttgart",
+      "startedAt": "2026-11-03T20:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "brian fariñas pérez",
+      "startedAt": "2026-11-03T20:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clima neuquen",
+      "startedAt": "2026-11-03T19:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "valtteri bottas",
+      "startedAt": "2026-11-03T19:40:00.000Z",
+      "volume": 200
     }
   ]
 }
