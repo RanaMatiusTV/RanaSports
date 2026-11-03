@@ -1,8 +1,8 @@
-SINCRONIZACIÓN EXTRAORDINARIA — EMBED RANASPORTS
-Corrida: 2026-11-03 09:08 America/Argentina/Buenos_Aires
-Causa: sincronizar URL de video en noticia del fallecimiento del jugador del Tenerife
-Fila modificada en Google Sheets: Noticias!K4387
-Enlace video: https://x.com/laligaa_neews/status/2117272602523684948
+RADAR 5 — Actualidad Inmediata
+Corrida: 2026-11-03 10:10 America/Argentina/Buenos_Aires
+Altas verificadas: 0
+Filas nuevas: ninguna
+Candidatas: Agustín Asmu avanzó a octavos en tenis de mesa Dakar 2026 (sin URL fotográfica directa identificada); resultados Dakar ya cubiertos
+Descartadas por duplicación: Argentina 9-2 Senegal; bronce Los Pumitas; oro Dieleke; bronce Carvallo; Independiente 1-1 Defensa y Justicia
 Última noticia: UN VIDEO A BORDO DE COLAPINTO REAVIVÓ LA POLÉMICA POR SU SANCIÓN EN EL GP DE MÉXICO
-Estado: K4387_VERIFICADA_EN_SHEETS; PUBLICACION_CSV_SOLICITADA
-No se modificaron manualmente los CSV ni workflows.
+Estado: SIN_ALTAS; PULSO_SOLICITADO; VERIFICACION_CSV_PENDIENTE
