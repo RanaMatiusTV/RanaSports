@@ -1,9 +1,10 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Corrida: 2026-11-03 08:10 America/Argentina/Buenos_Aires
-Altas verificadas: 0
-Filas nuevas: ninguna
-Última noticia: BRIATORE RESPALDÓ A COLAPINTO TRAS LA SANCIÓN EN MÉXICO: “HIZO UNA MUY BUENA CARRERA”
-Última fila verificada en planilla: 4381
-Estado: SIN_ALTAS; FOTO_H_NO_VALIDADA; SINCRONIZACION_SOLICITADA
-Candidatas confirmadas pendientes de imagen directa HTTP validada: Argentina 9-2 Senegal (futsal Dakar 2026); Defensa y Justicia 1-1 Independiente (Clausura).
-Fotografías reparadas: 0; ninguna fila modificada.
+RADAR 1 — RanaSports Noticias
+Corrida extraordinaria: 2026-11-03 08:39 America/Argentina/Buenos_Aires
+Ventana: 2026-11-02 20:34 a 2026-11-03 08:34 (12 horas solicitadas)
+Altas verificadas: 5
+Filas nuevas: Noticias!4382:4386
+Títulos: Independiente 1-1 Defensa y Justicia; Argentina 9-2 Senegal (Dakar futsal); Argentinos Juniors 2-1 Atlético Tucumán; Independiente Rivadavia 3-1 Banfield; Platense 2-0 Central Córdoba.
+Última noticia: PLATENSE LE GANÓ 2-0 A CENTRAL CÓRDOBA Y MANTIENE VIVA LA ILUSIÓN DE LOS PLAYOFFS
+Última fila verificada en planilla: 4386
+Estado: ALTAS_VERIFICADAS; FOTOGRAFIAS_SIN_VALIDACION_POR_PEDIDO_USUARIO; SINCRONIZACION_SOLICITADA
+No se modificaron notas históricas ni workflows ni assets/news-live.csv manualmente.
