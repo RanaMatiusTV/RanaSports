@@ -1,8 +1,8 @@
 RADAR 5 — Actualidad Inmediata
-Corrida: 2026-11-03 18:10 America/Argentina/Buenos_Aires
+Corrida: 2026-11-03 20:10 America/Argentina/Buenos_Aires
 Altas verificadas: 1
-Filas nuevas: 4393
-Candidatas: Cecilia Dieleke bronce 100 m espalda (publicada); Thiago Pizzini diploma 400 m libre; Agustín Asmu octavos tenis de mesa; Alpine Minì reemplaza a Gasly en FP1 Brasil
-Descartadas por duplicación: oro Dieleke 200 m espalda; Argentina 9-2 Senegal; Independiente 1-1 Defensa; bronce Carvallo y Pumitas
-Última noticia: CECILIA DIELEKE GANÓ EL BRONCE EN LOS 100 METROS ESPALDA Y SUMÓ SU SEGUNDA MEDALLA EN DAKAR 2026
+Filas nuevas: 4394
+Candidatas: Agustín Asmu octavos (publicada); Thiago Pizzini diploma 400 m libre (pendiente URL imagen); horarios GP Sao Paulo (sin alta)
+Descartadas por duplicación: Cecilia Dieleke bronce 100 m espalda; Argentina 9-2 Senegal; Independiente 1-1 Defensa; programación fecha 16
+Última noticia: AGUSTÍN ASMU VENCIÓ A BRASIL Y AVANZÓ A OCTAVOS DEL TENIS DE MESA EN DAKAR 2026
 Estado: ALTA_VERIFICADA; PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
