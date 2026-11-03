@@ -1,12 +1,10 @@
-RADAR 6 — RanaSports Actualidad Inmediata
-Fecha: 2026-11-02 21:09 America/Argentina/Buenos_Aires
-Corrida: RADAR6-20261102-2109
-Altas verificadas: 1
-Filas nuevas: 4381
+RADAR 5 — RanaSports Actualidad Inmediata
+Fecha: 2026-11-02 22:10 America/Argentina/Buenos_Aires
+Corrida: RADAR5-20261102-2210
+Altas verificadas: 0
+Filas nuevas: ninguna
 Última noticia: BRIATORE RESPALDÓ A COLAPINTO TRAS LA SANCIÓN EN MÉXICO: “HIZO UNA MUY BUENA CARRERA”
 Última fila verificada en planilla: 4381
-Estado: GOOGLE_SHEETS_VERIFICADO; FOTO_DIRECTA_ARCHIVO_VERIFICADA; GITHUB_PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
-Candidatas revisadas: declaraciones de Briatore (publicada), definición simultánea de tabla anual (horario aún sin confirmación oficial), Defensa-Independiente (sin marcador final contrastado al cierre), Senegal-Argentina futsal Dakar 2026 (sin resultado final oficial contrastado), medallas Dakar 2026 (sin nuevos podios confirmados).
-Antiduplicados: descartadas nuevas notas sobre sanciones FIA, disculpas de Colapinto, bronces de Carvallo y Pumitas, oro Dieleke, y resultados de futsal River-Boca ya publicados.
-Control: una fila nueva escrita y releída; ninguna noticia histórica alterada; R=TRUE intacto; otros radares sin cambios.
-Acción: exportar Noticias a assets/news-live.csv y exigir título sentinela exacto antes de declarar éxito.
+Estado: SIN_ALTAS; CANDIDATAS_SIN_VERIFICACION_SUFICIENTE; PULSO_SOLICITADO
+Candidatas: resultado final Defensa y Justicia-Independiente; Senegal-Argentina futsal Dakar 2026; medallas argentinas Dakar.
+Descartadas: bronce Los Pumitas, oro Dieleke, bronce Carvallo (ya publicados); resultados no confirmados o sin foto validada.
