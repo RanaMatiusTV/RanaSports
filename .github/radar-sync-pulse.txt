@@ -1,9 +1,9 @@
-RADAR 6 — RanaSports Actualidad Inmediata
-Corrida: 2026-11-03 07:10 America/Argentina/Buenos_Aires
+RADAR 5 — RanaSports Actualidad Inmediata
+Corrida: 2026-11-03 08:10 America/Argentina/Buenos_Aires
 Altas verificadas: 0
 Filas nuevas: ninguna
 Última noticia: BRIATORE RESPALDÓ A COLAPINTO TRAS LA SANCIÓN EN MÉXICO: “HIZO UNA MUY BUENA CARRERA”
 Última fila verificada en planilla: 4381
 Estado: SIN_ALTAS; FOTO_H_NO_VALIDADA; SINCRONIZACION_SOLICITADA
-Candidatas verificadas sin fotografía H comprobable: Argentina 9-2 Senegal (futsal Dakar 2026); Defensa y Justicia 1-1 Independiente (Clausura).
-Sin duplicar noticias ni alterar otras filas.
+Candidatas confirmadas pendientes de imagen directa HTTP validada: Argentina 9-2 Senegal (futsal Dakar 2026); Defensa y Justicia 1-1 Independiente (Clausura).
+Fotografías reparadas: 0; ninguna fila modificada.
