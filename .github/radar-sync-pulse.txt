@@ -1,12 +1,12 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Fecha: 2026-11-02 20:10 America/Argentina/Buenos_Aires
-Corrida: RADAR5-20261102-2010
-Altas verificadas: 0
-Filas nuevas: ninguna
-Última noticia: ARANDA Y BAREIRO RECIBIERON EL ALTA MÉDICA Y VOLVIERON A ENTRENARSE CON BOCA
-Última fila verificada en planilla: 4380
-Estado: GOOGLE_SHEETS_RELEIDO; SIN_ALTAS; GITHUB_PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
-Candidatas revisadas: Independiente-Defensa y Justicia (partido en desarrollo; 1-1 al descanso, no resultado final), Senegal-Argentina futsal Dakar 2026 (sin resultado oficial confirmado), medallas Dakar 2026 (sin nuevos podios verificables), Paraguay-Islas Salomon futsal (sin foto directa validada).
-Antiduplicados: descartados bronces Pumitas y Carvallo, oro Dieleke, previa Independiente-Defensa, futsal River-Boca y alta Aranda/Bareiro.
-Control: ninguna fila escrita, ninguna noticia anterior alterada, R=TRUE intacto, otros radares sin cambios.
+RADAR 6 — RanaSports Actualidad Inmediata
+Fecha: 2026-11-02 21:09 America/Argentina/Buenos_Aires
+Corrida: RADAR6-20261102-2109
+Altas verificadas: 1
+Filas nuevas: 4381
+Última noticia: BRIATORE RESPALDÓ A COLAPINTO TRAS LA SANCIÓN EN MÉXICO: “HIZO UNA MUY BUENA CARRERA”
+Última fila verificada en planilla: 4381
+Estado: GOOGLE_SHEETS_VERIFICADO; FOTO_DIRECTA_ARCHIVO_VERIFICADA; GITHUB_PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
+Candidatas revisadas: declaraciones de Briatore (publicada), definición simultánea de tabla anual (horario aún sin confirmación oficial), Defensa-Independiente (sin marcador final contrastado al cierre), Senegal-Argentina futsal Dakar 2026 (sin resultado final oficial contrastado), medallas Dakar 2026 (sin nuevos podios confirmados).
+Antiduplicados: descartadas nuevas notas sobre sanciones FIA, disculpas de Colapinto, bronces de Carvallo y Pumitas, oro Dieleke, y resultados de futsal River-Boca ya publicados.
+Control: una fila nueva escrita y releída; ninguna noticia histórica alterada; R=TRUE intacto; otros radares sin cambios.
 Acción: exportar Noticias a assets/news-live.csv y exigir título sentinela exacto antes de declarar éxito.
