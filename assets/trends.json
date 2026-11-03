@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-02T23:52:17.570Z",
+  "updatedAt": "2026-11-03T06:44:45.802Z",
   "trends": [
     {
-      "query": "atlético tucumán - argentinos jrs.",
-      "startedAt": "2026-11-02T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "independiente rivadavia - banfield",
-      "startedAt": "2026-11-02T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "base naval puerto belgrano",
-      "startedAt": "2026-11-02T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "posiciones de sporting cristal contra fc cajamarca",
-      "startedAt": "2026-11-02T23:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "fede bal",
-      "startedAt": "2026-11-02T23:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "quilmes rock 2027",
-      "startedAt": "2026-11-02T23:20:00.000Z",
+      "query": "iran",
+      "startedAt": "2026-11-03T05:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "posiciones de benfica contra fc alverca",
-      "startedAt": "2026-11-02T23:10:00.000Z",
+      "query": "javier milei",
+      "startedAt": "2026-11-03T04:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "claudio tapia",
-      "startedAt": "2026-11-02T23:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "brad pitt",
-      "startedAt": "2026-11-02T23:00:00.000Z",
+      "query": "grizzlies - pelicans",
+      "startedAt": "2026-11-03T04:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "todo noticias",
-      "startedAt": "2026-11-02T22:50:00.000Z",
+      "query": "karl bushby",
+      "startedAt": "2026-11-03T03:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "nano villarnovo",
+      "startedAt": "2026-11-03T03:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "josé luis gioia",
+      "startedAt": "2026-11-03T02:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "paro nacional de transporte",
+      "startedAt": "2026-11-03T02:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "lakers - heat",
+      "startedAt": "2026-11-03T02:40:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "vix index",
+      "startedAt": "2026-11-03T02:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "posiciones de atlético tucumán contra argentinos juniors",
+      "startedAt": "2026-11-03T02:30:00.000Z",
+      "volume": 50000
     }
   ]
 }
