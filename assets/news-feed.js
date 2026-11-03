@@ -145,6 +145,18 @@
   }catch{}
   return '';
  }
+ function originalBehindImageCDN(url){
+  try{
+   const u=new URL(url);
+   if(u.hostname!=='cdnartic.ar')return '';
+   const path=decodeURIComponent(u.pathname);
+   const start=path.indexOf('/https://');
+   if(start<0)return '';
+   const original=path.slice(start+1);
+   const target=new URL(original);
+   return target.protocol==='https:'?target.href:'';
+  }catch{return '';}
+ }
  function fallbackVisualCandidates(item){
   const queue=[],push=url=>{if(url&&!queue.includes(url))queue.push(url);};
   const embedThumb=mediaFallbackImage(item?.video||'');
@@ -152,8 +164,10 @@
   if(preferEmbedThumb){
    push(embedThumb);
    push(item?.image||'');
+   push(originalBehindImageCDN(item?.image||''));
   }else{
    push(item?.image||'');
+   push(originalBehindImageCDN(item?.image||''));
    push(item?.extraImage||'');
    push(embedThumb);
   }
