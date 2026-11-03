@@ -1,9 +1,9 @@
-RADAR 6 — RanaSports Actualidad Inmediata
-Corrida: 2026-11-02 23:10 America/Argentina/Buenos_Aires
+RADAR 5 — RanaSports Actualidad Inmediata
+Corrida: 2026-11-03 06:10 America/Argentina/Buenos_Aires
 Altas verificadas: 0
 Filas nuevas: ninguna
 Última noticia: BRIATORE RESPALDÓ A COLAPINTO TRAS LA SANCIÓN EN MÉXICO: “HIZO UNA MUY BUENA CARRERA”
 Última fila verificada en planilla: 4381
-Estado: SIN_ALTAS; FOTO_NO_VERIFICABLE; PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
-Candidata: Argentina 9-2 Senegal futsal Dakar 2026, resultado confirmado AFA, foto H sin comprobación HTTP/decodificación; no publicada.
-Descartadas por duplicación: bronce Pumitas, oro Dieleke, bronce Carvallo, otras notas ya presentes.
+Estado: SIN_ALTAS; FOTOS_NUEVAS_NO_VERIFICADAS; PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
+Candidatas: Argentina 9-2 Senegal (futsal Dakar 2026); Defensa y Justicia 1-1 Independiente (resultado final). Sin foto H validada, no publicadas.
+Descartadas por duplicación: oro Dieleke, bronces Carvallo y Pumitas; coberturas previas.
