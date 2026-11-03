@@ -1,8 +1,8 @@
 RADAR 5 — Actualidad Inmediata
-Corrida: 2026-11-03 12:10 America/Argentina/Buenos_Aires
+Corrida: 2026-11-03 14:10 America/Argentina/Buenos_Aires
 Altas verificadas: 0
 Filas nuevas: ninguna
-Candidatas: Agustín Asmu clasificó a octavos en tenis de mesa Dakar 2026 (fuente DeporTV; sin URL directa de fotografía identificada)
+Candidatas: Agustín Asmu clasificó a octavos en tenis de mesa Dakar 2026 (DeporTV, 02/11; sin URL directa de fotografía identificada)
 Descartadas por duplicación: Argentina 9-2 Senegal; Independiente 1-1 Defensa y Justicia; medallas Dieleke, Carvallo y Los Pumitas; programación fecha 16
 Última noticia: UN VIDEO A BORDO DE COLAPINTO REAVIVÓ LA POLÉMICA POR SU SANCIÓN EN EL GP DE MÉXICO
-Estado: SIN_ALTAS; PULSO_ENVIADO; CSV_PENDIENTE_DE_COMPROBACION
+Estado: SIN_ALTAS; PULSO_ENVIADO; VERIFICACION_CSV_PENDIENTE
