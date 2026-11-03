@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/barcelona-aston-villa-y-atletico-bayern-los-grandes-cruces-de-la-champions-de-este-martes/": {
+      "account": "sports",
+      "title": "BARCELONA-ASTON VILLA Y ATLÉTICO-BAYERN, LOS GRANDES CRUCES DE LA CHAMPIONS DE ESTE MARTES",
+      "dueAt": "2026-11-03T22:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aea4bdd46499f925e7c09b3",
+      "createdAt": "2026-11-03T21:02:21.376Z"
+    },
+    "https://ranasports.com.ar/boca/boca-pone-a-la-venta-las-entradas-para-la-final-de-la-sudamericana-ante-atletico-mineiro/": {
+      "account": "sports",
+      "title": "BOCA PONE A LA VENTA LAS ENTRADAS PARA LA FINAL DE LA SUDAMERICANA ANTE ATLÉTICO MINEIRO",
+      "dueAt": "2026-11-03T21:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aea4bdadd6313a10719bcbd",
+      "createdAt": "2026-11-03T21:02:19.089Z"
+    },
+    "https://ranasports.com.ar/futbol/oficial/": {
+      "account": "sports",
+      "title": "OFICIAL: INDEPENDIENTE JUGARÁ EL VIERNES ANTE RIESTRA Y BOCA DEFINIRÁ LA TABLA ANUAL EL SÁBADO",
+      "dueAt": "2026-11-03T21:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aea4bd9a8918d96047f3a72",
+      "createdAt": "2026-11-03T21:02:17.704Z"
+    },
+    "https://ranasports.com.ar/futbol/platense-le-gano-2-0-a-central-cordoba-y-mantiene-viva-la-ilusion-de-los-playoffs/": {
+      "account": "sports",
+      "title": "PLATENSE LE GANÓ 2-0 A CENTRAL CÓRDOBA Y MANTIENE VIVA LA ILUSIÓN DE LOS PLAYOFFS",
+      "dueAt": "2026-11-03T21:02:14.311Z",
+      "mode": "shareNow",
+      "bufferPostId": "6aea4bd5170b6e898edc20b7",
+      "createdAt": "2026-11-03T21:02:16.651Z"
+    },
     "https://ranasports.com.ar/f1/un-video-a-bordo-de-colapinto-reavivo-la-polemica-por-su-sancion-en-el-gp-de-mexico/": {
       "account": "f1",
       "title": "UN VIDEO A BORDO DE COLAPINTO REAVIVÓ LA POLÉMICA POR SU SANCIÓN EN EL GP DE MÉXICO",
@@ -5083,46 +5115,6 @@
       "createdAt": "2026-10-08T20:14:00.929Z",
       "externalLink": "https://x.com/768913759301754880/status/2108298898192089472",
       "sentAt": "2026-10-08T20:50:02.535Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0OTAzMjAwMDAsIlJPSk8gWUEgU0UgRU5UUkVOQSBFTiBFU1RVRElBTlRFUywgUEVSTyBTVSBQUkVTRU5UQUNJw5NOIFNJR1VFIERFTU9SQURBIl0": {
-      "account": "main",
-      "title": "ROJO YA SE ENTRENA EN ESTUDIANTES, PERO SU PRESENTACIÓN SIGUE DEMORADA",
-      "dueAt": "2026-10-08T20:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac7f98862435c1f1fe0bbc8",
-      "createdAt": "2026-10-08T20:14:00.111Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108297648205672824",
-      "sentAt": "2026-10-08T20:45:04.519Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIGVuIGVsIGV4dGVyaW9yIiwxNzkxNDkwMzIwMDAwLCJKVUxJw4FOIMOBTFZBUkVaIERFSkFSw4EgQSBTVSBSRVBSRVNFTlRBTlRFIFRSQVMgRUwgUEFTRSBGQUxMSURPIEFMIEJBUkNFTE9OQSJd": {
-      "account": "main",
-      "title": "JULIÁN ÁLVAREZ DEJARÁ A SU REPRESENTANTE TRAS EL PASE FALLIDO AL BARCELONA",
-      "dueAt": "2026-10-08T20:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac7f98774384ca756d95d1f",
-      "createdAt": "2026-10-08T20:13:59.669Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108296382733832427",
-      "sentAt": "2026-10-08T20:40:02.861Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDkwMzIwMDAwLCLDmkJFREEgRVhQTElDw5MgUE9SIFFVw4kgU0UgRlVFIERFIEJPQ0EgWSBDw5NNTyBRVUVEw5MgQ09OIFJJUVVFTE1FIl0": {
-      "account": "main",
-      "title": "ÚBEDA EXPLICÓ POR QUÉ SE FUE DE BOCA Y CÓMO QUEDÓ CON RIQUELME",
-      "dueAt": "2026-10-08T20:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac7f98753e023600017e027",
-      "createdAt": "2026-10-08T20:13:59.257Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108295120596422656",
-      "sentAt": "2026-10-08T20:35:01.932Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJjb3BhIHN1ZGFtZXJpY2FuYSIsMTc5MTQ5MDMyMDAwMCwiU0FOVElBR08gU09TQSBRVUlFUkUgRVNUUkVOQVJTRSBFTiBMQSBSRUQgSlVTVE8gQ09OVFJBIEJPQ0EiXQ": {
-      "account": "main",
-      "title": "SANTIAGO SOSA QUIERE ESTRENARSE EN LA RED JUSTO CONTRA BOCA",
-      "dueAt": "2026-10-08T20:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac7f98574384ca756d95cec",
-      "createdAt": "2026-10-08T20:13:57.823Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108293931540611223",
-      "sentAt": "2026-10-08T20:30:18.437Z"
     }
   },
   "nextAt": {
