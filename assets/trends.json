@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-04T07:29:05.224Z",
+  "updatedAt": "2026-11-04T15:46:13.112Z",
   "trends": [
     {
-      "query": "67",
-      "startedAt": "2026-11-04T04:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "fin de semana",
-      "startedAt": "2026-11-04T04:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "f1 franco colapinto",
-      "startedAt": "2026-11-04T03:20:00.000Z",
+      "query": "superclásico del fútbol argentino",
+      "startedAt": "2026-11-04T15:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "texas",
-      "startedAt": "2026-11-04T02:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gina hinojosa",
-      "startedAt": "2026-11-04T02:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "ricardo la volpe",
-      "startedAt": "2026-11-04T02:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "internacional vs. coritiba",
-      "startedAt": "2026-11-04T02:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "diego ramos",
-      "startedAt": "2026-11-04T02:20:00.000Z",
+      "query": "pensión",
+      "startedAt": "2026-11-04T15:20:00.000Z",
       "volume": 2000
     },
     {
-      "query": "byron donalds",
-      "startedAt": "2026-11-04T02:20:00.000Z",
+      "query": "novak djokovic",
+      "startedAt": "2026-11-04T15:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "rennes - olympiacos",
+      "startedAt": "2026-11-04T15:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "washington post",
-      "startedAt": "2026-11-04T02:20:00.000Z",
+      "query": "álex de miñaur",
+      "startedAt": "2026-11-04T15:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "master 1000 paris",
+      "startedAt": "2026-11-04T14:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "cotizacion dolar hoy",
+      "startedAt": "2026-11-04T14:40:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "atp paris",
+      "startedAt": "2026-11-04T14:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "nelson castro",
+      "startedAt": "2026-11-04T13:30:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "riesgo pais argentina",
+      "startedAt": "2026-11-04T13:30:00.000Z",
+      "volume": 500
     }
   ]
 }
