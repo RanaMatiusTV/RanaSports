@@ -1,6 +1,6 @@
-RADAR 1 — RanaSports Noticias
-Corrida: 2026-11-04 07:08 America/Argentina/Buenos_Aires
-Altas verificadas: 9
-Filas nuevas: Noticias!4395:4403
+RADAR 5 — RanaSports Actualidad Inmediata
+Corrida: 2026-11-04 08:10 America/Argentina/Buenos_Aires
+Altas verificadas: 0
+Filas nuevas: ninguna
 Última noticia: MAC ALLISTER ABRIÓ LA PUERTA A VOLVER A BOCA, ARGENTINOS Y DEPORTIVO MAC ALLISTER
-Estado: ALTAS_VERIFICADAS; H_SIN_VALIDACION_MODO_AGIL; PULSO_ENVIADO
+Estado: SIN_ALTAS; CANDIDATAS_DAKAR_PENDIENTES_FOTO_DIRECTA; PULSO_ENVIADO
