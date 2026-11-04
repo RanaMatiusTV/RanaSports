@@ -1,7 +1,6 @@
-RADAR 1 — RanaSports Noticias
-Corrida: 2026-11-04 13:03:33 America/Argentina/Buenos_Aires
-Altas verificadas: 7
-Filas nuevas: Noticias!4420:4426
+RADAR 5
+Corrida: 2026-11-04 14:10 ARG
+Altas verificadas: 0
+Filas: ninguna
 Última noticia: EL COMITÉ ARBITRAL ESPAÑOL ADMITIÓ QUE NO FUE PENAL SOBRE MBAPPÉ
-Fila sentinela: Noticias!4426
-Estado: ALTAS_RELEIDAS; PULSO_ENVIADO; SINCRONIZACION_PENDIENTE_DE_COMPROBACION
+Estado: SIN_ALTAS; SINCRONIZACION_PENDIENTE
