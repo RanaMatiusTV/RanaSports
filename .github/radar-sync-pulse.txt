@@ -1,6 +1,6 @@
-RADAR 5 — RanaSports Actualidad Inmediata
-Corrida: 2026-11-04 08:10 America/Argentina/Buenos_Aires
-Altas verificadas: 0
-Filas nuevas: ninguna
-Última noticia: MAC ALLISTER ABRIÓ LA PUERTA A VOLVER A BOCA, ARGENTINOS Y DEPORTIVO MAC ALLISTER
-Estado: SIN_ALTAS; CANDIDATAS_DAKAR_PENDIENTES_FOTO_DIRECTA; PULSO_ENVIADO
+RADAR 1 — RanaSports Noticias
+Corrida: 2026-11-04 09:09:53 America/Argentina/Buenos_Aires
+Altas verificadas: 8
+Filas nuevas: Noticias!4404:4411
+Última noticia: HAAS SACÓ A OCON Y RAFAEL CÂMARA DEBUTARÁ EN EL GRAN PREMIO DE BRASIL
+Estado: ALTAS_RELEIDAS; H_SIN_VALIDACION_PREVIA; PULSO_ENVIADO
