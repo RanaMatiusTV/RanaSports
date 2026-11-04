@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/independiente-depende-de-si-mismo-para-clasificar-a-los-playoffs/": {
+      "account": "main",
+      "title": "INDEPENDIENTE DEPENDE DE SÍ MISMO PARA CLASIFICAR A LOS PLAYOFFS",
+      "dueAt": "2026-11-04T18:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aeb7290610a51b44de07d19",
+      "createdAt": "2026-11-04T17:59:45.105Z"
+    },
+    "https://ranasports.com.ar/f1/pechito-lopez-marco-el-aspecto-que-colapinto-debe-mejorar-en-la-formula-1/": {
+      "account": "f1",
+      "title": "PECHITO LÓPEZ MARCÓ EL ASPECTO QUE COLAPINTO DEBE MEJORAR EN LA FÓRMULA 1",
+      "dueAt": "2026-11-04T19:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aeb7290b60af5ca167c1aca",
+      "createdAt": "2026-11-04T17:59:44.254Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-quedo-decimo-en-el-ranking-estimado-de-danos-de-la-f1/": {
+      "account": "f1",
+      "title": "COLAPINTO QUEDÓ DÉCIMO EN EL RANKING ESTIMADO DE DAÑOS DE LA F1",
+      "dueAt": "2026-11-04T18:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aeb728fa6d053c9c5311dbf",
+      "createdAt": "2026-11-04T17:59:43.769Z"
+    },
+    "https://ranasports.com.ar/river/el-informe-arbitral-detallo-las-rojas-a-martinez-quarta-y-montiel/": {
+      "account": "sports",
+      "title": "EL INFORME ARBITRAL DETALLÓ LAS ROJAS A MARTÍNEZ QUARTA Y MONTIEL",
+      "dueAt": "2026-11-04T19:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aeb728f491f63648cee203d",
+      "createdAt": "2026-11-04T17:59:43.253Z"
+    },
+    "https://ranasports.com.ar/tenis/etcheverry-elimino-a-rublev-y-avanzo-en-el-masters-1000-de-paris/": {
+      "account": "sports",
+      "title": "ETCHEVERRY ELIMINÓ A RUBLEV Y AVANZÓ EN EL MASTERS 1000 DE PARÍS",
+      "dueAt": "2026-11-04T18:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aeb728ea6d053c9c5311d60",
+      "createdAt": "2026-11-04T17:59:42.645Z"
+    },
+    "https://ranasports.com.ar/futbol/talleres-goleo-8-1-a-argentinos-en-reserva-y-quedo-arriba-en-su-zona/": {
+      "account": "sports",
+      "title": "TALLERES GOLEÓ 8-1 A ARGENTINOS EN RESERVA Y QUEDÓ ARRIBA EN SU ZONA",
+      "dueAt": "2026-11-04T18:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aeb728dde5163115e1ca7d1",
+      "createdAt": "2026-11-04T17:59:41.768Z"
+    },
+    "https://ranasports.com.ar/futbol/soule-marco-pero-roma-perdio-un-partido-increible-ante-manchester-united/": {
+      "account": "sports",
+      "title": "SOULÉ MARCÓ, PERO ROMA PERDIÓ UN PARTIDO INCREÍBLE ANTE MANCHESTER UNITED",
+      "dueAt": "2026-11-04T17:59:39.185Z",
+      "mode": "shareNow",
+      "bufferPostId": "6aeb728bde5163115e1ca764",
+      "createdAt": "2026-11-04T17:59:41.320Z"
+    },
     "https://ranasports.com.ar/tenis-de-mesa/agustin-asmu-vencio-a-brasil-y-avanzo-a-octavos-del-tenis-de-mesa-en-dakar-2026/": {
       "account": "sports",
       "title": "AGUSTÍN ASMU VENCIÓ A BRASIL Y AVANZÓ A OCTAVOS DEL TENIS DE MESA EN DAKAR 2026",
@@ -5041,76 +5097,6 @@
       "createdAt": "2026-10-08T22:38:01.571Z",
       "externalLink": "https://x.com/2095690134515572737/status/2108329095306055881",
       "sentAt": "2026-10-08T22:50:02.083Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiUlVTU0VMTCBMQVJHQVLDgSBERVNERSBBVFLDgVMgRU4gU0lOR0FQVVIgUE9SIFVOQSBTQU5DScOTTiBERSBNT1RPUiJd": {
-      "account": "f1",
-      "title": "RUSSELL LARGARÁ DESDE ATRÁS EN SINGAPUR POR UNA SANCIÓN DE MOTOR",
-      "dueAt": "2026-10-08T22:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac81b48987e694c3c34641a",
-      "createdAt": "2026-10-08T22:38:01.059Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108327842517815422",
-      "sentAt": "2026-10-08T22:45:03.379Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiQ09MQVBJTlRPIENPTkbDjUEgRU4gQUxQSU5FIFkgQVBVTlRBIEEgUkVDT1JUQVIgTE9TIDIyIFBVTlRPUyBDT04gUkFDSU5HIEJVTExTIl0": {
-      "account": "f1",
-      "title": "COLAPINTO CONFÍA EN ALPINE Y APUNTA A RECORTAR LOS 22 PUNTOS CON RACING BULLS",
-      "dueAt": "2026-10-08T22:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac81b489db755aaaab8770d",
-      "createdAt": "2026-10-08T22:38:00.618Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108326577175957532",
-      "sentAt": "2026-10-08T22:40:01.725Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTQ5Njk4MDAwMCwiWEhBS0EgUkVDSUJJw5MgVU5BIE1VTFRBIFNVU1BFTkRJREEgUE9SIFVOIENFUlRJRklDQURPIEZBTFNPIERFIENPVklEIl0": {
-      "account": "main",
-      "title": "XHAKA RECIBIÓ UNA MULTA SUSPENDIDA POR UN CERTIFICADO FALSO DE COVID",
-      "dueAt": "2026-10-08T22:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8139e04eafd1b29b8af9c",
-      "createdAt": "2026-10-08T22:05:18.195Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108325322089197754",
-      "sentAt": "2026-10-08T22:35:02.555Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNDk2OTgwMDAwLCJMQSBKVVNUSUNJQSBWT0xWScOTIEEgTkVHQVJMRSBFTCBNQVJBQ0FOw4EgQSBWQVNDTyBQQVJBIFJFQ0lCSVIgQSBCT0NBIl0": {
-      "account": "main",
-      "title": "LA JUSTICIA VOLVIÓ A NEGARLE EL MARACANÁ A VASCO PARA RECIBIR A BOCA",
-      "dueAt": "2026-10-08T22:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8139d608b10642ba8255c",
-      "createdAt": "2026-10-08T22:05:17.684Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108324088993161707",
-      "sentAt": "2026-10-08T22:30:08.557Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTQ5Njk4MDAwMCwiTU9VUklOSE8gUkVDT1JEw5MgRUwgQ0FTTyBQUkVTVElBTk5JLVZJTklDSVVTOiDigJxGVUkgTUFTQUNSQURP4oCdIl0": {
-      "account": "main",
-      "title": "MOURINHO RECORDÓ EL CASO PRESTIANNI-VINICIUS: “FUI MASACRADO”",
-      "dueAt": "2026-10-08T22:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8139c9b31bc9fb8a4fe96",
-      "createdAt": "2026-10-08T22:05:16.679Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108322803258708253",
-      "sentAt": "2026-10-08T22:25:01.976Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0OTY5ODAwMDAsIkxBIFJFU0VSVkEgREUgVEFMTEVSRVMgVEVSTUlOw5MgQSBMQVMgUEnDkUFTIFkgRUwgTEFVQ0hBIEFDT1NUQSBRVUVEw5MgSU5WT0xVQ1JBRE8iXQ": {
-      "account": "main",
-      "title": "LA RESERVA DE TALLERES TERMINÓ A LAS PIÑAS Y EL LAUCHA ACOSTA QUEDÓ INVOLUCRADO",
-      "dueAt": "2026-10-08T22:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8139c762b217eacb54c3b",
-      "createdAt": "2026-10-08T22:05:16.176Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108321547043611077",
-      "sentAt": "2026-10-08T22:20:02.514Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE0OTY5ODAwMDAsIkFGQSBIQUJJTElUw5MgQSBJQUNPVklDSCBZIFPDgU5ERVosIFBFUk8gU0lHVUUgSU5WRVNUSUdBTkRPIEEgVkVSw5NOIl0": {
-      "account": "main",
-      "title": "AFA HABILITÓ A IACOVICH Y SÁNDEZ, PERO SIGUE INVESTIGANDO A VERÓN",
-      "dueAt": "2026-10-08T22:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8139bb97326f85962afe2",
-      "createdAt": "2026-10-08T22:05:15.580Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108320293701787690",
-      "sentAt": "2026-10-08T22:15:03.665Z"
     }
   },
   "nextAt": {
