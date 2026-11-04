@@ -1,7 +1,7 @@
-RADAR 1 — RanaSports Noticias
-Corrida: 2026-11-04 11:05:29 America/Argentina/Buenos_Aires
-Altas verificadas: 8
-Filas nuevas: Noticias!4412:4419
+RADAR 5 — RanaSports Actualidad Inmediata
+Corrida: 2026-11-04 12:12:17 America/Argentina/Buenos_Aires
+Altas verificadas: 0
+Filas nuevas: ninguna
 Última noticia: GABRIEL ROJAS ABRIÓ LA PUERTA A UN REGRESO A RACING
-Estado: ALTAS_VERIFICADAS_EN_SHEETS; PULSO_ENVIADO; SINCRONIZACION_PENDIENTE_DE_COMPROBACION
 Fila sentinela: Noticias!4419
+Estado: SIN_ALTAS; PULSO_ENVIADO; SINCRONIZACION_PENDIENTE_DE_COMPROBACION
