@@ -1,8 +1,8 @@
 RADAR 5 — Actualidad Inmediata
-Corrida: 2026-11-03 22:10 America/Argentina/Buenos_Aires
+Corrida: 2026-11-04 06:10 America/Argentina/Buenos_Aires
 Altas verificadas: 0
 Filas nuevas: ninguna
-Candidatas: Thiago Pizzini séptimo en 400 m libre y diploma olímpico (confirmado DeporTV; sin URL fotográfica directa identificada)
-Descartadas por duplicación: Agustín Asmu octavos; Cecilia Dieleke bronce; Argentina 9-2 Senegal; Independiente 1-1 Defensa; programación fecha 16
+Candidatas: Thiago Pizzini, diploma olímpico 400 m libre (DeporTV, 03/11); sin URL fotográfica directa pertinente identificada
+Descartadas por duplicación: Cecilia Dieleke bronce; Agustín Asmu octavos; Argentina 9-2 Senegal; Independiente 1-1 Defensa
 Última noticia: AGUSTÍN ASMU VENCIÓ A BRASIL Y AVANZÓ A OCTAVOS DEL TENIS DE MESA EN DAKAR 2026
-Estado: SIN_ALTAS; PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
+Estado: SIN_ALTAS; SIN_FOTO_DIRECTA_PIZZINI; PULSO_ENVIADO; CSV_PENDIENTE_COMPROBACION
