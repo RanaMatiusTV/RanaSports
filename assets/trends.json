@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-04T00:54:31.120Z",
+  "updatedAt": "2026-11-04T07:29:05.224Z",
   "trends": [
     {
-      "query": "janones",
-      "startedAt": "2026-11-04T00:40:00.000Z",
+      "query": "67",
+      "startedAt": "2026-11-04T04:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "el territorio",
-      "startedAt": "2026-11-04T00:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "alianza lima - cienciano",
-      "startedAt": "2026-11-04T00:30:00.000Z",
+      "query": "fin de semana",
+      "startedAt": "2026-11-04T04:10:00.000Z",
       "volume": 500
     },
     {
-      "query": "internacional",
-      "startedAt": "2026-11-04T00:30:00.000Z",
+      "query": "f1 franco colapinto",
+      "startedAt": "2026-11-04T03:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "pablo migliore",
-      "startedAt": "2026-11-04T00:20:00.000Z",
+      "query": "texas",
+      "startedAt": "2026-11-04T02:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "convocados selección argentina",
-      "startedAt": "2026-11-04T00:20:00.000Z",
+      "query": "gina hinojosa",
+      "startedAt": "2026-11-04T02:30:00.000Z",
       "volume": 500
     },
     {
-      "query": "internacional - coritiba",
-      "startedAt": "2026-11-04T00:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "trump es republicano o demócrata",
-      "startedAt": "2026-11-03T23:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "donald trump",
-      "startedAt": "2026-11-03T23:40:00.000Z",
+      "query": "ricardo la volpe",
+      "startedAt": "2026-11-04T02:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "new york times",
-      "startedAt": "2026-11-03T23:30:00.000Z",
+      "query": "internacional vs. coritiba",
+      "startedAt": "2026-11-04T02:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "diego ramos",
+      "startedAt": "2026-11-04T02:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "byron donalds",
+      "startedAt": "2026-11-04T02:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "washington post",
+      "startedAt": "2026-11-04T02:20:00.000Z",
       "volume": 200
     }
   ]
