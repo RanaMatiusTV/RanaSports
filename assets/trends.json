@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-04T15:46:13.112Z",
+  "updatedAt": "2026-11-04T21:32:25.757Z",
   "trends": [
     {
-      "query": "superclásico del fútbol argentino",
-      "startedAt": "2026-11-04T15:30:00.000Z",
+      "query": "calcio como 1907",
+      "startedAt": "2026-11-04T21:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "pensión",
-      "startedAt": "2026-11-04T15:20:00.000Z",
-      "volume": 2000
+      "query": "como",
+      "startedAt": "2026-11-04T21:00:00.000Z",
+      "volume": 20000
     },
     {
-      "query": "novak djokovic",
-      "startedAt": "2026-11-04T15:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "rennes - olympiacos",
-      "startedAt": "2026-11-04T15:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "álex de miñaur",
-      "startedAt": "2026-11-04T15:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "master 1000 paris",
-      "startedAt": "2026-11-04T14:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "cotizacion dolar hoy",
-      "startedAt": "2026-11-04T14:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "atp paris",
-      "startedAt": "2026-11-04T14:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "nelson castro",
-      "startedAt": "2026-11-04T13:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "riesgo pais argentina",
-      "startedAt": "2026-11-04T13:30:00.000Z",
+      "query": "rodrigo de paul",
+      "startedAt": "2026-11-04T21:00:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "the walking dead",
+      "startedAt": "2026-11-04T21:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "como fc",
+      "startedAt": "2026-11-04T20:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "psv - club brujas",
+      "startedAt": "2026-11-04T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "serie de televisión",
+      "startedAt": "2026-11-04T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "napoli",
+      "startedAt": "2026-11-04T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "cardiff - west ham",
+      "startedAt": "2026-11-04T20:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "liga amateur platense de fútbol",
+      "startedAt": "2026-11-04T20:30:00.000Z",
+      "volume": 100
     }
   ]
 }
