@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/racing-puede-darle-una-mano-a-independiente-ante-barracas/": {
+      "account": "main",
+      "title": "RACING PUEDE DARLE UNA MANO A INDEPENDIENTE ANTE BARRACAS",
+      "dueAt": "2026-11-04T23:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aebc2aef283c8dd45a908f5",
+      "createdAt": "2026-11-04T23:41:34.624Z"
+    },
+    "https://ranasports.com.ar/f1/antonelli-visito-a-la-familia-senna-antes-del-gran-premio-de-brasil/": {
+      "account": "f1",
+      "title": "ANTONELLI VISITÓ A LA FAMILIA SENNA ANTES DEL GRAN PREMIO DE BRASIL",
+      "dueAt": "2026-11-05T00:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aebc2aebc551efdea2f361d",
+      "createdAt": "2026-11-04T23:41:34.123Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-correra-en-brasil-con-un-traje-azul-y-amarillo-de-alpine/": {
+      "account": "f1",
+      "title": "COLAPINTO CORRERÁ EN BRASIL CON UN TRAJE AZUL Y AMARILLO DE ALPINE",
+      "dueAt": "2026-11-04T23:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aebc2adf283c8dd45a908c7",
+      "createdAt": "2026-11-04T23:41:33.840Z"
+    },
+    "https://ranasports.com.ar/superclasico/otamendi-le-regalo-a-un-fotografo-el-banderin-de-boca-del-superclasico/": {
+      "account": "sports",
+      "title": "OTAMENDI LE REGALÓ A UN FOTÓGRAFO EL BANDERÍN DE BOCA DEL SUPERCLÁSICO",
+      "dueAt": "2026-11-05T00:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aebc2adbc551efdea2f35cf",
+      "createdAt": "2026-11-04T23:41:33.380Z"
+    },
+    "https://ranasports.com.ar/futbol/forestello-dejara-estudiantes-de-rio-cuarto-tras-el-descenso/": {
+      "account": "sports",
+      "title": "FORESTELLO DEJARÁ ESTUDIANTES DE RÍO CUARTO TRAS EL DESCENSO",
+      "dueAt": "2026-11-05T00:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aebc2acff03f6944a11427d",
+      "createdAt": "2026-11-04T23:41:32.730Z"
+    },
+    "https://ranasports.com.ar/internacional/liverpool-cayo-ante-fenerbahce-y-mac-allister-fue-amonestado/": {
+      "account": "sports",
+      "title": "LIVERPOOL CAYÓ ANTE FENERBAHCE Y MAC ALLISTER FUE AMONESTADO",
+      "dueAt": "2026-11-04T23:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aebc2ac01b5398f87999804",
+      "createdAt": "2026-11-04T23:41:32.258Z"
+    },
+    "https://ranasports.com.ar/futbol/owono-rompio-el-silencio-tras-la-muerte-de-jesus-de-miguel/": {
+      "account": "sports",
+      "title": "OWONO ROMPIÓ EL SILENCIO TRAS LA MUERTE DE JESÚS DE MIGUEL",
+      "dueAt": "2026-11-04T23:41:29.212Z",
+      "mode": "shareNow",
+      "bufferPostId": "6aebc2a9f283c8dd45a907d2",
+      "createdAt": "2026-11-04T23:41:31.325Z"
+    },
     "https://ranasports.com.ar/futbol/independiente-depende-de-si-mismo-para-clasificar-a-los-playoffs/": {
       "account": "main",
       "title": "INDEPENDIENTE DEPENDE DE SÍ MISMO PARA CLASIFICAR A LOS PLAYOFFS",
@@ -5029,74 +5085,6 @@
       "createdAt": "2026-10-09T00:02:15.565Z",
       "externalLink": "https://x.com/2095690134515572737/status/2108347972580700494",
       "sentAt": "2026-10-09T00:05:02.751Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1MDQwMDAwMDAsIkVMIEdVQVJESUEgUVVFIExMT1LDkyBFTiBMQSBERVNQRURJREEgREUgTUVTU0kgQ09OVMOTIFNVIEhJU1RPUklBIl0": {
-      "account": "main",
-      "title": "EL GUARDIA QUE LLORÓ EN LA DESPEDIDA DE MESSI CONTÓ SU HISTORIA",
-      "dueAt": "2026-10-09T00:05:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac82f059db755aaaabb3521",
-      "createdAt": "2026-10-09T00:02:13.249Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108347971922194531",
-      "sentAt": "2026-10-09T00:05:02.620Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5OTM4MDAwMCwiQ09MQVBJTlRPIENISUNBTkXDkyBBIFVOIEhJTkNIQSBFU1BBw5FPTCBFTiBTSU5HQVBVUjog4oCcRVNBIENBTUlTRVRBIEVTVMOBIE1BTOKAnSJd": {
-      "account": "f1",
-      "title": "COLAPINTO CHICANEÓ A UN HINCHA ESPAÑOL EN SINGAPUR: “ESA CAMISETA ESTÁ MAL”",
-      "dueAt": "2026-10-08T23:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac81cad04f06b2e8f6e7e3a",
-      "createdAt": "2026-10-08T22:43:57.419Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5OTM4MDAwMCwiQ09MQVBJTlRPIEhJWk8gUkXDjVIgQSBBTE9OU08gRU4gU0lOR0FQVVI6IOKAnEFDQUJPIERFIEhBQkxBUiBZTywgQk9MVURP4oCdIl0": {
-      "account": "f1",
-      "title": "COLAPINTO HIZO REÍR A ALONSO EN SINGAPUR: “ACABO DE HABLAR YO, BOLUDO”",
-      "dueAt": "2026-10-08T23:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac81cab987e694c3c348cb6",
-      "createdAt": "2026-10-08T22:43:55.531Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108334129716609533",
-      "sentAt": "2026-10-08T23:10:02.680Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiQUxPTlNPIFZFIFVOQSBPUE9SVFVOSURBRCBQQVJBIEFTVE9OIE1BUlRJTiBFTiBFTCBDSVJDVUlUTyBDQUxMRUpFUk8gREUgU0lOR0FQVVIiXQ": {
-      "account": "f1",
-      "title": "ALONSO VE UNA OPORTUNIDAD PARA ASTON MARTIN EN EL CIRCUITO CALLEJERO DE SINGAPUR",
-      "dueAt": "2026-10-08T23:05:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac81b4a04f06b2e8f6e5704",
-      "createdAt": "2026-10-08T22:38:03.000Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108332869978292570",
-      "sentAt": "2026-10-08T23:05:02.065Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiUFJFT0NVUEFDScOTTiBFTiBTSU5HQVBVUiBQT1IgRUwgSFVNTzogTEEgRklBIFBSRVbDiSBRVUUgTEEgRjEgQ09SUkEgQ09OIE5PUk1BTElEQUQiXQ": {
-      "account": "f1",
-      "title": "PREOCUPACIÓN EN SINGAPUR POR EL HUMO: LA FIA PREVÉ QUE LA F1 CORRA CON NORMALIDAD",
-      "dueAt": "2026-10-08T23:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac81b4a987e694c3c346457",
-      "createdAt": "2026-10-08T22:38:02.519Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108331636953694635",
-      "sentAt": "2026-10-08T23:00:08.186Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiQUxFUlRBIFBPUiBDQUxPUiBFTiBTSU5HQVBVUjogVkVSU1RBUFBFTiBZIFJVU1NFTEwgRElTQ1JFUEFOIFBPUiBMT1MgQ0hBTEVDT1MiXQ": {
-      "account": "f1",
-      "title": "ALERTA POR CALOR EN SINGAPUR: VERSTAPPEN Y RUSSELL DISCREPAN POR LOS CHALECOS",
-      "dueAt": "2026-10-08T22:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac81b4904f06b2e8f6e56d5",
-      "createdAt": "2026-10-08T22:38:02.067Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108330351663714332",
-      "sentAt": "2026-10-08T22:55:01.619Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTQ5ODI0MDAwMCwiTUVSQ0VERVMgUFJPQkFSw4EgRE9TIFZFUlNJT05FUyBESVNUSU5UQVMgREUgU1UgQVVUTyBFTiBFTCBHUCBERSBTSU5HQVBVUiJd": {
-      "account": "f1",
-      "title": "MERCEDES PROBARÁ DOS VERSIONES DISTINTAS DE SU AUTO EN EL GP DE SINGAPUR",
-      "dueAt": "2026-10-08T22:50:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac81b49f07e682de696df75",
-      "createdAt": "2026-10-08T22:38:01.571Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108329095306055881",
-      "sentAt": "2026-10-08T22:50:02.083Z"
     }
   },
   "nextAt": {
