@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-lucira-un-traje-amarillo-y-azul-en-el-gran-premio-de-brasil/": {
+      "account": "f1",
+      "title": "COLAPINTO LUCIRÁ UN TRAJE AMARILLO Y AZUL EN EL GRAN PREMIO DE BRASIL",
+      "dueAt": "2026-11-05T07:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aec272a80f7fd0537f5bb5d",
+      "createdAt": "2026-11-05T06:50:19.076Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-manejo-la-renoleta-de-tres-hinchas-argentinos-en-san-pablo/": {
+      "account": "f1",
+      "title": "COLAPINTO MANEJÓ LA “RENOLETA” DE TRES HINCHAS ARGENTINOS EN SAN PABLO",
+      "dueAt": "2026-11-05T06:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aec272a660b2991f1586c3e",
+      "createdAt": "2026-11-05T06:50:18.559Z"
+    },
+    "https://ranasports.com.ar/futbol/un-informe-explico-las-cinco-transformaciones-tacticas-que-prolongaron-la-carrera-de-messi/": {
+      "account": "sports",
+      "title": "UN INFORME EXPLICÓ LAS CINCO TRANSFORMACIONES TÁCTICAS QUE PROLONGARON LA CARRERA DE MESSI",
+      "dueAt": "2026-11-05T07:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aec2729660b2991f1586c00",
+      "createdAt": "2026-11-05T06:50:17.997Z"
+    },
+    "https://ranasports.com.ar/futbol/materazzi-conto-que-su-hijo-cambio-fiesta-y-auto-por-un-viaje-a-la-bombonera/": {
+      "account": "sports",
+      "title": "MATERAZZI CONTÓ QUE SU HIJO CAMBIÓ FIESTA Y AUTO POR UN VIAJE A LA BOMBONERA",
+      "dueAt": "2026-11-05T07:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aec27297877e0eab27cdb77",
+      "createdAt": "2026-11-05T06:50:17.567Z"
+    },
+    "https://ranasports.com.ar/tenis/tirante-cayo-en-tres-sets-ante-struff-y-se-despidio-de-paris/": {
+      "account": "sports",
+      "title": "TIRANTE CAYÓ EN TRES SETS ANTE STRUFF Y SE DESPIDIÓ DE PARÍS",
+      "dueAt": "2026-11-05T06:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aec2728e22643a987962ad2",
+      "createdAt": "2026-11-05T06:50:16.987Z"
+    },
+    "https://ranasports.com.ar/futbol/la-volpe-reconocio-el-error-de-vestuario-que-le-costo-el-titulo-con-boca-en-2006/": {
+      "account": "sports",
+      "title": "LA VOLPE RECONOCIÓ EL ERROR DE VESTUARIO QUE LE COSTÓ EL TÍTULO CON BOCA EN 2006",
+      "dueAt": "2026-11-05T06:50:15.168Z",
+      "mode": "shareNow",
+      "bufferPostId": "6aec27273ddb81d2210d0277",
+      "createdAt": "2026-11-05T06:50:16.312Z"
+    },
     "https://ranasports.com.ar/futbol/racing-puede-darle-una-mano-a-independiente-ante-barracas/": {
       "account": "main",
       "title": "RACING PUEDE DARLE UNA MANO A INDEPENDIENTE ANTE BARRACAS",
@@ -5025,66 +5073,6 @@
       "createdAt": "2026-10-09T06:35:16.377Z",
       "externalLink": "https://x.com/768913759301754880/status/2108449890581782649",
       "sentAt": "2026-10-09T06:50:01.987Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1MTI0MDAwMDAsIlVOQSBORU5BIERFIDExIEHDkU9TIEVNT0NJT07DkyBBTCBESUJVIE1BUlTDjU5FWiBDT04gVU5BIEVOVFJFVklTVEEgRVNQRUNJQUwiXQ": {
-      "account": "main",
-      "title": "UNA NENA DE 11 AÑOS EMOCIONÓ AL DIBU MARTÍNEZ CON UNA ENTREVISTA ESPECIAL",
-      "dueAt": "2026-10-09T06:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac88b237d9f9f330129e68b",
-      "createdAt": "2026-10-09T06:35:16.007Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108448636820398500",
-      "sentAt": "2026-10-09T06:45:03.035Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1MDQwMDAwMDAsIkxBIFBST0RVQ1RPUkEgREUgQUZBIEFQVU5Uw5MgQ09OVFJBIFJJVkVSIFkgQUJSScOTIE9UUkEgUE9Mw4lNSUNBIFBPUiBMQSBERVNQRURJREEgREUgTUVTU0kiXQ": {
-      "account": "main",
-      "title": "LA PRODUCTORA DE AFA APUNTÓ CONTRA RIVER Y ABRIÓ OTRA POLÉMICA POR LA DESPEDIDA DE MESSI",
-      "dueAt": "2026-10-09T06:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac88b2393f9e5101fed897d",
-      "createdAt": "2026-10-09T06:35:15.741Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108447373290606934",
-      "sentAt": "2026-10-09T06:40:01.808Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTUxMjM0MDAwMCwiRE9DVU1FTlRPUyBSRVZFTEFST04gVU5BIElOREVNTklaQUNJw5NOIE1JTExPTkFSSUEgUEFSQSBDSFJJU1RJQU4gSE9STkVSIl0": {
-      "account": "f1",
-      "title": "DOCUMENTOS REVELARON UNA INDEMNIZACIÓN MILLONARIA PARA CHRISTIAN HORNER",
-      "dueAt": "2026-10-09T02:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac84d6f93f9e5101fe3b61b",
-      "createdAt": "2026-10-09T02:11:59.217Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108380689129263437",
-      "sentAt": "2026-10-09T02:15:03.086Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTUwNDAwMDAwMCwiUkFMRiBTQ0hVTUFDSEVSIENVRVNUSU9Ow5MgQSBOT1JSSVMgWSBERUZFTkRJw5MgQSBDT0xBUElOVE8iXQ": {
-      "account": "f1",
-      "title": "RALF SCHUMACHER CUESTIONÓ A NORRIS Y DEFENDIÓ A COLAPINTO",
-      "dueAt": "2026-10-09T00:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac82f08f07e682de699ec5b",
-      "createdAt": "2026-10-09T00:02:16.689Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108350491776201122",
-      "sentAt": "2026-10-09T00:15:03.483Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTUwNDAwMDAwMCwiSEFNSUxUT04gQVBVTlTDkyBDT05UUkEgTE9TIFBJTE9UT1MgSsOTVkVORVMgUE9SIFNVIENBVVRFTEEgQkFKTyBMQSBMTFVWSUEiXQ": {
-      "account": "f1",
-      "title": "HAMILTON APUNTÓ CONTRA LOS PILOTOS JÓVENES POR SU CAUTELA BAJO LA LLUVIA",
-      "dueAt": "2026-10-09T00:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac82f077d9f9f33011c2211",
-      "createdAt": "2026-10-09T00:02:16.054Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108349231438200876",
-      "sentAt": "2026-10-09T00:10:03.008Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTUwNDAwMDAwMCwiQUxPTlNPIERFU0NBUlTDkyBDT1JSRVIgRUwgREFLQVIgMjAyNzog4oCcTk8gQ1JFTyBRVUUgU0VBIEbDjVNJQ0FNRU5URSBQT1NJQkxF4oCdIl0": {
-      "account": "f1",
-      "title": "ALONSO DESCARTÓ CORRER EL DAKAR 2027: “NO CREO QUE SEA FÍSICAMENTE POSIBLE”",
-      "dueAt": "2026-10-09T00:05:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac82f07987e694c3c372408",
-      "createdAt": "2026-10-09T00:02:15.565Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108347972580700494",
-      "sentAt": "2026-10-09T00:05:02.751Z"
     }
   },
   "nextAt": {
