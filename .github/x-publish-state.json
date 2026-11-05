@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/independiente-perdera-a-montiel-y-recuperara-a-marcone-ante-riestra/": {
+      "account": "main",
+      "title": "INDEPENDIENTE PERDERÁ A MONTIEL Y RECUPERARÁ A MARCONE ANTE RIESTRA",
+      "dueAt": "2026-11-05T16:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aeca0e4a3148845e40a98b4",
+      "createdAt": "2026-11-05T15:29:40.552Z"
+    },
+    "https://ranasports.com.ar/futbol/river-define-ante-aldosivi-la-localia-y-su-rival-en-los-octavos-del-clausura/": {
+      "account": "sports",
+      "title": "RIVER DEFINE ANTE ALDOSIVI LA LOCALÍA Y SU RIVAL EN LOS OCTAVOS DEL CLAUSURA",
+      "dueAt": "2026-11-05T16:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aeca0e30fcbe7315a2ba416",
+      "createdAt": "2026-11-05T15:29:39.660Z"
+    },
+    "https://ranasports.com.ar/natacion/cecilia-dieleke-sumo-su-segunda-medalla-en-dakar-2026/": {
+      "account": "sports",
+      "title": "CECILIA DIELEKE SUMÓ SU SEGUNDA MEDALLA EN DAKAR 2026: BRONCE EN 100 METROS ESPALDA",
+      "dueAt": "2026-11-05T16:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aeca0e2a7861b50b12f071f",
+      "createdAt": "2026-11-05T15:29:38.748Z"
+    },
+    "https://ranasports.com.ar/futbol/soule-rechazo-a-italia-y-busca-consolidarse-en-la-seleccion-argentina/": {
+      "account": "sports",
+      "title": "SOULÉ RECHAZÓ A ITALIA Y BUSCA CONSOLIDARSE EN LA SELECCIÓN ARGENTINA",
+      "dueAt": "2026-11-05T15:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aeca0e12eedef58a9d492fd",
+      "createdAt": "2026-11-05T15:29:37.937Z"
+    },
+    "https://ranasports.com.ar/futbol/independiente-recibe-a-riestra-con-la-clasificacion-a-los-playoffs-en-juego/": {
+      "account": "main",
+      "title": "INDEPENDIENTE RECIBE A RIESTRA CON LA CLASIFICACIÓN A LOS PLAYOFFS EN JUEGO",
+      "dueAt": "2026-11-05T15:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aeca0e1a3148845e40a9797",
+      "createdAt": "2026-11-05T15:29:37.159Z"
+    },
+    "https://ranasports.com.ar/f1/murio-alan-jones-campeon-mundial-de-formula-1-en-1980-con-williams/": {
+      "account": "f1",
+      "title": "MURIÓ ALAN JONES, CAMPEÓN MUNDIAL DE FÓRMULA 1 EN 1980 CON WILLIAMS",
+      "dueAt": "2026-11-05T15:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aeca0df2eedef58a9d491dc",
+      "createdAt": "2026-11-05T15:29:36.066Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-lucira-un-traje-amarillo-y-azul-en-el-gran-premio-de-brasil/": {
       "account": "f1",
       "title": "COLAPINTO LUCIRÁ UN TRAJE AMARILLO Y AZUL EN EL GRAN PREMIO DE BRASIL",
@@ -5013,66 +5061,6 @@
       "createdAt": "2026-10-09T06:35:18.197Z",
       "externalLink": "https://x.com/768913759301754880/status/2108457441067143270",
       "sentAt": "2026-10-09T07:20:02.128Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJwb2xpZGVwb3J0aXZvIiwxNzkxNTEyNTgwMDAwLCJERVNDQUxJRklDQVJPTiBBIFVOQSBJTkZMVUVOQ0VSIFBPUiBVU0FSIFVOQSBCSUNJQ0xFVEEgRU4gRUwgTUFSQVTDk04gREUgQkVSTMONTiJd": {
-      "account": "main",
-      "title": "DESCALIFICARON A UNA INFLUENCER POR USAR UNA BICICLETA EN EL MARATÓN DE BERLÍN",
-      "dueAt": "2026-10-09T07:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac88b25987e694c3c4544d2",
-      "createdAt": "2026-10-09T06:35:17.882Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108456185342943520",
-      "sentAt": "2026-10-09T07:15:02.813Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJ0ZW5pcyIsMTc5MTUxMjUyMDAwMCwiTEEgQ0FURURSQUwgREVMIFRFTklTIEFSR0VOVElOTyBDVU1QTEnDkyBDSUVOIEHDkU9TIl0": {
-      "account": "main",
-      "title": "LA CATEDRAL DEL TENIS ARGENTINO CUMPLIÓ CIEN AÑOS",
-      "dueAt": "2026-10-09T07:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac88b2504f06b2e8f7f7f76",
-      "createdAt": "2026-10-09T06:35:17.583Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108454925214667056",
-      "sentAt": "2026-10-09T07:10:02.294Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTUxMjQ2MDAwMCwiRUwgU0lMRU5DSU8gREVMIFBMQU5URUwgREUgUE9SVFVHQUwgQUdSQU5Ew5MgTEEgQ1JJU0lTIERFIENSSVNUSUFOTyBST05BTERPIl0": {
-      "account": "main",
-      "title": "EL SILENCIO DEL PLANTEL DE PORTUGAL AGRANDÓ LA CRISIS DE CRISTIANO RONALDO",
-      "dueAt": "2026-10-09T07:05:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac88b25f07e682de6a7ba4f",
-      "createdAt": "2026-10-09T06:35:17.249Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108453666596221167",
-      "sentAt": "2026-10-09T07:05:02.281Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTUxMjI4MDAwMCwiTUVTU0kgVk9MVknDkyBBIEVOVFJFTkFSU0UgQ09OIElOVEVSIE1JQU1JIFRSQVMgU1UgREVTUEVESURBIERFIExBIFNFTEVDQ0nDk04iXQ": {
-      "account": "main",
-      "title": "MESSI VOLVIÓ A ENTRENARSE CON INTER MIAMI TRAS SU DESPEDIDA DE LA SELECCIÓN",
-      "dueAt": "2026-10-09T07:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac88b24987e694c3c454486",
-      "createdAt": "2026-10-09T06:35:16.962Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108452421416489290",
-      "sentAt": "2026-10-09T07:00:05.342Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyYWNpbmciLDE3OTE1MDQwMDAwMDAsIlJBQ0lORyBUSUVORSBVTkEgRFVEQSBFTiBMQSBERUZFTlNBIFBBUkEgUkVDSUJJUiBBIEJFTEdSQU5PIl0": {
-      "account": "main",
-      "title": "RACING TIENE UNA DUDA EN LA DEFENSA PARA RECIBIR A BELGRANO",
-      "dueAt": "2026-10-09T06:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac88b2404f06b2e8f7f7f3b",
-      "createdAt": "2026-10-09T06:35:16.655Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108451148281577669",
-      "sentAt": "2026-10-09T06:55:01.892Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTA0MDAwMDAwLCJDT05NRUJPTCBNVUxUw5MgQSBCT0NBIENPTiAxNSBNSUwgRMOTTEFSRVMgUE9SIElOQ1VNUExJUiBFTCBQUk9UT0NPTE8iXQ": {
-      "account": "main",
-      "title": "CONMEBOL MULTÓ A BOCA CON 15 MIL DÓLARES POR INCUMPLIR EL PROTOCOLO",
-      "dueAt": "2026-10-09T06:50:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac88b247d9f9f330129e6bd",
-      "createdAt": "2026-10-09T06:35:16.377Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108449890581782649",
-      "sentAt": "2026-10-09T06:50:01.987Z"
     }
   },
   "nextAt": {
