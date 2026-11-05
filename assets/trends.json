@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-04T21:32:25.757Z",
+  "updatedAt": "2026-11-05T01:48:27.594Z",
   "trends": [
     {
-      "query": "calcio como 1907",
-      "startedAt": "2026-11-04T21:10:00.000Z",
+      "query": "universitario - sport boys",
+      "startedAt": "2026-11-05T01:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "como",
-      "startedAt": "2026-11-04T21:00:00.000Z",
-      "volume": 20000
+      "query": "millonarios - américa",
+      "startedAt": "2026-11-05T01:30:00.000Z",
+      "volume": 200
     },
     {
-      "query": "rodrigo de paul",
-      "startedAt": "2026-11-04T21:00:00.000Z",
+      "query": "otro dia perdido",
+      "startedAt": "2026-11-05T01:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "thunder - cavaliers",
+      "startedAt": "2026-11-05T01:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "rodrigo garro",
+      "startedAt": "2026-11-05T01:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "cae",
+      "startedAt": "2026-11-05T01:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "darío barassi",
+      "startedAt": "2026-11-05T01:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "lebron james",
+      "startedAt": "2026-11-05T00:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "celtics - bucks",
+      "startedAt": "2026-11-05T00:30:00.000Z",
       "volume": 500
     },
     {
-      "query": "the walking dead",
-      "startedAt": "2026-11-04T21:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "como fc",
-      "startedAt": "2026-11-04T20:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "psv - club brujas",
-      "startedAt": "2026-11-04T20:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "serie de televisión",
-      "startedAt": "2026-11-04T20:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "napoli",
-      "startedAt": "2026-11-04T20:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "cardiff - west ham",
-      "startedAt": "2026-11-04T20:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "liga amateur platense de fútbol",
-      "startedAt": "2026-11-04T20:30:00.000Z",
-      "volume": 100
+      "query": "knicks - bulls",
+      "startedAt": "2026-11-05T00:20:00.000Z",
+      "volume": 500
     }
   ]
 }
