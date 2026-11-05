@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-05T01:48:27.594Z",
+  "updatedAt": "2026-11-05T09:27:52.348Z",
   "trends": [
     {
-      "query": "universitario - sport boys",
-      "startedAt": "2026-11-05T01:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "millonarios - américa",
-      "startedAt": "2026-11-05T01:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "otro dia perdido",
-      "startedAt": "2026-11-05T01:30:00.000Z",
+      "query": "todo noticias",
+      "startedAt": "2026-11-05T09:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "thunder - cavaliers",
-      "startedAt": "2026-11-05T01:20:00.000Z",
+      "query": "club atlético river plate",
+      "startedAt": "2026-11-05T09:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "rodrigo garro",
-      "startedAt": "2026-11-05T01:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "cae",
-      "startedAt": "2026-11-05T01:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "darío barassi",
-      "startedAt": "2026-11-05T01:00:00.000Z",
+      "query": "la nación",
+      "startedAt": "2026-11-05T09:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "lebron james",
-      "startedAt": "2026-11-05T00:50:00.000Z",
-      "volume": 100
+      "query": "pierre gasly",
+      "startedAt": "2026-11-05T08:50:00.000Z",
+      "volume": 200
     },
     {
-      "query": "celtics - bucks",
-      "startedAt": "2026-11-05T00:30:00.000Z",
-      "volume": 500
+      "query": "quini",
+      "startedAt": "2026-11-05T08:40:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "knicks - bulls",
-      "startedAt": "2026-11-05T00:20:00.000Z",
-      "volume": 500
+      "query": "loto plus",
+      "startedAt": "2026-11-05T08:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pensión no contributiva",
+      "startedAt": "2026-11-05T08:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "primera división de argentina",
+      "startedAt": "2026-11-05T07:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "lluvia",
+      "startedAt": "2026-11-05T07:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "el niño",
+      "startedAt": "2026-11-05T07:10:00.000Z",
+      "volume": 2000
     }
   ]
 }
