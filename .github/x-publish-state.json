@@ -1,6 +1,22 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-sale-a-pista-en-interlagos/": {
+      "account": "f1",
+      "title": "COLAPINTO SALE A PISTA EN INTERLAGOS: HORARIOS DE LAS PRÁCTICAS DEL GP DE BRASIL",
+      "dueAt": "2026-11-05T23:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aecfc76265cb90551dd34c6",
+      "createdAt": "2026-11-05T22:00:22.492Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-se-cruzo-con-un-hincha-de-boca-y-lanzo-un-festejo-en-interlagos/": {
+      "account": "f1",
+      "title": "COLAPINTO SE CRUZÓ CON UN HINCHA DE BOCA Y LANZÓ UN FESTEJO EN INTERLAGOS",
+      "dueAt": "2026-11-05T22:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aecfc74aa25a700b8d96a9e",
+      "createdAt": "2026-11-05T22:00:21.154Z"
+    },
     "https://ranasports.com.ar/futbol/independiente-perdera-a-montiel-y-recuperara-a-marcone-ante-riestra/": {
       "account": "main",
       "title": "INDEPENDIENTE PERDERÁ A MONTIEL Y RECUPERARÁ A MARCONE ANTE RIESTRA",
@@ -5041,26 +5057,6 @@
       "createdAt": "2026-10-09T10:06:02.286Z",
       "externalLink": "https://x.com/768913759301754880/status/2108501487902974076",
       "sentAt": "2026-10-09T10:15:03.676Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTU0MDMwMDAwMCwiUklWRVIgUEFTQVLDgSBERSBUUkVTIFNFTUFOQVMgU0lOIEpVR0FSIEEgQ0lOQ08gUEFSVElET1MgRU4gMjIgRMONQVMiXQ": {
-      "account": "main",
-      "title": "RIVER PASARÁ DE TRES SEMANAS SIN JUGAR A CINCO PARTIDOS EN 22 DÍAS",
-      "dueAt": "2026-10-09T10:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8bc89f96589ad5b9fd8a3",
-      "createdAt": "2026-10-09T10:06:01.951Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108500222808576157",
-      "sentAt": "2026-10-09T10:10:02.049Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTUxMjY0MDAwMCwiS0VMQ0ktUk9TRSBCT1dFUlMgREVCVVTDkyBDT04gR09MIEVOIFNVIE5VRVZPIEVRVUlQTyBJTkdMw4lTIl0": {
-      "account": "main",
-      "title": "KELCI-ROSE BOWERS DEBUTÓ CON GOL EN SU NUEVO EQUIPO INGLÉS",
-      "dueAt": "2026-10-09T07:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac88b2693f9e5101fed89d8",
-      "createdAt": "2026-10-09T06:35:18.197Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108457441067143270",
-      "sentAt": "2026-10-09T07:20:02.128Z"
     }
   },
   "nextAt": {
