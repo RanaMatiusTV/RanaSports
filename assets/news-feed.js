@@ -616,21 +616,26 @@
   }catch{return '';}
  }
  if(detail){
-  if(typeof window.RS_ARTICLE_CSV==='string'&&showFastArticle(window.RS_ARTICLE_CSV))return;
-  try{const prior=localStorage.getItem(CACHE_KEY);if(prior)showFastArticle(prior);}catch{}
+  // Show bundled or cached article immediately, but always reconcile with live Sheets.
+  // A static article/day CSV can predate newly written K video embeds.
+  const inlineFound=typeof window.RS_ARTICLE_CSV==='string'&&showFastArticle(window.RS_ARTICLE_CSV);
+  if(!inlineFound)try{const prior=localStorage.getItem(CACHE_KEY);if(prior)showFastArticle(prior);}catch{}
   (async()=>{
-   const day=requestedLocalDay();
-   if(day){
-    try{
-     const oneDay=new URL('assets/news-days/'+day+'.csv',siteBase);
-     const response=await fetch(oneDay.href,{cache:'no-store',credentials:'omit'});
-     if(response.ok&&showFastArticle(await response.text()))return;
-    }catch{}
+   if(!inlineFound){
+    const day=requestedLocalDay();
+    if(day){
+     try{
+      const oneDay=new URL('assets/news-days/'+day+'.csv',siteBase);
+      const response=await fetch(oneDay.href,{cache:'no-store',credentials:'omit'});
+      if(response.ok)showFastArticle(await response.text());
+     }catch{}
+    }
    }
-   // Respaldo para publicaciones anteriores a la creación de archivos diarios.
+   // Always refresh after the fast article, even when it was found in bundled CSV.
+   // This fetch prefers Sheets on equal timestamps and picks up newly added K links.
    await refresh();
   })();
-  window.addEventListener('online',()=>{if(!snapshot)refresh();});
+  window.addEventListener('online',refresh);
  }else{
   refresh();window.addEventListener('online',refresh);
   setInterval(()=>{if(document.visibilityState==='visible')refresh();},60*1000);
