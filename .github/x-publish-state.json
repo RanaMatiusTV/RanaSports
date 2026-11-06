@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-presento-un-casco-azul-y-amarillo-para-el-gp-de-brasil/": {
+      "account": "f1",
+      "title": "COLAPINTO PRESENTÓ UN CASCO AZUL Y AMARILLO PARA EL GP DE BRASIL",
+      "dueAt": "2026-11-06T12:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aedb23f0011231a45202292",
+      "createdAt": "2026-11-06T10:55:59.215Z"
+    },
+    "https://ranasports.com.ar/f1/el-padre-de-colapinto-llevo-su-casco-a-bendecir-antes-del-gp-de-brasil/": {
+      "account": "f1",
+      "title": "EL PADRE DE COLAPINTO LLEVÓ SU CASCO A BENDECIR ANTES DEL GP DE BRASIL",
+      "dueAt": "2026-11-06T11:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aedb23e3996b95e1872dfb3",
+      "createdAt": "2026-11-06T10:55:58.974Z"
+    },
+    "https://ranasports.com.ar/river/angel-correa-explico-por-que-ahora-disfruta-en-river-como-no-lo-hacia-en-atletico/": {
+      "account": "sports",
+      "title": "ÁNGEL CORREA EXPLICÓ POR QUÉ AHORA DISFRUTA EN RIVER COMO NO LO HACÍA EN ATLÉTICO",
+      "dueAt": "2026-11-06T12:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aedb23ebd8bdbf0d0d9dcbf",
+      "createdAt": "2026-11-06T10:55:58.484Z"
+    },
+    "https://ranasports.com.ar/futbol/nico-paz-aparece-como-principal-candidato-a-heredar-la-10-de-messi/": {
+      "account": "sports",
+      "title": "NICO PAZ APARECE COMO PRINCIPAL CANDIDATO A HEREDAR LA 10 DE MESSI",
+      "dueAt": "2026-11-06T11:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aedb23d3996b95e1872df57",
+      "createdAt": "2026-11-06T10:55:57.820Z"
+    },
+    "https://ranasports.com.ar/futbol/independiente-se-juega-ante-riestra-el-pase-directo-a-los-octavos/": {
+      "account": "main",
+      "title": "INDEPENDIENTE SE JUEGA ANTE RIESTRA EL PASE DIRECTO A LOS OCTAVOS",
+      "dueAt": "2026-11-06T11:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aedb23dbd8bdbf0d0d9dc60",
+      "createdAt": "2026-11-06T10:55:57.424Z"
+    },
+    "https://ranasports.com.ar/tenis/julia-riera-elimino-a-una-top-100-y-avanzo-a-semifinales-en-cali/": {
+      "account": "sports",
+      "title": "JULIA RIERA ELIMINÓ A UNA TOP 100 Y AVANZÓ A SEMIFINALES EN CALI",
+      "dueAt": "2026-11-06T11:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aedb23c75db0573c8d29610",
+      "createdAt": "2026-11-06T10:55:57.080Z"
+    },
+    "https://ranasports.com.ar/futbol/la-autopsia-preliminar-atribuyo-la-muerte-de-jesus-de-miguel-a-un-traumatismo-toracico/": {
+      "account": "sports",
+      "title": "LA AUTOPSIA PRELIMINAR ATRIBUYÓ LA MUERTE DE JESÚS DE MIGUEL A UN TRAUMATISMO TORÁCICO",
+      "dueAt": "2026-11-06T10:55:54.606Z",
+      "mode": "shareNow",
+      "bufferPostId": "6aedb23ab7b345d98084b5a4",
+      "createdAt": "2026-11-06T10:55:56.693Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-pidio-cambios-profundos-en-alpine-para-la-proxima-temporada/": {
       "account": "f1",
       "title": "COLAPINTO PIDIÓ CAMBIOS PROFUNDOS EN ALPINE PARA LA PRÓXIMA TEMPORADA",
@@ -4989,62 +5045,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ac8d94b4b8da2c1aa2193cd",
       "createdAt": "2026-10-09T12:08:44.070Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTU0NzYyMDAwMCwiTEEgQ09OVElOVUlEQUQgREUgUE9OWklPIEVOIFJJVkVSIERFUEVOREUgREUgTEEgTElCRVJUQURPUkVTIFkgRUwgU1VQRVJDTMOBU0lDTyJd": {
-      "account": "main",
-      "title": "LA CONTINUIDAD DE PONZIO EN RIVER DEPENDE DE LA LIBERTADORES Y EL SUPERCLÁSICO",
-      "dueAt": "2026-10-09T12:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8d94bca61ff26684af8a4",
-      "createdAt": "2026-10-09T12:08:43.287Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJtZXJjYWRvIGRlIHBhc2VzIiwxNzkxNTQ3NjIwMDAwLCJNQVTDjUFTIFJFQUxJIERFSsOTIFNBTiBMT1JFTlpPIFkgSlVHQVLDgSBFTiBJTkRFUEVORElFTlRFIFJJVkFEQVZJQSJd": {
-      "account": "main",
-      "title": "MATÍAS REALI DEJÓ SAN LORENZO Y JUGARÁ EN INDEPENDIENTE RIVADAVIA",
-      "dueAt": "2026-10-09T12:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8d94a4b8da2c1aa219387",
-      "createdAt": "2026-10-09T12:08:42.490Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIGVuIGVsIGV4dGVyaW9yIiwxNzkxNTQ3NjIwMDAwLCJDQU1QRVNUUklOSSBTSUdVRSBBVEFKQU5ETyBBIExPUyA0NiBBw5FPUyBZIFJPTVBJw5MgVU4gUsOJQ09SRCBFTiBDSElMRSJd": {
-      "account": "main",
-      "title": "CAMPESTRINI SIGUE ATAJANDO A LOS 46 AÑOS Y ROMPIÓ UN RÉCORD EN CHILE",
-      "dueAt": "2026-10-09T12:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8d949fe48c6749802cb3e",
-      "createdAt": "2026-10-09T12:08:42.043Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTU0NzYyMDAwMCwiTUVTU0kgVkEgUE9SIFRSRVMgT0JKRVRJVk9TIENPTiBJTlRFUiBNSUFNSSBUUkFTIFNVIEFEScOTUyBBIExBIFNFTEVDQ0nDk04iXQ": {
-      "account": "main",
-      "title": "MESSI VA POR TRES OBJETIVOS CON INTER MIAMI TRAS SU ADIÓS A LA SELECCIÓN",
-      "dueAt": "2026-10-09T12:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8d949ca61ff26684af84e",
-      "createdAt": "2026-10-09T12:08:41.325Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NDc2MjAwMDAsIkFMRE9TSVZJIFJFQ0lCRSBBIFNBUk1JRU5UTyBFTiBVTiBQQVJUSURPIENMQVZFIFBBUkEgRVNDQVBBUiBERUwgREVTQ0VOU08iXQ": {
-      "account": "main",
-      "title": "ALDOSIVI RECIBE A SARMIENTO EN UN PARTIDO CLAVE PARA ESCAPAR DEL DESCENSO",
-      "dueAt": "2026-10-09T12:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8d948fe48c6749802cb14",
-      "createdAt": "2026-10-09T12:08:40.880Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NDc2MjAwMDAsIkFUTMOJVElDTyBUVUNVTcOBTiBBUFVOVEEgQSBMT1MgUExBWU9GRlMgWSBGRVJSQVJJIFBJREnDkyBNSVJBUiBIQUNJQSBBUlJJQkEiXQ": {
-      "account": "main",
-      "title": "ATLÉTICO TUCUMÁN APUNTA A LOS PLAYOFFS Y FERRARI PIDIÓ MIRAR HACIA ARRIBA",
-      "dueAt": "2026-10-09T12:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8d948fe48c6749802caeb",
-      "createdAt": "2026-10-09T12:08:40.488Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NDcwODAwMDAsIlNFIFRFUk1JTsOTIExPIEdSQVRJUzogTFBGIFBMQVkgQ09CUkFSw4EgJDE1LjAwMCBQT1IgTUVTIFBBUkEgVkVSIEVMIEFTQ0VOU08iXQ": {
-      "account": "main",
-      "title": "SE TERMINÓ LO GRATIS: LPF PLAY COBRARÁ $15.000 POR MES PARA VER EL ASCENSO",
-      "dueAt": "2026-10-09T12:05:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8d71afe48c67498022802",
-      "createdAt": "2026-10-09T11:59:22.655Z"
     }
   },
   "nextAt": {
