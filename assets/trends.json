@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-06T18:28:41.046Z",
+  "updatedAt": "2026-11-06T23:30:45.116Z",
   "trends": [
     {
-      "query": "sebastian lelio",
-      "startedAt": "2026-11-06T18:10:00.000Z",
+      "query": "quiniela de tucumán",
+      "startedAt": "2026-11-06T23:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "larissa riquelme",
+      "startedAt": "2026-11-06T23:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "pelota libre en argentina",
-      "startedAt": "2026-11-06T18:00:00.000Z",
-      "volume": 50000
+      "query": "valtteri bottas",
+      "startedAt": "2026-11-06T23:00:00.000Z",
+      "volume": 200
     },
     {
-      "query": "meghan markle",
-      "startedAt": "2026-11-06T17:50:00.000Z",
+      "query": "posiciones de venezia football club contra udinese",
+      "startedAt": "2026-11-06T22:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "mario pergolini",
-      "startedAt": "2026-11-06T17:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "bali",
-      "startedAt": "2026-11-06T17:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "morgan fairchild",
-      "startedAt": "2026-11-06T17:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "registro del automotor",
-      "startedAt": "2026-11-06T17:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "barracas central - racing",
-      "startedAt": "2026-11-06T17:00:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "página 12",
-      "startedAt": "2026-11-06T17:00:00.000Z",
+      "query": "tabla de posiciones liga argentina 2026",
+      "startedAt": "2026-11-06T22:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "rj mitte",
-      "startedAt": "2026-11-06T17:00:00.000Z",
+      "query": "nuno borges",
+      "startedAt": "2026-11-06T22:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "major league soccer 2026",
+      "startedAt": "2026-11-06T22:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "pedro alliana",
+      "startedAt": "2026-11-06T22:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "posiciones de sevilla fc contra alavés",
+      "startedAt": "2026-11-06T22:20:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "caballo",
+      "startedAt": "2026-11-06T22:20:00.000Z",
+      "volume": 200
     }
   ]
 }
