@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-05T22:52:08.031Z",
+  "updatedAt": "2026-11-06T03:25:48.971Z",
   "trends": [
     {
-      "query": "gimnasia",
-      "startedAt": "2026-11-05T22:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "avión",
-      "startedAt": "2026-11-05T22:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gelp",
-      "startedAt": "2026-11-05T22:20:00.000Z",
+      "query": "gonzalo moratorio",
+      "startedAt": "2026-11-06T02:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "corte suprema",
-      "startedAt": "2026-11-05T22:10:00.000Z",
+      "query": "marcelo tinelli",
+      "startedAt": "2026-11-06T02:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "inundación",
+      "startedAt": "2026-11-06T02:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "warriors - heat",
+      "startedAt": "2026-11-06T02:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "edith hermida",
+      "startedAt": "2026-11-06T02:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "sanción",
+      "startedAt": "2026-11-06T02:10:00.000Z",
       "volume": 5000
     },
     {
-      "query": "juventus vs",
-      "startedAt": "2026-11-05T22:10:00.000Z",
+      "query": "suns - magic",
+      "startedAt": "2026-11-06T02:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "brighton",
-      "startedAt": "2026-11-05T21:50:00.000Z",
+      "query": "maru botana",
+      "startedAt": "2026-11-06T02:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "celtic fc",
-      "startedAt": "2026-11-05T21:50:00.000Z",
-      "volume": 100
+      "query": "adrian suar",
+      "startedAt": "2026-11-06T02:10:00.000Z",
+      "volume": 200
     },
     {
-      "query": "unión tranviarios automotor",
-      "startedAt": "2026-11-05T21:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "pilar smith",
-      "startedAt": "2026-11-05T21:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "rubio ñu - sportivo luqueño",
-      "startedAt": "2026-11-05T21:30:00.000Z",
+      "query": "rusher",
+      "startedAt": "2026-11-06T01:50:00.000Z",
       "volume": 1000
     }
   ]
