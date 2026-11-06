@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-pidio-cambios-profundos-en-alpine-para-la-proxima-temporada/": {
+      "account": "f1",
+      "title": "COLAPINTO PIDIÓ CAMBIOS PROFUNDOS EN ALPINE PARA LA PRÓXIMA TEMPORADA",
+      "dueAt": "2026-11-06T03:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aed3b6fc1e74b84e5bfadc5",
+      "createdAt": "2026-11-06T02:29:03.860Z"
+    },
+    "https://ranasports.com.ar/f1/jorge-macri-se-reunira-con-domenicali-por-el-regreso-de-la-f1-a-la-argentina/": {
+      "account": "f1",
+      "title": "JORGE MACRI SE REUNIRÁ CON DOMENICALI POR EL REGRESO DE LA F1 A LA ARGENTINA",
+      "dueAt": "2026-11-06T02:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aed3b6e7b7e47e8f40184ed",
+      "createdAt": "2026-11-06T02:29:02.851Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-argentinos-y-central-definen-el-campeon-de-liga-en-simultaneo/": {
+      "account": "sports",
+      "title": "BOCA, ARGENTINOS Y CENTRAL DEFINEN EL CAMPEÓN DE LIGA EN SIMULTÁNEO",
+      "dueAt": "2026-11-06T03:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aed3b6d07f945cca936dc18",
+      "createdAt": "2026-11-06T02:29:01.868Z"
+    },
+    "https://ranasports.com.ar/futbol/la-lpf-presento-el-trofeo-el-parche-y-la-logistica-para-coronar-al-campeon/": {
+      "account": "sports",
+      "title": "LA LPF PRESENTÓ EL TROFEO, EL PARCHE Y LA LOGÍSTICA PARA CORONAR AL CAMPEÓN",
+      "dueAt": "2026-11-06T03:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aed3b6c86fe9b837969790f",
+      "createdAt": "2026-11-06T02:29:00.513Z"
+    },
+    "https://ranasports.com.ar/futbol/los-hinchas-del-tenerife-armaron-un-santuario-para-despedir-a-jesus-de-miguel/": {
+      "account": "sports",
+      "title": "LOS HINCHAS DEL TENERIFE ARMARON UN SANTUARIO PARA DESPEDIR A JESÚS DE MIGUEL",
+      "dueAt": "2026-11-06T02:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aed3b6bdbada656beea56a4",
+      "createdAt": "2026-11-06T02:28:59.572Z"
+    },
+    "https://ranasports.com.ar/futbol/owono-permanece-aislado-y-recibe-apoyo-tras-la-muerte-de-jesus-de-miguel/": {
+      "account": "sports",
+      "title": "OWONO PERMANECE AISLADO Y RECIBE APOYO TRAS LA MUERTE DE JESÚS DE MIGUEL",
+      "dueAt": "2026-11-06T02:28:56.838Z",
+      "mode": "shareNow",
+      "bufferPostId": "6aed3b68c1e74b84e5bfac38",
+      "createdAt": "2026-11-06T02:28:58.962Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-sale-a-pista-en-interlagos/": {
       "account": "f1",
       "title": "COLAPINTO SALE A PISTA EN INTERLAGOS: HORARIOS DE LAS PRÁCTICAS DEL GP DE BRASIL",
@@ -4997,66 +5045,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ac8d71afe48c67498022802",
       "createdAt": "2026-10-09T11:59:22.655Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU0MDY2MDAwMCwiQlVSS0lOQSBGQVNPIEFSUklFU0dBIFNBTkNJT05FUyBERSBGSUZBIFBPUiBVTkEgUE9TSUJMRSBJTlRFUlZFTkNJw5NOIEVTVEFUQUwiXQ": {
-      "account": "main",
-      "title": "BURKINA FASO ARRIESGA SANCIONES DE FIFA POR UNA POSIBLE INTERVENCIÓN ESTATAL",
-      "dueAt": "2026-10-09T10:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8bc8c44e5efbcc59a69a0",
-      "createdAt": "2026-10-09T10:06:04.715Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108507771435897029",
-      "sentAt": "2026-10-09T10:40:01.776Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NDA2MDAwMDAsIlNBUk1JRU5UTyBBUFVOVEEgQSBSRUNBVURBUiA0NTAgTUlMTE9ORVMgREUgUEVTT1MgQU5URSBSSVZFUiJd": {
-      "account": "main",
-      "title": "SARMIENTO APUNTA A RECAUDAR 450 MILLONES DE PESOS ANTE RIVER",
-      "dueAt": "2026-10-09T10:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8bc8c4b0cb728f32ac1f6",
-      "createdAt": "2026-10-09T10:06:04.309Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108506516160393311",
-      "sentAt": "2026-10-09T10:35:02.519Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTU0MDU0MDAwMCwiU0lFVEUgSlVHQURPUkVTIERFIFJJVkVSIFRPREFWw41BIE5PIFNVTUFST04gTUlOVVRPUyBDT04gUE9OWklPIl0": {
-      "account": "main",
-      "title": "SIETE JUGADORES DE RIVER TODAVÍA NO SUMARON MINUTOS CON PONZIO",
-      "dueAt": "2026-10-09T10:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8bc8bf96589ad5b9fd94b",
-      "createdAt": "2026-10-09T10:06:03.956Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108505271886573836",
-      "sentAt": "2026-10-09T10:30:05.893Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE1NDA0ODAwMDAsIkFSUlVBQkFSUkVOQSBDT05Uw5MgUVVFIEVMIEVTVFLDiVMgREUgQk9DQSBMRSBQUk9WT0PDkyBESUFCRVRFUyJd": {
-      "account": "main",
-      "title": "ARRUABARRENA CONTÓ QUE EL ESTRÉS DE BOCA LE PROVOCÓ DIABETES",
-      "dueAt": "2026-10-09T10:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8bc8b44e5efbcc59a694e",
-      "createdAt": "2026-10-09T10:06:03.319Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108503997187293657",
-      "sentAt": "2026-10-09T10:25:01.957Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE1NDA0MjAwMDAsIkJSQUlEQSBMRSBHQU5BUsONQSBMQSBQVUxTRUFEQSBBIEdPUk9TSVRPIFBBUkEgU0VSIEVMIExBVEVSQUwgREVSRUNITyBERSBCT0NBIl0": {
-      "account": "main",
-      "title": "BRAIDA LE GANARÍA LA PULSEADA A GOROSITO PARA SER EL LATERAL DERECHO DE BOCA",
-      "dueAt": "2026-10-09T10:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8bc8ac4b1ead4d73edf6c",
-      "createdAt": "2026-10-09T10:06:02.818Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108502737650323650",
-      "sentAt": "2026-10-09T10:20:01.628Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU0MDM2MDAwMCwiU1VTUEVORElFUk9OIEFMIFBSSU1FUiBEVCBQT1IgTEEgQ0FVU0EgREUgTElDRU5DSUFTIFRSVUNIQVMgUVVFIElOVk9MVUNSQSBBIE1BTkNVU08iXQ": {
-      "account": "main",
-      "title": "SUSPENDIERON AL PRIMER DT POR LA CAUSA DE LICENCIAS TRUCHAS QUE INVOLUCRA A MANCUSO",
-      "dueAt": "2026-10-09T10:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac8bc8ab9252eae988aa95c",
-      "createdAt": "2026-10-09T10:06:02.286Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108501487902974076",
-      "sentAt": "2026-10-09T10:15:03.676Z"
     }
   },
   "nextAt": {
