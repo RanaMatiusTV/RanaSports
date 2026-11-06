@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-06T03:25:48.971Z",
+  "updatedAt": "2026-11-06T11:30:18.066Z",
   "trends": [
     {
-      "query": "gonzalo moratorio",
-      "startedAt": "2026-11-06T02:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "marcelo tinelli",
-      "startedAt": "2026-11-06T02:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "inundación",
-      "startedAt": "2026-11-06T02:30:00.000Z",
+      "query": "la popu",
+      "startedAt": "2026-11-06T10:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "warriors - heat",
-      "startedAt": "2026-11-06T02:20:00.000Z",
+      "query": "papelera del sur",
+      "startedAt": "2026-11-06T10:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "santos futebol clube",
+      "startedAt": "2026-11-06T10:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "los pumas",
+      "startedAt": "2026-11-06T10:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clima necochea",
+      "startedAt": "2026-11-06T10:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "unicenter shopping",
+      "startedAt": "2026-11-06T09:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "playstation plus",
+      "startedAt": "2026-11-06T09:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "rosario",
+      "startedAt": "2026-11-06T09:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "edith hermida",
-      "startedAt": "2026-11-06T02:20:00.000Z",
-      "volume": 200
+      "query": "diario de cuyo",
+      "startedAt": "2026-11-06T09:20:00.000Z",
+      "volume": 500
     },
     {
-      "query": "sanción",
-      "startedAt": "2026-11-06T02:10:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "suns - magic",
-      "startedAt": "2026-11-06T02:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "maru botana",
-      "startedAt": "2026-11-06T02:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "adrian suar",
-      "startedAt": "2026-11-06T02:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "rusher",
-      "startedAt": "2026-11-06T01:50:00.000Z",
-      "volume": 1000
+      "query": "evento de el niño de 2026 2027",
+      "startedAt": "2026-11-06T09:00:00.000Z",
+      "volume": 500
     }
   ]
 }
