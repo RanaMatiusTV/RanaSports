@@ -1,5 +1,5 @@
-RADAR 5 — 07/11/2026 06:10 ARG
-Altas verificadas: 1
-Filas nuevas: 4598
-Estado: alta verificada en Google Sheets; sincronización pública por comprobar
+RADAR 5 — 07/11/2026 08:10 ARG
+Altas verificadas: 0
+Filas nuevas: ninguna
+Estado: sin altas; candidatas revisadas, duplicados evitados; sincronización por comprobar
 Última noticia: INDEPENDIENTE VENCIÓ 2-1 A RIESTRA CON UN GOL AGÓNICO DE TEMPONE Y SE METIÓ EN OCTAVOS
