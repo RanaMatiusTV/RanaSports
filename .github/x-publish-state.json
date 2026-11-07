@@ -1,6 +1,14 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-fue-14-en-la-fp3-de-brasil-y-verstappen-lidero-antes-de-la-clasificacion/": {
+      "account": "f1",
+      "title": "COLAPINTO FUE 14° EN LA FP3 DE BRASIL Y VERSTAPPEN LIDERÓ ANTES DE LA CLASIFICACIÓN",
+      "dueAt": "2026-11-07T21:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aef9000562f2e6de97e004e",
+      "createdAt": "2026-11-07T20:54:24.537Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-advirtio-sobre-la-lluvia-en-interlagos-antes-de-la-clasificacion/": {
       "account": "f1",
       "title": "COLAPINTO ADVIRTIÓ SOBRE LA LLUVIA EN INTERLAGOS ANTES DE LA CLASIFICACIÓN",
@@ -5009,16 +5017,6 @@
       "createdAt": "2026-10-09T20:05:07.348Z",
       "externalLink": "https://x.com/768913759301754880/status/2108652482096185589",
       "sentAt": "2026-10-09T20:15:03.553Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNTc3MDgwMDAwLCJNQVJDT05FIFFVRUTDkyBBTCBMw41NSVRFIFkgUE9EUsONQSBQRVJERVJTRSBFTCBDTMOBU0lDTyBBTlRFIFJBQ0lORyJd": {
-      "account": "main",
-      "title": "MARCONE QUEDÓ AL LÍMITE Y PODRÍA PERDERSE EL CLÁSICO ANTE RACING",
-      "dueAt": "2026-10-09T20:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac948f2d9cab260a7a05939",
-      "createdAt": "2026-10-09T20:05:06.995Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108651219640000837",
-      "sentAt": "2026-10-09T20:10:02.518Z"
     }
   },
   "nextAt": {
