@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-06T23:30:45.116Z",
+  "updatedAt": "2026-11-07T03:13:13.396Z",
   "trends": [
     {
-      "query": "quiniela de tucumán",
-      "startedAt": "2026-11-06T23:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "larissa riquelme",
-      "startedAt": "2026-11-06T23:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "valtteri bottas",
-      "startedAt": "2026-11-06T23:00:00.000Z",
+      "query": "kings - spurs",
+      "startedAt": "2026-11-07T02:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "posiciones de venezia football club contra udinese",
-      "startedAt": "2026-11-06T22:50:00.000Z",
+      "query": "miguel merentiel",
+      "startedAt": "2026-11-07T02:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "grizzlies - thunder",
+      "startedAt": "2026-11-07T01:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "juan rodríguez",
+      "startedAt": "2026-11-07T01:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "necaxa - tijuana",
+      "startedAt": "2026-11-07T01:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "tabla de posiciones liga argentina 2026",
-      "startedAt": "2026-11-06T22:40:00.000Z",
+      "query": "maru botana",
+      "startedAt": "2026-11-07T01:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "japon",
+      "startedAt": "2026-11-07T01:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "pelicans - timberwolves",
+      "startedAt": "2026-11-07T01:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "argentina vs brasil futsal",
+      "startedAt": "2026-11-07T01:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "futsal",
+      "startedAt": "2026-11-07T01:10:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "nuno borges",
-      "startedAt": "2026-11-06T22:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "major league soccer 2026",
-      "startedAt": "2026-11-06T22:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "pedro alliana",
-      "startedAt": "2026-11-06T22:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "posiciones de sevilla fc contra alavés",
-      "startedAt": "2026-11-06T22:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "caballo",
-      "startedAt": "2026-11-06T22:20:00.000Z",
-      "volume": 200
     }
   ]
 }
