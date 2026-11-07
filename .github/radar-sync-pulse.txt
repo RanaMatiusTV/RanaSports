@@ -1,5 +1,5 @@
-RADAR 5 — 07/11/2026 16:10 ARG
-Altas verificadas: 1
-Filas nuevas: 4600
-Estado: noticia FP3 verificada en Sheets; sincronización pública pendiente de comprobación
-Última noticia: COLAPINTO FUE 14° EN LA FP3 DE BRASIL Y VERSTAPPEN LIDERÓ ANTES DE LA CLASIFICACIÓN
+RADAR 5 — 07/11/2026 18:10 ARG
+Altas verificadas: 2
+Filas nuevas: 4601, 4602
+Estado: ambas noticias verificadas en Google Sheets; exportación y visibilidad pública por comprobar
+Última noticia: COLAPINTO QUEDÓ 17° EN LA CLASIFICACIÓN DE BRASIL Y NORRIS LOGRÓ LA POLE
