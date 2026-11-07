@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-07T16:24:56.014Z",
+  "updatedAt": "2026-11-07T20:30:01.892Z",
   "trends": [
     {
-      "query": "clasificacion f1",
-      "startedAt": "2026-11-07T16:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "rodolfo d'onofrio",
-      "startedAt": "2026-11-07T16:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "fp3",
-      "startedAt": "2026-11-07T16:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "a que hora juega boca hoy",
-      "startedAt": "2026-11-07T15:50:00.000Z",
+      "query": "inter miami - charlotte fc",
+      "startedAt": "2026-11-07T20:10:00.000Z",
       "volume": 1000
     },
     {
-      "query": "emanuel noir",
-      "startedAt": "2026-11-07T15:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "galatasaray - amed sk",
-      "startedAt": "2026-11-07T15:20:00.000Z",
+      "query": "valencia vs real madrid",
+      "startedAt": "2026-11-07T20:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "bayern",
-      "startedAt": "2026-11-07T15:20:00.000Z",
-      "volume": 1000
+      "query": "tv libre argentina en vivo",
+      "startedAt": "2026-11-07T20:10:00.000Z",
+      "volume": 100
     },
     {
-      "query": "argentina",
-      "startedAt": "2026-11-07T15:10:00.000Z",
-      "volume": 1000
+      "query": "uruguay papa león xiv",
+      "startedAt": "2026-11-07T20:00:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "rcd espanyol - deportivo",
-      "startedAt": "2026-11-07T15:00:00.000Z",
-      "volume": 500
+      "query": "argentinos jrs. - huracán",
+      "startedAt": "2026-11-07T19:50:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "bayern munich",
-      "startedAt": "2026-11-07T15:00:00.000Z",
-      "volume": 500
+      "query": "posiciones de osasuna contra athletic club",
+      "startedAt": "2026-11-07T19:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "lepra",
+      "startedAt": "2026-11-07T19:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "lepra mendocina",
+      "startedAt": "2026-11-07T19:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "rosario central - estudiantes de río cuarto",
+      "startedAt": "2026-11-07T19:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "boca juniors - defensa y justicia",
+      "startedAt": "2026-11-07T19:30:00.000Z",
+      "volume": 100000
     }
   ]
 }
