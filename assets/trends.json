@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-07T10:07:45.824Z",
+  "updatedAt": "2026-11-07T16:24:56.014Z",
   "trends": [
     {
-      "query": "jubilación",
-      "startedAt": "2026-11-07T09:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "aguinaldo",
-      "startedAt": "2026-11-07T08:00:00.000Z",
+      "query": "clasificacion f1",
+      "startedAt": "2026-11-07T16:10:00.000Z",
       "volume": 500
     },
     {
-      "query": "clima posadas",
-      "startedAt": "2026-11-07T05:00:00.000Z",
+      "query": "rodolfo d'onofrio",
+      "startedAt": "2026-11-07T16:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "xbox",
-      "startedAt": "2026-11-07T04:50:00.000Z",
+      "query": "fp3",
+      "startedAt": "2026-11-07T16:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "clima tucuman",
-      "startedAt": "2026-11-07T04:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "campus drivers serie",
-      "startedAt": "2026-11-07T04:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "lakers - trail blazers",
-      "startedAt": "2026-11-07T03:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "posiciones de club atlético tigre contra sarmiento de junin",
-      "startedAt": "2026-11-07T03:00:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "kings - spurs",
-      "startedAt": "2026-11-07T02:50:00.000Z",
+      "query": "a que hora juega boca hoy",
+      "startedAt": "2026-11-07T15:50:00.000Z",
       "volume": 1000
     },
     {
-      "query": "miguel merentiel",
-      "startedAt": "2026-11-07T02:40:00.000Z",
+      "query": "emanuel noir",
+      "startedAt": "2026-11-07T15:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "galatasaray - amed sk",
+      "startedAt": "2026-11-07T15:20:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "bayern",
+      "startedAt": "2026-11-07T15:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "argentina",
+      "startedAt": "2026-11-07T15:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "rcd espanyol - deportivo",
+      "startedAt": "2026-11-07T15:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "bayern munich",
+      "startedAt": "2026-11-07T15:00:00.000Z",
+      "volume": 500
     }
   ]
 }
