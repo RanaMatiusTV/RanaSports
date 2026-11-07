@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-07T20:30:01.892Z",
+  "updatedAt": "2026-11-07T23:58:08.271Z",
   "trends": [
     {
-      "query": "inter miami - charlotte fc",
-      "startedAt": "2026-11-07T20:10:00.000Z",
+      "query": "posiciones de new york red bulls contra atlanta united",
+      "startedAt": "2026-11-07T23:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "arresto",
+      "startedAt": "2026-11-07T23:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pierre gasly",
+      "startedAt": "2026-11-07T23:30:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "inter miami vs charlotte fc",
+      "startedAt": "2026-11-07T23:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "milton delgado",
+      "startedAt": "2026-11-07T23:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "facundo herrera",
+      "startedAt": "2026-11-07T23:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "atlas - pachuca",
+      "startedAt": "2026-11-07T23:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "bianca censori",
+      "startedAt": "2026-11-07T23:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "villa",
+      "startedAt": "2026-11-07T23:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "blanco boca",
+      "startedAt": "2026-11-07T23:10:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "valencia vs real madrid",
-      "startedAt": "2026-11-07T20:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tv libre argentina en vivo",
-      "startedAt": "2026-11-07T20:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "uruguay papa león xiv",
-      "startedAt": "2026-11-07T20:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "argentinos jrs. - huracán",
-      "startedAt": "2026-11-07T19:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "posiciones de osasuna contra athletic club",
-      "startedAt": "2026-11-07T19:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lepra",
-      "startedAt": "2026-11-07T19:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "lepra mendocina",
-      "startedAt": "2026-11-07T19:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "rosario central - estudiantes de río cuarto",
-      "startedAt": "2026-11-07T19:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "boca juniors - defensa y justicia",
-      "startedAt": "2026-11-07T19:30:00.000Z",
-      "volume": 100000
     }
   ]
 }
