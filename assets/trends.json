@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-07T03:13:13.396Z",
+  "updatedAt": "2026-11-07T10:07:45.824Z",
   "trends": [
+    {
+      "query": "jubilación",
+      "startedAt": "2026-11-07T09:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "aguinaldo",
+      "startedAt": "2026-11-07T08:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "clima posadas",
+      "startedAt": "2026-11-07T05:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "xbox",
+      "startedAt": "2026-11-07T04:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clima tucuman",
+      "startedAt": "2026-11-07T04:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "campus drivers serie",
+      "startedAt": "2026-11-07T04:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "lakers - trail blazers",
+      "startedAt": "2026-11-07T03:20:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "posiciones de club atlético tigre contra sarmiento de junin",
+      "startedAt": "2026-11-07T03:00:00.000Z",
+      "volume": 20000
+    },
     {
       "query": "kings - spurs",
       "startedAt": "2026-11-07T02:50:00.000Z",
-      "volume": 200
+      "volume": 1000
     },
     {
       "query": "miguel merentiel",
       "startedAt": "2026-11-07T02:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "grizzlies - thunder",
-      "startedAt": "2026-11-07T01:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "juan rodríguez",
-      "startedAt": "2026-11-07T01:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "necaxa - tijuana",
-      "startedAt": "2026-11-07T01:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "maru botana",
-      "startedAt": "2026-11-07T01:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "japon",
-      "startedAt": "2026-11-07T01:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "pelicans - timberwolves",
-      "startedAt": "2026-11-07T01:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "argentina vs brasil futsal",
-      "startedAt": "2026-11-07T01:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "futsal",
-      "startedAt": "2026-11-07T01:10:00.000Z",
-      "volume": 500
     }
   ]
 }
