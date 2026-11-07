@@ -1,6 +1,14 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-advirtio-sobre-la-lluvia-en-interlagos-antes-de-la-clasificacion/": {
+      "account": "f1",
+      "title": "COLAPINTO ADVIRTIÓ SOBRE LA LLUVIA EN INTERLAGOS ANTES DE LA CLASIFICACIÓN",
+      "dueAt": "2026-11-07T16:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aef525d004e4879a7693220",
+      "createdAt": "2026-11-07T16:31:25.476Z"
+    },
     "https://ranasports.com.ar/futbol/chirola-romero-volvera-a-la-reserva-de-racing-tras-el-interinato/": {
       "account": "sports",
       "title": "CHIROLA ROMERO VOLVERÁ A LA RESERVA DE RACING TRAS EL INTERINATO",
@@ -5011,16 +5019,6 @@
       "createdAt": "2026-10-09T20:05:06.995Z",
       "externalLink": "https://x.com/768913759301754880/status/2108651219640000837",
       "sentAt": "2026-10-09T20:10:02.518Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU2OTI4MDAwMCwiUE9SVFVHQUwgU1VTUEVOREnDkyBERSBNQU5FUkEgUFJPVklTSU9OQUwgQSBDUklTVElBTk8gUk9OQUxETyJd": {
-      "account": "main",
-      "title": "PORTUGAL SUSPENDIÓ DE MANERA PROVISIONAL A CRISTIANO RONALDO",
-      "dueAt": "2026-10-09T18:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac92dc3f91f772d456a806f",
-      "createdAt": "2026-10-09T18:09:08.111Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108627318352625712",
-      "sentAt": "2026-10-09T18:35:04.028Z"
     }
   },
   "nextAt": {
