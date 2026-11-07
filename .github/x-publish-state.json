@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-fue-11-en-la-segunda-practica-de-brasil-y-antonelli-marco-el-ritmo/": {
+      "account": "f1",
+      "title": "COLAPINTO FUE 11° EN LA SEGUNDA PRÁCTICA DE BRASIL Y ANTONELLI MARCÓ EL RITMO",
+      "dueAt": "2026-11-07T02:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aee922aa7751de7c9c01464",
+      "createdAt": "2026-11-07T02:51:22.246Z"
+    },
+    "https://ranasports.com.ar/river/exequiel-palacios-abrio-la-puerta-a-un-futuro-regreso-a-river/": {
+      "account": "sports",
+      "title": "EXEQUIEL PALACIOS ABRIÓ LA PUERTA A UN FUTURO REGRESO A RIVER",
+      "dueAt": "2026-11-07T04:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aee9229a7751de7c9c0141e",
+      "createdAt": "2026-11-07T02:51:21.443Z"
+    },
+    "https://ranasports.com.ar/river/river-espera-que-le-reduzcan-a-montiel-la-sancion-de-tres-partidos/": {
+      "account": "sports",
+      "title": "RIVER ESPERA QUE LE REDUZCAN A MONTIEL LA SANCIÓN DE TRES PARTIDOS",
+      "dueAt": "2026-11-07T03:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aee9228d6bbae6fa15f3471",
+      "createdAt": "2026-11-07T02:51:20.600Z"
+    },
+    "https://ranasports.com.ar/boca/boca-tiene-cinco-posibles-rivales-para-los-octavos-del-clausura/": {
+      "account": "sports",
+      "title": "BOCA TIENE CINCO POSIBLES RIVALES PARA LOS OCTAVOS DEL CLAUSURA",
+      "dueAt": "2026-11-07T02:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aee921ba7751de7c9c0130c",
+      "createdAt": "2026-11-07T02:51:08.007Z"
+    },
     "https://ranasports.com.ar/futbol/pasacalles-de-independiente-calentaron-la-previa-del-partido-de-racing/": {
       "account": "main",
       "title": "PASACALLES DE INDEPENDIENTE CALENTARON LA PREVIA DEL PARTIDO DE RACING",
@@ -4997,46 +5029,6 @@
       "createdAt": "2026-10-09T18:09:06.545Z",
       "externalLink": "https://x.com/768913759301754880/status/2108623535207747634",
       "sentAt": "2026-10-09T18:20:02.032Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NjkyODAwMDAsIkVMIFBBU0UgREUgTUFSQ09TIFJPSk8gQSBFU1RVRElBTlRFUyBFU1TDgSBBIFBVTlRPIERFIENBRVJTRSJd": {
-      "account": "main",
-      "title": "EL PASE DE MARCOS ROJO A ESTUDIANTES ESTÁ A PUNTO DE CAERSE",
-      "dueAt": "2026-10-09T18:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac92dc2c4de2d2b12009448",
-      "createdAt": "2026-10-09T18:09:06.104Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108622336085676204",
-      "sentAt": "2026-10-09T18:15:16.168Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1NjE5MDAwMDAsIkRJRUdPIEZMT1JFUyBQQVPDkyBERSBUUkFEVUNJUiBBIEJJRUxTQSBBIExJREVSQVIgRUwgQ0xBVVNVUkEgQ09OIElOU1RJVFVUTyJd": {
-      "account": "main",
-      "title": "DIEGO FLORES PASÓ DE TRADUCIR A BIELSA A LIDERAR EL CLAUSURA CON INSTITUTO",
-      "dueAt": "2026-10-09T16:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac9112257c4b87d9cfa46f8",
-      "createdAt": "2026-10-09T16:06:58.990Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108595934158303342",
-      "sentAt": "2026-10-09T16:30:21.411Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU2MTkwMDAwMCwiWUFNQUwgWSBIQUFMQU5EIExJREVSQU4gRUwgUkFOS0lORyBNVU5ESUFMIFkgRU5aTyBGRVJOw4FOREVaIEVTIEVMIFNVREFNRVJJQ0FOTyBNw4FTIFZBTElPU08iXQ": {
-      "account": "main",
-      "title": "YAMAL Y HAALAND LIDERAN EL RANKING MUNDIAL Y ENZO FERNÁNDEZ ES EL SUDAMERICANO MÁS VALIOSO",
-      "dueAt": "2026-10-09T16:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac91122443de896598443f8",
-      "createdAt": "2026-10-09T16:06:58.620Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108594596280156270",
-      "sentAt": "2026-10-09T16:25:02.580Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJhc2NlbnNvIiwxNzkxNTYxOTAwMDAwLCJPTElNUE8sIFNBTiBNQVJUw41OIERFIEZPUk1PU0EsIEFMVkFSQURPIFkgQ0lQT0xMRVRUSSBWQU4gUE9SIEVMIEFTQ0VOU08gRU4gRUwgRkVERVJBTCBBIl0": {
-      "account": "main",
-      "title": "OLIMPO, SAN MARTÍN DE FORMOSA, ALVARADO Y CIPOLLETTI VAN POR EL ASCENSO EN EL FEDERAL A",
-      "dueAt": "2026-10-09T16:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac9112257c4b87d9cfa46c8",
-      "createdAt": "2026-10-09T16:06:58.153Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108593341629657272",
-      "sentAt": "2026-10-09T16:20:03.304Z"
     }
   },
   "nextAt": {
