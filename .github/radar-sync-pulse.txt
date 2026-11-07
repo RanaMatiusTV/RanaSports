@@ -1,5 +1,5 @@
-RADAR 5 — 07/11/2026 12:10 ARG
+RADAR 5 — 07/11/2026 14:10 ARG
 Altas verificadas: 0
 Filas nuevas: ninguna
-Estado: revisión de actualidad y duplicados; sin altas nuevas; sincronización a comprobar
+Estado: revisión de noticias hasta fila 4599; FP3 Interlagos identificada como candidata, sin alta; exportación pendiente de comprobación
 Última noticia: COLAPINTO ADVIRTIÓ SOBRE LA LLUVIA EN INTERLAGOS ANTES DE LA CLASIFICACIÓN
