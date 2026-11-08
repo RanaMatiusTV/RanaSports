@@ -1,6 +1,6 @@
-RADAR 5 — COBERTURA EXTRAORDINARIA AMPLIADA 07/11/2026 23:22 ARG
-Ventana revisada: últimas cinco horas y ampliación editorial 17:00–23:22 ARG del 07/11/2026
-Altas verificadas: 9
-Filas nuevas: Noticias!4607:4615
-Estado: nueve noticias nuevas verificadas y releídas en Google Sheets; sincronización GitHub solicitada. CSV público y visibilidad web pendientes de verificar.
-Última noticia: HAMILTON PARTIRÁ ÚLTIMO EN BRASIL TRAS LOS PROBLEMAS DE MOTOR DE FERRARI
+RADAR 5 — AMPLIACIÓN EXTRAORDINARIA VIRAL CAMPEONATO 07/11/2026 23:31 ARG
+Ventana editorial: definición de la Tabla Anual 2026 del sábado 07/11/2026 y reacciones posteriores
+Altas verificadas: 7
+Filas nuevas: Noticias!4616:4622
+Estado: 7 notas verificadas con fotos seleccionadas sin validación técnica, fuentes y enlaces de videos cuando se consiguieron; pulso GitHub enviado; CSV y visibilidad pública por comprobar.
+Última noticia: BOCA PUBLICÓ SU VIDEO DE CAMPEÓN CON UNA FRASE PICANTE Y RECORDÓ LOS SUPERCLÁSICOS
