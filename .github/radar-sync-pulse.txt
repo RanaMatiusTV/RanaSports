@@ -1,6 +1,6 @@
-RADAR 5 — 08/11/2026 10:13 ARG
-Ventana: 08:10–10:13 ARG
+RADAR 5 — 08/11/2026 12:10 ARG
+Ventana: 10:10–12:10 ARG
 Altas verificadas: 0
 Filas nuevas: ninguna
-Estado: consultada Noticias A4600:E4750, última fila con noticia 4622; descartadas repeticiones de F1 y Dakar; candidato Instituto 2-2 Newell's con resultado confirmado, sin URL directa fotográfica identificada; no escrito. No se modificaron noticias existentes.
+Estado: revisión de Noticias hasta fila 4800, última noticia 4622. Candidata Instituto 2-2 Newell's sin URL fotográfica directa identificada; no publicada. Revisados resultados y cobertura Dakar; no se duplicaron hechos publicados. Sin modificaciones a otras noticias.
 Última noticia: BOCA PUBLICÓ SU VIDEO DE CAMPEÓN CON UNA FRASE PICANTE Y RECORDÓ LOS SUPERCLÁSICOS
