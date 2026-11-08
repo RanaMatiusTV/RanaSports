@@ -1,6 +1,6 @@
-RADAR 5 — 08/11/2026 14:13 ARG
-Ventana: 12:10–14:13 ARG
+RADAR 5 — 08/11/2026 16:10 ARG
+Ventana: 14:10–16:10 ARG
 Altas verificadas: 0
 Filas nuevas: ninguna
-Estado: revisadas noticias recientes hasta fila 4800; última noticia efectiva fila 4622. Instituto 2-2 Newell's confirmado, sin URL directa de fotografía identificada, pendiente. Sin duplicaciones ni modificaciones a noticias existentes.
+Estado: revisión de filas 4600–4680; última fila con noticia 4622. Instituto–Newell's 2-2 candidato confirmado sin imagen directa identificada. F1 Brasil en curso; sin resultado final oficial al corte. Sin duplicaciones ni cambios en noticias previas.
 Última noticia: BOCA PUBLICÓ SU VIDEO DE CAMPEÓN CON UNA FRASE PICANTE Y RECORDÓ LOS SUPERCLÁSICOS
