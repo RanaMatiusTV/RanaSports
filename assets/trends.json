@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-07T23:58:08.271Z",
+  "updatedAt": "2026-11-08T05:58:06.462Z",
   "trends": [
     {
-      "query": "posiciones de new york red bulls contra atlanta united",
-      "startedAt": "2026-11-07T23:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "arresto",
-      "startedAt": "2026-11-07T23:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "pierre gasly",
-      "startedAt": "2026-11-07T23:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "inter miami vs charlotte fc",
-      "startedAt": "2026-11-07T23:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "milton delgado",
-      "startedAt": "2026-11-07T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "facundo herrera",
-      "startedAt": "2026-11-07T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "atlas - pachuca",
-      "startedAt": "2026-11-07T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "bianca censori",
-      "startedAt": "2026-11-07T23:30:00.000Z",
+      "query": "microsoft",
+      "startedAt": "2026-11-08T04:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "villa",
-      "startedAt": "2026-11-07T23:30:00.000Z",
+      "query": "waldo cortés-acosta",
+      "startedAt": "2026-11-08T04:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "liga mx",
+      "startedAt": "2026-11-08T03:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "johnny walker",
+      "startedAt": "2026-11-08T03:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pumas - américa",
+      "startedAt": "2026-11-08T03:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "tatiana suarez",
+      "startedAt": "2026-11-08T03:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "trail blazers - spurs",
+      "startedAt": "2026-11-08T02:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "suns - rockets",
+      "startedAt": "2026-11-08T02:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "película",
+      "startedAt": "2026-11-08T02:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "blanco boca",
-      "startedAt": "2026-11-07T23:10:00.000Z",
-      "volume": 1000
+      "query": "julieta ortega",
+      "startedAt": "2026-11-08T02:10:00.000Z",
+      "volume": 100
     }
   ]
 }
