@@ -1,6 +1,14 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-termino-13-en-brasil-en-la-carrera-que-gano-norris/": {
+      "account": "f1",
+      "title": "COLAPINTO TERMINÓ 13° EN BRASIL EN LA CARRERA QUE GANÓ NORRIS",
+      "dueAt": "2026-11-08T23:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af10959004e4879a7e9d01b",
+      "createdAt": "2026-11-08T23:44:25.125Z"
+    },
     "https://ranasports.com.ar/f1/hamilton-partira-ultimo-en-brasil-tras-los-problemas-de-motor-de-ferrari/": {
       "account": "f1",
       "title": "HAMILTON PARTIRÁ ÚLTIMO EN BRASIL TRAS LOS PROBLEMAS DE MOTOR DE FERRARI",
@@ -4989,16 +4997,6 @@
       "createdAt": "2026-10-09T22:06:32.599Z",
       "externalLink": "https://x.com/768913759301754880/status/2108686465815159183",
       "sentAt": "2026-10-09T22:30:05.836Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTU4MzUwMDAwMCwiUklWRVIgREVGSU5FIFNJIFRISUFHTyBBTE1BREEgVlVFTFZFIEEgTEEgQ09OVk9DQVRPUklBIl0": {
-      "account": "main",
-      "title": "RIVER DEFINE SI THIAGO ALMADA VUELVE A LA CONVOCATORIA",
-      "dueAt": "2026-10-09T22:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac96567b07d37ac97521896",
-      "createdAt": "2026-10-09T22:06:32.097Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108685189018783754",
-      "sentAt": "2026-10-09T22:25:01.425Z"
     }
   },
   "nextAt": {
