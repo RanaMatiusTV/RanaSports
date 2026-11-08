@@ -1,6 +1,6 @@
-RADAR 5 — 07/11/2026 22:10 ARG
-Altas verificadas: 0
-Filas nuevas: ninguna
-Última fila verificada: Noticias!4606
-Estado: revisión de novedades y duplicados; sin nuevas altas. Pulso emitido; exportación y sitio por comprobar.
-Última noticia: COLAPINTO LARGARÁ 15° EN BRASIL TRAS LAS SANCIONES A OTROS PILOTOS
+RADAR 5 — COBERTURA EXTRAORDINARIA AMPLIADA 07/11/2026 23:22 ARG
+Ventana revisada: últimas cinco horas y ampliación editorial 17:00–23:22 ARG del 07/11/2026
+Altas verificadas: 9
+Filas nuevas: Noticias!4607:4615
+Estado: nueve noticias nuevas verificadas y releídas en Google Sheets; sincronización GitHub solicitada. CSV público y visibilidad web pendientes de verificar.
+Última noticia: HAMILTON PARTIRÁ ÚLTIMO EN BRASIL TRAS LOS PROBLEMAS DE MOTOR DE FERRARI
