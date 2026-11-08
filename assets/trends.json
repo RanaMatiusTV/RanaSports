@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-08T05:58:06.462Z",
+  "updatedAt": "2026-11-08T13:21:50.223Z",
   "trends": [
     {
-      "query": "microsoft",
-      "startedAt": "2026-11-08T04:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "waldo cortés-acosta",
-      "startedAt": "2026-11-08T04:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "liga mx",
-      "startedAt": "2026-11-08T03:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "johnny walker",
-      "startedAt": "2026-11-08T03:20:00.000Z",
+      "query": "pan am",
+      "startedAt": "2026-11-08T13:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "pumas - américa",
-      "startedAt": "2026-11-08T03:00:00.000Z",
+      "query": "dia del empleado municipal",
+      "startedAt": "2026-11-08T12:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "elche c. f. - real betis",
+      "startedAt": "2026-11-08T12:20:00.000Z",
       "volume": 1000
     },
     {
-      "query": "tatiana suarez",
-      "startedAt": "2026-11-08T03:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "trail blazers - spurs",
-      "startedAt": "2026-11-08T02:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "suns - rockets",
-      "startedAt": "2026-11-08T02:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "película",
-      "startedAt": "2026-11-08T02:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "julieta ortega",
-      "startedAt": "2026-11-08T02:10:00.000Z",
+      "query": "heerenveen - feyenoord",
+      "startedAt": "2026-11-08T12:10:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "ley",
+      "startedAt": "2026-11-08T12:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "aterrizaje de emergencia",
+      "startedAt": "2026-11-08T12:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "maquinaria agrícola",
+      "startedAt": "2026-11-08T11:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "caiman",
+      "startedAt": "2026-11-08T11:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "miniserie",
+      "startedAt": "2026-11-08T11:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "la nueva provincia",
+      "startedAt": "2026-11-08T11:10:00.000Z",
+      "volume": 200
     }
   ]
 }
