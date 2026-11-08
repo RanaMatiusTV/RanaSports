@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-08T18:30:04.993Z",
+  "updatedAt": "2026-11-08T22:29:32.810Z",
   "trends": [
     {
-      "query": "posiciones de u. católica contra deportes limache",
-      "startedAt": "2026-11-08T18:10:00.000Z",
+      "query": "posiciones de fiorentina contra juventus fc",
+      "startedAt": "2026-11-08T22:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "julián alvarez",
+      "startedAt": "2026-11-08T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "luca regiardo",
+      "startedAt": "2026-11-08T22:00:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "tucumán",
+      "startedAt": "2026-11-08T22:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "flavio briatore",
+      "startedAt": "2026-11-08T21:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "central córdoba - lanús",
+      "startedAt": "2026-11-08T21:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "benfica vs",
+      "startedAt": "2026-11-08T21:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "wta finals",
+      "startedAt": "2026-11-08T21:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "posiciones de independiente santa fe contra deportivo pasto",
+      "startedAt": "2026-11-08T21:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "nunciatura",
+      "startedAt": "2026-11-08T21:10:00.000Z",
       "volume": 500
-    },
-    {
-      "query": "thiago agustín tirante",
-      "startedAt": "2026-11-08T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ñublense - colo-colo",
-      "startedAt": "2026-11-08T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "leon goretzka",
-      "startedAt": "2026-11-08T18:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "manchester united vs",
-      "startedAt": "2026-11-08T18:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "friburgo vs",
-      "startedAt": "2026-11-08T17:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "inter",
-      "startedAt": "2026-11-08T17:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "formula 1",
-      "startedAt": "2026-11-08T17:20:00.000Z",
-      "volume": 20000
-    },
-    {
-      "query": "verstappen",
-      "startedAt": "2026-11-08T17:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "le mans football club - mónaco",
-      "startedAt": "2026-11-08T17:20:00.000Z",
-      "volume": 100
     }
   ]
 }
