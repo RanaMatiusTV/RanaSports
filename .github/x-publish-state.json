@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/hamilton-partira-ultimo-en-brasil-tras-los-problemas-de-motor-de-ferrari/": {
+      "account": "f1",
+      "title": "HAMILTON PARTIRÁ ÚLTIMO EN BRASIL TRAS LOS PROBLEMAS DE MOTOR DE FERRARI",
+      "dueAt": "2026-11-08T08:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af0238e004e4879a7a0ee10",
+      "createdAt": "2026-11-08T07:23:58.187Z"
+    },
+    "https://ranasports.com.ar/f1/hulkenberg-largara-cuarto-en-brasil-y-audi-logro-su-mejor-clasificacion-del-ano/": {
+      "account": "f1",
+      "title": "HÜLKENBERG LARGARÁ CUARTO EN BRASIL Y AUDI LOGRÓ SU MEJOR CLASIFICACIÓN DEL AÑO",
+      "dueAt": "2026-11-08T07:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af0238d9214322f683b04da",
+      "createdAt": "2026-11-08T07:23:57.713Z"
+    },
+    "https://ranasports.com.ar/futbol/independiente-quedo-detras-de-defensa-por-fair-play-y-complico-su-ingreso-a-las-copas-2027/": {
+      "account": "main",
+      "title": "INDEPENDIENTE QUEDÓ DETRÁS DE DEFENSA POR FAIR PLAY Y COMPLICÓ SU INGRESO A LAS COPAS 2027",
+      "dueAt": "2026-11-08T07:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af0238dd6bbae6fa1d39467",
+      "createdAt": "2026-11-08T07:23:57.298Z"
+    },
+    "https://ranasports.com.ar/boca/boca-publico-su-video-de-campeon-con-una-frase-picante-y-recordo-los-superclasicos/": {
+      "account": "sports",
+      "title": "BOCA PUBLICÓ SU VIDEO DE CAMPEÓN CON UNA FRASE PICANTE Y RECORDÓ LOS SUPERCLÁSICOS",
+      "dueAt": "2026-11-08T08:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af0238cd6bbae6fa1d39420",
+      "createdAt": "2026-11-08T07:23:56.816Z"
+    },
+    "https://ranasports.com.ar/boca/paredes-se-emociono-con-el-titulo-de-boca/": {
+      "account": "sports",
+      "title": "PAREDES SE EMOCIONÓ CON EL TÍTULO DE BOCA: VOLVER Y SER CAMPEÓN ERA SU SUEÑO",
+      "dueAt": "2026-11-08T07:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af0238c229bf05daf9899e3",
+      "createdAt": "2026-11-08T07:23:56.414Z"
+    },
+    "https://ranasports.com.ar/futbol/estallaron-los-memes-por-el-festejo-anticipado-de-rosario-central-y-el-titulo-de-boca/": {
+      "account": "sports",
+      "title": "ESTALLARON LOS MEMES POR EL FESTEJO ANTICIPADO DE ROSARIO CENTRAL Y EL TÍTULO DE BOCA",
+      "dueAt": "2026-11-08T07:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af0238b004e4879a7a0ed7f",
+      "createdAt": "2026-11-08T07:23:55.940Z"
+    },
+    "https://ranasports.com.ar/futbol/inter-miami-de-messi-dejo-escapar-un-3-0-y-empato-3-3-con-charlotte/": {
+      "account": "sports",
+      "title": "INTER MIAMI DE MESSI DEJÓ ESCAPAR UN 3-0 Y EMPATÓ 3-3 CON CHARLOTTE",
+      "dueAt": "2026-11-08T07:23:53.204Z",
+      "mode": "shareNow",
+      "bufferPostId": "6af02389229bf05daf989969",
+      "createdAt": "2026-11-08T07:23:55.281Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-quedo-17-en-la-clasificacion-de-brasil-y-norris-logro-la-pole/": {
       "account": "f1",
       "title": "COLAPINTO QUEDÓ 17° EN LA CLASIFICACIÓN DE BRASIL Y NORRIS LOGRÓ LA POLE",
@@ -4943,76 +4999,6 @@
       "createdAt": "2026-10-09T22:06:32.097Z",
       "externalLink": "https://x.com/768913759301754880/status/2108685189018783754",
       "sentAt": "2026-10-09T22:25:01.425Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJydWdieSIsMTc5MTU4MzUwMDAwMCwiTUFSSU8gTEVERVNNQSBWT0xWScOTIEEgTE9TIFBVTUFTIFBBUkEgSU5URUdSQVIgRUwgQ1VFUlBPIFTDiUNOSUNPIl0": {
-      "account": "main",
-      "title": "MARIO LEDESMA VOLVIÓ A LOS PUMAS PARA INTEGRAR EL CUERPO TÉCNICO",
-      "dueAt": "2026-10-09T22:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac96567f91f772d457396f8",
-      "createdAt": "2026-10-09T22:06:31.737Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108683935903347130",
-      "sentAt": "2026-10-09T22:20:02.734Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTU4MzUwMDAwMCwiU0FJTlogQVBVTlTDkyBDT05UUkEgTEEgRklBIFBPUiBVTiBFUlJPUiBFTiBMQSBRVUFMWSBTUFJJTlQgREUgU0lOR0FQVVIiXQ": {
-      "account": "f1",
-      "title": "SAINZ APUNTÓ CONTRA LA FIA POR UN ERROR EN LA QUALY SPRINT DE SINGAPUR",
-      "dueAt": "2026-10-09T22:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac96566ed92ed8fa5ac3b39",
-      "createdAt": "2026-10-09T22:06:31.148Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108681416997294240",
-      "sentAt": "2026-10-09T22:10:02.102Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU4MzUwMDAwMCwiVU4gQUxVRCBPQkxJR8OTIEEgU1VTUEVOREVSIFVOSVZFUlNJREFEIENBVMOTTElDQS1BVURBWCBJVEFMSUFOTyJd": {
-      "account": "main",
-      "title": "UN ALUD OBLIGÓ A SUSPENDER UNIVERSIDAD CATÓLICA-AUDAX ITALIANO",
-      "dueAt": "2026-10-09T22:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac96566ed92ed8fa5ac3b10",
-      "createdAt": "2026-10-09T22:06:30.779Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108682680145527018",
-      "sentAt": "2026-10-09T22:15:03.296Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1ODM1MDAwMDAsIkVMIEtJTFkgQ09OVMOTIEPDk01PIFZJVknDkyBMQSBERVNQRURJREEgREUgTUVTU0kgRU4gTEEgU0VMRUNDScOTTiJd": {
-      "account": "main",
-      "title": "EL KILY CONTÓ CÓMO VIVIÓ LA DESPEDIDA DE MESSI EN LA SELECCIÓN",
-      "dueAt": "2026-10-09T22:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac96566bba9419ccbe14b72",
-      "createdAt": "2026-10-09T22:06:30.378Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108681415743123686",
-      "sentAt": "2026-10-09T22:10:01.859Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIGVuIGVsIGV4dGVyaW9yIiwxNzkxNTc3MDgwMDAwLCJEQVZJRCBST01FUk8gU0UgQUZJUk3DkyBFTiBQQVJNQSBZIFNFIFBPU1RVTMOTIFBBUkEgTEEgU0VMRUNDScOTTiJd": {
-      "account": "main",
-      "title": "DAVID ROMERO SE AFIRMÓ EN PARMA Y SE POSTULÓ PARA LA SELECCIÓN",
-      "dueAt": "2026-10-09T20:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac948f4c4de2d2b1205205c",
-      "createdAt": "2026-10-09T20:05:08.859Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108657513436447029",
-      "sentAt": "2026-10-09T20:35:03.168Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTU3NzA4MDAwMCwiUklWRVIgVlVFTFZFIEFMIE1PTlVNRU5UQUwgU0lOIE1BUkdFTiBERSBFUlJPUiJd": {
-      "account": "main",
-      "title": "RIVER VUELVE AL MONUMENTAL SIN MARGEN DE ERROR",
-      "dueAt": "2026-10-09T20:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac948f4bba9419ccbdcfa03",
-      "createdAt": "2026-10-09T20:05:08.465Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108656285570781224",
-      "sentAt": "2026-10-09T20:30:10.460Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJ2aXJhbGVzIiwxNzkxNTc3MDgwMDAwLCJNQVJJQU5PIETDjUFaIFBST1RBR09OSVrDkyBVTiBJTkVTUEVSQURPIEJFU08gQ09OIFVOQSBISU5DSEEiXQ": {
-      "account": "main",
-      "title": "MARIANO DÍAZ PROTAGONIZÓ UN INESPERADO BESO CON UNA HINCHA",
-      "dueAt": "2026-10-09T20:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac948f3d9cab260a7a0596c",
-      "createdAt": "2026-10-09T20:05:08.124Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108654993934848202",
-      "sentAt": "2026-10-09T20:25:02.390Z"
     }
   },
   "nextAt": {
