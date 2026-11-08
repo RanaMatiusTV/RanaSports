@@ -1,6 +1,6 @@
-RADAR 5 — 08/11/2026 16:10 ARG
-Ventana: 14:10–16:10 ARG
+RADAR 5 — 08/11/2026 18:10 ARG
+Ventana: 16:10–18:10 ARG
 Altas verificadas: 0
 Filas nuevas: ninguna
-Estado: revisión de filas 4600–4680; última fila con noticia 4622. Instituto–Newell's 2-2 candidato confirmado sin imagen directa identificada. F1 Brasil en curso; sin resultado final oficial al corte. Sin duplicaciones ni cambios en noticias previas.
+Estado: revisadas noticias de Sheets 4600–4700 y CSV; F1 Brasil final confirmado: Norris ganó, Colapinto 13°, Mercedes campeón de constructores. Candidatas pendientes por no identificar URL directa pertinente de foto en búsqueda breve; también Instituto–Newell's 2-2. Dakar: básquet 3x3 venció Venezuela y Mongolia el 06/11, pendiente evaluación; sin duplicar resultados previos.
 Última noticia: BOCA PUBLICÓ SU VIDEO DE CAMPEÓN CON UNA FRASE PICANTE Y RECORDÓ LOS SUPERCLÁSICOS
