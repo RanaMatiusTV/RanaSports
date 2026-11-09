@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-09T09:46:14.195Z",
+  "updatedAt": "2026-11-09T20:10:13.460Z",
   "trends": [
     {
-      "query": "cristiano ronaldo",
-      "startedAt": "2026-11-09T08:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "todo noticias",
-      "startedAt": "2026-11-09T08:50:00.000Z",
+      "query": "glucemia",
+      "startedAt": "2026-11-09T19:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "canillita",
-      "startedAt": "2026-11-09T07:20:00.000Z",
+      "query": "las palmas",
+      "startedAt": "2026-11-09T19:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "epic games",
-      "startedAt": "2026-11-09T05:50:00.000Z",
+      "query": "max dahlin",
+      "startedAt": "2026-11-09T19:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "clippers - pelicans",
-      "startedAt": "2026-11-09T04:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "gta 6",
-      "startedAt": "2026-11-09T04:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lotería de santa fe",
-      "startedAt": "2026-11-09T03:20:00.000Z",
+      "query": "10 de noviembre",
+      "startedAt": "2026-11-09T19:00:00.000Z",
       "volume": 2000
     },
     {
-      "query": "marta fort",
-      "startedAt": "2026-11-09T02:20:00.000Z",
+      "query": "tasa",
+      "startedAt": "2026-11-09T18:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "kings - heat",
-      "startedAt": "2026-11-09T02:20:00.000Z",
+      "query": "12 de noviembre",
+      "startedAt": "2026-11-09T18:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "piloto de motocross",
+      "startedAt": "2026-11-09T18:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "mark webber",
+      "startedAt": "2026-11-09T18:10:00.000Z",
       "volume": 500
     },
     {
-      "query": "shakira",
-      "startedAt": "2026-11-09T02:10:00.000Z",
+      "query": "bruce willis",
+      "startedAt": "2026-11-09T17:50:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "james gunn",
+      "startedAt": "2026-11-09T17:40:00.000Z",
+      "volume": 1000
     }
   ]
 }
