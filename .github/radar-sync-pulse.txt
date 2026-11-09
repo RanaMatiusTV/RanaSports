@@ -1,7 +1,6 @@
-RANASPORTS — recuperación Dakar 2026 — 09/11/2026, 19:39 ARG
-Altas verificadas de esta ampliación: 7
-Filas: Noticias!4635:4641
-Total acumulado de esta auditoría: 12 notas, Noticias!4630:4641.
-Titulares adicionales: Ludmila Rosales (wushu), Joaquín Rodríguez Pusterla (skate), Frascaroli-García Curado (vóley playa, 5tas), María Eiras Terranova (equitación), Agustín Asmu (tenis de mesa), Joaquín Paré (remo costero), Agustín Hoffmann Breustedt (windsurf, primera jornada).
-Todas las filas A–S escritas y releídas, A=SI, R=FALSE, con 2 párrafos, foto H y crédito, imagen no validada técnicamente. Fechas y horas B-C de suceso o publicación original registradas según detalle en columna P. No se tocó ninguna nota histórica. Ejecutar workflow Sync RanaSports news feed.
-Última fila 4641: AGUSTÍN HOFFMANN BREUSTEDT QUEDÓ 15º TRAS SUS PRIMERAS TRES REGATAS EN DAKAR
+RANASPORTS — cobertura argentina Dakar 2026 — 09/11/2026 19:46 ARG
+Altas nuevas en esta corrida: 1
+Fila: Noticias!4642 — THIAGO PIZZINI PAZ CERRÓ DAKAR 14º EN 200 LIBRE TRAS LOGRAR UN DIPLOMA OLÍMPICO EN 400
+Total recuperadas en la auditoría de hoy: 13 nuevas notas, Noticias!4630:4642.
+Verificadas filas A–S, A=SI, R=FALSE, fechas/horas originales documentadas en campo P, dos párrafos, foto pertinente (archivo grupal identificado) con crédito, selección sin validar disponibilidad.
+No modificar notas anteriores. Disparar Sync RanaSports news feed y generar sitemaps.
