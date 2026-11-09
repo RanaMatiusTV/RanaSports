@@ -1,5 +1,5 @@
-RADAR 5 — 09/11/2026 08:11 ARG
+RADAR 5 — 09/11/2026 10:14 ARG
 Altas verificadas: 0
 Filas nuevas: ninguna
-Estado: planilla Noticias revisada hasta fila 4700; última noticia fila 4623. Dakar: COA confirma derrota 19-21 de básquet 3x3 ante Lituania en cuartos, 32° de Julia Lambert y actividad de Agustín Hoffmann; candidatos sin alta por falta de URL fotográfica directa identificada. Sin modificaciones de noticias.
+Estado: revisión de Noticias hasta fila 4800, última noticia fila 4623; CSV contiene última noticia. Candidatos oficiales Dakar: Fernández de Landa clasificó a final all-around, básquet 3x3 cayó ante Lituania, Julia Lambert 32ª y Hoffmann 15º tras tres regatas. No se identificó URL fotográfica directa pertinente para altas; no se modificaron noticias.
 Última noticia: COLAPINTO TERMINÓ 13° EN BRASIL EN LA CARRERA QUE GANÓ NORRIS
