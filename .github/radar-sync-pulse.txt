@@ -1,5 +1,5 @@
-RADAR 5 — 09/11/2026 14:10 ARG
+RADAR 5 — 09/11/2026 16:14 ARG
 Altas verificadas: 0
 Filas nuevas: ninguna
-Estado: consulta de Noticias A4550:R4850 y CSV; última fila 4623. Candidatos: 14 convocados del fútbol argentino a fecha FIFA (TyC 09/11), Fernández de Landa final de gimnasia, eliminación del básquet 3x3, Instituto-Newell's. Sin alta por falta de URL directa fotográfica identificada y control editorial. Sin cambios a noticias ni otros radares.
+Estado: revisadas Noticias A4580:R4850 y A4620:E4700, última fila 4623; consultados CSV GitHub, COA y TyC. Candidatos sin alta: clasificación de Fernández de Landa a final all-around, eliminación de básquet 3x3, convocatoria de 14 jugadores de liga argentina, Instituto-Newell's. Sin URL directa fotográfica identificada para publicación. Sin duplicar ni modificar noticias existentes.
 Última noticia: COLAPINTO TERMINÓ 13° EN BRASIL EN LA CARRERA QUE GANÓ NORRIS
