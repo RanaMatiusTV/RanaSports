@@ -1,5 +1,6 @@
-RADAR 5 — 09/11/2026 18:10 ARG
-Altas verificadas: 0
-Filas nuevas: ninguna
-Estado: revisión Noticias A4600:R4900; última fila 4623. Revisados CSV y fuentes COA/TyC. Candidatas: clasificación Fernández de Landa, básquet 3x3 ante Lituania, convocados de liga local. Sin URL directa fotográfica identificada; sin publicación ni cambios en notas existentes. Resultado semifinal futsal no confirmado.
-Última noticia: COLAPINTO TERMINÓ 13° EN BRASIL EN LA CARRERA QUE GANÓ NORRIS
+RADAR 1 — 09/11/2026 19:01 ARG
+Altas verificadas: 6
+Filas nuevas: Noticias!4624:4629
+Última noticia: JUGADORES DEL BARCELONA SE ACERCARON A SALUDAR A JULIÁN ÁLVAREZ TRAS GANARLE AL ATLÉTICO
+Estado: 6 filas A-S escritas y releídas; A=SI, R=FALSE; 6 imágenes H seleccionadas SIN VALIDACIÓN, sin pruebas de disponibilidad; 2 párrafos por nota. Categorías: FUTSAL, TENIS (2), FÓRMULA 1, SELECCIÓN ARGENTINA, FÚTBOL INTERNACIONAL. Candidatas adicionales: Zoe Gorski 4ª en 3000m Dakar, omitida por no conseguir URL fotográfica directa.
+Sincronización: pulso enviado para activar el workflow Sync RanaSports news feed.
