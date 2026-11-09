@@ -1,6 +1,7 @@
-RADAR 1 — 09/11/2026 19:01 ARG
-Altas verificadas: 6
-Filas nuevas: Noticias!4624:4629
-Última noticia: JUGADORES DEL BARCELONA SE ACERCARON A SALUDAR A JULIÁN ÁLVAREZ TRAS GANARLE AL ATLÉTICO
-Estado: 6 filas A-S escritas y releídas; A=SI, R=FALSE; 6 imágenes H seleccionadas SIN VALIDACIÓN, sin pruebas de disponibilidad; 2 párrafos por nota. Categorías: FUTSAL, TENIS (2), FÓRMULA 1, SELECCIÓN ARGENTINA, FÚTBOL INTERNACIONAL. Candidatas adicionales: Zoe Gorski 4ª en 3000m Dakar, omitida por no conseguir URL fotográfica directa.
-Sincronización: pulso enviado para activar el workflow Sync RanaSports news feed.
+RANASPORTS — recuperación de cobertura Dakar 2026 — 09/11/2026, 19:20 ARG
+Altas nuevas verificadas: 5
+Filas: Noticias!4630:4634
+Eventos: Zoe Gorski 4ª en 3000m (09/11); Benjamín Fernández de Landa finalista gimnasia (07/11); Julia Lambert 32ª ciclismo ruta (08/11); selección argentina de básquet 3x3 venció Venezuela y Mongolia (06/11); básquet 3x3 cayó ante Lituania (08/11).
+Todas las filas escritas y releídas, A=SI, R=FALSE, imágenes H directas seleccionadas sin validación técnica, 2 párrafos y fuente. B/C reflejan fecha y hora de inicio del acontecimiento o publicación original, según nota del campo P, no la carga en RanaSports. No se modificaron noticias existentes.
+Última fila: 4634 — ARGENTINA CAYÓ 21-19 CON LITUANIA Y SE DESPIDIÓ DEL BÁSQUET 3X3 DE DAKAR 2026
+Solicitar workflow Sync RanaSports news feed.
