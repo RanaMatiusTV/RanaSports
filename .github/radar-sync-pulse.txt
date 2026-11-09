@@ -1,5 +1,5 @@
-RADAR 5 — 09/11/2026 10:14 ARG
+RADAR 5 — 09/11/2026 12:11 ARG
 Altas verificadas: 0
 Filas nuevas: ninguna
-Estado: revisión de Noticias hasta fila 4800, última noticia fila 4623; CSV contiene última noticia. Candidatos oficiales Dakar: Fernández de Landa clasificó a final all-around, básquet 3x3 cayó ante Lituania, Julia Lambert 32ª y Hoffmann 15º tras tres regatas. No se identificó URL fotográfica directa pertinente para altas; no se modificaron noticias.
+Estado: revisadas Noticias filas 4600-4800 y CSV GitHub; última fila 4623. Candidatos Dakar: clasificación de Fernández de Landa a final, eliminación básquet 3x3 ante Lituania, ciclismo y windsurf; sin publicación por falta de URL directa fotográfica identificada. No se duplicaron resultados anteriores. Sin edición de noticias.
 Última noticia: COLAPINTO TERMINÓ 13° EN BRASIL EN LA CARRERA QUE GANÓ NORRIS
