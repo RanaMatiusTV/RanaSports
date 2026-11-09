@@ -1,5 +1,5 @@
-RADAR 5 — 09/11/2026 16:14 ARG
+RADAR 5 — 09/11/2026 18:10 ARG
 Altas verificadas: 0
 Filas nuevas: ninguna
-Estado: revisadas Noticias A4580:R4850 y A4620:E4700, última fila 4623; consultados CSV GitHub, COA y TyC. Candidatos sin alta: clasificación de Fernández de Landa a final all-around, eliminación de básquet 3x3, convocatoria de 14 jugadores de liga argentina, Instituto-Newell's. Sin URL directa fotográfica identificada para publicación. Sin duplicar ni modificar noticias existentes.
+Estado: revisión Noticias A4600:R4900; última fila 4623. Revisados CSV y fuentes COA/TyC. Candidatas: clasificación Fernández de Landa, básquet 3x3 ante Lituania, convocados de liga local. Sin URL directa fotográfica identificada; sin publicación ni cambios en notas existentes. Resultado semifinal futsal no confirmado.
 Última noticia: COLAPINTO TERMINÓ 13° EN BRASIL EN LA CARRERA QUE GANÓ NORRIS
