@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-08T22:29:32.810Z",
+  "updatedAt": "2026-11-09T01:58:47.061Z",
   "trends": [
     {
-      "query": "posiciones de fiorentina contra juventus fc",
-      "startedAt": "2026-11-08T22:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "julián alvarez",
-      "startedAt": "2026-11-08T22:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "luca regiardo",
-      "startedAt": "2026-11-08T22:00:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "tucumán",
-      "startedAt": "2026-11-08T22:00:00.000Z",
+      "query": "zendaya",
+      "startedAt": "2026-11-09T01:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "flavio briatore",
-      "startedAt": "2026-11-08T21:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "central córdoba - lanús",
-      "startedAt": "2026-11-08T21:40:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "benfica vs",
-      "startedAt": "2026-11-08T21:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "wta finals",
-      "startedAt": "2026-11-08T21:30:00.000Z",
+      "query": "worlds",
+      "startedAt": "2026-11-09T01:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "posiciones de independiente santa fe contra deportivo pasto",
-      "startedAt": "2026-11-08T21:10:00.000Z",
-      "volume": 2000
+      "query": "t1",
+      "startedAt": "2026-11-09T01:20:00.000Z",
+      "volume": 200
     },
     {
-      "query": "nunciatura",
-      "startedAt": "2026-11-08T21:10:00.000Z",
+      "query": "charles leclerc",
+      "startedAt": "2026-11-09T01:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pozo",
+      "startedAt": "2026-11-09T01:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "mavericks - nets",
+      "startedAt": "2026-11-09T01:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "trabajo",
+      "startedAt": "2026-11-09T00:40:00.000Z",
       "volume": 500
+    },
+    {
+      "query": "bucks - celtics",
+      "startedAt": "2026-11-09T00:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "salta",
+      "startedAt": "2026-11-09T00:30:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "telekino 2453",
+      "startedAt": "2026-11-09T00:30:00.000Z",
+      "volume": 200
     }
   ]
 }
