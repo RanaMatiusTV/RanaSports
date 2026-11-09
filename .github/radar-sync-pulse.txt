@@ -1,6 +1,6 @@
-RADAR 5 — 08/11/2026 22:10 ARG
-Ventana: 20:10–22:10 ARG
+RADAR 5 — 09/11/2026 06:17 ARG
+Ventana: novedades desde 08/11/2026 22:10 hasta 09/11/2026 06:17 ARG
 Altas verificadas: 0
 Filas nuevas: ninguna
-Estado: revisión de planilla hasta fila 4660 y CSV de GitHub. Resultado de Colapinto ya publicado en fila 4623 y exportado. Candidata Instituto 2-2 Newell's confirmada por TyC Sports, sin URL fotográfica directa identificada; no publicada. Dakar 2026: resultados previos de básquet 3x3 y ecuestre identificados en COA; sin alta ni medalla nueva acreditada. No se modificaron otras noticias.
+Estado: revisada planilla Noticias hasta fila 4750; última alta fila 4623. CSV GitHub contiene fila 4623. Candidata Instituto 2-2 Newell's (07/11) corroborada con fuentes deportivas; no incorporada por ausencia de URL fotográfica directa identificada tras búsqueda breve. Sin duplicar resultados de Colapinto ni noticias previas. No se modificaron otras noticias.
 Última noticia: COLAPINTO TERMINÓ 13° EN BRASIL EN LA CARRERA QUE GANÓ NORRIS
