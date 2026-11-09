@@ -1,7 +1,7 @@
-RANASPORTS — recuperación de cobertura Dakar 2026 — 09/11/2026, 19:20 ARG
-Altas nuevas verificadas: 5
-Filas: Noticias!4630:4634
-Eventos: Zoe Gorski 4ª en 3000m (09/11); Benjamín Fernández de Landa finalista gimnasia (07/11); Julia Lambert 32ª ciclismo ruta (08/11); selección argentina de básquet 3x3 venció Venezuela y Mongolia (06/11); básquet 3x3 cayó ante Lituania (08/11).
-Todas las filas escritas y releídas, A=SI, R=FALSE, imágenes H directas seleccionadas sin validación técnica, 2 párrafos y fuente. B/C reflejan fecha y hora de inicio del acontecimiento o publicación original, según nota del campo P, no la carga en RanaSports. No se modificaron noticias existentes.
-Última fila: 4634 — ARGENTINA CAYÓ 21-19 CON LITUANIA Y SE DESPIDIÓ DEL BÁSQUET 3X3 DE DAKAR 2026
-Solicitar workflow Sync RanaSports news feed.
+RANASPORTS — recuperación Dakar 2026 — 09/11/2026, 19:39 ARG
+Altas verificadas de esta ampliación: 7
+Filas: Noticias!4635:4641
+Total acumulado de esta auditoría: 12 notas, Noticias!4630:4641.
+Titulares adicionales: Ludmila Rosales (wushu), Joaquín Rodríguez Pusterla (skate), Frascaroli-García Curado (vóley playa, 5tas), María Eiras Terranova (equitación), Agustín Asmu (tenis de mesa), Joaquín Paré (remo costero), Agustín Hoffmann Breustedt (windsurf, primera jornada).
+Todas las filas A–S escritas y releídas, A=SI, R=FALSE, con 2 párrafos, foto H y crédito, imagen no validada técnicamente. Fechas y horas B-C de suceso o publicación original registradas según detalle en columna P. No se tocó ninguna nota histórica. Ejecutar workflow Sync RanaSports news feed.
+Última fila 4641: AGUSTÍN HOFFMANN BREUSTEDT QUEDÓ 15º TRAS SUS PRIMERAS TRES REGATAS EN DAKAR
