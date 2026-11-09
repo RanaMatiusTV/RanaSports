@@ -1,6 +1,5 @@
-RADAR 5 — 09/11/2026 06:17 ARG
-Ventana: novedades desde 08/11/2026 22:10 hasta 09/11/2026 06:17 ARG
+RADAR 5 — 09/11/2026 08:11 ARG
 Altas verificadas: 0
 Filas nuevas: ninguna
-Estado: revisada planilla Noticias hasta fila 4750; última alta fila 4623. CSV GitHub contiene fila 4623. Candidata Instituto 2-2 Newell's (07/11) corroborada con fuentes deportivas; no incorporada por ausencia de URL fotográfica directa identificada tras búsqueda breve. Sin duplicar resultados de Colapinto ni noticias previas. No se modificaron otras noticias.
+Estado: planilla Noticias revisada hasta fila 4700; última noticia fila 4623. Dakar: COA confirma derrota 19-21 de básquet 3x3 ante Lituania en cuartos, 32° de Julia Lambert y actividad de Agustín Hoffmann; candidatos sin alta por falta de URL fotográfica directa identificada. Sin modificaciones de noticias.
 Última noticia: COLAPINTO TERMINÓ 13° EN BRASIL EN LA CARRERA QUE GANÓ NORRIS
