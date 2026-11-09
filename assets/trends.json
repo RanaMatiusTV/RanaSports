@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-09T01:58:47.061Z",
+  "updatedAt": "2026-11-09T09:46:14.195Z",
   "trends": [
     {
-      "query": "zendaya",
-      "startedAt": "2026-11-09T01:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "worlds",
-      "startedAt": "2026-11-09T01:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "t1",
-      "startedAt": "2026-11-09T01:20:00.000Z",
+      "query": "cristiano ronaldo",
+      "startedAt": "2026-11-09T08:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "charles leclerc",
-      "startedAt": "2026-11-09T01:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "pozo",
-      "startedAt": "2026-11-09T01:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "mavericks - nets",
-      "startedAt": "2026-11-09T01:00:00.000Z",
+      "query": "todo noticias",
+      "startedAt": "2026-11-09T08:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "trabajo",
-      "startedAt": "2026-11-09T00:40:00.000Z",
-      "volume": 500
+      "query": "canillita",
+      "startedAt": "2026-11-09T07:20:00.000Z",
+      "volume": 100
     },
     {
-      "query": "bucks - celtics",
-      "startedAt": "2026-11-09T00:40:00.000Z",
-      "volume": 500
+      "query": "epic games",
+      "startedAt": "2026-11-09T05:50:00.000Z",
+      "volume": 100
     },
     {
-      "query": "salta",
-      "startedAt": "2026-11-09T00:30:00.000Z",
+      "query": "clippers - pelicans",
+      "startedAt": "2026-11-09T04:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "gta 6",
+      "startedAt": "2026-11-09T04:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "lotería de santa fe",
+      "startedAt": "2026-11-09T03:20:00.000Z",
       "volume": 2000
     },
     {
-      "query": "telekino 2453",
-      "startedAt": "2026-11-09T00:30:00.000Z",
-      "volume": 200
+      "query": "marta fort",
+      "startedAt": "2026-11-09T02:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "kings - heat",
+      "startedAt": "2026-11-09T02:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "shakira",
+      "startedAt": "2026-11-09T02:10:00.000Z",
+      "volume": 500
     }
   ]
 }
