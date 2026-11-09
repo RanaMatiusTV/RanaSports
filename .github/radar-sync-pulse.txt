@@ -1,6 +1,6 @@
-RADAR 5 — 08/11/2026 20:10 ARG
-Ventana: 18:10–20:10 ARG
-Altas verificadas: 1
-Filas nuevas: 4623
-Estado: noticia de Colapinto 13° y victoria de Norris en Brasil confirmada y releída en Google Sheets. Duplicados: clasificación y largada ya cubiertas; no repetidas. Dakar: sin medallas nuevas verificadas en esta corrida. Foto editorial de archivo sin validación técnica. Sincronización GitHub pendiente de comprobación.
+RADAR 5 — 08/11/2026 22:10 ARG
+Ventana: 20:10–22:10 ARG
+Altas verificadas: 0
+Filas nuevas: ninguna
+Estado: revisión de planilla hasta fila 4660 y CSV de GitHub. Resultado de Colapinto ya publicado en fila 4623 y exportado. Candidata Instituto 2-2 Newell's confirmada por TyC Sports, sin URL fotográfica directa identificada; no publicada. Dakar 2026: resultados previos de básquet 3x3 y ecuestre identificados en COA; sin alta ni medalla nueva acreditada. No se modificaron otras noticias.
 Última noticia: COLAPINTO TERMINÓ 13° EN BRASIL EN LA CARRERA QUE GANÓ NORRIS
