@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-10T18:16:19.680Z",
+  "updatedAt": "2026-11-10T23:26:38.282Z",
   "trends": [
     {
-      "query": "monseñor aguer",
-      "startedAt": "2026-11-10T16:50:00.000Z",
-      "volume": 1000
+      "query": "enner valencia boca juniors",
+      "startedAt": "2026-11-10T22:50:00.000Z",
+      "volume": 5000
     },
     {
-      "query": "stranger things",
-      "startedAt": "2026-11-10T16:50:00.000Z",
+      "query": "wall street",
+      "startedAt": "2026-11-10T22:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "lujan",
-      "startedAt": "2026-11-10T16:40:00.000Z",
+      "query": "selección de fútbol sub-20 de argentina",
+      "startedAt": "2026-11-10T22:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "vigilia de los jovenes con el papa",
-      "startedAt": "2026-11-10T16:30:00.000Z",
-      "volume": 200
+      "query": "liga de naciones",
+      "startedAt": "2026-11-10T22:50:00.000Z",
+      "volume": 100
     },
     {
-      "query": "sindicato",
-      "startedAt": "2026-11-10T16:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "dólar blue",
-      "startedAt": "2026-11-10T15:50:00.000Z",
+      "query": "día de la soberanía nacional",
+      "startedAt": "2026-11-10T22:30:00.000Z",
       "volume": 2000
     },
     {
-      "query": "sofia gonet",
-      "startedAt": "2026-11-10T15:50:00.000Z",
+      "query": "portugal",
+      "startedAt": "2026-11-10T22:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "coco gauff",
+      "startedAt": "2026-11-10T22:10:00.000Z",
       "volume": 500
     },
     {
-      "query": "ángel correa",
-      "startedAt": "2026-11-10T14:30:00.000Z",
+      "query": "murio apolo kidd",
+      "startedAt": "2026-11-10T21:40:00.000Z",
       "volume": 1000
     },
     {
-      "query": "si san juan",
-      "startedAt": "2026-11-10T14:30:00.000Z",
-      "volume": 200
+      "query": "valencia cf",
+      "startedAt": "2026-11-10T21:40:00.000Z",
+      "volume": 100
     },
     {
-      "query": "valentín fuster",
-      "startedAt": "2026-11-10T14:10:00.000Z",
+      "query": "la capital",
+      "startedAt": "2026-11-10T21:30:00.000Z",
       "volume": 500
     }
   ]
