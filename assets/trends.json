@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-10T10:27:34.147Z",
+  "updatedAt": "2026-11-10T18:16:19.680Z",
   "trends": [
     {
-      "query": "el dia",
-      "startedAt": "2026-11-10T10:10:00.000Z",
-      "volume": 100
+      "query": "monseñor aguer",
+      "startedAt": "2026-11-10T16:50:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "el once",
-      "startedAt": "2026-11-10T10:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "radio sudamericana",
-      "startedAt": "2026-11-10T10:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "quini6",
-      "startedAt": "2026-11-10T09:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "clima san luis",
-      "startedAt": "2026-11-10T09:20:00.000Z",
+      "query": "stranger things",
+      "startedAt": "2026-11-10T16:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "clima bahia blanca",
-      "startedAt": "2026-11-10T09:20:00.000Z",
+      "query": "lujan",
+      "startedAt": "2026-11-10T16:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "perro",
-      "startedAt": "2026-11-10T09:00:00.000Z",
+      "query": "vigilia de los jovenes con el papa",
+      "startedAt": "2026-11-10T16:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "cronicazo",
-      "startedAt": "2026-11-10T09:00:00.000Z",
-      "volume": 100
+      "query": "sindicato",
+      "startedAt": "2026-11-10T16:20:00.000Z",
+      "volume": 200
     },
     {
-      "query": "club atlético boca juniors",
-      "startedAt": "2026-11-10T08:50:00.000Z",
+      "query": "dólar blue",
+      "startedAt": "2026-11-10T15:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "enrique angelelli",
-      "startedAt": "2026-11-10T08:40:00.000Z",
+      "query": "sofia gonet",
+      "startedAt": "2026-11-10T15:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "ángel correa",
+      "startedAt": "2026-11-10T14:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "si san juan",
+      "startedAt": "2026-11-10T14:30:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "valentín fuster",
+      "startedAt": "2026-11-10T14:10:00.000Z",
+      "volume": 500
     }
   ]
 }
