@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/alpine-quedo-en-el-foco-de-las-criticas-tras-otro-gran-premio-sin-puntos-en-brasil/": {
+      "account": "f1",
+      "title": "ALPINE QUEDÓ EN EL FOCO DE LAS CRÍTICAS TRAS OTRO GRAN PREMIO SIN PUNTOS EN BRASIL",
+      "dueAt": "2026-11-10T01:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af27494223aa16048dfb6be",
+      "createdAt": "2026-11-10T01:34:12.701Z"
+    },
+    "https://ranasports.com.ar/tenis/etcheverry-debuto-con-triunfo-en-estocolmo-y-se-medira-con-tirante/": {
+      "account": "sports",
+      "title": "ETCHEVERRY DEBUTÓ CON TRIUNFO EN ESTOCOLMO Y SE MEDIRÁ CON TIRANTE",
+      "dueAt": "2026-11-10T02:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af27493d35dff5701cfdfc1",
+      "createdAt": "2026-11-10T01:34:12.028Z"
+    },
+    "https://ranasports.com.ar/futbol/mac-allister-hablo-del-futuro-de-la-seleccion-sin-messi-y-destaco-a-nico-paz/": {
+      "account": "sports",
+      "title": "MAC ALLISTER HABLÓ DEL FUTURO DE LA SELECCIÓN SIN MESSI Y DESTACÓ A NICO PAZ",
+      "dueAt": "2026-11-10T02:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af2749205af22d726fb7571",
+      "createdAt": "2026-11-10T01:34:10.287Z"
+    },
+    "https://ranasports.com.ar/futsal/argentina-vencio-4-2-a-marruecos-y-jugara-la-final-olimpica-de-futsal-ante-portugal/": {
+      "account": "sports",
+      "title": "ARGENTINA VENCIÓ 4-2 A MARRUECOS Y JUGARÁ LA FINAL OLÍMPICA DE FUTSAL ANTE PORTUGAL",
+      "dueAt": "2026-11-10T01:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af27491b59b34913a4afd4d",
+      "createdAt": "2026-11-10T01:34:09.857Z"
+    },
+    "https://ranasports.com.ar/tenis/ugo-carabelli-gano-el-challenger-de-costa-do-sauipe-y-su-festejo-genero-polemica/": {
+      "account": "sports",
+      "title": "UGO CARABELLI GANÓ EL CHALLENGER DE COSTA DO SAUÍPE Y SU FESTEJO GENERÓ POLÉMICA",
+      "dueAt": "2026-11-10T01:34:06.536Z",
+      "mode": "shareNow",
+      "bufferPostId": "6af2748eb59b34913a4afcdf",
+      "createdAt": "2026-11-10T01:34:08.663Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-termino-13-en-brasil-en-la-carrera-que-gano-norris/": {
       "account": "f1",
       "title": "COLAPINTO TERMINÓ 13° EN BRASIL EN LA CARRERA QUE GANÓ NORRIS",
@@ -4947,56 +4987,6 @@
       "createdAt": "2026-10-10T00:06:42.682Z",
       "externalLink": "https://x.com/768913759301754880/status/2108715390549319802",
       "sentAt": "2026-10-10T00:25:02.111Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1OTA3MDAwMDAsIkFTQUxUQVJPTiBVTkEgQ0FTQSBERSBDTEVNRU5URSBST0RSw41HVUVaIFkgTEUgUk9CQVJPTiBDQU1JU0VUQVMgWSBNRURBTExBUyJd": {
-      "account": "main",
-      "title": "ASALTARON UNA CASA DE CLEMENTE RODRÍGUEZ Y LE ROBARON CAMISETAS Y MEDALLAS",
-      "dueAt": "2026-10-10T00:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac98192bba9419ccbe556d5",
-      "createdAt": "2026-10-10T00:06:42.267Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108714140986483018",
-      "sentAt": "2026-10-10T00:20:04.162Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTkwNzAwMDAwLCJMQSBDSEFSTEEgREVTQ09OT0NJREEgRU5UUkUgS09NUEFOWSBZIFJVU1NPIEFOVEVTIERFIEJPQ0EtQkFZRVJOIl0": {
-      "account": "main",
-      "title": "LA CHARLA DESCONOCIDA ENTRE KOMPANY Y RUSSO ANTES DE BOCA-BAYERN",
-      "dueAt": "2026-10-10T00:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac98191d9cab260a7a8ee73",
-      "createdAt": "2026-10-10T00:06:41.595Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108712877670474032",
-      "sentAt": "2026-10-10T00:15:02.947Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE1OTA3MDAwMDAsIkFSR0VOVElOQSBGVUUgTEEgU0VMRUNDScOTTiBNw4FTIEFUQUNBREEgRU4gUkVERVMgRFVSQU5URSBFTCBNVU5ESUFMIl0": {
-      "account": "main",
-      "title": "ARGENTINA FUE LA SELECCIÓN MÁS ATACADA EN REDES DURANTE EL MUNDIAL",
-      "dueAt": "2026-10-10T00:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac98190bba9419ccbe556ab",
-      "createdAt": "2026-10-10T00:06:41.023Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108711616732606834",
-      "sentAt": "2026-10-10T00:10:02.353Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU4MzUwMDAwMCwiUE9SVFVHQUwgU1VTUEVOREnDkyBQUk9WSVNJT05BTE1FTlRFIEEgQ1JJU1RJQU5PIFJPTkFMRE8iXQ": {
-      "account": "main",
-      "title": "PORTUGAL SUSPENDIÓ PROVISIONALMENTE A CRISTIANO RONALDO",
-      "dueAt": "2026-10-09T22:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac96568b07d37ac975218ca",
-      "createdAt": "2026-10-09T22:06:32.960Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108687713704587457",
-      "sentAt": "2026-10-09T22:35:03.344Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE1ODM1MDAwMDAsIkRBTklFTCBPU1ZBTERPIFJFVkVMw5MgUVXDiSBPUklHSU7DkyBMQSBJTkZFQ0NJw5NOIFFVRSBQVVNPIEVOIFJJRVNHTyBTVSBWSURBIl0": {
-      "account": "main",
-      "title": "DANIEL OSVALDO REVELÓ QUÉ ORIGINÓ LA INFECCIÓN QUE PUSO EN RIESGO SU VIDA",
-      "dueAt": "2026-10-09T22:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac96568d9cab260a7a505b8",
-      "createdAt": "2026-10-09T22:06:32.599Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108686465815159183",
-      "sentAt": "2026-10-09T22:30:05.836Z"
     }
   },
   "nextAt": {
