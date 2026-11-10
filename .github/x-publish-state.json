@@ -1,6 +1,14 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/jugadores-del-barcelona-se-acercaron-a-saludar-a-julian-alvarez-tras-ganarle-al-atletico/": {
+      "account": "sports",
+      "title": "JUGADORES DEL BARCELONA SE ACERCARON A SALUDAR A JULIÁN ÁLVAREZ TRAS GANARLE AL ATLÉTICO",
+      "dueAt": "2026-11-10T09:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af2e9af27db27ce062aa5d3",
+      "createdAt": "2026-11-10T09:53:52.084Z"
+    },
     "https://ranasports.com.ar/f1/alpine-quedo-en-el-foco-de-las-criticas-tras-otro-gran-premio-sin-puntos-en-brasil/": {
       "account": "f1",
       "title": "ALPINE QUEDÓ EN EL FOCO DE LAS CRÍTICAS TRAS OTRO GRAN PREMIO SIN PUNTOS EN BRASIL",
@@ -4977,16 +4985,6 @@
       "createdAt": "2026-10-10T00:06:43.491Z",
       "externalLink": "https://x.com/768913759301754880/status/2108716666565669224",
       "sentAt": "2026-10-10T00:30:06.338Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU5MDcwMDAwMCwiUEFTw5MgUE9SIFJFQUwgTUFEUklELCBQRVJPIENPTkZFU8OTIFFVRSBTRSBISVpPIEhJTkNIQSBERUwgQkFSQ0VMT05BIFBPUiBNRVNTSSJd": {
-      "account": "main",
-      "title": "PASÓ POR REAL MADRID, PERO CONFESÓ QUE SE HIZO HINCHA DEL BARCELONA POR MESSI",
-      "dueAt": "2026-10-10T00:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac98192c4de2d2b120dabe9",
-      "createdAt": "2026-10-10T00:06:42.682Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108715390549319802",
-      "sentAt": "2026-10-10T00:25:02.111Z"
     }
   },
   "nextAt": {
