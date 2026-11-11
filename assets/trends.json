@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-11T10:54:42.530Z",
+  "updatedAt": "2026-11-11T18:41:18.567Z",
   "trends": [
     {
-      "query": "tn",
-      "startedAt": "2026-11-11T10:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "valeria mazza",
-      "startedAt": "2026-11-11T10:40:00.000Z",
+      "query": "usman nurmagomedov",
+      "startedAt": "2026-11-11T18:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "condenado",
-      "startedAt": "2026-11-11T10:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "horóscopo",
-      "startedAt": "2026-11-11T10:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "victoria xipolitakis",
-      "startedAt": "2026-11-11T09:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "clima salta",
-      "startedAt": "2026-11-11T09:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "iliana calabró",
-      "startedAt": "2026-11-11T09:10:00.000Z",
+      "query": "casper ruud",
+      "startedAt": "2026-11-11T17:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "hoy es feriado",
-      "startedAt": "2026-11-11T09:10:00.000Z",
+      "query": "carlos ischia",
+      "startedAt": "2026-11-11T17:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "a que hora llega el papa a peru",
+      "startedAt": "2026-11-11T17:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "vaticano",
+      "startedAt": "2026-11-11T17:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "ricardo la volpe",
+      "startedAt": "2026-11-11T16:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "página 12",
+      "startedAt": "2026-11-11T16:20:00.000Z",
       "volume": 2000
     },
     {
-      "query": "evento de el niño de 2026 2027",
-      "startedAt": "2026-11-11T09:00:00.000Z",
-      "volume": 200
+      "query": "reino unido",
+      "startedAt": "2026-11-11T16:20:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "play-off",
-      "startedAt": "2026-11-11T09:00:00.000Z",
-      "volume": 100
+      "query": "chiclayo",
+      "startedAt": "2026-11-11T16:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "jubilación",
+      "startedAt": "2026-11-11T16:00:00.000Z",
+      "volume": 10000
     }
   ]
 }
