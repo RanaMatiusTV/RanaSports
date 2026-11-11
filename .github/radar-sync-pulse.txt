@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 11/11/2026 13:00 ARG
+RANASPORTS — RADAR 1 — 11/11/2026 15:02 ARG
 Altas verificadas en esta corrida: 6
-Filas: Noticias!4656:4661
-Última noticia: AFA PREPARA EL ANUNCIO DE LA RENOVACIÓN DE SCALONI HASTA 2030
-Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; H incorporadas como URLs directas declaradas o seleccionadas de fuentes periodísticas, sin apertura ni validación técnica o visual.
+Filas: Noticias!4662:4667
+Última noticia: POCHETTINO ALCANZÓ UN ACUERDO VERBAL PARA DIRIGIR AL MANCHESTER UNITED
+Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual.
 Disparar Sync RanaSports news feed.
