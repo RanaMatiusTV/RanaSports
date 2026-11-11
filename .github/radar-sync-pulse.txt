@@ -1,6 +1,6 @@
-RANASPORTS — cobertura argentina Dakar 2026 — 09/11/2026 19:46 ARG
-Altas nuevas en esta corrida: 1
-Fila: Noticias!4642 — THIAGO PIZZINI PAZ CERRÓ DAKAR 14º EN 200 LIBRE TRAS LOGRAR UN DIPLOMA OLÍMPICO EN 400
-Total recuperadas en la auditoría de hoy: 13 nuevas notas, Noticias!4630:4642.
-Verificadas filas A–S, A=SI, R=FALSE, fechas/horas originales documentadas en campo P, dos párrafos, foto pertinente (archivo grupal identificado) con crédito, selección sin validar disponibilidad.
-No modificar notas anteriores. Disparar Sync RanaSports news feed y generar sitemaps.
+RANASPORTS — RADAR 1 — 11/11/2026 09:10 ARG
+Altas verificadas en esta corrida: 7
+Filas: Noticias!4642:4648
+Última noticia: VOJVODA REGRESÓ A FORTALEZA PARA BUSCAR EL ASCENSO EN TRES PARTIDOS
+Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual.
+Disparar Sync RanaSports news feed.
