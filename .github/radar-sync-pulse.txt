@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 11/11/2026 11:08 ARG
-Altas verificadas en esta corrida: 7
-Filas: Noticias!4649:4655
-Última noticia: ASESINARON AL PADRE DE RONY Y NEYMAR CEDIÓ SU AVIÓN PARA AYUDAR A LA FAMILIA
-Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual.
+RANASPORTS — RADAR 1 — 11/11/2026 13:00 ARG
+Altas verificadas en esta corrida: 6
+Filas: Noticias!4656:4661
+Última noticia: AFA PREPARA EL ANUNCIO DE LA RENOVACIÓN DE SCALONI HASTA 2030
+Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; H incorporadas como URLs directas declaradas o seleccionadas de fuentes periodísticas, sin apertura ni validación técnica o visual.
 Disparar Sync RanaSports news feed.
