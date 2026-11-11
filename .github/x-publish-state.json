@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/independiente-y-tigre-negocian-la-venta-definitiva-de-santi-lopez/": {
+      "account": "main",
+      "title": "INDEPENDIENTE Y TIGRE NEGOCIAN LA VENTA DEFINITIVA DE SANTI LÓPEZ",
+      "dueAt": "2026-11-11T15:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af486783b4d19e0b8108ed7",
+      "createdAt": "2026-11-11T15:15:04.368Z"
+    },
+    "https://ranasports.com.ar/f1/la-defensa-de-colapinto-ante-hulkenberg-termino-con-una-sancion-al-aleman/": {
+      "account": "f1",
+      "title": "LA DEFENSA DE COLAPINTO ANTE HÜLKENBERG TERMINÓ CON UNA SANCIÓN AL ALEMÁN",
+      "dueAt": "2026-11-11T15:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af486773b4d19e0b8108db0",
+      "createdAt": "2026-11-11T15:15:03.696Z"
+    },
+    "https://ranasports.com.ar/river/river-apunta-a-guido-rodriguez-santiago-longo-y-exequiel-palacios-para-2027/": {
+      "account": "sports",
+      "title": "RIVER APUNTA A GUIDO RODRÍGUEZ, SANTIAGO LONGO Y EXEQUIEL PALACIOS PARA 2027",
+      "dueAt": "2026-11-11T16:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af48676ea046cbab6061ce2",
+      "createdAt": "2026-11-11T15:15:03.037Z"
+    },
+    "https://ranasports.com.ar/futbol/bruno-galassi-el-europibe-de-la-lazio-que-tendra-su-primera-vez-en-la-sub-20/": {
+      "account": "sports",
+      "title": "BRUNO GALASSI, EL EUROPIBE DE LA LAZIO QUE TENDRÁ SU PRIMERA VEZ EN LA SUB 20",
+      "dueAt": "2026-11-11T15:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af486763b4d19e0b8108cab",
+      "createdAt": "2026-11-11T15:15:02.473Z"
+    },
+    "https://ranasports.com.ar/futbol/abaldo-quedo-relegado-y-su-futuro-en-independiente-es-una-incognita/": {
+      "account": "sports",
+      "title": "ABALDO QUEDÓ RELEGADO Y SU FUTURO EN INDEPENDIENTE ES UNA INCÓGNITA",
+      "dueAt": "2026-11-11T15:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af486755e84a1f10e5dcd46",
+      "createdAt": "2026-11-11T15:15:01.344Z"
+    },
     "https://ranasports.com.ar/futbol/jugadores-del-barcelona-se-acercaron-a-saludar-a-julian-alvarez-tras-ganarle-al-atletico/": {
       "account": "sports",
       "title": "JUGADORES DEL BARCELONA SE ACERCARON A SALUDAR A JULIÁN ÁLVAREZ TRAS GANARLE AL ATLÉTICO",
@@ -4935,56 +4975,6 @@
       "createdAt": "2026-10-10T02:07:50.686Z",
       "externalLink": "https://x.com/768913759301754880/status/2108743076608958587",
       "sentAt": "2026-10-10T02:15:02.943Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTk3OTAwMDAwLCJBUlJVQUJBUlJFTkEgRElKTyBRVUUgUEFSRURFUyBFU1RBUsONQSBERVNDQVJUQURPIEFOVEUgVkFTQ08gWSBFWFBMSUPDkyBDw5NNTyBMTyBSRUVNUExBWkFSw4EiXQ": {
-      "account": "main",
-      "title": "ARRUABARRENA DIJO QUE PAREDES ESTARÍA DESCARTADO ANTE VASCO Y EXPLICÓ CÓMO LO REEMPLAZARÁ",
-      "dueAt": "2026-10-10T02:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac99df6d9cab260a7acd7a4",
-      "createdAt": "2026-10-10T02:07:50.229Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108741813741756753",
-      "sentAt": "2026-10-10T02:10:01.851Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTkwNzAwMDAwLCJMQSBKVVNUSUNJQSBPUkRFTsOTIFFVRSBWQVNDTy1CT0NBIFNFIEpVRUdVRSBFTiBFTCBNQVJBQ0FOw4EiXQ": {
-      "account": "main",
-      "title": "LA JUSTICIA ORDENÓ QUE VASCO-BOCA SE JUEGUE EN EL MARACANÁ",
-      "dueAt": "2026-10-10T00:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac98195ed92ed8fa5b03d21",
-      "createdAt": "2026-10-10T00:06:45.609Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108720446459744330",
-      "sentAt": "2026-10-10T00:45:07.516Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTU5MDcwMDAwMCwiQ1JJU1RJQU5PIE1BUkPDkyBFTiBMQSBHT0xFQURBIERFIEFMIE5BU1NSIFkgTExFR8OTIEEgOTgwIEdPTEVTIl0": {
-      "account": "main",
-      "title": "CRISTIANO MARCÓ EN LA GOLEADA DE AL NASSR Y LLEGÓ A 980 GOLES",
-      "dueAt": "2026-10-10T00:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac98195c4de2d2b120dac68",
-      "createdAt": "2026-10-10T00:06:45.166Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108719165565452622",
-      "sentAt": "2026-10-10T00:40:02.180Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTkwNzAwMDAwLCJCT0NBIFNVRlJJw5MgTEEgUEVMT1RBIFBBUkFEQTogTEEgTExBVkUgREUgSU5TVElUVVRPIEVOIFNVUyBET1MgR09MRVMiXQ": {
-      "account": "main",
-      "title": "BOCA SUFRIÓ LA PELOTA PARADA: LA LLAVE DE INSTITUTO EN SUS DOS GOLES",
-      "dueAt": "2026-10-10T00:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac98194c4de2d2b120dac37",
-      "createdAt": "2026-10-10T00:06:44.393Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108717906452250659",
-      "sentAt": "2026-10-10T00:35:01.945Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNTkwNzAwMDAwLCJFTCBCTE9PUEVSIERFIExFREVTTUEgUVVFIExFIFJFR0FMw5MgQSBFTk5FUiBWQUxFTkNJQSBFTCBFTVBBVEUgREUgQk9DQSJd": {
-      "account": "main",
-      "title": "EL BLOOPER DE LEDESMA QUE LE REGALÓ A ENNER VALENCIA EL EMPATE DE BOCA",
-      "dueAt": "2026-10-10T00:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ac98193ed92ed8fa5b03cf0",
-      "createdAt": "2026-10-10T00:06:43.491Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108716666565669224",
-      "sentAt": "2026-10-10T00:30:06.338Z"
     }
   },
   "nextAt": {
