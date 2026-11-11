@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-11T03:01:38.280Z",
+  "updatedAt": "2026-11-11T10:54:42.530Z",
   "trends": [
     {
-      "query": "suns - clippers",
-      "startedAt": "2026-11-11T02:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "paul george",
-      "startedAt": "2026-11-11T02:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "humedad",
-      "startedAt": "2026-11-11T02:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "gol",
-      "startedAt": "2026-11-11T02:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "atlético nacional",
-      "startedAt": "2026-11-11T02:10:00.000Z",
+      "query": "tn",
+      "startedAt": "2026-11-11T10:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "jazz - heat",
-      "startedAt": "2026-11-11T02:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "santiago abascal",
-      "startedAt": "2026-11-11T02:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "supercopa argentina",
-      "startedAt": "2026-11-11T02:00:00.000Z",
+      "query": "valeria mazza",
+      "startedAt": "2026-11-11T10:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "internacional de bogotá - américa",
-      "startedAt": "2026-11-11T01:50:00.000Z",
-      "volume": 500
+      "query": "condenado",
+      "startedAt": "2026-11-11T10:20:00.000Z",
+      "volume": 100
     },
     {
-      "query": "rocio robles",
-      "startedAt": "2026-11-11T01:40:00.000Z",
-      "volume": 1000
+      "query": "horóscopo",
+      "startedAt": "2026-11-11T10:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "victoria xipolitakis",
+      "startedAt": "2026-11-11T09:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clima salta",
+      "startedAt": "2026-11-11T09:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "iliana calabró",
+      "startedAt": "2026-11-11T09:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "hoy es feriado",
+      "startedAt": "2026-11-11T09:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "evento de el niño de 2026 2027",
+      "startedAt": "2026-11-11T09:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "play-off",
+      "startedAt": "2026-11-11T09:00:00.000Z",
+      "volume": 100
     }
   ]
 }
