@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 11/11/2026 17:01 ARG
+RANASPORTS — RADAR 1 — 11/11/2026 19:00 ARG
 Altas verificadas en esta corrida: 6
-Filas: Noticias!4668:4673
-Última noticia: ZIDANE Y MBAPPÉ ATRAVIESAN SU PRIMERA TENSIÓN TÁCTICA EN LA SELECCIÓN DE FRANCIA
+Filas: Noticias!4674:4679
+Última noticia: RIVER Y LANÚS ACORDARON JUGAR LOS OCTAVOS EL LUNES 23 EN EL MONUMENTAL
 Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual.
 Disparar Sync RanaSports news feed.
