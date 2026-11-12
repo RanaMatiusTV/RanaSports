@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/supercopa-argentina/la-supercopa-tendra-alargue-y-penales-si-estudiantes-e-independiente-rivadavia-empatan/": {
+      "account": "sports",
+      "title": "LA SUPERCOPA TENDRÁ ALARGUE Y PENALES SI ESTUDIANTES E INDEPENDIENTE RIVADAVIA EMPATAN",
+      "dueAt": "2026-11-12T12:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af59fff538905322225ea62",
+      "createdAt": "2026-11-12T11:16:15.829Z"
+    },
+    "https://ranasports.com.ar/futbol/guardiola-aparece-como-principal-candidato-si-pochettino-deja-estados-unidos/": {
+      "account": "sports",
+      "title": "GUARDIOLA APARECE COMO PRINCIPAL CANDIDATO SI POCHETTINO DEJA ESTADOS UNIDOS",
+      "dueAt": "2026-11-12T11:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af59fff538905322225ea33",
+      "createdAt": "2026-11-12T11:16:15.507Z"
+    },
+    "https://ranasports.com.ar/f1/el-contrato-de-colapinto-con-alpine-se-extiende-hasta-2029/": {
+      "account": "f1",
+      "title": "EL CONTRATO DE COLAPINTO CON ALPINE SE EXTIENDE HASTA 2029",
+      "dueAt": "2026-11-12T12:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af59fff0219d925487ee65e",
+      "createdAt": "2026-11-12T11:16:15.196Z"
+    },
+    "https://ranasports.com.ar/torneo-clausura/la-liga-profesional-confirmo-el-cronograma-de-los-octavos-del-clausura/": {
+      "account": "sports",
+      "title": "LA LIGA PROFESIONAL CONFIRMÓ EL CRONOGRAMA DE LOS OCTAVOS DEL CLAUSURA",
+      "dueAt": "2026-11-12T11:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af59ffe0219d925487ee60b",
+      "createdAt": "2026-11-12T11:16:14.765Z"
+    },
+    "https://ranasports.com.ar/f1/alpine-perdio-a-un-ingeniero-clave-del-area-electronica-para-2027/": {
+      "account": "f1",
+      "title": "ALPINE PERDIÓ A UN INGENIERO CLAVE DEL ÁREA ELECTRÓNICA PARA 2027",
+      "dueAt": "2026-11-12T11:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af59ffe316744876701707a",
+      "createdAt": "2026-11-12T11:16:14.109Z"
+    },
+    "https://ranasports.com.ar/futbol/murio-ricardo-el-negro-rodriguez-historico-entrenador-de-all-boys/": {
+      "account": "sports",
+      "title": "MURIÓ RICARDO “EL NEGRO” RODRÍGUEZ, HISTÓRICO ENTRENADOR DE ALL BOYS",
+      "dueAt": "2026-11-12T11:16:11.620Z",
+      "mode": "shareNow",
+      "bufferPostId": "6af59ffb3167448767016fe9",
+      "createdAt": "2026-11-12T11:16:13.718Z"
+    },
     "https://ranasports.com.ar/f1/antonelli-cumplio-su-promesa-y-se-tino-el-pelo-con-los-colores-de-italia/": {
       "account": "f1",
       "title": "ANTONELLI CUMPLIÓ SU PROMESA Y SE TIÑÓ EL PELO CON LOS COLORES DE ITALIA",
@@ -4893,66 +4941,6 @@
       "createdAt": "2026-10-11T10:07:40.529Z",
       "externalLink": "https://x.com/768913759301754880/status/2109224997457686652",
       "sentAt": "2026-10-11T10:10:01.862Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE2MzkyNDAwMDAsIkRFRkVOU0EgWSBKVVNUSUNJQSBWRU5DScOTIDItMCBBIFVOScOTTiBZIFFVRUTDkyBBIERPUyBQVU5UT1MgREUgTEEgQ0lNQSBERUwgQ0xBVVNVUkEiXQ": {
-      "account": "main",
-      "title": "DEFENSA Y JUSTICIA VENCIÓ 2-0 A UNIÓN Y QUEDÓ A DOS PUNTOS DE LA CIMA DEL CLAUSURA",
-      "dueAt": "2026-10-10T14:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6aca3f54d9cab260a7c68d12",
-      "createdAt": "2026-10-10T13:36:20.388Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108920504438419810",
-      "sentAt": "2026-10-10T14:00:05.039Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJoaXN0b3JpYXMiLDE3OTE2MzkyNDAwMDAsIkZVRSBDQU1QRcOTTiBDT04gQk9DQSBZIEFIT1JBIEFUSUVOREUgVU4gQUxNQUPDiU4gRU4gVU4gUFVFQkxPIERFIDE1MCBIQUJJVEFOVEVTIl0": {
-      "account": "main",
-      "title": "FUE CAMPEÓN CON BOCA Y AHORA ATIENDE UN ALMACÉN EN UN PUEBLO DE 150 HABITANTES",
-      "dueAt": "2026-10-10T13:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6aca3f53ed92ed8fa5cdd8b9",
-      "createdAt": "2026-10-10T13:36:19.566Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108919232909975822",
-      "sentAt": "2026-10-10T13:55:01.864Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTYzOTI0MDAwMCwiTUVTU0kgVlVFTFZFIEEgSU5URVIgTUlBTUkgVFJBUyBTVSBERVNQRURJREEgREUgTEEgU0VMRUNDScOTTjogRU5GUkVOVEEgQSBEQyBVTklURUQiXQ": {
-      "account": "main",
-      "title": "MESSI VUELVE A INTER MIAMI TRAS SU DESPEDIDA DE LA SELECCIÓN: ENFRENTA A DC UNITED",
-      "dueAt": "2026-10-10T13:50:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6aca3f52b07d37ac97743988",
-      "createdAt": "2026-10-10T13:36:19.084Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108917973834441020",
-      "sentAt": "2026-10-10T13:50:01.760Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTYzOTI0MDAwMCwiUk9CSU5ITyBRVUlOVE8sIEVMIENPTE9NQklBTk8gUVVFIFNFIERFU1RBQ0EgRU4gTEEgUkVTRVJWQSBERSBSSVZFUiBZIFNVRcORQSBDT04gUFJJTUVSQSJd": {
-      "account": "main",
-      "title": "ROBINHO QUINTO, EL COLOMBIANO QUE SE DESTACA EN LA RESERVA DE RIVER Y SUEÑA CON PRIMERA",
-      "dueAt": "2026-10-10T13:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6aca3f52b07d37ac9774394d",
-      "createdAt": "2026-10-10T13:36:18.470Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108916726020661298",
-      "sentAt": "2026-10-10T13:45:04.292Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTYzOTI0MDAwMCwiUklWRVIgUkVDVVBFUsOTIEEgQUxNQURBLCBNT1JFTk8gWSBBTkRSQURBIFBBUkEgUkVDSUJJUiBBIEVTVFVESUFOVEVTIERFIFLDjU8gQ1VBUlRPIl0": {
-      "account": "main",
-      "title": "RIVER RECUPERÓ A ALMADA, MORENO Y ANDRADA PARA RECIBIR A ESTUDIANTES DE RÍO CUARTO",
-      "dueAt": "2026-10-10T13:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6aca3f52d9cab260a7c68cbf",
-      "createdAt": "2026-10-10T13:36:18.130Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108915459256987709",
-      "sentAt": "2026-10-10T13:40:02.137Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTYzOTI0MDAwMCwiVkVSU1RBUFBFTiBHQU7DkyBMQSBTUFJJTlQgREUgU0lOR0FQVVIgQkFKTyBMQSBMTFVWSUEgWSBIQU1JTFRPTiBZIExFQ0xFUkMgQ09NUExFVEFST04gRUwgUE9ESU8iXQ": {
-      "account": "f1",
-      "title": "VERSTAPPEN GANÓ LA SPRINT DE SINGAPUR BAJO LA LLUVIA Y HAMILTON Y LECLERC COMPLETARON EL PODIO",
-      "dueAt": "2026-10-10T13:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6aca3f51f91f772d459555bd",
-      "createdAt": "2026-10-10T13:36:17.801Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108916725680890013",
-      "sentAt": "2026-10-10T13:45:04.130Z"
     }
   },
   "nextAt": {
