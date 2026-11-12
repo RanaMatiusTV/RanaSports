@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 12/11/2026 00:31 ARG
+RANASPORTS — RADAR 1 — 12/11/2026 07:08 ARG
 Altas verificadas en esta corrida: 6
-Filas: Noticias!4692:4697
-Última noticia: EL CONTRATO DE COLAPINTO CON ALPINE SE EXTIENDE HASTA 2029
-Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual.
+Filas: Noticias!4698:4703
+Última noticia: BLATTER CUESTIONÓ LA GESTIÓN DE INFANTINO Y PROPUSO RECURRIR AL TAS
+Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 6 H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 6.
 Disparar Sync RanaSports news feed.
