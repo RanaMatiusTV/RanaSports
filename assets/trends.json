@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-12T00:59:36.871Z",
+  "updatedAt": "2026-11-12T08:18:22.790Z",
   "trends": [
     {
-      "query": "bucks - lakers",
-      "startedAt": "2026-11-12T00:40:00.000Z",
+      "query": "dolar hoy binance",
+      "startedAt": "2026-11-12T06:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "bulls - spurs",
-      "startedAt": "2026-11-12T00:40:00.000Z",
+      "query": "canal 13",
+      "startedAt": "2026-11-12T04:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "pacers - wizards",
-      "startedAt": "2026-11-12T00:40:00.000Z",
+      "query": "sandro mamukelashvili",
+      "startedAt": "2026-11-12T03:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "alpine f1 team",
-      "startedAt": "2026-11-12T00:30:00.000Z",
-      "volume": 200
+      "query": "es mi sueño",
+      "startedAt": "2026-11-12T03:40:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "copa mundial de fútbol sub-17",
-      "startedAt": "2026-11-12T00:30:00.000Z",
-      "volume": 200
+      "query": "recompensa",
+      "startedAt": "2026-11-12T03:20:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "cuándo juega argentina",
-      "startedAt": "2026-11-12T00:30:00.000Z",
-      "volume": 200
+      "query": "paolo el rockero",
+      "startedAt": "2026-11-12T03:10:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "andrés chávez",
-      "startedAt": "2026-11-12T00:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "aeroparque internacional jorge newbery",
-      "startedAt": "2026-11-12T00:20:00.000Z",
+      "query": "trail blazers - thunder",
+      "startedAt": "2026-11-12T03:10:00.000Z",
       "volume": 500
     },
     {
-      "query": "river id",
-      "startedAt": "2026-11-12T00:10:00.000Z",
-      "volume": 200
+      "query": "juegos ps plus extra noviembre 2026",
+      "startedAt": "2026-11-12T02:10:00.000Z",
+      "volume": 100
     },
     {
-      "query": "knicks - cavaliers",
-      "startedAt": "2026-11-11T23:50:00.000Z",
+      "query": "rockets - warriors",
+      "startedAt": "2026-11-12T01:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "grizzlies - nuggets",
+      "startedAt": "2026-11-12T01:40:00.000Z",
       "volume": 200
     }
   ]
