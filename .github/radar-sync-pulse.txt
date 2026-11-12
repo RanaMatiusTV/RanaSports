@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 12/11/2026 07:08 ARG
-Altas verificadas en esta corrida: 6
-Filas: Noticias!4698:4703
-Última noticia: BLATTER CUESTIONÓ LA GESTIÓN DE INFANTINO Y PROPUSO RECURRIR AL TAS
-Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 6 H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 6.
+RANASPORTS — RADAR 1 — 12/11/2026 09:05 ARG
+Altas verificadas en esta corrida: 7
+Filas: Noticias!4704:4710
+Última noticia: RAPHINHA SERÁ CAPITÁN DE BRASIL ANTE JAPÓN POR LA BAJA DE MARQUINHOS
+Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 7 H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 7.
 Disparar Sync RanaSports news feed.
