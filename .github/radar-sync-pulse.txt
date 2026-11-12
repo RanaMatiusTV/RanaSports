@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 11/11/2026 21:03 ARG
+RANASPORTS — RADAR 1 — 11/11/2026 23:09 ARG
 Altas verificadas en esta corrida: 6
-Filas: Noticias!4680:4685
-Última noticia: FORLÁN DESTACÓ LA RIVALIDAD HISTÓRICA ANTES DEL AMISTOSO ENTRE ARGENTINA Y URUGUAY
+Filas: Noticias!4686:4691
+Última noticia: INDEPENDIENTE RIVADAVIA VA POR SU SEGUNDO TÍTULO Y UN LUGAR EN LA RECOPA 2027
 Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual.
 Disparar Sync RanaSports news feed.
