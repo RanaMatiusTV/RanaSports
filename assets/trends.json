@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-11T18:41:18.567Z",
+  "updatedAt": "2026-11-12T00:59:36.871Z",
   "trends": [
     {
-      "query": "usman nurmagomedov",
-      "startedAt": "2026-11-11T18:20:00.000Z",
+      "query": "bucks - lakers",
+      "startedAt": "2026-11-12T00:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "bulls - spurs",
+      "startedAt": "2026-11-12T00:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pacers - wizards",
+      "startedAt": "2026-11-12T00:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "casper ruud",
-      "startedAt": "2026-11-11T17:50:00.000Z",
+      "query": "alpine f1 team",
+      "startedAt": "2026-11-12T00:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "carlos ischia",
-      "startedAt": "2026-11-11T17:10:00.000Z",
+      "query": "copa mundial de fútbol sub-17",
+      "startedAt": "2026-11-12T00:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "a que hora llega el papa a peru",
-      "startedAt": "2026-11-11T17:10:00.000Z",
+      "query": "cuándo juega argentina",
+      "startedAt": "2026-11-12T00:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "vaticano",
-      "startedAt": "2026-11-11T17:10:00.000Z",
+      "query": "andrés chávez",
+      "startedAt": "2026-11-12T00:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "aeroparque internacional jorge newbery",
+      "startedAt": "2026-11-12T00:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "river id",
+      "startedAt": "2026-11-12T00:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "ricardo la volpe",
-      "startedAt": "2026-11-11T16:40:00.000Z",
+      "query": "knicks - cavaliers",
+      "startedAt": "2026-11-11T23:50:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "página 12",
-      "startedAt": "2026-11-11T16:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "reino unido",
-      "startedAt": "2026-11-11T16:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "chiclayo",
-      "startedAt": "2026-11-11T16:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "jubilación",
-      "startedAt": "2026-11-11T16:00:00.000Z",
-      "volume": 10000
     }
   ]
 }
