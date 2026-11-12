@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-12T08:18:22.790Z",
+  "updatedAt": "2026-11-12T17:05:07.038Z",
   "trends": [
     {
-      "query": "dolar hoy binance",
-      "startedAt": "2026-11-12T06:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "canal 13",
-      "startedAt": "2026-11-12T04:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sandro mamukelashvili",
-      "startedAt": "2026-11-12T03:50:00.000Z",
+      "query": "premio",
+      "startedAt": "2026-11-12T16:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "es mi sueño",
-      "startedAt": "2026-11-12T03:40:00.000Z",
+      "query": "11 de septiembre",
+      "startedAt": "2026-11-12T16:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "turquía - bélgica",
+      "startedAt": "2026-11-12T16:00:00.000Z",
       "volume": 2000
     },
     {
-      "query": "recompensa",
-      "startedAt": "2026-11-12T03:20:00.000Z",
-      "volume": 1000
+      "query": "erick pulgar",
+      "startedAt": "2026-11-12T16:00:00.000Z",
+      "volume": 200
     },
     {
-      "query": "paolo el rockero",
-      "startedAt": "2026-11-12T03:10:00.000Z",
+      "query": "leonardo bertulazzi",
+      "startedAt": "2026-11-12T15:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "trail blazers - thunder",
-      "startedAt": "2026-11-12T03:10:00.000Z",
+      "query": "tirante",
+      "startedAt": "2026-11-12T15:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "rd congo - sierra leona",
+      "startedAt": "2026-11-12T15:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "juegos ps plus extra noviembre 2026",
-      "startedAt": "2026-11-12T02:10:00.000Z",
-      "volume": 100
+      "query": "regina torné",
+      "startedAt": "2026-11-12T15:10:00.000Z",
+      "volume": 200
     },
     {
-      "query": "rockets - warriors",
-      "startedAt": "2026-11-12T01:50:00.000Z",
-      "volume": 2000
+      "query": "jugador",
+      "startedAt": "2026-11-12T15:00:00.000Z",
+      "volume": 500
     },
     {
-      "query": "grizzlies - nuggets",
-      "startedAt": "2026-11-12T01:40:00.000Z",
+      "query": "nations league",
+      "startedAt": "2026-11-12T15:00:00.000Z",
       "volume": 200
     }
   ]
