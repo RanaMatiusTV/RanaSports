@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-12T17:05:07.038Z",
+  "updatedAt": "2026-11-12T22:43:23.401Z",
   "trends": [
     {
-      "query": "premio",
-      "startedAt": "2026-11-12T16:10:00.000Z",
+      "query": "phil collins",
+      "startedAt": "2026-11-12T22:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "carlos pagni",
+      "startedAt": "2026-11-12T22:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "estudiantes - independiente rivadavia",
+      "startedAt": "2026-11-12T22:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "frank darío kudelka",
+      "startedAt": "2026-11-12T22:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "11 de septiembre",
-      "startedAt": "2026-11-12T16:10:00.000Z",
+      "query": "wta finals",
+      "startedAt": "2026-11-12T22:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "cotización del dólar blue",
+      "startedAt": "2026-11-12T22:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "turquía - bélgica",
-      "startedAt": "2026-11-12T16:00:00.000Z",
+      "query": "posiciones de selección de fútbol de inglaterra contra selección de fútbol de croacia",
+      "startedAt": "2026-11-12T21:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "erick pulgar",
-      "startedAt": "2026-11-12T16:00:00.000Z",
-      "volume": 200
+      "query": "montenegro vs",
+      "startedAt": "2026-11-12T21:40:00.000Z",
+      "volume": 100
     },
     {
-      "query": "leonardo bertulazzi",
-      "startedAt": "2026-11-12T15:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "tirante",
-      "startedAt": "2026-11-12T15:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "rd congo - sierra leona",
-      "startedAt": "2026-11-12T15:40:00.000Z",
+      "query": "catalina fernandez",
+      "startedAt": "2026-11-12T21:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "regina torné",
-      "startedAt": "2026-11-12T15:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "jugador",
-      "startedAt": "2026-11-12T15:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "nations league",
-      "startedAt": "2026-11-12T15:00:00.000Z",
+      "query": "coco gauff",
+      "startedAt": "2026-11-12T21:00:00.000Z",
       "volume": 200
     }
   ]
