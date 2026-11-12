@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/antonelli-cumplio-su-promesa-y-se-tino-el-pelo-con-los-colores-de-italia/": {
+      "account": "f1",
+      "title": "ANTONELLI CUMPLIÓ SU PROMESA Y SE TIÑÓ EL PELO CON LOS COLORES DE ITALIA",
+      "dueAt": "2026-11-12T03:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af52c2fcb4c7286fd0d5288",
+      "createdAt": "2026-11-12T03:02:07.368Z"
+    },
+    "https://ranasports.com.ar/futbol/lautaro-martinez-mostro-avances-en-su-recuperacion-y-acelera-su-regreso/": {
+      "account": "sports",
+      "title": "LAUTARO MARTÍNEZ MOSTRÓ AVANCES EN SU RECUPERACIÓN Y ACELERA SU REGRESO",
+      "dueAt": "2026-11-12T04:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af52c2e3d8c751bfd0e9150",
+      "createdAt": "2026-11-12T03:02:06.481Z"
+    },
+    "https://ranasports.com.ar/futbol/el-medico-de-la-seleccion-confirmo-la-buena-evolucion-del-dibu-pero-scaloni-define-si-ataja/": {
+      "account": "sports",
+      "title": "EL MÉDICO DE LA SELECCIÓN CONFIRMÓ LA BUENA EVOLUCIÓN DEL DIBU, PERO SCALONI DEFINE SI ATAJA",
+      "dueAt": "2026-11-12T03:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af52c2c2f7f0a6952e86895",
+      "createdAt": "2026-11-12T03:02:05.229Z"
+    },
+    "https://ranasports.com.ar/futbol/troglio-prometio-sortear-un-auto-si-banfield-elimina-a-boca/": {
+      "account": "sports",
+      "title": "TROGLIO PROMETIÓ SORTEAR UN AUTO SI BANFIELD ELIMINA A BOCA",
+      "dueAt": "2026-11-12T03:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af52c2cbfa789f621046ba9",
+      "createdAt": "2026-11-12T03:02:04.442Z"
+    },
+    "https://ranasports.com.ar/supercopa-argentina/independiente-rivadavia-va-por-su-segundo-titulo-y-un-lugar-en-la-recopa-2027/": {
+      "account": "sports",
+      "title": "INDEPENDIENTE RIVADAVIA VA POR SU SEGUNDO TÍTULO Y UN LUGAR EN LA RECOPA 2027",
+      "dueAt": "2026-11-12T03:02:01.262Z",
+      "mode": "shareNow",
+      "bufferPostId": "6af52c28bc9f3773a1b83121",
+      "createdAt": "2026-11-12T03:02:03.815Z"
+    },
     "https://ranasports.com.ar/f1/haas-alcanzo-el-limite-de-cuatro-pilotos-y-quedo-sin-margen-para-otro-reemplazo/": {
       "account": "f1",
       "title": "HAAS ALCANZÓ EL LÍMITE DE CUATRO PILOTOS Y QUEDÓ SIN MARGEN PARA OTRO REEMPLAZO",
@@ -4913,54 +4953,6 @@
       "createdAt": "2026-10-10T13:36:17.801Z",
       "externalLink": "https://x.com/2095690134515572737/status/2108916725680890013",
       "sentAt": "2026-10-10T13:45:04.130Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTYzOTI0MDAwMCwiQ09MQVBJTlRPIEFCQU5ET07DkyBFTiBTSU5HQVBVUjogQUxQSU5FIERFVEVDVMOTIFVOQSBGQUxMQSBFTiBFTCBBTE1BQ0VOQU1JRU5UTyBERSBFTkVSR8ONQSJd": {
-      "account": "f1",
-      "title": "COLAPINTO ABANDONÓ EN SINGAPUR: ALPINE DETECTÓ UNA FALLA EN EL ALMACENAMIENTO DE ENERGÍA",
-      "dueAt": "2026-10-10T13:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6aca3f51b07d37ac977438fa",
-      "createdAt": "2026-10-10T13:36:17.127Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108915459084959847",
-      "sentAt": "2026-10-10T13:40:02.120Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTYyNjk0MDAwMCwiTEEgRklBIEFETUlUScOTIEVSUk9SRVMgSFVNQU5PUyBFTiBMQSBDTEFTSUZJQ0FDScOTTiBTUFJJTlQgREUgU0lOR0FQVVIiXQ": {
-      "account": "f1",
-      "title": "LA FIA ADMITIÓ ERRORES HUMANOS EN LA CLASIFICACIÓN SPRINT DE SINGAPUR",
-      "dueAt": "2026-10-10T10:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6aca0f31f91f772d458bff2e",
-      "createdAt": "2026-10-10T10:10:58.031Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2108863872820019575",
-      "sentAt": "2026-10-10T10:15:03.060Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE2MjY5NDAwMDAsIkJPQ0EgUVVFRMOTIEVOT0pBRE8gQ09OIFJFWSBISUxGRVIgWSBTVSBDSEFOQ0UgREUgRElSSUdJUiBFTCBTVVBFUkNMw4FTSUNPIFBFUkRJw5MgRlVFUlpBIl0": {
-      "account": "main",
-      "title": "BOCA QUEDÓ ENOJADO CON REY HILFER Y SU CHANCE DE DIRIGIR EL SUPERCLÁSICO PERDIÓ FUERZA",
-      "dueAt": "2026-10-10T10:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6aca0f31f91f772d458bff05",
-      "createdAt": "2026-10-10T10:10:57.276Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJjb3BhIHN1ZGFtZXJpY2FuYSIsMTc5MTYyNjk0MDAwMCwiVkFTQ08gQUdPVMOTIEVOIDE1IE1JTlVUT1MgTEFTIDQuMDAwIEVOVFJBREFTIFBBUkEgVklTSVRBUiBBIEJPQ0EiXQ": {
-      "account": "main",
-      "title": "VASCO AGOTÓ EN 15 MINUTOS LAS 4.000 ENTRADAS PARA VISITAR A BOCA",
-      "dueAt": "2026-10-10T10:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6aca0f30b07d37ac976b0377",
-      "createdAt": "2026-10-10T10:10:56.460Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108867693478592732",
-      "sentAt": "2026-10-10T10:30:13.896Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJ2ZWxleiBzYXJzZmllbGQiLDE3OTE2MjY5NDAwMDAsIlJBw5pMIEfDgU1FWiBWT0xWRVLDgSBBIENPTVBFVElSIEVOIExBIFBPTMONVElDQSBERSBWw4lMRVoiXQ": {
-      "account": "main",
-      "title": "RAÚL GÁMEZ VOLVERÁ A COMPETIR EN LA POLÍTICA DE VÉLEZ",
-      "dueAt": "2026-10-10T10:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6aca0f2fbba9419ccbf9ffcd",
-      "createdAt": "2026-10-10T10:10:56.052Z",
-      "externalLink": "https://x.com/768913759301754880/status/2108866388638994915",
-      "sentAt": "2026-10-10T10:25:02.868Z"
     }
   },
   "nextAt": {
