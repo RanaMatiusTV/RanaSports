@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 12/11/2026 17:02 ARG
+RANASPORTS — RADAR 1 — 12/11/2026 19:08 ARG
 Altas verificadas en esta corrida: 6
-Filas: Noticias!4729:4734
-Última noticia: PATRONATO LANZÓ UNA CAMPAÑA SOLIDARIA POR LAS INUNDACIONES EN ENTRE RÍOS
+Filas: Noticias!4735:4740
+Última noticia: SCALONI EXPLICÓ POR QUÉ DE PAUL QUEDÓ FUERA DE LA CONVOCATORIA
 Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 6 H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 6.
 Disparar Sync RanaSports news feed.
