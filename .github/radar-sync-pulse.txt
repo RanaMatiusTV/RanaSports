@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 12/11/2026 11:05 ARG
+RANASPORTS — RADAR 1 — 12/11/2026 13:02 ARG
 Altas verificadas en esta corrida: 6
-Filas: Noticias!4711:4716
-Última noticia: ALAN AGUERRE PUSO EN DUDA SU CONTINUIDAD EN CENTRAL CÓRDOBA
-Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 6 H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual; K oportunistas: 3, vacías: 3.
+Filas: Noticias!4717:4722
+Última noticia: HOLAN REAFIRMÓ QUE LA PATADA DE PINOLA EN 2018 FUE PENAL Y EXPULSIÓN
+Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 6 H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 6.
 Disparar Sync RanaSports news feed.
