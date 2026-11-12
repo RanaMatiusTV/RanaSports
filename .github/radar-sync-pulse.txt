@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 12/11/2026 09:05 ARG
-Altas verificadas en esta corrida: 7
-Filas: Noticias!4704:4710
-Última noticia: RAPHINHA SERÁ CAPITÁN DE BRASIL ANTE JAPÓN POR LA BAJA DE MARQUINHOS
-Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 7 H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 7.
+RANASPORTS — RADAR 1 — 12/11/2026 11:05 ARG
+Altas verificadas en esta corrida: 6
+Filas: Noticias!4711:4716
+Última noticia: ALAN AGUERRE PUSO EN DUDA SU CONTINUIDAD EN CENTRAL CÓRDOBA
+Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 6 H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual; K oportunistas: 3, vacías: 3.
 Disparar Sync RanaSports news feed.
