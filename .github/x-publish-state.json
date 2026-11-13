@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/gasly-califico-de-extrana-la-salida-de-ocon-de-haas/": {
+      "account": "f1",
+      "title": "GASLY CALIFICÓ DE EXTRAÑA LA SALIDA DE OCON DE HAAS",
+      "dueAt": "2026-11-13T17:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af73a6c9d8ee6d1d961e0cb",
+      "createdAt": "2026-11-13T16:27:24.295Z"
+    },
+    "https://ranasports.com.ar/f1/racing-bulls-confirmo-a-lawson-y-lindblad-para-2027-y-tsolov-sera-reserva/": {
+      "account": "f1",
+      "title": "RACING BULLS CONFIRMÓ A LAWSON Y LINDBLAD PARA 2027 Y TSOLOV SERÁ RESERVA",
+      "dueAt": "2026-11-13T16:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af73a6b9d8ee6d1d961e08a",
+      "createdAt": "2026-11-13T16:27:24.038Z"
+    },
+    "https://ranasports.com.ar/futbol/independiente-superaria-a-defensa-por-fair-play-y-recupera-una-via-a-la-sudamericana/": {
+      "account": "main",
+      "title": "INDEPENDIENTE SUPERARÍA A DEFENSA POR FAIR PLAY Y RECUPERA UNA VÍA A LA SUDAMERICANA",
+      "dueAt": "2026-11-13T16:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af73a6b6c8fccfb78667c08",
+      "createdAt": "2026-11-13T16:27:23.667Z"
+    },
+    "https://ranasports.com.ar/supercopa-argentina/tapia-no-asistio-a-la-premiacion-de-estudiantes-y-felicito-al-campeon-en-redes/": {
+      "account": "sports",
+      "title": "TAPIA NO ASISTIÓ A LA PREMIACIÓN DE ESTUDIANTES Y FELICITÓ AL CAMPEÓN EN REDES",
+      "dueAt": "2026-11-13T17:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af73a6b8d0c11f906138d18",
+      "createdAt": "2026-11-13T16:27:23.314Z"
+    },
+    "https://ranasports.com.ar/recopa-de-campeones/estudiantes-clasifico-a-la-recopa-de-campeones-2027-y-debutara-ante-rosario-central/": {
+      "account": "sports",
+      "title": "ESTUDIANTES CLASIFICÓ A LA RECOPA DE CAMPEONES 2027 Y DEBUTARÁ ANTE ROSARIO CENTRAL",
+      "dueAt": "2026-11-13T17:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af73a6a705172d78f6c02d2",
+      "createdAt": "2026-11-13T16:27:22.408Z"
+    },
+    "https://ranasports.com.ar/futbol/river-empato-con-central-en-reserva-y-termino-con-dos-expulsados-tras-el-pitazo/": {
+      "account": "sports",
+      "title": "RIVER EMPATÓ CON CENTRAL EN RESERVA Y TERMINÓ CON DOS EXPULSADOS TRAS EL PITAZO",
+      "dueAt": "2026-11-13T16:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af73a6938a1decc7496d289",
+      "createdAt": "2026-11-13T16:27:21.900Z"
+    },
+    "https://ranasports.com.ar/polideportivo/argentina-vencio-a-portugal-y-gano-su-primer-oro-juvenil-en-futsal/": {
+      "account": "sports",
+      "title": "ARGENTINA VENCIÓ A PORTUGAL Y GANÓ SU PRIMER ORO JUVENIL EN FUTSAL",
+      "dueAt": "2026-11-13T16:27:19.392Z",
+      "mode": "shareNow",
+      "bufferPostId": "6af73a67705172d78f6c0223",
+      "createdAt": "2026-11-13T16:27:21.539Z"
+    },
     "https://ranasports.com.ar/futbol/un-fallo-de-fair-play-volvio-a-abrirle-a-independiente-una-via-hacia-la-sudamericana/": {
       "account": "main",
       "title": "UN FALLO DE FAIR PLAY VOLVIÓ A ABRIRLE A INDEPENDIENTE UNA VÍA HACIA LA SUDAMERICANA",
@@ -4835,76 +4891,6 @@
       "createdAt": "2026-10-11T20:43:31.047Z",
       "externalLink": "https://x.com/768913759301754880/status/2109384415679811777",
       "sentAt": "2026-10-11T20:43:30.092Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJydWdieSIsMTc5MTc0MTk5MDAwMCwiTE9TIFBVTUFTIDdTIFkgTEFTIFlBR1VBUkVUw4lTIEJVU0NBTiBFTCBUw41UVUxPIFNVREFNRVJJQ0FOTyBFTiBDQVJMT1MgUEFaIl0": {
-      "account": "main",
-      "title": "LOS PUMAS 7S Y LAS YAGUARETÉS BUSCAN EL TÍTULO SUDAMERICANO EN CARLOS PAZ",
-      "dueAt": "2026-10-11T20:43:24.956Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf4ec7db619a29148ddcf",
-      "createdAt": "2026-10-11T20:43:27.115Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384399263236552",
-      "sentAt": "2026-10-11T20:43:26.191Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTczNDYwODAwMCwiTElWRVJQT09MIFkgTUFOQ0hFU1RFUiBDSVRZIFNFIEVORlJFTlRBTiBFTiBBTkZJRUxEIFBPUiBMQSBQUkVNSUVSIExFQUdVRSJd": {
-      "account": "main",
-      "title": "LIVERPOOL Y MANCHESTER CITY SE ENFRENTAN EN ANFIELD POR LA PREMIER LEAGUE",
-      "dueAt": "2026-10-11T20:43:20.678Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf4e8ea568e911a3ecdec",
-      "createdAt": "2026-10-11T20:43:22.824Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384381701775686",
-      "sentAt": "2026-10-11T20:43:22.060Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTczNDYwNzAwMCwiUklWRVIgVk9MVknDkyBUUkFTIDIxIETDjUFTIFkgVkVOQ0nDkyBBIEVTVFVESUFOVEVTIERFIFLDjU8gQ1VBUlRPIl0": {
-      "account": "main",
-      "title": "RIVER VOLVIÓ TRAS 21 DÍAS Y VENCIÓ A ESTUDIANTES DE RÍO CUARTO",
-      "dueAt": "2026-10-11T20:43:16.425Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf4e4ea568e911a3ecd94",
-      "createdAt": "2026-10-11T20:43:18.550Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384363653664952",
-      "sentAt": "2026-10-11T20:43:17.692Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTczNDYwNjAwMCwiQU5UT05FTExJIFBVRURFIENPTlNBR1JBUlNFIENBTVBFw5NOIERFIEbDk1JNVUxBIDEgRU4gQVVTVElOIl0": {
-      "account": "f1",
-      "title": "ANTONELLI PUEDE CONSAGRARSE CAMPEÓN DE FÓRMULA 1 EN AUSTIN",
-      "dueAt": "2026-10-11T21:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4e4a9411fbcc55b3796",
-      "createdAt": "2026-10-11T20:43:16.118Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2109391095385788480",
-      "sentAt": "2026-10-11T21:10:02.614Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJsaWdhIHByb2Zlc2lvbmFsIiwxNzkxNzM0NjA1MDAwLCJHSU1OQVNJQSBERSBNRU5ET1pBIFBFUkRJw5MgQSBUT03DgVMgTydDT05OT1IgUE9SIExFU0nDk04iXQ": {
-      "account": "main",
-      "title": "GIMNASIA DE MENDOZA PERDIÓ A TOMÁS O'CONNOR POR LESIÓN",
-      "dueAt": "2026-10-11T21:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4e37db619a29148dcdd",
-      "createdAt": "2026-10-11T20:43:15.782Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109396142643449931",
-      "sentAt": "2026-10-11T21:30:05.979Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTczNDYwNDAwMCwiQUxQSU5FIFBFUkRJw5MgVEVSUkVOTyBFTiBDT05TVFJVQ1RPUkVTIFRSQVMgRUwgR1AgREUgU0lOR0FQVVIiXQ": {
-      "account": "f1",
-      "title": "ALPINE PERDIÓ TERRENO EN CONSTRUCTORES TRAS EL GP DE SINGAPUR",
-      "dueAt": "2026-10-11T21:05:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4e3ea568e911a3ecd3d",
-      "createdAt": "2026-10-11T20:43:15.370Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2109389834095567179",
-      "sentAt": "2026-10-11T21:05:01.993Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTczNDYwMzAwMCwiQ09MQVBJTlRPIFBJREnDkyBVTiBSRVNFVCBUUkFTIEVMIEFCQU5ET05PIEVOIFNJTkdBUFVSIl0": {
-      "account": "f1",
-      "title": "COLAPINTO PIDIÓ UN RESET TRAS EL ABANDONO EN SINGAPUR",
-      "dueAt": "2026-10-11T21:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4e27db619a29148dc9a",
-      "createdAt": "2026-10-11T20:43:14.867Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2109388590065098812",
-      "sentAt": "2026-10-11T21:00:05.419Z"
     }
   },
   "nextAt": {
