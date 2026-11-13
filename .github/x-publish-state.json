@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/boca-blindo-hasta-2028-a-tres-juveniles-citados-al-mundial-sub-17/": {
+      "account": "sports",
+      "title": "BOCA BLINDÓ HASTA 2028 A TRES JUVENILES CITADOS AL MUNDIAL SUB 17",
+      "dueAt": "2026-11-13T23:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af791a99257ce3398163425",
+      "createdAt": "2026-11-13T22:39:37.785Z"
+    },
+    "https://ranasports.com.ar/futbol/diego-rodriguez-llega-a-la-semifinal-ante-boca-con-antecedentes-decisivos/": {
+      "account": "sports",
+      "title": "DIEGO RODRÍGUEZ LLEGA A LA SEMIFINAL ANTE BOCA CON ANTECEDENTES DECISIVOS",
+      "dueAt": "2026-11-13T23:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af791a94b28296eb11d3158",
+      "createdAt": "2026-11-13T22:39:37.156Z"
+    },
+    "https://ranasports.com.ar/supercopa-argentina/independiente-rivadavia-reclamo-un-penal-que-el-arbitro-y-el-var-no-sancionaron/": {
+      "account": "sports",
+      "title": "INDEPENDIENTE RIVADAVIA RECLAMÓ UN PENAL QUE EL ÁRBITRO Y EL VAR NO SANCIONARON",
+      "dueAt": "2026-11-13T22:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af791a8d16af15d4dd97778",
+      "createdAt": "2026-11-13T22:39:36.157Z"
+    },
+    "https://ranasports.com.ar/supercopa-argentina/carrillo-celebro-su-sexto-titulo-con-estudiantes-y-apunto-a-la-final-de-la-libertadores/": {
+      "account": "sports",
+      "title": "CARRILLO CELEBRÓ SU SEXTO TÍTULO CON ESTUDIANTES Y APUNTÓ A LA FINAL DE LA LIBERTADORES",
+      "dueAt": "2026-11-13T22:39:33.372Z",
+      "mode": "shareNow",
+      "bufferPostId": "6af791a5d16af15d4dd976b8",
+      "createdAt": "2026-11-13T22:39:35.448Z"
+    },
     "https://ranasports.com.ar/f1/gasly-califico-de-extrana-la-salida-de-ocon-de-haas/": {
       "account": "f1",
       "title": "GASLY CALIFICÓ DE EXTRAÑA LA SALIDA DE OCON DE HAAS",
@@ -4851,46 +4883,6 @@
       "createdAt": "2026-10-11T20:43:48.883Z",
       "externalLink": "https://x.com/768913759301754880/status/2109384491726684270",
       "sentAt": "2026-10-11T20:43:48.225Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTc0MTk5NDAwMCwiTUFOQ0hFU1RFUiBDSVRZIEdPTEXDkyAzLTAgQSBMSVZFUlBPT0wgRU4gQU5GSUVMRCJd": {
-      "account": "main",
-      "title": "MANCHESTER CITY GOLEÓ 3-0 A LIVERPOOL EN ANFIELD",
-      "dueAt": "2026-10-11T20:43:41.159Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf4fdea568e911a3ed123",
-      "createdAt": "2026-10-11T20:43:43.288Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384466908975194",
-      "sentAt": "2026-10-11T20:43:42.334Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkxNzQxOTkzMDAwLCJDQU5BUElOTyBHQU7DkyBVTkEgU0VSSUUgREVMIFRVUklTTU8gTkFDSU9OQUwgVFJBUyBVTiBGSU5BTCBJTVBBQ1RBTlRFIl0": {
-      "account": "main",
-      "title": "CANAPINO GANÓ UNA SERIE DEL TURISMO NACIONAL TRAS UN FINAL IMPACTANTE",
-      "dueAt": "2026-10-11T20:43:37.052Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf4f8ea568e911a3ed0b6",
-      "createdAt": "2026-10-11T20:43:39.201Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384449607487543",
-      "sentAt": "2026-10-11T20:43:38.105Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIHBvciBlbCBtdW5kbyIsMTc5MTc0MTk5MjAwMCwiV0FMVEVSIEJFTsONVEVaIEJSSUxMw5MgQ09OIFVOQSBET0JMRSBBVEFKQURBIEVOIEVMIFRSSVVORk8gREUgQ1JZU1RBTCBQQUxBQ0UiXQ": {
-      "account": "main",
-      "title": "WALTER BENÍTEZ BRILLÓ CON UNA DOBLE ATAJADA EN EL TRIUNFO DE CRYSTAL PALACE",
-      "dueAt": "2026-10-11T20:43:33.090Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf4f5fa026cfb81152f2a",
-      "createdAt": "2026-10-11T20:43:35.211Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384433472073910",
-      "sentAt": "2026-10-11T20:43:34.355Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTc0MTk5MTAwMCwiQ0xBUkVOQ0UgU0VFRE9SRiBFUyBFTCBOVUVWTyBFTlRSRU5BRE9SIERFIENPUklOVEhJQU5TIl0": {
-      "account": "main",
-      "title": "CLARENCE SEEDORF ES EL NUEVO ENTRENADOR DE CORINTHIANS",
-      "dueAt": "2026-10-11T20:43:28.928Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf4f063ff33d8c99656ad",
-      "createdAt": "2026-10-11T20:43:31.047Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384415679811777",
-      "sentAt": "2026-10-11T20:43:30.092Z"
     }
   },
   "nextAt": {
