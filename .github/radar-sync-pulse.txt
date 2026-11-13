@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 13/11/2026 00:27 ARG
+RANASPORTS — RADAR 1 — 13/11/2026 07:03 ARG
 Altas verificadas en esta corrida: 6
-Filas: Noticias!4753:4758
-Última noticia: PEGULA SALVÓ UN MATCH POINT, AVANZÓ EN LAS WTA FINALS Y ELIMINÓ A GAUFF
+Filas: Noticias!4759:4764
+Última noticia: LA AFA IMPIDIÓ A TN CUBRIR LA CONFERENCIA EN LA QUE SCALONI ANUNCIÓ SU RENOVACIÓN
 Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 6 H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual; K oportunistas: 2, vacías: 4.
 Disparar Sync RanaSports news feed.
