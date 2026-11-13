@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 13/11/2026 15:11 ARG
+RANASPORTS — RADAR 1 — 13/11/2026 17:03 ARG
 Altas verificadas en esta corrida: 6
-Filas: Noticias!4783:4788
-Última noticia: MANCHESTER UNITED INCLUYÓ A NICO PAZ ENTRE SUS OPCIONES PARA EL MERCADO DE 2027
+Filas: Noticias!4789:4794
+Última noticia: RIVER PIDIÓ A LA AFA REDUCIR LA SUSPENSIÓN DE MONTIEL
 Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 6 H incorporadas como URLs directas declaradas por la fuente, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 6.
 Disparar Sync RanaSports news feed.
