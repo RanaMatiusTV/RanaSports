@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 12/11/2026 21:02 ARG
+RANASPORTS — RADAR 1 — 12/11/2026 23:07 ARG
 Altas verificadas en esta corrida: 6
-Filas: Noticias!4741:4746
-Última noticia: LOS PUMAS HARÁN CINCO CAMBIOS Y MATERA SERÁ CAPITÁN ANTE ITALIA
+Filas: Noticias!4747:4752
+Última noticia: RIVER Y ROSARIO CENTRAL EMPATARON 1-1 EN RESERVA Y EL FINAL DEJÓ DOS EXPULSADOS
 Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 6 H incorporadas como URLs directas declaradas por las fuentes, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 6.
 Disparar Sync RanaSports news feed.
