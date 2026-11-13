@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/jadson-viera-hablo-de-la-sudamericana-pese-a-que-independiente-ya-no-tiene-chances/": {
+      "account": "main",
+      "title": "JADSON VIERA HABLÓ DE LA SUDAMERICANA PESE A QUE INDEPENDIENTE YA NO TIENE CHANCES",
+      "dueAt": "2026-11-13T02:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af6627fda25c4db3e88a271",
+      "createdAt": "2026-11-13T01:06:07.165Z"
+    },
+    "https://ranasports.com.ar/futbol/aguero-contacto-a-alvaro-angulo-para-repatriarlo-si-nakis-gana-las-elecciones/": {
+      "account": "main",
+      "title": "AGÜERO CONTACTÓ A ÁLVARO ANGULO PARA REPATRIARLO SI NAKIS GANA LAS ELECCIONES",
+      "dueAt": "2026-11-13T01:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af6627eba218f32636d8924",
+      "createdAt": "2026-11-13T01:06:06.724Z"
+    },
+    "https://ranasports.com.ar/futbol/italia-vencio-3-1-a-francia-y-le-quito-la-cima-de-su-grupo-en-la-nations-league/": {
+      "account": "sports",
+      "title": "ITALIA VENCIÓ 3-1 A FRANCIA Y LE QUITÓ LA CIMA DE SU GRUPO EN LA NATIONS LEAGUE",
+      "dueAt": "2026-11-13T02:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af6627efb90ccefdd0e7e19",
+      "createdAt": "2026-11-13T01:06:06.236Z"
+    },
+    "https://ranasports.com.ar/futbol/scaloni-explico-por-que-de-paul-quedo-fuera-de-la-convocatoria/": {
+      "account": "sports",
+      "title": "SCALONI EXPLICÓ POR QUÉ DE PAUL QUEDÓ FUERA DE LA CONVOCATORIA",
+      "dueAt": "2026-11-13T01:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af6627d5ec1c9d5be4f8b01",
+      "createdAt": "2026-11-13T01:06:05.470Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-volvera-al-malvinas-argentinas-un-estadio-de-recuerdos-dispares/": {
+      "account": "sports",
+      "title": "BOCA VOLVERÁ AL MALVINAS ARGENTINAS, UN ESTADIO DE RECUERDOS DISPARES",
+      "dueAt": "2026-11-13T01:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af6627cba218f32636d886a",
+      "createdAt": "2026-11-13T01:06:04.486Z"
+    },
+    "https://ranasports.com.ar/futsal/argentina-gano-el-oro-en-futsal-sub-18-en-los-juegos-olimpicos-de-dakar/": {
+      "account": "sports",
+      "title": "ARGENTINA GANÓ EL ORO EN FUTSAL SUB-18 EN LOS JUEGOS OLÍMPICOS DE DAKAR",
+      "dueAt": "2026-11-13T01:06:00.762Z",
+      "mode": "shareNow",
+      "bufferPostId": "6af66278fb90ccefdd0e7cb0",
+      "createdAt": "2026-11-13T01:06:03.861Z"
+    },
     "https://ranasports.com.ar/f1/racing-bulls-probo-a-nikola-tsolov-mientras-define-sus-butacas-para-2027/": {
       "account": "f1",
       "title": "RACING BULLS PROBÓ A NIKOLA TSOLOV MIENTRAS DEFINE SUS BUTACAS PARA 2027",
@@ -4869,66 +4917,6 @@
       "createdAt": "2026-10-11T20:43:10.934Z",
       "externalLink": "https://x.com/768913759301754880/status/2109391094249075101",
       "sentAt": "2026-10-11T21:10:02.390Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNzIwMTU3MDAwLCJCT0NBIFkgVkFTQ08gU0lHVUVOIFNJTiBTRURFIFBBUkEgTEEgUkVWQU5DSEE6IEVMIE1BUkFDQU7DgSBRVUVEw5MgRU4gU1VTUEVOU08iXQ": {
-      "account": "main",
-      "title": "BOCA Y VASCO SIGUEN SIN SEDE PARA LA REVANCHA: EL MARACANÁ QUEDÓ EN SUSPENSO",
-      "dueAt": "2026-10-11T21:05:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4defa026cfb81152ba0",
-      "createdAt": "2026-10-11T20:43:10.404Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109389834154340464",
-      "sentAt": "2026-10-11T21:05:02.030Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTcyMDE1NzAwMCwiR0FTTFkgREVGRU5EScOTIEEgQ09MQVBJTlRPIFkgQ1VFU1RJT07DkyBFTCBDUklURVJJTyBERSBMT1MgQ09NSVNBUklPUyBERSBGw5NSTVVMQSAxIl0": {
-      "account": "f1",
-      "title": "GASLY DEFENDIÓ A COLAPINTO Y CUESTIONÓ EL CRITERIO DE LOS COMISARIOS DE FÓRMULA 1",
-      "dueAt": "2026-10-11T20:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4ddea568e911a3ecc9f",
-      "createdAt": "2026-10-11T20:43:09.982Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2109384804995129489",
-      "sentAt": "2026-10-11T20:45:02.939Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTcyMDE1NzAwMCwiT1RBTUVOREkgTUFSQ8OTIEVMIENBTUlOTyBERSBSSVZFUjogwqtIQVkgUVVFIEdBTkFSIExPUyBDSU5DTyBQQVJUSURPU8K7Il0": {
-      "account": "main",
-      "title": "OTAMENDI MARCÓ EL CAMINO DE RIVER: «HAY QUE GANAR LOS CINCO PARTIDOS»",
-      "dueAt": "2026-10-11T21:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4dca9411fbcc55b363c",
-      "createdAt": "2026-10-11T20:43:09.049Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109388592535515340",
-      "sentAt": "2026-10-11T21:00:05.901Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJoaXN0b3JpYXMiLDE3OTE3MjAxNTcwMDAsIkVaRVFVSUVMIEdPTlrDgUxFWiwgREVMIDEwIERFIEJPQ0EgQSBVTiBJTVBFUklPIEFHUk9QRUNVQVJJTyBDT04gMjUwIEZBTUlMSUFTIl0": {
-      "account": "main",
-      "title": "EZEQUIEL GONZÁLEZ, DEL 10 DE BOCA A UN IMPERIO AGROPECUARIO CON 250 FAMILIAS",
-      "dueAt": "2026-10-11T20:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4dc8e8dd50ffc56017c",
-      "createdAt": "2026-10-11T20:43:08.525Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109387316816974245",
-      "sentAt": "2026-10-11T20:55:01.825Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJsaWdhIHByb2Zlc2lvbmFsIiwxNzkxNzIwMTU3MDAwLCJQTEFURU5TRSBQQUxQSVRBIEVMIENMw4FTSUNPIENPTiBBUkdFTlRJTk9TOiBMQVMgQ0xBVkVTIERFIFNJTFZBLCBaQVBJT0xBIFkgU0VQw5pMVkVEQSJd": {
-      "account": "main",
-      "title": "PLATENSE PALPITA EL CLÁSICO CON ARGENTINOS: LAS CLAVES DE SILVA, ZAPIOLA Y SEPÚLVEDA",
-      "dueAt": "2026-10-11T20:50:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4db8e8dd50ffc560149",
-      "createdAt": "2026-10-11T20:43:08.078Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109386060979384327",
-      "sentAt": "2026-10-11T20:50:02.488Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE3Mjc0MzUwMDAsIlNDQUxPTkkgQ09NUExFVMOTIEVMIEdSQU4gRk9ORE8gREUgQlVFTk9TIEFJUkVTIEVOIEJJQ0lDTEVUQSJd": {
-      "account": "main",
-      "title": "SCALONI COMPLETÓ EL GRAN FONDO DE BUENOS AIRES EN BICICLETA",
-      "dueAt": "2026-10-11T20:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4dbfa026cfb81152b59",
-      "createdAt": "2026-10-11T20:43:07.382Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384805951447286",
-      "sentAt": "2026-10-11T20:45:03.142Z"
     }
   },
   "nextAt": {
