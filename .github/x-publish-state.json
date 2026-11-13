@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/un-fallo-de-fair-play-volvio-a-abrirle-a-independiente-una-via-hacia-la-sudamericana/": {
+      "account": "main",
+      "title": "UN FALLO DE FAIR PLAY VOLVIÓ A ABRIRLE A INDEPENDIENTE UNA VÍA HACIA LA SUDAMERICANA",
+      "dueAt": "2026-11-13T08:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af6c3a5e1d8eff610aca466",
+      "createdAt": "2026-11-13T08:00:37.106Z"
+    },
+    "https://ranasports.com.ar/federal-a/kimberley-y-olimpo-empataron-1-1-en-la-ida-de-los-cuartos-de-la-revalida/": {
+      "account": "sports",
+      "title": "KIMBERLEY Y OLIMPO EMPATARON 1-1 EN LA IDA DE LOS CUARTOS DE LA REVÁLIDA",
+      "dueAt": "2026-11-13T09:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af6c3a4c1a0010a5b094795",
+      "createdAt": "2026-11-13T08:00:36.741Z"
+    },
+    "https://ranasports.com.ar/f1/racing-bulls-confirmo-a-lawson-y-lindblad-para-la-temporada-2027/": {
+      "account": "f1",
+      "title": "RACING BULLS CONFIRMÓ A LAWSON Y LINDBLAD PARA LA TEMPORADA 2027",
+      "dueAt": "2026-11-13T08:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af6c3a4da25c4db3ea358a8",
+      "createdAt": "2026-11-13T08:00:36.460Z"
+    },
+    "https://ranasports.com.ar/futbol/scaloni-puede-ser-el-primer-dt-de-argentina-en-dirigir-tres-mundiales/": {
+      "account": "sports",
+      "title": "SCALONI PUEDE SER EL PRIMER DT DE ARGENTINA EN DIRIGIR TRES MUNDIALES",
+      "dueAt": "2026-11-13T08:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af6c3a3c1a0010a5b094699",
+      "createdAt": "2026-11-13T08:00:35.751Z"
+    },
+    "https://ranasports.com.ar/tenis/pegula-salvo-un-match-point-avanzo-en-las-wta-finals-y-elimino-a-gauff/": {
+      "account": "sports",
+      "title": "PEGULA SALVÓ UN MATCH POINT, AVANZÓ EN LAS WTA FINALS Y ELIMINÓ A GAUFF",
+      "dueAt": "2026-11-13T08:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af6c3a3c1a0010a5b094626",
+      "createdAt": "2026-11-13T08:00:35.293Z"
+    },
+    "https://ranasports.com.ar/supercopa-argentina/estudiantes-vencio-3-2-a-independiente-rivadavia-y-gano-la-supercopa-argentina/": {
+      "account": "sports",
+      "title": "ESTUDIANTES VENCIÓ 3-2 A INDEPENDIENTE RIVADAVIA Y GANÓ LA SUPERCOPA ARGENTINA",
+      "dueAt": "2026-11-13T08:00:32.459Z",
+      "mode": "shareNow",
+      "bufferPostId": "6af6c3a05ec1c9d5be6b06f2",
+      "createdAt": "2026-11-13T08:00:34.576Z"
+    },
     "https://ranasports.com.ar/futbol/jadson-viera-hablo-de-la-sudamericana-pese-a-que-independiente-ya-no-tiene-chances/": {
       "account": "main",
       "title": "JADSON VIERA HABLÓ DE LA SUDAMERICANA PESE A QUE INDEPENDIENTE YA NO TIENE CHANCES",
@@ -4857,66 +4905,6 @@
       "createdAt": "2026-10-11T20:43:14.867Z",
       "externalLink": "https://x.com/2095690134515572737/status/2109388590065098812",
       "sentAt": "2026-10-11T21:00:05.419Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTcyNzQzNTAwMCwiQ09MQVBJTlRPIEFCQU5ET07DkyBZIFZFUlNUQVBQRU4gR0FOw5MgRUwgR1AgREUgU0lOR0FQVVIiXQ": {
-      "account": "f1",
-      "title": "COLAPINTO ABANDONÓ Y VERSTAPPEN GANÓ EL GP DE SINGAPUR",
-      "dueAt": "2026-10-11T20:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4e18e8dd50ffc560295",
-      "createdAt": "2026-10-11T20:43:13.956Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2109387315671912847",
-      "sentAt": "2026-10-11T20:55:01.506Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTcyNzQzNTAwMCwiQUxNRVlEQSBORUfDkyBIQUJFUiBERVNNRVJFQ0lETyBBTCBBTcOJUklDQSBZIFJFQ0hBWsOTIExBIFBPTMOJTUlDQSBDT04gQk9SSkEiXQ": {
-      "account": "main",
-      "title": "ALMEYDA NEGÓ HABER DESMERECIDO AL AMÉRICA Y RECHAZÓ LA POLÉMICA CON BORJA",
-      "dueAt": "2026-10-11T21:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4e08e8dd50ffc560235",
-      "createdAt": "2026-10-11T20:43:12.840Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109394869265297857",
-      "sentAt": "2026-10-11T21:25:02.458Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNzI3NDM1MDAwLCJNRVNTSSBFTElHScOTIEEgRElFWiBGVVRVUkFTIEVTVFJFTExBUyBZIFNVTcOTIEEgVE9Nw4FTIEFSQU5EQSJd": {
-      "account": "main",
-      "title": "MESSI ELIGIÓ A DIEZ FUTURAS ESTRELLAS Y SUMÓ A TOMÁS ARANDA",
-      "dueAt": "2026-10-11T21:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4e0a9411fbcc55b36fc",
-      "createdAt": "2026-10-11T20:43:12.267Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109393607375401117",
-      "sentAt": "2026-10-11T21:20:01.514Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTcyNzQzNTAwMCwiQ09MQVBJTlRPIEFCQU5ET07DkyBFTiBTSU5HQVBVUiBQT1IgVU5BIEZBTExBIEVOIExBIFRSQU5TTUlTScOTTiJd": {
-      "account": "f1",
-      "title": "COLAPINTO ABANDONÓ EN SINGAPUR POR UNA FALLA EN LA TRANSMISIÓN",
-      "dueAt": "2026-10-11T20:50:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4dffa026cfb81152bd3",
-      "createdAt": "2026-10-11T20:43:11.900Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2109386060111180050",
-      "sentAt": "2026-10-11T20:50:02.172Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTcyNzQzNTAwMCwiQUNVw5FBIEFOVElDSVDDkyBTVSBHT0wgUEFSQSBSSVZFUiBZIFJFQ0lCScOTIFVOIE1FTlNBSkUgREVMIERJQlUiXQ": {
-      "account": "main",
-      "title": "ACUÑA ANTICIPÓ SU GOL PARA RIVER Y RECIBIÓ UN MENSAJE DEL DIBU",
-      "dueAt": "2026-10-11T21:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4df63ff33d8c99654f8",
-      "createdAt": "2026-10-11T20:43:11.333Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109392356713636200",
-      "sentAt": "2026-10-11T21:15:03.379Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzYW4gbG9yZW56byIsMTc5MTcyMDE1NzAwMCwiSU5Tw5pBIE1VRVZFIENVQVRSTyBQSUVaQVMgRU4gU0FOIExPUkVOWk8gUEFSQSBSRUNJQklSIEEgREVQT1JUSVZPIFJJRVNUUkEiXQ": {
-      "account": "main",
-      "title": "INSÚA MUEVE CUATRO PIEZAS EN SAN LORENZO PARA RECIBIR A DEPORTIVO RIESTRA",
-      "dueAt": "2026-10-11T21:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf4de8e8dd50ffc560200",
-      "createdAt": "2026-10-11T20:43:10.934Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109391094249075101",
-      "sentAt": "2026-10-11T21:10:02.390Z"
     }
   },
   "nextAt": {
