@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-13T10:56:04.756Z",
+  "updatedAt": "2026-11-13T18:30:14.467Z",
   "trends": [
     {
-      "query": "la cámpora",
-      "startedAt": "2026-11-13T10:00:00.000Z",
+      "query": "posiciones de selección de fútbol de cabo verde contra selección de fútbol de liberia",
+      "startedAt": "2026-11-13T18:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "muerte",
+      "startedAt": "2026-11-13T18:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "avril lavigne embarazada",
+      "startedAt": "2026-11-13T17:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "marcelo gallardo",
-      "startedAt": "2026-11-13T09:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "leandro gonzález pírez",
-      "startedAt": "2026-11-13T09:30:00.000Z",
+      "query": "river inter miami",
+      "startedAt": "2026-11-13T17:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "túnel submarino",
-      "startedAt": "2026-11-13T09:30:00.000Z",
-      "volume": 200
+      "query": "valentin carboni",
+      "startedAt": "2026-11-13T17:10:00.000Z",
+      "volume": 100
     },
     {
-      "query": "inundación",
-      "startedAt": "2026-11-13T09:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "página/12",
-      "startedAt": "2026-11-13T08:40:00.000Z",
+      "query": "clima rosario",
+      "startedAt": "2026-11-13T17:00:00.000Z",
       "volume": 2000
     },
     {
-      "query": "1998 ky26",
-      "startedAt": "2026-11-13T08:20:00.000Z",
+      "query": "villa cañas",
+      "startedAt": "2026-11-13T16:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "cáncer de próstata",
-      "startedAt": "2026-11-13T03:20:00.000Z",
+      "query": "iván hurtado",
+      "startedAt": "2026-11-13T16:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "anibal gordon",
-      "startedAt": "2026-11-13T02:50:00.000Z",
+      "query": "clima parana",
+      "startedAt": "2026-11-13T16:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "nigeria - tanzania",
+      "startedAt": "2026-11-13T16:40:00.000Z",
       "volume": 100
-    },
-    {
-      "query": "suns - hornets",
-      "startedAt": "2026-11-13T02:30:00.000Z",
-      "volume": 200
     }
   ]
 }
