@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 13/11/2026 09:00 ARG
+RANASPORTS — RADAR 1 — 13/11/2026 11:04 ARG
 Altas verificadas en esta corrida: 6
-Filas: Noticias!4765:4770
-Última noticia: DIEGO RODRÍGUEZ LLEGA A LA SEMIFINAL ANTE BOCA CON ANTECEDENTES DECISIVOS
+Filas: Noticias!4771:4776
+Última noticia: IVÁN HURTADO CUESTIONÓ A GALLARDO POR LA ESCASA PRESENCIA DEL FÚTBOL ECUATORIANO
 Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 6 H incorporadas como URLs directas declaradas por la fuente, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 6.
 Disparar Sync RanaSports news feed.
