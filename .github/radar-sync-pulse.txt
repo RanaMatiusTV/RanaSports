@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 13/11/2026 13:04 ARG
+RANASPORTS — RADAR 1 — 13/11/2026 15:11 ARG
 Altas verificadas en esta corrida: 6
-Filas: Noticias!4777:4782
-Última noticia: RIVER EMPATÓ CON CENTRAL EN RESERVA Y TERMINÓ CON DOS EXPULSADOS TRAS EL PITAZO
+Filas: Noticias!4783:4788
+Última noticia: MANCHESTER UNITED INCLUYÓ A NICO PAZ ENTRE SUS OPCIONES PARA EL MERCADO DE 2027
 Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 6 H incorporadas como URLs directas declaradas por la fuente, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 6.
 Disparar Sync RanaSports news feed.
