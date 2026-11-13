@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 13/11/2026 11:04 ARG
+RANASPORTS — RADAR 1 — 13/11/2026 13:04 ARG
 Altas verificadas en esta corrida: 6
-Filas: Noticias!4771:4776
-Última noticia: IVÁN HURTADO CUESTIONÓ A GALLARDO POR LA ESCASA PRESENCIA DEL FÚTBOL ECUATORIANO
+Filas: Noticias!4777:4782
+Última noticia: RIVER EMPATÓ CON CENTRAL EN RESERVA Y TERMINÓ CON DOS EXPULSADOS TRAS EL PITAZO
 Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 6 H incorporadas como URLs directas declaradas por la fuente, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 6.
 Disparar Sync RanaSports news feed.
