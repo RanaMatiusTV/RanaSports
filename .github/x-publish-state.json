@@ -1,6 +1,30 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/paredes-uso-medias-de-compresion-en-mendoza-como-parte-de-su-recuperacion/": {
+      "account": "sports",
+      "title": "PAREDES USÓ MEDIAS DE COMPRESIÓN EN MENDOZA COMO PARTE DE SU RECUPERACIÓN",
+      "dueAt": "2026-11-14T12:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af8463e78196a0a975cf664",
+      "createdAt": "2026-11-14T11:30:06.835Z"
+    },
+    "https://ranasports.com.ar/futbol/atletico-de-madrid-adquirio-el-50-del-atletico-fc-de-guayaquil/": {
+      "account": "sports",
+      "title": "ATLÉTICO DE MADRID ADQUIRIÓ EL 50% DEL ATLÉTICO FC DE GUAYAQUIL",
+      "dueAt": "2026-11-14T12:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af8463ed8bd2962e426c186",
+      "createdAt": "2026-11-14T11:30:06.206Z"
+    },
+    "https://ranasports.com.ar/futbol/dominguez-pondra-titulares-de-mineiro-ante-mirassol-antes-de-la-final-con-boca/": {
+      "account": "sports",
+      "title": "DOMÍNGUEZ PONDRÁ TITULARES DE MINEIRO ANTE MIRASSOL ANTES DE LA FINAL CON BOCA",
+      "dueAt": "2026-11-14T11:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af8463d4b28296eb153422b",
+      "createdAt": "2026-11-14T11:30:05.780Z"
+    },
     "https://ranasports.com.ar/futbol/rulli-fue-titular-y-capitan-de-argentina-ante-uruguay/": {
       "account": "sports",
       "title": "RULLI FUE TITULAR Y CAPITÁN DE ARGENTINA ANTE URUGUAY",
@@ -4845,36 +4869,6 @@
       "createdAt": "2026-10-11T20:44:14.350Z",
       "externalLink": "https://x.com/768913759301754880/status/2109384597221806485",
       "sentAt": "2026-10-11T20:44:13.473Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib3hlbyIsMTc5MTc0ODk4NTAwMCwiUEVSQUxUQSBTRSBMRVNJT07DkyBZIFBFVFRJR1JFVyBHQU7DkyBQT1IgTk9DQVVUIFTDiUNOSUNPIEVOIEVMIENBU0lOTyBCQSJd": {
-      "account": "main",
-      "title": "PERALTA SE LESIONÓ Y PETTIGREW GANÓ POR NOCAUT TÉCNICO EN EL CASINO BA",
-      "dueAt": "2026-10-11T20:44:07.970Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf5177db619a29148edb9",
-      "createdAt": "2026-10-11T20:44:10.099Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384579886756182",
-      "sentAt": "2026-10-11T20:44:09.334Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciIsMTc5MTc0ODk4NDAwMCwiUklWRVIgTk8gU1VNw5MgTEVTSU9OQURPUyBZIFJFQ1VQRVJBIE9QQ0lPTkVTIFBBUkEgVklTSVRBUiBBIFNBUk1JRU5UTyJd": {
-      "account": "main",
-      "title": "RIVER NO SUMÓ LESIONADOS Y RECUPERA OPCIONES PARA VISITAR A SARMIENTO",
-      "dueAt": "2026-10-11T20:44:03.765Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf513fa026cfb81153321",
-      "createdAt": "2026-10-11T20:44:05.907Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384562568503573",
-      "sentAt": "2026-10-11T20:44:05.200Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNzQ4OTgzMDAwLCJWQVNDTyBJTlNJU1RFIENPTiBFTCBNQVJBQ0FOw4EgUEFSQSBMQSBSRVZBTkNIQSBBTlRFIEJPQ0EiXQ": {
-      "account": "main",
-      "title": "VASCO INSISTE CON EL MARACANÁ PARA LA REVANCHA ANTE BOCA",
-      "dueAt": "2026-10-11T20:43:59.434Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf50f8e8dd50ffc560d85",
-      "createdAt": "2026-10-11T20:44:01.553Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384544528839077",
-      "sentAt": "2026-10-11T20:44:00.832Z"
     }
   },
   "nextAt": {
