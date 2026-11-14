@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-13T23:52:40.797Z",
+  "updatedAt": "2026-11-14T06:19:23.573Z",
   "trends": [
     {
-      "query": "bentancur",
-      "startedAt": "2026-11-13T23:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ecuador vs",
-      "startedAt": "2026-11-13T23:20:00.000Z",
+      "query": "clima catamarca",
+      "startedAt": "2026-11-14T05:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "argentina x uruguai",
-      "startedAt": "2026-11-13T23:20:00.000Z",
-      "volume": 200
+      "query": "lj cryer",
+      "startedAt": "2026-11-14T05:20:00.000Z",
+      "volume": 100
     },
     {
-      "query": "colombia - chile",
-      "startedAt": "2026-11-13T23:10:00.000Z",
+      "query": "clima santiago del estero",
+      "startedAt": "2026-11-14T05:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "clippers - thunder",
+      "startedAt": "2026-11-14T03:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "posiciones de internacional de bogotá contra independiente santa fe",
+      "startedAt": "2026-11-14T03:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "nico paz",
-      "startedAt": "2026-11-13T23:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "cristopher fiermarin",
-      "startedAt": "2026-11-13T23:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "forlan",
-      "startedAt": "2026-11-13T23:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "mariano troilo",
-      "startedAt": "2026-11-13T23:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "red tulum",
-      "startedAt": "2026-11-13T23:00:00.000Z",
+      "query": "kings - trail blazers",
+      "startedAt": "2026-11-14T03:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "argentina mundial",
-      "startedAt": "2026-11-13T23:00:00.000Z",
+      "query": "rodrigo de paul",
+      "startedAt": "2026-11-14T03:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "desakta2",
+      "startedAt": "2026-11-14T02:20:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "precio dolar blue",
+      "startedAt": "2026-11-14T02:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "spurs - warriors",
+      "startedAt": "2026-11-14T01:50:00.000Z",
+      "volume": 2000
     }
   ]
 }
