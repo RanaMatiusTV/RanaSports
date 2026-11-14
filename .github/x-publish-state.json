@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/rulli-fue-titular-y-capitan-de-argentina-ante-uruguay/": {
+      "account": "sports",
+      "title": "RULLI FUE TITULAR Y CAPITÁN DE ARGENTINA ANTE URUGUAY",
+      "dueAt": "2026-11-14T04:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af7d32397efac0554d5ec52",
+      "createdAt": "2026-11-14T03:18:59.420Z"
+    },
+    "https://ranasports.com.ar/uefa-nations-league/paises-bajos-goleo-7-0-a-grecia-y-alemania-vencio-3-1-a-serbia/": {
+      "account": "sports",
+      "title": "PAÍSES BAJOS GOLEÓ 7-0 A GRECIA Y ALEMANIA VENCIÓ 3-1 A SERBIA",
+      "dueAt": "2026-11-14T03:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af7d322d16af15d4dec41c2",
+      "createdAt": "2026-11-14T03:18:58.351Z"
+    },
+    "https://ranasports.com.ar/futbol/la-rfef-sanciono-a-owono-con-12-partidos-tras-la-jugada-con-jesus-de-miguel/": {
+      "account": "sports",
+      "title": "LA RFEF SANCIONÓ A OWONO CON 12 PARTIDOS TRAS LA JUGADA CON JESÚS DE MIGUEL",
+      "dueAt": "2026-11-14T03:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6af7d320bb36d00909e4a4ff",
+      "createdAt": "2026-11-14T03:18:57.084Z"
+    },
+    "https://ranasports.com.ar/futbol/racing-cerro-2026-con-una-derrota-2-1-ante-colo-colo/": {
+      "account": "sports",
+      "title": "RACING CERRÓ 2026 CON UNA DERROTA 2-1 ANTE COLO-COLO",
+      "dueAt": "2026-11-14T03:18:54.233Z",
+      "mode": "shareNow",
+      "bufferPostId": "6af7d31e81e1228421de05b0",
+      "createdAt": "2026-11-14T03:18:56.390Z"
+    },
     "https://ranasports.com.ar/futbol/boca-blindo-hasta-2028-a-tres-juveniles-citados-al-mundial-sub-17/": {
       "account": "sports",
       "title": "BOCA BLINDÓ HASTA 2028 A TRES JUVENILES CITADOS AL MUNDIAL SUB 17",
@@ -4843,46 +4875,6 @@
       "createdAt": "2026-10-11T20:44:01.553Z",
       "externalLink": "https://x.com/768913759301754880/status/2109384544528839077",
       "sentAt": "2026-10-11T20:44:00.832Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTc0ODk4MjAwMCwiQUxQSU5FIEhJWk8gQVVUT0NSw41USUNBIFRSQVMgT1RSTyBHUkFOIFBSRU1JTyBTSU4gUFVOVE9TIl0": {
-      "account": "f1",
-      "title": "ALPINE HIZO AUTOCRÍTICA TRAS OTRO GRAN PREMIO SIN PUNTOS",
-      "dueAt": "2026-10-11T21:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acbf50ea9411fbcc55b3b95",
-      "createdAt": "2026-10-11T20:43:58.644Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2109392355430162896",
-      "sentAt": "2026-10-11T21:15:03.049Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE3NDg5ODEwMDAsIkVMIFBJQ0FOVEUgUEFTQUNBTExFIERFIEFSR0VOVElOT1MgQU5URVMgREVMIENMw4FTSUNPIENPTiBQTEFURU5TRSJd": {
-      "account": "main",
-      "title": "EL PICANTE PASACALLE DE ARGENTINOS ANTES DEL CLÁSICO CON PLATENSE",
-      "dueAt": "2026-10-11T20:43:54.677Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf50a8e8dd50ffc560cca",
-      "createdAt": "2026-10-11T20:43:56.794Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384523792167205",
-      "sentAt": "2026-10-11T20:43:55.858Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNzQxOTk2MDAwLCJVTiBKVUdBRE9SIERFIFZBU0NPIFNVRlJJw5MgVU4gQUNDSURFTlRFIFkgU0VSw4EgQkFKQSBBTlRFIEJPQ0EiXQ": {
-      "account": "main",
-      "title": "UN JUGADOR DE VASCO SUFRIÓ UN ACCIDENTE Y SERÁ BAJA ANTE BOCA",
-      "dueAt": "2026-10-11T20:43:50.777Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf506fa026cfb811530ae",
-      "createdAt": "2026-10-11T20:43:52.917Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384507308544438",
-      "sentAt": "2026-10-11T20:43:52.012Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzYW4gbG9yZW56byIsMTc5MTc0MTk5NTAwMCwiU0FOIExPUkVOWk8gUkVDSUJFIEEgUklFU1RSQSBFTiBVTiBEVUVMTyBDTEFWRSBQT1IgRUwgQ0xBVVNVUkEiXQ": {
-      "account": "main",
-      "title": "SAN LORENZO RECIBE A RIESTRA EN UN DUELO CLAVE POR EL CLAUSURA",
-      "dueAt": "2026-10-11T20:43:46.763Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf50263ff33d8c99658eb",
-      "createdAt": "2026-10-11T20:43:48.883Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384491726684270",
-      "sentAt": "2026-10-11T20:43:48.225Z"
     }
   },
   "nextAt": {
