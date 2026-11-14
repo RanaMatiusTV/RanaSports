@@ -1,6 +1,6 @@
-RANASPORTS — RADAR 1 — 13/11/2026 19:09 ARG
-Altas verificadas en esta corrida: 7
-Filas: Noticias!4795:4801
-Última noticia: TIRANTE VENCIÓ A TABILO Y JUGARÁ SU PRIMERA FINAL ATP EN ESTOCOLMO
-Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 7 H incorporadas como URLs directas declaradas por la fuente, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 7.
+RANASPORTS — RADAR 1 — 13/11/2026 21:08 ARG
+Altas verificadas en esta corrida: 8
+Filas: Noticias!4802:4809
+Última noticia: ASALTARON LA CASA DE MATÍAS DITURO EN ESPAÑA MIENTRAS LLEGABA CON SUS HIJOS
+Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 8 H incorporadas como URLs directas declaradas por la fuente, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 8.
 Disparar Sync RanaSports news feed.
