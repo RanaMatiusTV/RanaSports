@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-14T13:47:30.857Z",
+  "updatedAt": "2026-11-14T19:09:28.160Z",
   "trends": [
     {
-      "query": "raphinha",
-      "startedAt": "2026-11-14T13:20:00.000Z",
-      "volume": 200
+      "query": "portugal - dinamarca",
+      "startedAt": "2026-11-14T18:50:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "japan vs brazil",
-      "startedAt": "2026-11-14T12:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "copa potrero",
-      "startedAt": "2026-11-14T12:20:00.000Z",
+      "query": "twitch",
+      "startedAt": "2026-11-14T18:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "thiago agustín tirante",
-      "startedAt": "2026-11-14T12:20:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "tirante",
-      "startedAt": "2026-11-14T12:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "atp estocolmo",
-      "startedAt": "2026-11-14T12:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "atlético fútbol club",
-      "startedAt": "2026-11-14T12:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "policía",
-      "startedAt": "2026-11-14T12:10:00.000Z",
+      "query": "hungria vs",
+      "startedAt": "2026-11-14T18:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "james vowles",
-      "startedAt": "2026-11-14T12:00:00.000Z",
-      "volume": 200
+      "query": "quiniela de cordoba",
+      "startedAt": "2026-11-14T18:50:00.000Z",
+      "volume": 100
     },
     {
-      "query": "rocío robles",
-      "startedAt": "2026-11-14T11:30:00.000Z",
-      "volume": 200
+      "query": "portugal fc",
+      "startedAt": "2026-11-14T18:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "atlanta",
+      "startedAt": "2026-11-14T18:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "niki lauda",
+      "startedAt": "2026-11-14T18:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "los palmeras marcos camino",
+      "startedAt": "2026-11-14T18:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "nicole neumann",
+      "startedAt": "2026-11-14T18:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "billetera digital",
+      "startedAt": "2026-11-14T17:50:00.000Z",
+      "volume": 100
     }
   ]
 }
