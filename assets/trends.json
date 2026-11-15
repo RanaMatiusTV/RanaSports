@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-15T02:38:12.792Z",
+  "updatedAt": "2026-11-15T09:55:42.120Z",
   "trends": [
     {
-      "query": "bilal hasan",
-      "startedAt": "2026-11-15T02:20:00.000Z",
+      "query": "gladys la bomba tucumana",
+      "startedAt": "2026-11-15T09:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "tormenta",
+      "startedAt": "2026-11-15T09:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "neuquén",
+      "startedAt": "2026-11-15T09:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "24 de noviembre",
+      "startedAt": "2026-11-15T04:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "inpres san juan",
+      "startedAt": "2026-11-15T04:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "caio borralho",
+      "startedAt": "2026-11-15T03:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "kevin holland",
+      "startedAt": "2026-11-15T03:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "carlos melconian",
+      "startedAt": "2026-11-15T02:50:00.000Z",
       "volume": 200
     },
     {
       "query": "dwayne johnson",
       "startedAt": "2026-11-15T02:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "nacho giron",
-      "startedAt": "2026-11-15T02:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "league of legends",
-      "startedAt": "2026-11-15T02:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "lluvia",
-      "startedAt": "2026-11-15T01:50:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "stephen thompson",
-      "startedAt": "2026-11-15T01:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "jeremiah fears",
-      "startedAt": "2026-11-15T01:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "denise dumas",
-      "startedAt": "2026-11-15T01:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "playstation",
-      "startedAt": "2026-11-15T01:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "timberwolves - bulls",
-      "startedAt": "2026-11-15T01:10:00.000Z",
-      "volume": 200
+      "query": "bilal hasan",
+      "startedAt": "2026-11-15T02:20:00.000Z",
+      "volume": 500
     }
   ]
 }
