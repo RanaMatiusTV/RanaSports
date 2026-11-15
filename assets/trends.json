@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-15T17:07:59.434Z",
+  "updatedAt": "2026-11-15T21:46:54.241Z",
   "trends": [
     {
-      "query": "deportivo - barcelona",
-      "startedAt": "2026-11-15T16:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "tc",
-      "startedAt": "2026-11-15T16:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ravenna",
-      "startedAt": "2026-11-15T16:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "finlandia - san marino",
-      "startedAt": "2026-11-15T16:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "apagón eléctrico",
-      "startedAt": "2026-11-15T15:30:00.000Z",
+      "query": "douglas haig",
+      "startedAt": "2026-11-15T21:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "noticia",
-      "startedAt": "2026-11-15T15:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "escocia - australia",
-      "startedAt": "2026-11-15T14:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "clima neuquen",
-      "startedAt": "2026-11-15T14:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "letonia - armenia",
-      "startedAt": "2026-11-15T14:30:00.000Z",
+      "query": "alineaciones de selección de fútbol de españa contra selección de fútbol de inglaterra",
+      "startedAt": "2026-11-15T21:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "copa sudamericana 2026",
-      "startedAt": "2026-11-15T14:20:00.000Z",
+      "query": "san juan",
+      "startedAt": "2026-11-15T21:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "james trafford",
+      "startedAt": "2026-11-15T21:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "norberto marcos",
+      "startedAt": "2026-11-15T21:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "sarmiento de la banda",
+      "startedAt": "2026-11-15T21:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "feriados de noviembre 2026",
+      "startedAt": "2026-11-15T20:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "wta finals",
+      "startedAt": "2026-11-15T20:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "mirra andreeva",
+      "startedAt": "2026-11-15T20:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "epicentro",
+      "startedAt": "2026-11-15T20:30:00.000Z",
       "volume": 500
     }
   ]
