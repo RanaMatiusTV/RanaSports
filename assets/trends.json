@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-15T09:55:42.120Z",
+  "updatedAt": "2026-11-15T17:07:59.434Z",
   "trends": [
     {
-      "query": "gladys la bomba tucumana",
-      "startedAt": "2026-11-15T09:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "tormenta",
-      "startedAt": "2026-11-15T09:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "neuquén",
-      "startedAt": "2026-11-15T09:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "24 de noviembre",
-      "startedAt": "2026-11-15T04:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "inpres san juan",
-      "startedAt": "2026-11-15T04:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "caio borralho",
-      "startedAt": "2026-11-15T03:30:00.000Z",
+      "query": "deportivo - barcelona",
+      "startedAt": "2026-11-15T16:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "kevin holland",
-      "startedAt": "2026-11-15T03:00:00.000Z",
+      "query": "tc",
+      "startedAt": "2026-11-15T16:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "carlos melconian",
-      "startedAt": "2026-11-15T02:50:00.000Z",
+      "query": "ravenna",
+      "startedAt": "2026-11-15T16:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "dwayne johnson",
-      "startedAt": "2026-11-15T02:20:00.000Z",
+      "query": "finlandia - san marino",
+      "startedAt": "2026-11-15T16:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "bilal hasan",
-      "startedAt": "2026-11-15T02:20:00.000Z",
+      "query": "apagón eléctrico",
+      "startedAt": "2026-11-15T15:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "noticia",
+      "startedAt": "2026-11-15T15:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "escocia - australia",
+      "startedAt": "2026-11-15T14:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "clima neuquen",
+      "startedAt": "2026-11-15T14:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "letonia - armenia",
+      "startedAt": "2026-11-15T14:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "copa sudamericana 2026",
+      "startedAt": "2026-11-15T14:20:00.000Z",
       "volume": 500
     }
   ]
