@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-14T22:57:58.374Z",
+  "updatedAt": "2026-11-15T02:38:12.792Z",
   "trends": [
     {
-      "query": "gimnasia jujuy - almirante brown",
-      "startedAt": "2026-11-14T22:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "nacional - albion",
-      "startedAt": "2026-11-14T22:40:00.000Z",
+      "query": "bilal hasan",
+      "startedAt": "2026-11-15T02:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "millie bobby brown",
-      "startedAt": "2026-11-14T22:40:00.000Z",
+      "query": "dwayne johnson",
+      "startedAt": "2026-11-15T02:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "claudio tapia",
-      "startedAt": "2026-11-14T22:30:00.000Z",
+      "query": "nacho giron",
+      "startedAt": "2026-11-15T02:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "álvaro montero",
-      "startedAt": "2026-11-14T22:30:00.000Z",
-      "volume": 200
+      "query": "league of legends",
+      "startedAt": "2026-11-15T02:10:00.000Z",
+      "volume": 100
     },
     {
-      "query": "arresto",
-      "startedAt": "2026-11-14T22:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "final sudamericana",
-      "startedAt": "2026-11-14T22:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ruso rodriguez",
-      "startedAt": "2026-11-14T22:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "comunicaciones",
-      "startedAt": "2026-11-14T22:10:00.000Z",
+      "query": "lluvia",
+      "startedAt": "2026-11-15T01:50:00.000Z",
       "volume": 5000
     },
     {
-      "query": "tyc sport",
-      "startedAt": "2026-11-14T22:00:00.000Z",
-      "volume": 20000
+      "query": "stephen thompson",
+      "startedAt": "2026-11-15T01:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jeremiah fears",
+      "startedAt": "2026-11-15T01:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "denise dumas",
+      "startedAt": "2026-11-15T01:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "playstation",
+      "startedAt": "2026-11-15T01:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "timberwolves - bulls",
+      "startedAt": "2026-11-15T01:10:00.000Z",
+      "volume": 200
     }
   ]
 }
