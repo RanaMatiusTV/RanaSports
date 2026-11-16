@@ -1,0 +1,203 @@
+<!doctype html>
+<html>
+<head>
+  <base target="_top">
+  <meta charset="utf-8">
+  <style>
+    :root{color-scheme:dark;--bg:#090d15;--surface:#121b2a;--border:#283247;--ink:#eef4ff;--muted:#acb7cb;--red:#df244a}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px system-ui,-apple-system,Segoe UI,sans-serif}
+    .top{background:#101827;border-bottom:1px solid var(--border);padding:18px 4vw;display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+    .brand{font-size:22px;font-weight:850;letter-spacing:-.5px}.brand b{color:var(--red)}.private{color:#b9c6db;font-size:12px;border:1px solid #394761;border-radius:30px;padding:6px 10px}
+    main{display:grid;grid-template-columns:minmax(230px,290px) minmax(0,1fr);gap:24px;max-width:1350px;margin:auto;padding:22px 4vw}
+    aside,.panel{background:var(--surface);border:1px solid var(--border);border-radius:15px;padding:18px}
+    aside{align-self:start;position:sticky;top:15px}h1,h2,h3{margin:0 0 12px}h1{font-size:24px}h2{font-size:17px}
+    .muted,small{color:var(--muted)}.hint{font-size:12px;line-height:1.5;color:var(--muted)}
+    label{display:block;font-weight:700;font-size:12px;color:#c6d3e6;margin:12px 0 6px}
+    input,textarea,select{display:block;width:100%;background:#0b111c;border:1px solid #33415a;border-radius:9px;color:#fff;font:inherit;padding:11px;outline:none}
+    input:focus,textarea:focus{border-color:#8ca9f8}textarea{min-height:230px;resize:vertical;line-height:1.55}
+    input[type=checkbox],input[type=file]{width:auto}.check{display:flex;align-items:center;gap:8px;margin-top:14px}.check label{margin:0}
+    .cols{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}.full{grid-column:1/-1}
+    button{cursor:pointer;border:1px solid #495872;border-radius:9px;background:#27344c;color:#fff;font:inherit;font-weight:700;padding:10px 13px}
+    button.primary{background:var(--red);border-color:var(--red)}button:hover:not(:disabled){filter:brightness(1.15)}button:disabled{opacity:.45;cursor:wait}
+    .toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 18px}.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}
+    .status{font-size:13px;color:#b8c9e0;min-height:20px}.status.error{color:#ffadad}.status.ok{color:#93dfb7}
+    #recent{display:grid;gap:7px;max-height:67vh;overflow:auto;margin-top:12px}
+    .article{border:1px solid #253248;background:#0a1321;border-radius:9px;padding:11px;cursor:pointer;color:#e9f1ff;text-align:left;font-weight:650;font-size:12px}
+    .article:hover{border-color:#758eb7}.article small{display:block;margin-top:5px;font-weight:400}
+    .pill{display:inline-block;border-radius:10px;padding:2px 7px;background:#30415a;font-size:10px;margin:3px 4px 0 0}.pill.manual{background:#3c2b48}
+    #imagePreview{display:none;max-width:100%;max-height:220px;object-fit:contain;border-radius:7px;margin-top:10px;background:#03070e}
+    #preview{border:1px solid var(--border);background:#0a101d;border-radius:12px;padding:17px;margin-top:16px}
+    #preview h2{font-size:22px;line-height:1.22}#preview p{line-height:1.6;color:#dce7f7;white-space:pre-wrap}
+    .separator{border:0;border-top:1px solid var(--border);margin:24px 0}
+    @media(max-width:820px){main{grid-template-columns:1fr;gap:15px}aside{position:static}.cols{grid-template-columns:1fr}#recent{max-height:240px}.top{padding:16px 5vw}}
+  </style>
+</head>
+<body>
+  <header class="top"><div class="brand">Rana<b>Sports</b> <span class="muted">/ Redacción</span></div><span class="private">🔒 Panel privado · Acceso con Google</span></header>
+  <main>
+    <aside>
+      <h2>Noticias existentes</h2>
+      <p class="hint">Elegí una noticia para cambiar solo su texto, foto o embed. Al guardar, queda protegida contra cambios automáticos.</p>
+      <button id="newBtn" type="button">+ Nueva noticia</button>
+      <div id="recent" aria-label="Últimas noticias">Cargando...</div>
+    </aside>
+    <section class="panel">
+      <h1 id="editorTitle">Nueva noticia</h1>
+      <p class="hint" id="modeHint">Podés guardar un borrador o publicar. Las notas publicadas se incorporan al portal con la próxima sincronización.</p>
+      <div class="toolbar"><button id="refreshBtn" type="button">Actualizar lista</button><button id="previewBtn" type="button">Vista previa</button></div>
+      <div id="notice" class="status" role="status"></div>
+      <form id="form">
+        <div class="cols">
+          <div><label for="date">Fecha (Argentina)</label><input id="date" placeholder="DD/MM/AAAA" required maxlength="10"></div>
+          <div><label for="time">Hora (Argentina)</label><input id="time" placeholder="HH:MM" required maxlength="5"></div>
+          <div class="full"><label for="category">Categoría</label><input id="category" list="categories" value="INDEPENDIENTE" required>
+            <datalist id="categories">
+              <option value="INDEPENDIENTE"><option value="FÚTBOL"><option value="SELECCIÓN ARGENTINA"><option value="FÓRMULA 1">
+              <option value="PRIMERA NACIONAL"><option value="BOCA JUNIORS"><option value="RIVER PLATE"><option value="RACING CLUB">
+              <option value="SAN LORENZO"><option value="BÁSQUET"><option value="TENIS"><option value="RUGBY">
+              <option value="AUTOMOVILISMO"><option value="OTROS DEPORTES">
+            </datalist>
+          </div>
+          <div class="full"><label for="title">Título</label><input id="title" maxlength="250" placeholder="Título informativo..." required></div>
+          <div class="full"><label for="body">Nota completa · Separar párrafos con una línea en blanco</label><textarea id="body" placeholder="Primer párrafo...&#10;&#10;Segundo párrafo..." required></textarea></div>
+          <div class="full"><label for="imageUrl">Foto principal · URL HTTPS directa</label><input id="imageUrl" type="url" placeholder="https://.../imagen.jpg">
+            <img id="imagePreview" alt="Vista de fotografía seleccionada" referrerpolicy="no-referrer">
+            <label for="photoFile">O subí una foto propia (JPEG, PNG o WebP; hasta 4 MB)</label>
+            <input type="file" id="photoFile" accept="image/jpeg,image/png,image/webp">
+            <small>Para subir desde el teléfono o PC es necesario configurar un token de GitHub en el servidor. Las fotos publicadas se vuelven públicas.</small>
+          </div>
+          <div><label for="photoCredit">Crédito de foto</label><input id="photoCredit" placeholder="Fotografía: autor / RanaSports"></div>
+          <div><label for="embedUrl">Embed (X / YouTube / F1)</label><input id="embedUrl" type="url" placeholder="https://x.com/.../status/..."></div>
+          <div class="full"><label for="embedUrl2">Segundo embed (opcional)</label><input id="embedUrl2" type="url" placeholder="https://..."></div>
+          <div><label for="source">Fuente / firma</label><input id="source" value="RanaSports"></div>
+          <div><label for="sourceUrl">URL de fuente (opcional)</label><input id="sourceUrl" type="url" placeholder="https://..."></div>
+          <div class="full"><label for="noteUrl">URL externa adicional (opcional)</label><input id="noteUrl" type="url" placeholder="https://..."></div>
+        </div>
+        <div class="check"><input id="featured" type="checkbox"><label for="featured">Destacar noticia en el portal</label></div>
+        <hr class="separator">
+        <div class="actions">
+          <button id="draftBtn" type="button">Guardar borrador</button>
+          <button id="publishBtn" class="primary" type="button">Publicar noticia</button>
+        </div>
+        <p class="hint">Los cambios manuales se guardan con bloqueo editorial. No se modifican los radares ni sus horarios.</p>
+      </form>
+      <section id="preview" hidden>
+        <h2 id="previewTitle"></h2>
+        <p id="previewDate" class="muted"></p>
+        <img id="previewImage" style="max-width:100%;max-height:330px;object-fit:contain" hidden alt="Foto de la noticia">
+        <div id="previewBody"></div>
+        <p id="previewEmbed" class="muted"></p>
+      </section>
+    </section>
+  </main>
+<script>
+(() => {
+  'use strict';
+  const $ = id => document.getElementById(id);
+  let selectedRow = 0, busy = false;
+  const fields = ['date','time','category','title','body','imageUrl','photoCredit','embedUrl','embedUrl2','source','sourceUrl','noteUrl'];
+  function message(text, type) { $('notice').textContent=text; $('notice').className='status '+(type||''); }
+  function setBusy(flag) { busy=flag; for(const id of ['newBtn','refreshBtn','draftBtn','publishBtn'])$(id).disabled=flag; }
+  function error(err) { setBusy(false); message(err?.message||String(err), 'error'); }
+  function getValue(id) { return $(id).value.trim(); }
+  function clearForm(now) {
+    selectedRow=0; for(const id of fields)$(id).value='';
+    $('source').value='RanaSports';$('category').value='INDEPENDIENTE';
+    $('date').value=now?.date||'';$('time').value=now?.time||'';
+    $('featured').checked=false;$('editorTitle').textContent='Nueva noticia';
+    $('modeHint').textContent='Podés guardar un borrador o publicar. Los radares no alterarán tus notas.';
+    $('preview').hidden=true;$('imagePreview').style.display='none';$('photoFile').value='';
+    message('');
+  }
+  function requestList() {
+    google.script.run.withSuccessHandler(data => {
+      setBusy(false);
+      const node = $('recent'); node.replaceChildren();
+      for(const item of data.items) {
+        const btn=document.createElement('button'); btn.type='button'; btn.className='article';
+        btn.append(document.createTextNode(item.title));
+        const sub=document.createElement('small');
+        sub.textContent=item.date+' '+item.time+' · '+item.category+(item.published?' · Publicada':' · Borrador')+(item.locked?' · Manual':'');
+        btn.append(sub);btn.onclick=()=>load(item.row);node.append(btn);
+      }
+      if(!selectedRow&&!getValue('date'))clearForm(data.now);
+    }).withFailureHandler(error).recentNews();
+  }
+  function load(row) {
+    if(busy)return;setBusy(true);message('Cargando noticia...');
+    google.script.run.withSuccessHandler(a=>{
+      setBusy(false);selectedRow=a.row;
+      for(const id of fields)$(id).value=a[id]||'';
+      $('featured').checked=!!a.featured;
+      $('editorTitle').textContent='Editar noticia · fila '+a.row;
+      $('modeHint').textContent=a.published?'Publicada · Podés modificar texto, foto o embed y volver a publicar.':'Borrador · Podés completarlo y publicarlo.';
+      $('preview').hidden=true;updatePhoto();message('Noticia cargada. Las ediciones se protegerán al guardar.');
+    }).withFailureHandler(error).getNews(row);
+  }
+  function updatePhoto(){
+    const url=getValue('imageUrl'),img=$('imagePreview');
+    if(/^https:\/\//i.test(url)){img.src=url;img.style.display='block';}else{img.removeAttribute('src');img.style.display='none';}
+  }
+  function payload(action) {
+    const obj={row:selectedRow,action,featured:$('featured').checked};
+    for(const id of fields)obj[id]=getValue(id);
+    return obj;
+  }
+  function save(action) {
+    if(busy)return;const data=payload(action);
+    if(action==='publish'&&(!data.title||!data.body||!data.category)){message('Completá título, categoría y texto.','error');return;}
+    setBusy(true);message(action==='publish'?'Publicando...':'Guardando borrador...');
+    google.script.run.withSuccessHandler(res=>{
+      setBusy(false);selectedRow=res.row;
+      $('editorTitle').textContent='Editar noticia · fila '+res.row;
+      message(res.published
+        ?'Guardado y marcado para publicación. '+(res.syncRequested?'Sincronización de GitHub solicitada.':'GitHub lo recogerá en su próxima sincronización.')+' Edición manual protegida.'
+        :'Borrador guardado. No aparece en el portal.', 'ok');
+      requestList();
+    }).withFailureHandler(error).saveNews(data);
+  }
+  function preview() {
+    const area=$('preview');area.hidden=false;
+    $('previewTitle').textContent=getValue('title')||'(Sin título)';
+    $('previewDate').textContent=getValue('category')+' · '+getValue('date')+' '+getValue('time')+' (ARG)';
+    const img=$('previewImage'),url=getValue('imageUrl');
+    if(/^https:\/\//i.test(url)){img.hidden=false;img.src=url;}else{img.hidden=true;img.removeAttribute('src');}
+    $('previewBody').replaceChildren();
+    for(const paragraph of getValue('body').split(/\n\s*\n/).filter(Boolean)){
+      const p=document.createElement('p');p.textContent=paragraph;$('previewBody').append(p);
+    }
+    $('previewEmbed').textContent=getValue('embedUrl')?'Embed: '+getValue('embedUrl'):'';
+    area.scrollIntoView({behavior:'smooth',block:'nearest'});
+  }
+  function upload(file) {
+    if(!file)return;
+    if(file.size>4*1024*1024){message('La foto supera los 4 MB.', 'error');return;}
+    if(!['image/jpeg','image/png','image/webp'].includes(file.type)){message('Formato no admitido.','error');return;}
+    setBusy(true);message('Subiendo fotografía...');
+    const reader=new FileReader();
+    reader.onerror=()=>error(new Error('No se pudo leer la imagen.'));
+    reader.onload=()=>{
+      const b64=String(reader.result).split(',')[1];
+      google.script.run.withSuccessHandler(out=>{
+        setBusy(false);$('imageUrl').value=out.url;updatePhoto();
+        message('Foto subida a RanaSports. Al publicar, será visible públicamente.','ok');
+      }).withFailureHandler(error).uploadPhoto({base64:b64,mime:file.type});
+    };
+    reader.readAsDataURL(file);
+  }
+  $('newBtn').onclick=()=>{
+    if(busy)return;selectedRow=0;
+    google.script.run.withSuccessHandler(data=>clearForm(data.now)).withFailureHandler(error).recentNews();
+  };
+  $('refreshBtn').onclick=requestList;
+  $('draftBtn').onclick=()=>save('draft');
+  $('publishBtn').onclick=()=>save('publish');
+  $('previewBtn').onclick=preview;
+  $('imageUrl').addEventListener('input',updatePhoto);
+  $('photoFile').addEventListener('change',e=>upload(e.target.files?.[0]));
+  $('form').addEventListener('submit',e=>e.preventDefault());
+  requestList();
+})();
+</script>
+</body>
+</html>
