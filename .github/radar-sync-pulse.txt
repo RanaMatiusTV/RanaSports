@@ -1,6 +1,8 @@
-RANASPORTS — RADAR 1 — 13/11/2026 21:08 ARG
-Altas verificadas en esta corrida: 8
-Filas: Noticias!4802:4809
-Última noticia: ASALTARON LA CASA DE MATÍAS DITURO EN ESPAÑA MIENTRAS LLEGABA CON SUS HIJOS
-Estado: filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos; 8 H incorporadas como URLs directas declaradas por la fuente, sin apertura ni validación técnica o visual; K oportunistas: 0, vacías: 8.
+RANASPORTS — RECUPERACIÓN EXTRAORDINARIA 96 HORAS — 16/11/2026 ARG
+Altas verificadas: 21
+Filas: Noticias!4810:4830
+Última noticia: BOCA PERDIÓ ANTE FLAMENGO Y QUEDÓ ELIMINADO DE LA LIGA SUDAMERICANA DE BÁSQUET
+Cobertura: 12–16/11/2026; primeras noticias omitidas del viernes 13 y novedades del sábado 14 y domingo 15; fuentes TyC Sports, DeporTV, UAR, Motorsport.com, Solo Ascenso.
+Estado: 21 filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos, URL fuente y foto en H/Q seleccionada sin validación técnica ni visual, sin duplicados detectados con revisión previa.
+Embeds K: 0 oportunistas, 21 vacías para radar especializado.
 Disparar Sync RanaSports news feed.
