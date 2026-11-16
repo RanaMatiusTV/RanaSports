@@ -46,6 +46,16 @@ jobs:
           pulse = open(pulse_path, encoding='utf-8').read() if os.path.isfile(pulse_path) else ''
           match = re.search(r'^\s*(?:Última noticia|Última):\s*(.+?)\s*$', pulse, re.MULTILINE | re.IGNORECASE)
           expected_title = match.group(1).strip().casefold() if match else None
+          # A backfilled article may receive an earlier, fact-checked event time.
+          # Never accept a stale published Sheet on that basis alone: the pulse
+          # must list every corrected title, date and time for this sync.
+          corrections = {}
+          for line in pulse.splitlines():
+              if line.startswith('CHRONOLOGY_CHECK|'):
+                  parts = line.split('|', 3)
+                  if len(parts) == 4:
+                      _, title, day, hour = parts
+                      corrections[title.strip().casefold()] = (day.strip(), hour.strip())
 
           def timestamp(row):
               d, t = row[1].strip(), row[2].strip()
@@ -80,7 +90,14 @@ jobs:
                       current = read_feed('/tmp/news-candidate.csv')
                       current_max = max((timestamp(r) for r in current), default=datetime.datetime.min)
                       found = not expected_title or any(r[4].strip().casefold() == expected_title for r in current)
-                      if current_max < previous_max or not found:
+                      by_title = {r[4].strip().casefold(): (r[1].strip(), r[2].strip()) for r in current}
+                      previous_titles = {r[4].strip().casefold() for r in previous}
+                      checked_backdate = (
+                          bool(corrections)
+                          and all(by_title.get(title) == day_time for title, day_time in corrections.items())
+                          and previous_titles.issubset(by_title)
+                      )
+                      if (current_max < previous_max and not checked_backdate) or not found:
                           print(f'::warning::{label} attempt {attempt} stale: '
                                 f'incoming={current_max}, existing={previous_max}, '
                                 f'pulse_title_present={found}', flush=True)
@@ -202,7 +219,27 @@ jobs:
               existing=[(r+['']*18)[:18] for r in old[1:] if r and (r[0] if len(r)>0 else '').strip().upper()=='SI']
               existing_max=max((stamp(r) for r in existing), default=datetime.datetime.min)
 
-          if incoming_max < existing_max:
+          # Backdating requires all rows in the explicit correction manifest.
+          # Protect prior headlines as well, so a lagging sheet cannot erase new work.
+          with open('.github/radar-sync-pulse.txt', encoding='utf-8') as f:
+              pulse = f.read()
+          correction_pairs = {}
+          for line in pulse.splitlines():
+              if line.startswith('CHRONOLOGY_CHECK|'):
+                  parts = line.split('|', 3)
+                  if len(parts) == 4:
+                      _, title, day, hour = parts
+                      correction_pairs[title.strip().casefold()] = (day.strip(), hour.strip())
+          incoming_by_title = {
+              r[4].strip().casefold(): (r[1].strip(), r[2].strip()) for r in all_data
+          }
+          previous_titles = {r[4].strip().casefold() for r in existing} if os.path.exists(dst) else set()
+          checked_backdate = (
+              bool(correction_pairs)
+              and all(incoming_by_title.get(t) == pair for t, pair in correction_pairs.items())
+              and previous_titles.issubset(incoming_by_title)
+          )
+          if incoming_max < existing_max and not checked_backdate:
               print(f'Skip regression: incoming {incoming_max} < existing {existing_max}')
               sys.exit(0)
 
