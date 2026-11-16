@@ -22,7 +22,8 @@ permissions:
 
 concurrency:
   group: sync-ranasports-news-feed
-  cancel-in-progress: false
+  # On a fresh editorial pulse, replace a stalled older sync. Scheduled checks do not interrupt active runs.
+  cancel-in-progress: ${{ github.event_name == 'push' }}
 
 jobs:
   sync:
