@@ -1,8 +1,6 @@
-RANASPORTS — RECUPERACIÓN EXTRAORDINARIA 96 HORAS — 16/11/2026 ARG
-Altas verificadas: 21
-Filas: Noticias!4810:4830
-Última noticia: BOCA PERDIÓ ANTE FLAMENGO Y QUEDÓ ELIMINADO DE LA LIGA SUDAMERICANA DE BÁSQUET
-Cobertura: 12–16/11/2026; primeras noticias omitidas del viernes 13 y novedades del sábado 14 y domingo 15; fuentes TyC Sports, DeporTV, UAR, Motorsport.com, Solo Ascenso.
-Estado: 21 filas A–S escritas y releídas; A=SI, R=FALSE, cuerpos de dos párrafos, URL fuente y foto en H/Q seleccionada sin validación técnica ni visual, sin duplicados detectados con revisión previa.
-Embeds K: 0 oportunistas, 21 vacías para radar especializado.
-Disparar Sync RanaSports news feed.
+RANASPORTS — CORRECCIÓN CRONOLOGÍA DE RECUPERACIÓN — 16/11/2026 ARG
+Filas corregidas: Noticias!4810:4830 (21 notas)
+Cambios: únicamente columnas B (Fecha) y C (Hora); marcas de publicación original tomadas de TyC Sports, DeporTV, Solo Ascenso y Motorsport. En el caso de la nota de UAR sin hora visible, se usó publicación contemporánea del resultado de DeporTV a las 10:43 ARG.
+Rango cronológico real de las noticias: del 13/11/2026 18:59 al 15/11/2026 23:48. El horario de Motorsport.com se registró como muestra la fuente, sin conversión de zona horaria no informada.
+Estado: 21 filas corregidas y releídas en Google Sheets. Sin cambios de título, texto, fotos ni bloqueo manual.
+Disparar Sync RanaSports news feed para actualizar assets/news-live.csv/news-archive.csv.
