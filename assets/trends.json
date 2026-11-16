@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-15T21:46:54.241Z",
+  "updatedAt": "2026-11-16T01:25:42.603Z",
   "trends": [
     {
-      "query": "douglas haig",
-      "startedAt": "2026-11-15T21:30:00.000Z",
+      "query": "escudería",
+      "startedAt": "2026-11-16T01:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "alineaciones de selección de fútbol de españa contra selección de fútbol de inglaterra",
-      "startedAt": "2026-11-15T21:20:00.000Z",
+      "query": "fernando confessore",
+      "startedAt": "2026-11-16T01:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "san juan",
-      "startedAt": "2026-11-15T21:20:00.000Z",
+      "query": "eva bargiela",
+      "startedAt": "2026-11-16T00:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "james trafford",
-      "startedAt": "2026-11-15T21:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "norberto marcos",
-      "startedAt": "2026-11-15T21:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sarmiento de la banda",
-      "startedAt": "2026-11-15T21:00:00.000Z",
+      "query": "contrabando",
+      "startedAt": "2026-11-16T00:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "feriados de noviembre 2026",
-      "startedAt": "2026-11-15T20:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "wta finals",
-      "startedAt": "2026-11-15T20:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "mirra andreeva",
-      "startedAt": "2026-11-15T20:30:00.000Z",
+      "query": "wizards - rockets",
+      "startedAt": "2026-11-16T00:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "epicentro",
-      "startedAt": "2026-11-15T20:30:00.000Z",
-      "volume": 500
+      "query": "ryan gosling",
+      "startedAt": "2026-11-16T00:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "dia de la soberania nacional",
+      "startedAt": "2026-11-16T00:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "maria becerra",
+      "startedAt": "2026-11-16T00:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "jubilados",
+      "startedAt": "2026-11-16T00:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "cowboys - 49ers",
+      "startedAt": "2026-11-16T00:20:00.000Z",
+      "volume": 100
     }
   ]
 }
