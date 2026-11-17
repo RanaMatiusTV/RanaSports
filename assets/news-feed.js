@@ -27,6 +27,52 @@
  const normalize=v=>(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase();
  const categoryAlias={'otros deportes':'otros','formula 1':'f1','formula uno':'f1','futbol argentino':'futbol','seleccion argentina':'seleccion','boca juniors':'boca','river plate':'river','racing club':'racing','velez sarsfield':'velez'};
  const categoryLabel={boca:'Boca',river:'River',racing:'Racing',velez:'Vélez',f1:'F1',seleccion:'Selección Argentina',futbol:'Fútbol'};
+ const FOOTBALL_CLUBS=[["Independiente","independiente"],["Boca Juniors","boca|boca juniors|xeneize|xeneizes"],["River Plate","river|river plate|millonario|millonarios"],["Racing Club","racing|racing club|academia"],["San Lorenzo","san lorenzo|ciclon"],["Huracán","huracan|globo"],["Vélez Sarsfield","velez|velez sarsfield|fortin"],["Estudiantes de La Plata","estudiantes|estudiantes de la plata|pincha"],["Gimnasia y Esgrima La Plata","gimnasia la plata|gimnasia y esgrima la plata|lobo platense"],["Argentinos Juniors","argentinos juniors|bicho"],["Rosario Central","rosario central|canalla"],["Newell's Old Boys","newell|newells|newell s old boys|lepra rosarina"],["Talleres de Córdoba","talleres|talleres de cordoba|talleres cordoba"],["Belgrano","belgrano|belgrano de cordoba|pirata"],["Instituto","instituto|instituto de cordoba|gloria"],["Unión de Santa Fe","union|union de santa fe|tatengue"],["Colón de Santa Fe","colon de santa fe|colon|sabalero"],["Atlético Tucumán","atletico tucuman|decano"],["Lanús","lanus|granate"],["Banfield","banfield|taladro"],["Defensa y Justicia","defensa y justicia|halcon de varela"],["Platense","platense|calamar"],["Tigre","tigre|matador de victoria"],["Godoy Cruz","godoy cruz|tomba"],["Central Córdoba (SdE)","central cordoba|central cordoba de santiago"],["Independiente Rivadavia","independiente rivadavia|lepra mendocina"],["Deportivo Riestra","riestra|deportivo riestra"],["Sarmiento de Junín","sarmiento de junin|sarmiento junin"],["Aldosivi","aldosivi|tiburon"],["Barracas Central","barracas central|guapo"],["Gimnasia de Mendoza","gimnasia de mendoza|gimnasia mendoza"],["Estudiantes de Río Cuarto","estudiantes de rio cuarto|estudiantes rio cuarto"],["San Martín de San Juan","san martin de san juan|san martin san juan"],["San Martín de Tucumán","san martin de tucuman|san martin tucuman"],["Chacarita Juniors","chacarita|chacarita juniors|funebrero"],["Ferro Carril Oeste","ferro|ferro carril oeste"],["Quilmes","quilmes|cervecero"],["Temperley","temperley|gasolero"],["Almirante Brown","almirante brown|fragata"],["Atlanta","atlanta|bohemio"],["Nueva Chicago","nueva chicago|torito de mataderos"],["Los Andes","los andes|milrayitas"],["All Boys","all boys|albo"],["San Telmo","san telmo|candombero"],["Tristán Suárez","tristan suarez"],["Deportivo Morón","deportivo moron|moron|gallito"],["Almagro","almagro|tricolor"],["Racing de Córdoba","racing de cordoba|racing cordoba"],["Güemes (SdE)","guemes de santiago|guemes santiago|guemes"],["Mitre (SdE)","mitre de santiago|mitre santiago"],["Agropecuario","agropecuario|agropecuario argentino"],["Patronato","patronato|patron"],["Estudiantes de Caseros","estudiantes de caseros|estudiantes caseros"],["Arsenal de Sarandí","arsenal de sarandi|arsenal sarandi"],["Defensores de Belgrano","defensores de belgrano|dragon"],["Deportivo Maipú","deportivo maipu|maipu"],["Gimnasia de Jujuy","gimnasia de jujuy|gimnasia jujuy"],["Gimnasia y Tiro","gimnasia y tiro"],["Alvarado","alvarado"],["Guillermo Brown","guillermo brown"],["Chaco For Ever","chaco for ever|chaco forever"],["Deportivo Madryn","deportivo madryn"],["San Martín de Formosa","san martin de formosa|san martin formosa"],["Ferro de General Pico","ferro de general pico|ferro general pico"],["Olimpo","olimpo"],["Villa Dálmine","villa dalmine"],["Dock Sud","dock sud"],["Excursionistas","excursionistas"],["Comunicaciones","comunicaciones"],["Argentino de Quilmes","argentino de quilmes"],["Argentino de Merlo","argentino de merlo"],["Deportivo Armenio","deportivo armenio"],["Acassuso","acassuso"],["Colegiales","colegiales"],["Flandria","flandria"],["Brown de Adrogué","brown de adrogue"],["Defensores Unidos","defensores unidos"],["Midland","midland"],["Sacachispas","sacachispas"],["Ituzaingó","ituzaingo"],["Berazategui","berazategui"],["Laferrere","laferrere|deportivo laferrere"],["Liniers","liniers"],["General Lamadrid","general lamadrid"],["Sportivo Italiano","sportivo italiano"],["Sportivo Belgrano","sportivo belgrano"],["Douglas Haig","douglas haig"],["Crucero del Norte","crucero del norte"],["Juventud Antoniana","juventud antoniana"],["Cipolletti","cipolletti"],["Sol de América","sol de america de formosa"],["9 de Julio (Rafaela)","9 de julio de rafaela"],["Atlético de Rafaela","atletico de rafaela|atletico rafaela"],["Gimnasia de Concepción","gimnasia de concepcion"],["Ciudad de Bolívar","ciudad de bolivar"],["Independiente de Chivilcoy","independiente de chivilcoy"],["Deportivo Rincón","deportivo rincon"],["Círculo Deportivo","circulo deportivo"]];
+ const FOOTBALL_TOURNAMENTS=[["Liga Profesional","liga profesional|liga argentina|primera division argentina"],["Torneo Apertura","torneo apertura|apertura 2026"],["Torneo Clausura","torneo clausura|clausura 2026"],["Copa Argentina","copa argentina"],["Copa de la Liga","copa de la liga"],["Supercopa Argentina","supercopa argentina"],["Trofeo de Campeones","trofeo de campeones"],["Recopa de Campeones","recopa de campeones"],["Primera Nacional","primera nacional|segunda division argentina"],["Primera B Metropolitana","primera b metropolitana|primera b metro"],["Primera C","primera c"],["Federal A","federal a|torneo federal a"],["Copa Libertadores","copa libertadores|libertadores"],["Copa Sudamericana","copa sudamericana|sudamericana"],["Recopa Sudamericana","recopa sudamericana"],["Champions League","champions league|liga de campeones"],["Europa League","europa league"],["UEFA Nations League","uefa nations league|nations league"],["Mundial de Clubes","mundial de clubes"],["Mundial Sub-17","mundial sub 17|mundial sub-17"],["Mundial Sub-20","mundial sub 20|mundial sub-20"],["Copa Libertadores Sub-20","libertadores sub 20|libertadores sub-20"],["Copa Federal","copa federal"],["Copa de la Superliga","copa de la superliga"]];
+
+ // Taxonomía de fútbol: se crean opciones solo si existen noticias publicadas para ellas.
+ const simpleSlug=value=>normalize(value).replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+ const footballText=value=>' '+normalize(value).replace(/[^a-z0-9]+/g,' ').replace(/\s+/g,' ').trim()+' ';
+ const footballHas=(text,words)=>text.includes(' '+words+' ');
+ const footballClubs=FOOTBALL_CLUBS;
+ const footballTournaments=FOOTBALL_TOURNAMENTS;
+ const footballClubDefs=footballClubs.map(([name,aliases])=>({key:simpleSlug(name),label:name,aliases:aliases.split('|').map(x=>footballText(x).trim())}));
+ const footballTournamentDefs=footballTournaments.map(([name,aliases])=>({key:simpleSlug(name),label:name,aliases:aliases.split('|').map(x=>footballText(x).trim())}));
+ const genericFootballCategories=/^(?:futbol|futbol argentino|futbol internacional|futbol femenino|internacional|argentinos por el mundo|argentina|seleccion argentina|seleccion argentina sub[- ]?\d+|superclasico|ascenso|reserva|mercado internacional|mundial sub[- ]?\d+|messi|maradona)$/;
+ const nonFootballCategories=/^(?:f1|formula 1|formula uno|formula 2|formula 3|automovilismo|motogp|tenis|rugby|basquet|polideportivo|ciclismo|natacion|padel|voley|voley playa|judo|atletismo|boxeo|ufc|vela|gimnasia|tenis de mesa|remo|wushu|equitacion|skate|hockey|nba)$/;
+ function classifyFootball(category,title,summary){
+  const cat=footballText(category),heading=footballText(title),excerpt=footballText(summary);
+  const catRaw=normalize(category);
+  const isOtherSport=nonFootballCategories.test(catRaw);
+  const youthMatch=(category+' '+title).match(/\bsub[\s-]*(1[0-9]|2[0-3])\b/i);
+  const youth=youthMatch?'Sub-'+youthMatch[1]:'';
+  const titleArgentine=/\b(?:seleccion argentina|argentina|albiceleste|la sub[- ]?\d+ argentina)\b/i.test(heading);
+  const categoryArgentine=/seleccion argentina/.test(catRaw);
+  const isFutsal=/(?:^futsal$|futsal|futbol sala)/.test(catRaw+' '+normalize(title));
+  const selection=(!isFutsal&&(categoryArgentine||titleArgentine&&youth||/seleccion argentina|seleccion mayor|seleccion de argentina/.test(heading)))?(youth?'sub-'+youth.slice(4):'mayor'):'';
+  const clubNames=[];
+  const combined=cat+heading;
+  for(const club of footballClubDefs){
+   // Priorizar la categoría, luego el título: no sumar clubes nombrados incidentalmente en el cuerpo.
+   if(club.aliases.some(alias=>footballHas(combined,alias))){
+    if(club.key==='independiente'&&footballHas(combined,'independiente rivadavia')&&!footballHas(cat,'independiente')&&!/\bindependiente (?:de avellaneda|cai)\b/.test(combined))continue;
+    if(club.key==='racing-club'&&footballHas(combined,'racing de cordoba')&&!footballHas(cat,'racing')&&!footballHas(cat,'racing club'))continue;
+    if(club.key==='estudiantes-de-la-plata'&&footballHas(combined,'estudiantes de rio cuarto')&&!footballHas(cat,'estudiantes'))continue;
+    if(club.key==='ferro-carril-oeste'&&footballHas(combined,'ferro de general pico')&&!footballHas(cat,'ferro'))continue;
+    clubNames.push(club.key);
+   }
+  }
+  const tournaments=[];
+  for(const competition of footballTournamentDefs){
+   if(competition.aliases.some(alias=>footballHas(combined,alias)))tournaments.push(competition.key);
+  }
+  if(!isOtherSport && /^(?:copa |liga |torneo |supercopa |recopa |primera nacional|primera b |primera c|federal a|champions|uefa|mundial sub)/.test(catRaw) && !tournaments.length){
+   tournaments.push(simpleSlug(category));
+  }
+  const football=!isOtherSport&&(selection!==''||clubNames.length>0||tournaments.length>0||genericFootballCategories.test(catRaw)||/\bfutbol\b/.test(catRaw)||/^(?:copa |liga |torneo |supercopa |recopa |primera |federal |mundial sub)/.test(catRaw));
+  return {football,clubs:football?clubNames:[],tournaments:football?tournaments:[],selection:football?selection:''};
+ }
+
  const required=['Publicar','Fecha','Hora','Categoría','Título','Resumen','URL nota','URL imagen','Fuente','URL fuente','URL video'].map(normalize);
  const dateFormat=new Intl.DateTimeFormat('es-AR',{timeZone:'America/Argentina/Buenos_Aires',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit',hour12:false});
 
@@ -362,17 +408,34 @@
  function readNews(text){
   const [first,...rows]=parseCSV(text);if(!first)throw new Error('CSV sin encabezados');
   const keys=first.map(normalize);if(!required.every(k=>keys.includes(k)))throw new Error('Encabezados inválidos');
-  const available=new Map();rows.forEach(values=>{const sport=(values[keys.indexOf('categoria')]||'').trim();if(!sport)return;let key=normalize(sport);key=categoryAlias[key]||key;available.set(key,categoryLabel[key]||sport);});
-  document.dispatchEvent(new CustomEvent('ranasports:categories',{detail:[...available]}));
-  return rows.flatMap(values=>{
+  const items=rows.flatMap(values=>{
    if(values.length!==keys.length)return [];
    const row=Object.fromEntries(keys.map((k,i)=>[k,(values[i]||'').trim()]));if(normalize(row.publicar)!=='si')return [];
    let category=normalize(row.categoria);category=categoryAlias[category]||category;
    const date=timestamp(row.fecha,row.hora);if(!category||!row.titulo||!row.resumen||date===null)return [];
+   const footballInfo=classifyFootball(row.categoria,row.titulo,row.resumen);
+   const youthLabel=footballInfo.selection.startsWith('sub-')?'Selección Argentina Sub-'+footballInfo.selection.slice(4):'';
+   const sportLabel=youthLabel||categoryLabel[category]||row.categoria;
    const video=imageDataURL(row['url video'])||safeURL(row['url video']);const video2=imageDataURL(row['url video 2'])||safeURL(row['url video 2']);const hasYouTubeVideo=!!youtubeEmbedURL(video),hasFormula1Video=!!formula1EmbedURL(video),hasXPost=isXPost(video),hasVideo=!!video&&!hasXPost,hasEmbed=!!video;
    const eventText=normalize([row.categoria,row.titulo,row.resumen,row.fuente,row['url fuente']].filter(Boolean).join(' '));const isSuramericanos=/(juegos suramericanos|santa fe 2026|santafe2026)/.test(eventText);
-   return [{category,group:Object.hasOwn(categories,category)?category:'otros',sport:category==='seleccion'?'Selección Argentina':row.categoria,isSuramericanos,photoCredit:row['credito foto']||'',imageStatus:normalize(row['estado imagen']||''),date,title:row.titulo,summary:row.resumen,body:row.cuerpo||row.contenido||row['texto completo']||'',note:safeURL(row['url nota']),image:imageURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video,video2,extraImage:imageDataURL(row['url imagen candidata']),featured:normalize(row.destacada)==='si',hasYouTubeVideo,hasFormula1Video,hasVideo,hasXPost,hasEmbed}];
+   return [{category,group:Object.hasOwn(categories,category)?category:'otros',sport:sportLabel,footballInfo,isSuramericanos,photoCredit:row['credito foto']||'',imageStatus:normalize(row['estado imagen']||''),date,title:row.titulo,summary:row.resumen,body:row.cuerpo||row.contenido||row['texto completo']||'',note:safeURL(row['url nota']),image:imageURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video,video2,extraImage:imageDataURL(row['url imagen candidata']),featured:normalize(row.destacada)==='si',hasYouTubeVideo,hasFormula1Video,hasVideo,hasXPost,hasEmbed}];
   }).sort((a,b)=>b.date-a.date);
+  const available=new Map();
+  const clubs=new Set(),tournaments=new Set(),youth=new Set();
+  for(const item of items){
+   available.set(item.category,categoryLabel[item.category]||item.sport);
+   for(const name of item.footballInfo.clubs)clubs.add(name);
+   for(const name of item.footballInfo.tournaments)tournaments.add(name);
+   if(item.footballInfo.selection.startsWith('sub-'))youth.add(item.footballInfo.selection);
+  }
+  const menu={
+   clubs:[...clubs].map(key=>{const found=footballClubDefs.find(x=>x.key===key);return [key,found?.label||key];}).sort((a,b)=>a[1].localeCompare(b[1],'es')),
+   tournaments:[...tournaments].map(key=>{const found=footballTournamentDefs.find(x=>x.key===key);const category=items.find(x=>x.footballInfo.tournaments.includes(key));return [key,found?.label||category?.sport||key];}).sort((a,b)=>a[1].localeCompare(b[1],'es')),
+   youth:[...youth].map(key=>[key,'Sub-'+key.slice(4)]).sort((a,b)=>Number(a[0].slice(4))-Number(b[0].slice(4)))
+  };
+  document.dispatchEvent(new CustomEvent('ranasports:categories',{detail:[...available]}));
+  document.dispatchEvent(new CustomEvent('ranasports:football-navigation',{detail:menu}));
+  return items;
  }
  function appendArticlePhoto(item){
   const candidates=fallbackVisualCandidates(item),primary=candidates.shift()||'';
@@ -457,7 +520,14 @@
   if(detail){renderDetail(news);document.dispatchEvent(new Event('ranasports:news-updated'));return;}if(!grid)return;const fragment=document.createDocumentFragment();
   const query=normalize(searchInput?.value||'');
   const eventOnly=decodeURIComponent(location.hash.slice(1))==='suramericanos-2026';
-  let filtered=eventOnly?news.filter(item=>item.isSuramericanos):news;if(query)filtered=filtered.filter(item=>matchesSearch(item,query));
+  let filtered=eventOnly?news.filter(item=>item.isSuramericanos):news;
+  const section=decodeURIComponent(location.hash.slice(1));
+  if(section==='futbol')filtered=filtered.filter(item=>item.footballInfo.football);
+  else if(section.startsWith('club:'))filtered=filtered.filter(item=>item.footballInfo.clubs.includes(section.slice(5)));
+  else if(section.startsWith('torneo:'))filtered=filtered.filter(item=>item.footballInfo.tournaments.includes(section.slice(7)));
+  else if(section==='seleccion'||section==='seleccion-mayor')filtered=filtered.filter(item=>item.footballInfo.selection==='mayor');
+  else if(section.startsWith('seleccion-sub-'))filtered=filtered.filter(item=>item.footballInfo.selection==='sub-'+section.slice(14));
+  if(query)filtered=filtered.filter(item=>matchesSearch(item,query));
   // No adelantar destacadas antiguas: la portada se recorre solo por fecha y hora.
   const visibleNews=filtered.slice(0,renderLimit);
   // Al hacer scroll, conservar las tarjetas y sus imágenes ya renderizadas.
@@ -465,11 +535,12 @@
   const canAppend=appendPage&&alreadyLoaded>0&&alreadyLoaded<visibleNews.length;
   (canAppend?visibleNews.slice(alreadyLoaded):visibleNews).forEach((item,offset)=>{
    const index=offset+(canAppend?alreadyLoaded:0);
-   const card=element('article','news-card');card.dataset.category=item.group;card.dataset.sport=item.category;card.dataset.suramericanos=item.isSuramericanos?'1':'0';card.dataset.featured=item.featured?'1':'0';const body=element('div','card-body');
+   const card=element('article','news-card');card.dataset.category=item.group;card.dataset.sport=item.category;card.dataset.football=item.footballInfo.football?'1':'0';card.dataset.clubs=item.footballInfo.clubs.join(',');card.dataset.tournaments=item.footballInfo.tournaments.join(',');card.dataset.selection=item.footballInfo.selection;card.dataset.suramericanos=item.isSuramericanos?'1':'0';card.dataset.featured=item.featured?'1':'0';const body=element('div','card-body');
    {const candidates=fallbackVisualCandidates(item),primary=candidates.shift()||'';if(primary){const visual=link(articleURL(item),'','card-visual news-image'),img=element('img');img.alt=item.title;img.width=800;img.height=450;img.loading=index<4?'eager':'lazy';if(index<2)img.fetchPriority='high';img.decoding='async';img.referrerPolicy='no-referrer';imageWithFallback(img,primary,candidates,()=>{visual.remove();queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));});visual.append(img);card.append(visual);}else{queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));}}
    const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':item.category==='agenda'?'badge-agenda':'badge-site'),item.sport));const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);body.append(meta);const heading=element('h3');heading.append(link(articleURL(item),item.title));body.append(heading,element('p','news-excerpt',item.summary));const actions=element('div','hero-actions');actions.append(link(articleURL(item),'Leer →','read-more'));body.append(actions);card.append(body);fragment.append(card);});
   if(canAppend)grid.append(fragment);else grid.replaceChildren(fragment);mountLoadMore(filtered.length);document.dispatchEvent(new Event('ranasports:news-updated'));
  }
+ window.addEventListener('hashchange',()=>{renderLimit=INITIAL_RENDER_LIMIT;if(currentNews.length&&!detail)render(currentNews);});
  let snapshot=false,busy=false;
  let lastGoodNews=[];
  const newsIdentity=item=>item.category+'\n'+item.date+'\n'+item.title;
