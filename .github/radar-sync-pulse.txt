@@ -1,10 +1,15 @@
-RANASPORTS — RECUPERACION NOTICIAS 36 HORAS — 16/11/2026 19:00 ARG
-Ventana solicitada: 15/11/2026 07:00 a 16/11/2026 19:00 Argentina
-Altas verificadas en la planilla: 20
-Filas: Noticias!4831:4850
-Última noticia: STANG RECORDÓ SUS INICIOS JUNTO A COLAPINTO Y HABLÓ DE LA DEFINICIÓN DEL TC2000
-Contenido: 20 notas periodísticas con fecha y hora individual según primeras fuentes verificables, 2 párrafos, URL de fuente y H directo sin inspección fotográfica. 3 noticias surgidas el domingo 15 y 17 del lunes 16. R=FALSE en las 20. Sin modificaciones de notas históricas.
-Fuentes: TyC Sports y sitio oficial Vélez Sarsfield.
-K oportunistas: 0; 20 vacías para radar de embeds.
-Ordenar estrictamente por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar 20 noticias en CSV público.
+RANASPORTS — RADAR 1 COBERTURA 6 HORAS — 16/11/2026 23:45 ARG
+Ventana revisada: 16/11/2026 15:45 a 23:45 Argentina (6 horas más 2 horas de solapamiento)
+Altas verificadas y releídas en la planilla: 4
+Filas: Noticias!4851:4854
+Títulos:
+- COLAPINTO MARCÓ EL FRÍO Y LOS NEUMÁTICOS COMO CLAVES PARA ALPINE EN LAS VEGAS
+- ALEMANIA GOLEÓ 5-0 A PAÍSES BAJOS Y GANÓ SU GRUPO EN LA NATIONS LEAGUE
+- VÉLEZ CONFIRMÓ UN DESGARRO DE ROBERTONE Y LO PIERDE PARA LOS PLAYOFFS
+- BOCA VENCIÓ 2-0 A FERRO Y QUEDÓ A UN PASO DEL TÍTULO FEMENINO
+Última noticia cronológica: BOCA VENCIÓ 2-0 A FERRO Y QUEDÓ A UN PASO DEL TÍTULO FEMENINO
+Contenido: 4 notas distintas con fecha y hora de primera difusión verificable, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TyC Sports, Página/12, Boca Juniors, AFA, fuente oficial ATP y coberturas de apoyo.
+K oportunistas: 0 incorporados; 4 vacíos para el radar de embeds.
+Ordenar por fecha y hora descendentes, nunca por fila de carga.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4851:4854 en el CSV público.
