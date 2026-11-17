@@ -1,25 +1,19 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 17/11/2026 06:55 ARG
-Ventana principal revisada: 17/11/2026 00:45 a 06:45 Argentina, con dos horas de solapamiento y auditoría de omisiones de 24 horas; una omisión deportiva se recuperó dentro de la extensión a 48 horas.
-Altas verificadas y releídas en la planilla: 11
-Filas: Noticias!4863:4873
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 17/11/2026 09:48 ARG
+Ventana principal revisada: 17/11/2026 06:45 a 09:45 Argentina, con dos horas de solapamiento desde las 04:45 y control de omisiones y duplicados sobre el bloque reciente.
+Altas verificadas y releídas en la planilla: 5
+Filas: Noticias!4874:4878
 Títulos:
-- INSTITUTO VENCIÓ 82-70 A SAN LORENZO Y SUBIÓ AL SEGUNDO PUESTO DE LA LIGA NACIONAL
-- BOCA TIENE A NICOLÁS TAGLIAFICO EN EL RADAR SI VENDE A LAUTARO BLANCO
-- LEANDRO PAREDES COMENZÓ EL CURSO DE ENTRENADOR Y PROYECTA UNA DUPLA CON DI MARÍA
-- FIFPRO LOGRÓ QUE 48 FUTBOLISTAS COBRARAN CASI MEDIO MILLÓN DE DÓLARES EN DEUDAS
-- UN TESTIGO RELATÓ EL IMPACTO QUE SUFRIÓ ABEL NÚÑEZ EN EL PARTIDO DE FC EZEIZA
-- MURIÓ DINO SANI, CAMPEÓN DEL MUNDO CON BRASIL Y EXJUGADOR Y DT DE BOCA
-- RACING DE OLAVARRÍA LOGRÓ UN ASCENSO HISTÓRICO CON ONCE JUGADORES DE LA CIUDAD
-- MICAELA LEVAGGI GANÓ LA MILLA URBANA DEL SUDAMERICANO Y KAREN ROCCA FUE BRONCE
-- NATACHA CASTAÑO FUE SEGUNDA EN EL SUDAMERICANO DE MARATÓN Y ANGELINA REYES TERMINÓ CUARTA
-- EULALIO MUÑOZ GANÓ EL BRONCE EN EL SUDAMERICANO DE MARATÓN DE SANTIAGO
-- UN EQUIPO ARGENTINO TERMINÓ TERCERO EN SU CATEGORÍA EN LA BAJA 1000 DE MÉXICO
-Última noticia cronológica del lote: INSTITUTO VENCIÓ 82-70 A SAN LORENZO Y SUBIÓ AL SEGUNDO PUESTO DE LA LIGA NACIONAL — 16/11/2026 23:49 ARG.
-Última noticia cronológica de la planilla: DAKAR 2026: ARGENTINA CERRÓ CON SEIS MEDALLAS, DOS OROS Y CUATRO BRONCES — 17/11/2026 01:45 ARG, fila 4862.
-Contenido: 11 notas distintas con fecha y hora de primera difusión verificable, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TyC Sports, DeporTV, Liga Nacional de Básquet, Argentina Deportiva, FIFPRO, FIFA, CBF y Confederación Argentina de Atletismo.
-K oportunistas: 0 incorporados; 11 vacíos para el radar de embeds.
-Total acumulado con marca temporal dentro de las últimas 24 horas: 39 notas.
-Pendientes por imagen no apta o inaccesible: circular de zona de capitanes, descargo del arquero de Comunicaciones y acuerdo verbal Independiente-Tigre por Santi López.
+- CUATRO JUVENILES DE RIVER DEJARÁN EL CLUB AL VENCER EL PLAZO PARA SU PRIMER CONTRATO
+- BOCA PUEDE LOGRAR CINCO TÍTULOS EN 43 DÍAS Y ROMPER UN RÉCORD CENTENARIO
+- CUATRO SOBREVIVIENTES DEL ESCÁNDALO DE 2021 VOLVERÁN A CRUZARSE EN BOCA-MINEIRO
+- ITALIA QUEDÓ ELIMINADA DE LA NATIONS LEAGUE TRAS CAER 4-1 ANTE BÉLGICA
+- ECUADOR PERDIÓ A GONZALO PLATA Y DENIL CASTILLO PARA EL AMISTOSO ANTE BOLIVIA
+Última noticia cronológica del lote y de la planilla: ITALIA QUEDÓ ELIMINADA DE LA NATIONS LEAGUE TRAS CAER 4-1 ANTE BÉLGICA — 17/11/2026 08:59 ARG, fila 4877.
+Contenido: 5 notas distintas con fecha y hora de primera difusión verificable, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TyC Sports; contraste de agenda y cobertura con Clarín, Infobae, Olé y medios oficiales/regionales.
+K oportunistas: 0 incorporados; 5 vacíos para el radar de embeds.
+Total acumulado con marca temporal dentro de las últimas 24 horas: 38 notas.
+Duplicados descartados: salida de Walter Samuel, formación de Argentina, Conan Ledesma, Cannavo, Colapinto, Deportivo Madryn, Sub-17 y Hollie Davidson.
+Pendientes por falta de imagen H directa en búsqueda breve: aforo previsto del Kempes y acusaciones internas sobre la conducción de Ferrari.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4863:4873 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4874:4878 en el CSV público.
