@@ -1,19 +1,24 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 17/11/2026 12:48 ARG
-Ventana principal revisada: 17/11/2026 09:45 a 12:45 Argentina, con dos horas de solapamiento desde las 07:45 y control de omisiones y duplicados sobre el bloque reciente.
-Altas verificadas y releídas en la planilla: 5
-Filas: Noticias!4879:4883
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 17/11/2026 15:56 ARG
+Ventana principal revisada: 17/11/2026 12:45 a 15:45 Argentina, con dos horas de solapamiento desde las 10:45 y control de omisiones y duplicados sobre el bloque reciente.
+Altas verificadas y releídas en la planilla: 10
+Filas: Noticias!4884:4893
 Títulos:
-- BRASIL GOLEÓ 7-0 A SINGAPUR CON EL PRIMER HAT-TRICK DE VINÍCIUS EN LA SELECCIÓN
-- PARAGUAY VENCIÓ 2-1 A JAPÓN CON DOS GOLES DE PELOTA PARADA
-- LA AFA ORDENÓ MAYOR RIGOR ANTE PROTESTAS Y AGARRONES EN LOS PLAYOFFS DEL CLAUSURA
-- LOS PUMAS DEFINIRÁN ANTE FRANCIA SU POSICIÓN EN EL NATIONS CHAMPIONSHIP
-- ROMARIO VOLVIÓ A PEDIR LA SALIDA DE ANCELOTTI DE LA SELECCIÓN DE BRASIL
-Última noticia cronológica del lote y de la planilla: PARAGUAY VENCIÓ 2-1 A JAPÓN CON DOS GOLES DE PELOTA PARADA — 17/11/2026 12:07 ARG, fila 4880.
-Contenido: 5 notas distintas con fecha y hora de primera difusión verificable, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: LA NACION, Diario AS, La Capital, TN y Mundo Deportivo; contraste con CBF, ABC Color, UOL y agenda TyC Sports.
-K oportunistas: 0 incorporados; 5 vacíos para el radar de embeds.
-Total acumulado con marca temporal dentro de las últimas 24 horas: 36 notas.
-Duplicados o servicios descartados: formación y previa Argentina-Costa Rica, agenda general, cuadro de octavos ya cubierto, baja arbitral de Los Pumas ya cubierta y muerte de Dino Sani ya publicada.
-Pendientes: debut de La Natividad-La Dolfina en Palermo a la espera de resultado; Ferrari/Vasseur sin imagen H directa localizada en búsqueda breve.
+- RIVER RECUPERÓ A JUAN CRUZ MEZA, PERO VERA Y MORENO SIGUEN DIFERENCIADOS
+- MUNICIPAL DE LAISHÍ HIZO HISTORIA Y QUEDÓ A UN PASO DE PELEAR POR EL FEDERAL A
+- LA SELECCIÓN ARGENTINA FIRMÓ CAMISETAS Y SE SACÓ FOTOS CON LOS HINCHAS EN CÓRDOBA
+- BATTAGLIA VOLVIÓ A ENTRENARSE CON NORMALIDAD Y VIAJARÁ CON BOCA A BARRANQUILLA
+- BOCA AGOTÓ SU SECTOR Y PROYECTA MÁS DE 30 MIL HINCHAS EN LA FINAL DE LA SUDAMERICANA
+- FIFA INHIBIÓ A ARGENTINOS JUNIORS POR TRES MERCADOS DE PASES
+- ARGENTINOS VOLVIÓ A ENTRENARSE ANTES DE RECIBIR A INDEPENDIENTE
+- EL TORNEO ARGENTINO DEL INTERIOR 2027 PROYECTA 64 EQUIPOS Y SEIS ASCENSOS
+- MILTON DELGADO DEJÓ LA PRÁCTICA DE BOCA Y SE REALIZARÁ ESTUDIOS EN LA RODILLA
+- INDEPENDIENTE FIJÓ SU POSTURA ANTE LOS RUMORES DE VENTA DE SANTI LÓPEZ A TIGRE
+Última noticia cronológica del lote y de la planilla: BOCA AGOTÓ SU SECTOR Y PROYECTA MÁS DE 30 MIL HINCHAS EN LA FINAL DE LA SUDAMERICANA — 17/11/2026 15:15 ARG, fila 4888.
+Contenido: 10 notas distintas con fecha y hora de primera difusión verificable, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TyC Sports; contraste con LA NACION, Consejo Federal de AFA y Ascenso del Interior. También se revisaron agenda y secciones de tenis, básquet, rugby, automovilismo y polideportivo.
+K oportunistas: 0 incorporados; 10 vacíos para el radar de embeds.
+Total acumulado con marca temporal dentro de las últimas 24 horas: 40 notas.
+Duplicados o servicios descartados: Paraguay-Japón ya publicado, continuidad del alta progresiva de Meza sin novedad hasta la confirmación médica, agendas y previas Argentina-Costa Rica, y resultados todavía no cerrados.
+Pendientes: Independiente-Newell's femenino, Rusia-Venezuela, Uruguay Open y el debut de Palermo sin resultado oficial definitivo al cierre; se recuperan en la siguiente corrida si finalizan fuera de ventana.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4879:4883 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4884:4893 en el CSV público.
