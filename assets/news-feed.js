@@ -516,7 +516,30 @@
    loadMoreObserver.observe(more);
   }
  }
+ let historicalFootballNews=null,footballArchiveRequest=null,footballArchiveUnavailable=false;
+ function footballArchiveRoute(){
+  const section=decodeURIComponent(location.hash.slice(1));
+  return section==='futbol'||section==='seleccion'||section==='seleccion-mayor'||section==='independiente'||section.startsWith('club:')||section.startsWith('torneo:')||section.startsWith('seleccion-sub-');
+ }
+ function fetchFootballArchive(){
+  if(historicalFootballNews||footballArchiveRequest||footballArchiveUnavailable)return;
+  footballArchiveRequest=fetch(ARCHIVE_URL,{cache:'no-cache',credentials:'omit'})
+   .then(response=>{if(!response.ok)throw Error('Archivo no disponible');return response.text();})
+   .then(text=>{
+    const all=readNews(text);
+    if(!all.length)throw Error('Archivo sin noticias');
+    historicalFootballNews=all;
+    if(!detail&&footballArchiveRoute())render(lastGoodNews.length?lastGoodNews:currentNews);
+   })
+   .catch(()=>{footballArchiveUnavailable=true;})
+   .finally(()=>{footballArchiveRequest=null;});
+ }
  function render(news,appendPage=false){
+  if(!detail&&footballArchiveRoute()&&historicalFootballNews){
+   const identity=item=>item.category+'|'+item.date+'|'+item.title;
+   const seen=new Set(news.map(identity));
+   news=[...news,...historicalFootballNews.filter(item=>!seen.has(identity(item)))];
+  }
   news=news.filter(item=>!REVOKED_ARTICLE_IDS.has(articleToken(item))).sort((a,b)=>b.date-a.date);
   currentNews=news;
   if(detail){renderDetail(news);document.dispatchEvent(new Event('ranasports:news-updated'));return;}if(!grid)return;const fragment=document.createDocumentFragment();
@@ -542,7 +565,7 @@
    const card=element('article','news-card');card.dataset.category=item.group;card.dataset.sport=item.category;card.dataset.football=item.footballInfo.football?'1':'0';card.dataset.clubs=item.footballInfo.clubs.join(',');card.dataset.tournaments=item.footballInfo.tournaments.join(',');card.dataset.selection=item.footballInfo.selection;card.dataset.suramericanos=item.isSuramericanos?'1':'0';card.dataset.featured=item.featured?'1':'0';const body=element('div','card-body');
    {const candidates=fallbackVisualCandidates(item),primary=candidates.shift()||'';if(primary){const visual=link(articleURL(item),'','card-visual news-image'),img=element('img');img.alt=item.title;img.width=800;img.height=450;img.loading=index<4?'eager':'lazy';if(index<2)img.fetchPriority='high';img.decoding='async';img.referrerPolicy='no-referrer';imageWithFallback(img,primary,candidates,()=>{visual.remove();queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));});visual.append(img);card.append(visual);}else{queueMicrotask(()=>document.dispatchEvent(new Event('ranasports:news-updated')));}}
    const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':item.category==='agenda'?'badge-agenda':'badge-site'),item.sport));const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);body.append(meta);const heading=element('h3');heading.append(link(articleURL(item),item.title));body.append(heading,element('p','news-excerpt',item.summary));const actions=element('div','hero-actions');actions.append(link(articleURL(item),'Leer →','read-more'));body.append(actions);card.append(body);fragment.append(card);});
-  if(canAppend)grid.append(fragment);else grid.replaceChildren(fragment);mountLoadMore(filtered.length);document.dispatchEvent(new Event('ranasports:news-updated'));
+  if(canAppend)grid.append(fragment);else grid.replaceChildren(fragment);mountLoadMore(filtered.length);document.dispatchEvent(new Event('ranasports:news-updated'));if(footballArchiveRoute()&&!historicalFootballNews)fetchFootballArchive();
  }
  // El refresco de hash se realiza en el listener común junto al buscador.
  let snapshot=false,busy=false;
@@ -676,7 +699,7 @@
   }finally{clearTimeout(timeout);busy=false;}
  }
  searchInput?.addEventListener('input',()=>{renderLimit=INITIAL_RENDER_LIMIT;if(currentNews.length)render(currentNews);});
- window.addEventListener('hashchange',()=>{renderLimit=INITIAL_RENDER_LIMIT;if(currentNews.length)render(currentNews);});
+ window.addEventListener('hashchange',()=>{renderLimit=INITIAL_RENDER_LIMIT;if(lastGoodNews.length||currentNews.length)render(lastGoodNews.length?lastGoodNews:currentNews);});
  // Enlaces cortos: la nota está incluida en su HTML, sin descargar el feed completo.
  // Enlaces antiguos: mostrar una copia local si existe y buscar solo las noticias del día.
  function showFastArticle(csvText){
