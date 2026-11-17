@@ -71,6 +71,12 @@
  }
 
  let footballMenu={clubs:[],tournaments:[],youth:[],footballCategories:[]};
+ let fullDirectory=null;
+ function mergeFootballMenus(live,directory){
+  const a=live||{},b=directory||{};
+  const mergePairs=(kind)=>[...new Map([...(b[kind]||[]),...(a[kind]||[])].map(pair=>[pair[0],pair])).values()].sort((x,y)=>kind==='youth'?Number(x[0].slice(4))-Number(y[0].slice(4)):x[1].localeCompare(y[1],'es'));
+  return {clubs:mergePairs('clubs'),tournaments:mergePairs('tournaments'),youth:mergePairs('youth'),footballCategories:[...new Set([...(a.footballCategories||[]),...(b.footballCategories||[])])]};
+ }
  let latestCategories=[];
  let lastNavSignature='';
  function groupName(key){
@@ -138,10 +144,14 @@
   document.dispatchEvent(new Event('ranasports:navigation-ready'));
  }
  document.addEventListener('ranasports:categories',event=>{build(event.detail);try{localStorage.setItem('ranasports-nav-categories:'+base.pathname,JSON.stringify(event.detail));}catch{}});
- document.addEventListener('ranasports:football-navigation',event=>{footballMenu=event.detail;build(latestCategories);try{localStorage.setItem('ranasports-nav-football:'+base.pathname,JSON.stringify(event.detail));}catch{}});
+ document.addEventListener('ranasports:football-navigation',event=>{footballMenu=mergeFootballMenus(event.detail,fullDirectory);build(latestCategories);try{localStorage.setItem('ranasports-nav-football:'+base.pathname,JSON.stringify(footballMenu));}catch{}});
  nav.addEventListener('click',event=>{if(event.target.closest('a'))nav.querySelector('details')?.removeAttribute('open');});
  drawerNav.addEventListener('click',event=>{if(event.target.closest('a'))drawer.close();});
  let categories=[];try{categories=JSON.parse(localStorage.getItem('ranasports-nav-categories:'+base.pathname)||'[]');footballMenu=JSON.parse(localStorage.getItem('ranasports-nav-football:'+base.pathname)||'null')||footballMenu;}catch{}build(categories);
+ fetch(new URL('assets/football-directory.json',base).href,{cache:'no-store'})
+  .then(response=>response.ok?response.json():null)
+  .then(data=>{if(!data||!Array.isArray(data.clubs)||!Array.isArray(data.tournaments))return;fullDirectory=data;footballMenu=mergeFootballMenus(footballMenu,data);build(latestCategories);})
+  .catch(()=>{});
 })();
 
 // Mantiene el aviso legal compatible con contribuciones voluntarias al proyecto.
