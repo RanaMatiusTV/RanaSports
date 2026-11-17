@@ -3,8 +3,8 @@
  const grid=document.querySelector('#newsGrid');
  const detail=document.querySelector('#newsDetail');
  if(!grid&&!detail&&!document.querySelector('.dynamic-nav'))return;
- // Unificar la firma visual también en páginas de archivo generadas previamente.
- document.querySelectorAll('.site-header .brand-copy small').forEach(el=>{if(el.textContent?.includes('Medio asistido por IA'))el.textContent=el.textContent.replace(/\s*·\s*Medio asistido por IA/g,'');});
+ // Aplicar el eslogan también a las cabeceras de artículos archivados.
+ document.querySelectorAll('.site-header .brand-copy small').forEach(el=>{el.textContent='Noticias cortitas y al pie.';});
  const script=document.querySelector('script[src*="assets/news-feed.js"]');
  const siteBase=new URL('../',script?.src||location.href);
  const ARCHIVE_URL=new URL('assets/news-archive.csv',siteBase).href;
