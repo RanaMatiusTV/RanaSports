@@ -414,7 +414,9 @@
   const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':'badge-site'),item.sport));const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);
   const header=element('header','article-header'),heading=element('h1','',item.title);heading.id='articleTitle';
   const authorInfo=element('p','article-meta');
-  authorInfo.textContent='Redacción RanaSports';
+  const ranaGolLink=link('https://www.youtube.com/@RanaMatiusTV','@RanaSports');
+  ranaGolLink.title='Rana Gol en YouTube';ranaGolLink.setAttribute('aria-label','Rana Gol, canal de YouTube');
+  authorInfo.append(document.createTextNode('Redacción '),ranaGolLink);
   header.append(meta,heading,authorInfo);detail.append(header);appendArticlePhoto(item);
   document.querySelector('meta[name="author"]')?.setAttribute('content','Redacción RanaSports');
   const paragraphs=editorialParagraphs(item),articleText=paragraphs.join('\n\n');
