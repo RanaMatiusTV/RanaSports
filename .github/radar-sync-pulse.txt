@@ -1,15 +1,19 @@
-RANASPORTS — RADAR 1 COBERTURA 6 HORAS — 16/11/2026 23:45 ARG
-Ventana revisada: 16/11/2026 15:45 a 23:45 Argentina (6 horas más 2 horas de solapamiento)
-Altas verificadas y releídas en la planilla: 4
-Filas: Noticias!4851:4854
+RANASPORTS — RADAR 1 COBERTURA 3 HORAS — 17/11/2026 00:53 ARG
+Ventana principal revisada: 16/11/2026 19:45 a 17/11/2026 00:45 Argentina, con recuperación de omisiones hasta 48 horas
+Altas verificadas y releídas en la planilla: 7
+Filas: Noticias!4855:4861
 Títulos:
-- COLAPINTO MARCÓ EL FRÍO Y LOS NEUMÁTICOS COMO CLAVES PARA ALPINE EN LAS VEGAS
-- ALEMANIA GOLEÓ 5-0 A PAÍSES BAJOS Y GANÓ SU GRUPO EN LA NATIONS LEAGUE
-- VÉLEZ CONFIRMÓ UN DESGARRO DE ROBERTONE Y LO PIERDE PARA LOS PLAYOFFS
-- BOCA VENCIÓ 2-0 A FERRO Y QUEDÓ A UN PASO DEL TÍTULO FEMENINO
-Última noticia cronológica: BOCA VENCIÓ 2-0 A FERRO Y QUEDÓ A UN PASO DEL TÍTULO FEMENINO
-Contenido: 4 notas distintas con fecha y hora de primera difusión verificable, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TyC Sports, Página/12, Boca Juniors, AFA, fuente oficial ATP y coberturas de apoyo.
-K oportunistas: 0 incorporados; 4 vacíos para el radar de embeds.
+- HOLLIE DAVIDSON SERÁ LA PRIMERA ÁRBITRA PRINCIPAL EN UN PARTIDO DE LOS PUMAS
+- RUBIALES CUMPLIÓ LA SANCIÓN DE FIFA Y VOLVIÓ A QUEDAR HABILITADO PARA EJERCER CARGOS
+- LIBERARON A LOS INTEGRANTES DE FERRO DE GENERAL PICO DETENIDOS TRAS LOS INCIDENTES
+- LA SUB-17 ARGENTINA TUVO SU PRIMER ENTRENAMIENTO EN CATAR ANTES DEL MUNDIAL
+- REGISTROS INTERNOS DE LA AFA DETALLAN PAGOS POR MÁS DE $420 MILLONES A BELIGOY
+- LUKAKU ANUNCIÓ SU RETIRO DE LA SELECCIÓN DE BÉLGICA TRAS 16 AÑOS
+- PIQUEREZ SUFRIÓ UNA MOLESTIA Y ESTÁ EN DUDA PARA LA FINAL ANTE ESTUDIANTES
+Última noticia cronológica: HOLLIE DAVIDSON SERÁ LA PRIMERA ÁRBITRA PRINCIPAL EN UN PARTIDO DE LOS PUMAS
+Contenido: 7 notas distintas con fecha y hora de primera difusión verificable, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TyC Sports, LA NACION, La Arena, World Rugby, AFA, FIFA, Reuters, EFE y coberturas regionales.
+K oportunistas: 0 incorporados; 7 vacíos para el radar de embeds.
+Total de altas con fecha 16/11/2026 en las últimas 24 horas: 28.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4851:4854 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4855:4861 en el CSV público.
