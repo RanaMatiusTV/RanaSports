@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-16T18:55:31.275Z",
+  "updatedAt": "2026-11-17T02:27:44.500Z",
   "trends": [
     {
-      "query": "alemania vs",
-      "startedAt": "2026-11-16T18:40:00.000Z",
+      "query": "tiempo en rosario",
+      "startedAt": "2026-11-17T02:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "dólar",
-      "startedAt": "2026-11-16T18:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "benin vs",
-      "startedAt": "2026-11-16T17:50:00.000Z",
+      "query": "nuggets - suns",
+      "startedAt": "2026-11-17T02:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "apagon mundial 17 de noviembre",
-      "startedAt": "2026-11-16T17:30:00.000Z",
+      "query": "nico occhiato",
+      "startedAt": "2026-11-17T02:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "daniel ricciardo",
+      "startedAt": "2026-11-17T02:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "islandia vs",
-      "startedAt": "2026-11-16T17:20:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "estatua",
-      "startedAt": "2026-11-16T17:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "santo toribio de mogrovejo",
-      "startedAt": "2026-11-16T17:00:00.000Z",
+      "query": "los juegos del hambre",
+      "startedAt": "2026-11-17T02:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "posiciones de selección de fútbol de sudán contra selección de fútbol de senegal",
-      "startedAt": "2026-11-16T16:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "ciclón",
-      "startedAt": "2026-11-16T16:10:00.000Z",
-      "volume": 500000
-    },
-    {
-      "query": "callum turner",
-      "startedAt": "2026-11-16T16:10:00.000Z",
+      "query": "guillermo michel",
+      "startedAt": "2026-11-17T01:40:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "timberwolves - trail blazers",
+      "startedAt": "2026-11-17T01:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "josé santiso",
+      "startedAt": "2026-11-17T01:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "moria casán",
+      "startedAt": "2026-11-17T01:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "zonda",
+      "startedAt": "2026-11-17T01:20:00.000Z",
+      "volume": 100
     }
   ]
 }
