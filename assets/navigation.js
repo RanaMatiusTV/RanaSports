@@ -4,7 +4,7 @@
  const navScript=document.querySelector('script[src*="assets/navigation.js"]');
  const base=new URL('../',navScript?.src||location.href);
  const home=Boolean(document.querySelector('#newsGrid'));
- const primary=[['ultimas','Noticias'],['independiente','Independiente'],['seleccion','Selección Argentina'],['futbol','Fútbol'],['f1','F1']];
+ const primary=[['ultimas','Noticias'],['futbol','Fútbol'],['f1','F1']];
  const drawer=document.createElement('dialog');drawer.id='navDrawer';drawer.className='nav-drawer';drawer.setAttribute('aria-label','Menú de navegación');
  const close=document.createElement('button');close.type='button';close.className='drawer-close ghost-btn';close.textContent='× Cerrar';
  const drawerNav=document.createElement('nav');drawerNav.className='drawer-nav';drawerNav.setAttribute('aria-label','Secciones');drawer.append(close,drawerNav);document.body.append(drawer);
@@ -60,12 +60,13 @@
  function groupName(key){
   const text=key.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
   if(/(?:automovilismo|motogp|formula|karting|motociclismo)/.test(text))return 'motor';
-  if(/(?:boca|river|racing|san.lorenzo|huracan|estudiantes|velez|banfield|argentinos|union|atletico.tucuman|rosario.central|futbol|futsal|liga|copa|libertadores|sudamericana|superclasico|ascenso|primera.nacional|federal.a|torneo|recopa|mundial.sub|mercado.internacional|champions|uefa|messi|maradona|reserva|seleccion|internacional)/.test(text))return 'futbol';
+  if(/(?:independiente|boca|river|racing|san.lorenzo|huracan|estudiantes|velez|banfield|argentinos|union|atletico.tucuman|rosario.central|futbol|futsal|liga|copa|libertadores|sudamericana|superclasico|ascenso|primera.nacional|federal.a|torneo|recopa|mundial.sub|mercado.internacional|champions|uefa|messi|maradona|reserva|seleccion|internacional)/.test(text))return 'futbol';
   return 'otros';
  }
  function build(entries){
-  const extras=entries
+  const extras=[...new Map([['independiente','Independiente'],['seleccion','Selección Argentina'],...entries]
    .filter(([key])=>!primary.some(([fixed])=>fixed===key)&&!['agenda','en-vivo','otros'].includes(key))
+   .map(([key,label])=>[key,[key,label]])).values()]
    .sort((a,b)=>prettyName(a[1]).localeCompare(prettyName(b[1]),'es',{sensitivity:'base'}));
   for(const [parent,mobile] of [[nav,false],[drawerNav,true]]){
    parent.replaceChildren();
