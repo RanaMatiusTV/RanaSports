@@ -2,7 +2,7 @@ let cards = [...document.querySelectorAll('#newsGrid .news-card')];
 let tabs = [...document.querySelectorAll('.tab')];
 const search = document.querySelector('#searchInput');
 const empty = document.querySelector('#emptyState');
-const sections = {ultimas:'Últimas noticias', futbol:'Fútbol', f1:'F1', seleccion:'Selección mayor', 'seleccion-mayor':'Selección Argentina — Mayor', 'suramericanos-2026':'Juegos Suramericanos 2026', otros:'Más deportes', agenda:'Agenda'};
+const sections = {ultimas:'Últimas noticias', independiente:'Independiente', futbol:'Fútbol', f1:'F1', seleccion:'Selección mayor', 'seleccion-mayor':'Selección Argentina — Mayor', 'suramericanos-2026':'Juegos Suramericanos 2026', otros:'Más deportes', agenda:'Agenda'};
 let active = 'todas';
 let liveModule=document.querySelector('#en-vivo');
 if(!liveModule){liveModule=document.createElement('section');liveModule.id='en-vivo';liveModule.className='dashboard-module live-module';}
@@ -129,6 +129,7 @@ function apply() {
   const tag=(csv,key)=>(','+(csv||'')+',').includes(','+key+',');
   let matchesSection=active==='todas'||matchesSpecial;
   if(active==='futbol')matchesSection=card.dataset.football==='1';
+  else if(active==='independiente')matchesSection=tag(card.dataset.clubs,'independiente');
   else if(active.startsWith('club:'))matchesSection=tag(card.dataset.clubs,active.slice(5));
   else if(active.startsWith('torneo:'))matchesSection=tag(card.dataset.tournaments,active.slice(7));
   else if(active==='seleccion'||active==='seleccion-mayor')matchesSection=card.dataset.selection==='mayor';
