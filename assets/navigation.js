@@ -24,6 +24,22 @@
    .drawer-nav .nav-more-list{display:flex;flex-direction:column;padding:4px 0 8px 12px}
    .drawer-nav .nav-more-list a{padding:9px 10px;color:#c9d1da;text-decoration:none;border-radius:8px}
    .drawer-nav .nav-more-list a:hover{background:#171f29;color:#fff}
+
+   .nav-drawer{overflow-y:auto;overscroll-behavior:contain}
+   .drawer-nav .nav-category-group{border-top:1px solid #27303a}
+   .drawer-nav .nav-category-group:first-child{border-top:0}
+   .drawer-nav .nav-category-group>summary{padding:12px 10px;cursor:pointer;color:#f4f7fa;font-size:14px;font-weight:760}
+   .drawer-nav .nav-category-group>summary:hover{background:#171f29;border-radius:8px}
+   .drawer-nav .nav-category-items{display:flex;flex-direction:column;padding:0 0 9px 12px;gap:2px}
+   .drawer-nav .nav-category-items a{display:block;padding:10px 12px;min-height:39px;border-radius:8px;color:#c9d1da;text-decoration:none;font-weight:500}
+   .drawer-nav .nav-category-items a:hover{background:#171f29;color:#fff}
+   .drawer-nav .nav-utility-links{border-top:1px solid #27303a;padding-top:9px;display:flex;flex-direction:column}
+   .drawer-nav .nav-utility-links>a{display:flex;align-items:center;min-height:46px;padding:10px 12px;border-radius:9px;color:#f4f7fa;text-decoration:none;font-weight:850}
+   .drawer-nav .nav-utility-links>a:hover{background:#171f29}
+   html[data-theme="light"] .drawer-nav .nav-category-group>summary,html[data-theme="light"] .drawer-nav .nav-utility-links>a{color:#171b21!important}
+   html[data-theme="light"] .drawer-nav .nav-category-group{border-color:#e4e7ec}
+   html[data-theme="light"] .drawer-nav .nav-category-items>a{color:#39434e!important}
+   html[data-theme="light"] .drawer-nav .nav-category-group>summary:hover,html[data-theme="light"] .drawer-nav .nav-category-items>a:hover,html[data-theme="light"] .drawer-nav .nav-utility-links>a:hover{background:#eef2f6!important}
    html[data-theme="light"] .nav-drawer{background:#fff!important;color:#171b21!important;border-color:#d8dee6!important}
    html[data-theme="light"] .drawer-nav>a,html[data-theme="light"] .drawer-nav .nav-more>summary,html[data-theme="light"] .drawer-nav .nav-more-list a{color:#171b21!important}
    html[data-theme="light"] .drawer-nav>a:hover,html[data-theme="light"] .drawer-nav .nav-more>summary:hover,html[data-theme="light"] .drawer-nav .nav-more-list a:hover{background:#eef2f6!important}
@@ -34,11 +50,44 @@
  toggle.addEventListener('click',()=>{drawer.showModal();toggle.setAttribute('aria-expanded','true');});close.addEventListener('click',()=>drawer.close());drawer.addEventListener('close',()=>toggle.setAttribute('aria-expanded','false'));
  drawer.addEventListener('click',event=>{if(event.target===drawer){const r=drawer.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)drawer.close();}});
  function anchor(key,label,mobile){const a=document.createElement('a');a.textContent=mobile?label:label.toUpperCase();a.href=home?'#'+encodeURIComponent(key):new URL('#'+encodeURIComponent(key),base).href;return a;}
+ function prettyName(value){
+  const original=String(value||'').trim();
+  if(original!==original.toLocaleUpperCase('es-AR'))return original;
+  return original.toLocaleLowerCase('es-AR')
+   .replace(/(^|[\s/-])([a-záéíóúñ])/g,(_,sep,letter)=>sep+letter.toLocaleUpperCase('es-AR'))
+   .replace(/\b(nba|ufc|uefa|fifa|f1|f2|f3)\b/gi,word=>word.toUpperCase());
+ }
+ function groupName(key){
+  const text=key.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+  if(/(?:automovilismo|motogp|formula|karting|motociclismo)/.test(text))return 'motor';
+  if(/(?:boca|river|racing|san.lorenzo|huracan|estudiantes|velez|banfield|argentinos|union|atletico.tucuman|rosario.central|futbol|futsal|liga|copa|libertadores|sudamericana|superclasico|ascenso|primera.nacional|federal.a|torneo|recopa|mundial.sub|mercado.internacional|champions|uefa|messi|maradona|reserva|seleccion|internacional)/.test(text))return 'futbol';
+  return 'otros';
+ }
  function build(entries){
-  const extras=entries.filter(([key])=>!primary.some(([fixed])=>fixed===key)&&!['agenda','en-vivo','otros'].includes(key));
+  const extras=entries
+   .filter(([key])=>!primary.some(([fixed])=>fixed===key)&&!['agenda','en-vivo','otros'].includes(key))
+   .sort((a,b)=>prettyName(a[1]).localeCompare(prettyName(b[1]),'es',{sensitivity:'base'}));
   for(const [parent,mobile] of [[nav,false],[drawerNav,true]]){
-   parent.replaceChildren();primary.forEach(([key,label])=>parent.append(anchor(key,label,mobile)));if(mobile)parent.append(anchor('suramericanos-2026','Juegos Suramericanos 2026',mobile));
-   const more=document.createElement('details');more.className='nav-more';const summary=document.createElement('summary');summary.textContent=mobile?'Más Deportes':'MÁS DEPORTES';const list=document.createElement('div');list.className='nav-more-list';extras.forEach(([key,label])=>list.append(anchor(key,label,mobile)));if(!extras.length){const p=document.createElement('p');p.textContent='Sin otras categorías publicadas.';list.append(p);}more.append(summary,list);parent.append(more,anchor('agenda','Agenda',mobile),anchor('en-vivo','En Vivo',mobile));
+   parent.replaceChildren();
+   primary.forEach(([key,label])=>parent.append(anchor(key,label,mobile)));
+   const more=document.createElement('details');more.className='nav-more';
+   const summary=document.createElement('summary');summary.textContent=mobile?'Más deportes':'MÁS DEPORTES';
+   const list=document.createElement('div');list.className='nav-more-list';
+   for(const [group,label] of [['futbol','Fútbol: equipos y torneos'],['motor','Automovilismo'],['otros','Otros deportes']]){
+    const items=extras.filter(([key])=>groupName(key)===group);
+    if(!items.length)continue;
+    const section=document.createElement('details');section.className='nav-category-group';
+    const title=document.createElement('summary');title.textContent=label;
+    const links=document.createElement('div');links.className='nav-category-items';
+    items.forEach(([key,name])=>links.append(anchor(key,prettyName(name),true)));
+    section.append(title,links);list.append(section);
+   }
+   if(!extras.length){const p=document.createElement('p');p.textContent='Sin otras categorías publicadas.';list.append(p);}
+   more.append(summary,list);parent.append(more);
+   if(mobile){
+    const utilities=document.createElement('div');utilities.className='nav-utility-links';
+    utilities.append(anchor('agenda','Agenda',true),anchor('en-vivo','En Vivo',true));parent.append(utilities);
+   }else parent.append(anchor('agenda','Agenda',false),anchor('en-vivo','En Vivo',false));
   }
   document.dispatchEvent(new Event('ranasports:navigation-ready'));
  }
