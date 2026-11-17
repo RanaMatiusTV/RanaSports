@@ -1,24 +1,25 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 17/11/2026 15:56 ARG
-Ventana principal revisada: 17/11/2026 12:45 a 15:45 Argentina, con dos horas de solapamiento desde las 10:45 y control de omisiones y duplicados sobre el bloque reciente.
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 17/11/2026 18:45 ARG
+Ventana principal revisada: 17/11/2026 15:45 a 18:45 Argentina, con dos horas de solapamiento desde las 13:45 y control de omisiones y duplicados sobre el bloque reciente.
 Altas verificadas y releídas en la planilla: 10
-Filas: Noticias!4884:4893
+Filas: Noticias!4894:4903
 Títulos:
-- RIVER RECUPERÓ A JUAN CRUZ MEZA, PERO VERA Y MORENO SIGUEN DIFERENCIADOS
-- MUNICIPAL DE LAISHÍ HIZO HISTORIA Y QUEDÓ A UN PASO DE PELEAR POR EL FEDERAL A
-- LA SELECCIÓN ARGENTINA FIRMÓ CAMISETAS Y SE SACÓ FOTOS CON LOS HINCHAS EN CÓRDOBA
-- BATTAGLIA VOLVIÓ A ENTRENARSE CON NORMALIDAD Y VIAJARÁ CON BOCA A BARRANQUILLA
-- BOCA AGOTÓ SU SECTOR Y PROYECTA MÁS DE 30 MIL HINCHAS EN LA FINAL DE LA SUDAMERICANA
-- FIFA INHIBIÓ A ARGENTINOS JUNIORS POR TRES MERCADOS DE PASES
-- ARGENTINOS VOLVIÓ A ENTRENARSE ANTES DE RECIBIR A INDEPENDIENTE
-- EL TORNEO ARGENTINO DEL INTERIOR 2027 PROYECTA 64 EQUIPOS Y SEIS ASCENSOS
-- MILTON DELGADO DEJÓ LA PRÁCTICA DE BOCA Y SE REALIZARÁ ESTUDIOS EN LA RODILLA
-- INDEPENDIENTE FIJÓ SU POSTURA ANTE LOS RUMORES DE VENTA DE SANTI LÓPEZ A TIGRE
-Última noticia cronológica del lote y de la planilla: BOCA AGOTÓ SU SECTOR Y PROYECTA MÁS DE 30 MIL HINCHAS EN LA FINAL DE LA SUDAMERICANA — 17/11/2026 15:15 ARG, fila 4888.
-Contenido: 10 notas distintas con fecha y hora de primera difusión verificable, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TyC Sports; contraste con LA NACION, Consejo Federal de AFA y Ascenso del Interior. También se revisaron agenda y secciones de tenis, básquet, rugby, automovilismo y polideportivo.
+- ANÍBAL MORENO SERÁ OPERADO Y NO VOLVERÁ A JUGAR EN RIVER HASTA 2027
+- LUIS SUÁREZ DIJO QUE ÉL Y MESSI SEGUIRÁN MIENTRAS DISFRUTEN Y SE SIENTAN COMPETITIVOS
+- INDEPENDIENTE SIGUE INHIBIDO POR FIFA POR LA DEUDA DEL PASE DE KEVIN LOMÓNACO
+- ÉVER BANEGA ADMITIÓ QUE TIENE UN 80 POR CIENTO DE DECISIÓN TOMADA PARA RETIRARSE
+- JESÚS VALENZUELA DIRIGIRÁ LA FINAL DE LA LIBERTADORES ENTRE ESTUDIANTES Y PALMEIRAS
+- AFA CONFIRMÓ LOS ÁRBITROS PARA LOS OCTAVOS DE FINAL DEL TORNEO CLAUSURA
+- LIVERPOOL ABRIÓ NEGOCIACIONES PARA RENOVAR EL CONTRATO DE ALEXIS MAC ALLISTER
+- LA FIA EVALUARÁ CAMBIOS EN EL USO DE ENERGÍA PARA FACILITAR LOS SOBREPASOS EN FÓRMULA 1
+- INDEPENDIENTE CAYÓ 2-1 ANTE NEWELL’S POR EL TORNEO CLAUSURA FEMENINO
+- PORTUGAL VENCIÓ 3-2 A GALES Y AVANZÓ A LOS CUARTOS DE FINAL DE LA NATIONS LEAGUE
+Última noticia cronológica del lote y de la planilla: PORTUGAL VENCIÓ 3-2 A GALES Y AVANZÓ A LOS CUARTOS DE FINAL DE LA NATIONS LEAGUE — 17/11/2026 18:40 ARG, fila 4903.
+Contenido: 10 notas distintas con fecha y hora sustentadas por primera difusión o confirmación consultada, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TyC Sports, AFA y UOL Esporte; contraste de resultados con UEFA y búsqueda complementaria en ESPN, Olé, LA NACION, Infobae Deportes y fuentes de resultados.
+Disciplinas y áreas: Independiente masculino y femenino, River, Torneo Clausura, Copa Libertadores, Selección Argentina/Messi, Premier League, Fórmula 1 y Nations League.
 K oportunistas: 0 incorporados; 10 vacíos para el radar de embeds.
-Total acumulado con marca temporal dentro de las últimas 24 horas: 40 notas.
-Duplicados o servicios descartados: Paraguay-Japón ya publicado, continuidad del alta progresiva de Meza sin novedad hasta la confirmación médica, agendas y previas Argentina-Costa Rica, y resultados todavía no cerrados.
-Pendientes: Independiente-Newell's femenino, Rusia-Venezuela, Uruguay Open y el debut de Palermo sin resultado oficial definitivo al cierre; se recuperan en la siguiente corrida si finalizan fuera de ventana.
+Total acumulado con marca temporal dentro de las últimas 24 horas: 44 notas.
+Duplicados o servicios descartados: el estado previo de Aníbal Moreno en la fila 4884 quedó superado por la decisión quirúrgica; se descartaron agendas, previas y artículos sin novedad material, además de resultados de Reserva con fuentes contradictorias.
+Pendientes: Lautaro Midón en el Uruguay Open no se cargó porque la fuente oficial aún mostraba horario inconsistente al cierre; el resto de la Nations League y los partidos nocturnos se recuperan en la próxima corrida cuando haya resultados definitivos.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4884:4893 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4894:4903 en el CSV público.
