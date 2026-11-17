@@ -3,6 +3,8 @@
  const grid=document.querySelector('#newsGrid');
  const detail=document.querySelector('#newsDetail');
  if(!grid&&!detail&&!document.querySelector('.dynamic-nav'))return;
+ // Unificar la firma visual también en páginas de archivo generadas previamente.
+ document.querySelectorAll('.site-header .brand-copy small').forEach(el=>{if(el.textContent?.includes('Medio asistido por IA'))el.textContent=el.textContent.replace(/\s*·\s*Medio asistido por IA/g,'');});
  const script=document.querySelector('script[src*="assets/news-feed.js"]');
  const siteBase=new URL('../',script?.src||location.href);
  const ARCHIVE_URL=new URL('assets/news-archive.csv',siteBase).href;
@@ -411,7 +413,10 @@
   if(status){status.textContent='';status.hidden=true;}
   const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':'badge-site'),item.sport));const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);
   const header=element('header','article-header'),heading=element('h1','',item.title);heading.id='articleTitle';
-  header.append(meta,heading,element('p','article-meta','Creado por @RanaMatiusTV · Medio asistido por IA'));detail.append(header);appendArticlePhoto(item);
+  const authorInfo=element('p','article-meta');
+  authorInfo.append(document.createTextNode('Redacción RanaSports · '),link(new URL('legal/politica-editorial.html',siteBase).href,'Cómo elaboramos las noticias'));
+  header.append(meta,heading,authorInfo);detail.append(header);appendArticlePhoto(item);
+  document.querySelector('meta[name="author"]')?.setAttribute('content','Redacción RanaSports');
   const paragraphs=editorialParagraphs(item),articleText=paragraphs.join('\n\n');
   const content=element('div','article-body');paragraphs.forEach((text,index)=>content.append(element('p',index===0?'article-summary':'article-paragraph',text)));
   const embedURLs=[item.video,item.video2].filter((url,i,all)=>url&&url!==item.image&&all.indexOf(url)===i);
@@ -424,7 +429,7 @@
   document.title=item.title+' | RanaSports';const canonical=articleURL(item);const canon=document.querySelector('link[rel="canonical"]');if(canon)canon.href=canonical;document.querySelector('meta[name="robots"]')?.setAttribute('content','index,follow');
   const socialImage=fallbackVisualCandidates(item)[0]||new URL('assets/icon-512.png',siteBase).href;
   const values={'description':item.summary.slice(0,160),'og:title':document.title,'og:description':item.summary.slice(0,160),'og:url':canonical,'og:image':socialImage};for(const [k,v] of Object.entries(values)){const q=k.startsWith('og:')?`meta[property="${k}"]`:`meta[name="${k}"]`;const n=document.querySelector(q);if(n)n.content=v;}
-  let schema=document.querySelector('#articleSchema');if(!schema){schema=element('script');schema.id='articleSchema';schema.type='application/ld+json';document.head.append(schema);}schema.textContent=JSON.stringify({'@context':'https://schema.org','@type':'NewsArticle',headline:item.title,description:item.summary.slice(0,160),datePublished:new Date(item.date).toISOString(),articleBody:articleText,articleSection:item.sport,inLanguage:'es-AR',mainEntityOfPage:{'@type':'WebPage','@id':canonical},url:canonical,author:{'@type':'Person',name:'@RanaMatiusTV',url:new URL('legal/acerca-de.html',siteBase).href},publisher:{'@type':'Organization',name:'RanaSports'},image:socialImage,...(item.sourceURL?{citation:item.sourceURL}:{})});
+  let schema=document.querySelector('#articleSchema');if(!schema){schema=element('script');schema.id='articleSchema';schema.type='application/ld+json';document.head.append(schema);}schema.textContent=JSON.stringify({'@context':'https://schema.org','@type':'NewsArticle',headline:item.title,description:item.summary.slice(0,160),datePublished:new Date(item.date).toISOString(),articleBody:articleText,articleSection:item.sport,inLanguage:'es-AR',mainEntityOfPage:{'@type':'WebPage','@id':canonical},url:canonical,author:{'@type':'Organization',name:'RanaSports',url:new URL('legal/acerca-de.html',siteBase).href},publisher:{'@type':'Organization',name:'RanaSports'},image:socialImage,...(item.sourceURL?{citation:item.sourceURL}:{})});
  }
  function matchesSearch(item,query){
   if(!query)return true;
