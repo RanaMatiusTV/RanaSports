@@ -421,14 +421,16 @@
    return [{category,group:Object.hasOwn(categories,category)?category:'otros',sport:sportLabel,footballInfo,isSuramericanos,photoCredit:row['credito foto']||'',imageStatus:normalize(row['estado imagen']||''),date,title:row.titulo,summary:row.resumen,body:row.cuerpo||row.contenido||row['texto completo']||'',note:safeURL(row['url nota']),image:imageURL(row['url imagen']),source:row.fuente,sourceURL:safeURL(row['url fuente']),video,video2,extraImage:imageDataURL(row['url imagen candidata']),featured:normalize(row.destacada)==='si',hasYouTubeVideo,hasFormula1Video,hasVideo,hasXPost,hasEmbed}];
   }).sort((a,b)=>b.date-a.date);
   const available=new Map();
-  const clubs=new Set(),tournaments=new Set(),youth=new Set();
+  const clubs=new Set(),tournaments=new Set(),youth=new Set(),footballCategories=new Set();
   for(const item of items){
    available.set(item.category,categoryLabel[item.category]||item.sport);
+   if(item.footballInfo.football)footballCategories.add(item.category);
    for(const name of item.footballInfo.clubs)clubs.add(name);
    for(const name of item.footballInfo.tournaments)tournaments.add(name);
    if(item.footballInfo.selection.startsWith('sub-'))youth.add(item.footballInfo.selection);
   }
   const menu={
+   footballCategories:[...footballCategories],
    clubs:[...clubs].map(key=>{const found=footballClubDefs.find(x=>x.key===key);return [key,found?.label||key];}).sort((a,b)=>a[1].localeCompare(b[1],'es')),
    tournaments:[...tournaments].map(key=>{const found=footballTournamentDefs.find(x=>x.key===key);const category=items.find(x=>x.footballInfo.tournaments.includes(key));return [key,found?.label||category?.sport||key];}).sort((a,b)=>a[1].localeCompare(b[1],'es')),
    youth:[...youth].map(key=>[key,'Sub-'+key.slice(4)]).sort((a,b)=>Number(a[0].slice(4))-Number(b[0].slice(4)))
