@@ -1,0 +1,453 @@
+{
+  "version": 1,
+  "source": "assets/news-archive.csv",
+  "clubs": [
+    [
+      "acassuso",
+      "Acassuso"
+    ],
+    [
+      "agropecuario",
+      "Agropecuario"
+    ],
+    [
+      "aldosivi",
+      "Aldosivi"
+    ],
+    [
+      "all-boys",
+      "All Boys"
+    ],
+    [
+      "almagro",
+      "Almagro"
+    ],
+    [
+      "almirante-brown",
+      "Almirante Brown"
+    ],
+    [
+      "alvarado",
+      "Alvarado"
+    ],
+    [
+      "argentinos-juniors",
+      "Argentinos Juniors"
+    ],
+    [
+      "atlanta",
+      "Atlanta"
+    ],
+    [
+      "atletico-de-rafaela",
+      "Atlético de Rafaela"
+    ],
+    [
+      "atletico-tucuman",
+      "Atlético Tucumán"
+    ],
+    [
+      "banfield",
+      "Banfield"
+    ],
+    [
+      "barracas-central",
+      "Barracas Central"
+    ],
+    [
+      "belgrano",
+      "Belgrano"
+    ],
+    [
+      "berazategui",
+      "Berazategui"
+    ],
+    [
+      "boca-juniors",
+      "Boca Juniors"
+    ],
+    [
+      "brown-de-adrogue",
+      "Brown de Adrogué"
+    ],
+    [
+      "central-cordoba-sde",
+      "Central Córdoba (SdE)"
+    ],
+    [
+      "chacarita-juniors",
+      "Chacarita Juniors"
+    ],
+    [
+      "chaco-for-ever",
+      "Chaco For Ever"
+    ],
+    [
+      "cipolletti",
+      "Cipolletti"
+    ],
+    [
+      "colegiales",
+      "Colegiales"
+    ],
+    [
+      "colon-de-santa-fe",
+      "Colón de Santa Fe"
+    ],
+    [
+      "defensa-y-justicia",
+      "Defensa y Justicia"
+    ],
+    [
+      "deportivo-madryn",
+      "Deportivo Madryn"
+    ],
+    [
+      "deportivo-maipu",
+      "Deportivo Maipú"
+    ],
+    [
+      "deportivo-moron",
+      "Deportivo Morón"
+    ],
+    [
+      "deportivo-riestra",
+      "Deportivo Riestra"
+    ],
+    [
+      "estudiantes-de-caseros",
+      "Estudiantes de Caseros"
+    ],
+    [
+      "estudiantes-de-la-plata",
+      "Estudiantes de La Plata"
+    ],
+    [
+      "estudiantes-de-rio-cuarto",
+      "Estudiantes de Río Cuarto"
+    ],
+    [
+      "excursionistas",
+      "Excursionistas"
+    ],
+    [
+      "ferro-carril-oeste",
+      "Ferro Carril Oeste"
+    ],
+    [
+      "ferro-de-general-pico",
+      "Ferro de General Pico"
+    ],
+    [
+      "gimnasia-de-jujuy",
+      "Gimnasia de Jujuy"
+    ],
+    [
+      "gimnasia-de-mendoza",
+      "Gimnasia de Mendoza"
+    ],
+    [
+      "gimnasia-y-esgrima-la-plata",
+      "Gimnasia y Esgrima La Plata"
+    ],
+    [
+      "gimnasia-y-tiro",
+      "Gimnasia y Tiro"
+    ],
+    [
+      "godoy-cruz",
+      "Godoy Cruz"
+    ],
+    [
+      "guemes-sde",
+      "Güemes (SdE)"
+    ],
+    [
+      "huracan",
+      "Huracán"
+    ],
+    [
+      "independiente",
+      "Independiente"
+    ],
+    [
+      "independiente-rivadavia",
+      "Independiente Rivadavia"
+    ],
+    [
+      "instituto",
+      "Instituto"
+    ],
+    [
+      "laferrere",
+      "Laferrere"
+    ],
+    [
+      "lanus",
+      "Lanús"
+    ],
+    [
+      "liniers",
+      "Liniers"
+    ],
+    [
+      "newell-s-old-boys",
+      "Newell's Old Boys"
+    ],
+    [
+      "nueva-chicago",
+      "Nueva Chicago"
+    ],
+    [
+      "olimpo",
+      "Olimpo"
+    ],
+    [
+      "patronato",
+      "Patronato"
+    ],
+    [
+      "platense",
+      "Platense"
+    ],
+    [
+      "quilmes",
+      "Quilmes"
+    ],
+    [
+      "racing-club",
+      "Racing Club"
+    ],
+    [
+      "racing-de-cordoba",
+      "Racing de Córdoba"
+    ],
+    [
+      "river-plate",
+      "River Plate"
+    ],
+    [
+      "rosario-central",
+      "Rosario Central"
+    ],
+    [
+      "san-lorenzo",
+      "San Lorenzo"
+    ],
+    [
+      "san-martin-de-formosa",
+      "San Martín de Formosa"
+    ],
+    [
+      "san-martin-de-san-juan",
+      "San Martín de San Juan"
+    ],
+    [
+      "san-martin-de-tucuman",
+      "San Martín de Tucumán"
+    ],
+    [
+      "san-telmo",
+      "San Telmo"
+    ],
+    [
+      "sportivo-italiano",
+      "Sportivo Italiano"
+    ],
+    [
+      "talleres-de-cordoba",
+      "Talleres de Córdoba"
+    ],
+    [
+      "temperley",
+      "Temperley"
+    ],
+    [
+      "tigre",
+      "Tigre"
+    ],
+    [
+      "tristan-suarez",
+      "Tristán Suárez"
+    ],
+    [
+      "union-de-santa-fe",
+      "Unión de Santa Fe"
+    ],
+    [
+      "velez-sarsfield",
+      "Vélez Sarsfield"
+    ]
+  ],
+  "tournaments": [
+    [
+      "champions-league",
+      "Champions League"
+    ],
+    [
+      "copa-argentina",
+      "Copa Argentina"
+    ],
+    [
+      "copa-de-la-liga",
+      "Copa de la Liga"
+    ],
+    [
+      "copa-libertadores",
+      "Copa Libertadores"
+    ],
+    [
+      "copa-sudamericana",
+      "Copa Sudamericana"
+    ],
+    [
+      "europa-league",
+      "Europa League"
+    ],
+    [
+      "federal-a",
+      "Federal A"
+    ],
+    [
+      "liga-profesional",
+      "Liga Profesional"
+    ],
+    [
+      "mundial-de-clubes",
+      "Mundial de Clubes"
+    ],
+    [
+      "mundial-sub-17",
+      "Mundial Sub-17"
+    ],
+    [
+      "mundial-sub-20",
+      "Mundial Sub-20"
+    ],
+    [
+      "primera-c",
+      "Primera C"
+    ],
+    [
+      "primera-nacional",
+      "Primera Nacional"
+    ],
+    [
+      "recopa-de-campeones",
+      "Recopa de Campeones"
+    ],
+    [
+      "supercopa-argentina",
+      "Supercopa Argentina"
+    ],
+    [
+      "torneo-clausura",
+      "Torneo Clausura"
+    ],
+    [
+      "uefa-nations-league",
+      "UEFA Nations League"
+    ]
+  ],
+  "youth": [
+    [
+      "sub-15",
+      "Sub-15"
+    ],
+    [
+      "sub-17",
+      "Sub-17"
+    ],
+    [
+      "sub-19",
+      "Sub-19"
+    ],
+    [
+      "sub-20",
+      "Sub-20"
+    ]
+  ],
+  "footballCategories": [
+    "arbitraje",
+    "argentinos en el exterior",
+    "argentinos juniors",
+    "argentinos por el mundo",
+    "ascenso",
+    "atletico tucuman",
+    "banfield",
+    "belgrano",
+    "boca",
+    "boca / river / messi cup",
+    "boca / san lorenzo",
+    "boca / seleccion argentina",
+    "boca / superclasico",
+    "boca juniors",
+    "champions league",
+    "clasico de avellaneda",
+    "color",
+    "copa argentina",
+    "copa davis",
+    "copa libertadores",
+    "copa libertadores femenina",
+    "copa sudamericana",
+    "copas internacionales",
+    "deportivo riestra",
+    "estudiantes",
+    "estudiantes de la plata",
+    "europa league",
+    "federal a",
+    "futbol",
+    "futbol argentino",
+    "futbol femenino",
+    "futbol internacional",
+    "futbol juvenil",
+    "futsal",
+    "gimnasia y esgrima la plata",
+    "historias",
+    "huracan",
+    "independiente",
+    "independiente rivadavia",
+    "institucional",
+    "interes general",
+    "internacional",
+    "juegos suramericanos",
+    "liga profesional",
+    "maradona",
+    "mercado de pases",
+    "mercado internacional",
+    "messi",
+    "mundial sub 17",
+    "perlita",
+    "platense",
+    "primera b",
+    "primera c",
+    "primera nacional",
+    "racing",
+    "racing club",
+    "recopa de campeones",
+    "reserva",
+    "river",
+    "river / institucional",
+    "river plate",
+    "rosario central",
+    "san lorenzo",
+    "santa fe 2026",
+    "sarmiento",
+    "seleccion",
+    "seleccion argentina",
+    "seleccion argentina / futbol internacional",
+    "seleccion argentina / premier league",
+    "seleccion argentina sub-20",
+    "superclasico",
+    "supercopa argentina",
+    "talleres",
+    "tigre",
+    "torneo clausura",
+    "uefa nations league",
+    "union",
+    "velez",
+    "velez sarsfield",
+    "viral",
+    "virales"
+  ]
+}
