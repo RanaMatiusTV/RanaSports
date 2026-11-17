@@ -150,7 +150,7 @@
  let categories=[];try{categories=JSON.parse(localStorage.getItem('ranasports-nav-categories:'+base.pathname)||'[]');footballMenu=JSON.parse(localStorage.getItem('ranasports-nav-football:'+base.pathname)||'null')||footballMenu;}catch{}build(categories);
  fetch(new URL('assets/football-directory.json',base).href,{cache:'no-store'})
   .then(response=>response.ok?response.json():null)
-  .then(data=>{if(!data||!Array.isArray(data.clubs)||!Array.isArray(data.tournaments))return;fullDirectory=data;footballMenu=mergeFootballMenus(footballMenu,data);build(latestCategories);})
+  .then(data=>{if(!data||!Array.isArray(data.clubs)||!Array.isArray(data.tournaments))return;fullDirectory=data;footballMenu=mergeFootballMenus(footballMenu,data);build(latestCategories);document.dispatchEvent(new CustomEvent('ranasports:football-navigation',{detail:footballMenu}));})
   .catch(()=>{});
 })();
 
