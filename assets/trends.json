@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-17T11:09:44.665Z",
+  "updatedAt": "2026-11-17T19:50:40.805Z",
   "trends": [
     {
-      "query": "clima necochea",
-      "startedAt": "2026-11-17T10:40:00.000Z",
+      "query": "asociación de trabajadores del estado",
+      "startedAt": "2026-11-17T19:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "apagón mundial",
-      "startedAt": "2026-11-17T10:30:00.000Z",
+      "query": "cuando sale gta 6",
+      "startedAt": "2026-11-17T19:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "cadáver",
+      "startedAt": "2026-11-17T19:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "bosnia y herzegovina - rumania",
+      "startedAt": "2026-11-17T19:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "acuerdo",
+      "startedAt": "2026-11-17T19:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "gales - portugal",
+      "startedAt": "2026-11-17T19:00:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "polonia - suecia",
+      "startedAt": "2026-11-17T19:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "israel - austria",
+      "startedAt": "2026-11-17T19:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "dinamarca - noruega",
+      "startedAt": "2026-11-17T18:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "plus ultra",
-      "startedAt": "2026-11-17T10:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "brasil",
-      "startedAt": "2026-11-17T10:10:00.000Z",
+      "query": "federico sturzenegger",
+      "startedAt": "2026-11-17T18:40:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "brasil vs",
-      "startedAt": "2026-11-17T10:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "club de fútbol",
-      "startedAt": "2026-11-17T09:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "clima tandil",
-      "startedAt": "2026-11-17T09:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "clima moreno",
-      "startedAt": "2026-11-17T09:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "pronostico mar del plata",
-      "startedAt": "2026-11-17T09:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "clima posadas",
-      "startedAt": "2026-11-17T09:10:00.000Z",
-      "volume": 500
     }
   ]
 }
