@@ -544,7 +544,7 @@
    const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':item.category==='agenda'?'badge-agenda':'badge-site'),item.sport));const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);body.append(meta);const heading=element('h3');heading.append(link(articleURL(item),item.title));body.append(heading,element('p','news-excerpt',item.summary));const actions=element('div','hero-actions');actions.append(link(articleURL(item),'Leer →','read-more'));body.append(actions);card.append(body);fragment.append(card);});
   if(canAppend)grid.append(fragment);else grid.replaceChildren(fragment);mountLoadMore(filtered.length);document.dispatchEvent(new Event('ranasports:news-updated'));
  }
- window.addEventListener('hashchange',()=>{renderLimit=INITIAL_RENDER_LIMIT;if(currentNews.length&&!detail)render(currentNews);});
+ // El refresco de hash se realiza en el listener común junto al buscador.
  let snapshot=false,busy=false;
  let lastGoodNews=[];
  const newsIdentity=item=>item.category+'\n'+item.date+'\n'+item.title;
