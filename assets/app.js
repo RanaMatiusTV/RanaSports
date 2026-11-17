@@ -2,7 +2,7 @@ let cards = [...document.querySelectorAll('#newsGrid .news-card')];
 let tabs = [...document.querySelectorAll('.tab')];
 const search = document.querySelector('#searchInput');
 const empty = document.querySelector('#emptyState');
-const sections = {ultimas:'Últimas noticias', independiente:'Independiente', futbol:'Fútbol', f1:'F1', seleccion:'Selección Argentina', 'suramericanos-2026':'Juegos Suramericanos 2026', otros:'Más deportes', agenda:'Agenda'};
+const sections = {ultimas:'Últimas noticias', futbol:'Fútbol', f1:'F1', seleccion:'Selección mayor', 'seleccion-mayor':'Selección Argentina — Mayor', 'suramericanos-2026':'Juegos Suramericanos 2026', otros:'Más deportes', agenda:'Agenda'};
 let active = 'todas';
 let liveModule=document.querySelector('#en-vivo');
 if(!liveModule){liveModule=document.createElement('section');liveModule.id='en-vivo';liveModule.className='dashboard-module live-module';}
@@ -126,7 +126,15 @@ function apply() {
  let count = 0;
  cards.forEach(card => {
   const matchesSpecial=active==='suramericanos-2026'&&card.dataset.suramericanos==='1';
-  const matches = !liveView && (active === 'todas' || matchesSpecial || (active!=='suramericanos-2026'&&(card.dataset.sport === active || (active==='otros' && card.dataset.category==='otros') || (!card.dataset.sport && card.dataset.category===active)))) && normalize((card.dataset.search || '') + ' ' + card.textContent).includes(q);
+  const tag=(csv,key)=>(','+(csv||'')+',').includes(','+key+',');
+  let matchesSection=active==='todas'||matchesSpecial;
+  if(active==='futbol')matchesSection=card.dataset.football==='1';
+  else if(active.startsWith('club:'))matchesSection=tag(card.dataset.clubs,active.slice(5));
+  else if(active.startsWith('torneo:'))matchesSection=tag(card.dataset.tournaments,active.slice(7));
+  else if(active==='seleccion'||active==='seleccion-mayor')matchesSection=card.dataset.selection==='mayor';
+  else if(active.startsWith('seleccion-sub-'))matchesSection=card.dataset.selection==='sub-'+active.slice(14);
+  else if(!matchesSection&&active!=='suramericanos-2026')matchesSection=card.dataset.sport===active||(active==='otros'&&card.dataset.category==='otros')||(!card.dataset.sport&&card.dataset.category===active);
+  const matches=!liveView&&matchesSection&&normalize((card.dataset.search || '') + ' ' + card.textContent).includes(q);
   card.hidden = !matches;
   if (matches) count++;
  });
@@ -134,7 +142,7 @@ function apply() {
  layoutNews();
  const key = liveView ? 'en-vivo' : active === 'todas' ? 'ultimas' : active;
  const heading = document.querySelector('#feedTitle');
- if (heading) heading.textContent = liveView?'EN VIVO':(active==='todas'&&!search?.value.trim()?'DESTACADAS':sections[key] || sections.ultimas);
+ if (heading) heading.textContent = liveView?'EN VIVO':(active==='todas'&&!search?.value.trim()?'DESTACADAS':sections[key] || (active.startsWith('club:')?'Club':active.startsWith('torneo:')?'Torneo':active.startsWith('seleccion-sub-')?'Selección Argentina '+active.slice(10).toUpperCase():sections.ultimas));
  document.querySelectorAll('.desktop-nav a, .mobile-nav a, .drawer-nav a').forEach(link => {const selected = link.getAttribute('href') === '#' + key || (key === 'ultimas' && link.getAttribute('href') === './');link.classList.toggle('active',selected); if(selected) link.setAttribute('aria-current','true');else link.removeAttribute('aria-current');});
  const f1Channel = document.querySelector('#f1Channel');
  if (f1Channel) f1Channel.hidden = liveView || active !== 'f1';
@@ -142,14 +150,14 @@ function apply() {
  if (presentations) presentations.hidden = liveView || active !== 'todas' || Boolean(q);
  if (empty) {
   if(liveView)empty.hidden=true;
-  else{empty.hidden = count > 0; empty.textContent = q ? 'No encontramos noticias para esa búsqueda.' : (active === 'todas' ? 'Todavía no hay noticias deportivas publicadas. Próximamente sumaremos información verificada.' : 'Todavía no hay noticias publicadas en ' + sections[key] + '. Podés consultar la Agenda Deportiva.');}
+  else{empty.hidden = count > 0; empty.textContent = q ? 'No encontramos noticias para esa búsqueda.' : (active === 'todas' ? 'Todavía no hay noticias deportivas publicadas. Próximamente sumaremos información verificada.' : 'Todavía no hay noticias publicadas en ' + (sections[key]||'esta sección') + '. Podés consultar la Agenda Deportiva.');}
  }
 }
 function applyHashFilter() {
  if (!newsGrid) return;
  const key = decodeURIComponent(location.hash.slice(1)) || 'ultimas';
  if(key==='en-vivo'){active='todas';apply();liveModule?.scrollIntoView({behavior:'instant'});return;}
- if (!Object.hasOwn(sections, key)) return;
+ if (!Object.hasOwn(sections, key)&&!key.startsWith('club:')&&!key.startsWith('torneo:')&&!key.startsWith('seleccion-sub-')) return;
  active = key === 'ultimas' ? 'todas' : key;
  apply();
  if (location.hash) document.querySelector(key==='agenda'?'#agendaModule':'#ultimas')?.scrollIntoView({behavior: 'instant'});
@@ -172,6 +180,12 @@ document.addEventListener('ranasports:navigation-ready',()=>{tabs=[...document.q
 document.addEventListener('ranasports:categories',event=>{
  for(const [key,label] of event.detail)if(!['ultimas','en-vivo'].includes(key))sections[key]=label;
  tabs=[...document.querySelectorAll('.tab')];
+ applyHashFilter();
+});
+document.addEventListener('ranasports:football-navigation',event=>{
+ for(const [key,label] of event.detail.clubs||[])sections['club:'+key]=label;
+ for(const [key,label] of event.detail.tournaments||[])sections['torneo:'+key]=label;
+ for(const [key,label] of event.detail.youth||[])sections['seleccion-'+key]='Selección Argentina '+label;
  applyHashFilter();
 });
 document.addEventListener('ranasports:trends',apply);
