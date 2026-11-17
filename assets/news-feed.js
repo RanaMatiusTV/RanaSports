@@ -55,10 +55,10 @@
   for(const club of footballClubDefs){
    // Priorizar la categoría, luego el título: no sumar clubes nombrados incidentalmente en el cuerpo.
    if(club.aliases.some(alias=>footballHas(combined,alias))){
-    if(club.key==='independiente'&&footballHas(combined,'independiente rivadavia')&&!footballHas(cat,'independiente')&&!/\bindependiente (?:de avellaneda|cai)\b/.test(combined))continue;
-    if(club.key==='racing-club'&&footballHas(combined,'racing de cordoba')&&!footballHas(cat,'racing')&&!footballHas(cat,'racing club'))continue;
-    if(club.key==='estudiantes-de-la-plata'&&footballHas(combined,'estudiantes de rio cuarto')&&!footballHas(cat,'estudiantes'))continue;
-    if(club.key==='ferro-carril-oeste'&&footballHas(combined,'ferro de general pico')&&!footballHas(cat,'ferro'))continue;
+    if(club.key==='independiente'&&!/\bindependiente(?! rivadavia)\b/.test(combined))continue;
+    if(club.key==='racing-club'&&!/\bracing(?! de cordoba| cordoba)\b/.test(combined))continue;
+    if(club.key==='estudiantes-de-la-plata'&&!/\bestudiantes(?! de rio cuarto| rio cuarto| de caseros| caseros)\b/.test(combined))continue;
+    if(club.key==='ferro-carril-oeste'&&!/\bferro(?! de general pico| general pico)\b/.test(combined))continue;
     clubNames.push(club.key);
    }
   }
@@ -528,7 +528,9 @@
   else if(section.startsWith('club:'))filtered=filtered.filter(item=>item.footballInfo.clubs.includes(section.slice(5)));
   else if(section.startsWith('torneo:'))filtered=filtered.filter(item=>item.footballInfo.tournaments.includes(section.slice(7)));
   else if(section==='seleccion'||section==='seleccion-mayor')filtered=filtered.filter(item=>item.footballInfo.selection==='mayor');
+  else if(section==='independiente')filtered=filtered.filter(item=>item.footballInfo.clubs.includes('independiente'));
   else if(section.startsWith('seleccion-sub-'))filtered=filtered.filter(item=>item.footballInfo.selection==='sub-'+section.slice(14));
+  if(!['','ultimas','agenda','en-vivo','futbol','seleccion','seleccion-mayor','independiente','suramericanos-2026'].includes(section)&&!section.startsWith('club:')&&!section.startsWith('torneo:')&&!section.startsWith('seleccion-sub-'))filtered=filtered.filter(item=>item.category===section||item.group===section);
   if(query)filtered=filtered.filter(item=>matchesSearch(item,query));
   // No adelantar destacadas antiguas: la portada se recorre solo por fecha y hora.
   const visibleNews=filtered.slice(0,renderLimit);
