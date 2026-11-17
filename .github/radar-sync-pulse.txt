@@ -1,25 +1,25 @@
-RANASPORTS — RADAR 1 COBERTURA 3 HORAS — 17/11/2026 00:53 ARG
-Ventana principal revisada: 16/11/2026 19:45 a 17/11/2026 00:45 Argentina, con recuperación de omisiones hasta 48 horas
-Altas verificadas y releídas en la planilla: 7
-Filas: Noticias!4855:4861
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 17/11/2026 06:55 ARG
+Ventana principal revisada: 17/11/2026 00:45 a 06:45 Argentina, con dos horas de solapamiento y auditoría de omisiones de 24 horas; una omisión deportiva se recuperó dentro de la extensión a 48 horas.
+Altas verificadas y releídas en la planilla: 11
+Filas: Noticias!4863:4873
 Títulos:
-- HOLLIE DAVIDSON SERÁ LA PRIMERA ÁRBITRA PRINCIPAL EN UN PARTIDO DE LOS PUMAS
-- RUBIALES CUMPLIÓ LA SANCIÓN DE FIFA Y VOLVIÓ A QUEDAR HABILITADO PARA EJERCER CARGOS
-- LIBERARON A LOS INTEGRANTES DE FERRO DE GENERAL PICO DETENIDOS TRAS LOS INCIDENTES
-- LA SUB-17 ARGENTINA TUVO SU PRIMER ENTRENAMIENTO EN CATAR ANTES DEL MUNDIAL
-- REGISTROS INTERNOS DE LA AFA DETALLAN PAGOS POR MÁS DE $420 MILLONES A BELIGOY
-- LUKAKU ANUNCIÓ SU RETIRO DE LA SELECCIÓN DE BÉLGICA TRAS 16 AÑOS
-- PIQUEREZ SUFRIÓ UNA MOLESTIA Y ESTÁ EN DUDA PARA LA FINAL ANTE ESTUDIANTES
-Última noticia cronológica: HOLLIE DAVIDSON SERÁ LA PRIMERA ÁRBITRA PRINCIPAL EN UN PARTIDO DE LOS PUMAS
-Contenido: 7 notas distintas con fecha y hora de primera difusión verificable, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TyC Sports, LA NACION, La Arena, World Rugby, AFA, FIFA, Reuters, EFE y coberturas regionales.
-K oportunistas: 0 incorporados; 7 vacíos para el radar de embeds.
-Total de altas con fecha 16/11/2026 en las últimas 24 horas: 28.
+- INSTITUTO VENCIÓ 82-70 A SAN LORENZO Y SUBIÓ AL SEGUNDO PUESTO DE LA LIGA NACIONAL
+- BOCA TIENE A NICOLÁS TAGLIAFICO EN EL RADAR SI VENDE A LAUTARO BLANCO
+- LEANDRO PAREDES COMENZÓ EL CURSO DE ENTRENADOR Y PROYECTA UNA DUPLA CON DI MARÍA
+- FIFPRO LOGRÓ QUE 48 FUTBOLISTAS COBRARAN CASI MEDIO MILLÓN DE DÓLARES EN DEUDAS
+- UN TESTIGO RELATÓ EL IMPACTO QUE SUFRIÓ ABEL NÚÑEZ EN EL PARTIDO DE FC EZEIZA
+- MURIÓ DINO SANI, CAMPEÓN DEL MUNDO CON BRASIL Y EXJUGADOR Y DT DE BOCA
+- RACING DE OLAVARRÍA LOGRÓ UN ASCENSO HISTÓRICO CON ONCE JUGADORES DE LA CIUDAD
+- MICAELA LEVAGGI GANÓ LA MILLA URBANA DEL SUDAMERICANO Y KAREN ROCCA FUE BRONCE
+- NATACHA CASTAÑO FUE SEGUNDA EN EL SUDAMERICANO DE MARATÓN Y ANGELINA REYES TERMINÓ CUARTA
+- EULALIO MUÑOZ GANÓ EL BRONCE EN EL SUDAMERICANO DE MARATÓN DE SANTIAGO
+- UN EQUIPO ARGENTINO TERMINÓ TERCERO EN SU CATEGORÍA EN LA BAJA 1000 DE MÉXICO
+Última noticia cronológica del lote: INSTITUTO VENCIÓ 82-70 A SAN LORENZO Y SUBIÓ AL SEGUNDO PUESTO DE LA LIGA NACIONAL — 16/11/2026 23:49 ARG.
+Última noticia cronológica de la planilla: DAKAR 2026: ARGENTINA CERRÓ CON SEIS MEDALLAS, DOS OROS Y CUATRO BRONCES — 17/11/2026 01:45 ARG, fila 4862.
+Contenido: 11 notas distintas con fecha y hora de primera difusión verificable, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TyC Sports, DeporTV, Liga Nacional de Básquet, Argentina Deportiva, FIFPRO, FIFA, CBF y Confederación Argentina de Atletismo.
+K oportunistas: 0 incorporados; 11 vacíos para el radar de embeds.
+Total acumulado con marca temporal dentro de las últimas 24 horas: 39 notas.
+Pendientes por imagen no apta o inaccesible: circular de zona de capitanes, descargo del arquero de Comunicaciones y acuerdo verbal Independiente-Tigre por Santi López.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4855:4861 en el CSV público.
-
-ACTUALIZACIÓN EDITORIAL MANUAL — 17/11/2026 01:45 ARG
-Acción: sincronizar Google Sheets Noticias luego de verificación de la nota de cierre de Dakar 2026.
-Nueva nota: fila 4862, título DAKAR 2026: ARGENTINA CERRÓ CON SEIS MEDALLAS, DOS OROS Y CUATRO BRONCES, publicación 17/11/2026 01:45 ARG.
-Duplicados de hechos ya cubiertos: Noticias!4488 A=NO (bronce Dieleke 100 m espalda); Noticias!4781 A=NO (oro futsal vs. Portugal).
-Mantener publicadas las notas originales de filas 4393 y 4739. No modificar radar 1 ni reemplazar su manifest original de la corrida 00:45.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4863:4873 en el CSV público.
