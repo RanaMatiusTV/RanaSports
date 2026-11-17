@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-marco-el-frio-y-los-neumaticos-como-claves-para-alpine-en-las-vegas/": {
+      "account": "f1",
+      "title": "COLAPINTO MARCÓ EL FRÍO Y LOS NEUMÁTICOS COMO CLAVES PARA ALPINE EN LAS VEGAS",
+      "dueAt": "2026-11-17T04:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afbd853df36f4d8256afe16",
+      "createdAt": "2026-11-17T04:30:11.195Z"
+    },
+    "https://ranasports.com.ar/futbol/la-sub-17-argentina-tuvo-su-primer-entrenamiento-en-catar-antes-del-mundial/": {
+      "account": "sports",
+      "title": "LA SUB-17 ARGENTINA TUVO SU PRIMER ENTRENAMIENTO EN CATAR ANTES DEL MUNDIAL",
+      "dueAt": "2026-11-17T05:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afbd851f83aaca8f3abb13d",
+      "createdAt": "2026-11-17T04:30:09.759Z"
+    },
+    "https://ranasports.com.ar/futbol/scaloni-confirmo-el-regreso-de-dibu-martinez-y-anticipo-cambios-contra-costa-rica/": {
+      "account": "sports",
+      "title": "SCALONI CONFIRMÓ EL REGRESO DE DIBU MARTÍNEZ Y ANTICIPÓ CAMBIOS CONTRA COSTA RICA",
+      "dueAt": "2026-11-17T05:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afbd8503e42cd001e50427f",
+      "createdAt": "2026-11-17T04:30:08.864Z"
+    },
+    "https://ranasports.com.ar/futbol/alemania-goleo-5-0-a-paises-bajos-y-gano-su-grupo-en-la-nations-league/": {
+      "account": "sports",
+      "title": "ALEMANIA GOLEÓ 5-0 A PAÍSES BAJOS Y GANÓ SU GRUPO EN LA NATIONS LEAGUE",
+      "dueAt": "2026-11-17T04:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afbd84f3e42cd001e5041fb",
+      "createdAt": "2026-11-17T04:30:08.037Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-vencio-2-0-a-ferro-y-quedo-a-un-paso-del-titulo-femenino/": {
+      "account": "sports",
+      "title": "BOCA VENCIÓ 2-0 A FERRO Y QUEDÓ A UN PASO DEL TÍTULO FEMENINO",
+      "dueAt": "2026-11-17T04:30:04.909Z",
+      "mode": "shareNow",
+      "bufferPostId": "6afbd84cf83aaca8f3abaae4",
+      "createdAt": "2026-11-17T04:30:07.229Z"
+    },
     "https://ranasports.com.ar/futbol/paredes-uso-medias-de-compresion-en-mendoza-como-parte-de-su-recuperacion/": {
       "account": "sports",
       "title": "PAREDES USÓ MEDIAS DE COMPRESIÓN EN MENDOZA COMO PARTE DE SU RECUPERACIÓN",
@@ -4819,56 +4859,6 @@
       "createdAt": "2026-10-11T22:07:23.290Z",
       "externalLink": "https://x.com/768913759301754880/status/2109408708207755330",
       "sentAt": "2026-10-11T22:20:01.875Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTc1NjM2MTAwMCwiTEFTIEJBTkFOQVMgSU5GTEFCTEVTIERFTCBDSVRZIEVOIEFORklFTEQgWSBTVSBISVNUT1JJQSBDT05UUkEgRUwgUkFDSVNNTyJd": {
-      "account": "main",
-      "title": "LAS BANANAS INFLABLES DEL CITY EN ANFIELD Y SU HISTORIA CONTRA EL RACISMO",
-      "dueAt": "2026-10-11T22:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc089aea568e911a4259bb",
-      "createdAt": "2026-10-11T22:07:22.878Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109407473429803271",
-      "sentAt": "2026-10-11T22:15:07.489Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNzU2MzYyMDAwLCJJTkRFUEVORElFTlRFIFZJU0lUQSBBIFRBTExFUkVTIENPTiBMQSBPQkxJR0FDScOTTiBERSBSRUFDQ0lPTkFSIl0": {
-      "account": "main",
-      "title": "INDEPENDIENTE VISITA A TALLERES CON LA OBLIGACIÓN DE REACCIONAR",
-      "dueAt": "2026-10-11T22:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc089aea568e911a425979",
-      "createdAt": "2026-10-11T22:07:22.445Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109406192736809020",
-      "sentAt": "2026-10-11T22:10:02.128Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzYW4gbG9yZW56byIsMTc5MTc0ODk4ODAwMCwiU0FOIExPUkVOWk8gR0FOw5MsIFBFUk8gU1VTIEhJTkNIQVMgUkVDSUJJRVJPTiBBTCBFUVVJUE8gQ09OIEZVRVJURVMgQ8OBTlRJQ09TIl0": {
-      "account": "main",
-      "title": "SAN LORENZO GANÓ, PERO SUS HINCHAS RECIBIERON AL EQUIPO CON FUERTES CÁNTICOS",
-      "dueAt": "2026-10-11T20:44:21.397Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf525a9411fbcc55b41a9",
-      "createdAt": "2026-10-11T20:44:23.529Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384636841251293",
-      "sentAt": "2026-10-11T20:44:22.848Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE3NDg5ODcwMDAsIlJPU0FSSU8gQ0VOVFJBTCBFIElOREVQRU5ESUVOVEUgUklWQURBVklBIEpVRUdBTiBVTiBEVUVMTyBDTEFWRSBQT1IgTEFTIERPUyBUQUJMQVMiXQ": {
-      "account": "main",
-      "title": "ROSARIO CENTRAL E INDEPENDIENTE RIVADAVIA JUEGAN UN DUELO CLAVE POR LAS DOS TABLAS",
-      "dueAt": "2026-10-11T20:44:16.710Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf5207db619a29148ef0e",
-      "createdAt": "2026-10-11T20:44:18.831Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384616175874527",
-      "sentAt": "2026-10-11T20:44:17.921Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzYW4gbG9yZW56byIsMTc5MTc0ODk4NjAwMCwiUk9EUsONR1VFWiBQQUdBTk8gTUFSQ8OTIFNVIFBSSU1FUiBHT0wgWSBDT1JUw5MgTEEgU0VRVcONQSBERSBTQU4gTE9SRU5aTyJd": {
-      "account": "main",
-      "title": "RODRÍGUEZ PAGANO MARCÓ SU PRIMER GOL Y CORTÓ LA SEQUÍA DE SAN LORENZO",
-      "dueAt": "2026-10-11T20:44:12.217Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acbf51c8e8dd50ffc560f12",
-      "createdAt": "2026-10-11T20:44:14.350Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109384597221806485",
-      "sentAt": "2026-10-11T20:44:13.473Z"
     }
   },
   "nextAt": {
