@@ -4,7 +4,7 @@
  const navScript=document.querySelector('script[src*="assets/navigation.js"]');
  const base=new URL('../',navScript?.src||location.href);
  const home=Boolean(document.querySelector('#newsGrid'));
- const primary=[['ultimas','Noticias'],['futbol','Fútbol'],['f1','F1']];
+ const primary=[['ultimas','Noticias'],['f1','F1']];
  const drawer=document.createElement('dialog');drawer.id='navDrawer';drawer.className='nav-drawer';drawer.setAttribute('aria-label','Menú de navegación');
  const close=document.createElement('button');close.type='button';close.className='drawer-close ghost-btn';close.textContent='× Cerrar';
  const drawerNav=document.createElement('nav');drawerNav.className='drawer-nav';drawerNav.setAttribute('aria-label','Secciones');drawer.append(close,drawerNav);document.body.append(drawer);
@@ -36,6 +36,18 @@
    .drawer-nav .nav-utility-links{border-top:1px solid #27303a;padding-top:9px;display:flex;flex-direction:column}
    .drawer-nav .nav-utility-links>a{display:flex;align-items:center;min-height:46px;padding:10px 12px;border-radius:9px;color:#f4f7fa;text-decoration:none;font-weight:850}
    .drawer-nav .nav-utility-links>a:hover{background:#171f29}
+   .drawer-nav .nav-football{margin:3px 0 6px;border-top:1px solid #27303a;border-bottom:1px solid #27303a;padding:5px 0}
+   .drawer-nav .nav-football>summary{font-weight:850}
+   .drawer-nav .nav-football>.nav-more-list{padding-left:10px;padding-bottom:8px}
+   .drawer-nav .nav-see-all{font-weight:740!important;color:#f4f7fa!important}
+   .drawer-nav .nav-youth{margin:4px 0 0 6px;border-left:2px solid #27303a;border-top:0}
+   .drawer-nav .nav-youth>summary{font-weight:670!important}
+   .drawer-nav .nav-youth>.nav-category-items{padding-left:10px}
+   .drawer-nav .nav-group-empty{font-size:12px;opacity:.7;padding:6px 12px;margin:0}
+   html[data-theme="light"] .drawer-nav .nav-see-all{color:#171b21!important}
+   html[data-theme="light"] .drawer-nav .nav-football{border-color:#e4e7ec}
+   html[data-theme="light"] .drawer-nav .nav-youth{border-color:#e4e7ec}
+
    html[data-theme="light"] .drawer-nav .nav-category-group>summary,html[data-theme="light"] .drawer-nav .nav-utility-links>a{color:#171b21!important}
    html[data-theme="light"] .drawer-nav .nav-category-group{border-color:#e4e7ec}
    html[data-theme="light"] .drawer-nav .nav-category-items>a{color:#39434e!important}
@@ -57,33 +69,66 @@
    .replace(/(^|[\s/-])([a-záéíóúñ])/g,(_,sep,letter)=>sep+letter.toLocaleUpperCase('es-AR'))
    .replace(/\b(nba|ufc|uefa|fifa|f1|f2|f3)\b/gi,word=>word.toUpperCase());
  }
+
+ let footballMenu={clubs:[],tournaments:[],youth:[],footballCategories:[]};
+ let latestCategories=[];
+ let lastNavSignature='';
  function groupName(key){
   const text=key.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
   if(/(?:automovilismo|motogp|formula|karting|motociclismo)/.test(text))return 'motor';
   if(/(?:independiente|boca|river|racing|san.lorenzo|huracan|estudiantes|velez|banfield|argentinos|union|atletico.tucuman|rosario.central|futbol|futsal|liga|copa|libertadores|sudamericana|superclasico|ascenso|primera.nacional|federal.a|torneo|recopa|mundial.sub|mercado.internacional|champions|uefa|messi|maradona|reserva|seleccion|internacional)/.test(text))return 'futbol';
   return 'otros';
  }
+ function makeGroup(label,items,hrefFor){
+  const section=document.createElement('details');section.className='nav-category-group';
+  const title=document.createElement('summary');title.textContent=label;
+  const links=document.createElement('div');links.className='nav-category-items';
+  for(const [key,name] of items)links.append(anchor(hrefFor(key),prettyName(name),true));
+  if(!items.length){const empty=document.createElement('p');empty.className='nav-group-empty';empty.textContent='Sin noticias publicadas por ahora';links.append(empty);}
+  section.append(title,links);return section;
+ }
+ function footballSection(mobile){
+  const section=document.createElement('details');section.className='nav-more nav-football';
+  const heading=document.createElement('summary');heading.textContent=mobile?'Fútbol':'FÚTBOL';
+  const list=document.createElement('div');list.className='nav-more-list';
+  const all=anchor('futbol','Todo el fútbol',true);all.className='nav-see-all';list.append(all);
+  list.append(makeGroup('Clubes',footballMenu.clubs,key=>'club:'+key));
+  list.append(makeGroup('Torneos',footballMenu.tournaments,key=>'torneo:'+key));
+  const selection=document.createElement('details');selection.className='nav-category-group';
+  const selectionHeading=document.createElement('summary');selectionHeading.textContent='Selección Argentina';
+  const selectionItems=document.createElement('div');selectionItems.className='nav-category-items';
+  const mayor=anchor('seleccion-mayor','Mayor',true);selectionItems.append(mayor);
+  const youth=document.createElement('details');youth.className='nav-category-group nav-youth';
+  const youthTitle=document.createElement('summary');youthTitle.textContent='Juveniles';
+  const youthLinks=document.createElement('div');youthLinks.className='nav-category-items';
+  for(const [key,label] of footballMenu.youth)youthLinks.append(anchor('seleccion-'+key,label,true));
+  if(!footballMenu.youth.length){const p=document.createElement('p');p.className='nav-group-empty';p.textContent='Sin Sub publicadas por ahora';youthLinks.append(p);}
+  youth.append(youthTitle,youthLinks);selectionItems.append(youth);
+  selection.append(selectionHeading,selectionItems);list.append(selection);
+  section.append(heading,list);return section;
+ }
  function build(entries){
-  const extras=[...new Map([['independiente','Independiente'],['seleccion','Selección Argentina'],...entries]
-   .filter(([key])=>!primary.some(([fixed])=>fixed===key)&&!['agenda','en-vivo','otros'].includes(key))
-   .map(([key,label])=>[key,[key,label]])).values()]
+  latestCategories=entries;
+  const signature=JSON.stringify([entries,footballMenu]);
+  if(signature===lastNavSignature)return;
+  lastNavSignature=signature;
+  const footballKeys=new Set(footballMenu.footballCategories);
+  const extras=entries
+   .filter(([key])=>!primary.some(([fixed])=>fixed===key)&&!['agenda','en-vivo','otros','futbol','seleccion'].includes(key)&&!footballKeys.has(key)&&groupName(key)!=='futbol')
    .sort((a,b)=>prettyName(a[1]).localeCompare(prettyName(b[1]),'es',{sensitivity:'base'}));
   for(const [parent,mobile] of [[nav,false],[drawerNav,true]]){
    parent.replaceChildren();
-   primary.forEach(([key,label])=>parent.append(anchor(key,label,mobile)));
+   parent.append(anchor('ultimas','Noticias',mobile));
+   parent.append(footballSection(mobile));
+   parent.append(anchor('f1','F1',mobile));
    const more=document.createElement('details');more.className='nav-more';
    const summary=document.createElement('summary');summary.textContent=mobile?'Más deportes':'MÁS DEPORTES';
    const list=document.createElement('div');list.className='nav-more-list';
-   for(const [group,label] of [['futbol','Fútbol: equipos y torneos'],['motor','Automovilismo'],['otros','Otros deportes']]){
+   for(const [group,label] of [['motor','Automovilismo'],['otros','Otros deportes']]){
     const items=extras.filter(([key])=>groupName(key)===group);
-    if(!items.length)continue;
-    const section=document.createElement('details');section.className='nav-category-group';
-    const title=document.createElement('summary');title.textContent=label;
-    const links=document.createElement('div');links.className='nav-category-items';
-    items.forEach(([key,name])=>links.append(anchor(key,prettyName(name),true)));
-    section.append(title,links);list.append(section);
+    if(items.length)list.append(makeGroup(label,items,key=>key));
    }
-   if(!extras.length){const p=document.createElement('p');p.textContent='Sin otras categorías publicadas.';list.append(p);}
+   if(!extras.length){const p=document.createElement('p');p.className='nav-group-empty';p.textContent='Sin otras categorías publicadas';list.append(p);}
    more.append(summary,list);parent.append(more);
    if(mobile){
     const utilities=document.createElement('div');utilities.className='nav-utility-links';
@@ -93,9 +138,10 @@
   document.dispatchEvent(new Event('ranasports:navigation-ready'));
  }
  document.addEventListener('ranasports:categories',event=>{build(event.detail);try{localStorage.setItem('ranasports-nav-categories:'+base.pathname,JSON.stringify(event.detail));}catch{}});
+ document.addEventListener('ranasports:football-navigation',event=>{footballMenu=event.detail;build(latestCategories);try{localStorage.setItem('ranasports-nav-football:'+base.pathname,JSON.stringify(event.detail));}catch{}});
  nav.addEventListener('click',event=>{if(event.target.closest('a'))nav.querySelector('details')?.removeAttribute('open');});
  drawerNav.addEventListener('click',event=>{if(event.target.closest('a'))drawer.close();});
- let categories=[];try{categories=JSON.parse(localStorage.getItem('ranasports-nav-categories:'+base.pathname)||'[]');}catch{}build(categories);
+ let categories=[];try{categories=JSON.parse(localStorage.getItem('ranasports-nav-categories:'+base.pathname)||'[]');footballMenu=JSON.parse(localStorage.getItem('ranasports-nav-football:'+base.pathname)||'null')||footballMenu;}catch{}build(categories);
 })();
 
 // Mantiene el aviso legal compatible con contribuciones voluntarias al proyecto.
