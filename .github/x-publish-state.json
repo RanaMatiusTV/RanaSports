@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/cuatro-sobrevivientes-del-escandalo-de-2021-volveran-a-cruzarse-en-boca-mineiro/": {
+      "account": "sports",
+      "title": "CUATRO SOBREVIVIENTES DEL ESCÁNDALO DE 2021 VOLVERÁN A CRUZARSE EN BOCA-MINEIRO",
+      "dueAt": "2026-11-17T15:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afc64492b8ef843379d8ac0",
+      "createdAt": "2026-11-17T14:27:22.030Z"
+    },
+    "https://ranasports.com.ar/uefa-nations-league/italia-quedo-eliminada-de-la-nations-league-tras-caer-4-1-ante-belgica/": {
+      "account": "sports",
+      "title": "ITALIA QUEDÓ ELIMINADA DE LA NATIONS LEAGUE TRAS CAER 4-1 ANTE BÉLGICA",
+      "dueAt": "2026-11-17T15:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afc64492b8ef843379d8a73",
+      "createdAt": "2026-11-17T14:27:21.580Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-puede-lograr-cinco-titulos-en-43-dias-y-romper-un-record-centenario/": {
+      "account": "sports",
+      "title": "BOCA PUEDE LOGRAR CINCO TÍTULOS EN 43 DÍAS Y ROMPER UN RÉCORD CENTENARIO",
+      "dueAt": "2026-11-17T14:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afc6449adb7190bcae41dc5",
+      "createdAt": "2026-11-17T14:27:21.162Z"
+    },
+    "https://ranasports.com.ar/futbol/ecuador-perdio-a-gonzalo-plata-y-denil-castillo-para-el-amistoso-ante-bolivia/": {
+      "account": "sports",
+      "title": "ECUADOR PERDIÓ A GONZALO PLATA Y DENIL CASTILLO PARA EL AMISTOSO ANTE BOLIVIA",
+      "dueAt": "2026-11-17T14:27:18.640Z",
+      "mode": "shareNow",
+      "bufferPostId": "6afc64462b8ef843379d89d8",
+      "createdAt": "2026-11-17T14:27:20.716Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-marco-el-frio-y-los-neumaticos-como-claves-para-alpine-en-las-vegas/": {
       "account": "f1",
       "title": "COLAPINTO MARCÓ EL FRÍO Y LOS NEUMÁTICOS COMO CLAVES PARA ALPINE EN LAS VEGAS",
@@ -4819,46 +4851,6 @@
       "createdAt": "2026-10-12T00:10:34.396Z",
       "externalLink": "https://x.com/768913759301754880/status/2109437668152967214",
       "sentAt": "2026-10-12T00:15:06.447Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE3NTYzNjYwMDAsIkRJIE1BUsONQSBCUklMTMOTIFkgUk9TQVJJTyBDRU5UUkFMIEdPTEXDkyA1LTAgQSBJTkRFUEVORElFTlRFIFJJVkFEQVZJQSJd": {
-      "account": "main",
-      "title": "DI MARÍA BRILLÓ Y ROSARIO CENTRAL GOLEÓ 5-0 A INDEPENDIENTE RIVADAVIA",
-      "dueAt": "2026-10-11T22:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc089c8e8dd50ffc599ace",
-      "createdAt": "2026-10-11T22:07:24.439Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109412484415152450",
-      "sentAt": "2026-10-11T22:35:02.167Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE3NTYzNjUwMDAsIlBMQVRFTlNFIFkgQVJHRU5USU5PUyBFTVBBVEFST04gMS0xIEVOIFZJQ0VOVEUgTMOTUEVaIl0": {
-      "account": "main",
-      "title": "PLATENSE Y ARGENTINOS EMPATARON 1-1 EN VICENTE LÓPEZ",
-      "dueAt": "2026-10-11T22:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc089cea568e911a425a01",
-      "createdAt": "2026-10-11T22:07:24.128Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109411254288749014",
-      "sentAt": "2026-10-11T22:30:08.917Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyYWNpbmciLDE3OTE3NTYzNjQwMDAsIlJBQ0lORyBSRUNJQkUgQSBCRUxHUkFOTyBDT04gTE9TIE9OQ0UgQ09ORklSTUFET1MiXQ": {
-      "account": "main",
-      "title": "RACING RECIBE A BELGRANO CON LOS ONCE CONFIRMADOS",
-      "dueAt": "2026-10-11T22:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc089bfa026cfb81188adc",
-      "createdAt": "2026-10-11T22:07:23.714Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109409967912480954",
-      "sentAt": "2026-10-11T22:25:02.192Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTc1NjM2MzAwMCwiRUwgS0lMWSBSRVZFTMOTIFFVRSBBIE1FU1NJIExPIEVOVFVTSUFTTUEgSlVHQVIgTEEgQ09QQSBMSUJFUlRBRE9SRVMiXQ": {
-      "account": "main",
-      "title": "EL KILY REVELÓ QUE A MESSI LO ENTUSIASMA JUGAR LA COPA LIBERTADORES",
-      "dueAt": "2026-10-11T22:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc089b7db619a2914c6023",
-      "createdAt": "2026-10-11T22:07:23.290Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109408708207755330",
-      "sentAt": "2026-10-11T22:20:01.875Z"
     }
   },
   "nextAt": {
