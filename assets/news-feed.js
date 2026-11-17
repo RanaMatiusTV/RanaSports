@@ -414,7 +414,7 @@
   const meta=element('div','meta');meta.append(element('span','badge '+(item.category==='f1'?'badge-f1':'badge-site'),item.sport));const time=element('time','',dateFormat.format(item.date)+' (ARG)');time.dateTime=new Date(item.date).toISOString();meta.append(time);
   const header=element('header','article-header'),heading=element('h1','',item.title);heading.id='articleTitle';
   const authorInfo=element('p','article-meta');
-  authorInfo.append(document.createTextNode('Redacción RanaSports · '),link(new URL('legal/politica-editorial.html',siteBase).href,'Cómo elaboramos las noticias'));
+  authorInfo.textContent='Redacción RanaSports';
   header.append(meta,heading,authorInfo);detail.append(header);appendArticlePhoto(item);
   document.querySelector('meta[name="author"]')?.setAttribute('content','Redacción RanaSports');
   const paragraphs=editorialParagraphs(item),articleText=paragraphs.join('\n\n');
