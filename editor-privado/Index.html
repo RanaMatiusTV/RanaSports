@@ -22,6 +22,11 @@
     .toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 18px}.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}
     .status{font-size:13px;color:#b8c9e0;min-height:20px}.status.error{color:#ffadad}.status.ok{color:#93dfb7}
     #recent{display:grid;gap:7px;max-height:67vh;overflow:auto;margin-top:12px}
+    .search-row{display:flex;gap:7px;align-items:center}.search-row input{min-width:0;flex:1}
+    #history{margin-top:20px;padding-top:16px;border-top:1px solid var(--border)}
+    .revision{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:9px 0;border-bottom:1px solid var(--border)}
+    .revision small{display:block;font-size:11px}.revision button{white-space:nowrap}
+    .danger{border-color:#a3485c;background:#52232c}
     .article{border:1px solid #253248;background:#0a1321;border-radius:9px;padding:11px;cursor:pointer;color:#e9f1ff;text-align:left;font-weight:650;font-size:12px}
     .article:hover{border-color:#758eb7}.article small{display:block;margin-top:5px;font-weight:400}
     .pill{display:inline-block;border-radius:10px;padding:2px 7px;background:#30415a;font-size:10px;margin:3px 4px 0 0}.pill.manual{background:#3c2b48}
@@ -37,8 +42,11 @@
   <main>
     <aside>
       <h2>Noticias existentes</h2>
-      <p class="hint">Elegí una noticia para cambiar solo su texto, foto o embed. Al guardar, queda protegida contra cambios automáticos.</p>
-      <button id="newBtn" type="button">+ Nueva noticia</button>
+      <p class="hint">Podés editar noticias del radar o tuyas. Buscá por parte del título, incluso si son antiguas.</p>
+      <label for="newsSearch">Buscar noticias</label>
+      <div class="search-row"><input id="newsSearch" type="search" placeholder="Al menos 3 letras..." aria-label="Título a buscar"><button id="searchBtn" type="button">Buscar</button></div>
+      <div class="toolbar" style="margin-top:10px"><button id="clearSearchBtn" type="button">Últimas noticias</button><button id="newBtn" type="button">+ Nueva noticia</button></div>
+      <p id="listHint" class="hint">Últimas noticias de la planilla.</p>
       <div id="recent" aria-label="Últimas noticias">Cargando...</div>
     </aside>
     <section class="panel">
@@ -78,9 +86,15 @@
         <div class="actions">
           <button id="draftBtn" type="button">Guardar borrador</button>
           <button id="publishBtn" class="primary" type="button">Publicar noticia</button>
+          <button id="unpublishBtn" class="danger" type="button" hidden>Despublicar</button>
         </div>
-        <p class="hint">Los cambios manuales se guardan con bloqueo editorial. No se modifican los radares ni sus horarios.</p>
+        <p class="hint">Los cambios se guardan con bloqueo editorial (columna R). El radar sigue trabajando normalmente. Si hay cambios simultáneos, se te pedirá recargar la nota.</p>
       </form>
+      <section id="history" hidden>
+        <h2>Historial de cambios</h2>
+        <p class="hint">Cada modificación guarda una copia anterior en una planilla privada separada. Podés restaurarla.</p>
+        <div id="revisionList"></div>
+      </section>
       <section id="preview" hidden>
         <h2 id="previewTitle"></h2>
         <p id="previewDate" class="muted"></p>
@@ -94,44 +108,101 @@
 (() => {
   'use strict';
   const $ = id => document.getElementById(id);
-  let selectedRow = 0, busy = false;
+  let selectedRow = 0, selectedVersion = '', selectedPublished = false, busy = false;
   const fields = ['date','time','category','title','body','imageUrl','photoCredit','embedUrl','embedUrl2','source','sourceUrl','noteUrl'];
   function message(text, type) { $('notice').textContent=text; $('notice').className='status '+(type||''); }
-  function setBusy(flag) { busy=flag; for(const id of ['newBtn','refreshBtn','draftBtn','publishBtn'])$(id).disabled=flag; }
+  function setBusy(flag) { busy=flag; for(const id of ['newBtn','refreshBtn','draftBtn','publishBtn','unpublishBtn','searchBtn','clearSearchBtn'])$(id).disabled=flag; }
+  function updateActions(){
+    $('unpublishBtn').hidden=!(selectedRow && selectedPublished);
+    $('draftBtn').textContent=selectedRow && selectedPublished?'Guardar cambios':'Guardar borrador';
+    $('publishBtn').textContent=selectedRow && selectedPublished?'Guardar y mantener publicada':'Publicar noticia';
+  }
+  function showItems(items){
+    const node=$('recent');node.replaceChildren();
+    for(const item of items){
+      const btn=document.createElement('button');btn.type='button';btn.className='article';
+      btn.append(document.createTextNode(item.title));
+      const sub=document.createElement('small');
+      sub.textContent=item.date+' '+item.time+' · '+item.category+
+        (item.published?' · Publicada':' · Borrador')+(item.locked?' · Manual':'');
+      btn.append(sub);btn.onclick=()=>load(item.row);node.append(btn);
+    }
+    if(!items.length)node.textContent='No encontré noticias con ese título.';
+  }
+  function requestHistory(){
+    $('history').hidden=!selectedRow;
+    $('revisionList').textContent=selectedRow?'Consultando historial...':'';
+    if(!selectedRow)return;
+    const row=selectedRow;
+    google.script.run.withSuccessHandler(items=>{
+      if(row!==selectedRow)return;
+      const node=$('revisionList');node.replaceChildren();
+      if(!items.length){node.textContent='Todavía no hay versiones anteriores.';return;}
+      for(const item of items){
+        const el=document.createElement('div');el.className='revision';
+        const info=document.createElement('div');
+        info.textContent=item.action;
+        const small=document.createElement('small');small.textContent=item.when+' · '+item.title;info.append(small);
+        const btn=document.createElement('button');btn.type='button';btn.textContent='Restaurar';
+        btn.onclick=()=>restore(item.revision,item.when);
+        el.append(info,btn);node.append(el);
+      }
+    }).withFailureHandler(err=>$('revisionList').textContent='No se pudo leer el historial: '+(err.message||String(err))).listNewsHistory(row);
+  }
+  function restore(revision,when){
+    if(busy||!selectedRow)return;
+    if(!confirm('¿Restaurar la versión anterior del '+when+'? Se guardará una copia del estado actual.'))return;
+    setBusy(true);message('Restaurando versión...');
+    google.script.run.withSuccessHandler(()=>{
+      setBusy(false);
+      const row=selectedRow;
+      load(row);
+      requestList();
+    }).withFailureHandler(error).restoreNews(selectedRow,revision,selectedVersion);
+  }
   function error(err) { setBusy(false); message(err?.message||String(err), 'error'); }
   function getValue(id) { return $(id).value.trim(); }
   function clearForm(now) {
-    selectedRow=0; for(const id of fields)$(id).value='';
+    selectedRow=0;selectedVersion='';selectedPublished=false; for(const id of fields)$(id).value='';
     $('source').value='RanaSports';$('category').value='INDEPENDIENTE';
     $('date').value=now?.date||'';$('time').value=now?.time||'';
     $('featured').checked=false;$('editorTitle').textContent='Nueva noticia';
     $('modeHint').textContent='Podés guardar un borrador o publicar. Los radares no alterarán tus notas.';
-    $('preview').hidden=true;$('imagePreview').style.display='none';$('photoFile').value='';
-    message('');
+    $('preview').hidden=true;$('history').hidden=true;
+    $('imagePreview').style.display='none';$('photoFile').value='';
+    updateActions();message('');
   }
   function requestList() {
-    google.script.run.withSuccessHandler(data => {
-      setBusy(false);
-      const node = $('recent'); node.replaceChildren();
-      for(const item of data.items) {
-        const btn=document.createElement('button'); btn.type='button'; btn.className='article';
-        btn.append(document.createTextNode(item.title));
-        const sub=document.createElement('small');
-        sub.textContent=item.date+' '+item.time+' · '+item.category+(item.published?' · Publicada':' · Borrador')+(item.locked?' · Manual':'');
-        btn.append(sub);btn.onclick=()=>load(item.row);node.append(btn);
-      }
+    $('listHint').textContent='Últimas noticias de la planilla.';
+    $('newsSearch').value='';
+    google.script.run.withSuccessHandler(data=>{
+      showItems(data.items);
       if(!selectedRow&&!getValue('date'))clearForm(data.now);
     }).withFailureHandler(error).recentNews();
+  }
+  function runSearch(){
+    const q=getValue('newsSearch');
+    if(q.length<3){message('Escribí al menos tres letras para buscar.','error');return;}
+    $('listHint').textContent='Buscando: '+q;
+    $('recent').textContent='Buscando en todas las noticias...';
+    google.script.run.withSuccessHandler(data=>{
+      showItems(data.items);
+      $('listHint').textContent='Hasta 80 coincidencias con: '+q;
+    }).withFailureHandler(err=>{
+      $('recent').textContent='No se pudo completar la búsqueda.';
+      message(err.message||String(err),'error');
+    }).searchNews(q);
   }
   function load(row) {
     if(busy)return;setBusy(true);message('Cargando noticia...');
     google.script.run.withSuccessHandler(a=>{
-      setBusy(false);selectedRow=a.row;
+      setBusy(false);selectedRow=a.row;selectedVersion=a.version;selectedPublished=!!a.published;
       for(const id of fields)$(id).value=a[id]||'';
       $('featured').checked=!!a.featured;
       $('editorTitle').textContent='Editar noticia · fila '+a.row;
       $('modeHint').textContent=a.published?'Publicada · Podés modificar texto, foto o embed y volver a publicar.':'Borrador · Podés completarlo y publicarlo.';
-      $('preview').hidden=true;updatePhoto();message('Noticia cargada. Las ediciones se protegerán al guardar.');
+      $('preview').hidden=true;updatePhoto();updateActions();requestHistory();
+      message('Noticia cargada. Los cambios quedarán protegidos al guardar.');
     }).withFailureHandler(error).getNews(row);
   }
   function updatePhoto(){
@@ -139,20 +210,22 @@
     if(/^https:\/\//i.test(url)){img.src=url;img.style.display='block';}else{img.removeAttribute('src');img.style.display='none';}
   }
   function payload(action) {
-    const obj={row:selectedRow,action,featured:$('featured').checked};
+    const obj={row:selectedRow,version:selectedVersion,action,featured:$('featured').checked};
     for(const id of fields)obj[id]=getValue(id);
     return obj;
   }
   function save(action) {
     if(busy)return;const data=payload(action);
     if(action==='publish'&&(!data.title||!data.body||!data.category)){message('Completá título, categoría y texto.','error');return;}
-    setBusy(true);message(action==='publish'?'Publicando...':'Guardando borrador...');
+    setBusy(true);
+    message(action==='unpublish'?'Despublicando...':action==='publish'?'Guardando y publicando...':'Guardando cambios...');
     google.script.run.withSuccessHandler(res=>{
-      setBusy(false);selectedRow=res.row;
+      setBusy(false);selectedRow=res.row;selectedVersion=res.version;selectedPublished=!!res.published;
       $('editorTitle').textContent='Editar noticia · fila '+res.row;
+      updateActions();requestHistory();
       message(res.published
-        ?'Guardado y marcado para publicación. '+(res.syncRequested?'Sincronización de GitHub solicitada.':'GitHub lo recogerá en su próxima sincronización.')+' Edición manual protegida.'
-        :'Borrador guardado. No aparece en el portal.', 'ok');
+        ?'Cambios guardados. Se verán tras la sincronización de la planilla con el portal.'
+        :'Guardado sin publicación. No debería aparecer en el portal tras sincronizar.', 'ok');
       requestList();
     }).withFailureHandler(error).saveNews(data);
   }
@@ -190,8 +263,12 @@
     google.script.run.withSuccessHandler(data=>clearForm(data.now)).withFailureHandler(error).recentNews();
   };
   $('refreshBtn').onclick=requestList;
+  $('clearSearchBtn').onclick=requestList;
+  $('searchBtn').onclick=runSearch;
+  $('newsSearch').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();runSearch();}});
   $('draftBtn').onclick=()=>save('draft');
   $('publishBtn').onclick=()=>save('publish');
+  $('unpublishBtn').onclick=()=>{if(confirm('¿Despublicar esta noticia? Podés volver a publicarla luego.'))save('unpublish');};
   $('previewBtn').onclick=preview;
   $('imageUrl').addEventListener('input',updatePhoto);
   $('photoFile').addEventListener('change',e=>upload(e.target.files?.[0]));
