@@ -26,9 +26,14 @@ Google Apps Script gestiona la cuenta y la autenticación. Código fuente y acce
 ## Qué permite
 
 - Crear borradores (A = NO) y publicar artículos (A = SI).
-- Editar cualquier nota existente: título, cuerpo, fecha/hora, foto, crédito, fuente, categoría, primer y segundo embed, destacado.
+- Editar cualquier nota existente, incluidas las del radar: título, texto, fecha/hora, foto, crédito, fuente, categoría y hasta dos embeds.
+- Buscar noticias de cualquier fecha por una parte del título, sin depender de las últimas 180.
+- Guardar los cambios de una noticia publicada sin despublicarla accidentalmente.
+- Despublicar expresamente una nota, previa confirmación. **Cuidado:** el control de datos antiguos de GitHub puede demorar o impedir que desaparezca la nota más reciente; verificar el resultado público.
+- Consultar hasta 30 versiones previas por nota y restaurarlas. Cada modificación conserva el estado anterior en una **planilla nueva, privada e independiente**, creada automáticamente en Google Drive al editar por primera vez.
+- Evitar pisar ediciones simultáneas mediante un control de versión: si la fila cambió desde que se abrió, hay que volver a cargarla.
 - Cambiar solo una foto o un embed sobre una noticia ya publicada, sin rehacer el resto del contenido.
-- Marcar la nota como **protegida** en la columna R = TRUE cuando se guarda manualmente, para que los radares que respetan R no sobrescriban la edición.
+- Marcar la nota como **protegida** en la columna R = TRUE cuando se guarda manualmente. **Importante:** esta marca solo protege efectivamente contra radares configurados para respetarla; el editor por sí solo no puede impedir cambios hechos desde otro proceso.
 - Previsualizar título, párrafos y fotografía.
 - Usar una imagen directa por URL HTTPS sin configuración adicional.
 - Subir fotografías locales al repositorio, **solo cuando se configure un permiso de GitHub**.
@@ -46,7 +51,7 @@ El botón de subida local necesita un permiso de GitHub. **No compartas un token
 3. Nombre: **GITHUB_UPLOAD_TOKEN** / Valor: pegar ahí el token. Guardar. Nunca colocarlo en Code.gs, Index.html, README o Google Sheets.
 4. Volver a desplegar la versión actualizada si es necesario y probar una foto propia no sensible. Las subidas se guardarán en assets/manual/ y aparecerán en ranasports.com.ar/assets/manual/ una vez desplegado GitHub Pages.
 
-Con el token, al publicar una noticia se intenta activar también la sincronización GitHub. Sin él, las notas siguen entrando en la planilla y se incorporan al feed mediante la sincronización programada del repositorio, actualmente cada cinco minutos; el tiempo efectivo de publicación puede ser mayor por propagación de Google Sheets/GitHub Pages.
+El token se usa **únicamente para subir fotos**. Publicar/editar notas no escribe en el pulso de los radares ni modifica automatizaciones. Las noticias entran en la planilla y se incorporan al feed mediante la sincronización programada de GitHub, actualmente cada cinco minutos; el tiempo efectivo puede ser mayor por propagación de Google Sheets y GitHub Pages.
 
 **No usar el enlace de prueba /dev como sustituto de la aplicación desplegada /exec** para trabajar cotidianamente; cada actualización del proyecto puede requerir nueva versión de implementación.
 
@@ -54,12 +59,16 @@ Con el token, al publicar una noticia se intenta activar también la sincronizac
 
 1. Guardar una nota como **borrador**. Verificar en Google Sheets: A = NO, R = TRUE y texto conservado; no debe aparecer públicamente.
 2. Volver a abrir el borrador, agregar foto HTTPS y un embed oficial compatible, publicar. Verificar en Sheets: A = SI, R = TRUE; después esperar la sincronización y comprobar la nota en RanaSports.
-3. Editar una nota publicada y reemplazar solo la foto o el embed. Confirmar que título/cuerpo siguen intactos y que R queda TRUE.
-4. Confirmar que desde otra cuenta Google o una ventana sin iniciar sesión **no se puede abrir el panel privado**. Si puede abrirse, **desactivar la implementación** y corregir quién tiene acceso antes de utilizarlo.
+3. Editar una nota publicada del radar y reemplazar solo la foto o el embed. Confirmar que título/cuerpo, prioridad editorial y metadatos de foto siguen intactos y R queda TRUE.
+4. Verificar que el historial privado muestre la versión anterior, restaurar una edición de prueba y revisar el portal tras la sincronización.
+5. Abrir la misma URL /exec desde el celular con la misma cuenta de Google. Confirmar que otra cuenta Google o una ventana sin iniciar sesión **no puede abrir el panel privado**. Si puede abrirse, **desactivar la implementación** y corregir quién tiene acceso antes de utilizarlo.
 
 ## Restricciones reales
 
-- Este código todavía requiere la **instalación y despliegue manual** por el propietario de la cuenta; el repositorio por sí solo no da una URL privada funcional.
+- Este código todavía requiere la **instalación y despliegue manual** por el propietario de la cuenta; el repositorio por sí solo no da una URL privada funcional. Los archivos se guardan solo en la rama `editor-privado-fuentes`, **fuera de GitHub Pages**.
+- El acceso desde cualquier dispositivo es mediante navegador y la **misma cuenta de Google** propietaria del despliegue; el panel es adaptable a PC y celular.
+- El historial se guarda en otro documento de Sheets privado creado por el script. No compartir ni publicar ese archivo. Para conservarlo, no eliminarlo de Drive.
+- Se debe comprobar que las automatizaciones respetan R=TRUE; este editor no cambia sus instrucciones.
 - El panel no instala un sistema propio de usuario/contraseña. Aprovecha la autenticación existente de Google, más segura que esconder una clave en una página estática.
 - Si algún día necesitás cuentas independientes para otros redactores, roles, auditoría o autenticación exclusiva de RanaSports, necesitaremos un servicio de identidad y un backend con permisos adecuados, no GitHub Pages sin protección.
 - Si se cambia fecha, hora o título de una noticia existente, su URL interna puede modificarse, porque el portal usa esos datos para construir el identificador del artículo.
