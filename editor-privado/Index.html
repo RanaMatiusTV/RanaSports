@@ -108,7 +108,7 @@
 (() => {
   'use strict';
   const $ = id => document.getElementById(id);
-  let selectedRow = 0, selectedVersion = '', selectedPublished = false, busy = false;
+  let selectedRow = 0, selectedVersion = '', selectedPublished = false, busy = false, originalIdentity = '';
   const fields = ['date','time','category','title','body','imageUrl','photoCredit','embedUrl','embedUrl2','source','sourceUrl','noteUrl'];
   function message(text, type) { $('notice').textContent=text; $('notice').className='status '+(type||''); }
   function setBusy(flag) { busy=flag; for(const id of ['newBtn','refreshBtn','draftBtn','publishBtn','unpublishBtn','searchBtn','clearSearchBtn'])$(id).disabled=flag; }
@@ -163,11 +163,11 @@
   function error(err) { setBusy(false); message(err?.message||String(err), 'error'); }
   function getValue(id) { return $(id).value.trim(); }
   function clearForm(now) {
-    selectedRow=0;selectedVersion='';selectedPublished=false; for(const id of fields)$(id).value='';
+    selectedRow=0;selectedVersion='';selectedPublished=false;originalIdentity=''; for(const id of fields)$(id).value='';
     $('source').value='RanaSports';$('category').value='INDEPENDIENTE';
     $('date').value=now?.date||'';$('time').value=now?.time||'';
     $('featured').checked=false;$('editorTitle').textContent='Nueva noticia';
-    $('modeHint').textContent='Podés guardar un borrador o publicar. Los radares no alterarán tus notas.';
+    $('modeHint').textContent='Podés guardar un borrador o publicar. Las notas editadas se marcan con bloqueo manual para los radares.';
     $('preview').hidden=true;$('history').hidden=true;
     $('imagePreview').style.display='none';$('photoFile').value='';
     updateActions();message('');
@@ -198,6 +198,7 @@
     google.script.run.withSuccessHandler(a=>{
       setBusy(false);selectedRow=a.row;selectedVersion=a.version;selectedPublished=!!a.published;
       for(const id of fields)$(id).value=a[id]||'';
+      originalIdentity=[a.date,a.time,a.category,a.title].join('|');
       $('featured').checked=!!a.featured;
       $('editorTitle').textContent='Editar noticia · fila '+a.row;
       $('modeHint').textContent=a.published?'Publicada · Podés modificar texto, foto o embed y volver a publicar.':'Borrador · Podés completarlo y publicarlo.';
@@ -217,10 +218,13 @@
   function save(action) {
     if(busy)return;const data=payload(action);
     if(action==='publish'&&(!data.title||!data.body||!data.category)){message('Completá título, categoría y texto.','error');return;}
+    if(selectedRow && originalIdentity && [data.date,data.time,data.category,data.title].join('|')!==originalIdentity &&
+       !confirm('Cambiar título, categoría, fecha u hora puede modificar el enlace de la noticia. ¿Continuar?'))return;
     setBusy(true);
     message(action==='unpublish'?'Despublicando...':action==='publish'?'Guardando y publicando...':'Guardando cambios...');
     google.script.run.withSuccessHandler(res=>{
       setBusy(false);selectedRow=res.row;selectedVersion=res.version;selectedPublished=!!res.published;
+      originalIdentity=[data.date,data.time,data.category,data.title.toUpperCase()].join('|');
       $('editorTitle').textContent='Editar noticia · fila '+res.row;
       updateActions();requestHistory();
       message(res.published
