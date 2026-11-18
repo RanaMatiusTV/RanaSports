@@ -1,25 +1,25 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 17/11/2026 18:45 ARG
-Ventana principal revisada: 17/11/2026 15:45 a 18:45 Argentina, con dos horas de solapamiento desde las 13:45 y control de omisiones y duplicados sobre el bloque reciente.
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 17/11/2026 21:45 ARG
+Ventana principal revisada: 17/11/2026 18:45 a 21:45 Argentina, con dos horas de solapamiento desde las 16:45 y control de omisiones y duplicados sobre el bloque reciente.
 Altas verificadas y releídas en la planilla: 10
-Filas: Noticias!4894:4903
+Filas: Noticias!4904:4913
 Títulos:
-- ANÍBAL MORENO SERÁ OPERADO Y NO VOLVERÁ A JUGAR EN RIVER HASTA 2027
-- LUIS SUÁREZ DIJO QUE ÉL Y MESSI SEGUIRÁN MIENTRAS DISFRUTEN Y SE SIENTAN COMPETITIVOS
-- INDEPENDIENTE SIGUE INHIBIDO POR FIFA POR LA DEUDA DEL PASE DE KEVIN LOMÓNACO
-- ÉVER BANEGA ADMITIÓ QUE TIENE UN 80 POR CIENTO DE DECISIÓN TOMADA PARA RETIRARSE
-- JESÚS VALENZUELA DIRIGIRÁ LA FINAL DE LA LIBERTADORES ENTRE ESTUDIANTES Y PALMEIRAS
-- AFA CONFIRMÓ LOS ÁRBITROS PARA LOS OCTAVOS DE FINAL DEL TORNEO CLAUSURA
-- LIVERPOOL ABRIÓ NEGOCIACIONES PARA RENOVAR EL CONTRATO DE ALEXIS MAC ALLISTER
-- LA FIA EVALUARÁ CAMBIOS EN EL USO DE ENERGÍA PARA FACILITAR LOS SOBREPASOS EN FÓRMULA 1
-- INDEPENDIENTE CAYÓ 2-1 ANTE NEWELL’S POR EL TORNEO CLAUSURA FEMENINO
-- PORTUGAL VENCIÓ 3-2 A GALES Y AVANZÓ A LOS CUARTOS DE FINAL DE LA NATIONS LEAGUE
-Última noticia cronológica del lote y de la planilla: PORTUGAL VENCIÓ 3-2 A GALES Y AVANZÓ A LOS CUARTOS DE FINAL DE LA NATIONS LEAGUE — 17/11/2026 18:40 ARG, fila 4903.
-Contenido: 10 notas distintas con fecha y hora sustentadas por primera difusión o confirmación consultada, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TyC Sports, AFA y UOL Esporte; contraste de resultados con UEFA y búsqueda complementaria en ESPN, Olé, LA NACION, Infobae Deportes y fuentes de resultados.
-Disciplinas y áreas: Independiente masculino y femenino, River, Torneo Clausura, Copa Libertadores, Selección Argentina/Messi, Premier League, Fórmula 1 y Nations League.
+- COLAPINTO Y GASLY ESTRENARÁN UNA DECORACIÓN ROSA DE ALPINE EN LAS TRES ÚLTIMAS CARRERAS
+- ALPINE INCORPORARÁ EN LAS VEGAS UNA EVOLUCIÓN DEL MOTOR MERCEDES PARA COLAPINTO Y GASLY
+- LA AFA PROGRAMÓ GIMNASIA DE JUJUY-DEPORTIVO MADRYN MIENTRAS SE ESPERA EL FALLO POR EL PARTIDO SUSPENDIDO
+- EL REGRESO DEL CUTI ROMERO SE DEMORÓ Y NO JUGARÁ ANTE GETAFE
+- JJ GABRIEL CONFIRMÓ SU SALIDA DE MANCHESTER UNITED Y NEGOCIA SU LLEGADA A REAL MADRID
+- LAUTARO MIDÓN QUEDÓ ELIMINADO DEL URUGUAY OPEN ANTE JUAN CARLOS PRADO ANGELO
+- ZVEREV VENCIÓ A SHELTON Y SE CLASIFICÓ A LAS SEMIFINALES DEL ATP FINALS
+- NICO PAZ MARCÓ DOS GOLAZOS ANTE COSTA RICA Y LLEGÓ A SEIS TANTOS CON LA SELECCIÓN
+- JULIÁN ÁLVAREZ CONVIRTIÓ UN DOBLETE ANTE COSTA RICA Y ALCANZÓ 19 GOLES EN LA SELECCIÓN
+- ARGENTINA GOLEÓ 6-0 A COSTA RICA EN CÓRDOBA Y CERRÓ SU CALENDARIO DE 2026
+Última noticia cronológica del lote y de la planilla: ARGENTINA GOLEÓ 6-0 A COSTA RICA EN CÓRDOBA Y CERRÓ SU CALENDARIO DE 2026 — 17/11/2026 21:45 ARG, fila 4913.
+Contenido: 10 notas distintas con fecha y hora sustentadas por primera difusión, minuto a minuto o confirmación consultada, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TyC Sports, ATP Tour, TennisData y La Razón; contraste complementario en AFA, LA NACION, TN, ESPN, Olé y resultados especializados.
+Disciplinas y áreas: Selección Argentina, Fórmula 1/Colapinto, Primera Nacional, Atlético de Madrid/Cuti Romero, Manchester United y tenis.
 K oportunistas: 0 incorporados; 10 vacíos para el radar de embeds.
-Total acumulado con marca temporal dentro de las últimas 24 horas: 44 notas.
-Duplicados o servicios descartados: el estado previo de Aníbal Moreno en la fila 4884 quedó superado por la decisión quirúrgica; se descartaron agendas, previas y artículos sin novedad material, además de resultados de Reserva con fuentes contradictorias.
-Pendientes: Lautaro Midón en el Uruguay Open no se cargó porque la fuente oficial aún mostraba horario inconsistente al cierre; el resto de la Nations League y los partidos nocturnos se recuperan en la próxima corrida cuando haya resultados definitivos.
+Total acumulado con marca temporal dentro de las últimas 24 horas: 45 notas.
+Duplicados o servicios descartados: la actualización favorable de Milton Delgado quedó fuera por compartir URL con la nota previa de estudios; no se republicaron la lesión inicial, la suspensión Madryn-Maipú ni previas del amistoso. Se descartaron agendas y marcadores nocturnos todavía abiertos.
+Pendientes: Chile-Colombia, Uruguay-República Dominicana, Ecuador-Bolivia, Olimpo-Kimberley y la Liga Nacional continúan fuera del lote porque no tenían resultado definitivo dentro de la ventana; recuperar en la corrida de 00:45.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4894:4903 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4904:4913 en el CSV público.
