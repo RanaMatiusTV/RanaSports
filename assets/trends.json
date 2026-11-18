@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-17T19:50:40.805Z",
+  "updatedAt": "2026-11-18T02:25:43.775Z",
   "trends": [
     {
-      "query": "asociación de trabajadores del estado",
-      "startedAt": "2026-11-17T19:30:00.000Z",
+      "query": "pablo migliore",
+      "startedAt": "2026-11-18T02:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "leandro paredes y la china suarez",
+      "startedAt": "2026-11-18T02:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "anne hathaway",
+      "startedAt": "2026-11-18T02:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "cuando sale gta 6",
-      "startedAt": "2026-11-17T19:30:00.000Z",
+      "query": "quien se va de masterchef hoy",
+      "startedAt": "2026-11-18T02:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "sentencia",
+      "startedAt": "2026-11-18T01:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "atlético nacional - once caldas",
+      "startedAt": "2026-11-18T01:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "cadáver",
-      "startedAt": "2026-11-17T19:20:00.000Z",
+      "query": "german martitegui",
+      "startedAt": "2026-11-18T01:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "bosnia y herzegovina - rumania",
-      "startedAt": "2026-11-17T19:10:00.000Z",
-      "volume": 200
+      "query": "méxico - jamaica",
+      "startedAt": "2026-11-18T01:40:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "acuerdo",
-      "startedAt": "2026-11-17T19:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "gales - portugal",
-      "startedAt": "2026-11-17T19:00:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "polonia - suecia",
-      "startedAt": "2026-11-17T19:00:00.000Z",
+      "query": "mariano chihade",
+      "startedAt": "2026-11-18T01:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "israel - austria",
-      "startedAt": "2026-11-17T19:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "dinamarca - noruega",
-      "startedAt": "2026-11-17T18:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "federico sturzenegger",
-      "startedAt": "2026-11-17T18:40:00.000Z",
+      "query": "clima neuquen",
+      "startedAt": "2026-11-18T01:40:00.000Z",
       "volume": 200
     }
   ]
