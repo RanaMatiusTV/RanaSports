@@ -224,10 +224,10 @@ async function saveArticle(ev){
       six.forEach((v,i)=>row[i]=v);
       media.forEach((v,i)=>row[7+i]=v);
       row[17]='TRUE';row[18]=f.video2;
-      await sheets(a1('A:S')+ '?valueInputOption=RAW&insertDataOption=INSERT_ROWS',{
+      await sheets(a1('A:S')+':append?valueInputOption=RAW&insertDataOption=INSERT_ROWS',{
         method:'POST',body:JSON.stringify({majorDimension:'ROWS',values:[row]})
       });
-      resetForm();message('Noticia creada en Google Sheets. Si elegiste publicar, aparecerá después de la sincronización.','ok');
+      resetForm();await loadIndex();message('Noticia creada en Google Sheets. Si elegiste publicar, aparecerá después de la sincronización.','ok');
     }else{
       const data=await sheets(a1('A'+selected+':S'+selected));
       const current=Array.from({length:19},(_,i)=>String(data.values?.[0]?.[i]??''));
