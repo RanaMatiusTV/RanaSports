@@ -1,23 +1,27 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 18/11/2026 06:45 ARG
-Ventana principal revisada: 17/11/2026 21:32 a 18/11/2026 06:45 Argentina, con dos horas de solapamiento y auditoría de omisiones de las 24 horas anteriores desde 17/11/2026 06:45.
-Altas verificadas y releídas en la planilla: 9
-Filas: Noticias!4922:4930
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 18/11/2026 09:45 ARG
+Ventana principal revisada: 17/11/2026 22:21 a 18/11/2026 09:45 Argentina, tomando como referencia la última noticia real de 18/11/2026 00:21 y dos horas de solapamiento. Se amplió hasta 48 horas para recuperar omisiones puntuales sin duplicados.
+Altas verificadas y releídas en la planilla: 12
+Filas: Noticias!4931:4942
 Títulos:
-- INDEPENDIENTE FIJÓ SU POSTURA SOBRE SANTIAGO LÓPEZ Y LOS JUGADORES CEDIDOS
-- JORGE BALIÑO DIRIGIRÁ EL CRUCE ENTRE ARGENTINOS JUNIORS E INDEPENDIENTE
-- FIFA INHIBIÓ A ARGENTINOS JUNIORS POR TRES MERCADOS ANTES DE RECIBIR A INDEPENDIENTE
-- LA FIA ANTICIPÓ EL REGRESO DE LOS MOTORES V8 A LA FÓRMULA 1
-- DIBU MARTÍNEZ IGUALÓ EL RÉCORD DE 47 VALLAS INVICTAS DE CHIQUITO ROMERO
-- MARIANO TROILO DEBUTÓ EN LA SELECCIÓN ARGENTINA EN SU CÓRDOBA NATAL
-- WALTER SAMUEL SE DESPIDIÓ DE LA SELECCIÓN DESPUÉS DE OCHO AÑOS EN EL CUERPO TÉCNICO
-- SCALONI ELOGIÓ A NICO PAZ Y MARCÓ EL DESAFÍO DE INTEGRAR A LOS JÓVENES EN 2027
-- ANDRÉS MOLTENI CRITICÓ A LA ATP POR EL TRATO AL TENIS DE DOBLES
-Última noticia cronológica del lote y de la planilla: SCALONI ELOGIÓ A NICO PAZ Y MARCÓ EL DESAFÍO DE INTEGRAR A LOS JÓVENES EN 2027 — 18/11/2026 00:21 ARG, fila 4929.
-Contenido: 9 notas distintas con fecha y hora sustentadas por primera difusión o confirmación consultada, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TyC Sports, AFA, TN, Infobae, DeporTV, FIA, Davis Cup, Clarín y ATP.
-Disciplinas y áreas: Independiente, Argentinos Juniors, Selección Argentina, Fórmula 1 y tenis.
-K oportunistas: 0 incorporados; 9 vacíos para el radar de embeds.
-Total acumulado con marca temporal dentro de las últimas 24 horas: 57 notas.
-Candidatas no publicadas: el resultado de Lautaro Midón ya estaba en Noticias!4909; el triunfo de Alex Barrena quedó pendiente porque la búsqueda breve no devolvió una imagen directa pertinente sin auditoría adicional.
+- DIBU MARTÍNEZ MARCÓ EL DESAFÍO DE LA SELECCIÓN TRAS EL RETIRO DE MESSI
+- HINCHAS CANTARON CONTRA CHIQUI TAPIA DURANTE EL AMISTOSO EN CÓRDOBA
+- FACUNDO CONTE MOSTRÓ SU NUEVA VIDA LEJOS DEL VÓLEY PROFESIONAL
+- MESSI MOSTRÓ SU PREPARACIÓN PARA LOS PLAYOFFS DE LA MLS CON INTER MIAMI
+- JULIÁN MONTOYA RECIBIÓ EL ALTA Y PODRÁ JUGAR ANTE FRANCIA
+- UN HINCHA VIAJÓ CASI 8000 KILÓMETROS EN MOTO Y PAREDES LE ASEGURÓ UNA ENTRADA
+- ABRIERON LAS PUERTAS DEL KEMPES Y ENTRARON HINCHAS SIN ENTRADA DURANTE EL PARTIDO
+- LA CHICANA DE DIBU MARTÍNEZ A MAXI LÓPEZ SE HIZO VIRAL EN CÓRDOBA
+- LA SELECCIÓN ARGENTINA SUB-17 DEBUTA ANTE AUSTRALIA EN EL MUNDIAL DE QATAR
+- PONZIO PRUEBA JUVENILES PARA CUBRIR EL MEDIOCAMPO DE RIVER ANTE LANÚS
+- PUSIERON EN VENTA EL PREDIO DE SAN JORGE DE TUCUMÁN
+- ARGENTINA INICIÓ EN TOKIO LA PREPARACIÓN PARA LA BILLIE JEAN KING CUP
+Última noticia cronológica del lote y de la planilla: ARGENTINA INICIÓ EN TOKIO LA PREPARACIÓN PARA LA BILLIE JEAN KING CUP — 18/11/2026 08:00 ARG, fila 4942.
+Contenido: 12 notas distintas con fecha y hora sustentadas por primera difusión consultada, cuerpo de dos párrafos, URL de fuente e imagen H pertinente. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TN, TyC Sports, Clarín, LA NACION, Radio Rafaela, Prensa AAT y coberturas oficiales relacionadas.
+Disciplinas y áreas: Selección Argentina mayor y Sub-17, Lionel Messi, Boca Juniors, River Plate, San Jorge de Tucumán, Los Pumas, vóley y tenis.
+Imágenes H: 12 seleccionadas sin comprobación técnica adicional.
+K oportunistas: 0 incorporados; 12 vacíos para el radar de embeds.
+Candidatas revisadas: 16. Duplicados descartados: inhibición de Argentinos Juniors y análisis de Colapinto sobre el frío de Las Vegas. Pendientes: derrota de Mitre en la Liga Argentina y anuncio de Fernando Alonso para el Dakar 2027, sin imagen directa pertinente resuelta en la búsqueda breve.
+Total acumulado con marca temporal dentro de las últimas 24 horas: 60 notas.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4922:4930 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4931:4942 en el CSV público.
