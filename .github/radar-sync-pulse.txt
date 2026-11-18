@@ -1,22 +1,23 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 18/11/2026 00:45 ARG
-Ventana principal revisada: 17/11/2026 21:45 a 18/11/2026 00:45 Argentina, con dos horas de solapamiento desde las 19:45 y control de omisiones y duplicados sobre el bloque reciente.
-Altas verificadas y releídas en la planilla: 8
-Filas: Noticias!4914:4921
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 18/11/2026 06:45 ARG
+Ventana principal revisada: 17/11/2026 21:32 a 18/11/2026 06:45 Argentina, con dos horas de solapamiento y auditoría de omisiones de las 24 horas anteriores desde 17/11/2026 06:45.
+Altas verificadas y releídas en la planilla: 9
+Filas: Noticias!4922:4930
 Títulos:
-- MASTANTUONO COMPLETÓ SU DOBLETE Y SELLÓ EL 7-0 DE ARGENTINA ANTE COSTA RICA
-- OLIMPO EMPATÓ CON KIMBERLEY Y AVANZÓ A LAS SEMIFINALES DE LA REVÁLIDA
-- LA ECUADOR DE GALLARDO VENCIÓ 2-0 A BOLIVIA Y CERRÓ EL AÑO CON OTRO TRIUNFO
-- URUGUAY GOLEÓ 5-0 A REPÚBLICA DOMINICANA Y SUMÓ SU QUINTO TRIUNFO SEGUIDO
-- CHILE Y COLOMBIA EMPATARON 0-0 EN SANTIAGO Y CERRARON EL AÑO SIN GOLES
-- RACING DE CHIVILCOY CORTÓ CINCO DERROTAS SEGUIDAS CON UN 69-66 SOBRE LANÚS
-- OBERÁ SUPERÓ 79-72 A ATENAS Y ENCADENÓ SU CUARTO TRIUNFO
-- QUIMSA VENCIÓ 83-79 A REGATAS Y VOLVIÓ A LA PUNTA DE LA LIGA NACIONAL
-Última noticia cronológica del lote y de la planilla: QUIMSA VENCIÓ 83-79 A REGATAS Y VOLVIÓ A LA PUNTA DE LA LIGA NACIONAL — 17/11/2026 23:32 ARG, fila 4921.
-Contenido: 8 notas distintas con fecha y hora sustentadas por primera difusión, minuto a minuto o confirmación consultada, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: AFA, Mundo Ascenso, DeporTV, Subrayado, BioBioChile, Pick and Roll y El Liberal.
-Disciplinas y áreas: Selección Argentina, Federal A, selecciones sudamericanas y Liga Nacional de Básquet.
-K oportunistas: 2 incorporados; 6 vacíos para el radar de embeds.
-Total acumulado con marca temporal dentro de las últimas 24 horas: 49 notas.
-Duplicados o descartes: no se repitieron marcadores ya publicados; el 7-0 de Argentina es una actualización material y definitiva posterior al 6-0 de la fila 4913. Tres candidatas de Independiente quedaron pendientes porque la fuente bloqueó la lectura directa y no expuso foto utilizable tras la búsqueda breve.
+- INDEPENDIENTE FIJÓ SU POSTURA SOBRE SANTIAGO LÓPEZ Y LOS JUGADORES CEDIDOS
+- JORGE BALIÑO DIRIGIRÁ EL CRUCE ENTRE ARGENTINOS JUNIORS E INDEPENDIENTE
+- FIFA INHIBIÓ A ARGENTINOS JUNIORS POR TRES MERCADOS ANTES DE RECIBIR A INDEPENDIENTE
+- LA FIA ANTICIPÓ EL REGRESO DE LOS MOTORES V8 A LA FÓRMULA 1
+- DIBU MARTÍNEZ IGUALÓ EL RÉCORD DE 47 VALLAS INVICTAS DE CHIQUITO ROMERO
+- MARIANO TROILO DEBUTÓ EN LA SELECCIÓN ARGENTINA EN SU CÓRDOBA NATAL
+- WALTER SAMUEL SE DESPIDIÓ DE LA SELECCIÓN DESPUÉS DE OCHO AÑOS EN EL CUERPO TÉCNICO
+- SCALONI ELOGIÓ A NICO PAZ Y MARCÓ EL DESAFÍO DE INTEGRAR A LOS JÓVENES EN 2027
+- ANDRÉS MOLTENI CRITICÓ A LA ATP POR EL TRATO AL TENIS DE DOBLES
+Última noticia cronológica del lote y de la planilla: SCALONI ELOGIÓ A NICO PAZ Y MARCÓ EL DESAFÍO DE INTEGRAR A LOS JÓVENES EN 2027 — 18/11/2026 00:21 ARG, fila 4929.
+Contenido: 9 notas distintas con fecha y hora sustentadas por primera difusión o confirmación consultada, cuerpo de dos párrafos, URL de fuente e imagen H pertinente seleccionada sin comprobación técnica. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TyC Sports, AFA, TN, Infobae, DeporTV, FIA, Davis Cup, Clarín y ATP.
+Disciplinas y áreas: Independiente, Argentinos Juniors, Selección Argentina, Fórmula 1 y tenis.
+K oportunistas: 0 incorporados; 9 vacíos para el radar de embeds.
+Total acumulado con marca temporal dentro de las últimas 24 horas: 57 notas.
+Candidatas no publicadas: el resultado de Lautaro Midón ya estaba en Noticias!4909; el triunfo de Alex Barrena quedó pendiente porque la búsqueda breve no devolvió una imagen directa pertinente sin auditoría adicional.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4914:4921 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4922:4930 en el CSV público.
