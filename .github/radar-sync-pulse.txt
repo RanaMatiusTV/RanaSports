@@ -1,24 +1,22 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 18/11/2026 12:45 ARG
-Ventana principal revisada: 18/11/2026 06:00 a 12:45 Argentina, desde la última publicación real de 08:00 y con dos horas de solapamiento. La búsqueda se amplió hasta 24 horas y, para omisiones puntuales, hasta 48 horas.
-Altas verificadas y releídas en la planilla: 9
-Filas: Noticias!4943:4951
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 18/11/2026 15:51 ARG
+Ventana principal revisada: 18/11/2026 10:29 a 15:45 Argentina, desde la última publicación real de 12:29 y con dos horas de solapamiento. Se auditó además el período previo de 24 horas para detectar omisiones.
+Altas verificadas y releídas en la planilla: 7
+Filas: Noticias!4952:4958
 Títulos:
-- ARRUABARRENA CONVOCÓ A LOS 33 JUGADORES DE BOCA PARA LA FINAL EN BARRANQUILLA
-- POCHETTINO COMENZÓ SU CICLO COMO ENTRENADOR DEL MANCHESTER UNITED
-- LA SELECCIÓN ARGENTINA CERRÓ 2026 EN EL SEGUNDO PUESTO DEL RANKING FIFA
-- EL EXABRUPTO DE LAUTARO MIDÓN TRAS QUEDAR ELIMINADO EN MONTEVIDEO SE HIZO VIRAL
-- FAUSTO SCHVEIDE GANÓ EL SUDAMERICANO SUB-11 DE AJEDREZ RÁPIDO
-- AUSTIN GARCÍA, DE SIETE AÑOS, SE DESTACÓ EN LAS INFANTILES DE VÉLEZ
-- CARLSEN NO SE PRESENTÓ A UNA PARTIDA PARA PROTEGER SU ELO Y RECIBIÓ CRÍTICAS DE LA FIDE
-- FACUNDO POMPONIO UNIÓ EL ACONCAGUA Y EL OBELISCO TRAS CORRER 1.300 KILÓMETROS
-- JOHNNY HERRERA PERDIÓ 6-0 Y 6-0 EN SU DEBUT EN EL CIRCUITO MÁSTER DE TENIS
-Última noticia cronológica del lote y de la planilla: POCHETTINO COMENZÓ SU CICLO COMO ENTRENADOR DEL MANCHESTER UNITED — 18/11/2026 12:29 ARG, fila 4944.
-Contenido: 9 notas distintas, con fecha y hora sustentadas por primera difusión, cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TN, Manchester United, Infobae, FIFA, FIDE, ITF y Wikimedia Commons para una foto de archivo identificada.
-Disciplinas y áreas: Boca, Selección Argentina, fútbol internacional, Vélez, tenis, ajedrez y atletismo.
-Imágenes H: 9 seleccionadas sin comprobación técnica adicional.
-K oportunistas: 0 incorporados; 9 vacíos para el radar de embeds.
-Candidatas revisadas: 20. Duplicados descartados: Tagliafico-Boca, operación de Aníbal Moreno, renovación de Mac Allister, lesión de Milton Delgado, despedida de Walter Samuel, motores V8 de F1 y cambios de energía para sobrepasos. Pendientes: gesto de Agustín Giay, compromiso de Anna Kalinskaya, declaraciones de Nico Paz sobre la camiseta 10 y llegada general de hinchas de Boca a Colombia, sin imagen directa apta resuelta en la búsqueda breve.
-Total acumulado con marca temporal dentro de las últimas 24 horas: 64 notas.
+- RIVER RECUPERÓ A MONTIEL, BELTRÁN Y ALMADA Y ESPERA POR FAUSTO VERA
+- RIVER PROYECTA INGRESOS POR USD 198,7 MILLONES Y SUPERÁVIT EN SU PRESUPUESTO 2027
+- MERENTIEL PROMETIÓ HACERSE SU PRIMER TATUAJE SI BOCA GANA LA SUDAMERICANA
+- VILLAGRA QUEDÓ A 235 MINUTOS DE ACTIVAR UNA COMPRA MILLONARIA EN INTER
+- ARANDA CORRE CON VENTAJA PARA SER TITULAR EN BOCA EN LA FINAL
+- LANÚS INTIMÓ A FLUMINENSE POR UNA DEUDA DEL PASE DE RODRIGO CASTILLO
+- EL METROPOLITANO DE BARRANQUILLA QUEDÓ LISTO PARA LA FINAL ENTRE BOCA Y MINEIRO
+Última noticia cronológica del lote y de la planilla: RIVER RECUPERÓ A MONTIEL, BELTRÁN Y ALMADA Y ESPERA POR FAUSTO VERA — 18/11/2026 14:32 ARG, fila 4952.
+Contenido: 7 notas distintas, con fecha y hora sustentadas por primera difusión, cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TyC Sports e Infobae Deportes, con contraste de antecedentes en coberturas y fuentes oficiales.
+Disciplinas y áreas: Boca, River, Lanús, Copa Sudamericana y fútbol internacional.
+Imágenes H: 7 seleccionadas sin comprobación técnica adicional.
+K oportunistas: 0 incorporados; 7 vacíos para el radar de embeds.
+Candidatas revisadas: 20. Duplicados descartados: árbitros de octavos de AFA, mejora del motor Alpine, lista completa de viajeros de Boca, inicio de Pochettino y ranking FIFA de Argentina. Pendientes por precisión temporal o imagen directa no resuelta en la consulta breve: regreso de Montoya a Los Pumas, respuesta de AFA por baja concurrencia, cruce Wolff-Antonelli/Ferrari, perfil de Justina González, sanción de Piastri y regreso de Tiger Woods.
+Total acumulado con marca temporal dentro de las últimas 24 horas: 60 notas.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4943:4951 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4952:4958 en el CSV público.
