@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/alpine-incorporara-en-las-vegas-una-evolucion-del-motor-mercedes-para-colapinto-y-gasly/": {
+      "account": "f1",
+      "title": "ALPINE INCORPORARÁ EN LAS VEGAS UNA EVOLUCIÓN DEL MOTOR MERCEDES PARA COLAPINTO Y GASLY",
+      "dueAt": "2026-11-18T05:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afd286693fa11d37d07745e",
+      "createdAt": "2026-11-18T04:24:06.981Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-y-gasly-estrenaran-una-decoracion-rosa-de-alpine-en-las-tres-ultimas-carreras/": {
+      "account": "f1",
+      "title": "COLAPINTO Y GASLY ESTRENARÁN UNA DECORACIÓN ROSA DE ALPINE EN LAS TRES ÚLTIMAS CARRERAS",
+      "dueAt": "2026-11-18T04:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afd286593fa11d37d077428",
+      "createdAt": "2026-11-18T04:24:06.014Z"
+    },
+    "https://ranasports.com.ar/futbol/mastantuono-completo-su-doblete-y-sello-el-7-0-de-argentina-ante-costa-rica/": {
+      "account": "sports",
+      "title": "MASTANTUONO COMPLETÓ SU DOBLETE Y SELLÓ EL 7-0 DE ARGENTINA ANTE COSTA RICA",
+      "dueAt": "2026-11-18T05:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afd2865f38e9cc548627356",
+      "createdAt": "2026-11-18T04:24:05.369Z"
+    },
+    "https://ranasports.com.ar/tenis/zverev-vencio-a-shelton-y-se-clasifico-a-las-semifinales-del-atp-finals/": {
+      "account": "sports",
+      "title": "ZVEREV VENCIÓ A SHELTON Y SE CLASIFICÓ A LAS SEMIFINALES DEL ATP FINALS",
+      "dueAt": "2026-11-18T05:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afd2864fc933ac285c3957a",
+      "createdAt": "2026-11-18T04:24:05.021Z"
+    },
+    "https://ranasports.com.ar/olimpo/olimpo-empato-con-kimberley-y-avanzo-a-las-semifinales-de-la-revalida/": {
+      "account": "sports",
+      "title": "OLIMPO EMPATÓ CON KIMBERLEY Y AVANZÓ A LAS SEMIFINALES DE LA REVÁLIDA",
+      "dueAt": "2026-11-18T04:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afd2863fc933ac285c39522",
+      "createdAt": "2026-11-18T04:24:03.090Z"
+    },
+    "https://ranasports.com.ar/futbol/argentina-goleo-6-0-a-costa-rica-en-cordoba-y-cerro-su-calendario-de-2026/": {
+      "account": "sports",
+      "title": "ARGENTINA GOLEÓ 6-0 A COSTA RICA EN CÓRDOBA Y CERRÓ SU CALENDARIO DE 2026",
+      "dueAt": "2026-11-18T04:23:59.974Z",
+      "mode": "shareNow",
+      "bufferPostId": "6afd285ffc933ac285c39348",
+      "createdAt": "2026-11-18T04:24:02.105Z"
+    },
     "https://ranasports.com.ar/f1/la-fia-evaluara-cambios-en-el-uso-de-energia-para-facilitar-los-sobrepasos-en-formula-1/": {
       "account": "f1",
       "title": "LA FIA EVALUARÁ CAMBIOS EN EL USO DE ENERGÍA PARA FACILITAR LOS SOBREPASOS EN FÓRMULA 1",
@@ -4777,66 +4825,6 @@
       "createdAt": "2026-10-12T03:46:54.023Z",
       "externalLink": "https://x.com/768913759301754880/status/2109493012141134129",
       "sentAt": "2026-10-12T03:55:01.452Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxNzc2ODIwMDAwLCJJTkRFUEVORElFTlRFIEVNUEFUw5MgMC0wIENPTiBUQUxMRVJFUyBZIEVMIFZBUiBMRSBBTlVMw5MgVU4gR09MIEVOIEVMIEZJTkFMIl0": {
-      "account": "main",
-      "title": "INDEPENDIENTE EMPATÓ 0-0 CON TALLERES Y EL VAR LE ANULÓ UN GOL EN EL FINAL",
-      "dueAt": "2026-10-12T03:50:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc582da9411fbcc56b47e1",
-      "createdAt": "2026-10-12T03:46:53.405Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109491757498966040",
-      "sentAt": "2026-10-12T03:50:02.390Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTc3MDgyNjAwMCwiSEFNSUxUT04gUkVDSUJJw5MgQVRFTkNJw5NOIE3DiURJQ0EgWSBBU1VNScOTIFNVIEVSUk9SIEVOIFNJTkdBUFVSIl0": {
-      "account": "f1",
-      "title": "HAMILTON RECIBIÓ ATENCIÓN MÉDICA Y ASUMIÓ SU ERROR EN SINGAPUR",
-      "dueAt": "2026-10-12T02:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc40f77db619a2915543a3",
-      "createdAt": "2026-10-12T02:07:51.402Z",
-      "externalLink": "https://x.com/2095690134515572737/status/2109466590643151048",
-      "sentAt": "2026-10-12T02:10:02.145Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIHBvciBlbCBtdW5kbyIsMTc5MTc3MDgyNTAwMCwiR0lBWSBNQVJDw5MgRE9TIEdPTEVTIEVOIEVMIENMw4FTSUNPIFkgRlVFIEZJR1VSQSBERSBQQUxNRUlSQVMiXQ": {
-      "account": "main",
-      "title": "GIAY MARCÓ DOS GOLES EN EL CLÁSICO Y FUE FIGURA DE PALMEIRAS",
-      "dueAt": "2026-10-12T02:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc40f6ea568e911a4af494",
-      "createdAt": "2026-10-12T02:07:50.730Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109471659065327808",
-      "sentAt": "2026-10-12T02:30:10.556Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJtZXJjYWRvIGRlIHBhc2VzIiwxNzkxNzcwODI0MDAwLCJJQ0FSREkgSU5URU5Uw5MgVk9MVkVSIEFMIElOVEVSLCBQRVJPIEVMIENMVUIgTEUgQ0VSUsOTIExBIFBVRVJUQSJd": {
-      "account": "main",
-      "title": "ICARDI INTENTÓ VOLVER AL INTER, PERO EL CLUB LE CERRÓ LA PUERTA",
-      "dueAt": "2026-10-12T02:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc40f4a9411fbcc5677fa3",
-      "createdAt": "2026-10-12T02:07:48.878Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109470363218227392",
-      "sentAt": "2026-10-12T02:25:01.571Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJhcmdlbnRpbm9zIHBvciBlbCBtdW5kbyIsMTc5MTc3MDgyMzAwMCwiV0FMVEVSIEJFTsONVEVaIEZJUk3DkyBVTkEgQVRBSkFEQSBJTVBBQ1RBTlRFIEVOIExBIFBSRU1JRVIgTEVBR1VFIl0": {
-      "account": "main",
-      "title": "WALTER BENÍTEZ FIRMÓ UNA ATAJADA IMPACTANTE EN LA PREMIER LEAGUE",
-      "dueAt": "2026-10-12T02:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc40f4a9411fbcc5677f52",
-      "createdAt": "2026-10-12T02:07:48.289Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109469110186717477",
-      "sentAt": "2026-10-12T02:20:02.797Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyb3NhcmlvIGNlbnRyYWwiLDE3OTE3NzA4MjIwMDAsIkRJIE1BUsONQSwgRklHVVJBIEVOIExBIEdPTEVBREEgREUgQ0VOVFJBTDog4oCcSEFDRU1PUyBPw41ET1MgU09SRE9T4oCdIl0": {
-      "account": "main",
-      "title": "DI MARÍA, FIGURA EN LA GOLEADA DE CENTRAL: “HACEMOS OÍDOS SORDOS”",
-      "dueAt": "2026-10-12T02:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc40f38e8dd50ffc629b97",
-      "createdAt": "2026-10-12T02:07:47.430Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109467850444316853",
-      "sentAt": "2026-10-12T02:15:02.470Z"
     }
   },
   "nextAt": {
