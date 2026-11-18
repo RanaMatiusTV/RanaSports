@@ -1,22 +1,22 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 18/11/2026 15:51 ARG
-Ventana principal revisada: 18/11/2026 10:29 a 15:45 Argentina, desde la última publicación real de 12:29 y con dos horas de solapamiento. Se auditó además el período previo de 24 horas para detectar omisiones.
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 18/11/2026 18:47 ARG
+Ventana principal revisada: 18/11/2026 12:32 a 18:45 Argentina, desde la última publicación real de 14:32 y con dos horas de solapamiento. Se amplió hasta 24 horas para recuperar omisiones reales y completar la revisión multiárea.
 Altas verificadas y releídas en la planilla: 7
-Filas: Noticias!4952:4958
+Filas: Noticias!4959:4965
 Títulos:
-- RIVER RECUPERÓ A MONTIEL, BELTRÁN Y ALMADA Y ESPERA POR FAUSTO VERA
-- RIVER PROYECTA INGRESOS POR USD 198,7 MILLONES Y SUPERÁVIT EN SU PRESUPUESTO 2027
-- MERENTIEL PROMETIÓ HACERSE SU PRIMER TATUAJE SI BOCA GANA LA SUDAMERICANA
-- VILLAGRA QUEDÓ A 235 MINUTOS DE ACTIVAR UNA COMPRA MILLONARIA EN INTER
-- ARANDA CORRE CON VENTAJA PARA SER TITULAR EN BOCA EN LA FINAL
-- LANÚS INTIMÓ A FLUMINENSE POR UNA DEUDA DEL PASE DE RODRIGO CASTILLO
-- EL METROPOLITANO DE BARRANQUILLA QUEDÓ LISTO PARA LA FINAL ENTRE BOCA Y MINEIRO
-Última noticia cronológica del lote y de la planilla: RIVER RECUPERÓ A MONTIEL, BELTRÁN Y ALMADA Y ESPERA POR FAUSTO VERA — 18/11/2026 14:32 ARG, fila 4952.
+- COLAPINTO ABRE EL GP DE LAS VEGAS CON DOS PRÁCTICAS ENTRE JUEVES Y VIERNES
+- SENESI AYUDÓ A LA SELECCIÓN ARGENTINA DE TALLA BAJA A VIAJAR AL MUNDIAL
+- LORENZO SAMPEDRO, CAPITÁN SUB-17, DEFINIÓ DOS FINALES PARA ARGENTINA
+- ARGENTINA PRESELECCIONÓ A 24 JUGADORES PARA ENFRENTAR A BAHAMAS Y CANADÁ
+- JUNIOR DE BARRANQUILLA BUSCA A DUVÁN VERGARA, DE POCO RODAJE EN RACING
+- JUAN CRUZ POLICELLA LLEGA AL MUNDIAL SUB-17 COMO UNA DE LAS FIGURAS ARGENTINAS
+- LA AFA ANALIZA MEDIDAS TRAS LA BAJA VENTA DE ENTRADAS DE LA SELECCIÓN
+Última noticia cronológica del lote y de la planilla: JUAN CRUZ POLICELLA LLEGA AL MUNDIAL SUB-17 COMO UNA DE LAS FIGURAS ARGENTINAS — 18/11/2026 17:00 ARG, fila 4964.
 Contenido: 7 notas distintas, con fecha y hora sustentadas por primera difusión, cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TyC Sports e Infobae Deportes, con contraste de antecedentes en coberturas y fuentes oficiales.
-Disciplinas y áreas: Boca, River, Lanús, Copa Sudamericana y fútbol internacional.
+Fuentes principales: TyC Sports y LA NACION Deportes, con contraste en fuentes oficiales y otras coberturas.
+Disciplinas y áreas: Fórmula 1/Colapinto, fútbol de talla baja, futsal Sub-17, básquet/Selección, Racing, Selección Argentina Sub-17 y Selección Argentina mayor.
 Imágenes H: 7 seleccionadas sin comprobación técnica adicional.
-K oportunistas: 0 incorporados; 7 vacíos para el radar de embeds.
-Candidatas revisadas: 20. Duplicados descartados: árbitros de octavos de AFA, mejora del motor Alpine, lista completa de viajeros de Boca, inicio de Pochettino y ranking FIFA de Argentina. Pendientes por precisión temporal o imagen directa no resuelta en la consulta breve: regreso de Montoya a Los Pumas, respuesta de AFA por baja concurrencia, cruce Wolff-Antonelli/Ferrari, perfil de Justina González, sanción de Piastri y regreso de Tiger Woods.
-Total acumulado con marca temporal dentro de las últimas 24 horas: 60 notas.
+K oportunistas: 1 incorporado; 6 vacíos para el radar de embeds.
+Candidatas revisadas: 22. Duplicados descartados: Quimsa-Regatas, Oberá-Atenas, Racing de Chivilcoy-Lanús, titularidad de Espíndola en River, salida de Boca y otros hechos ya cubiertos del lote previo. Pendientes por precisión temporal o imagen directa no resuelta en la consulta breve: retiro de Juan Mata, gesto de Agustín Giay, perfil de Justina González, regreso de Tiger Woods, declaraciones de Toto Wolff y sanción de Oscar Piastri.
+Total acumulado con marca temporal dentro de las últimas 24 horas: 54 notas.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4952:4958 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4959:4965 en el CSV público.
