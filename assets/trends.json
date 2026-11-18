@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-18T10:44:36.183Z",
+  "updatedAt": "2026-11-18T19:05:48.048Z",
   "trends": [
     {
-      "query": "clima villa maria",
-      "startedAt": "2026-11-18T10:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "twitch",
-      "startedAt": "2026-11-18T10:10:00.000Z",
+      "query": "pago",
+      "startedAt": "2026-11-18T18:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "clima cordoba",
-      "startedAt": "2026-11-18T10:00:00.000Z",
+      "query": "corolla deck",
+      "startedAt": "2026-11-18T18:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "fenómeno",
+      "startedAt": "2026-11-18T18:30:00.000Z",
       "volume": 500
     },
     {
-      "query": "pronostico posadas",
-      "startedAt": "2026-11-18T09:50:00.000Z",
-      "volume": 100
+      "query": "ludovica squirru",
+      "startedAt": "2026-11-18T18:20:00.000Z",
+      "volume": 500
     },
     {
-      "query": "pronostico cordoba",
-      "startedAt": "2026-11-18T09:40:00.000Z",
-      "volume": 2000
+      "query": "martín llaryora",
+      "startedAt": "2026-11-18T18:10:00.000Z",
+      "volume": 500
     },
     {
-      "query": "cerro san bernardo",
-      "startedAt": "2026-11-18T09:40:00.000Z",
-      "volume": 100
+      "query": "ueno bank",
+      "startedAt": "2026-11-18T18:00:00.000Z",
+      "volume": 500
     },
     {
-      "query": "página 12",
-      "startedAt": "2026-11-18T09:30:00.000Z",
+      "query": "selección de fútbol sub-17 de australia",
+      "startedAt": "2026-11-18T18:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "real madrid - inter de milán",
+      "startedAt": "2026-11-18T17:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "santiago bausili",
-      "startedAt": "2026-11-18T09:10:00.000Z",
+      "query": "pronostico la plata",
+      "startedAt": "2026-11-18T17:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "camiseta",
+      "startedAt": "2026-11-18T17:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "clima rosario",
-      "startedAt": "2026-11-18T09:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "humedad",
-      "startedAt": "2026-11-18T08:50:00.000Z",
-      "volume": 500
     }
   ]
 }
