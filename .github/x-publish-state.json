@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-abre-el-gp-de-las-vegas-con-dos-practicas-entre-jueves-y-viernes/": {
+      "account": "f1",
+      "title": "COLAPINTO ABRE EL GP DE LAS VEGAS CON DOS PRÁCTICAS ENTRE JUEVES Y VIERNES",
+      "dueAt": "2026-11-18T22:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afe1f844cec3cf024f2d234",
+      "createdAt": "2026-11-18T21:58:28.851Z"
+    },
+    "https://ranasports.com.ar/tenis/el-exabrupto-de-lautaro-midon-tras-quedar-eliminado-en-montevideo-se-hizo-viral/": {
+      "account": "sports",
+      "title": "EL EXABRUPTO DE LAUTARO MIDÓN TRAS QUEDAR ELIMINADO EN MONTEVIDEO SE HIZO VIRAL",
+      "dueAt": "2026-11-18T23:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afe1f84aff6b481b2afcfa3",
+      "createdAt": "2026-11-18T21:58:28.344Z"
+    },
+    "https://ranasports.com.ar/futbol/la-afa-analiza-medidas-tras-la-baja-venta-de-entradas-de-la-seleccion/": {
+      "account": "sports",
+      "title": "LA AFA ANALIZA MEDIDAS TRAS LA BAJA VENTA DE ENTRADAS DE LA SELECCIÓN",
+      "dueAt": "2026-11-18T22:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afe1f83aff6b481b2afcf72",
+      "createdAt": "2026-11-18T21:58:27.782Z"
+    },
+    "https://ranasports.com.ar/futbol/junior-de-barranquilla-busca-a-duvan-vergara-de-poco-rodaje-en-racing/": {
+      "account": "sports",
+      "title": "JUNIOR DE BARRANQUILLA BUSCA A DUVÁN VERGARA, DE POCO RODAJE EN RACING",
+      "dueAt": "2026-11-18T22:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afe1f83812588a40b464576",
+      "createdAt": "2026-11-18T21:58:27.196Z"
+    },
     "https://ranasports.com.ar/futbol/la-chicana-de-dibu-martinez-a-maxi-lopez-se-hizo-viral-en-cordoba/": {
       "account": "sports",
       "title": "LA CHICANA DE DIBU MARTÍNEZ A MAXI LÓPEZ SE HIZO VIRAL EN CÓRDOBA",
@@ -4789,38 +4821,6 @@
       "createdAt": "2026-10-12T10:11:25.184Z",
       "externalLink": "https://x.com/768913759301754880/status/2109588689273704863",
       "sentAt": "2026-10-12T10:15:12.685Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJsaWdhIHByb2Zlc2lvbmFsIiwxNzkxNzc2OTQwMDAwLCJHSU1OQVNJQSBERSBNRU5ET1pBIFkgTkVXRUxMJ1MgSlVFR0FOIFVOIENSVUNFIERJUkVDVE8gUE9SIExPUyBQTEFZT0ZGUyJd": {
-      "account": "main",
-      "title": "GIMNASIA DE MENDOZA Y NEWELL'S JUEGAN UN CRUCE DIRECTO POR LOS PLAYOFFS",
-      "dueAt": "2026-10-12T04:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc5830a9411fbcc56b480a",
-      "createdAt": "2026-10-12T03:46:56.549Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNzc2OTQwMDAwLCJNRVJFTlRJRUwgSE9NRU5BSkXDkyBBTCBNQU5URUNBIE1BUlTDjU5FWiBZIFNVRcORQSBDT04gUkVQRVRJUiBTVSBGRVNURUpPIl0": {
-      "account": "main",
-      "title": "MERENTIEL HOMENAJEÓ AL MANTECA MARTÍNEZ Y SUEÑA CON REPETIR SU FESTEJO",
-      "dueAt": "2026-10-12T04:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc583063ff33d8c9a65cc9",
-      "createdAt": "2026-10-12T03:46:56.121Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJsaWdhIHByb2Zlc2lvbmFsIiwxNzkxNzc2OTQwMDAwLCJMQU7DmlMgUkVDSUJFIEFMIElOVklDVE8gVsOJTEVaIEVOIFVOIERVRUxPIENMQVZFIFBPUiBFTCBDTEFVU1VSQSJd": {
-      "account": "main",
-      "title": "LANÚS RECIBE AL INVICTO VÉLEZ EN UN DUELO CLAVE POR EL CLAUSURA",
-      "dueAt": "2026-10-12T04:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc582f7db619a291591c73",
-      "createdAt": "2026-10-12T03:46:55.780Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyYWNpbmciLDE3OTE3NzY5NDAwMDAsIlJPTUVSTyBQSURJw5MgQVBPWU8gUEFSQSBFTCBDTMOBU0lDTyBUUkFTIExBIERFUlJPVEEgREUgUkFDSU5HIl0": {
-      "account": "main",
-      "title": "ROMERO PIDIÓ APOYO PARA EL CLÁSICO TRAS LA DERROTA DE RACING",
-      "dueAt": "2026-10-12T04:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc582ffa026cfb812566c1",
-      "createdAt": "2026-10-12T03:46:55.294Z"
     }
   },
   "nextAt": {
