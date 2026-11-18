@@ -1,6 +1,30 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/la-chicana-de-dibu-martinez-a-maxi-lopez-se-hizo-viral-en-cordoba/": {
+      "account": "sports",
+      "title": "LA CHICANA DE DIBU MARTÍNEZ A MAXI LÓPEZ SE HIZO VIRAL EN CÓRDOBA",
+      "dueAt": "2026-11-18T15:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afdafc155bf70e62d55bff6",
+      "createdAt": "2026-11-18T14:01:37.180Z"
+    },
+    "https://ranasports.com.ar/futbol/mariano-troilo-debuto-en-la-seleccion-argentina-en-su-cordoba-natal/": {
+      "account": "sports",
+      "title": "MARIANO TROILO DEBUTÓ EN LA SELECCIÓN ARGENTINA EN SU CÓRDOBA NATAL",
+      "dueAt": "2026-11-18T14:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afdafc055bf70e62d55bf61",
+      "createdAt": "2026-11-18T14:01:36.221Z"
+    },
+    "https://ranasports.com.ar/futbol/scaloni-elogio-a-nico-paz-y-marco-el-desafio-de-integrar-a-los-jovenes-en-2027/": {
+      "account": "sports",
+      "title": "SCALONI ELOGIÓ A NICO PAZ Y MARCÓ EL DESAFÍO DE INTEGRAR A LOS JÓVENES EN 2027",
+      "dueAt": "2026-11-18T14:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6afdafbf275aba8f453f8ca1",
+      "createdAt": "2026-11-18T14:01:35.593Z"
+    },
     "https://ranasports.com.ar/f1/alpine-incorporara-en-las-vegas-una-evolucion-del-motor-mercedes-para-colapinto-y-gasly/": {
       "account": "f1",
       "title": "ALPINE INCORPORARÁ EN LAS VEGAS UNA EVOLUCIÓN DEL MOTOR MERCEDES PARA COLAPINTO Y GASLY",
@@ -4797,34 +4821,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6acc582ffa026cfb812566c1",
       "createdAt": "2026-10-12T03:46:55.294Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxNzc2ODgwMDAwLCJCT0NBIFBFUkZJTEEgQSBDQVJMT1MgUEFMQUNJT1MgUEFSQSBSRUVNUExBWkFSIEEgUEFSRURFUyBBTlRFIFZBU0NPIl0": {
-      "account": "main",
-      "title": "BOCA PERFILA A CARLOS PALACIOS PARA REEMPLAZAR A PAREDES ANTE VASCO",
-      "dueAt": "2026-10-12T04:05:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc582e63ff33d8c9a65c9f",
-      "createdAt": "2026-10-12T03:46:54.921Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyb3NhcmlvIGNlbnRyYWwiLDE3OTE3NzY4ODAwMDAsIkdBU1TDk04gw4FWSUxBIEZVRSBIT1NQSVRBTElaQURPIFRSQVMgVU5BIEZVRVJURSBQQVRBREEgRU4gRUwgUk9TVFJPIl0": {
-      "account": "main",
-      "title": "GASTÓN ÁVILA FUE HOSPITALIZADO TRAS UNA FUERTE PATADA EN EL ROSTRO",
-      "dueAt": "2026-10-12T04:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc582eea568e911a4ee4cd",
-      "createdAt": "2026-10-12T03:46:54.372Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109494286685257951",
-      "sentAt": "2026-10-12T04:00:05.424Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyYWNpbmciLDE3OTE3NzY4ODAwMDAsIlJBQ0lORyBDQVnDkyAyLTAgQU5URSBCRUxHUkFOTyBZIExMRUdBIEdPTFBFQURPIEFMIENMw4FTSUNPIENPTiBJTkRFUEVORElFTlRFIl0": {
-      "account": "main",
-      "title": "RACING CAYÓ 2-0 ANTE BELGRANO Y LLEGA GOLPEADO AL CLÁSICO CON INDEPENDIENTE",
-      "dueAt": "2026-10-12T03:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acc582d63ff33d8c9a65c75",
-      "createdAt": "2026-10-12T03:46:54.023Z",
-      "externalLink": "https://x.com/768913759301754880/status/2109493012141134129",
-      "sentAt": "2026-10-12T03:55:01.452Z"
     }
   },
   "nextAt": {
