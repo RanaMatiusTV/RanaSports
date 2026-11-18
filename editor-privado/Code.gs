@@ -70,8 +70,11 @@ function historySheet_() {
 
 function recordHistory_(sheet, originalRow, action, originalValues) {
   const moment = Utilities.formatDate(new Date(), RS.tz, 'dd/MM/yyyy HH:mm:ss');
-  sheet.appendRow([moment, originalRow, action, text_(originalValues[4], 250)]
-    .concat(originalValues));
+  const target = sheet.getRange(sheet.getLastRow() + 1, 1, 1, 23);
+  // Formato de texto: una fecha o URL no debe re-interpretarse al restaurar.
+  target.setNumberFormat('@');
+  target.setValues([[moment, originalRow, action, text_(originalValues[4], 250)]
+    .concat(originalValues)]);
 }
 
 function searchNews(query) {
