@@ -1,19 +1,23 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 19/11/2026 00:45 ARG
-Ventana principal revisada: 18/11/2026 19:45 a 19/11/2026 00:45 Argentina, con dos horas de solapamiento y control desde la última publicación real de las 21:31.
-Altas verificadas y releídas en la planilla: 3
-Filas: Noticias!4977:4979
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 19/11/2026 06:45 ARG
+Ventana principal revisada: 18/11/2026 22:45 a 19/11/2026 06:45 Argentina, con dos horas de solapamiento; además se realizó la auditoría de omisiones de las 24 horas anteriores correspondiente a la primera corrida posterior a la pausa nocturna.
+Altas verificadas y releídas en la planilla: 7
+Filas: Noticias!4980:4986
 Títulos:
-- LA ZETA REMONTÓ SIETE GOLES, VENCIÓ A ELLERSTINA Y QUEDÓ A UN PASO DE LA FINAL
-- CRUZEIRO REMONTÓ ANTE PALMEIRAS Y DEJÓ A FLAMENGO A UN EMPATE DEL TÍTULO
-- CORINTHIANS GOLEÓ 4-0 A BOTAFOGO Y SALIÓ DE LA ZONA DE DESCENSO
-Última noticia cronológica del lote y de la planilla: CORINTHIANS GOLEÓ 4-0 A BOTAFOGO Y SALIÓ DE LA ZONA DE DESCENSO — 18/11/2026 23:21 ARG, fila 4979.
-Contenido: 3 notas distintas, con fecha y hora sustentadas por primera difusión, cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: LA NACION, UOL y Folha de S.Paulo; revisión complementaria de TyC Sports, Olé, ESPN, Infobae Deportes, medios brasileños y fuente oficial de Flamengo.
-Disciplinas y áreas: polo/Abierto de Palermo y Brasileirao, con lucha por el título y permanencia.
-Imágenes H: 3 seleccionadas sin comprobación técnica adicional.
-K oportunistas: 0 incorporados; 3 vacíos para el radar de embeds.
-Candidatas consideradas: 8. Descartes: triunfo de Flamengo absorbido por la consecuencia verificable incluida en la nota de Cruzeiro-Palmeiras; agenda Sub-17 y F1 ya publicadas; no hubo una novedad verificable de Independiente dentro de la ventana.
-Pendientes: llegada de Boca a Barranquilla, advertencia de la barra de Atlético Mineiro y concentración de hinchas de Boca quedaron pendientes por falta de imagen directa pertinente en la consulta breve; la victoria del Sesc RJ Flamengo quedó pendiente por no resolverse con precisión la hora de primera difusión y la imagen directa.
-Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 00:45: 38 notas.
+- ZEBALLOS Y GRANOLLERS PERDIERON Y SE JUGARÁN EL PASE A SEMIFINALES EN LAS ATP FINALS
+- LOS PREMIOS OLIMPIA 2026 SE ENTREGARÁN EL 21 DE DICIEMBRE
+- TOTO WOLFF DESCARTÓ UNA SALIDA DE KIMI ANTONELLI A FERRARI
+- TIGER WOODS VOLVERÁ A COMPETIR EN EL HERO WORLD CHALLENGE
+- PIASTRI RECIBIÓ UNA PENALIZACIÓN DE DIEZ PUESTOS PARA EL GP DE LAS VEGAS
+- RACING BULLS CONFIRMÓ A LAWSON Y LINDBLAD PARA LA TEMPORADA 2027
+- COLAPINTO PROBÓ EL ALPINE 2027 Y DESTACÓ QUE AVANZA EN LA DIRECCIÓN BUSCADA
+Última noticia cronológica del lote y de la planilla: ZEBALLOS Y GRANOLLERS PERDIERON Y SE JUGARÁN EL PASE A SEMIFINALES EN LAS ATP FINALS — 19/11/2026 05:57 ARG, fila 4980.
+Contenido: 7 notas distintas, con marca temporal sustentada por primera difusión, cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: Infobae Deportes con respaldo de Europa Press, Reuters, PGA Tour, McLaren, Racing Bulls, Alpine F1 Team y Círculo de Periodistas Deportivos; revisión complementaria de TyC Sports, Olé, ESPN, LA NACION y fuentes oficiales.
+Disciplinas y áreas: tenis, polideportivo argentino, golf y Fórmula 1/Colapinto.
+Imágenes H: 7 seleccionadas sin comprobación técnica adicional.
+K oportunistas: 0 incorporados; 7 vacíos para el radar de embeds.
+Candidatas consideradas: 14. Duplicados o absorbidas: presupuesto de River ya publicado en la fila 4953; retiro de Banega ya publicado en la fila 4967; agenda de la Selección Sub-17 y Fórmula 1 ya cubierta.
+Pendientes: llegada de Boca a Barranquilla y formato de la nueva competencia de selecciones de Conmebol por falta de imagen directa pertinente en la consulta breve; confirmación de Bottas en Cadillac y el cruce de hinchas en un aeropuerto quedaron para nueva verificación editorial. No surgió una novedad verificable de Independiente dentro de la ventana.
+Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 06:45: 44 notas.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4977:4979 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4980:4986 en el CSV público.
