@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/infantino-diallo-y-tashima-presentaron-sus-candidaturas-a-la-presidencia-de-fifa/": {
+      "account": "sports",
+      "title": "INFANTINO, DIALLO Y TASHIMA PRESENTARON SUS CANDIDATURAS A LA PRESIDENCIA DE FIFA",
+      "dueAt": "2026-11-19T22:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aff6c66373c7db3cb56064a",
+      "createdAt": "2026-11-19T21:38:46.852Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-seguira-la-final-de-boca-mientras-compite-en-las-vegas/": {
+      "account": "f1",
+      "title": "COLAPINTO SEGUIRÁ LA FINAL DE BOCA MIENTRAS COMPITE EN LAS VEGAS",
+      "dueAt": "2026-11-19T21:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aff6c648ec824f4cec25e8d",
+      "createdAt": "2026-11-19T21:38:45.053Z"
+    },
+    "https://ranasports.com.ar/futbol/ponzio-define-entre-montiel-y-gonzalez-para-recibir-a-lanus/": {
+      "account": "sports",
+      "title": "PONZIO DEFINE ENTRE MONTIEL Y GONZÁLEZ PARA RECIBIR A LANÚS",
+      "dueAt": "2026-11-19T22:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aff6c64373c7db3cb56058f",
+      "createdAt": "2026-11-19T21:38:44.624Z"
+    },
+    "https://ranasports.com.ar/seleccion-argentina-sub-17/argentina-sub-17-debuta-ante-australia-en-el-mundial-de-qatar/": {
+      "account": "sports",
+      "title": "ARGENTINA SUB-17 DEBUTA ANTE AUSTRALIA EN EL MUNDIAL DE QATAR",
+      "dueAt": "2026-11-19T21:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6aff6c63373c7db3cb560559",
+      "createdAt": "2026-11-19T21:38:43.993Z"
+    },
     "https://ranasports.com.ar/brasileirao/cruzeiro-remonto-ante-palmeiras-y-dejo-a-flamengo-a-un-empate-del-titulo/": {
       "account": "sports",
       "title": "CRUZEIRO REMONTÓ ANTE PALMEIRAS Y DEJÓ A FLAMENGO A UN EMPATE DEL TÍTULO",
@@ -4779,38 +4811,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6acceae44dc05e79cb39d04e",
       "createdAt": "2026-10-12T14:12:52.642Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJyaXZlciBwbGF0ZSIsMTc5MTgxNDI4NzAwMCwiUE9OWklPIE1BTlRJRU5FIERPUyBEVURBUyBFTiBSSVZFUiBQQVJBIFZJU0lUQVIgQSBTQVJNSUVOVE8iXQ": {
-      "account": "main",
-      "title": "PONZIO MANTIENE DOS DUDAS EN RIVER PARA VISITAR A SARMIENTO",
-      "dueAt": "2026-10-12T14:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acceae424301f624689f9b5",
-      "createdAt": "2026-10-12T14:12:52.254Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgxNDI4NjAwMCwiTUVTU0kgRUxJR0nDkyBBIERJRVogSsOTVkVORVMgQ09NTyBMQVMgUFLDk1hJTUFTIEVTVFJFTExBUyBERUwgRsOaVEJPTCJd": {
-      "account": "main",
-      "title": "MESSI ELIGIÓ A DIEZ JÓVENES COMO LAS PRÓXIMAS ESTRELLAS DEL FÚTBOL",
-      "dueAt": "2026-10-12T14:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acceae352725e494b47f3b2",
-      "createdAt": "2026-10-12T14:12:51.904Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIGp1bmlvcnMiLDE3OTE4MTQyODQwMDAsIkJPQ0EgUEVSRklMw5MgU1UgT05DRSBTSU4gUEFSRURFUyBQQVJBIFJFQ0lCSVIgQSBWQVNDTyJd": {
-      "account": "main",
-      "title": "BOCA PERFILÓ SU ONCE SIN PAREDES PARA RECIBIR A VASCO",
-      "dueAt": "2026-10-12T14:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acceae34dc05e79cb39cffa",
-      "createdAt": "2026-10-12T14:12:51.584Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzZWxlY2Npb24iLDE3OTE4MTQyODUwMDAsIlZBTEVOVMONTiBHw5NNRVogREVCVVTDkyBFTiBMQSBTRUxFQ0NJw5NOIFBFUk8gU0lHVUUgU0lOIEFGSUFOWkFSU0UgRU4gQkVUSVMiXQ": {
-      "account": "main",
-      "title": "VALENTÍN GÓMEZ DEBUTÓ EN LA SELECCIÓN PERO SIGUE SIN AFIANZARSE EN BETIS",
-      "dueAt": "2026-10-12T14:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acceae30728a43e9782a57f",
-      "createdAt": "2026-10-12T14:12:51.161Z"
     }
   },
   "nextAt": {
