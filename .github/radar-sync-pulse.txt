@@ -1,20 +1,25 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 19/11/2026 15:45 ARG
-Ventana principal revisada: 19/11/2026 10:45 a 15:45 Argentina, desde la última publicación real y con dos horas de solapamiento. Se controló una omisión verificable de las 24 horas anteriores.
-Altas verificadas y releídas en la planilla: 4
-Filas: Noticias!4997:5000
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 19/11/2026 18:55 ARG
+Ventana principal revisada: 19/11/2026 13:45 a 18:55 Argentina, desde la última publicación real y con dos horas de solapamiento. Se recuperaron omisiones verificables hasta el 18/11/2026 14:33.
+Altas verificadas y releídas en la planilla: 9
+Filas: Noticias!5001:5009
 Títulos:
-- ARGENTINA SUB-17 PERDIÓ 2-0 CON AUSTRALIA EN SU DEBUT MUNDIALISTA
-- RIVER APUNTA A FRANCISCO ÁLVAREZ PARA REFORZAR LA DEFENSA EN 2027
-- OCON HABRÍA ACORDADO SER RESERVA DE ASTON MARTIN EN 2027
-- EL CUERPO TÉCNICO DE SCALONI MOSTRÓ UN MAPA CON 74 FUTBOLISTAS EN SEGUIMIENTO
-Última noticia cronológica del lote y de la planilla: OCON HABRÍA ACORDADO SER RESERVA DE ASTON MARTIN EN 2027 — 19/11/2026 15:44 ARG, fila 4999.
-Contenido: 4 noticias distintas, con cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. La información sobre Ocon quedó expresamente atribuida y sin presentar el acuerdo como oficial. No se modificaron filas históricas.
-Fuentes principales: Infobae, TNT Sports; contraste con Clarín, AFA, TyC Sports, Olé, DeporTV, UAR, Solo Ascenso, LA NACION y medios regionales.
-Disciplinas y áreas: Selección Argentina Sub-17, River Plate, Fórmula 1 y Selección Argentina.
-Imágenes H: 4 seleccionadas sin comprobación técnica adicional; las cuatro se identificaron como ARCHIVO pertinente.
-K oportunistas: 0 incorporados; 4 vacíos para el radar de embeds.
-Candidatas consideradas: 12. Duplicados o absorbidas: formación de Los Pumas ya publicada en la fila 4990; sucesión de Pedro Troglio ya publicada en la fila 4973; llegada de Boca a Barranquilla en la fila 4989; previa de Argentina Sub-17 en la fila 4996, actualizada por el resultado final como hecho nuevo.
-Pendientes al corte: los cinco partidos de Reserva iniciados a las 15:00 seguían en juego; la FP1 de Fórmula 1 estaba programada para las 21:30. No apareció una novedad sustantiva nueva de Independiente posterior a la ya publicada.
-Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 15:45: 35 notas.
+- PASSARELLA IRÁ A JUICIO ORAL POR IRREGULARIDADES DURANTE SU GESTIÓN EN RIVER
+- VERÓN COMPARÓ EL TALENTO DE NICO PAZ CON MESSI Y MARADONA
+- GIMNASIA INTIMÓ A ARGENTINOS POR UNA DEUDA DEL PASE DE ALAN LESCANO
+- RACING VOLVIÓ A PONER A CRISTIAN PAVÓN EN SU RADAR PARA 2027
+- CONMEBOL REALIZÓ UN CONTROL ANTIDOPAJE SORPRESA A 23 JUGADORES DE BOCA
+- UEFA EXIGIÓ A FIFA RESPUESTAS SOBRE EL FALLIDO PROYECTO DE DERECHOS DEL MUNDIAL
+- LOS CLUBES DE LA PREMIER APROBARON PROTECCIÓN LEGAL PARA SUS DIRECTIVOS
+- CONMEBOL ANALIZA CONVERTIR LAS ELIMINATORIAS EN UNA LIGA DE NACIONES
+- LA BARRA DE ATLÉTICO MINEIRO APRETÓ AL PLANTEL ANTES DE LA FINAL CON BOCA
+Última noticia cronológica del lote y de la planilla: VERÓN COMPARÓ EL TALENTO DE NICO PAZ CON MESSI Y MARADONA — 19/11/2026 16:25 ARG, fila 5002.
+Contenido: 9 noticias distintas, con cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: LA NACION, TyC Sports, Agencia Noticias Argentinas, El Gráfico, The Guardian, Cadena 3 y Diario El Norte; contraste con Infobae, TN, Doble Amarilla, Cadena SER, The Times, Deportes RCN y Olé.
+Disciplinas y áreas: River Plate, Selección Argentina, Argentinos Juniors/Gimnasia, Racing Club, Boca Juniors, fútbol internacional, Premier League, Eliminatorias Sudamericanas y Copa Sudamericana.
+Imágenes H: 9 seleccionadas sin comprobación técnica adicional; se consignó ARCHIVO cuando correspondía.
+K oportunistas: 0 incorporados; 9 vacíos para el radar de embeds.
+Candidatas consideradas: 20. Duplicados o absorbidas: retiro de Éver Banega, penalización de Piastri, derrota de Zeballos/Granollers, Premios Olimpia, ranking FIFA de Argentina, título anual de la Reserva de Independiente y la pelea ya programada de Kevin Vallejos.
+Pendientes al corte: la FP1 de Fórmula 1 estaba prevista para las 21:30; no se publicó la llegada de Riquelme a Barranquilla porque el arribo de Boca ya estaba cubierto y no aportaba un hecho material suficiente.
+Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 18:55: 37 notas.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4997:5000 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 5001:5009 en el CSV público.
