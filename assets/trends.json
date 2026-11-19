@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-18T19:05:48.048Z",
+  "updatedAt": "2026-11-19T01:12:10.833Z",
   "trends": [
     {
-      "query": "pago",
-      "startedAt": "2026-11-18T18:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "corolla deck",
-      "startedAt": "2026-11-18T18:50:00.000Z",
+      "query": "cuestión de peso",
+      "startedAt": "2026-11-19T00:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "fenómeno",
-      "startedAt": "2026-11-18T18:30:00.000Z",
+      "query": "neymar",
+      "startedAt": "2026-11-19T00:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "casa rosada",
+      "startedAt": "2026-11-19T00:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "mavericks - warriors",
+      "startedAt": "2026-11-19T00:30:00.000Z",
       "volume": 500
     },
     {
-      "query": "ludovica squirru",
-      "startedAt": "2026-11-18T18:20:00.000Z",
+      "query": "quiniela nacional",
+      "startedAt": "2026-11-19T00:30:00.000Z",
       "volume": 500
     },
     {
-      "query": "martín llaryora",
-      "startedAt": "2026-11-18T18:10:00.000Z",
+      "query": "gran premio de las vegas",
+      "startedAt": "2026-11-19T00:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "ueno bank",
-      "startedAt": "2026-11-18T18:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "selección de fútbol sub-17 de australia",
-      "startedAt": "2026-11-18T18:00:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "real madrid - inter de milán",
-      "startedAt": "2026-11-18T17:40:00.000Z",
+      "query": "fuerzas armadas",
+      "startedAt": "2026-11-19T00:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "pronostico la plata",
-      "startedAt": "2026-11-18T17:40:00.000Z",
+      "query": "heat - bucks",
+      "startedAt": "2026-11-19T00:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "zanja",
+      "startedAt": "2026-11-19T00:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "grêmio - bahía",
+      "startedAt": "2026-11-19T00:10:00.000Z",
       "volume": 1000
-    },
-    {
-      "query": "camiseta",
-      "startedAt": "2026-11-18T17:20:00.000Z",
-      "volume": 200
     }
   ]
 }
