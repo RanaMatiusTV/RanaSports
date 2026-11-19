@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-19T17:42:07.965Z",
+  "updatedAt": "2026-11-19T23:50:14.319Z",
   "trends": [
     {
-      "query": "20 de noviembre",
-      "startedAt": "2026-11-19T17:10:00.000Z",
+      "query": "dólar estadounidense",
+      "startedAt": "2026-11-19T23:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "congreso",
-      "startedAt": "2026-11-19T17:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "amalia granata",
-      "startedAt": "2026-11-19T16:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "julio iglesias",
-      "startedAt": "2026-11-19T16:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "tapir americano",
-      "startedAt": "2026-11-19T16:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "dolar",
-      "startedAt": "2026-11-19T16:30:00.000Z",
+      "query": "ley de discapacidad",
+      "startedAt": "2026-11-19T23:00:00.000Z",
       "volume": 500
     },
     {
-      "query": "depósito",
-      "startedAt": "2026-11-19T16:10:00.000Z",
-      "volume": 100
+      "query": "superávit económico",
+      "startedAt": "2026-11-19T22:50:00.000Z",
+      "volume": 200
     },
     {
-      "query": "estoico",
-      "startedAt": "2026-11-19T16:00:00.000Z",
-      "volume": 100
+      "query": "causa por presuntas coimas en la andis",
+      "startedAt": "2026-11-19T22:50:00.000Z",
+      "volume": 500
     },
     {
-      "query": "que se festeja hoy",
-      "startedAt": "2026-11-19T16:00:00.000Z",
-      "volume": 100
+      "query": "obra pública",
+      "startedAt": "2026-11-19T22:30:00.000Z",
+      "volume": 500
     },
     {
-      "query": "anthropic acciones",
-      "startedAt": "2026-11-19T15:20:00.000Z",
-      "volume": 100
+      "query": "cotización dolar hoy",
+      "startedAt": "2026-11-19T22:30:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "fátima flórez",
+      "startedAt": "2026-11-19T22:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "carburando",
+      "startedAt": "2026-11-19T22:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "aguinaldo estatales",
+      "startedAt": "2026-11-19T22:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "vitória - bragantino",
+      "startedAt": "2026-11-19T22:00:00.000Z",
+      "volume": 2000
     }
   ]
 }
