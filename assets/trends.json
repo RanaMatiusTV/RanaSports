@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-19T08:46:11.251Z",
+  "updatedAt": "2026-11-19T17:42:07.965Z",
   "trends": [
     {
-      "query": "trucos gta 6",
-      "startedAt": "2026-11-19T05:00:00.000Z",
+      "query": "20 de noviembre",
+      "startedAt": "2026-11-19T17:10:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "puerto",
-      "startedAt": "2026-11-19T03:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "thunder - hawks",
-      "startedAt": "2026-11-19T03:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "gta san andreas",
-      "startedAt": "2026-11-19T03:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "lakers - jazz",
-      "startedAt": "2026-11-19T02:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "cavaliers - grizzlies",
-      "startedAt": "2026-11-19T02:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "nuggets - celtics",
-      "startedAt": "2026-11-19T02:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "olé",
-      "startedAt": "2026-11-19T02:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "brian fernández",
-      "startedAt": "2026-11-19T02:00:00.000Z",
-      "volume": 100
     },
     {
       "query": "congreso",
-      "startedAt": "2026-11-19T02:00:00.000Z",
+      "startedAt": "2026-11-19T17:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "amalia granata",
+      "startedAt": "2026-11-19T16:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "julio iglesias",
+      "startedAt": "2026-11-19T16:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "tapir americano",
+      "startedAt": "2026-11-19T16:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "dolar",
+      "startedAt": "2026-11-19T16:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "depósito",
+      "startedAt": "2026-11-19T16:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "estoico",
+      "startedAt": "2026-11-19T16:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "que se festeja hoy",
+      "startedAt": "2026-11-19T16:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "anthropic acciones",
+      "startedAt": "2026-11-19T15:20:00.000Z",
       "volume": 100
     }
   ]
