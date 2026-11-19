@@ -1,23 +1,20 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 19/11/2026 06:45 ARG
-Ventana principal revisada: 18/11/2026 22:45 a 19/11/2026 06:45 Argentina, con dos horas de solapamiento; además se realizó la auditoría de omisiones de las 24 horas anteriores correspondiente a la primera corrida posterior a la pausa nocturna.
-Altas verificadas y releídas en la planilla: 7
-Filas: Noticias!4980:4986
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 19/11/2026 09:45 ARG
+Ventana principal revisada: 19/11/2026 04:45 a 09:45 Argentina, cubriendo desde la corrida anterior y dos horas de solapamiento; se controlaron también omisiones verificables de las 24 horas anteriores.
+Altas verificadas y releídas en la planilla: 4
+Filas: Noticias!4987:4990
 Títulos:
-- ZEBALLOS Y GRANOLLERS PERDIERON Y SE JUGARÁN EL PASE A SEMIFINALES EN LAS ATP FINALS
-- LOS PREMIOS OLIMPIA 2026 SE ENTREGARÁN EL 21 DE DICIEMBRE
-- TOTO WOLFF DESCARTÓ UNA SALIDA DE KIMI ANTONELLI A FERRARI
-- TIGER WOODS VOLVERÁ A COMPETIR EN EL HERO WORLD CHALLENGE
-- PIASTRI RECIBIÓ UNA PENALIZACIÓN DE DIEZ PUESTOS PARA EL GP DE LAS VEGAS
-- RACING BULLS CONFIRMÓ A LAWSON Y LINDBLAD PARA LA TEMPORADA 2027
-- COLAPINTO PROBÓ EL ALPINE 2027 Y DESTACÓ QUE AVANZA EN LA DIRECCIÓN BUSCADA
-Última noticia cronológica del lote y de la planilla: ZEBALLOS Y GRANOLLERS PERDIERON Y SE JUGARÁN EL PASE A SEMIFINALES EN LAS ATP FINALS — 19/11/2026 05:57 ARG, fila 4980.
-Contenido: 7 notas distintas, con marca temporal sustentada por primera difusión, cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: Infobae Deportes con respaldo de Europa Press, Reuters, PGA Tour, McLaren, Racing Bulls, Alpine F1 Team y Círculo de Periodistas Deportivos; revisión complementaria de TyC Sports, Olé, ESPN, LA NACION y fuentes oficiales.
-Disciplinas y áreas: tenis, polideportivo argentino, golf y Fórmula 1/Colapinto.
-Imágenes H: 7 seleccionadas sin comprobación técnica adicional.
-K oportunistas: 0 incorporados; 7 vacíos para el radar de embeds.
-Candidatas consideradas: 14. Duplicados o absorbidas: presupuesto de River ya publicado en la fila 4953; retiro de Banega ya publicado en la fila 4967; agenda de la Selección Sub-17 y Fórmula 1 ya cubierta.
-Pendientes: llegada de Boca a Barranquilla y formato de la nueva competencia de selecciones de Conmebol por falta de imagen directa pertinente en la consulta breve; confirmación de Bottas en Cadillac y el cruce de hinchas en un aeropuerto quedaron para nueva verificación editorial. No surgió una novedad verificable de Independiente dentro de la ventana.
-Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 06:45: 44 notas.
+- BOTTAS SEGUIRÁ EN CADILLAC DURANTE LA TEMPORADA 2027
+- COLAPINTO ANTICIPÓ UN GP DE LAS VEGAS CON FRÍO Y DIFÍCIL PARA LOS NEUMÁTICOS
+- BOCA LLEGÓ A BARRANQUILLA Y ARRUABARRENA PALPITÓ LA FINAL ANTE MINEIRO
+- LOS PUMAS CONFIRMARON LA FORMACIÓN PARA ENFRENTAR A FRANCIA
+Última noticia cronológica del lote y de la planilla: COLAPINTO ANTICIPÓ UN GP DE LAS VEGAS CON FRÍO Y DIFÍCIL PARA LOS NEUMÁTICOS — 19/11/2026 08:12 ARG, fila 4988.
+Contenido: 4 notas distintas, con fecha y hora sustentadas por primera difusión, cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TyC Sports y LA NACION; contraste con TN, Infobae Deportes, FIFA, ESPN, Clarín, DeporTV, Liga Profesional, medios regionales y fuentes oficiales.
+Disciplinas y áreas: Boca/Copa Sudamericana, Fórmula 1/Colapinto y rugby/Los Pumas.
+Imágenes H: 4 seleccionadas sin comprobación técnica adicional; tres se identificaron como ARCHIVO pertinente.
+K oportunistas: 0 incorporados; 4 vacíos para el radar de embeds.
+Candidatas consideradas: 15. Duplicados o absorbidas: ranking FIFA ya publicado en la fila 4945; evolución del motor Alpine en la fila 4905; inicio de Pochettino en Manchester United en la fila 4944; regreso de Montiel y Mele en Independiente en la fila 4966; recuperación de Blanco y Battaglia ya cubierta por notas previas; simulador Alpine 2027 en la fila 4986.
+Pendientes: triunfo de Las Monjitas sobre La Aguada y accidente de Bautista Bayugar, proyecto de nuevo formato de Eliminatorias Conmebol, cruce entre hinchas de Boca y Mineiro y noticias de ascenso sin desarrollo suficientemente nuevo quedaron pendientes por falta de imagen directa pertinente o verificación adicional en la consulta breve. No apareció una nueva información sustantiva de Independiente dentro de la ventana.
+Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 09:45: 42 notas.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4980:4986 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4987:4990 en el CSV público.
