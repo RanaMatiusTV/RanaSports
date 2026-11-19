@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-19T01:12:10.833Z",
+  "updatedAt": "2026-11-19T08:46:11.251Z",
   "trends": [
     {
-      "query": "cuestión de peso",
-      "startedAt": "2026-11-19T00:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "neymar",
-      "startedAt": "2026-11-19T00:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "casa rosada",
-      "startedAt": "2026-11-19T00:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "mavericks - warriors",
-      "startedAt": "2026-11-19T00:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "quiniela nacional",
-      "startedAt": "2026-11-19T00:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "gran premio de las vegas",
-      "startedAt": "2026-11-19T00:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "fuerzas armadas",
-      "startedAt": "2026-11-19T00:20:00.000Z",
+      "query": "trucos gta 6",
+      "startedAt": "2026-11-19T05:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "heat - bucks",
-      "startedAt": "2026-11-19T00:20:00.000Z",
+      "query": "puerto",
+      "startedAt": "2026-11-19T03:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "thunder - hawks",
+      "startedAt": "2026-11-19T03:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "zanja",
-      "startedAt": "2026-11-19T00:20:00.000Z",
+      "query": "gta san andreas",
+      "startedAt": "2026-11-19T03:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "grêmio - bahía",
-      "startedAt": "2026-11-19T00:10:00.000Z",
+      "query": "lakers - jazz",
+      "startedAt": "2026-11-19T02:40:00.000Z",
       "volume": 1000
+    },
+    {
+      "query": "cavaliers - grizzlies",
+      "startedAt": "2026-11-19T02:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "nuggets - celtics",
+      "startedAt": "2026-11-19T02:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "olé",
+      "startedAt": "2026-11-19T02:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "brian fernández",
+      "startedAt": "2026-11-19T02:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "congreso",
+      "startedAt": "2026-11-19T02:00:00.000Z",
+      "volume": 100
     }
   ]
 }
