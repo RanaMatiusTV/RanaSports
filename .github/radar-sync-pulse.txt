@@ -1,22 +1,20 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 19/11/2026 12:45 ARG
-Ventana principal revisada: 19/11/2026 07:45 a 12:45 Argentina, desde la última publicación real y con dos horas de solapamiento. Se controlaron omisiones verificables de las 24 horas anteriores.
-Altas verificadas y releídas en la planilla: 6
-Filas: Noticias!4991:4996
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 19/11/2026 15:45 ARG
+Ventana principal revisada: 19/11/2026 10:45 a 15:45 Argentina, desde la última publicación real y con dos horas de solapamiento. Se controló una omisión verificable de las 24 horas anteriores.
+Altas verificadas y releídas en la planilla: 4
+Filas: Noticias!4997:5000
 Títulos:
-- COLAPINTO SEGUIRÁ LA FINAL DE BOCA MIENTRAS COMPITE EN LAS VEGAS
-- PONZIO DEFINE ENTRE MONTIEL Y GONZÁLEZ PARA RECIBIR A LANÚS
-- RAMIRO MACAGNO DEMANDÓ A NEWELL'S POR UNA DEUDA DE 300 MIL DÓLARES
-- BARTY INGRESARÁ AL SALÓN DE LA FAMA Y DEL POTRO QUEDÓ AFUERA DE LA CLASE 2027
-- INFANTINO, DIALLO Y TASHIMA PRESENTARON SUS CANDIDATURAS A LA PRESIDENCIA DE FIFA
-- ARGENTINA SUB-17 DEBUTA ANTE AUSTRALIA EN EL MUNDIAL DE QATAR
-Última noticia cronológica del lote y de la planilla: ARGENTINA SUB-17 DEBUTA ANTE AUSTRALIA EN EL MUNDIAL DE QATAR — 19/11/2026 11:36 ARG, fila 4996.
-Contenido: 6 noticias distintas, con fecha y hora sustentadas por primera difusión, cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TyC Sports, LA NACION, La Capital y FIFA; contraste con AFA, Olé, ESPN, TNT Sports, Infobae Deportes, Clarín, DeporTV, Reuters y medios regionales.
-Disciplinas y áreas: Fórmula 1/Colapinto, River, Newell's, tenis/Del Potro, fútbol internacional/FIFA y Selección Argentina Sub-17.
-Imágenes H: 6 seleccionadas sin comprobación técnica adicional; las seis se identificaron como ARCHIVO pertinente.
-K oportunistas: 0 incorporados; 6 vacíos para el radar de embeds.
-Candidatas consideradas: 18. Duplicados o absorbidas: Cuti Romero ya publicado en la fila 4907; La Zeta-Ellerstina en la fila 4977; árbitros de octavos en la fila 4899; regresos de Montiel y Mele en Independiente en la fila 4966; Pochettino en Manchester United en la fila 4944; ranking FIFA en la fila 4945; simulador Alpine 2027 en la fila 4986.
-Pendientes: resultado de Argentina-Australia Sub-17, partidos de Reserva y prácticas de Fórmula 1 aún no habían finalizado al corte; un posible interés de River por Francisco Álvarez tuvo difusión posterior al límite temporal. No apareció una novedad sustantiva de Independiente posterior a la ya publicada.
-Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 12:45: 39 notas.
+- ARGENTINA SUB-17 PERDIÓ 2-0 CON AUSTRALIA EN SU DEBUT MUNDIALISTA
+- RIVER APUNTA A FRANCISCO ÁLVAREZ PARA REFORZAR LA DEFENSA EN 2027
+- OCON HABRÍA ACORDADO SER RESERVA DE ASTON MARTIN EN 2027
+- EL CUERPO TÉCNICO DE SCALONI MOSTRÓ UN MAPA CON 74 FUTBOLISTAS EN SEGUIMIENTO
+Última noticia cronológica del lote y de la planilla: OCON HABRÍA ACORDADO SER RESERVA DE ASTON MARTIN EN 2027 — 19/11/2026 15:44 ARG, fila 4999.
+Contenido: 4 noticias distintas, con cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. La información sobre Ocon quedó expresamente atribuida y sin presentar el acuerdo como oficial. No se modificaron filas históricas.
+Fuentes principales: Infobae, TNT Sports; contraste con Clarín, AFA, TyC Sports, Olé, DeporTV, UAR, Solo Ascenso, LA NACION y medios regionales.
+Disciplinas y áreas: Selección Argentina Sub-17, River Plate, Fórmula 1 y Selección Argentina.
+Imágenes H: 4 seleccionadas sin comprobación técnica adicional; las cuatro se identificaron como ARCHIVO pertinente.
+K oportunistas: 0 incorporados; 4 vacíos para el radar de embeds.
+Candidatas consideradas: 12. Duplicados o absorbidas: formación de Los Pumas ya publicada en la fila 4990; sucesión de Pedro Troglio ya publicada en la fila 4973; llegada de Boca a Barranquilla en la fila 4989; previa de Argentina Sub-17 en la fila 4996, actualizada por el resultado final como hecho nuevo.
+Pendientes al corte: los cinco partidos de Reserva iniciados a las 15:00 seguían en juego; la FP1 de Fórmula 1 estaba programada para las 21:30. No apareció una novedad sustantiva nueva de Independiente posterior a la ya publicada.
+Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 15:45: 35 notas.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 4991:4996 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 4997:5000 en el CSV público.
