@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-20T16:07:54.408Z",
+  "updatedAt": "2026-11-20T22:40:05.777Z",
   "trends": [
     {
-      "query": "bitcoin",
-      "startedAt": "2026-11-20T15:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "pronostico bahia blanca",
-      "startedAt": "2026-11-20T15:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "denuncia",
-      "startedAt": "2026-11-20T15:40:00.000Z",
+      "query": "cambio climático",
+      "startedAt": "2026-11-20T22:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "calchín oeste",
-      "startedAt": "2026-11-20T15:30:00.000Z",
-      "volume": 200
+      "query": "mauricio pochettino",
+      "startedAt": "2026-11-20T22:20:00.000Z",
+      "volume": 100
     },
     {
-      "query": "dolar blue",
-      "startedAt": "2026-11-20T15:30:00.000Z",
+      "query": "vélez - belgrano",
+      "startedAt": "2026-11-20T22:10:00.000Z",
       "volume": 2000
     },
     {
-      "query": "fabián vargas",
-      "startedAt": "2026-11-20T15:30:00.000Z",
+      "query": "posiciones de athletic club contra rcd espanyol de barcelona",
+      "startedAt": "2026-11-20T22:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "conmebol sudamericana",
+      "startedAt": "2026-11-20T22:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "alexander haskin actor",
+      "startedAt": "2026-11-20T22:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "gasto",
+      "startedAt": "2026-11-20T21:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "año escolar",
-      "startedAt": "2026-11-20T15:00:00.000Z",
+      "query": "legislador",
+      "startedAt": "2026-11-20T21:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "juan fernando quintero",
+      "startedAt": "2026-11-20T21:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "copa sudamericana",
-      "startedAt": "2026-11-20T14:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "riesgo pais",
-      "startedAt": "2026-11-20T14:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "pablo alabarces",
-      "startedAt": "2026-11-20T14:40:00.000Z",
-      "volume": 200
+      "query": "columbus crew",
+      "startedAt": "2026-11-20T21:30:00.000Z",
+      "volume": 100
     }
   ]
 }
