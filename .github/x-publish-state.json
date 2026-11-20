@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/cinco-pilotos-fueron-sancionados-antes-de-la-clasificacion-en-las-vegas/": {
+      "account": "f1",
+      "title": "CINCO PILOTOS FUERON SANCIONADOS ANTES DE LA CLASIFICACIÓN EN LAS VEGAS",
+      "dueAt": "2026-11-20T22:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b00b695dd205ed7799783b4",
+      "createdAt": "2026-11-20T21:07:33.525Z"
+    },
+    "https://ranasports.com.ar/torneo-apertura/el-borrador-del-apertura-2027-preve-tres-fechas-en-enero/": {
+      "account": "sports",
+      "title": "EL BORRADOR DEL APERTURA 2027 PREVÉ TRES FECHAS EN ENERO",
+      "dueAt": "2026-11-20T22:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b00b694d9cbb430a1f80e4d",
+      "createdAt": "2026-11-20T21:07:32.966Z"
+    },
+    "https://ranasports.com.ar/uefa-nations-league/espana-francia-encabeza-los-cuartos-de-la-nations-league/": {
+      "account": "sports",
+      "title": "ESPAÑA-FRANCIA ENCABEZA LOS CUARTOS DE LA NATIONS LEAGUE",
+      "dueAt": "2026-11-20T21:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b00b6945102766245d2708f",
+      "createdAt": "2026-11-20T21:07:32.449Z"
+    },
+    "https://ranasports.com.ar/f1/briatore-califico-con-un-ni-la-temporada-de-alpine-y-apunto-a-2027/": {
+      "account": "f1",
+      "title": "BRIATORE CALIFICÓ CON UN “NI” LA TEMPORADA DE ALPINE Y APUNTÓ A 2027",
+      "dueAt": "2026-11-20T21:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b00b6939ffbc8503cd6b4fb",
+      "createdAt": "2026-11-20T21:07:31.745Z"
+    },
+    "https://ranasports.com.ar/torneo-clausura/velez-recibe-a-belgrano-en-el-primer-cruce-de-octavos-del-clausura/": {
+      "account": "sports",
+      "title": "VÉLEZ RECIBE A BELGRANO EN EL PRIMER CRUCE DE OCTAVOS DEL CLAUSURA",
+      "dueAt": "2026-11-20T21:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b00b6925102766245d2701e",
+      "createdAt": "2026-11-20T21:07:31.105Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-termino-noveno-y-gasly-fue-segundo-en-la-fp2-de-las-vegas/": {
       "account": "f1",
       "title": "COLAPINTO TERMINÓ NOVENO Y GASLY FUE SEGUNDO EN LA FP2 DE LAS VEGAS",
@@ -4771,46 +4811,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6acd6695c210c8c6dd3c9b36",
       "createdAt": "2026-10-12T23:00:37.355Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgyODUxMDAwMCwiS1ZBUkFUU0tIRUxJQSBMRSBQUk9NRVRJw5MgQSBTUEVFRCBGRVNURUpBUiBTVSBQUsOTWElNTyBHT0wgQ09OIEVMIOKAnFNJVVVV4oCdIERFIENSSVNUSUFOTyJd": {
-      "account": "main",
-      "title": "KVARATSKHELIA LE PROMETIÓ A SPEED FESTEJAR SU PRÓXIMO GOL CON EL “SIUUU” DE CRISTIANO",
-      "dueAt": "2026-10-12T18:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd21c8235298ab870e436e",
-      "createdAt": "2026-10-12T18:07:05.063Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgyODQ4MDAwMCwiRkxVTUlORU5TRSBERU5VTkNJw5MgRVJST1JFUyBBUkJJVFJBTEVTIFRSQVMgUEVSREVSIEVMIENMw4FTSUNPIENPTiBGTEFNRU5HTyJd": {
-      "account": "main",
-      "title": "FLUMINENSE DENUNCIÓ ERRORES ARBITRALES TRAS PERDER EL CLÁSICO CON FLAMENGO",
-      "dueAt": "2026-10-12T18:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd21c76082b7070757ddff",
-      "createdAt": "2026-10-12T18:07:04.150Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkxODI4NDUwMDAwLCJOQVNJRiBFU1TDiUZBTk8sIEVMIFBJTE9UTyBERSBGw5NSTVVMQSAxIFFVRSBGVUUgQ0FNUEXDk04gUMOTU1RVTU8gREVMIFRVUklTTU8gQ0FSUkVURVJBIl0": {
-      "account": "f1",
-      "title": "NASIF ESTÉFANO, EL PILOTO DE FÓRMULA 1 QUE FUE CAMPEÓN PÓSTUMO DEL TURISMO CARRETERA",
-      "dueAt": "2026-10-12T18:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd21c76082b7070757dda4",
-      "createdAt": "2026-10-12T18:07:03.400Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib3hlbyIsMTc5MTgyODQyMDAwMCwiVEFUSkFOQSBHRU5SSUNIIFBBU8OTIERFIE1JU1MgQUxFTUFOSUEgQSBQUkVQQVJBUiBTVSBERUJVVCBQUk9GRVNJT05BTCBFTiBFTCBCT1hFTyJd": {
-      "account": "main",
-      "title": "TATJANA GENRICH PASÓ DE MISS ALEMANIA A PREPARAR SU DEBUT PROFESIONAL EN EL BOXEO",
-      "dueAt": "2026-10-12T18:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd21c684949d5b220e9fac",
-      "createdAt": "2026-10-12T18:07:02.975Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE4MjgzOTAwMDAsIkxBIFBFTEVBIEVOVFJFIE9SVEVHT1pBIFkgWkVMQVJBWcOBTiBRVUUgQ0FMRU5Uw5MgRUwgRklOQUwgREUgUkFDSU5HLUJFTEdSQU5PIl0": {
-      "account": "main",
-      "title": "LA PELEA ENTRE ORTEGOZA Y ZELARAYÁN QUE CALENTÓ EL FINAL DE RACING-BELGRANO",
-      "dueAt": "2026-10-12T18:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd21c617a75d2f70d123a8",
-      "createdAt": "2026-10-12T18:07:02.441Z"
     }
   },
   "nextAt": {
