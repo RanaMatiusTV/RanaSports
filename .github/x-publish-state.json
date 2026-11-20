@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/river-apunta-a-francisco-alvarez-para-reforzar-la-defensa-en-2027/": {
+      "account": "sports",
+      "title": "RIVER APUNTA A FRANCISCO ÁLVAREZ PARA REFORZAR LA DEFENSA EN 2027",
+      "dueAt": "2026-11-20T04:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6affbc3a0f5eda1a57b9dbe5",
+      "createdAt": "2026-11-20T03:19:23.031Z"
+    },
+    "https://ranasports.com.ar/f1/ocon-habria-acordado-ser-reserva-de-aston-martin-en-2027/": {
+      "account": "f1",
+      "title": "OCON HABRÍA ACORDADO SER RESERVA DE ASTON MARTIN EN 2027",
+      "dueAt": "2026-11-20T03:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6affbc304c1afd05deea7411",
+      "createdAt": "2026-11-20T03:19:12.710Z"
+    },
+    "https://ranasports.com.ar/futbol/passarella-ira-a-juicio-oral-por-irregularidades-durante-su-gestion-en-river/": {
+      "account": "sports",
+      "title": "PASSARELLA IRÁ A JUICIO ORAL POR IRREGULARIDADES DURANTE SU GESTIÓN EN RIVER",
+      "dueAt": "2026-11-20T03:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6affbc307b0a126ceba36c86",
+      "createdAt": "2026-11-20T03:19:12.090Z"
+    },
+    "https://ranasports.com.ar/futbol/veron-comparo-el-talento-de-nico-paz-con-messi-y-maradona/": {
+      "account": "sports",
+      "title": "VERÓN COMPARÓ EL TALENTO DE NICO PAZ CON MESSI Y MARADONA",
+      "dueAt": "2026-11-20T03:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6affbc2fca85ebefb0f1116a",
+      "createdAt": "2026-11-20T03:19:11.374Z"
+    },
+    "https://ranasports.com.ar/seleccion-argentina-sub-17/argentina-sub-17-perdio-2-0-con-australia-en-su-debut-mundialista/": {
+      "account": "sports",
+      "title": "ARGENTINA SUB-17 PERDIÓ 2-0 CON AUSTRALIA EN SU DEBUT MUNDIALISTA",
+      "dueAt": "2026-11-20T03:19:07.962Z",
+      "mode": "shareNow",
+      "bufferPostId": "6affbc2b4c1afd05deea6ea0",
+      "createdAt": "2026-11-20T03:19:10.245Z"
+    },
     "https://ranasports.com.ar/futbol/infantino-diallo-y-tashima-presentaron-sus-candidaturas-a-la-presidencia-de-fifa/": {
       "account": "sports",
       "title": "INFANTINO, DIALLO Y TASHIMA PRESENTARON SUS CANDIDATURAS A LA PRESIDENCIA DE FIFA",
@@ -4771,46 +4811,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6acd08b47562cfd84bc2a600",
       "createdAt": "2026-10-12T16:20:05.031Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJjb3BhIHN1ZGFtZXJpY2FuYSIsMTc5MTgyMTkxMDAwMCwiU0FOVElBR08gU09TQSBESUpPIFFVRSBMQSBBVVNFTkNJQSBERSBQQVJFREVTIEVTIFVOQSBWRU5UQUpBIFBBUkEgVkFTQ08gQU5URSBCT0NBIl0": {
-      "account": "main",
-      "title": "SANTIAGO SOSA DIJO QUE LA AUSENCIA DE PAREDES ES UNA VENTAJA PARA VASCO ANTE BOCA",
-      "dueAt": "2026-10-12T16:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd08b47562cfd84bc2a5b5",
-      "createdAt": "2026-10-12T16:20:04.592Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE4MjE4ODAwMDAsIk1BUkFWSUxMQSBNQVJUw41ORVogQ0FMSUZJQ8OTIEVMIENMw4FTSUNPIENPTiBJTkRFUEVORElFTlRFIENPTU8g4oCcTEEgRklOQUwgREVMIE1VTkRP4oCdIl0": {
-      "account": "main",
-      "title": "MARAVILLA MARTÍNEZ CALIFICÓ EL CLÁSICO CON INDEPENDIENTE COMO “LA FINAL DEL MUNDO”",
-      "dueAt": "2026-10-12T16:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd08b324350a9dcf64d173",
-      "createdAt": "2026-10-12T16:20:04.070Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE4MjE4NTAwMDAsIkNVTE9UVEEgREVTTUlOVEnDkyBTVSBSRU5VTkNJQSBZIEFETUlUScOTIFFVRSBTQU4gTE9SRU5aTyBFVkFMw5pBIFVOQSBDT05WT0NBVE9SSUEgREUgQUNSRUVET1JFUyJd": {
-      "account": "main",
-      "title": "CULOTTA DESMINTIÓ SU RENUNCIA Y ADMITIÓ QUE SAN LORENZO EVALÚA UNA CONVOCATORIA DE ACREEDORES",
-      "dueAt": "2026-10-12T16:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd08b37562cfd84bc2a51d",
-      "createdAt": "2026-10-12T16:20:03.382Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgxNDI4OTAwMCwiRUwgS0lMWSBSRVZFTMOTIFFVRSBBIE1FU1NJIExPIEVOVFVTSUFTTUEgSlVHQVIgTEEgTElCRVJUQURPUkVTIENPTiBJTlRFUiBNSUFNSSJd": {
-      "account": "main",
-      "title": "EL KILY REVELÓ QUE A MESSI LO ENTUSIASMA JUGAR LA LIBERTADORES CON INTER MIAMI",
-      "dueAt": "2026-10-12T14:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acceae424301f624689f9df",
-      "createdAt": "2026-10-12T14:12:52.893Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgxNDI4ODAwMCwiQ1JJU1RJQU5PIE5PIFBVU08gRkVDSEEgQSBTVSBSRVRJUk8gWSBWT0xWScOTIEEgREVGSU5JUlNFIENPTU8gRUwgTUVKT1IiXQ": {
-      "account": "main",
-      "title": "CRISTIANO NO PUSO FECHA A SU RETIRO Y VOLVIÓ A DEFINIRSE COMO EL MEJOR",
-      "dueAt": "2026-10-12T14:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acceae44dc05e79cb39d04e",
-      "createdAt": "2026-10-12T14:12:52.642Z"
     }
   },
   "nextAt": {
