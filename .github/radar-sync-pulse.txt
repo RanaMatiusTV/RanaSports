@@ -1,23 +1,22 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 20/11/2026 06:45 ARG
-Ventana principal revisada: 19/11/2026 22:45 a 20/11/2026 06:45 Argentina, con dos horas de solapamiento. Por ser la primera corrida tras la pausa nocturna se auditó además desde 19/11/2026 06:45.
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 20/11/2026 09:47 ARG
+Ventana principal revisada: 20/11/2026 04:45 a 09:47 Argentina, con dos horas de solapamiento y recuperación de omisiones verificables de las últimas 24 horas.
 Altas verificadas y releídas en la planilla: 7
-Filas: Noticias!5028:5034
+Filas: Noticias!5035:5041
 Títulos:
-- COLAPINTO TERMINÓ NOVENO Y GASLY FUE SEGUNDO EN LA FP2 DE LAS VEGAS
-- OBERÁ VENCIÓ 96-89 A INDEPENDIENTE DE OLIVA Y SUMÓ SU QUINTO TRIUNFO SEGUIDO
-- ALONSO ANTICIPÓ QUE DEJARÁ LA FÓRMULA 1 ANTES DEL REGRESO DE LOS MOTORES V8
-- ZVEREV VENCIÓ A FILS Y CERRÓ INVICTO LA FASE DE GRUPOS DEL ATP FINALS
-- SHELTON SUPERÓ A JÓDAR Y AVANZÓ A LAS SEMIFINALES DEL ATP FINALS
-- REFERENTES DE SAN LORENZO RECLAMARON A LA DIRIGENCIA POR CUATRO MESES DE DEUDA SALARIAL
-- TROGLIO RESCINDIÓ CON BANFIELD Y ACORDÓ DE PALABRA SU LLEGADA A ATLÉTICO TUCUMÁN
-Última noticia cronológica del lote y de la planilla: COLAPINTO TERMINÓ NOVENO Y GASLY FUE SEGUNDO EN LA FP2 DE LAS VEGAS — 20/11/2026 02:33 ARG, fila 5028.
+- COLAPINTO PIDIÓ MEJORAS TRAS LA FP2 Y ESPERA UNA PISTA MÁS SECA EN LAS VEGAS
+- INDEPENDIENTE VISITARÁ A ARGENTINOS CON BALIÑO COMO ÁRBITRO Y ECHENIQUE EN EL VAR
+- RIVER TENDRÁ CUATRO JUVENILES TITULARES ANTE LANÚS
+- FABIÁN VARGAS SE REENCONTRÓ CON PAREDES Y LE PIDIÓ SU CAMISETA
+- MESSI LIDERA LOS SALARIOS DE LA MLS Y DE PAUL QUEDÓ SEXTO
+- MEMPHIS GOLEÓ 126-98 A GOLDEN STATE Y SUMÓ SU QUINTA VICTORIA SEGUIDA
+- BOCA SE PREPARA PARA UN CÉSPED HÍBRIDO EN LA FINAL DE BARRANQUILLA
+Última noticia cronológica del lote y de la planilla: RIVER TENDRÁ CUATRO JUVENILES TITULARES ANTE LANÚS — 20/11/2026 09:08 ARG, fila 5037.
 Contenido: 7 noticias distintas, con cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TN, DeporTV y Noticias Argentinas; respaldo y contraste con FIA, Fórmula 1, Motorsport.com, Liga Nacional y ATP Finals.
-Disciplinas y áreas: Fórmula 1, Liga Nacional de Básquet, tenis, San Lorenzo y Banfield/Atlético Tucumán.
-Imágenes H: 7 seleccionadas sin comprobación técnica adicional; 1 directa del hecho y 6 de archivo pertinente identificadas.
-K oportunistas: 1 incorporado (video oficial de la FP2); 6 vacíos para el radar de embeds.
-Candidatas consideradas: 15. Duplicado descartado: la designación de Hollie Davidson para Los Pumas ya estaba publicada. Se evitaron repeticiones de la FP1, la salida de Paul Aron, el debut Sub-17 y novedades ya cargadas de Boca y River.
-Pendientes al corte: Ferro 84-80 Olímpico quedó pendiente por no obtener una URL de foto directa pertinente en la consulta breve; otras candidatas de previa o declaraciones quedaron fuera por falta de desarrollo material o verificación temporal suficiente.
-Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 06:45: 35 notas.
+Fuentes principales: TyC Sports, TN, LA NACION y Reuters; respaldo y contraste con Fórmula 1, MLSPA y NBA.
+Disciplinas y áreas: Independiente, River Plate, Boca Juniors, Inter Miami/MLS, Fórmula 1 y NBA.
+Imágenes H: 7 seleccionadas sin comprobación técnica adicional; todas de archivo pertinente identificadas.
+K oportunistas: 0 incorporados; 7 vacíos para el radar de embeds.
+Candidatas consideradas: 12. Se descartaron por duplicación o ausencia de desarrollo material la encuesta Aranda-Velasco, la previa ya publicada de Los Pumas y la designación arbitral de Hollie Davidson; Real Salt Lake-Seattle quedó pendiente por falta de una URL fotográfica directa pertinente en la consulta breve.
+Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 09:47: 34 notas.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 5028:5034 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 5035:5041 en el CSV público.
