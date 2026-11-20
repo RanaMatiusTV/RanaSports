@@ -1,26 +1,24 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 19/11/2026 21:53 ARG
-Ventana principal revisada: 19/11/2026 16:25 a 21:53 Argentina, con dos horas de solapamiento. Se recuperaron omisiones verificables hasta el 18/11/2026 15:01.
-Altas verificadas y releídas en la planilla: 10
-Filas: Noticias!5010:5019
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 20/11/2026 00:45 ARG
+Ventana principal revisada: 19/11/2026 14:25 a 20/11/2026 00:45 Argentina, con dos horas de solapamiento y recuperación de omisiones del día.
+Altas verificadas y releídas en la planilla: 8
+Filas: Noticias!5020:5027
 Títulos:
-- SANTIAGO MONTIEL VOLVERÁ AL ONCE DE INDEPENDIENTE ANTE ARGENTINOS JUNIORS
-- JOHN PERLAZA FUE SUSPENDIDO OCHO AÑOS POR AGREDIR CON UNA PIEDRA A UN ÁRBITRO
-- BOCA YA ASEGURÓ USD 5,7 MILLONES Y PUEDE SUPERAR LOS USD 13 MILLONES SI ES CAMPEÓN
-- LAUTARO RIVERO SERÁ TITULAR ANTE LANÚS Y SE JUEGA SU CONTINUIDAD EN RIVER
-- TOMÁS ARANDA GANÓ TERRENO PARA SER TITULAR EN LA FINAL DE LA SUDAMERICANA
-- JAK CRAWFORD REEMPLAZARÁ A FERNANDO ALONSO EN LA PRIMERA PRÁCTICA DE LAS VEGAS
-- CADILLAC CONFIRMÓ A VALTTERI BOTTAS COMO COMPAÑERO DE CHECO PÉREZ PARA 2027
-- DIBU MARTÍNEZ BROMEÓ CON MAXI LÓPEZ DURANTE LA GOLEADA ANTE COSTA RICA
-- FACUNDO HERRERA PIDIÓ QUE LO CONOZCAN POR SU NOMBRE Y NO POR EL APODO JAGGER
-- LANÚS RECUPERÓ A MEDINA Y SEPÚLVEDA, PERO CANALE ES DUDA PARA VISITAR A RIVER
-Última noticia cronológica del lote y de la planilla: LAUTARO RIVERO SERÁ TITULAR ANTE LANÚS Y SE JUEGA SU CONTINUIDAD EN RIVER — 19/11/2026 07:08 ARG, fila 5013.
-Contenido: 10 noticias distintas, con cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TyC Sports; respaldo y contraste con FEF, EFE, CONMEBOL, Aston Martin y Cadillac. Se revisaron además Infobae Deportes y fuentes oficiales/periodísticas de las áreas cubiertas.
-Disciplinas y áreas: Independiente, Boca Juniors, River Plate, Lanús, Selección Argentina, Fórmula 1 y fútbol internacional.
-Imágenes H: 10 seleccionadas sin comprobación técnica adicional; se consignó archivo cuando correspondía.
-K oportunistas: 0 incorporados; 10 vacíos para el radar de embeds.
-Candidatas consideradas: 21. Duplicados o absorbidas: crisis económica de Banfield (ya en fila 4976), Selección Argentina femenina, Brian Fernández, Juegos Suramericanos 2030 y varias coberturas ya publicadas de la final Boca-Mineiro.
-Pendientes al corte: resultado de la FP1 de Las Vegas, todavía en desarrollo durante la búsqueda; salarios de la MLS, fallo de Deportivo Madryn, previa de Luciana Moyano y Silvia Tuyà Viñas quedaron para la próxima tanda por no contar con hora de primera difusión suficientemente precisa en la fuente visible.
-Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 21:53: 33 notas.
+- AFA REDUJO A DOS FECHAS LA SANCIÓN DE GONZALO MONTIEL
+- ALPINE LIBERÓ A PAUL ARON Y ACORDÓ CON MERCEDES EL RESPALDO DE FREDERIK VESTI
+- HINCHAS DE BOCA REALIZARON BANDERAZOS EN CARTAGENA Y BARRANQUILLA
+- LA LLUVIA DEJÓ LA FP1 DE LAS VEGAS SIN TIEMPOS Y COLAPINTO SOLO GIRÓ AL FINAL
+- BOCA TUVO SU PRIMER ENTRENAMIENTO EN BARRANQUILLA Y PROBÓ A TOMÁS ARANDA
+- EL CUERPO TÉCNICO DE SCALONI MOSTRÓ UN MAPA DE SEGUIMIENTO CON 74 FUTBOLISTAS
+- COLAPINTO DEJÓ LAS REDES SOCIALES POR LOS MENSAJES DE ODIO
+- AFA RATIFICÓ EL 3-1 DE DEPORTIVO MADRYN Y SU PASE A CUARTOS DEL REDUCIDO
+Última noticia cronológica del lote y de la planilla: BOCA TUVO SU PRIMER ENTRENAMIENTO EN BARRANQUILLA Y PROBÓ A TOMÁS ARANDA — 19/11/2026 22:57 ARG, fila 5024.
+Contenido: 8 noticias distintas, con cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TN y Fórmula 1; respaldo y contraste con AFA, El Gráfico, Alpine, TyC Sports y Reuters.
+Disciplinas y áreas: River Plate, Boca Juniors, Deportivo Madryn/Primera Nacional, Selección Argentina y Fórmula 1.
+Imágenes H: 8 seleccionadas sin comprobación técnica adicional.
+K oportunistas: 0 incorporados; 8 vacíos para el radar de embeds.
+Candidatas consideradas: 18. Duplicados o absorbidas: regreso de Santiago Montiel y Sebastián Mele en Independiente; Tomás Aranda como probable titular ya publicado; control antidopaje de Boca; Argentina Sub-17 ante Australia; candidatura FIFA 2027.
+Pendientes al corte: salarios de la MLS, previa de Luciana Moyano, Silvia Tuyà Viñas, situación contractual de Oliver Bearman y resultados restantes de la Liga Nacional quedaron sin publicar por falta de hora de primera difusión precisa o imagen directa pertinente en la consulta breve. El resultado Argentino 86-69 Lanús fue verificado, pero quedó pendiente por no obtener una foto directa del partido sin ampliar la búsqueda.
+Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 00:45: 34 notas.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 5010:5019 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 5020:5027 en el CSV público.
