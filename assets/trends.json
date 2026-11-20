@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-20T07:12:13.337Z",
+  "updatedAt": "2026-11-20T16:07:54.408Z",
   "trends": [
     {
-      "query": "fin de semana",
-      "startedAt": "2026-11-20T04:10:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "jesica cirio",
-      "startedAt": "2026-11-20T04:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "humedad",
-      "startedAt": "2026-11-20T03:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "tesla argentina",
-      "startedAt": "2026-11-20T03:20:00.000Z",
+      "query": "bitcoin",
+      "startedAt": "2026-11-20T15:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "loan",
-      "startedAt": "2026-11-20T03:00:00.000Z",
+      "query": "pronostico bahia blanca",
+      "startedAt": "2026-11-20T15:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "denuncia",
+      "startedAt": "2026-11-20T15:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "villa maria ya",
-      "startedAt": "2026-11-20T03:00:00.000Z",
+      "query": "calchín oeste",
+      "startedAt": "2026-11-20T15:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "temblor en san juan",
-      "startedAt": "2026-11-20T02:50:00.000Z",
+      "query": "dolar blue",
+      "startedAt": "2026-11-20T15:30:00.000Z",
       "volume": 2000
     },
     {
-      "query": "temblor",
-      "startedAt": "2026-11-20T02:50:00.000Z",
+      "query": "fabián vargas",
+      "startedAt": "2026-11-20T15:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "matías martin",
-      "startedAt": "2026-11-20T02:40:00.000Z",
+      "query": "año escolar",
+      "startedAt": "2026-11-20T15:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "domingo cavallo",
-      "startedAt": "2026-11-20T02:40:00.000Z",
-      "volume": 100
+      "query": "copa sudamericana",
+      "startedAt": "2026-11-20T14:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "riesgo pais",
+      "startedAt": "2026-11-20T14:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "pablo alabarces",
+      "startedAt": "2026-11-20T14:40:00.000Z",
+      "volume": 200
     }
   ]
 }
