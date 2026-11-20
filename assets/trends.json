@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-19T23:50:14.319Z",
+  "updatedAt": "2026-11-20T07:12:13.337Z",
   "trends": [
     {
-      "query": "dólar estadounidense",
-      "startedAt": "2026-11-19T23:30:00.000Z",
+      "query": "fin de semana",
+      "startedAt": "2026-11-20T04:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "jesica cirio",
+      "startedAt": "2026-11-20T04:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "ley de discapacidad",
-      "startedAt": "2026-11-19T23:00:00.000Z",
+      "query": "humedad",
+      "startedAt": "2026-11-20T03:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "superávit económico",
-      "startedAt": "2026-11-19T22:50:00.000Z",
+      "query": "tesla argentina",
+      "startedAt": "2026-11-20T03:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "loan",
+      "startedAt": "2026-11-20T03:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "causa por presuntas coimas en la andis",
-      "startedAt": "2026-11-19T22:50:00.000Z",
-      "volume": 500
+      "query": "villa maria ya",
+      "startedAt": "2026-11-20T03:00:00.000Z",
+      "volume": 200
     },
     {
-      "query": "obra pública",
-      "startedAt": "2026-11-19T22:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "cotización dolar hoy",
-      "startedAt": "2026-11-19T22:30:00.000Z",
+      "query": "temblor en san juan",
+      "startedAt": "2026-11-20T02:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "fátima flórez",
-      "startedAt": "2026-11-19T22:20:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "carburando",
-      "startedAt": "2026-11-19T22:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "aguinaldo estatales",
-      "startedAt": "2026-11-19T22:20:00.000Z",
+      "query": "temblor",
+      "startedAt": "2026-11-20T02:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "vitória - bragantino",
-      "startedAt": "2026-11-19T22:00:00.000Z",
-      "volume": 2000
+      "query": "matías martin",
+      "startedAt": "2026-11-20T02:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "domingo cavallo",
+      "startedAt": "2026-11-20T02:40:00.000Z",
+      "volume": 100
     }
   ]
 }
