@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-termino-noveno-y-gasly-fue-segundo-en-la-fp2-de-las-vegas/": {
+      "account": "f1",
+      "title": "COLAPINTO TERMINÓ NOVENO Y GASLY FUE SEGUNDO EN LA FP2 DE LAS VEGAS",
+      "dueAt": "2026-11-20T14:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0043637efc64d5e41ce589",
+      "createdAt": "2026-11-20T12:56:03.250Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-pidio-mejoras-tras-la-fp2-y-espera-una-pista-mas-seca-en-las-vegas/": {
+      "account": "f1",
+      "title": "COLAPINTO PIDIÓ MEJORAS TRAS LA FP2 Y ESPERA UNA PISTA MÁS SECA EN LAS VEGAS",
+      "dueAt": "2026-11-20T13:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b004362234b6bb6ee970856",
+      "createdAt": "2026-11-20T12:56:02.977Z"
+    },
+    "https://ranasports.com.ar/futbol/river-tendra-cuatro-juveniles-titulares-ante-lanus/": {
+      "account": "sports",
+      "title": "RIVER TENDRÁ CUATRO JUVENILES TITULARES ANTE LANÚS",
+      "dueAt": "2026-11-20T14:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0043627efc64d5e41ce52b",
+      "createdAt": "2026-11-20T12:56:02.259Z"
+    },
+    "https://ranasports.com.ar/futbol/independiente-visitara-a-argentinos-con-balino-como-arbitro-y-echenique-en-el-var/": {
+      "account": "main",
+      "title": "INDEPENDIENTE VISITARÁ A ARGENTINOS CON BALIÑO COMO ÁRBITRO Y ECHENIQUE EN EL VAR",
+      "dueAt": "2026-11-20T13:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b00436144831c50e4c55333",
+      "createdAt": "2026-11-20T12:56:01.849Z"
+    },
+    "https://ranasports.com.ar/liga-nacional-de-basquet/obera-vencio-96-89-a-independiente-de-oliva-y-sumo-su-quinto-triunfo-seguido/": {
+      "account": "sports",
+      "title": "OBERÁ VENCIÓ 96-89 A INDEPENDIENTE DE OLIVA Y SUMÓ SU QUINTO TRIUNFO SEGUIDO",
+      "dueAt": "2026-11-20T13:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b004361fc5b97f0f8073c89",
+      "createdAt": "2026-11-20T12:56:01.459Z"
+    },
+    "https://ranasports.com.ar/futbol/fabian-vargas-se-reencontro-con-paredes-y-le-pidio-su-camiseta/": {
+      "account": "sports",
+      "title": "FABIÁN VARGAS SE REENCONTRÓ CON PAREDES Y LE PIDIÓ SU CAMISETA",
+      "dueAt": "2026-11-20T13:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b00436077e195b72200efaa",
+      "createdAt": "2026-11-20T12:56:00.841Z"
+    },
     "https://ranasports.com.ar/futbol/river-apunta-a-francisco-alvarez-para-reforzar-la-defensa-en-2027/": {
       "account": "sports",
       "title": "RIVER APUNTA A FRANCISCO ÁLVAREZ PARA REFORZAR LA DEFENSA EN 2027",
@@ -4763,54 +4811,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6acd21c617a75d2f70d123a8",
       "createdAt": "2026-10-12T18:07:02.441Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJjb3BhIHN1ZGFtZXJpY2FuYSIsMTc5MTgyODM2MDAwMCwiQ09OTUVCT0wgTEUgRElPIFVOIFVMVElNw4FUVU0gQSBWQVNDTyBQQVJBIERFRklOSVIgTEEgU0VERSBERSBMQSBSRVZBTkNIQSBBTlRFIEJPQ0EiXQ": {
-      "account": "main",
-      "title": "CONMEBOL LE DIO UN ULTIMÁTUM A VASCO PARA DEFINIR LA SEDE DE LA REVANCHA ANTE BOCA",
-      "dueAt": "2026-10-12T18:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd21c56082b7070757dd3a",
-      "createdAt": "2026-10-12T18:07:01.928Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJoaXN0b3JpYXMiLDE3OTE4MjIwNjAwMDAsIkJBU0FOVEEgUEFTw5MgREVMIFNVQkNBTVBFT05BVE8gTVVORElBTCBDT04gQVJHRU5USU5BIEEgTEEgR0FOQURFUsONQSBZIExBUyBDQU5DSEFTIERFIFDDgURFTCJd": {
-      "account": "main",
-      "title": "BASANTA PASÓ DEL SUBCAMPEONATO MUNDIAL CON ARGENTINA A LA GANADERÍA Y LAS CANCHAS DE PÁDEL",
-      "dueAt": "2026-10-12T17:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd08b77562cfd84bc2a6c7",
-      "createdAt": "2026-10-12T16:20:07.168Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE4MjIwMzAwMDAsIkxPUyBSRVNVTFRBRE9TIERFIExBIEZFQ0hBIERFSkFST04gQSBCT0NBIFNFR1VORE8gWSBBIFVOIFBVTlRPIERFIExBIENJTUEgRU4gTEEgVEFCTEEgQU5VQUwiXQ": {
-      "account": "main",
-      "title": "LOS RESULTADOS DE LA FECHA DEJARON A BOCA SEGUNDO Y A UN PUNTO DE LA CIMA EN LA TABLA ANUAL",
-      "dueAt": "2026-10-12T16:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd08b68d977281b7cbb582",
-      "createdAt": "2026-10-12T16:20:06.444Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJjb3BhIGxpYmVydGFkb3JlcyIsMTc5MTgyMjAwMDAwMCwiTUFSQ09TIFJPSk8gSlVHQVLDgSBTVSBURVJDRVJBIFNFTUlGSU5BTCBERSBMSUJFUlRBRE9SRVMgRU4gQ1VBVFJPIEHDkU9TIFkgQ09OIFRSRVMgQ0xVQkVTIl0": {
-      "account": "main",
-      "title": "MARCOS ROJO JUGARÁ SU TERCERA SEMIFINAL DE LIBERTADORES EN CUATRO AÑOS Y CON TRES CLUBES",
-      "dueAt": "2026-10-12T16:50:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd08b561aba56bcacdb6cb",
-      "createdAt": "2026-10-12T16:20:06.067Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTgyMTk3MDAwMCwiSlVMScOBTiDDgUxWQVJFWiBMTEVWQSBDQVNJIE1FRElPIEHDkU8gU0lOIE1BUkNBUiBQQVJBIEFUTMOJVElDTyBERSBNQURSSUQiXQ": {
-      "account": "main",
-      "title": "JULIÁN ÁLVAREZ LLEVA CASI MEDIO AÑO SIN MARCAR PARA ATLÉTICO DE MADRID",
-      "dueAt": "2026-10-12T16:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd08b58d977281b7cbb4fb",
-      "createdAt": "2026-10-12T16:20:05.481Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE4MjE5NDAwMDAsIlVMSVNFUyBHSU3DiU5FWiBOTyBKVUdBUsOBIFBBUkEgU0FSTUlFTlRPIEFOVEUgUklWRVIgUE9SIFVOQSBDTMOBVVNVTEEgREUgMzAwIE1JTCBEw5NMQVJFUyJd": {
-      "account": "main",
-      "title": "ULISES GIMÉNEZ NO JUGARÁ PARA SARMIENTO ANTE RIVER POR UNA CLÁUSULA DE 300 MIL DÓLARES",
-      "dueAt": "2026-10-12T16:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd08b47562cfd84bc2a600",
-      "createdAt": "2026-10-12T16:20:05.031Z"
     }
   },
   "nextAt": {
