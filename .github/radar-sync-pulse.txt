@@ -1,22 +1,22 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 20/11/2026 09:47 ARG
-Ventana principal revisada: 20/11/2026 04:45 a 09:47 Argentina, con dos horas de solapamiento y recuperación de omisiones verificables de las últimas 24 horas.
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 20/11/2026 12:46 ARG
+Ventana principal revisada: 20/11/2026 07:45 a 12:46 Argentina, con dos horas de solapamiento y control de omisiones desde la última publicación real.
 Altas verificadas y releídas en la planilla: 7
-Filas: Noticias!5035:5041
+Filas: Noticias!5042:5048
 Títulos:
-- COLAPINTO PIDIÓ MEJORAS TRAS LA FP2 Y ESPERA UNA PISTA MÁS SECA EN LAS VEGAS
-- INDEPENDIENTE VISITARÁ A ARGENTINOS CON BALIÑO COMO ÁRBITRO Y ECHENIQUE EN EL VAR
-- RIVER TENDRÁ CUATRO JUVENILES TITULARES ANTE LANÚS
-- FABIÁN VARGAS SE REENCONTRÓ CON PAREDES Y LE PIDIÓ SU CAMISETA
-- MESSI LIDERA LOS SALARIOS DE LA MLS Y DE PAUL QUEDÓ SEXTO
-- MEMPHIS GOLEÓ 126-98 A GOLDEN STATE Y SUMÓ SU QUINTA VICTORIA SEGUIDA
-- BOCA SE PREPARA PARA UN CÉSPED HÍBRIDO EN LA FINAL DE BARRANQUILLA
-Última noticia cronológica del lote y de la planilla: RIVER TENDRÁ CUATRO JUVENILES TITULARES ANTE LANÚS — 20/11/2026 09:08 ARG, fila 5037.
+- CINCO PILOTOS FUERON SANCIONADOS ANTES DE LA CLASIFICACIÓN EN LAS VEGAS
+- LA FIA INCORPORARÁ COMISARIOS PERMANENTES EN LA FÓRMULA 1 DESDE 2027
+- ARGENTINA DEFINIÓ EL ORDEN PARA ENFRENTAR A JAPÓN EN LA BILLIE JEAN KING CUP
+- UN DRON FILMÓ EL PRIMER ENTRENAMIENTO DE POCHETTINO EN MANCHESTER UNITED
+- EL BORRADOR DEL APERTURA 2027 PREVÉ TRES FECHAS EN ENERO
+- WEMBANYAMA INVENTÓ EL “SHUNK” POR UNA AMPOLLA Y LOS SPURS VENCIERON A LOS CLIPPERS
+- VÉLEZ RECIBE A BELGRANO EN EL PRIMER CRUCE DE OCTAVOS DEL CLAUSURA
+Última noticia cronológica del lote y de la planilla: EL BORRADOR DEL APERTURA 2027 PREVÉ TRES FECHAS EN ENERO — 20/11/2026 11:56 ARG, fila 5046.
 Contenido: 7 noticias distintas, con cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TyC Sports, TN, LA NACION y Reuters; respaldo y contraste con Fórmula 1, MLSPA y NBA.
-Disciplinas y áreas: Independiente, River Plate, Boca Juniors, Inter Miami/MLS, Fórmula 1 y NBA.
+Fuentes principales: TyC Sports e Infobae Deportes; respaldo y contraste con FIA/Fórmula 1, The Athletic, Prensa AAT, ESPN, San Antonio Spurs y fixture de TyC Sports.
+Disciplinas y áreas: Fórmula 1, tenis, Manchester United, Torneo Apertura, NBA y Torneo Clausura.
 Imágenes H: 7 seleccionadas sin comprobación técnica adicional; todas de archivo pertinente identificadas.
 K oportunistas: 0 incorporados; 7 vacíos para el radar de embeds.
-Candidatas consideradas: 12. Se descartaron por duplicación o ausencia de desarrollo material la encuesta Aranda-Velasco, la previa ya publicada de Los Pumas y la designación arbitral de Hollie Davidson; Real Salt Lake-Seattle quedó pendiente por falta de una URL fotográfica directa pertinente en la consulta breve.
-Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 09:47: 34 notas.
+Candidatas consideradas: 10. Se publicaron 7; Kevin Vallejos-UFC y Deirdre Keane quedaron pendientes por falta de una URL fotográfica directa pertinente en la consulta breve. La agenda de FP3 de Colapinto se descartó por reiterar horarios y contexto ya publicados.
+Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 12:46: 35 notas.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 5035:5041 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 5042:5048 en el CSV público.
