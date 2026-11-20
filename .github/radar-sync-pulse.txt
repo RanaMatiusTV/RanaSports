@@ -1,22 +1,22 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 20/11/2026 12:46 ARG
-Ventana principal revisada: 20/11/2026 07:45 a 12:46 Argentina, con dos horas de solapamiento y control de omisiones desde la última publicación real.
-Altas verificadas y releídas en la planilla: 7
-Filas: Noticias!5042:5048
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 20/11/2026 15:54 ARG
+Ventana principal revisada: 20/11/2026 10:45 a 15:54 Argentina, con dos horas de solapamiento y recuperación de omisiones verificables de las últimas 24 horas.
+Altas verificadas y releídas en la planilla: 6
+Filas: Noticias!5049:5054
 Títulos:
-- CINCO PILOTOS FUERON SANCIONADOS ANTES DE LA CLASIFICACIÓN EN LAS VEGAS
-- LA FIA INCORPORARÁ COMISARIOS PERMANENTES EN LA FÓRMULA 1 DESDE 2027
-- ARGENTINA DEFINIÓ EL ORDEN PARA ENFRENTAR A JAPÓN EN LA BILLIE JEAN KING CUP
-- UN DRON FILMÓ EL PRIMER ENTRENAMIENTO DE POCHETTINO EN MANCHESTER UNITED
-- EL BORRADOR DEL APERTURA 2027 PREVÉ TRES FECHAS EN ENERO
-- WEMBANYAMA INVENTÓ EL “SHUNK” POR UNA AMPOLLA Y LOS SPURS VENCIERON A LOS CLIPPERS
-- VÉLEZ RECIBE A BELGRANO EN EL PRIMER CRUCE DE OCTAVOS DEL CLAUSURA
-Última noticia cronológica del lote y de la planilla: EL BORRADOR DEL APERTURA 2027 PREVÉ TRES FECHAS EN ENERO — 20/11/2026 11:56 ARG, fila 5046.
-Contenido: 7 noticias distintas, con cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TyC Sports e Infobae Deportes; respaldo y contraste con FIA/Fórmula 1, The Athletic, Prensa AAT, ESPN, San Antonio Spurs y fixture de TyC Sports.
-Disciplinas y áreas: Fórmula 1, tenis, Manchester United, Torneo Apertura, NBA y Torneo Clausura.
-Imágenes H: 7 seleccionadas sin comprobación técnica adicional; todas de archivo pertinente identificadas.
-K oportunistas: 0 incorporados; 7 vacíos para el radar de embeds.
-Candidatas consideradas: 10. Se publicaron 7; Kevin Vallejos-UFC y Deirdre Keane quedaron pendientes por falta de una URL fotográfica directa pertinente en la consulta breve. La agenda de FP3 de Colapinto se descartó por reiterar horarios y contexto ya publicados.
-Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 12:46: 35 notas.
+- BRIATORE CALIFICÓ CON UN “NI” LA TEMPORADA DE ALPINE Y APUNTÓ A 2027
+- GASLY EXPLICÓ QUE EL TOPE DE GASTOS FRENÓ MEJORAS DE ALPINE
+- LA ATP PROYECTA MÁS DE US$350 MILLONES PARA JUGADORES DESDE 2028
+- SHEVCHENKO RECHAZÓ LAS ACUSACIONES DE MUDRYK Y LE EXIGIÓ PRUEBAS O DISCULPAS
+- BOCA TENDRÍA MÁS DE 40.000 HINCHAS EN LA FINAL DE BARRANQUILLA
+- ESPAÑA-FRANCIA ENCABEZA LOS CUARTOS DE LA NATIONS LEAGUE
+Última noticia cronológica del lote y de la planilla: BRIATORE CALIFICÓ CON UN “NI” LA TEMPORADA DE ALPINE Y APUNTÓ A 2027 — 20/11/2026 12:43 ARG, fila 5049.
+Contenido: 6 noticias distintas, con cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: Infobae Deportes, TyC Sports, Ámbito y El Intransigente; contraste con FIA, Motorsport, ATP, Federación Ucraniana de Fútbol, UEFA y coberturas de Reuters/TN.
+Disciplinas y áreas: Fórmula 1, tenis, fútbol internacional, Boca Juniors y UEFA Nations League.
+Imágenes H: 6 seleccionadas sin comprobación técnica adicional; cinco de archivo pertinente identificado y una cobertura reciente identificada.
+K oportunistas: 0 incorporados; 6 vacíos para el radar de embeds.
+Antiduplicados: se descartaron como ya publicados el mapa de 74 futbolistas de la Selección (fila 5000), los elogios de Verón a Nico Paz (fila 5002) y la reducción de la sanción de Gonzalo Montiel (fila 5020).
+Pendientes: la recuperación de Milton Delgado quedó sin alta por no obtener minuto verificable de primera difusión; la sanción ecuatoriana por el piedrazo quedó para revisión posterior de marca temporal; Kevin Vallejos-UFC y Deirdre Keane continuaron sin URL fotográfica directa pertinente en la consulta breve.
+Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 15:54: 36 notas.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 5042:5048 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 5049:5054 en el CSV público.
