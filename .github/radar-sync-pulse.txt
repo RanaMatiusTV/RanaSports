@@ -1,25 +1,26 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 19/11/2026 18:55 ARG
-Ventana principal revisada: 19/11/2026 13:45 a 18:55 Argentina, desde la última publicación real y con dos horas de solapamiento. Se recuperaron omisiones verificables hasta el 18/11/2026 14:33.
-Altas verificadas y releídas en la planilla: 9
-Filas: Noticias!5001:5009
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 19/11/2026 21:53 ARG
+Ventana principal revisada: 19/11/2026 16:25 a 21:53 Argentina, con dos horas de solapamiento. Se recuperaron omisiones verificables hasta el 18/11/2026 15:01.
+Altas verificadas y releídas en la planilla: 10
+Filas: Noticias!5010:5019
 Títulos:
-- PASSARELLA IRÁ A JUICIO ORAL POR IRREGULARIDADES DURANTE SU GESTIÓN EN RIVER
-- VERÓN COMPARÓ EL TALENTO DE NICO PAZ CON MESSI Y MARADONA
-- GIMNASIA INTIMÓ A ARGENTINOS POR UNA DEUDA DEL PASE DE ALAN LESCANO
-- RACING VOLVIÓ A PONER A CRISTIAN PAVÓN EN SU RADAR PARA 2027
-- CONMEBOL REALIZÓ UN CONTROL ANTIDOPAJE SORPRESA A 23 JUGADORES DE BOCA
-- UEFA EXIGIÓ A FIFA RESPUESTAS SOBRE EL FALLIDO PROYECTO DE DERECHOS DEL MUNDIAL
-- LOS CLUBES DE LA PREMIER APROBARON PROTECCIÓN LEGAL PARA SUS DIRECTIVOS
-- CONMEBOL ANALIZA CONVERTIR LAS ELIMINATORIAS EN UNA LIGA DE NACIONES
-- LA BARRA DE ATLÉTICO MINEIRO APRETÓ AL PLANTEL ANTES DE LA FINAL CON BOCA
-Última noticia cronológica del lote y de la planilla: VERÓN COMPARÓ EL TALENTO DE NICO PAZ CON MESSI Y MARADONA — 19/11/2026 16:25 ARG, fila 5002.
-Contenido: 9 noticias distintas, con cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: LA NACION, TyC Sports, Agencia Noticias Argentinas, El Gráfico, The Guardian, Cadena 3 y Diario El Norte; contraste con Infobae, TN, Doble Amarilla, Cadena SER, The Times, Deportes RCN y Olé.
-Disciplinas y áreas: River Plate, Selección Argentina, Argentinos Juniors/Gimnasia, Racing Club, Boca Juniors, fútbol internacional, Premier League, Eliminatorias Sudamericanas y Copa Sudamericana.
-Imágenes H: 9 seleccionadas sin comprobación técnica adicional; se consignó ARCHIVO cuando correspondía.
-K oportunistas: 0 incorporados; 9 vacíos para el radar de embeds.
-Candidatas consideradas: 20. Duplicados o absorbidas: retiro de Éver Banega, penalización de Piastri, derrota de Zeballos/Granollers, Premios Olimpia, ranking FIFA de Argentina, título anual de la Reserva de Independiente y la pelea ya programada de Kevin Vallejos.
-Pendientes al corte: la FP1 de Fórmula 1 estaba prevista para las 21:30; no se publicó la llegada de Riquelme a Barranquilla porque el arribo de Boca ya estaba cubierto y no aportaba un hecho material suficiente.
-Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 18:55: 37 notas.
+- SANTIAGO MONTIEL VOLVERÁ AL ONCE DE INDEPENDIENTE ANTE ARGENTINOS JUNIORS
+- JOHN PERLAZA FUE SUSPENDIDO OCHO AÑOS POR AGREDIR CON UNA PIEDRA A UN ÁRBITRO
+- BOCA YA ASEGURÓ USD 5,7 MILLONES Y PUEDE SUPERAR LOS USD 13 MILLONES SI ES CAMPEÓN
+- LAUTARO RIVERO SERÁ TITULAR ANTE LANÚS Y SE JUEGA SU CONTINUIDAD EN RIVER
+- TOMÁS ARANDA GANÓ TERRENO PARA SER TITULAR EN LA FINAL DE LA SUDAMERICANA
+- JAK CRAWFORD REEMPLAZARÁ A FERNANDO ALONSO EN LA PRIMERA PRÁCTICA DE LAS VEGAS
+- CADILLAC CONFIRMÓ A VALTTERI BOTTAS COMO COMPAÑERO DE CHECO PÉREZ PARA 2027
+- DIBU MARTÍNEZ BROMEÓ CON MAXI LÓPEZ DURANTE LA GOLEADA ANTE COSTA RICA
+- FACUNDO HERRERA PIDIÓ QUE LO CONOZCAN POR SU NOMBRE Y NO POR EL APODO JAGGER
+- LANÚS RECUPERÓ A MEDINA Y SEPÚLVEDA, PERO CANALE ES DUDA PARA VISITAR A RIVER
+Última noticia cronológica del lote y de la planilla: LAUTARO RIVERO SERÁ TITULAR ANTE LANÚS Y SE JUEGA SU CONTINUIDAD EN RIVER — 19/11/2026 07:08 ARG, fila 5013.
+Contenido: 10 noticias distintas, con cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TyC Sports; respaldo y contraste con FEF, EFE, CONMEBOL, Aston Martin y Cadillac. Se revisaron además Infobae Deportes y fuentes oficiales/periodísticas de las áreas cubiertas.
+Disciplinas y áreas: Independiente, Boca Juniors, River Plate, Lanús, Selección Argentina, Fórmula 1 y fútbol internacional.
+Imágenes H: 10 seleccionadas sin comprobación técnica adicional; se consignó archivo cuando correspondía.
+K oportunistas: 0 incorporados; 10 vacíos para el radar de embeds.
+Candidatas consideradas: 21. Duplicados o absorbidas: crisis económica de Banfield (ya en fila 4976), Selección Argentina femenina, Brian Fernández, Juegos Suramericanos 2030 y varias coberturas ya publicadas de la final Boca-Mineiro.
+Pendientes al corte: resultado de la FP1 de Las Vegas, todavía en desarrollo durante la búsqueda; salarios de la MLS, fallo de Deportivo Madryn, previa de Luciana Moyano y Silvia Tuyà Viñas quedaron para la próxima tanda por no contar con hora de primera difusión suficientemente precisa en la fuente visible.
+Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 21:53: 33 notas.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 5001:5009 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 5010:5019 en el CSV público.
