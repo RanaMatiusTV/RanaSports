@@ -1,24 +1,23 @@
-RANASPORTS — RADAR 1 COBERTURA AMPLIA — 20/11/2026 00:45 ARG
-Ventana principal revisada: 19/11/2026 14:25 a 20/11/2026 00:45 Argentina, con dos horas de solapamiento y recuperación de omisiones del día.
-Altas verificadas y releídas en la planilla: 8
-Filas: Noticias!5020:5027
+RANASPORTS — RADAR 1 COBERTURA AMPLIA — 20/11/2026 06:45 ARG
+Ventana principal revisada: 19/11/2026 22:45 a 20/11/2026 06:45 Argentina, con dos horas de solapamiento. Por ser la primera corrida tras la pausa nocturna se auditó además desde 19/11/2026 06:45.
+Altas verificadas y releídas en la planilla: 7
+Filas: Noticias!5028:5034
 Títulos:
-- AFA REDUJO A DOS FECHAS LA SANCIÓN DE GONZALO MONTIEL
-- ALPINE LIBERÓ A PAUL ARON Y ACORDÓ CON MERCEDES EL RESPALDO DE FREDERIK VESTI
-- HINCHAS DE BOCA REALIZARON BANDERAZOS EN CARTAGENA Y BARRANQUILLA
-- LA LLUVIA DEJÓ LA FP1 DE LAS VEGAS SIN TIEMPOS Y COLAPINTO SOLO GIRÓ AL FINAL
-- BOCA TUVO SU PRIMER ENTRENAMIENTO EN BARRANQUILLA Y PROBÓ A TOMÁS ARANDA
-- EL CUERPO TÉCNICO DE SCALONI MOSTRÓ UN MAPA DE SEGUIMIENTO CON 74 FUTBOLISTAS
-- COLAPINTO DEJÓ LAS REDES SOCIALES POR LOS MENSAJES DE ODIO
-- AFA RATIFICÓ EL 3-1 DE DEPORTIVO MADRYN Y SU PASE A CUARTOS DEL REDUCIDO
-Última noticia cronológica del lote y de la planilla: BOCA TUVO SU PRIMER ENTRENAMIENTO EN BARRANQUILLA Y PROBÓ A TOMÁS ARANDA — 19/11/2026 22:57 ARG, fila 5024.
-Contenido: 8 noticias distintas, con cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
-Fuentes principales: TN y Fórmula 1; respaldo y contraste con AFA, El Gráfico, Alpine, TyC Sports y Reuters.
-Disciplinas y áreas: River Plate, Boca Juniors, Deportivo Madryn/Primera Nacional, Selección Argentina y Fórmula 1.
-Imágenes H: 8 seleccionadas sin comprobación técnica adicional.
-K oportunistas: 0 incorporados; 8 vacíos para el radar de embeds.
-Candidatas consideradas: 18. Duplicados o absorbidas: regreso de Santiago Montiel y Sebastián Mele en Independiente; Tomás Aranda como probable titular ya publicado; control antidopaje de Boca; Argentina Sub-17 ante Australia; candidatura FIFA 2027.
-Pendientes al corte: salarios de la MLS, previa de Luciana Moyano, Silvia Tuyà Viñas, situación contractual de Oliver Bearman y resultados restantes de la Liga Nacional quedaron sin publicar por falta de hora de primera difusión precisa o imagen directa pertinente en la consulta breve. El resultado Argentino 86-69 Lanús fue verificado, pero quedó pendiente por no obtener una foto directa del partido sin ampliar la búsqueda.
-Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 00:45: 34 notas.
+- COLAPINTO TERMINÓ NOVENO Y GASLY FUE SEGUNDO EN LA FP2 DE LAS VEGAS
+- OBERÁ VENCIÓ 96-89 A INDEPENDIENTE DE OLIVA Y SUMÓ SU QUINTO TRIUNFO SEGUIDO
+- ALONSO ANTICIPÓ QUE DEJARÁ LA FÓRMULA 1 ANTES DEL REGRESO DE LOS MOTORES V8
+- ZVEREV VENCIÓ A FILS Y CERRÓ INVICTO LA FASE DE GRUPOS DEL ATP FINALS
+- SHELTON SUPERÓ A JÓDAR Y AVANZÓ A LAS SEMIFINALES DEL ATP FINALS
+- REFERENTES DE SAN LORENZO RECLAMARON A LA DIRIGENCIA POR CUATRO MESES DE DEUDA SALARIAL
+- TROGLIO RESCINDIÓ CON BANFIELD Y ACORDÓ DE PALABRA SU LLEGADA A ATLÉTICO TUCUMÁN
+Última noticia cronológica del lote y de la planilla: COLAPINTO TERMINÓ NOVENO Y GASLY FUE SEGUNDO EN LA FP2 DE LAS VEGAS — 20/11/2026 02:33 ARG, fila 5028.
+Contenido: 7 noticias distintas, con cuerpo de dos párrafos, URL de fuente, imagen H pertinente y crédito. R=FALSE en todas. No se modificaron filas históricas.
+Fuentes principales: TN, DeporTV y Noticias Argentinas; respaldo y contraste con FIA, Fórmula 1, Motorsport.com, Liga Nacional y ATP Finals.
+Disciplinas y áreas: Fórmula 1, Liga Nacional de Básquet, tenis, San Lorenzo y Banfield/Atlético Tucumán.
+Imágenes H: 7 seleccionadas sin comprobación técnica adicional; 1 directa del hecho y 6 de archivo pertinente identificadas.
+K oportunistas: 1 incorporado (video oficial de la FP2); 6 vacíos para el radar de embeds.
+Candidatas consideradas: 15. Duplicado descartado: la designación de Hollie Davidson para Los Pumas ya estaba publicada. Se evitaron repeticiones de la FP1, la salida de Paul Aron, el debut Sub-17 y novedades ya cargadas de Boca y River.
+Pendientes al corte: Ferro 84-80 Olímpico quedó pendiente por no obtener una URL de foto directa pertinente en la consulta breve; otras candidatas de previa o declaraciones quedaron fuera por falta de desarrollo material o verificación temporal suficiente.
+Total acumulado con marca temporal dentro de las últimas 24 horas al corte de las 06:45: 35 notas.
 Ordenar por fecha y hora descendentes, nunca por fila de carga.
-Acción: ejecutar Sync RanaSports news feed y verificar las filas 5020:5027 en el CSV público.
+Acción: ejecutar Sync RanaSports news feed y verificar las filas 5028:5034 en el CSV público.
