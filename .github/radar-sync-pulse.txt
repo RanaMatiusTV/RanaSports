@@ -70,3 +70,28 @@ Fuentes: El Crack Deportivo, TN, LM Neuquén, Reuters, MotoGP, Motorsport.com, L
 Candidatas escritas/releídas: 9. Solapamiento/recuperación: Independiente, Los Pumas y Kevin Vallejos. No se modificaron filas históricas.
 Estado de salida: nuevas filas en Google Sheets confirmadas, sincronización de GitHub solicitada con este pulso único.
 SHA del pulso anterior: a2d24266d95722549d89a61eb0746828696852c4
+
+
+RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA 21/11/2026 ARG
+Origen: última fila real 5089, última marca cronológica 21/11/2026 13:58 ART; recuperación con dos horas de solapamiento.
+Publicaciones reales y releídas en Google Sheets Noticias!5090:5100: 11 (ocho primer lote, tres adicionales).
+Títulos:
+- 5090: INDEPENDIENTE SUFRIÓ LA BAJA DEL CHIMY ÁVILA EN LA ENTRADA EN CALOR ANTE ARGENTINOS
+- 5091: BOCA CONFIRMÓ A TOMÁS ARANDA COMO TITULAR PARA LA FINAL DE LA SUDAMERICANA
+- 5092: EQUI FERNÁNDEZ MARCÓ EN EL 4-0 DE BAYER LEVERKUSEN SOBRE PADERBORN
+- 5093: LOS PUMAS PERDIERON A CHOCOBARES ANTES DE ENFRENTAR A FRANCIA Y ENTRÓ PICCARDO
+- 5094: KEVIN VALLEJOS VENCIÓ A ALJAMAIN STERLING EN QATAR Y PIDIÓ PELEAR POR EL TÍTULO
+- 5095: ZVEREV ELIMINÓ A MEDVEDEV Y JUGARÁ LA FINAL DEL ATP FINALS CONTRA ALCARAZ
+- 5096: NAVAJO STIRLING NOQUEÓ A JIRI PROCHAZKA EN EL SEGUNDO ROUND EN UFC QATAR
+- 5097: INGLATERRA GOLEÓ 37-12 A NUEVA ZELANDA Y SE METIÓ EN LA PELEA POR LA FINAL
+- 5098: IRLANDA VENCIÓ 20-17 A SUDÁFRICA, QUE IGUAL AVANZÓ A LA FINAL DEL NATIONS CHAMPIONSHIP
+- 5099: NEWCASTLE REMONTÓ ANTE ARSENAL, PERO MADUEKE SELLÓ EL 2-2 EN ST JAMES' PARK
+- 5100: BORUSSIA DORTMUND VENCIÓ 1-0 A GLADBACH CON UN GOLAZO DE NMECHA Y SUBIÓ A LA PUNTA
+Disciplinas: Independiente, Boca, Bundesliga, Premier League, tenis, rugby y UFC.
+Fechas/horarios en B/C de acontecimiento o primera difusión verificada, no tiempos artificiales de corrida.
+En las 11 filas: A=SI, F de tres párrafos, fuente G/J, foto H y crédito L, R=FALSE. Siete fotos con cobertura reciente y otras rotuladas ARCHIVO con año cuando corresponde. URLs directas identificadas; comprobación técnica HTTP/MIME y render del portal pendientes.
+Dos embeds K oportunistas, el radar de embeds revisará el resto.
+Total en planilla con marca temporal últimas 24 h al corte de la corrida: 39.
+Pendientes: resultados definitivos de Independiente-Argentinos y Francia-Los Pumas; no publicar marcador sin confirmación. No editar notas históricas.
+SHA de HEAD en GitHub al preparar pulso: 8db1d77e712da0de9ea3e29e5ce1641bc1e9f6af.
+Solicitar Sync RanaSports news feed y verificar sincronización en la publicación externa. No modificar workflow ni news-live.csv manualmente.
