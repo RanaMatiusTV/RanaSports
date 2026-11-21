@@ -1,6 +1,30 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/dybala-volvio-a-estar-disponible-en-roma-y-gasperini-lo-imagina-junto-a-soule/": {
+      "account": "sports",
+      "title": "DYBALA VOLVIÓ A ESTAR DISPONIBLE EN ROMA Y GASPERINI LO IMAGINA JUNTO A SOULÉ",
+      "dueAt": "2026-11-21T03:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b00ff6d5e993799d8461dc6",
+      "createdAt": "2026-11-21T02:18:21.964Z"
+    },
+    "https://ranasports.com.ar/futbol/la-continuidad-de-sebastian-saja-en-racing-quedo-en-duda-para-2027/": {
+      "account": "sports",
+      "title": "LA CONTINUIDAD DE SEBASTIÁN SAJA EN RACING QUEDÓ EN DUDA PARA 2027",
+      "dueAt": "2026-11-21T02:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b00ff6d9ffbc8503cf0569b",
+      "createdAt": "2026-11-21T02:18:21.537Z"
+    },
+    "https://ranasports.com.ar/futbol/ubeda-explico-por-que-le-dio-poco-lugar-a-leonel-flores-en-boca/": {
+      "account": "sports",
+      "title": "ÚBEDA EXPLICÓ POR QUÉ LE DIO POCO LUGAR A LEONEL FLORES EN BOCA",
+      "dueAt": "2026-11-21T02:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b00ff6d5102766245ed1639",
+      "createdAt": "2026-11-21T02:18:21.132Z"
+    },
     "https://ranasports.com.ar/f1/cinco-pilotos-fueron-sancionados-antes-de-la-clasificacion-en-las-vegas/": {
       "account": "f1",
       "title": "CINCO PILOTOS FUERON SANCIONADOS ANTES DE LA CLASIFICACIÓN EN LAS VEGAS",
@@ -4787,30 +4811,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6acd66975229b40e8685843b",
       "createdAt": "2026-10-12T23:00:39.384Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTg0MjkxNDAwMCwiQ09MQVBJTlRPIFFVRUTDkyAxOcKwIEVOIEVMIFJBTktJTkcgREUgVEhFIFJBQ0UgVFJBUyBFTCBHUCBERSBTSU5HQVBVUiJd": {
-      "account": "f1",
-      "title": "COLAPINTO QUEDÓ 19° EN EL RANKING DE THE RACE TRAS EL GP DE SINGAPUR",
-      "dueAt": "2026-10-13T00:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd66963d6121df40326e27",
-      "createdAt": "2026-10-12T23:00:38.367Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE4NDI5MTUwMDAsIkxBVE9SUkUgQ1VFU1RJT07DkyBMQSBPUkdBTklaQUNJw5NOIERFTCBGw5pUQk9MIEFSR0VOVElOTyBZIEVMT0dJw5MgQSBNRVNTSSJd": {
-      "account": "sports",
-      "title": "LATORRE CUESTIONÓ LA ORGANIZACIÓN DEL FÚTBOL ARGENTINO Y ELOGIÓ A MESSI",
-      "dueAt": "2026-10-13T00:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd66955229b40e8685823d",
-      "createdAt": "2026-10-12T23:00:37.817Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJtZXNzaSIsMTc5MTg0MjkxNjAwMCwiTUFYSSBMw5NQRVogUkVWRUzDkyBDw5NNTyBSRUFDQ0lPTsOTIE1FU1NJIFRSQVMgR0FOQVIgRUwgQkFMw5NOIERFIE9STyAyMDEwIl0": {
-      "account": "sports",
-      "title": "MAXI LÓPEZ REVELÓ CÓMO REACCIONÓ MESSI TRAS GANAR EL BALÓN DE ORO 2010",
-      "dueAt": "2026-10-13T00:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd6695c210c8c6dd3c9b36",
-      "createdAt": "2026-10-12T23:00:37.355Z"
     }
   },
   "nextAt": {
