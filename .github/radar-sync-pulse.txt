@@ -95,3 +95,22 @@ Total en planilla con marca temporal últimas 24 h al corte de la corrida: 39.
 Pendientes: resultados definitivos de Independiente-Argentinos y Francia-Los Pumas; no publicar marcador sin confirmación. No editar notas históricas.
 SHA de HEAD en GitHub al preparar pulso: 8db1d77e712da0de9ea3e29e5ce1641bc1e9f6af.
 Solicitar Sync RanaSports news feed y verificar sincronización en la publicación externa. No modificar workflow ni news-live.csv manualmente.
+
+RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA FÚTBOL, 21/11/2026 ARG
+Origen: última fila publicada 5100 de corrida previa. Altas reales y releídas: 10, rango Noticias!5101:5110. A=SI; 3 párrafos F; G/J URLs a fuentes; H foto no vacía; L crédito; R=FALSE. No se modificaron filas anteriores.
+Títulos:
+- 5101: INDEPENDIENTE VENCIÓ 2-1 A ARGENTINOS CON DOBLETE DE MEZA Y AVANZÓ A CUARTOS
+- 5102: BARRACAS CENTRAL ELIMINÓ 1-0 A DEFENSA Y JUSTICIA CON UN CABEZAZO DE BRIASCO
+- 5103: ATLANTA GANÓ 1-0 EN BOLÍVAR Y SACÓ VENTAJA EN LOS CUARTOS DEL REDUCIDO
+- 5104: RIVER PREPARA CUATRO JUVENILES PARA ENFRENTAR A LANÚS Y NO TENDRÁ A MONTIEL
+- 5105: ARGENTINA SUB-17 ENFRENTARÁ A MOZAMBIQUE PARA RECUPERARSE EN EL MUNDIAL
+- 5106: REAL MADRID REMONTÓ AL CELTA CON UN GOL DE ESPÍ Y GANÓ 2-1 PESE AL PENAL ERRADO DE MBAPPÉ
+- 5107: SEVILLA EMPATÓ 1-1 CON BETIS EN EL DESCUENTO GRACIAS A KIKE SALAS
+- 5108: TOTTENHAM VENCIÓ 2-0 A IPSWICH CON UN GOL HISTÓRICO DEL JUVENIL WILLIAMS-BARNETT
+- 5109: PSG GANÓ 3-2 EN NIZA, PERO LA LESIÓN DE DOUÉ ENCENDIÓ LAS ALARMAS
+- 5110: VALENCIA VENCIÓ 1-0 AL RAYO CON UN CABEZAZO DE COPETE Y SALIÓ DEL DESCENSO
+Categorías: Independiente, Barracas Central, Atlanta, River Plate, Selección Argentina Sub-17, La Liga, Premier League, Ligue 1.
+Se sumaron resultados confirmados del Clausura y del Reducido, más partidos europeos y previas. No se publicó resultado final de Boca vs Atlético Mineiro sin cierre verificado.
+10 URLs de imágenes H con crédito, pero carga visual HTTP/MIME no verificada; estado O/P no afirma validación técnica. 1 embed oportunista de YouTube en fila 5102; otras 9 K vacías a cargo del radar de embeds posterior.
+HEAD GitHub anterior al pulso: 82b99ff4c3460e884ff2cf7d9f1b0ad261472834.
+Solicitar UNA sola sincronización automática de news feed y sitemap a partir del Sheet; no editar workflow ni news-live.csv manualmente. Confirmación del frontend aún pendiente.
