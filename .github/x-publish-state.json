@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-dijo-que-el-alpine-estaba-para-mas-y-critico-el-frio-de-los-neumaticos/": {
+      "account": "f1",
+      "title": "COLAPINTO DIJO QUE EL ALPINE ESTABA PARA MÁS Y CRITICÓ EL FRÍO DE LOS NEUMÁTICOS",
+      "dueAt": "2026-11-21T19:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b01dbe2d5eabfb8cc4d5d00",
+      "createdAt": "2026-11-21T17:58:58.761Z"
+    },
+    "https://ranasports.com.ar/f1/russell-critico-a-verstappen-tras-el-roce-en-las-vegas/": {
+      "account": "f1",
+      "title": "RUSSELL CRITICÓ A VERSTAPPEN TRAS EL ROCE EN LAS VEGAS",
+      "dueAt": "2026-11-21T18:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b01dbe2142c957519323773",
+      "createdAt": "2026-11-21T17:58:58.206Z"
+    },
+    "https://ranasports.com.ar/tenis/alcaraz-shelton-y-zverev-medvedev-definen-los-finalistas-de-turin/": {
+      "account": "sports",
+      "title": "ALCARAZ-SHELTON Y ZVEREV-MEDVEDEV DEFINEN LOS FINALISTAS DE TURÍN",
+      "dueAt": "2026-11-21T19:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b01dbe1d5eabfb8cc4d5cb0",
+      "createdAt": "2026-11-21T17:58:57.381Z"
+    },
+    "https://ranasports.com.ar/tenis/argentina-quedo-0-2-ante-japon-en-el-arranque-de-la-billie-jean-king-cup/": {
+      "account": "sports",
+      "title": "ARGENTINA QUEDÓ 0-2 ANTE JAPÓN EN EL ARRANQUE DE LA BILLIE JEAN KING CUP",
+      "dueAt": "2026-11-21T18:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b01dbe0846b0ee90728f1a7",
+      "createdAt": "2026-11-21T17:58:56.685Z"
+    },
+    "https://ranasports.com.ar/futbol/independiente-visita-a-argentinos-en-la-paternal-por-un-lugar-en-cuartos/": {
+      "account": "main",
+      "title": "INDEPENDIENTE VISITA A ARGENTINOS EN LA PATERNAL POR UN LUGAR EN CUARTOS",
+      "dueAt": "2026-11-21T18:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b01dbdf8bd84d596609efc7",
+      "createdAt": "2026-11-21T17:58:55.835Z"
+    },
+    "https://ranasports.com.ar/central-argentino-de-la-banda/central-argentino-remonto-ante-villa-cubas-y-gano-2-1-en-el-regional-amateur/": {
+      "account": "sports",
+      "title": "CENTRAL ARGENTINO REMONTÓ ANTE VILLA CUBAS Y GANÓ 2-1 EN EL REGIONAL AMATEUR",
+      "dueAt": "2026-11-21T18:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b01dbdfd5eabfb8cc4d5c7b",
+      "createdAt": "2026-11-21T17:58:55.427Z"
+    },
+    "https://ranasports.com.ar/futbol/el-titulo-de-boca-podria-abrir-cupos-internacionales-para-otros-clubes-argentinos/": {
+      "account": "sports",
+      "title": "EL TÍTULO DE BOCA PODRÍA ABRIR CUPOS INTERNACIONALES PARA OTROS CLUBES ARGENTINOS",
+      "dueAt": "2026-11-21T17:58:51.483Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b01dbdbd5eabfb8cc4d5bc6",
+      "createdAt": "2026-11-21T17:58:52.615Z"
+    },
     "https://ranasports.com.ar/futbol/dybala-volvio-a-estar-disponible-en-roma-y-gasperini-lo-imagina-junto-a-soule/": {
       "account": "sports",
       "title": "DYBALA VOLVIÓ A ESTAR DISPONIBLE EN ROMA Y GASPERINI LO IMAGINA JUNTO A SOULÉ",
@@ -4755,62 +4811,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ace764af969cac3ed4612e4",
       "createdAt": "2026-10-13T18:19:54.639Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wiLDE3OTE5MDc1NjAwMDAsIkxBIEhJU1RPUklBIERFIFRPTcOBUyBHVUlEQVJBOiBERSBET1JNSVIgQkFKTyBVTiBQVUVOVEUgQSBTRVIgQ0FNUEXDk04iXQ": {
-      "account": "sports",
-      "title": "LA HISTORIA DE TOMÁS GUIDARA: DE DORMIR BAJO UN PUENTE A SER CAMPEÓN",
-      "dueAt": "2026-10-13T19:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ace764a9d84885270429468",
-      "createdAt": "2026-10-13T18:19:54.291Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJzYW4gbG9yZW56byIsMTc5MTkwNzU2MDAwMCwiREVMIFBSRVRFIFZPTFZJw5MgRU4gR1JBTiBOSVZFTCBZIFNBTiBMT1JFTlpPIFNVTcOTIFVOQSBDQVJUQSBPRkVOU0lWQSJd": {
-      "account": "sports",
-      "title": "DEL PRETE VOLVIÓ EN GRAN NIVEL Y SAN LORENZO SUMÓ UNA CARTA OFENSIVA",
-      "dueAt": "2026-10-13T19:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ace7649bc13a192515ccbc6",
-      "createdAt": "2026-10-13T18:19:53.911Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkxODg1ODg4MDAwLCJBVVRPQ0zDgVNJQ0EgUkVVTknDkyBKT1lBUyBERSBGQU5HSU8sIFJFVVRFTUFOTiBZIExPUyBUT1JJTk9TIERFIE7DnFJCVVJHUklORyJd": {
-      "account": "sports",
-      "title": "AUTOCLÁSICA REUNIÓ JOYAS DE FANGIO, REUTEMANN Y LOS TORINOS DE NÜRBURGRING",
-      "dueAt": "2026-10-13T12:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ace0a4b04adf1ce5983f506",
-      "createdAt": "2026-10-13T10:39:07.815Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJhdXRvbW92aWxpc21vIiwxNzkxODg1ODg4MDAwLCJDQU5BUElOTyBQQVPDkyBERUwgQ1VBUlRPIEFMIFBSSU1FUk8gRU4gTEEgw5pMVElNQSBWVUVMVEEgWSBRVUVEw5MgQSBVTiBQQVNPIERFTCBUw41UVUxPIl0": {
-      "account": "sports",
-      "title": "CANAPINO PASÓ DEL CUARTO AL PRIMERO EN LA ÚLTIMA VUELTA Y QUEDÓ A UN PASO DEL TÍTULO",
-      "dueAt": "2026-10-13T11:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ace0a4baa6f147b955dfa33",
-      "createdAt": "2026-10-13T10:39:07.331Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTg4NTg4ODAwMCwiTUFTVEFOVFVPTk8gRlVFIFRJVFVMQVIgRU4gT1RSQSBERVJST1RBIERFIEZJT1JFTlRJTkEgWSBTVSBFTlRSRU5BRE9SIExFIFBJREnDkyBEQVIgVU4gUEFTTyBNw4FTIl0": {
-      "account": "sports",
-      "title": "MASTANTUONO FUE TITULAR EN OTRA DERROTA DE FIORENTINA Y SU ENTRENADOR LE PIDIÓ DAR UN PASO MÁS",
-      "dueAt": "2026-10-13T11:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ace0a4aaa6f147b955dfa09",
-      "createdAt": "2026-10-13T10:39:06.878Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTg1NzQzNDAwMCwiVkVSU1RBUFBFTiBBWVVEw5MgQSBBTlRPTkVMTEkgQ1VBTkRPIExBIFNFR1VSSURBRCBOTyBMTyBERUpBQkEgRU5UUkFSIEFMIFBBRERPQ0siXQ": {
-      "account": "f1",
-      "title": "VERSTAPPEN AYUDÓ A ANTONELLI CUANDO LA SEGURIDAD NO LO DEJABA ENTRAR AL PADDOCK",
-      "dueAt": "2026-10-13T03:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd98e63d6121df403b55ab",
-      "createdAt": "2026-10-13T02:35:18.378Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJ0ZW5pcyIsMTc5MTg0MjkxOTAwMCwiQSBGUklUWiBTRSBMRSBDQVlFUk9OIERPUyBQRUxPVEFTIERFTCBCT0xTSUxMTyBFTiBMQSBERVJST1RBIEFOVEUgVFNJVFNJUEFTIl0": {
-      "account": "sports",
-      "title": "A FRITZ SE LE CAYERON DOS PELOTAS DEL BOLSILLO EN LA DERROTA ANTE TSITSIPAS",
-      "dueAt": "2026-10-13T01:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acd66975229b40e8685843b",
-      "createdAt": "2026-10-12T23:00:39.384Z"
     }
   },
   "nextAt": {
