@@ -32,3 +32,10 @@ Candidatos publicados: 19; no se tocaron duplicados anteriores. Pendientes poten
 Total acumulado en planilla con marca temporal últimas 24 h al corte 21/11 09:57: 31.
 Para alimentar el sitio: ejecutar Sync RanaSports news feed y verificar aparición y cronología pública. No editar news-live.csv manualmente.
 Estado inicial: planilla escrita y verificada; validación final de sincronización a cargo del pipeline GitHub.
+
+
+RANASPORTS — REVISIÓN EXTRAORDINARIA DE EMBEDS — 21/11/2026 ARG
+Se verificaron 16 noticias con URL individual X o YouTube en K, de 19, filas Noticias!5062:5080.
+Pendientes sin enlace relacionado y verificable: 5073, 5075, 5077.
+Se conservaron los dos embeds anteriores, 5067 y 5079; se incorporaron catorce nuevos. Algunos posts corresponden a material de contexto del mismo hecho y no a imágenes o video del resultado exacto.
+Acción: actualizar el feed desde el CSV publicado de Google Sheets sin alterar las noticias, las horas ni los workflows.
