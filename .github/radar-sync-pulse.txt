@@ -39,3 +39,10 @@ Se verificaron 16 noticias con URL individual X o YouTube en K, de 19, filas Not
 Pendientes sin enlace relacionado y verificable: 5073, 5075, 5077.
 Se conservaron los dos embeds anteriores, 5067 y 5079; se incorporaron catorce nuevos. Algunos posts corresponden a material de contexto del mismo hecho y no a imágenes o video del resultado exacto.
 Acción: actualizar el feed desde el CSV publicado de Google Sheets sin alterar las noticias, las horas ni los workflows.
+
+
+RANASPORTS — CORRECCIÓN EXTRAORDINARIA IMÁGENES 21/11/2026
+Filas verificadas en la hoja Noticias: 4980-5080. No quedan celdas H vacías en esa ventana. Corregidas 11 filas: 5051, 5062, 5063, 5066, 5068, 5069, 5071, 5075, 5076, 5079, 5080.
+7 notas publicadas sin foto recibieron imagen de archivo o imagen del acontecimiento. Otras 4 URLs con respaldo insuficiente fueron reemplazadas por fotografías encontradas en fuentes periodísticas identificables.
+Cuando corresponde, la columna L indica claramente ARCHIVO y año. Los enlaces son concretos; prueba HTTP y render visual del navegador todavía pendientes, por eso O/P no afirman validación técnica.
+No cambiar B/C ni titulares, no tocar embeds. Ejecutar Sync RanaSports news feed para publicar correcciones de fotos.
