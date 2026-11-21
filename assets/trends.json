@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-21T19:13:10.240Z",
+  "updatedAt": "2026-11-21T23:47:24.680Z",
   "trends": [
     {
-      "query": "accidente panamericana",
-      "startedAt": "2026-11-21T18:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ikram aliskerov",
-      "startedAt": "2026-11-21T18:50:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "feyenoord",
-      "startedAt": "2026-11-21T18:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "asu almabayev",
-      "startedAt": "2026-11-21T18:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "musiala",
-      "startedAt": "2026-11-21T18:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "arsenal de sarandi",
-      "startedAt": "2026-11-21T18:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "nations championship",
-      "startedAt": "2026-11-21T18:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "palmeiras - flamengo",
-      "startedAt": "2026-11-21T18:30:00.000Z",
+      "query": "inter miami",
+      "startedAt": "2026-11-21T23:30:00.000Z",
       "volume": 2000
     },
     {
-      "query": "posiciones de ogc niza contra psg",
-      "startedAt": "2026-11-21T18:30:00.000Z",
-      "volume": 2000
+      "query": "andrés matonte",
+      "startedAt": "2026-11-21T23:10:00.000Z",
+      "volume": 100
     },
     {
-      "query": "brian ortega",
-      "startedAt": "2026-11-21T18:30:00.000Z",
-      "volume": 100
+      "query": "lozano boca",
+      "startedAt": "2026-11-21T23:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "lozano",
+      "startedAt": "2026-11-21T23:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "cuello san lorenzo",
+      "startedAt": "2026-11-21T23:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "herrera boca",
+      "startedAt": "2026-11-21T22:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "aranda",
+      "startedAt": "2026-11-21T22:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "del potro",
+      "startedAt": "2026-11-21T22:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "despedida de tevez",
+      "startedAt": "2026-11-21T22:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "di lollo",
+      "startedAt": "2026-11-21T22:50:00.000Z",
+      "volume": 200
     }
   ]
 }
