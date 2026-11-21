@@ -46,3 +46,27 @@ Filas verificadas en la hoja Noticias: 4980-5080. No quedan celdas H vacías en 
 7 notas publicadas sin foto recibieron imagen de archivo o imagen del acontecimiento. Otras 4 URLs con respaldo insuficiente fueron reemplazadas por fotografías encontradas en fuentes periodísticas identificables.
 Cuando corresponde, la columna L indica claramente ARCHIVO y año. Los enlaces son concretos; prueba HTTP y render visual del navegador todavía pendientes, por eso O/P no afirman validación técnica.
 No cambiar B/C ni titulares, no tocar embeds. Ejecutar Sync RanaSports news feed para publicar correcciones de fotos.
+
+
+RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA — 21/11/2026 ARG
+Origen: última noticia REAL publicada en planilla, fila 5080, 21/11/2026 09:53 ARG.
+Ventana editorial: 21/11/2026 09:53 hasta tarde del mismo día; revisión de solapamiento y omisiones de la mañana.
+Altas reales verificadas: 9, filas Noticias!5081:5089.
+Titulares:
+- INDEPENDIENTE PREPARA LOS REGRESOS DE MONTIEL Y PALAIS PARA VISITAR A ARGENTINOS — 08:47
+- LOS PUMAS VISITAN A FRANCIA CON EL TERCER PUESTO DEL NATIONS CHAMPIONSHIP EN JUEGO — 08:50
+- BOCA CONFÍA EN QUE ASCACÍBAR JUEGUE LA FINAL PESE A ENTRENARSE APARTE — 11:54
+- BEZZECCHI GANÓ LA SPRINT DE PORTUGAL Y UNA CAÍDA FRENÓ LA CONSAGRACIÓN DE MÁRQUEZ — 12:47
+- ALCARAZ REMONTÓ A SHELTON Y SE METIÓ EN LA FINAL DEL ATP FINALS DE TURÍN — 13:04
+- APRILIA SE CONSAGRÓ CAMPEÓN MUNDIAL DE EQUIPOS DE MOTOGP EN PORTUGAL — 13:05
+- KEVIN VALLEJOS BUSCA DAR EL GOLPE ANTE STERLING EN LA UFC DE QATAR — 05:39 (omisión recuperada)
+- MANCHESTER CITY EMPATÓ CON FULHAM Y SUMÓ OTRO TROPIEZO EN LA PREMIER LEAGUE — 11:43
+- LEEDS GOLEÓ 4-1 AL CHELSEA CON UN DOBLETE DE OKAFOR Y SORPRENDIÓ EN STAMFORD BRIDGE — 13:58
+Última nota CRONOLÓGICA: LEEDS GOLEÓ 4-1 AL CHELSEA, fila 5089, 21/11/2026 13:58 ARG.
+Verificación: 9/9 con A=SI, B/C real, título E, cuerpo F de 2 párrafos, artículo G, imagen H no vacía, fuente J, crédito L, bloqueo R=FALSE.
+Fotos H: 9 URLs concretas seleccionadas con fuente y crédito; ninguna celda H vacía. Archivos identificados por año. Accesibilidad HTTP/carga en la web NO comprobadas aún.
+Embeds K oportunistas: 0; dejar al radar de embeds prioritarios.
+Fuentes: El Crack Deportivo, TN, LM Neuquén, Reuters, MotoGP, Motorsport.com, Leeds United, UFC; contraste con medios oficiales y alternativos.
+Candidatas escritas/releídas: 9. Solapamiento/recuperación: Independiente, Los Pumas y Kevin Vallejos. No se modificaron filas históricas.
+Estado de salida: nuevas filas en Google Sheets confirmadas, sincronización de GitHub solicitada con este pulso único.
+SHA del pulso anterior: a2d24266d95722549d89a61eb0746828696852c4
