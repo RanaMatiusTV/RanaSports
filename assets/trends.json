@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-21T03:29:39.837Z",
+  "updatedAt": "2026-11-21T11:47:46.455Z",
   "trends": [
     {
-      "query": "nuggets - rockets",
-      "startedAt": "2026-11-21T03:10:00.000Z",
+      "query": "coronavirus",
+      "startedAt": "2026-11-21T11:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "jazz - suns",
-      "startedAt": "2026-11-21T03:10:00.000Z",
+      "query": "grand theft auto vi",
+      "startedAt": "2026-11-21T11:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "takata",
+      "startedAt": "2026-11-21T11:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "terremoto sismo temblor hoy epicentro",
-      "startedAt": "2026-11-21T02:50:00.000Z",
+      "query": "clima neuquen",
+      "startedAt": "2026-11-21T11:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "club deportivo maipú",
+      "startedAt": "2026-11-21T09:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "lakers - kings",
-      "startedAt": "2026-11-21T02:40:00.000Z",
+      "query": "mario pergolini",
+      "startedAt": "2026-11-21T09:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "selección de rugby de francia",
-      "startedAt": "2026-11-21T02:30:00.000Z",
-      "volume": 100
+      "query": "epicentro",
+      "startedAt": "2026-11-21T09:00:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "gordon anibal",
-      "startedAt": "2026-11-21T02:20:00.000Z",
-      "volume": 100
+      "query": "francisco moura",
+      "startedAt": "2026-11-21T09:00:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "fp3 las vegas",
-      "startedAt": "2026-11-21T02:10:00.000Z",
-      "volume": 100
+      "query": "tormenta",
+      "startedAt": "2026-11-21T08:50:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "calor",
-      "startedAt": "2026-11-21T02:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "pistons - raptors",
-      "startedAt": "2026-11-21T02:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "victoria villarruel",
-      "startedAt": "2026-11-21T02:00:00.000Z",
-      "volume": 200
+      "query": "allanamiento",
+      "startedAt": "2026-11-21T08:40:00.000Z",
+      "volume": 1000
     }
   ]
 }
