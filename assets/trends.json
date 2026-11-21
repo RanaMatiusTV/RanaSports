@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-21T11:47:46.455Z",
+  "updatedAt": "2026-11-21T19:13:10.240Z",
   "trends": [
     {
-      "query": "coronavirus",
-      "startedAt": "2026-11-21T11:30:00.000Z",
+      "query": "accidente panamericana",
+      "startedAt": "2026-11-21T18:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "grand theft auto vi",
-      "startedAt": "2026-11-21T11:30:00.000Z",
+      "query": "ikram aliskerov",
+      "startedAt": "2026-11-21T18:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "feyenoord",
+      "startedAt": "2026-11-21T18:40:00.000Z",
       "volume": 200
     },
     {
-      "query": "takata",
-      "startedAt": "2026-11-21T11:10:00.000Z",
+      "query": "asu almabayev",
+      "startedAt": "2026-11-21T18:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "musiala",
+      "startedAt": "2026-11-21T18:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "clima neuquen",
-      "startedAt": "2026-11-21T11:00:00.000Z",
+      "query": "arsenal de sarandi",
+      "startedAt": "2026-11-21T18:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "club deportivo maipú",
-      "startedAt": "2026-11-21T09:50:00.000Z",
-      "volume": 500
+      "query": "nations championship",
+      "startedAt": "2026-11-21T18:40:00.000Z",
+      "volume": 100
     },
     {
-      "query": "mario pergolini",
-      "startedAt": "2026-11-21T09:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "epicentro",
-      "startedAt": "2026-11-21T09:00:00.000Z",
+      "query": "palmeiras - flamengo",
+      "startedAt": "2026-11-21T18:30:00.000Z",
       "volume": 2000
     },
     {
-      "query": "francisco moura",
-      "startedAt": "2026-11-21T09:00:00.000Z",
+      "query": "posiciones de ogc niza contra psg",
+      "startedAt": "2026-11-21T18:30:00.000Z",
       "volume": 2000
     },
     {
-      "query": "tormenta",
-      "startedAt": "2026-11-21T08:50:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "allanamiento",
-      "startedAt": "2026-11-21T08:40:00.000Z",
-      "volume": 1000
+      "query": "brian ortega",
+      "startedAt": "2026-11-21T18:30:00.000Z",
+      "volume": 100
     }
   ]
 }
