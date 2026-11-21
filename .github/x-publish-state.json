@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/independiente-prepara-los-regresos-de-montiel-y-palais-para-visitar-a-argentinos/": {
+      "account": "main",
+      "title": "INDEPENDIENTE PREPARA LOS REGRESOS DE MONTIEL Y PALAIS PARA VISITAR A ARGENTINOS",
+      "dueAt": "2026-11-22T01:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b022706d5eabfb8cc6a3a86",
+      "createdAt": "2026-11-21T23:19:34.468Z"
+    },
+    "https://ranasports.com.ar/futbol/independiente-sufrio-la-baja-del-chimy-avila-en-la-entrada-en-calor-ante-argentinos/": {
+      "account": "main",
+      "title": "INDEPENDIENTE SUFRIÓ LA BAJA DEL CHIMY ÁVILA EN LA ENTRADA EN CALOR ANTE ARGENTINOS",
+      "dueAt": "2026-11-22T00:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b02270502479690920bee88",
+      "createdAt": "2026-11-21T23:19:33.305Z"
+    },
+    "https://ranasports.com.ar/barracas-central/barracas-central-elimino-1-0-a-defensa-y-justicia-con-un-cabezazo-de-briasco/": {
+      "account": "sports",
+      "title": "BARRACAS CENTRAL ELIMINÓ 1-0 A DEFENSA Y JUSTICIA CON UN CABEZAZO DE BRIASCO",
+      "dueAt": "2026-11-22T00:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b022704cc364169c111547b",
+      "createdAt": "2026-11-21T23:19:32.352Z"
+    },
+    "https://ranasports.com.ar/tenis/zverev-elimino-a-medvedev-y-jugara-la-final-del-atp-finals-contra-alcaraz/": {
+      "account": "sports",
+      "title": "ZVEREV ELIMINÓ A MEDVEDEV Y JUGARÁ LA FINAL DEL ATP FINALS CONTRA ALCARAZ",
+      "dueAt": "2026-11-21T23:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b022703d5eabfb8cc6a3a01",
+      "createdAt": "2026-11-21T23:19:31.691Z"
+    },
+    "https://ranasports.com.ar/atlanta/atlanta-gano-1-0-en-bolivar-y-saco-ventaja-en-los-cuartos-del-reducido/": {
+      "account": "sports",
+      "title": "ATLANTA GANÓ 1-0 EN BOLÍVAR Y SACÓ VENTAJA EN LOS CUARTOS DEL REDUCIDO",
+      "dueAt": "2026-11-21T23:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b02270302479690920bee31",
+      "createdAt": "2026-11-21T23:19:31.292Z"
+    },
+    "https://ranasports.com.ar/futbol/real-madrid-remonto-al-celta-con-un-gol-de-espi-y-gano-2-1-pese-al-penal-errado-de-mbappe/": {
+      "account": "sports",
+      "title": "REAL MADRID REMONTÓ AL CELTA CON UN GOL DE ESPÍ Y GANÓ 2-1 PESE AL PENAL ERRADO DE MBAPPÉ",
+      "dueAt": "2026-11-21T23:19:28.185Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b022700c72676f5e9eaad6e",
+      "createdAt": "2026-11-21T23:19:30.311Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-dijo-que-el-alpine-estaba-para-mas-y-critico-el-frio-de-los-neumaticos/": {
       "account": "f1",
       "title": "COLAPINTO DIJO QUE EL ALPINE ESTABA PARA MÁS Y CRITICÓ EL FRÍO DE LOS NEUMÁTICOS",
@@ -4763,54 +4811,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6acf0b87848c31c8095d95fd",
       "createdAt": "2026-10-14T04:56:39.854Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJtdW5kaWFsIiwxNzkxOTIyMzIwMDAwLCJFTE9ZIFJPT00gUkVDSUJJw5MgVU4gUsOJQ09SRCBHVUlOTkVTUyBQT1IgU1VTIDE2IEFUQUpBREFTIEFOVEUgRUNVQURPUiJd": {
-      "account": "sports",
-      "title": "ELOY ROOM RECIBIÓ UN RÉCORD GUINNESS POR SUS 16 ATAJADAS ANTE ECUADOR",
-      "dueAt": "2026-10-14T01:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acebbfd1f3f10bcb7a3bde2",
-      "createdAt": "2026-10-13T23:17:17.206Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTkyOTE2MDAwMCwiTUFTVEFOVFVPTk8gRlVFIE9QRVJBRE8gREUgVU5BIEZSQUNUVVJBIEVOIExBIE1BTk8gSVpRVUlFUkRBIl0": {
-      "account": "sports",
-      "title": "MASTANTUONO FUE OPERADO DE UNA FRACTURA EN LA MANO IZQUIERDA",
-      "dueAt": "2026-10-14T00:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acebbfc848c31c8095004b7",
-      "createdAt": "2026-10-13T23:17:16.593Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib2NhIiwxNzkxOTI5MTYwMDAwLCJQQVJFREVTIEVWT0xVQ0lPTkEgQklFTiBZIFNFIElMVVNJT05BIENPTiBKVUdBUiBMQSBSRVZBTkNIQSBBTlRFIFZBU0NPIl0": {
-      "account": "sports",
-      "title": "PAREDES EVOLUCIONA BIEN Y SE ILUSIONA CON JUGAR LA REVANCHA ANTE VASCO",
-      "dueAt": "2026-10-14T00:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acebbfcb610c3011f922d9f",
-      "createdAt": "2026-10-13T23:17:16.200Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJpbmRlcGVuZGllbnRlIiwxNzkxOTA3NTYwMDAwLCJJTkRFUEVORElFTlRFIFJFQ1VQRVJBIEEgTUFYSSBNRVpBIFBBUkEgRUwgQ0zDgVNJQ08gQ09OIFJBQ0lORyJd": {
-      "account": "main",
-      "title": "INDEPENDIENTE RECUPERA A MAXI MEZA PARA EL CLÁSICO CON RACING",
-      "dueAt": "2026-10-13T19:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ace764bbc13a192515ccd59",
-      "createdAt": "2026-10-13T18:19:55.950Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTkwMDI0MDAwMCwiQ09MQVBJTlRPIFlBIFRJRU5FIEVMIENST05PR1JBTUEgUEFSQSBFTCBHUkFOIFBSRU1JTyBERSBFU1RBRE9TIFVOSURPUyJd": {
-      "account": "f1",
-      "title": "COLAPINTO YA TIENE EL CRONOGRAMA PARA EL GRAN PREMIO DE ESTADOS UNIDOS",
-      "dueAt": "2026-10-13T19:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ace764bbc13a192515ccbff",
-      "createdAt": "2026-10-13T18:19:55.268Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJsaWdhIHByb2Zlc2lvbmFsIiwxNzkxOTA3NTYwMDAwLCJMQSBUQUJMQSBBTlVBTCBFTlRSw5MgRU4gU1UgUkVDVEEgRklOQUwgQ09OIENJTkNPIEVRVUlQT1MgU0VQQVJBRE9TIFBPUiBUUkVTIFBVTlRPUyJd": {
-      "account": "sports",
-      "title": "LA TABLA ANUAL ENTRÓ EN SU RECTA FINAL CON CINCO EQUIPOS SEPARADOS POR TRES PUNTOS",
-      "dueAt": "2026-10-13T20:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ace764af969cac3ed4612e4",
-      "createdAt": "2026-10-13T18:19:54.639Z"
     }
   },
   "nextAt": {
