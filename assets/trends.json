@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-20T22:40:05.777Z",
+  "updatedAt": "2026-11-21T03:29:39.837Z",
   "trends": [
     {
-      "query": "cambio climático",
-      "startedAt": "2026-11-20T22:20:00.000Z",
+      "query": "nuggets - rockets",
+      "startedAt": "2026-11-21T03:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "mauricio pochettino",
-      "startedAt": "2026-11-20T22:20:00.000Z",
+      "query": "jazz - suns",
+      "startedAt": "2026-11-21T03:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "vélez - belgrano",
-      "startedAt": "2026-11-20T22:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "posiciones de athletic club contra rcd espanyol de barcelona",
-      "startedAt": "2026-11-20T22:10:00.000Z",
+      "query": "terremoto sismo temblor hoy epicentro",
+      "startedAt": "2026-11-21T02:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "conmebol sudamericana",
-      "startedAt": "2026-11-20T22:10:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "alexander haskin actor",
-      "startedAt": "2026-11-20T22:10:00.000Z",
+      "query": "lakers - kings",
+      "startedAt": "2026-11-21T02:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "gasto",
-      "startedAt": "2026-11-20T21:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "legislador",
-      "startedAt": "2026-11-20T21:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "juan fernando quintero",
-      "startedAt": "2026-11-20T21:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "columbus crew",
-      "startedAt": "2026-11-20T21:30:00.000Z",
+      "query": "selección de rugby de francia",
+      "startedAt": "2026-11-21T02:30:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "gordon anibal",
+      "startedAt": "2026-11-21T02:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "fp3 las vegas",
+      "startedAt": "2026-11-21T02:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "calor",
+      "startedAt": "2026-11-21T02:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "pistons - raptors",
+      "startedAt": "2026-11-21T02:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "victoria villarruel",
+      "startedAt": "2026-11-21T02:00:00.000Z",
+      "volume": 200
     }
   ]
 }
