@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-22T06:44:22.753Z",
+  "updatedAt": "2026-11-22T14:54:58.143Z",
   "trends": [
     {
-      "query": "bandera de las islas malvinas",
-      "startedAt": "2026-11-22T05:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "keanu reeves",
-      "startedAt": "2026-11-22T05:40:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "chris pratt",
-      "startedAt": "2026-11-22T05:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "f1 vote",
-      "startedAt": "2026-11-22T05:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "verstappen",
-      "startedAt": "2026-11-22T05:00:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "mckenna grace",
-      "startedAt": "2026-11-22T04:50:00.000Z",
+      "query": "caballito",
+      "startedAt": "2026-11-22T14:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "f1 hoy",
-      "startedAt": "2026-11-22T04:40:00.000Z",
+      "query": "ferrari",
+      "startedAt": "2026-11-22T14:40:00.000Z",
       "volume": 2000
     },
     {
-      "query": "wanda nara",
-      "startedAt": "2026-11-22T04:20:00.000Z",
+      "query": "marc marquez",
+      "startedAt": "2026-11-22T14:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "formula 1",
-      "startedAt": "2026-11-22T04:10:00.000Z",
-      "volume": 20000
+      "query": "barca",
+      "startedAt": "2026-11-22T14:20:00.000Z",
+      "volume": 200
     },
     {
-      "query": "maxx morando",
-      "startedAt": "2026-11-22T04:10:00.000Z",
+      "query": "sassuolo - genoa",
+      "startedAt": "2026-11-22T14:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "poceada chaqueña",
+      "startedAt": "2026-11-22T14:20:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "temporal",
+      "startedAt": "2026-11-22T14:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "motogp",
+      "startedAt": "2026-11-22T14:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "posiciones de juventus contra venezia football club",
+      "startedAt": "2026-11-22T13:40:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "hull city - brighton",
+      "startedAt": "2026-11-22T13:10:00.000Z",
+      "volume": 2000
     }
   ]
 }
