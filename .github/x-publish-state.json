@@ -1,13 +1,22 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/boca-campeon-20261121-2126/": {
+      "account": "sports",
+      "title": "BOCA CAMPEÓN: JUGARÁ LA RECOPA 2027 ANTE EL GANADOR DE ESTUDIANTES Y PALMEIRAS",
+      "dueAt": "2026-11-22T04:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b025607d864a011058ff392",
+      "createdAt": "2026-11-22T02:40:07.967Z"
+    },
     "https://ranasports.com.ar/futbol/boca-campeon-20261121-2104/": {
       "account": "sports",
       "title": "BOCA CAMPEÓN: MERENTIEL PASÓ DEL GOL ERRADO A LAS LÁGRIMAS TRAS EL 2-0 AL MINEIRO",
       "dueAt": "2026-11-22T03:30:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6b0252a2846b0ee90753c32d",
-      "createdAt": "2026-11-22T02:25:38.759Z"
+      "createdAt": "2026-11-22T02:25:38.759Z",
+      "formattedFor": "https://ranasports.com.ar/futbol/boca-campeon-20261121-2104/"
     },
     "https://ranasports.com.ar/atletico-mineiro/atletico-mineiro-perdio-2-0-con-boca-y-sumo-su-tercer-subcampeonato-continental-seguido/": {
       "account": "sports",
@@ -15,7 +24,8 @@
       "dueAt": "2026-11-22T03:00:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6b0252a1846b0ee90753c2f8",
-      "createdAt": "2026-11-22T02:25:37.622Z"
+      "createdAt": "2026-11-22T02:25:37.622Z",
+      "formattedFor": "https://ranasports.com.ar/atletico-mineiro/atletico-mineiro-perdio-2-0-con-boca-y-sumo-su-tercer-subcampeonato-continental-seguido/"
     },
     "https://ranasports.com.ar/futbol/boca-campeon-de-la-sudamericana-2026-le-gano-2-0-a-atletico-mineiro-en-barranquilla/": {
       "account": "sports",
@@ -4799,15 +4809,6 @@
       "bufferPostId": "6acf4be230bf4c96981e287e",
       "createdAt": "2026-10-14T09:31:14.824Z",
       "formattedFor": "https://ranasports.com.ar/futbol/barcelona-goleo-4-1-a-galatasaray-con-dos-asistencias-de-yamal/"
-    },
-    "https://ranasports.com.ar/futbol/boca-cayo-1-0-ante-vasco-y-debera-remontar-la-serie-en-brasil/": {
-      "account": "sports",
-      "title": "BOCA CAYÓ 1-0 ANTE VASCO Y DEBERÁ REMONTAR LA SERIE EN BRASIL",
-      "dueAt": "2026-10-14T09:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acf4338ff1b8c5cdfcada1d",
-      "createdAt": "2026-10-14T08:54:16.761Z",
-      "formattedFor": "https://ranasports.com.ar/futbol/boca-cayo-1-0-ante-vasco-y-debera-remontar-la-serie-en-brasil/"
     }
   },
   "nextAt": {
