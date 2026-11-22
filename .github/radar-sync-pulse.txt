@@ -1,18 +1,18 @@
 RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA — 22/11/2026 ARG
-Ventana de auditoría: desde la última noticia real previa (21/11/2026 22:29 ARG), con recuperación de hechos omitidos desde 21/11/2026 19:38 y cobertura hasta 22/11/2026 02:48 ARG.
-Altas nuevas reales en Google Sheets: 9, filas Noticias!5121:5129 (A=SI; B/C horas de primera difusión; G/J fuentes originales; H/L fotografía y crédito; R=FALSE).
-Todas las altas verificadas por relectura: título, 3 párrafos, fecha, hora, fuente, imagen y crédito.
-Fotos: 9 URL directas seleccionadas; carga HTTP/MIME no comprobada en este entorno; indicadas como SIN VERIFICACIÓN TÉCNICA en O/P. Embeds oportunistas K: 0, radar posterior puede buscarlos.
-Noticias publicadas en últimas 24 h en la planilla al cierre: 56 (incluye 9 nuevas).
-Última noticia por B+C: COLAPINTO FUE SEXTO EN LAS VEGAS Y ALPINE METIÓ SUS DOS AUTOS ENTRE LOS SEIS PRIMEROS — 22/11/2026 02:48 ARG (misma marca temporal verificada para la victoria de Verstappen).
-Títulos de altas:
-- MORÓN EMPATÓ 0-0 CON COLÓN EN SANTA FE Y DEFINIRÁ EL REDUCIDO EN EL OESTE
-- TALA DERROTÓ 25-22 A NEWMAN Y SE CONSAGRÓ CAMPEÓN DEL NACIONAL DE CLUBES
-- ARRUABARRENA CELEBRÓ LA SUDAMERICANA, PERO PUSO EL FOCO EN INDEPENDIENTE RIVADAVIA
-- DEL POTRO FESTEJÓ EN BARRANQUILLA JUNTO A LOS JUGADORES DE BOCA CAMPEÓN
-- BOCA POSTERGÓ SU REGRESO A ARGENTINA TRAS EL DESMAYO DE LEANDRO PAREDES
-- GIMNASIA DE JUJUY VENCIÓ 1-0 A DEPORTIVO MADRYN Y SACÓ VENTAJA EN EL REDUCIDO
-- PAREDES PUBLICÓ UN MENSAJE DESDE LA CLÍNICA Y LLEVÓ TRANQUILIDAD A LOS HINCHAS DE BOCA
-- VERSTAPPEN GANÓ EL GRAN PREMIO DE LAS VEGAS POR DELANTE DE NORRIS Y PIASTRI
-- COLAPINTO FUE SEXTO EN LAS VEGAS Y ALPINE METIÓ SUS DOS AUTOS ENTRE LOS SEIS PRIMEROS
-No sobrescribir noticias históricas. Se solicita una única sincronización del feed con este pulso; no tocar workflow ni CSV manualmente.
+Sincronización solicitada después de relectura verificada del Google Sheet.
+Ventana revisada: 21/11/2026 23:00 a 22/11/2026 13:12 hora argentina; últimas noticias previas reales a las 02:48 del 22/11/2026. Se consultaron además hechos de la noche previa para evitar duplicados.
+Altas realmente escritas y releídas: 9, rango Noticias!A5130:S5138. Columnas A=SI; B/C primera difusión, D categoría, E título, F tres párrafos, G/J fuente, H/L fotografía y crédito; R=FALSE.
+Fotografías: 9 URLs directas y créditos seleccionados; la carga HTTP/MIME de las 9 NO pudo comprobarse; O/P dice SIN VERIFICACIÓN TÉCNICA. Embeds oportunistas K: 0.
+Títulos y nuevas noticias:
+- HAMILTON CUESTIONÓ LA SANCIÓN EN LAS VEGAS TRAS SU ROCE CON LECLERC
+- CHECO PÉREZ RECIBIÓ CINCO PUESTOS DE SANCIÓN PARA QATAR POR EL CHOQUE CON CAMARA
+- COLAPINTO EXPLICÓ SU SEXTO PUESTO EN LAS VEGAS: CAMBIÓ EL RITMO CON LOS NEUMÁTICOS MEDIOS
+- RUSSELL EXPLICÓ EL ERROR QUE LE COSTÓ EL PODIO EN LAS VEGAS: TERMINÓ NOVENO
+- HADJAR PERDIÓ OTRO PUESTO EN LAS VEGAS POR UNA SANCIÓN DESPUÉS DE LA CARRERA
+- VASSEUR CUESTIONÓ EL CHOQUE ENTRE HAMILTON Y LECLERC: «ES UNA FALTA DE RESPETO»
+- BOCA TIENE PREVISTO LLEGAR A EZEIZA ESTA NOCHE DESPUÉS DEL TÍTULO EN COLOMBIA
+- ARRUABARRENA ANTICIPÓ UN EQUIPO MIXTO DE BOCA CONTRA INDEPENDIENTE RIVADAVIA
+- BRIATORE ELOGIÓ A COLAPINTO Y GASLY TRAS EL MEJOR RESULTADO DE ALPINE EN 2026
+Última noticia nueva por fecha/hora: BRIATORE ELOGIÓ A COLAPINTO Y GASLY... (22/11/2026 10:48 ARG).
+SHA de pulso anterior: 6ffc65bf3881c2fc63fa2d48f70fba14618e7149
+No tocar workflows ni news-live.csv manualmente. Recalcular el feed público desde la planilla.
