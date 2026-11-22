@@ -114,3 +114,23 @@ Se sumaron resultados confirmados del Clausura y del Reducido, más partidos eur
 10 URLs de imágenes H con crédito, pero carga visual HTTP/MIME no verificada; estado O/P no afirma validación técnica. 1 embed oportunista de YouTube en fila 5102; otras 9 K vacías a cargo del radar de embeds posterior.
 HEAD GitHub anterior al pulso: 82b99ff4c3460e884ff2cf7d9f1b0ad261472834.
 Solicitar UNA sola sincronización automática de news feed y sitemap a partir del Sheet; no editar workflow ni news-live.csv manualmente. Confirmación del frontend aún pendiente.
+
+RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA BOCA CAMPEÓN — 21/11/2026 ARG
+Origen: última alta real anterior fila 5110, 21/11/2026 15:14 (última marca cronológica anterior 19:06). Cobertura enfocada en la final Boca-Mineiro 21/11/2026 y resultado Los Pumas-Francia pendiente.
+Altas efectivamente escritas y verificadas: 9, Noticias!5111:5119. Siete centradas en Boca campeón, una sobre Atlético Mineiro y una de rugby.
+Todas con A=SI, B/C comprobados (primera difusión/horario resultado), F tres párrafos >150 palabras, G/J fuente, H fotografía identificada, L crédito, R=FALSE. Fotografías HTTP/MIME no comprobadas técnicamente; se usaron imágenes concretas de fuentes con datos. No se alteraron notas previas.
+Embeds K oportunistas: dos publicaciones individuales de SportsCenter correspondientes a goles de Ascacíbar y Merentiel. Las otras siete quedan disponibles para radar posterior.
+Títulos:
+- 5111: ¡BOCA CAMPEÓN DE LA SUDAMERICANA 2026! LE GANÓ 2-0 A ATLÉTICO MINEIRO EN BARRANQUILLA
+- 5112: BOCA CAMPEÓN: ASCACÍBAR MARCÓ DE VOLEA Y ABRIÓ EL CAMINO A LA TERCERA SUDAMERICANA
+- 5113: BOCA CAMPEÓN: MERENTIEL PASÓ DEL GOL ERRADO A LAS LÁGRIMAS TRAS EL 2-0 AL MINEIRO
+- 5114: BOCA CAMPEÓN: TERCERA SUDAMERICANA Y RÉCORD HISTÓRICO DESPUÉS DE 18 AÑOS
+- 5115: BOCA CAMPEÓN: JUGARÁ LA RECOPA 2027 ANTE EL GANADOR DE ESTUDIANTES Y PALMEIRAS
+- 5116: BOCA CAMPEÓN: LA ESTRATEGIA DE ARRUABARRENA PARA SUPERAR AL MINEIRO EN LA FINAL
+- 5117: ATLÉTICO MINEIRO PERDIÓ 2-0 CON BOCA Y SUMÓ SU TERCER SUBCAMPEONATO CONTINENTAL SEGUIDO
+- 5118: BOCA CAMPEÓN: GANÓ 10 MILLONES DE DÓLARES POR LA SUDAMERICANA Y SUPERÓ LOS 16 MILLONES EN PREMIOS
+- 5119: LOS PUMAS CAYERON 45-17 ANTE FRANCIA Y JUGARÁN CONTRA ESCOCIA EN TWICKENHAM
+Fuentes: UOL, Folha, LA NACION, TN, Unión Argentina de Rugby, DeporTV, TyC Sports. Se evitaron duplicados del resumen final: cada pieza aborda goles/protagonistas/antecedente histórico/Recopa/táctica/premio/impacto en rival.
+Última noticia cronológica del lote: BOCA CAMPEÓN: GANÓ 10 MILLONES DE DÓLARES POR LA SUDAMERICANA Y SUPERÓ LOS 16 MILLONES EN PREMIOS — 21/11/2026 21:28 ARG (fila 5118).
+HEAD GitHub antes del pulso: f31e07d7fb6ef462ca1114d15aa5f8c80a0fd99f.
+Disparar Sync RanaSports news feed desde Google Sheets y verificar feed/portal. No editar workflow ni news-live.csv a mano.
