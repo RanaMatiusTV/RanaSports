@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/arruabarrena-anticipo-un-equipo-mixto-de-boca-contra-independiente-rivadavia/": {
+      "account": "sports",
+      "title": "ARRUABARRENA ANTICIPÓ UN EQUIPO MIXTO DE BOCA CONTRA INDEPENDIENTE RIVADAVIA",
+      "dueAt": "2026-11-22T21:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0362f4bf5d5a73b6c4a12d",
+      "createdAt": "2026-11-22T21:47:32.849Z"
+    },
+    "https://ranasports.com.ar/f1/briatore-elogio-a-colapinto-y-gasly-tras-el-mejor-resultado-de-alpine-en-2026/": {
+      "account": "f1",
+      "title": "BRIATORE ELOGIÓ A COLAPINTO Y GASLY TRAS EL MEJOR RESULTADO DE ALPINE EN 2026",
+      "dueAt": "2026-11-22T22:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0362f3846b0ee907bdf9ce",
+      "createdAt": "2026-11-22T21:47:31.991Z"
+    },
+    "https://ranasports.com.ar/f1/hadjar-perdio-otro-puesto-en-las-vegas-por-una-sancion-despues-de-la-carrera/": {
+      "account": "f1",
+      "title": "HADJAR PERDIÓ OTRO PUESTO EN LAS VEGAS POR UNA SANCIÓN DESPUÉS DE LA CARRERA",
+      "dueAt": "2026-11-22T21:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0362f3d864a01105fa31ea",
+      "createdAt": "2026-11-22T21:47:31.234Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-tiene-previsto-llegar-a-ezeiza-esta-noche-despues-del-titulo-en-colombia/": {
+      "account": "sports",
+      "title": "BOCA TIENE PREVISTO LLEGAR A EZEIZA ESTA NOCHE DESPUÉS DEL TÍTULO EN COLOMBIA",
+      "dueAt": "2026-11-22T21:47:28.487Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b0362f0cc364169c189eef9",
+      "createdAt": "2026-11-22T21:47:30.584Z"
+    },
     "https://ranasports.com.ar/gimnasia-y-esgrima-de-jujuy/gimnasia-de-jujuy-vencio-1-0-a-deportivo-madryn-y-saco-ventaja-en-el-reducido/": {
       "account": "sports",
       "title": "GIMNASIA DE JUJUY VENCIÓ 1-0 A DEPORTIVO MADRYN Y SACÓ VENTAJA EN EL REDUCIDO",
@@ -4774,38 +4806,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad602d4a073718b17c37bbe",
       "createdAt": "2026-10-19T11:45:25.069Z"
-    },
-    "https://ranasports.com.ar/futbol/belgrano-cayo-ante-palmeiras-y-definira-su-pase-a-cuartos-de-la-libertadores-femenina/": {
-      "account": "sports",
-      "title": "BELGRANO CAYÓ ANTE PALMEIRAS Y DEFINIRÁ SU PASE A CUARTOS DE LA LIBERTADORES FEMENINA",
-      "dueAt": "2026-10-19T11:50:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad602d47a42a610a50f6337",
-      "createdAt": "2026-10-19T11:45:24.578Z"
-    },
-    "https://ranasports.com.ar/river/river-goleo-3-0-a-belgrano-y-se-metio-en-zona-de-playoffs/": {
-      "account": "sports",
-      "title": "RIVER GOLEÓ 3-0 A BELGRANO Y SE METIÓ EN ZONA DE PLAYOFFS",
-      "dueAt": "2026-10-19T11:45:21.634Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ad602d1a073718b17c37acd",
-      "createdAt": "2026-10-19T11:45:23.753Z"
-    },
-    "https://ranasports.com.ar/f1/lando-norris-llamo-buen-amigo-a-colapinto-y-sello-la-reconciliacion/": {
-      "account": "f1",
-      "title": "LANDO NORRIS LLAMÓ «BUEN AMIGO» A COLAPINTO Y SELLÓ LA RECONCILIACIÓN",
-      "dueAt": "2026-10-16T07:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad1ce55ee2c696029c3de2f",
-      "createdAt": "2026-10-16T07:12:21.961Z"
-    },
-    "https://ranasports.com.ar/f1/rafael-camara-reemplazara-a-ocon-en-haas-y-debutara-en-la-f1-en-2027/": {
-      "account": "f1",
-      "title": "RAFAEL CÂMARA REEMPLAZARÁ A OCON EN HAAS Y DEBUTARÁ EN LA F1 EN 2027",
-      "dueAt": "2026-10-15T22:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad15217fb64fffcf1a24c90",
-      "createdAt": "2026-10-15T22:22:15.386Z"
     }
   },
   "nextAt": {
