@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/boca-campeon-20261121-2104/": {
+      "account": "sports",
+      "title": "BOCA CAMPEÓN: MERENTIEL PASÓ DEL GOL ERRADO A LAS LÁGRIMAS TRAS EL 2-0 AL MINEIRO",
+      "dueAt": "2026-11-22T03:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0252a2846b0ee90753c32d",
+      "createdAt": "2026-11-22T02:25:38.759Z"
+    },
+    "https://ranasports.com.ar/atletico-mineiro/atletico-mineiro-perdio-2-0-con-boca-y-sumo-su-tercer-subcampeonato-continental-seguido/": {
+      "account": "sports",
+      "title": "ATLÉTICO MINEIRO PERDIÓ 2-0 CON BOCA Y SUMÓ SU TERCER SUBCAMPEONATO CONTINENTAL SEGUIDO",
+      "dueAt": "2026-11-22T03:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0252a1846b0ee90753c2f8",
+      "createdAt": "2026-11-22T02:25:37.622Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-campeon-de-la-sudamericana-2026-le-gano-2-0-a-atletico-mineiro-en-barranquilla/": {
+      "account": "sports",
+      "title": "¡BOCA CAMPEÓN DE LA SUDAMERICANA 2026! LE GANÓ 2-0 A ATLÉTICO MINEIRO EN BARRANQUILLA",
+      "dueAt": "2026-11-22T02:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0252a0846b0ee90753c2ba",
+      "createdAt": "2026-11-22T02:25:36.131Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-campeon-20261121-2128/": {
+      "account": "sports",
+      "title": "BOCA CAMPEÓN: GANÓ 10 MILLONES DE DÓLARES POR LA SUDAMERICANA Y SUPERÓ LOS 16 MILLONES EN PREMIOS",
+      "dueAt": "2026-11-22T02:25:32.307Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b02529cc72676f5e9f8f18d",
+      "createdAt": "2026-11-22T02:25:34.417Z"
+    },
     "https://ranasports.com.ar/futbol/independiente-prepara-los-regresos-de-montiel-y-palais-para-visitar-a-argentinos/": {
       "account": "main",
       "title": "INDEPENDIENTE PREPARA LOS REGRESOS DE MONTIEL Y PALAIS PARA VISITAR A ARGENTINOS",
@@ -4776,41 +4808,6 @@
       "bufferPostId": "6acf4338ff1b8c5cdfcada1d",
       "createdAt": "2026-10-14T08:54:16.761Z",
       "formattedFor": "https://ranasports.com.ar/futbol/boca-cayo-1-0-ante-vasco-y-debera-remontar-la-serie-en-brasil/"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmdXRib2wgaW50ZXJuYWNpb25hbCIsMTc5MTkzNjI0MDAwMCwiTEFVVEFSTyBNQVJUw41ORVogTUFSQ8OTIERPUyBHT0xFUywgUEVSTyBJTlRFUiBDQVnDkyA0LTMgQU5URSBCUlVKQVMiXQ": {
-      "account": "sports",
-      "title": "LAUTARO MARTÍNEZ MARCÓ DOS GOLES, PERO INTER CAYÓ 4-3 ANTE BRUJAS",
-      "dueAt": "2026-10-14T08:49:21.270Z",
-      "mode": "shareNow",
-      "bufferPostId": "6acf421199805204daf653ed",
-      "createdAt": "2026-10-14T08:49:23.436Z"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJjb3BhIHN1ZGFtZXJpY2FuYSIsMTc5MTk0ODU0MDAwMCwiQU5EUsOJUyBHw5NNRVogVklPIERPUyBBTUFSSUxMQVMgRU4gU0VHVU5ET1MgWSBERUrDkyBBIFZBU0NPIENPTiBESUVaIl0": {
-      "account": "sports",
-      "title": "ANDRÉS GÓMEZ VIO DOS AMARILLAS EN SEGUNDOS Y DEJÓ A VASCO CON DIEZ",
-      "dueAt": "2026-10-14T11:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acf3716f847f2ad9ecad8df",
-      "createdAt": "2026-10-14T08:02:30.796Z",
-      "formattedFor": "https://ranasports.com.ar/futbol/andres-gomez-vio-dos-amarillas-en-segundos-y-dejo-a-vasco-con-diez/"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJib3hlbyIsMTc5MTk2NDUwMDAwMCwiTVVSScOTIEVMIFJPw5FBIENBU1RSTyBBIExPUyA1OSBBw5FPUzogTFVUTyBFTiBFTCBCT1hFTyBBUkdFTlRJTk8iXQ": {
-      "account": "sports",
-      "title": "MURIÓ EL ROÑA CASTRO A LOS 59 AÑOS: LUTO EN EL BOXEO ARGENTINO",
-      "dueAt": "2026-10-14T09:50:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acf3716848c31c80965f9ec",
-      "createdAt": "2026-10-14T08:02:30.214Z",
-      "priorityRescheduledAt": "2026-10-14T08:55:54.937Z",
-      "formattedFor": "https://ranasports.com.ar/boxeo/murio-el-rona-castro/"
-    },
-    "https://ranasports.com.ar/noticia.html?n=WyJmMSIsMTc5MTk0ODU0MDAwMCwiTEEgRsOTUk1VTEEgMSBQUkVQQVJBIEVMIFJFR1JFU08gREUgTE9TIE1PVE9SRVMgVjggUEFSQSAyMDMwIl0": {
-      "account": "f1",
-      "title": "LA FÓRMULA 1 PREPARA EL REGRESO DE LOS MOTORES V8 PARA 2030",
-      "dueAt": "2026-10-14T05:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acf0b87848c31c8095d95fd",
-      "createdAt": "2026-10-14T04:56:39.854Z"
     }
   },
   "nextAt": {
