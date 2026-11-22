@@ -1,18 +1,8 @@
-RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA — 22/11/2026 ARG
-Sincronización solicitada después de relectura verificada del Google Sheet.
-Ventana revisada: 21/11/2026 23:00 a 22/11/2026 13:12 hora argentina; últimas noticias previas reales a las 02:48 del 22/11/2026. Se consultaron además hechos de la noche previa para evitar duplicados.
-Altas realmente escritas y releídas: 9, rango Noticias!A5130:S5138. Columnas A=SI; B/C primera difusión, D categoría, E título, F tres párrafos, G/J fuente, H/L fotografía y crédito; R=FALSE.
-Fotografías: 9 URLs directas y créditos seleccionados; la carga HTTP/MIME de las 9 NO pudo comprobarse; O/P dice SIN VERIFICACIÓN TÉCNICA. Embeds oportunistas K: 0.
-Títulos y nuevas noticias:
-- HAMILTON CUESTIONÓ LA SANCIÓN EN LAS VEGAS TRAS SU ROCE CON LECLERC
-- CHECO PÉREZ RECIBIÓ CINCO PUESTOS DE SANCIÓN PARA QATAR POR EL CHOQUE CON CAMARA
-- COLAPINTO EXPLICÓ SU SEXTO PUESTO EN LAS VEGAS: CAMBIÓ EL RITMO CON LOS NEUMÁTICOS MEDIOS
-- RUSSELL EXPLICÓ EL ERROR QUE LE COSTÓ EL PODIO EN LAS VEGAS: TERMINÓ NOVENO
-- HADJAR PERDIÓ OTRO PUESTO EN LAS VEGAS POR UNA SANCIÓN DESPUÉS DE LA CARRERA
-- VASSEUR CUESTIONÓ EL CHOQUE ENTRE HAMILTON Y LECLERC: «ES UNA FALTA DE RESPETO»
-- BOCA TIENE PREVISTO LLEGAR A EZEIZA ESTA NOCHE DESPUÉS DEL TÍTULO EN COLOMBIA
-- ARRUABARRENA ANTICIPÓ UN EQUIPO MIXTO DE BOCA CONTRA INDEPENDIENTE RIVADAVIA
-- BRIATORE ELOGIÓ A COLAPINTO Y GASLY TRAS EL MEJOR RESULTADO DE ALPINE EN 2026
-Última noticia nueva por fecha/hora: BRIATORE ELOGIÓ A COLAPINTO Y GASLY... (22/11/2026 10:48 ARG).
-SHA de pulso anterior: 6ffc65bf3881c2fc63fa2d48f70fba14618e7149
-No tocar workflows ni news-live.csv manualmente. Recalcular el feed público desde la planilla.
+RANASPORTS — RADAR 1 — ACTUALIZACIÓN EXTRAORDINARIA POR NOTICIA OMITIDA — 22/11/2026 ARG
+Nota escrita y verificada en Google Sheets — Noticias!A5139:S5139.
+Título: VERSTAPPEN CRUZÓ A RUSSELL TRAS LAS VEGAS: «ESTÁ MUY POR DEBAJO DE MI NIVEL»
+Fecha y hora de primera publicación confirmada en F1: 22/11/2026 05:59 hora Argentina (08:59 UTC).
+Categoría: FÓRMULA 1. Nueva nota real: declaraciones posteriores de Verstappen sobre George Russell. No duplicar resultado del GP ni análisis del accidente de Russell.
+Publicación en A=SI, cuerpo de 3 párrafos en F, enlace original F1 en G/J, fotografía en H y crédito en L, embed X aportado por el lector en K: https://x.com/alcaudon7/status/2124458648701395379. R=FALSE.
+Foto H seleccionada de página oficial Fórmula 1; prueba técnica HTTP/MIME pendiente y asentada en O/P.
+Registro verificado tras la escritura. Este commit solicita una sola sincronización del feed desde Google Sheets, sin alterar noticias anteriores, workflow ni news-live.csv.
