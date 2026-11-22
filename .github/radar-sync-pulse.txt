@@ -1,144 +1,18 @@
-RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA — 21/11/2026 ARG
-Motivo: recuperar noticias desde última tanda cargada el 20/11/2026 (última marca cronológica anterior 17:39 ARG) hasta mañana del 21/11.
-Ventana cubierta: 20/11/2026 17:39 a 21/11/2026 09:53 ARG; búsquedas con solapamiento para duplicados.
-Altas reales verificadas y releídas: 19 (3 del 20/11 y 16 del 21/11).
-Rango: Noticias!5062:5080. A=SI; cuerpos dos párrafos; G/J fuente; R=FALSE. Filas anteriores intactas.
-Títulos:
-- RUSSELL DOMINÓ LA FP3 DE LAS VEGAS Y COLAPINTO TERMINÓ QUINTO
-- VÉLEZ ELIMINÓ A BELGRANO POR PENALES Y SE METIÓ EN CUARTOS DEL CLAUSURA
-- COLAPINTO RECLAMÓ UNA SANCIÓN A SAINZ POR UNA MANIOBRA EN LA FP3 DE LAS VEGAS
-- BOCA DEFINE EL ONCE DE LA FINAL: BLANCO VUELVE Y ARANDA PELEA UN LUGAR
-- VERSTAPPEN HEREDÓ LA POLE EN LAS VEGAS TRAS LA PENALIZACIÓN DE ANTONELLI
-- COLAPINTO LARGARÁ NOVENO EN LAS VEGAS TRAS METERSE EN LA Q3
-- VERSTAPPEN RECONOCIÓ PROBLEMAS EN LA PRÁCTICA ANTES DE CONSEGUIR LA POLE
-- ARGENTINA QUEDÓ 0-2 ANTE JAPÓN EN EL ARRANQUE DE LA BILLIE JEAN KING CUP
-- CENTRAL ARGENTINO REMONTÓ ANTE VILLA CUBAS Y GANÓ 2-1 EN EL REGIONAL AMATEUR
-- FERRARI SE QUEDÓ SIN Q3 EN LAS VEGAS: LECLERC 11° Y HAMILTON 12°
-- BOCA JUEGA LA FINAL DE LA SUDAMERICANA ANTE ATLÉTICO MINEIRO EN BARRANQUILLA
-- SI BOCA GANA LA SUDAMERICANA JUGARÁ LA RECOPA Y PODRÍA CAMBIAR SU AGENDA
-- COLAPINTO DIJO QUE EL ALPINE ESTABA PARA MÁS Y CRITICÓ EL FRÍO DE LOS NEUMÁTICOS
-- ÁLEX MÁRQUEZ LIDERÓ LA FP2 DE PORTUGAL SOBRE PISTA MOJADA
-- RUSSELL CRITICÓ A VERSTAPPEN TRAS EL ROCE EN LAS VEGAS
-- EL TÍTULO DE BOCA PODRÍA ABRIR CUPOS INTERNACIONALES PARA OTROS CLUBES ARGENTINOS
-- INDEPENDIENTE VISITA A ARGENTINOS EN LA PATERNAL POR UN LUGAR EN CUARTOS
-- BEZZECCHI LOGRÓ LA POLE EN PORTIMÃO CON RÉCORD Y MÁRQUEZ FUE SEGUNDO
-- ALCARAZ-SHELTON Y ZVEREV-MEDVEDEV DEFINEN LOS FINALISTAS DE TURÍN
-Última nota cronológica: ALCARAZ-SHELTON Y ZVEREV-MEDVEDEV DEFINEN LOS FINALISTAS DE TURÍN — 21/11/2026 09:53 ARG, fila 5080.
-Disciplinas: fútbol argentino (Boca, Vélez, Independiente), ascenso, F1, MotoGP y tenis.
-Fuentes: Fórmula 1, TyC Sports, DeporTV, Grande Prêmio, Reuters, TN, Doble Amarilla, Solo Ascenso, MotoGP, ABC Color/EFE.
-Imágenes H: 12 URL seleccionadas sin verificación técnica; 7 sin URL directa pendiente. No falsificar o reciclar imágenes ajenas.
-Embeds K oportunistas: 2 links individuales X (Colapinto y MotoGP); el radar de embeds completará otras vacías.
-Candidatos publicados: 19; no se tocaron duplicados anteriores. Pendientes potenciales: resumen de rugby Los Pumas-Francia, Primera Nacional Reducido y nuevas noticias que aparezcan posteriormente.
-Total acumulado en planilla con marca temporal últimas 24 h al corte 21/11 09:57: 31.
-Para alimentar el sitio: ejecutar Sync RanaSports news feed y verificar aparición y cronología pública. No editar news-live.csv manualmente.
-Estado inicial: planilla escrita y verificada; validación final de sincronización a cargo del pipeline GitHub.
-
-
-RANASPORTS — REVISIÓN EXTRAORDINARIA DE EMBEDS — 21/11/2026 ARG
-Se verificaron 16 noticias con URL individual X o YouTube en K, de 19, filas Noticias!5062:5080.
-Pendientes sin enlace relacionado y verificable: 5073, 5075, 5077.
-Se conservaron los dos embeds anteriores, 5067 y 5079; se incorporaron catorce nuevos. Algunos posts corresponden a material de contexto del mismo hecho y no a imágenes o video del resultado exacto.
-Acción: actualizar el feed desde el CSV publicado de Google Sheets sin alterar las noticias, las horas ni los workflows.
-
-
-RANASPORTS — CORRECCIÓN EXTRAORDINARIA IMÁGENES 21/11/2026
-Filas verificadas en la hoja Noticias: 4980-5080. No quedan celdas H vacías en esa ventana. Corregidas 11 filas: 5051, 5062, 5063, 5066, 5068, 5069, 5071, 5075, 5076, 5079, 5080.
-7 notas publicadas sin foto recibieron imagen de archivo o imagen del acontecimiento. Otras 4 URLs con respaldo insuficiente fueron reemplazadas por fotografías encontradas en fuentes periodísticas identificables.
-Cuando corresponde, la columna L indica claramente ARCHIVO y año. Los enlaces son concretos; prueba HTTP y render visual del navegador todavía pendientes, por eso O/P no afirman validación técnica.
-No cambiar B/C ni titulares, no tocar embeds. Ejecutar Sync RanaSports news feed para publicar correcciones de fotos.
-
-
-RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA — 21/11/2026 ARG
-Origen: última noticia REAL publicada en planilla, fila 5080, 21/11/2026 09:53 ARG.
-Ventana editorial: 21/11/2026 09:53 hasta tarde del mismo día; revisión de solapamiento y omisiones de la mañana.
-Altas reales verificadas: 9, filas Noticias!5081:5089.
-Titulares:
-- INDEPENDIENTE PREPARA LOS REGRESOS DE MONTIEL Y PALAIS PARA VISITAR A ARGENTINOS — 08:47
-- LOS PUMAS VISITAN A FRANCIA CON EL TERCER PUESTO DEL NATIONS CHAMPIONSHIP EN JUEGO — 08:50
-- BOCA CONFÍA EN QUE ASCACÍBAR JUEGUE LA FINAL PESE A ENTRENARSE APARTE — 11:54
-- BEZZECCHI GANÓ LA SPRINT DE PORTUGAL Y UNA CAÍDA FRENÓ LA CONSAGRACIÓN DE MÁRQUEZ — 12:47
-- ALCARAZ REMONTÓ A SHELTON Y SE METIÓ EN LA FINAL DEL ATP FINALS DE TURÍN — 13:04
-- APRILIA SE CONSAGRÓ CAMPEÓN MUNDIAL DE EQUIPOS DE MOTOGP EN PORTUGAL — 13:05
-- KEVIN VALLEJOS BUSCA DAR EL GOLPE ANTE STERLING EN LA UFC DE QATAR — 05:39 (omisión recuperada)
-- MANCHESTER CITY EMPATÓ CON FULHAM Y SUMÓ OTRO TROPIEZO EN LA PREMIER LEAGUE — 11:43
-- LEEDS GOLEÓ 4-1 AL CHELSEA CON UN DOBLETE DE OKAFOR Y SORPRENDIÓ EN STAMFORD BRIDGE — 13:58
-Última nota CRONOLÓGICA: LEEDS GOLEÓ 4-1 AL CHELSEA, fila 5089, 21/11/2026 13:58 ARG.
-Verificación: 9/9 con A=SI, B/C real, título E, cuerpo F de 2 párrafos, artículo G, imagen H no vacía, fuente J, crédito L, bloqueo R=FALSE.
-Fotos H: 9 URLs concretas seleccionadas con fuente y crédito; ninguna celda H vacía. Archivos identificados por año. Accesibilidad HTTP/carga en la web NO comprobadas aún.
-Embeds K oportunistas: 0; dejar al radar de embeds prioritarios.
-Fuentes: El Crack Deportivo, TN, LM Neuquén, Reuters, MotoGP, Motorsport.com, Leeds United, UFC; contraste con medios oficiales y alternativos.
-Candidatas escritas/releídas: 9. Solapamiento/recuperación: Independiente, Los Pumas y Kevin Vallejos. No se modificaron filas históricas.
-Estado de salida: nuevas filas en Google Sheets confirmadas, sincronización de GitHub solicitada con este pulso único.
-SHA del pulso anterior: a2d24266d95722549d89a61eb0746828696852c4
-
-
-RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA 21/11/2026 ARG
-Origen: última fila real 5089, última marca cronológica 21/11/2026 13:58 ART; recuperación con dos horas de solapamiento.
-Publicaciones reales y releídas en Google Sheets Noticias!5090:5100: 11 (ocho primer lote, tres adicionales).
-Títulos:
-- 5090: INDEPENDIENTE SUFRIÓ LA BAJA DEL CHIMY ÁVILA EN LA ENTRADA EN CALOR ANTE ARGENTINOS
-- 5091: BOCA CONFIRMÓ A TOMÁS ARANDA COMO TITULAR PARA LA FINAL DE LA SUDAMERICANA
-- 5092: EQUI FERNÁNDEZ MARCÓ EN EL 4-0 DE BAYER LEVERKUSEN SOBRE PADERBORN
-- 5093: LOS PUMAS PERDIERON A CHOCOBARES ANTES DE ENFRENTAR A FRANCIA Y ENTRÓ PICCARDO
-- 5094: KEVIN VALLEJOS VENCIÓ A ALJAMAIN STERLING EN QATAR Y PIDIÓ PELEAR POR EL TÍTULO
-- 5095: ZVEREV ELIMINÓ A MEDVEDEV Y JUGARÁ LA FINAL DEL ATP FINALS CONTRA ALCARAZ
-- 5096: NAVAJO STIRLING NOQUEÓ A JIRI PROCHAZKA EN EL SEGUNDO ROUND EN UFC QATAR
-- 5097: INGLATERRA GOLEÓ 37-12 A NUEVA ZELANDA Y SE METIÓ EN LA PELEA POR LA FINAL
-- 5098: IRLANDA VENCIÓ 20-17 A SUDÁFRICA, QUE IGUAL AVANZÓ A LA FINAL DEL NATIONS CHAMPIONSHIP
-- 5099: NEWCASTLE REMONTÓ ANTE ARSENAL, PERO MADUEKE SELLÓ EL 2-2 EN ST JAMES' PARK
-- 5100: BORUSSIA DORTMUND VENCIÓ 1-0 A GLADBACH CON UN GOLAZO DE NMECHA Y SUBIÓ A LA PUNTA
-Disciplinas: Independiente, Boca, Bundesliga, Premier League, tenis, rugby y UFC.
-Fechas/horarios en B/C de acontecimiento o primera difusión verificada, no tiempos artificiales de corrida.
-En las 11 filas: A=SI, F de tres párrafos, fuente G/J, foto H y crédito L, R=FALSE. Siete fotos con cobertura reciente y otras rotuladas ARCHIVO con año cuando corresponde. URLs directas identificadas; comprobación técnica HTTP/MIME y render del portal pendientes.
-Dos embeds K oportunistas, el radar de embeds revisará el resto.
-Total en planilla con marca temporal últimas 24 h al corte de la corrida: 39.
-Pendientes: resultados definitivos de Independiente-Argentinos y Francia-Los Pumas; no publicar marcador sin confirmación. No editar notas históricas.
-SHA de HEAD en GitHub al preparar pulso: 8db1d77e712da0de9ea3e29e5ce1641bc1e9f6af.
-Solicitar Sync RanaSports news feed y verificar sincronización en la publicación externa. No modificar workflow ni news-live.csv manualmente.
-
-RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA FÚTBOL, 21/11/2026 ARG
-Origen: última fila publicada 5100 de corrida previa. Altas reales y releídas: 10, rango Noticias!5101:5110. A=SI; 3 párrafos F; G/J URLs a fuentes; H foto no vacía; L crédito; R=FALSE. No se modificaron filas anteriores.
-Títulos:
-- 5101: INDEPENDIENTE VENCIÓ 2-1 A ARGENTINOS CON DOBLETE DE MEZA Y AVANZÓ A CUARTOS
-- 5102: BARRACAS CENTRAL ELIMINÓ 1-0 A DEFENSA Y JUSTICIA CON UN CABEZAZO DE BRIASCO
-- 5103: ATLANTA GANÓ 1-0 EN BOLÍVAR Y SACÓ VENTAJA EN LOS CUARTOS DEL REDUCIDO
-- 5104: RIVER PREPARA CUATRO JUVENILES PARA ENFRENTAR A LANÚS Y NO TENDRÁ A MONTIEL
-- 5105: ARGENTINA SUB-17 ENFRENTARÁ A MOZAMBIQUE PARA RECUPERARSE EN EL MUNDIAL
-- 5106: REAL MADRID REMONTÓ AL CELTA CON UN GOL DE ESPÍ Y GANÓ 2-1 PESE AL PENAL ERRADO DE MBAPPÉ
-- 5107: SEVILLA EMPATÓ 1-1 CON BETIS EN EL DESCUENTO GRACIAS A KIKE SALAS
-- 5108: TOTTENHAM VENCIÓ 2-0 A IPSWICH CON UN GOL HISTÓRICO DEL JUVENIL WILLIAMS-BARNETT
-- 5109: PSG GANÓ 3-2 EN NIZA, PERO LA LESIÓN DE DOUÉ ENCENDIÓ LAS ALARMAS
-- 5110: VALENCIA VENCIÓ 1-0 AL RAYO CON UN CABEZAZO DE COPETE Y SALIÓ DEL DESCENSO
-Categorías: Independiente, Barracas Central, Atlanta, River Plate, Selección Argentina Sub-17, La Liga, Premier League, Ligue 1.
-Se sumaron resultados confirmados del Clausura y del Reducido, más partidos europeos y previas. No se publicó resultado final de Boca vs Atlético Mineiro sin cierre verificado.
-10 URLs de imágenes H con crédito, pero carga visual HTTP/MIME no verificada; estado O/P no afirma validación técnica. 1 embed oportunista de YouTube en fila 5102; otras 9 K vacías a cargo del radar de embeds posterior.
-HEAD GitHub anterior al pulso: 82b99ff4c3460e884ff2cf7d9f1b0ad261472834.
-Solicitar UNA sola sincronización automática de news feed y sitemap a partir del Sheet; no editar workflow ni news-live.csv manualmente. Confirmación del frontend aún pendiente.
-
-RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA BOCA CAMPEÓN — 21/11/2026 ARG
-Origen: última alta real anterior fila 5110, 21/11/2026 15:14 (última marca cronológica anterior 19:06). Cobertura enfocada en la final Boca-Mineiro 21/11/2026 y resultado Los Pumas-Francia pendiente.
-Altas efectivamente escritas y verificadas: 9, Noticias!5111:5119. Siete centradas en Boca campeón, una sobre Atlético Mineiro y una de rugby.
-Todas con A=SI, B/C comprobados (primera difusión/horario resultado), F tres párrafos >150 palabras, G/J fuente, H fotografía identificada, L crédito, R=FALSE. Fotografías HTTP/MIME no comprobadas técnicamente; se usaron imágenes concretas de fuentes con datos. No se alteraron notas previas.
-Embeds K oportunistas: dos publicaciones individuales de SportsCenter correspondientes a goles de Ascacíbar y Merentiel. Las otras siete quedan disponibles para radar posterior.
-Títulos:
-- 5111: ¡BOCA CAMPEÓN DE LA SUDAMERICANA 2026! LE GANÓ 2-0 A ATLÉTICO MINEIRO EN BARRANQUILLA
-- 5112: BOCA CAMPEÓN: ASCACÍBAR MARCÓ DE VOLEA Y ABRIÓ EL CAMINO A LA TERCERA SUDAMERICANA
-- 5113: BOCA CAMPEÓN: MERENTIEL PASÓ DEL GOL ERRADO A LAS LÁGRIMAS TRAS EL 2-0 AL MINEIRO
-- 5114: BOCA CAMPEÓN: TERCERA SUDAMERICANA Y RÉCORD HISTÓRICO DESPUÉS DE 18 AÑOS
-- 5115: BOCA CAMPEÓN: JUGARÁ LA RECOPA 2027 ANTE EL GANADOR DE ESTUDIANTES Y PALMEIRAS
-- 5116: BOCA CAMPEÓN: LA ESTRATEGIA DE ARRUABARRENA PARA SUPERAR AL MINEIRO EN LA FINAL
-- 5117: ATLÉTICO MINEIRO PERDIÓ 2-0 CON BOCA Y SUMÓ SU TERCER SUBCAMPEONATO CONTINENTAL SEGUIDO
-- 5118: BOCA CAMPEÓN: GANÓ 10 MILLONES DE DÓLARES POR LA SUDAMERICANA Y SUPERÓ LOS 16 MILLONES EN PREMIOS
-- 5119: LOS PUMAS CAYERON 45-17 ANTE FRANCIA Y JUGARÁN CONTRA ESCOCIA EN TWICKENHAM
-Fuentes: UOL, Folha, LA NACION, TN, Unión Argentina de Rugby, DeporTV, TyC Sports. Se evitaron duplicados del resumen final: cada pieza aborda goles/protagonistas/antecedente histórico/Recopa/táctica/premio/impacto en rival.
-Última noticia cronológica del lote: BOCA CAMPEÓN: GANÓ 10 MILLONES DE DÓLARES POR LA SUDAMERICANA Y SUPERÓ LOS 16 MILLONES EN PREMIOS — 21/11/2026 21:28 ARG (fila 5118).
-HEAD GitHub antes del pulso: f31e07d7fb6ef462ca1114d15aa5f8c80a0fd99f.
-Disparar Sync RanaSports news feed desde Google Sheets y verificar feed/portal. No editar workflow ni news-live.csv a mano.
-
-RANASPORTS — EMBEDS PRIORITARIOS — EXTRAORDINARIA 21/11/2026 22:00 ARG
-Último lote Radar 1: Noticias!5111:5119. Todas las 9 K releídas y completas. Había 2 K existentes (goles Ascacíbar y Merentiel); se agregaron 7 K nuevas: 5111, 5114, 5115, 5116, 5117, 5118, 5119.
-Material total: 4 posts individuales de X (dos anteriores de SportsCenter; uno de Paredes ovacionado y uno oficial de Los Pumas) y 5 imágenes complementarias distintas de H.
-Imágenes complementarias: cobertura de Boca en Reuters/Infobae; trofeo Recopa de archivo en TyC Sports; Arruabarrena con Merentiel en Reuters/Infobae; final Mineiro-Boca en Gazeta Esportiva; placa de premios en Infobae.
-Todo K fue escrito con updateCells limitado a una celda, respetando A=SI y R=FALSE, sin tocar B/C/E/F/G/H/J ni filas antiguas.
-URLs precisas encontradas en fuentes; comprobación del render HTTP/MIME de las imágenes y reproducción de X no realizada.
-Solicitar sincronización de news-feed desde Google Sheets para reflejar siete nuevos embeds en el portal; no alterar news-live.csv manualmente ni los workflows.
+RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA — 22/11/2026 ARG
+Ventana de auditoría: desde la última noticia real previa (21/11/2026 22:29 ARG), con recuperación de hechos omitidos desde 21/11/2026 19:38 y cobertura hasta 22/11/2026 02:48 ARG.
+Altas nuevas reales en Google Sheets: 9, filas Noticias!5121:5129 (A=SI; B/C horas de primera difusión; G/J fuentes originales; H/L fotografía y crédito; R=FALSE).
+Todas las altas verificadas por relectura: título, 3 párrafos, fecha, hora, fuente, imagen y crédito.
+Fotos: 9 URL directas seleccionadas; carga HTTP/MIME no comprobada en este entorno; indicadas como SIN VERIFICACIÓN TÉCNICA en O/P. Embeds oportunistas K: 0, radar posterior puede buscarlos.
+Noticias publicadas en últimas 24 h en la planilla al cierre: 56 (incluye 9 nuevas).
+Última noticia por B+C: COLAPINTO FUE SEXTO EN LAS VEGAS Y ALPINE METIÓ SUS DOS AUTOS ENTRE LOS SEIS PRIMEROS — 22/11/2026 02:48 ARG (misma marca temporal verificada para la victoria de Verstappen).
+Títulos de altas:
+- MORÓN EMPATÓ 0-0 CON COLÓN EN SANTA FE Y DEFINIRÁ EL REDUCIDO EN EL OESTE
+- TALA DERROTÓ 25-22 A NEWMAN Y SE CONSAGRÓ CAMPEÓN DEL NACIONAL DE CLUBES
+- ARRUABARRENA CELEBRÓ LA SUDAMERICANA, PERO PUSO EL FOCO EN INDEPENDIENTE RIVADAVIA
+- DEL POTRO FESTEJÓ EN BARRANQUILLA JUNTO A LOS JUGADORES DE BOCA CAMPEÓN
+- BOCA POSTERGÓ SU REGRESO A ARGENTINA TRAS EL DESMAYO DE LEANDRO PAREDES
+- GIMNASIA DE JUJUY VENCIÓ 1-0 A DEPORTIVO MADRYN Y SACÓ VENTAJA EN EL REDUCIDO
+- PAREDES PUBLICÓ UN MENSAJE DESDE LA CLÍNICA Y LLEVÓ TRANQUILIDAD A LOS HINCHAS DE BOCA
+- VERSTAPPEN GANÓ EL GRAN PREMIO DE LAS VEGAS POR DELANTE DE NORRIS Y PIASTRI
+- COLAPINTO FUE SEXTO EN LAS VEGAS Y ALPINE METIÓ SUS DOS AUTOS ENTRE LOS SEIS PRIMEROS
+No sobrescribir noticias históricas. Se solicita una única sincronización del feed con este pulso; no tocar workflow ni CSV manualmente.
