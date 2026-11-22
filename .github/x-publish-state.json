@@ -1,6 +1,22 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/gimnasia-y-esgrima-de-jujuy/gimnasia-de-jujuy-vencio-1-0-a-deportivo-madryn-y-saco-ventaja-en-el-reducido/": {
+      "account": "sports",
+      "title": "GIMNASIA DE JUJUY VENCIÓ 1-0 A DEPORTIVO MADRYN Y SACÓ VENTAJA EN EL REDUCIDO",
+      "dueAt": "2026-11-22T15:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b030835d864a01105d33f16",
+      "createdAt": "2026-11-22T15:20:21.881Z"
+    },
+    "https://ranasports.com.ar/futbol/paredes-publico-un-mensaje-desde-la-clinica-y-llevo-tranquilidad-a-los-hinchas-de-boca/": {
+      "account": "sports",
+      "title": "PAREDES PUBLICÓ UN MENSAJE DESDE LA CLÍNICA Y LLEVÓ TRANQUILIDAD A LOS HINCHAS DE BOCA",
+      "dueAt": "2026-11-22T15:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b030832cc364169c163ce59",
+      "createdAt": "2026-11-22T15:20:18.131Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-fue-sexto-en-las-vegas-y-alpine-metio-sus-dos-autos-entre-los-seis-primeros/": {
       "account": "f1",
       "title": "COLAPINTO FUE SEXTO EN LAS VEGAS Y ALPINE METIÓ SUS DOS AUTOS ENTRE LOS SEIS PRIMEROS",
@@ -4790,22 +4806,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad15217fb64fffcf1a24c90",
       "createdAt": "2026-10-15T22:22:15.386Z"
-    },
-    "https://ranasports.com.ar/f1/alpine-presento-a-mike-elliott-para-potenciar-el-auto-de-colapinto-y-gasly/": {
-      "account": "f1",
-      "title": "ALPINE PRESENTÓ A MIKE ELLIOTT PARA POTENCIAR EL AUTO DE COLAPINTO Y GASLY",
-      "dueAt": "2026-10-15T20:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad1252a8ff147e7e6f5c744",
-      "createdAt": "2026-10-15T19:10:34.338Z"
-    },
-    "https://ranasports.com.ar/f1/briatore-respaldo-a-colapinto-tras-su-pedido-contra-el-odio-en-redes/": {
-      "account": "f1",
-      "title": "BRIATORE RESPALDÓ A COLAPINTO TRAS SU PEDIDO CONTRA EL ODIO EN REDES",
-      "dueAt": "2026-10-15T19:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad12529d14a253d4e0bab8e",
-      "createdAt": "2026-10-15T19:10:33.930Z"
     }
   },
   "nextAt": {
