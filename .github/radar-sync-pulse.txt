@@ -134,3 +134,11 @@ Fuentes: UOL, Folha, LA NACION, TN, Unión Argentina de Rugby, DeporTV, TyC Spor
 Última noticia cronológica del lote: BOCA CAMPEÓN: GANÓ 10 MILLONES DE DÓLARES POR LA SUDAMERICANA Y SUPERÓ LOS 16 MILLONES EN PREMIOS — 21/11/2026 21:28 ARG (fila 5118).
 HEAD GitHub antes del pulso: f31e07d7fb6ef462ca1114d15aa5f8c80a0fd99f.
 Disparar Sync RanaSports news feed desde Google Sheets y verificar feed/portal. No editar workflow ni news-live.csv a mano.
+
+RANASPORTS — EMBEDS PRIORITARIOS — EXTRAORDINARIA 21/11/2026 22:00 ARG
+Último lote Radar 1: Noticias!5111:5119. Todas las 9 K releídas y completas. Había 2 K existentes (goles Ascacíbar y Merentiel); se agregaron 7 K nuevas: 5111, 5114, 5115, 5116, 5117, 5118, 5119.
+Material total: 4 posts individuales de X (dos anteriores de SportsCenter; uno de Paredes ovacionado y uno oficial de Los Pumas) y 5 imágenes complementarias distintas de H.
+Imágenes complementarias: cobertura de Boca en Reuters/Infobae; trofeo Recopa de archivo en TyC Sports; Arruabarrena con Merentiel en Reuters/Infobae; final Mineiro-Boca en Gazeta Esportiva; placa de premios en Infobae.
+Todo K fue escrito con updateCells limitado a una celda, respetando A=SI y R=FALSE, sin tocar B/C/E/F/G/H/J ni filas antiguas.
+URLs precisas encontradas en fuentes; comprobación del render HTTP/MIME de las imágenes y reproducción de X no realizada.
+Solicitar sincronización de news-feed desde Google Sheets para reflejar siete nuevos embeds en el portal; no alterar news-live.csv manualmente ni los workflows.
