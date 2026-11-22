@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-fue-sexto-en-las-vegas-y-alpine-metio-sus-dos-autos-entre-los-seis-primeros/": {
+      "account": "f1",
+      "title": "COLAPINTO FUE SEXTO EN LAS VEGAS Y ALPINE METIÓ SUS DOS AUTOS ENTRE LOS SEIS PRIMEROS",
+      "dueAt": "2026-11-22T07:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b029122d5eabfb8cc8ac852",
+      "createdAt": "2026-11-22T06:52:18.678Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-campeon/": {
+      "account": "sports",
+      "title": "BOCA CAMPEÓN: ASCACÍBAR MARCÓ DE VOLEA Y ABRIÓ EL CAMINO A LA TERCERA SUDAMERICANA",
+      "dueAt": "2026-11-22T07:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b02912202479690922d2698",
+      "createdAt": "2026-11-22T06:52:18.133Z"
+    },
+    "https://ranasports.com.ar/rugby/tala-derroto-25-22-a-newman-y-se-consagro-campeon-del-nacional-de-clubes/": {
+      "account": "sports",
+      "title": "TALA DERROTÓ 25-22 A NEWMAN Y SE CONSAGRÓ CAMPEÓN DEL NACIONAL DE CLUBES",
+      "dueAt": "2026-11-22T07:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b029120d864a01105a2449c",
+      "createdAt": "2026-11-22T06:52:16.911Z"
+    },
+    "https://ranasports.com.ar/futbol/susto-en-boca/": {
+      "account": "sports",
+      "title": "SUSTO EN BOCA: LEANDRO PAREDES SE DESMAYÓ EN PLENA ENTREVISTA TRAS SER CAMPEÓN",
+      "dueAt": "2026-11-22T06:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b02912002479690922d2636",
+      "createdAt": "2026-11-22T06:52:16.318Z"
+    },
+    "https://ranasports.com.ar/futbol/del-potro-festejo-en-barranquilla-junto-a-los-jugadores-de-boca-campeon/": {
+      "account": "sports",
+      "title": "DEL POTRO FESTEJÓ EN BARRANQUILLA JUNTO A LOS JUGADORES DE BOCA CAMPEÓN",
+      "dueAt": "2026-11-22T06:52:13.948Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b02911dd5eabfb8cc8ac780",
+      "createdAt": "2026-11-22T06:52:15.126Z"
+    },
+    "https://ranasports.com.ar/f1/verstappen-gano-el-gran-premio-de-las-vegas-por-delante-de-norris-y-piastri/": {
+      "account": "f1",
+      "title": "VERSTAPPEN GANÓ EL GRAN PREMIO DE LAS VEGAS POR DELANTE DE NORRIS Y PIASTRI",
+      "dueAt": "2026-11-22T06:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b02911d846b0ee90766d636",
+      "createdAt": "2026-11-22T06:52:13.503Z"
+    },
     "https://ranasports.com.ar/futbol/boca-campeon-20261121-2126/": {
       "account": "sports",
       "title": "BOCA CAMPEÓN: JUGARÁ LA RECOPA 2027 ANTE EL GANADOR DE ESTUDIANTES Y PALMEIRAS",
@@ -4758,57 +4806,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad12529d14a253d4e0bab8e",
       "createdAt": "2026-10-15T19:10:33.930Z"
-    },
-    "https://ranasports.com.ar/f1/un-companero-de-colapinto-podria-perder-su-licencia-por-un-conflicto-judicial/": {
-      "account": "f1",
-      "title": "UN COMPAÑERO DE COLAPINTO PODRÍA PERDER SU LICENCIA POR UN CONFLICTO JUDICIAL",
-      "dueAt": "2026-10-15T15:05:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad0eb2a4ed96805c7c1b525",
-      "createdAt": "2026-10-15T15:03:07.150Z"
-    },
-    "https://ranasports.com.ar/f1/colapinto-pidio-que-cesen-los-mensajes-de-odio/": {
-      "account": "f1",
-      "title": "COLAPINTO PIDIÓ QUE CESEN LOS MENSAJES DE ODIO: “NO ME AYUDAN NI A MÍ NI A MI FUTURO”",
-      "dueAt": "2026-10-15T04:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad059c2e09e6bdb27e314b0",
-      "createdAt": "2026-10-15T04:42:42.992Z"
-    },
-    "https://ranasports.com.ar/f1/bottas-revelo-que-tiene-un-williams-de-formula-1-en-el-living-de-su-casa/": {
-      "account": "f1",
-      "title": "BOTTAS REVELÓ QUE TIENE UN WILLIAMS DE FÓRMULA 1 EN EL LIVING DE SU CASA",
-      "dueAt": "2026-10-14T20:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acfe241f69efaca8e698df9",
-      "createdAt": "2026-10-14T20:12:49.609Z"
-    },
-    "https://ranasports.com.ar/futbol/quique-sacco-presento-su-plan-para-presidir-independiente/": {
-      "account": "main",
-      "title": "QUIQUE SACCO PRESENTÓ SU PLAN PARA PRESIDIR INDEPENDIENTE",
-      "dueAt": "2026-10-14T17:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acfa4a895350f80b353dce8",
-      "createdAt": "2026-10-14T15:50:01.043Z",
-      "formattedFor": "https://ranasports.com.ar/futbol/quique-sacco-presento-su-plan-para-presidir-independiente/"
-    },
-    "https://ranasports.com.ar/futbol/chimy-avila-sigue-sin-goles-y-quedo-bajo-la-lupa-en-independiente/": {
-      "account": "main",
-      "title": "CHIMY ÁVILA SIGUE SIN GOLES Y QUEDÓ BAJO LA LUPA EN INDEPENDIENTE",
-      "dueAt": "2026-10-14T16:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acfa4a7926702757186e1db",
-      "createdAt": "2026-10-14T15:49:59.341Z",
-      "formattedFor": "https://ranasports.com.ar/futbol/chimy-avila-sigue-sin-goles-y-quedo-bajo-la-lupa-en-independiente/"
-    },
-    "https://ranasports.com.ar/futbol/barcelona-goleo-4-1-a-galatasaray-con-dos-asistencias-de-yamal/": {
-      "account": "sports",
-      "title": "BARCELONA GOLEÓ 4-1 A GALATASARAY CON DOS ASISTENCIAS DE YAMAL",
-      "dueAt": "2026-10-14T10:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6acf4be230bf4c96981e287e",
-      "createdAt": "2026-10-14T09:31:14.824Z",
-      "formattedFor": "https://ranasports.com.ar/futbol/barcelona-goleo-4-1-a-galatasaray-con-dos-asistencias-de-yamal/"
     }
   },
   "nextAt": {
