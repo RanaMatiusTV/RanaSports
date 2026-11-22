@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-21T23:47:24.680Z",
+  "updatedAt": "2026-11-22T06:44:22.753Z",
   "trends": [
     {
-      "query": "inter miami",
-      "startedAt": "2026-11-21T23:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "andrés matonte",
-      "startedAt": "2026-11-21T23:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "lozano boca",
-      "startedAt": "2026-11-21T23:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "lozano",
-      "startedAt": "2026-11-21T23:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "cuello san lorenzo",
-      "startedAt": "2026-11-21T23:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "herrera boca",
-      "startedAt": "2026-11-21T22:50:00.000Z",
+      "query": "bandera de las islas malvinas",
+      "startedAt": "2026-11-22T05:50:00.000Z",
       "volume": 1000
     },
     {
-      "query": "aranda",
-      "startedAt": "2026-11-21T22:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "del potro",
-      "startedAt": "2026-11-21T22:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "despedida de tevez",
-      "startedAt": "2026-11-21T22:50:00.000Z",
+      "query": "keanu reeves",
+      "startedAt": "2026-11-22T05:40:00.000Z",
       "volume": 500
     },
     {
-      "query": "di lollo",
-      "startedAt": "2026-11-21T22:50:00.000Z",
+      "query": "chris pratt",
+      "startedAt": "2026-11-22T05:30:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "f1 vote",
+      "startedAt": "2026-11-22T05:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "verstappen",
+      "startedAt": "2026-11-22T05:00:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "mckenna grace",
+      "startedAt": "2026-11-22T04:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "f1 hoy",
+      "startedAt": "2026-11-22T04:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "wanda nara",
+      "startedAt": "2026-11-22T04:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "formula 1",
+      "startedAt": "2026-11-22T04:10:00.000Z",
+      "volume": 20000
+    },
+    {
+      "query": "maxx morando",
+      "startedAt": "2026-11-22T04:10:00.000Z",
+      "volume": 100
     }
   ]
 }
