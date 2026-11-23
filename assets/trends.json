@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-23T01:40:18.594Z",
+  "updatedAt": "2026-11-23T09:47:42.280Z",
   "trends": [
     {
-      "query": "knicks - pacers",
-      "startedAt": "2026-11-23T01:10:00.000Z",
+      "query": "leonardo ponzio",
+      "startedAt": "2026-11-23T08:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "sofia jujuy",
-      "startedAt": "2026-11-23T01:00:00.000Z",
+      "query": "giuliano cerato",
+      "startedAt": "2026-11-23T03:40:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "sorteo quini 6",
+      "startedAt": "2026-11-23T03:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "fiesta nacional del sol",
+      "startedAt": "2026-11-23T03:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "warriors - celtics",
-      "startedAt": "2026-11-23T00:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "telekino",
-      "startedAt": "2026-11-23T00:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "jazz - mavericks",
-      "startedAt": "2026-11-23T00:50:00.000Z",
+      "query": "valentina salezzi",
+      "startedAt": "2026-11-23T02:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "jornada laboral",
-      "startedAt": "2026-11-23T00:20:00.000Z",
+      "query": "casa",
+      "startedAt": "2026-11-23T02:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "mario massaccesi",
+      "startedAt": "2026-11-23T02:20:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "niebla",
+      "startedAt": "2026-11-23T02:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "demanda colectiva",
-      "startedAt": "2026-11-23T00:20:00.000Z",
-      "volume": 100
+      "query": "cuartos de final liga argentina",
+      "startedAt": "2026-11-23T02:10:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "instituto - huracán",
-      "startedAt": "2026-11-23T00:10:00.000Z",
-      "volume": 50000
-    },
-    {
-      "query": "bulls - nuggets",
-      "startedAt": "2026-11-23T00:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "racing club",
-      "startedAt": "2026-11-23T00:10:00.000Z",
-      "volume": 1000
+      "query": "nazareno casero",
+      "startedAt": "2026-11-23T02:00:00.000Z",
+      "volume": 500
     }
   ]
 }
