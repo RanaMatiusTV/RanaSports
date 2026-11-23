@@ -1,8 +1,13 @@
-RANASPORTS — RADAR 1 — ACTUALIZACIÓN EXTRAORDINARIA POR NOTICIA OMITIDA — 22/11/2026 ARG
-Nota escrita y verificada en Google Sheets — Noticias!A5139:S5139.
-Título: VERSTAPPEN CRUZÓ A RUSSELL TRAS LAS VEGAS: «ESTÁ MUY POR DEBAJO DE MI NIVEL»
-Fecha y hora de primera publicación confirmada en F1: 22/11/2026 05:59 hora Argentina (08:59 UTC).
-Categoría: FÓRMULA 1. Nueva nota real: declaraciones posteriores de Verstappen sobre George Russell. No duplicar resultado del GP ni análisis del accidente de Russell.
-Publicación en A=SI, cuerpo de 3 párrafos en F, enlace original F1 en G/J, fotografía en H y crédito en L, embed X aportado por el lector en K: https://x.com/alcaudon7/status/2124458648701395379. R=FALSE.
-Foto H seleccionada de página oficial Fórmula 1; prueba técnica HTTP/MIME pendiente y asentada en O/P.
-Registro verificado tras la escritura. Este commit solicita una sola sincronización del feed desde Google Sheets, sin alterar noticias anteriores, workflow ni news-live.csv.
+RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA DE NOTICIAS — 23/11/2026 ARG
+Origen: Google Sheets 'RanaSports Noticias' / pestaña Noticias.
+ID: 12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4
+Bloque nuevo escrito y releído: Noticias!A5140:S5155 (16 filas); A=SI, R=FALSE en las 16.
+Todos los registros contienen fecha/hora B/C, categoría D, título E, 2 párrafos F, fuente G/J y URL de fotografía H con crédito L.
+Fotografías: 16 URL directas localizadas en medios acreditados y registradas en H, con crédito en L. Disponibilidad HTTP, MIME y renderización en el portal NO VERIFICADAS; las limitaciones figuran en O/P. Se identificó explícitamente ARCHIVO en fotografía de Ponzio (agosto 2026).
+Temas: Sub-17 ARG-Mozambique; Rosario Central-Gimnasia Mendoza; River-Lanús; Instituto-Huracán; Alcaraz campeón ATP Finals; Gimnasia Comodoro-Boca en LNB; Inter Miami-Columbus; F1 Academy Palmowski; comparación Colapinto-Gasly; Argentina-Japón Billie Jean King Cup; Tristán Suárez-Gimnasia y Tiro; diagnóstico confirmado de Doué/PSG; declaraciones de Ponzio; declaraciones de Almada; Scaloni podio ciclismo; Independiente Oliva-La Unión de Formosa.
+Ya existentes y no duplicados: Independiente 2-1 Argentinos, Boca campeón Sudamericana, desmayo de Paredes, Verstappen sobre Russell, Atlanta 1-0 Ciudad Bolívar, primeras noticias sobre la lesión de Doué.
+Enlaces X/YouTube: no incorporados en esta corrida (radar de embeds independiente).
+Corrección durante verificación: narración de goles de River en Noticias!F5142 ajustada (Andrada 2-1 y Almada 3-1).
+Verificación posterior: se releen las 16 filas; 16/16 con fotos, créditos, 2 párrafos, títulos, fuentes, A=SI y R=FALSE.
+HEAD de referencia anterior al pulso: 26a9d3fb6c8ae4bc78efc182404882afa39086a6.
+Este único commit solicita la sincronización del feed desde Google Sheets. No modificar news-live.csv ni los workflows a mano. No alterar programación del Radar 1.
