@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-22T21:03:05.338Z",
+  "updatedAt": "2026-11-23T01:40:18.594Z",
   "trends": [
     {
-      "query": "sport clube união torreense - benfica",
-      "startedAt": "2026-11-22T20:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "douglas haig",
-      "startedAt": "2026-11-22T20:40:00.000Z",
+      "query": "knicks - pacers",
+      "startedAt": "2026-11-23T01:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "atletico madrid",
-      "startedAt": "2026-11-22T20:30:00.000Z",
+      "query": "sofia jujuy",
+      "startedAt": "2026-11-23T01:00:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "warriors - celtics",
+      "startedAt": "2026-11-23T00:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "china suárez",
-      "startedAt": "2026-11-22T20:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "sporting cristal - cienciano",
-      "startedAt": "2026-11-22T20:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "marsella - le mans football club",
-      "startedAt": "2026-11-22T20:20:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "play off liga argentina",
-      "startedAt": "2026-11-22T20:20:00.000Z",
+      "query": "telekino",
+      "startedAt": "2026-11-23T00:50:00.000Z",
       "volume": 1000
     },
     {
-      "query": "inter",
-      "startedAt": "2026-11-22T20:00:00.000Z",
+      "query": "jazz - mavericks",
+      "startedAt": "2026-11-23T00:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "jornada laboral",
+      "startedAt": "2026-11-23T00:20:00.000Z",
       "volume": 500
     },
     {
-      "query": "sport huancayo - universitario",
-      "startedAt": "2026-11-22T20:00:00.000Z",
+      "query": "demanda colectiva",
+      "startedAt": "2026-11-23T00:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "instituto - huracán",
+      "startedAt": "2026-11-23T00:10:00.000Z",
+      "volume": 50000
+    },
+    {
+      "query": "bulls - nuggets",
+      "startedAt": "2026-11-23T00:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "guillermo, príncipe de gales",
-      "startedAt": "2026-11-22T20:00:00.000Z",
-      "volume": 100
+      "query": "racing club",
+      "startedAt": "2026-11-23T00:10:00.000Z",
+      "volume": 1000
     }
   ]
 }
