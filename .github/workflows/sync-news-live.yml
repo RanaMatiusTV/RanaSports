@@ -48,6 +48,13 @@ jobs:
           pulse = open(pulse_path, encoding='utf-8').read() if os.path.isfile(pulse_path) else ''
           match = re.search(r'^\s*(?:Última noticia|Última):\s*(.+?)\s*$', pulse, re.MULTILINE | re.IGNORECASE)
           expected_title = match.group(1).strip().casefold() if match else None
+          # Validate every headline in the editorial pulse, including backdated news.
+          required_titles = set()
+          for line in pulse.splitlines():
+              item = re.match(r'^\s*(?:EXPECTED_TITLE\||[0-9]{3,6}\s+)(.+?)\s*$', line)
+              if item:
+                  required_titles.add(item.group(1).strip().casefold())
+          print(f'Pulse headline manifest: {len(required_titles)} title(s)', flush=True)
           # A backfilled article may receive an earlier, fact-checked event time.
           # Never accept a stale published Sheet on that basis alone: the pulse
           # must list every corrected title, date and time for this sync.
@@ -91,22 +98,26 @@ jobs:
                       subprocess.run(cmd, check=True)
                       current = read_feed('/tmp/news-candidate.csv')
                       current_max = max((timestamp(r) for r in current), default=datetime.datetime.min)
-                      found = not expected_title or any(r[4].strip().casefold() == expected_title for r in current)
                       by_title = {r[4].strip().casefold(): (r[1].strip(), r[2].strip()) for r in current}
+                      found = not expected_title or expected_title in by_title
+                      missing_titles = required_titles - by_title.keys()
                       previous_titles = {r[4].strip().casefold() for r in previous}
                       checked_backdate = (
                           bool(corrections)
                           and all(by_title.get(title) == day_time for title, day_time in corrections.items())
                           and previous_titles.issubset(by_title)
                       )
-                      if (current_max < previous_max and not checked_backdate) or not found:
+                      if (current_max < previous_max and not checked_backdate) or not found or missing_titles:
                           print(f'::warning::{label} attempt {attempt} stale: '
                                 f'incoming={current_max}, existing={previous_max}, '
-                                f'pulse_title_present={found}', flush=True)
+                                f'pulse_title_present={found}, missing_titles={len(missing_titles)}', flush=True)
+                          if missing_titles:
+                              print('Still awaiting: ' + '; '.join(sorted(missing_titles)[:8]), flush=True)
                           continue
                       os.replace('/tmp/news-candidate.csv', '/tmp/news.csv')
                       print(f'Accepted {label} Sheet CSV: newest={current_max}; '
-                            f'pulse_title_present={found}', flush=True)
+                            f'pulse_title_present={found}; '
+                            f'headline_manifest={len(required_titles)} all_present', flush=True)
                       sys.exit(0)
                   except (subprocess.CalledProcessError, ValueError, OSError) as e:
                       print(f'::warning::{label} attempt {attempt} unavailable: {e}', flush=True)
@@ -359,6 +370,14 @@ jobs:
 
           with open('/tmp/news-live.csv', encoding='utf-8-sig') as f:
               expected = read_news(f.read())
+          with open('.github/radar-sync-pulse.txt', encoding='utf-8') as f:
+              pulse = f.read()
+          import re
+          required_titles = set()
+          for line in pulse.splitlines():
+              item = re.match(r'^\s*(?:EXPECTED_TITLE\||[0-9]{3,6}\s+)(.+?)\s*$', line)
+              if item:
+                  required_titles.add(item.group(1).strip().casefold())
           newest = max(map(stamp, expected), default=datetime.datetime.min)
           expected_latest = {(r[1], r[2], r[4]) for r in expected if stamp(r) == newest}
           for attempt in range(1, 13):
@@ -369,10 +388,14 @@ jobs:
                       public = read_news(response.read().decode('utf-8-sig'))
                   public_latest = max(map(stamp, public), default=datetime.datetime.min)
                   identities = {(r[1], r[2], r[4]) for r in public}
-                  if expected_latest <= identities and public_latest >= newest:
-                      print(f'Portal verified: newest={public_latest}', flush=True)
+                  public_titles = {r[4].strip().casefold() for r in public}
+                  missing_titles = required_titles - public_titles
+                  if expected_latest <= identities and public_latest >= newest and not missing_titles:
+                      print(f'Portal verified: newest={public_latest}; '
+                            f'pulse_titles={len(required_titles)} all_present', flush=True)
                       break
-                  print(f'Waiting for Pages: attempt={attempt}, public={public_latest}, expected={newest}', flush=True)
+                  print(f'Waiting for Pages: attempt={attempt}, public={public_latest}, '
+                        f'expected={newest}, missing_titles={len(missing_titles)}', flush=True)
               except Exception as error:
                   print(f'::warning::Portal verification attempt {attempt}: {error}', flush=True)
               if attempt < 12:
