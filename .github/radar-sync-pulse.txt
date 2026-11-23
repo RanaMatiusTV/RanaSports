@@ -1,13 +1,25 @@
-RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA DE NOTICIAS — 23/11/2026 ARG
-Origen: Google Sheets 'RanaSports Noticias' / pestaña Noticias.
-ID: 12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4
-Bloque nuevo escrito y releído: Noticias!A5140:S5155 (16 filas); A=SI, R=FALSE en las 16.
-Todos los registros contienen fecha/hora B/C, categoría D, título E, 2 párrafos F, fuente G/J y URL de fotografía H con crédito L.
-Fotografías: 16 URL directas localizadas en medios acreditados y registradas en H, con crédito en L. Disponibilidad HTTP, MIME y renderización en el portal NO VERIFICADAS; las limitaciones figuran en O/P. Se identificó explícitamente ARCHIVO en fotografía de Ponzio (agosto 2026).
-Temas: Sub-17 ARG-Mozambique; Rosario Central-Gimnasia Mendoza; River-Lanús; Instituto-Huracán; Alcaraz campeón ATP Finals; Gimnasia Comodoro-Boca en LNB; Inter Miami-Columbus; F1 Academy Palmowski; comparación Colapinto-Gasly; Argentina-Japón Billie Jean King Cup; Tristán Suárez-Gimnasia y Tiro; diagnóstico confirmado de Doué/PSG; declaraciones de Ponzio; declaraciones de Almada; Scaloni podio ciclismo; Independiente Oliva-La Unión de Formosa.
-Ya existentes y no duplicados: Independiente 2-1 Argentinos, Boca campeón Sudamericana, desmayo de Paredes, Verstappen sobre Russell, Atlanta 1-0 Ciudad Bolívar, primeras noticias sobre la lesión de Doué.
-Enlaces X/YouTube: no incorporados en esta corrida (radar de embeds independiente).
-Corrección durante verificación: narración de goles de River en Noticias!F5142 ajustada (Andrada 2-1 y Almada 3-1).
-Verificación posterior: se releen las 16 filas; 16/16 con fotos, créditos, 2 párrafos, títulos, fuentes, A=SI y R=FALSE.
-HEAD de referencia anterior al pulso: 26a9d3fb6c8ae4bc78efc182404882afa39086a6.
-Este único commit solicita la sincronización del feed desde Google Sheets. No modificar news-live.csv ni los workflows a mano. No alterar programación del Radar 1.
+RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA — 23/11/2026 (Argentina)
+Fuente de datos: Google Sheets RanaSports Noticias, pestaña Noticias, spreadsheet 12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4.
+Filas NUEVAS escritas y releídas: Noticias!A5157:S5171 (15 altas).
+Verificación de tabla: A=SI; B fecha y C hora provenientes de hechos o publicaciones verificables; D categoría; E título informativo; F con dos párrafos y 150+ palabras; G y J con fuente auténtica; H con URL directa de foto pertinente, L con crédito; R=FALSE. Ninguna fila histórica editada.
+Títulos añadidos:
+5157 HAAS CONFIRMÓ A RAFAEL CAMARA PARA QATAR Y ABU DABI: NO PODRÁ DEFENDER SU LIDERATO EN F2
+5158 RIVER SE CONTACTÓ CON BONO Y LO TIENE COMO OBJETIVO PARA REFORZAR EL ARCO EN 2027
+5159 NEWELL'S LLEGÓ POR PRIMERA VEZ A LOS PLAYOFFS DEL NUEVO FORMATO CON LA RECUPERACIÓN DE KUDELKA
+5160 GIMNASIA RECIBE A NEWELL'S CON DIEZ PARTIDOS INVICTO Y UNA FORTALEZA COMO LOCAL
+5161 ANDRADA REVELÓ EL AVISO DE RIVERO ANTES DEL REBOTE QUE LE DIO EL 2-1 A RIVER ANTE LANÚS
+5162 INSTITUTO SUFRIÓ TRES BAJAS EN EL TRIUNFO ANTE HURACÁN Y COMPLICA SU ARMADO FRENTE A RIVER
+5163 HABLÓ EL HINCHA DE ROSARIO CENTRAL QUE FESTEJÓ EL TÍTULO POR ERROR: EXPLICÓ LA CONFUSIÓN
+5164 LA F1 EVALÚA LIMITAR EL SUMINISTRO DE MOTORES PARA 2030 Y PODRÍA AFECTAR A ALPINE
+5165 VERSTAPPEN CRITICÓ LOS SOBREPASOS DE LAS VEGAS: «ESTO NO ES FÓRMULA 1»
+5166 BOCA REGRESÓ CON LA SUDAMERICANA Y UNA MULTITUD RECIBIÓ AL PLANTEL EN EZEIZA
+5167 ACUÑA Y BELTRÁN SALIERON CON MOLESTIAS ANTE LANÚS Y RIVER EVALUARÁ SU EVOLUCIÓN
+5168 RAMIRO CARRERA SE DESPIDIÓ DE LANÚS TRAS LA ELIMINACIÓN FRENTE A RIVER
+5169 PELLEGRINO NO GARANTIZÓ SU CONTINUIDAD EN LANÚS: «NOS VAMOS A TOMAR UNOS DÍAS»
+5170 DI MARÍA FELICITÓ A PAREDES POR LA SUDAMERICANA Y BROMEÓ SOBRE SU DESMAYO
+5171 RIVER MANTENDRÁ A PABLO LONGORIA COMO DIRECTOR DEPORTIVO EN 2027, SEGÚN TYC SPORTS
+Cobertura: River, Boca, Lanús, Newell's, Gimnasia LP, Instituto, Rosario Central, Fórmula 1, Fórmula 2; Reuters, TyC Sports, The Guardian, LA NACION, DeporTV. Se compararon títulos/noticias previas para evitar duplicados (Boca campeón, Paredes desmayado, River-Lanús resultado, Verstappen-Russell, Independiente-Argentinos, Leclerc-Vasseur).
+Imágenes: 15/15 URL directa de fuente y crédito; 15/15 marcadas SIN VERIFICACIÓN TÉCNICA, HTTP/MIME/render público NO confirmados. Fotos de archivo identificadas cuando correspondió.
+Embeds nuevos K: 0, búsqueda delegada al Radar Embeds Prioritarios.
+Conteo orientativo de registros con fecha/hora en las últimas 24 horas (23/11 a ~10:00 ART): 28, sujeto a marcas temporales de publicación reales.
+Sincronizar feed desde Google Sheets mediante el workflow existente. Este pulso es un único cambio de GitHub. No editar news-live.csv, workflows ni los horarios del radar.
