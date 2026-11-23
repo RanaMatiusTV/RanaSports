@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/basquet/gimnasia-de-comodoro-supero-83-66-a-boca-en-la-liga-nacional/": {
+      "account": "sports",
+      "title": "GIMNASIA DE COMODORO SUPERÓ 83-66 A BOCA EN LA LIGA NACIONAL",
+      "dueAt": "2026-11-23T13:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b04363ee94d538757bc274c",
+      "createdAt": "2026-11-23T12:49:02.532Z"
+    },
+    "https://ranasports.com.ar/futbol/ponzio-defendio-su-continuidad-en-river-y-critico-los-rumores-sobre-su-puesto/": {
+      "account": "sports",
+      "title": "PONZIO DEFENDIÓ SU CONTINUIDAD EN RIVER Y CRITICÓ LOS RUMORES SOBRE SU PUESTO",
+      "dueAt": "2026-11-23T13:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b04363de94d538757bc2725",
+      "createdAt": "2026-11-23T12:49:02.161Z"
+    },
+    "https://ranasports.com.ar/tristan-suarez/tristan-suarez-empato-0-0-en-salta-y-definira-el-reducido-de-local/": {
+      "account": "sports",
+      "title": "TRISTÁN SUÁREZ EMPATÓ 0-0 EN SALTA Y DEFINIRÁ EL REDUCIDO DE LOCAL",
+      "dueAt": "2026-11-23T12:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b04363d66ef504f4552420c",
+      "createdAt": "2026-11-23T12:49:01.622Z"
+    },
+    "https://ranasports.com.ar/instituto/instituto-elimino-2-1-a-huracan-y-sera-rival-de-river-en-cuartos/": {
+      "account": "sports",
+      "title": "INSTITUTO ELIMINÓ 2-1 A HURACÁN Y SERÁ RIVAL DE RIVER EN CUARTOS",
+      "dueAt": "2026-11-23T12:48:58.690Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b04363a66ef504f4552416a",
+      "createdAt": "2026-11-23T12:49:00.800Z"
+    },
     "https://ranasports.com.ar/futbol/arruabarrena-anticipo-un-equipo-mixto-de-boca-contra-independiente-rivadavia/": {
       "account": "sports",
       "title": "ARRUABARRENA ANTICIPÓ UN EQUIPO MIXTO DE BOCA CONTRA INDEPENDIENTE RIVADAVIA",
@@ -4774,38 +4806,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad639707f0d26254b219bc7",
       "createdAt": "2026-10-19T15:38:25.085Z"
-    },
-    "https://ranasports.com.ar/f1/rafael-camara-correra-en-formula-1-con-lentes-de-contacto/": {
-      "account": "f1",
-      "title": "RAFAEL CÂMARA CORRERÁ EN FÓRMULA 1 CON LENTES DE CONTACTO",
-      "dueAt": "2026-10-19T11:50:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad602d67a42a610a50f66c5",
-      "createdAt": "2026-10-19T11:45:26.219Z"
-    },
-    "https://ranasports.com.ar/futbol/chimy-avila-explico-el-reto-de-viera-que-cambio-a-independiente-en-el-clasico/": {
-      "account": "main",
-      "title": "CHIMY ÁVILA EXPLICÓ EL RETO DE VIERA QUE CAMBIÓ A INDEPENDIENTE EN EL CLÁSICO",
-      "dueAt": "2026-10-19T11:50:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad602d5e0cb711786f5180e",
-      "createdAt": "2026-10-19T11:45:25.717Z"
-    },
-    "https://ranasports.com.ar/futbol/san-lorenzo-vencio-2-1-a-estudiantes-con-un-golazo-agonico-de-gulli/": {
-      "account": "sports",
-      "title": "SAN LORENZO VENCIÓ 2-1 A ESTUDIANTES CON UN GOLAZO AGÓNICO DE GULLI",
-      "dueAt": "2026-10-19T12:50:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad602d57a42a610a50f665d",
-      "createdAt": "2026-10-19T11:45:25.385Z"
-    },
-    "https://ranasports.com.ar/futbol/aldosivi-perdio-2-1-con-estudiantes-de-rio-cuarto-y-quedo-al-borde-del-descenso/": {
-      "account": "sports",
-      "title": "ALDOSIVI PERDIÓ 2-1 CON ESTUDIANTES DE RÍO CUARTO Y QUEDÓ AL BORDE DEL DESCENSO",
-      "dueAt": "2026-10-19T12:20:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad602d4a073718b17c37bbe",
-      "createdAt": "2026-10-19T11:45:25.069Z"
     }
   },
   "nextAt": {
