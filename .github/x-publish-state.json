@@ -1,13 +1,22 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/almada-reconocio-dias-dificiles-en-river-y-agradecio-el-apoyo-de-scaloni/": {
+      "account": "sports",
+      "title": "ALMADA RECONOCIÓ DÍAS DIFÍCILES EN RIVER Y AGRADECIÓ EL APOYO DE SCALONI",
+      "dueAt": "2026-11-23T14:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b043813e94d538757bd0b74",
+      "createdAt": "2026-11-23T12:56:51.079Z"
+    },
     "https://ranasports.com.ar/basquet/gimnasia-de-comodoro-supero-83-66-a-boca-en-la-liga-nacional/": {
       "account": "sports",
       "title": "GIMNASIA DE COMODORO SUPERÓ 83-66 A BOCA EN LA LIGA NACIONAL",
       "dueAt": "2026-11-23T13:50:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6b04363ee94d538757bc274c",
-      "createdAt": "2026-11-23T12:49:02.532Z"
+      "createdAt": "2026-11-23T12:49:02.532Z",
+      "formattedFor": "https://ranasports.com.ar/basquet/gimnasia-de-comodoro-supero-83-66-a-boca-en-la-liga-nacional/"
     },
     "https://ranasports.com.ar/futbol/ponzio-defendio-su-continuidad-en-river-y-critico-los-rumores-sobre-su-puesto/": {
       "account": "sports",
@@ -15,7 +24,8 @@
       "dueAt": "2026-11-23T13:20:00.000Z",
       "mode": "customScheduled",
       "bufferPostId": "6b04363de94d538757bc2725",
-      "createdAt": "2026-11-23T12:49:02.161Z"
+      "createdAt": "2026-11-23T12:49:02.161Z",
+      "formattedFor": "https://ranasports.com.ar/futbol/ponzio-defendio-su-continuidad-en-river-y-critico-los-rumores-sobre-su-puesto/"
     },
     "https://ranasports.com.ar/tristan-suarez/tristan-suarez-empato-0-0-en-salta-y-definira-el-reducido-de-local/": {
       "account": "sports",
@@ -4798,14 +4808,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad639719d422c1d321ec11b",
       "createdAt": "2026-10-19T15:38:25.619Z"
-    },
-    "https://ranasports.com.ar/f1/honda-admitio-que-perdio-casi-dos-anos-de-desarrollo-y-complico-a-aston-martin/": {
-      "account": "f1",
-      "title": "HONDA ADMITIÓ QUE PERDIÓ CASI DOS AÑOS DE DESARROLLO Y COMPLICÓ A ASTON MARTIN",
-      "dueAt": "2026-10-19T15:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad639707f0d26254b219bc7",
-      "createdAt": "2026-10-19T15:38:25.085Z"
     }
   },
   "nextAt": {
