@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/gimnasia-y-esgrima-la-plata/harlen-castillo-fue-expulsado-tras-la-pelea-final-y-se-perdera-los-cuartos/": {
+      "account": "sports",
+      "title": "HARLEN CASTILLO FUE EXPULSADO TRAS LA PELEA FINAL Y SE PERDERÁ LOS CUARTOS",
+      "dueAt": "2026-11-24T12:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b056d965c81d3bca034b27c",
+      "createdAt": "2026-11-24T10:57:26.969Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-recibira-a-independiente-rivadavia-con-dudas-por-el-desgaste-de-los-titulares/": {
+      "account": "sports",
+      "title": "BOCA RECIBIRÁ A INDEPENDIENTE RIVADAVIA CON DUDAS POR EL DESGASTE DE LOS TITULARES",
+      "dueAt": "2026-11-24T12:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b056d9616f206ca59d6f2c1",
+      "createdAt": "2026-11-24T10:57:26.720Z"
+    },
+    "https://ranasports.com.ar/f1/la-formula-1-destaco-la-largada-de-colapinto-en-las-vegas/": {
+      "account": "f1",
+      "title": "LA FÓRMULA 1 DESTACÓ LA LARGADA DE COLAPINTO EN LAS VEGAS",
+      "dueAt": "2026-11-24T11:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b056d9516f206ca59d6f23c",
+      "createdAt": "2026-11-24T10:57:26.033Z"
+    },
+    "https://ranasports.com.ar/futbol/independiente-quedo-a-un-paso-de-clasificarse-a-la-sudamericana-2027/": {
+      "account": "main",
+      "title": "INDEPENDIENTE QUEDÓ A UN PASO DE CLASIFICARSE A LA SUDAMERICANA 2027",
+      "dueAt": "2026-11-24T11:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b056d955c81d3bca034af3d",
+      "createdAt": "2026-11-24T10:57:25.517Z"
+    },
+    "https://ranasports.com.ar/newell-s-old-boys/maxi-rodriguez-cuestiono-al-arbitraje-tras-la-eliminacion-de-newell-s/": {
+      "account": "sports",
+      "title": "MAXI RODRÍGUEZ CUESTIONÓ AL ARBITRAJE TRAS LA ELIMINACIÓN DE NEWELL'S",
+      "dueAt": "2026-11-24T11:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b056d95f58b414a3734c83e",
+      "createdAt": "2026-11-24T10:57:25.116Z"
+    },
+    "https://ranasports.com.ar/brasileirao/internacional-cayo-5-2-ante-vitoria-y-quedo-en-zona-de-descenso-en-brasil/": {
+      "account": "sports",
+      "title": "INTERNACIONAL CAYÓ 5-2 ANTE VITÓRIA Y QUEDÓ EN ZONA DE DESCENSO EN BRASIL",
+      "dueAt": "2026-11-24T10:57:21.405Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b056d91201111cd3bbf4de4",
+      "createdAt": "2026-11-24T10:57:24.523Z"
+    },
     "https://ranasports.com.ar/futbol/almada-reconocio-dias-dificiles-en-river-y-agradecio-el-apoyo-de-scaloni/": {
       "account": "sports",
       "title": "ALMADA RECONOCIÓ DÍAS DIFÍCILES EN RIVER Y AGRADECIÓ EL APOYO DE SCALONI",
@@ -4760,54 +4808,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad6860346c9e2453ba02c99",
       "createdAt": "2026-10-19T21:05:07.843Z"
-    },
-    "https://ranasports.com.ar/futbol/mario-bolatti-cambio-el-futbol-por-la-agricultura-y-la-ganaderia/": {
-      "account": "sports",
-      "title": "MARIO BOLATTI CAMBIÓ EL FÚTBOL POR LA AGRICULTURA Y LA GANADERÍA",
-      "dueAt": "2026-10-19T21:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad686034d814f3c3839af63",
-      "createdAt": "2026-10-19T21:05:07.485Z"
-    },
-    "https://ranasports.com.ar/formula-3/mattia-colnaghi-pasara-a-campos-racing-en-2027-con-el-respaldo-de-red-bull/": {
-      "account": "f1",
-      "title": "MATTIA COLNAGHI PASARÁ A CAMPOS RACING EN 2027 CON EL RESPALDO DE RED BULL",
-      "dueAt": "2026-10-19T16:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad63973052a3a25666a9e47",
-      "createdAt": "2026-10-19T15:38:27.895Z"
-    },
-    "https://ranasports.com.ar/futbol/un-exarbitro-respaldo-el-penal-a-independiente-en-el-clasico-ante-racing/": {
-      "account": "main",
-      "title": "UN EXÁRBITRO RESPALDÓ EL PENAL A INDEPENDIENTE EN EL CLÁSICO ANTE RACING",
-      "dueAt": "2026-10-19T15:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad6397203fb0cde45f76037",
-      "createdAt": "2026-10-19T15:38:26.976Z"
-    },
-    "https://ranasports.com.ar/futbol/boca-renovo-el-contrato-de-milton-delgado-hasta-diciembre-de-2030/": {
-      "account": "sports",
-      "title": "BOCA RENOVÓ EL CONTRATO DE MILTON DELGADO HASTA DICIEMBRE DE 2030",
-      "dueAt": "2026-10-19T16:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad6397203fb0cde45f7600e",
-      "createdAt": "2026-10-19T15:38:26.578Z"
-    },
-    "https://ranasports.com.ar/futbol/racing-cerro-2026-sin-ganar-ninguno-de-sus-seis-clasicos/": {
-      "account": "sports",
-      "title": "RACING CERRÓ 2026 SIN GANAR NINGUNO DE SUS SEIS CLÁSICOS",
-      "dueAt": "2026-10-19T16:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad6397203fb0cde45f75fe5",
-      "createdAt": "2026-10-19T15:38:26.121Z"
-    },
-    "https://ranasports.com.ar/futbol/ladstatter-tuvo-una-dedicatoria-insultante-a-los-hinchas-de-estudiantes-tras-el-gol-agonico/": {
-      "account": "sports",
-      "title": "LADSTATTER TUVO UNA DEDICATORIA INSULTANTE A LOS HINCHAS DE ESTUDIANTES TRAS EL GOL AGÓNICO",
-      "dueAt": "2026-10-19T15:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad639719d422c1d321ec11b",
-      "createdAt": "2026-10-19T15:38:25.619Z"
     }
   },
   "nextAt": {
