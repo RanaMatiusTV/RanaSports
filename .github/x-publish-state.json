@@ -1,6 +1,62 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-volvera-a-correr-en-qatar-y-buscara-repetir-los-puntos-de-las-vegas/": {
+      "account": "f1",
+      "title": "COLAPINTO VOLVERÁ A CORRER EN QATAR Y BUSCARÁ REPETIR LOS PUNTOS DE LAS VEGAS",
+      "dueAt": "2026-11-24T21:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b05fe03bc79b3715ead4ac5",
+      "createdAt": "2026-11-24T21:13:39.615Z"
+    },
+    "https://ranasports.com.ar/copa-america/conmebol-confirmo-que-la-copa-america-2028-se-jugara-en-estados-unidos/": {
+      "account": "sports",
+      "title": "CONMEBOL CONFIRMÓ QUE LA COPA AMÉRICA 2028 SE JUGARÁ EN ESTADOS UNIDOS",
+      "dueAt": "2026-11-24T22:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b05fe02da2eab4595a75cd5",
+      "createdAt": "2026-11-24T21:13:38.855Z"
+    },
+    "https://ranasports.com.ar/copa-africana-de-naciones/el-tas-devolvio-a-senegal-el-titulo-africano-y-marruecos-anuncio-un-nuevo-recurso/": {
+      "account": "sports",
+      "title": "EL TAS DEVOLVIÓ A SENEGAL EL TÍTULO AFRICANO Y MARRUECOS ANUNCIÓ UN NUEVO RECURSO",
+      "dueAt": "2026-11-24T21:45:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b05fe02bc79b3715ead4a5b",
+      "createdAt": "2026-11-24T21:13:38.336Z"
+    },
+    "https://ranasports.com.ar/futbol/jadson-viera-analizo-a-velez-y-respaldo-a-maxi-meza-antes-de-los-cuartos/": {
+      "account": "main",
+      "title": "JADSON VIERA ANALIZÓ A VÉLEZ Y RESPALDÓ A MAXI MEZA ANTES DE LOS CUARTOS",
+      "dueAt": "2026-11-24T22:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b05fe01bc79b3715ead4a20",
+      "createdAt": "2026-11-24T21:13:37.391Z"
+    },
+    "https://ranasports.com.ar/instituto/diego-flores-aviso-que-river-no-intimida-y-prometio-un-instituto-intenso/": {
+      "account": "sports",
+      "title": "DIEGO FLORES AVISÓ QUE RIVER NO INTIMIDA Y PROMETIÓ UN INSTITUTO INTENSO",
+      "dueAt": "2026-11-24T21:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b05fe00bbd94e83696f31d3",
+      "createdAt": "2026-11-24T21:13:36.978Z"
+    },
+    "https://ranasports.com.ar/futbol/maxi-meza-llego-a-100-partidos-en-independiente-con-seis-goles-en-sus-ultimos-siete/": {
+      "account": "main",
+      "title": "MAXI MEZA LLEGÓ A 100 PARTIDOS EN INDEPENDIENTE CON SEIS GOLES EN SUS ÚLTIMOS SIETE",
+      "dueAt": "2026-11-24T21:15:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b05fe00bc79b3715ead49d8",
+      "createdAt": "2026-11-24T21:13:36.549Z"
+    },
+    "https://ranasports.com.ar/apnea/murio-jeanine-grasmeijer-record-mundial-de-apnea/": {
+      "account": "sports",
+      "title": "MURIÓ JEANINE GRASMEIJER, RÉCORD MUNDIAL DE APNEA, A LOS 33 AÑOS",
+      "dueAt": "2026-11-24T21:13:33.602Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b05fdfdd3db9613661697c0",
+      "createdAt": "2026-11-24T21:13:35.701Z"
+    },
     "https://ranasports.com.ar/gimnasia-y-esgrima-la-plata/harlen-castillo-fue-expulsado-tras-la-pelea-final-y-se-perdera-los-cuartos/": {
       "account": "sports",
       "title": "HARLEN CASTILLO FUE EXPULSADO TRAS LA PELEA FINAL Y SE PERDERÁ LOS CUARTOS",
@@ -4752,62 +4808,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad6b4482fcafd0f184250e1",
       "createdAt": "2026-10-20T00:22:32.289Z"
-    },
-    "https://ranasports.com.ar/futbol/la-uefa-le-envio-42-preguntas-a-la-fifa-y-puso-bajo-presion-a-infantino/": {
-      "account": "sports",
-      "title": "LA UEFA LE ENVIÓ 42 PREGUNTAS A LA FIFA Y PUSO BAJO PRESIÓN A INFANTINO",
-      "dueAt": "2026-10-20T00:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad6b447b81183413da56511",
-      "createdAt": "2026-10-20T00:22:31.369Z"
-    },
-    "https://ranasports.com.ar/futbol/marcha-atras-con-la-sancion/": {
-      "account": "sports",
-      "title": "MARCHA ATRÁS CON LA SANCIÓN: SARMIENTO PODRÁ RECIBIR A BARRACAS CON PÚBLICO",
-      "dueAt": "2026-10-20T00:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad6b4469d034d7aedce2136",
-      "createdAt": "2026-10-20T00:22:30.949Z"
-    },
-    "https://ranasports.com.ar/futbol/el-tas-definira-a-fines-de-noviembre-el-campeon-de-la-copa-africana/": {
-      "account": "sports",
-      "title": "EL TAS DEFINIRÁ A FINES DE NOVIEMBRE EL CAMPEÓN DE LA COPA AFRICANA",
-      "dueAt": "2026-10-20T00:22:26.087Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ad6b442e9c669def5e102b1",
-      "createdAt": "2026-10-20T00:22:28.204Z"
-    },
-    "https://ranasports.com.ar/f1/horner-revelo-como-fue-su-abrupta-salida-de-red-bull/": {
-      "account": "f1",
-      "title": "HORNER REVELÓ CÓMO FUE SU ABRUPTA SALIDA DE RED BULL",
-      "dueAt": "2026-10-19T22:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad686067b002f7cbe4f2e03",
-      "createdAt": "2026-10-19T21:05:10.196Z"
-    },
-    "https://ranasports.com.ar/futbol/chacarita-y-nueva-chicago-podrian-definir-la-permanencia-en-la-ultima-fecha/": {
-      "account": "sports",
-      "title": "CHACARITA Y NUEVA CHICAGO PODRÍAN DEFINIR LA PERMANENCIA EN LA ÚLTIMA FECHA",
-      "dueAt": "2026-10-19T22:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad68605e61f3ff98350eae0",
-      "createdAt": "2026-10-19T21:05:09.209Z"
-    },
-    "https://ranasports.com.ar/f1/colapinto-ya-tiene-horarios-para-el-gp-de-estados-unidos/": {
-      "account": "f1",
-      "title": "COLAPINTO YA TIENE HORARIOS PARA EL GP DE ESTADOS UNIDOS",
-      "dueAt": "2026-10-19T21:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad686047b002f7cbe4f2d9f",
-      "createdAt": "2026-10-19T21:05:08.842Z"
-    },
-    "https://ranasports.com.ar/futbol/atletico-de-madrid-confirmo-una-distension-muscular-del-cuti-romero/": {
-      "account": "sports",
-      "title": "ATLÉTICO DE MADRID CONFIRMÓ UNA DISTENSIÓN MUSCULAR DEL CUTI ROMERO: SE PIERDE LA CHAMPIONS",
-      "dueAt": "2026-10-19T21:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad6860346c9e2453ba02c99",
-      "createdAt": "2026-10-19T21:05:07.843Z"
     }
   },
   "nextAt": {
