@@ -1,22 +1,25 @@
-RANASPORTS — RADAR 1 — CORRIDA 24/11/2026 06:45 ART
+RANASPORTS — RADAR 1 — CORRIDA 24/11/2026 09:45 ART
 Fuente de datos: Google Sheets RanaSports Noticias, pestaña Noticias, spreadsheet 12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4.
-Base main verificada antes del pulso: 297b32f45bbbdb73b031c3ea32b4fc63abf07b30.
-Filas NUEVAS escritas y releídas: Noticias!A5185:S5192 (8 altas).
+Base main verificada antes del pulso: af85cd29451dc95eace370b60e839e175e706efb.
+Filas NUEVAS escritas y releídas: Noticias!A5193:S5201 (9 altas).
 Verificación de tabla: A=SI; B y C sustentadas en primera difusión verificable; D categoría editorial precisa; E título informativo; F con dos párrafos; G y J con fuente auténtica; H con foto pertinente y cargable; L con crédito; O/P con criterio real; R=FALSE. Ninguna fila histórica editada.
 
 Títulos añadidos:
-5185 LEO CRISTALDO COMPLICÓ LA DECISIÓN DE GUILLERMO PARA EL CRUCE DE VÉLEZ ANTE INDEPENDIENTE
-5186 ARRUABARRENA EXPLICÓ LAS CLAVES DEL BOCA BICAMPEÓN Y PIDIÓ UN ÚLTIMO ESFUERZO
-5187 LA FÓRMULA 1 DESTACÓ LA LARGADA DE COLAPINTO EN LAS VEGAS
-5188 INTERNACIONAL CAYÓ 5-2 ANTE VITÓRIA Y QUEDÓ EN ZONA DE DESCENSO EN BRASIL
-5189 MAXI RODRÍGUEZ CUESTIONÓ AL ARBITRAJE TRAS LA ELIMINACIÓN DE NEWELL'S
-5190 DEPORTIVO VIEDMA VENCIÓ 86-70 A GIMNASIA Y QUEDÓ LÍDER DE LA CONFERENCIA SUR
-5191 JULIÁN ÁLVAREZ CAMBIARÁ DE REPRESENTANTE TRAS SU FRUSTRADO PASE AL BARCELONA
-5192 TITO BESSONE RECORDÓ SU TÍTULO DE 1996 Y RECLAMÓ MÁS LIBERTAD PARA LOS PILOTOS
+5193 ARRUABARRENA CONFIRMÓ QUE TODO EL PLANTEL DE BOCA ESTÁ DISPONIBLE PARA LOS OCTAVOS
+5194 COLAPINTO VOLVERÁ A CORRER EN QATAR Y BUSCARÁ REPETIR LOS PUNTOS DE LAS VEGAS
+5195 MURIÓ JEANINE GRASMEIJER, RÉCORD MUNDIAL DE APNEA, A LOS 33 AÑOS
+5196 DIEZ ARGENTINOS CERRARON 2026 ENTRE LOS CIEN MEJORES DEL RANKING ATP
+5197 TYSON FURY REVELÓ QUE FUE DIAGNOSTICADO CON ESQUIZOFRENIA
+5198 DEYVERSON DIJO QUE JUGARÍA EN RIVER SI RECIBE UNA PROPUESTA
+5199 EL MUSEO FANGIO CELEBRÓ 40 AÑOS CON EMERSON FITTIPALDI COMO INVITADO
+5200 LA BARRA DE ATLÉTICO MINEIRO AMENAZÓ AL PLANTEL TRAS PERDER LA FINAL CON BOCA
+5201 FIFA CONFIRMÓ LAS SEDES DE LOS MUNDIALES FEMENINOS DE 2031 Y 2035
 
-Última noticia del lote: 24/11/2026 03:18 ART — TITO BESSONE RECORDÓ SU TÍTULO DE 1996 Y RECLAMÓ MÁS LIBERTAD PARA LOS PILOTOS.
-Cobertura: fútbol argentino, Brasileirao, fútbol internacional, Fórmula 1, Liga Argentina de Básquet y automovilismo; TyC Sports, Infobae, Diario Río Negro, DSports, SC Internacional y fuentes oficiales como contraste.
-Imágenes: 8/8 con URL directa comprobada mediante carga, crédito en L y criterio honesto en O/P; cinco fotos de archivo identificadas expresamente.
-Embeds nuevos K: 0; la búsqueda especializada queda para el Radar de Embeds.
+Última noticia del lote por cronología: 24/11/2026 09:32 ART — MURIÓ JEANINE GRASMEIJER, RÉCORD MUNDIAL DE APNEA, A LOS 33 AÑOS.
+Cobertura: Boca, River, Fórmula 1, tenis, boxeo, apnea, automovilismo, Copa Sudamericana y fútbol femenino internacional; TN, LA NACION, Infobae, Metro Ecuador, Reuters y FIFA.
+Imágenes: 9/9 con URL directa comprobada mediante carga HTTP 200 y tipo image/jpeg; créditos en L y criterio real en O/P.
+Embeds nuevos K: 2 (post individual de Alpine en X y video oficial de FIFA en YouTube).
+Duplicados descartados: crisis salarial de Argentinos Juniors (fila 5174), estado del campo de Instituto (fila 5176) y lesión del Chimy Ávila (fila 5090).
+Pendientes: estudios de Santiago Arias sin diagnóstico oficial nuevo; previa de Argentina Sub-17 ante Dinamarca, programada para el 25/11.
 Total acumulado en las últimas 24 horas al corte: 30 noticias reales.
 Sincronizar el feed desde Google Sheets mediante el workflow existente. Este pulso es el único cambio de GitHub de la corrida. No editar news-live.csv, workflows ni horarios.
