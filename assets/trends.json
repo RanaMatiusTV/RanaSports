@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-23T22:01:45.393Z",
+  "updatedAt": "2026-11-24T06:00:03.941Z",
   "trends": [
     {
-      "query": "recesion",
-      "startedAt": "2026-11-23T21:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "edwuin cetré",
-      "startedAt": "2026-11-23T21:40:00.000Z",
+      "query": "emiliano kaczka",
+      "startedAt": "2026-11-24T05:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "comercio",
-      "startedAt": "2026-11-23T21:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "reino unido",
-      "startedAt": "2026-11-23T21:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "final libertadores",
-      "startedAt": "2026-11-23T21:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "ámbito financiero",
-      "startedAt": "2026-11-23T21:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "oliver bearman",
-      "startedAt": "2026-11-23T20:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "libertadores",
-      "startedAt": "2026-11-23T20:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "inundación",
-      "startedAt": "2026-11-23T20:20:00.000Z",
+      "query": "pronostico corrientes",
+      "startedAt": "2026-11-24T04:30:00.000Z",
       "volume": 500
     },
     {
-      "query": "riesgo país",
-      "startedAt": "2026-11-23T20:10:00.000Z",
-      "volume": 2000
+      "query": "clima formosa",
+      "startedAt": "2026-11-24T04:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "alerta amarilla",
+      "startedAt": "2026-11-24T03:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "hija",
+      "startedAt": "2026-11-24T03:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "lakers - jazz",
+      "startedAt": "2026-11-24T02:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "kings - spurs",
+      "startedAt": "2026-11-24T02:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "dólar estadounidense",
+      "startedAt": "2026-11-24T02:30:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "agustina albertario",
+      "startedAt": "2026-11-24T02:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "china",
+      "startedAt": "2026-11-24T02:30:00.000Z",
+      "volume": 200
     }
   ]
 }
