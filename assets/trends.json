@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-24T06:00:03.941Z",
+  "updatedAt": "2026-11-24T17:40:41.697Z",
   "trends": [
     {
-      "query": "emiliano kaczka",
-      "startedAt": "2026-11-24T05:00:00.000Z",
-      "volume": 100
+      "query": "al-nassr - al-sadd",
+      "startedAt": "2026-11-24T17:20:00.000Z",
+      "volume": 200
     },
     {
-      "query": "pronostico corrientes",
-      "startedAt": "2026-11-24T04:30:00.000Z",
+      "query": "depósito a plazo fijo",
+      "startedAt": "2026-11-24T17:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "conmebol libertadores",
+      "startedAt": "2026-11-24T17:10:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "galatasaray - aston villa",
+      "startedAt": "2026-11-24T16:50:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "liga de campeones de la uefa",
+      "startedAt": "2026-11-24T16:50:00.000Z",
       "volume": 500
     },
     {
-      "query": "clima formosa",
-      "startedAt": "2026-11-24T04:20:00.000Z",
+      "query": "superluna",
+      "startedAt": "2026-11-24T16:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "alerta amarilla",
-      "startedAt": "2026-11-24T03:50:00.000Z",
+      "query": "apneísta",
+      "startedAt": "2026-11-24T16:20:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "cyberpunk 2",
+      "startedAt": "2026-11-24T16:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "hija",
-      "startedAt": "2026-11-24T03:00:00.000Z",
+      "query": "dia del vino",
+      "startedAt": "2026-11-24T16:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "lakers - jazz",
-      "startedAt": "2026-11-24T02:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "kings - spurs",
-      "startedAt": "2026-11-24T02:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "dólar estadounidense",
-      "startedAt": "2026-11-24T02:30:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "agustina albertario",
-      "startedAt": "2026-11-24T02:30:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "china",
-      "startedAt": "2026-11-24T02:30:00.000Z",
+      "query": "islas malvinas (falkland islands)",
+      "startedAt": "2026-11-24T16:10:00.000Z",
       "volume": 200
     }
   ]
