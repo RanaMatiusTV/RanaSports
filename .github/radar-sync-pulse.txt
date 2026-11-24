@@ -1,27 +1,22 @@
-RANASPORTS — RADAR 1 — CORRIDA 24/11/2026 00:45 ART
+RANASPORTS — RADAR 1 — CORRIDA 24/11/2026 06:45 ART
 Fuente de datos: Google Sheets RanaSports Noticias, pestaña Noticias, spreadsheet 12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4.
-Base main verificada antes del pulso: 16a1841d480e7aeba665639d8d7e1494088a9cd8.
-Filas NUEVAS escritas y releídas: Noticias!A5172:S5184 (13 altas).
-Verificación de tabla: A=SI; B y C sustentadas en primera difusión o cierre verificable; D categoría editorial precisa; E título informativo; F con dos párrafos; G y J con fuente auténtica; H con foto pertinente y cargable; L con crédito; O/P con criterio real; R=FALSE. Ninguna fila histórica editada.
+Base main verificada antes del pulso: 297b32f45bbbdb73b031c3ea32b4fc63abf07b30.
+Filas NUEVAS escritas y releídas: Noticias!A5185:S5192 (8 altas).
+Verificación de tabla: A=SI; B y C sustentadas en primera difusión verificable; D categoría editorial precisa; E título informativo; F con dos párrafos; G y J con fuente auténtica; H con foto pertinente y cargable; L con crédito; O/P con criterio real; R=FALSE. Ninguna fila histórica editada.
 
 Títulos añadidos:
-5172 CULOTTA RATIFICÓ A INSUA PARA 2027 Y ANTICIPÓ UN PLANTEL DISTINTO EN SAN LORENZO
-5173 OMAR ZARIF SE SUMÓ COMO PRINCIPAL CANDIDATO PARA DIRIGIR A BANFIELD
-5174 FRANCISCO ÁLVAREZ DENUNCIÓ DEUDAS Y UNA CRISIS INTERNA EN ARGENTINOS JUNIORS
-5175 GASLY REVELÓ QUE ALPINE CORRIÓ 45 VUELTAS CON POTENCIA REDUCIDA EN LAS VEGAS
-5176 EL CÉSPED DE INSTITUTO QUEDÓ DAÑADO ANTES DEL CRUCE DE CUARTOS CON RIVER
-5177 RACING QUEDÓ ABIERTO A NEGOCIAR CON OLIMPIA POR RICHARD SÁNCHEZ
-5178 BERAZATEGUI VENCIÓ 3-1 A SPORTIVO BARRACAS Y SACÓ VENTAJA EN EL REDUCIDO
-5179 GIMNASIA VENCIÓ 4-2 A NEWELL'S EN EL ALARGUE Y AVANZÓ A CUARTOS
-5180 HARLEN CASTILLO FUE EXPULSADO TRAS LA PELEA FINAL Y SE PERDERÁ LOS CUARTOS
-5181 JULIA RIERA DEBUTÓ CON TRIUNFO EN EL ARGENTINA OPEN WTA 125
-5182 INDEPENDIENTE QUEDÓ A UN PASO DE CLASIFICARSE A LA SUDAMERICANA 2027
-5183 BOCA RECIBIRÁ A INDEPENDIENTE RIVADAVIA CON DUDAS POR EL DESGASTE DE LOS TITULARES
-5184 KUDELKA CUESTIONÓ EL ARBITRAJE Y HABLÓ CON RAMÍREZ TRAS LA ELIMINACIÓN DE NEWELL'S
+5185 LEO CRISTALDO COMPLICÓ LA DECISIÓN DE GUILLERMO PARA EL CRUCE DE VÉLEZ ANTE INDEPENDIENTE
+5186 ARRUABARRENA EXPLICÓ LAS CLAVES DEL BOCA BICAMPEÓN Y PIDIÓ UN ÚLTIMO ESFUERZO
+5187 LA FÓRMULA 1 DESTACÓ LA LARGADA DE COLAPINTO EN LAS VEGAS
+5188 INTERNACIONAL CAYÓ 5-2 ANTE VITÓRIA Y QUEDÓ EN ZONA DE DESCENSO EN BRASIL
+5189 MAXI RODRÍGUEZ CUESTIONÓ AL ARBITRAJE TRAS LA ELIMINACIÓN DE NEWELL'S
+5190 DEPORTIVO VIEDMA VENCIÓ 86-70 A GIMNASIA Y QUEDÓ LÍDER DE LA CONFERENCIA SUR
+5191 JULIÁN ÁLVAREZ CAMBIARÁ DE REPRESENTANTE TRAS SU FRUSTRADO PASE AL BARCELONA
+5192 TITO BESSONE RECORDÓ SU TÍTULO DE 1996 Y RECLAMÓ MÁS LIBERTAD PARA LOS PILOTOS
 
-Última noticia del lote: 23/11/2026 21:59 ART — KUDELKA CUESTIONÓ EL ARBITRAJE Y HABLÓ CON RAMÍREZ TRAS LA ELIMINACIÓN DE NEWELL'S.
-Cobertura: fútbol argentino de Primera y ascenso, Fórmula 1 y tenis; TyC Sports, Solo Ascenso, AFA, LA NACION, Infobae, FIFA, Olé y fuentes oficiales como contraste.
-Imágenes: 13/13 con URL directa comprobada mediante carga, crédito en L y criterio honesto en O/P; dos fotos de archivo identificadas expresamente.
+Última noticia del lote: 24/11/2026 03:18 ART — TITO BESSONE RECORDÓ SU TÍTULO DE 1996 Y RECLAMÓ MÁS LIBERTAD PARA LOS PILOTOS.
+Cobertura: fútbol argentino, Brasileirao, fútbol internacional, Fórmula 1, Liga Argentina de Básquet y automovilismo; TyC Sports, Infobae, Diario Río Negro, DSports, SC Internacional y fuentes oficiales como contraste.
+Imágenes: 8/8 con URL directa comprobada mediante carga, crédito en L y criterio honesto en O/P; cinco fotos de archivo identificadas expresamente.
 Embeds nuevos K: 0; la búsqueda especializada queda para el Radar de Embeds.
-Total acumulado en las últimas 24 horas al corte: 24 noticias reales.
+Total acumulado en las últimas 24 horas al corte: 30 noticias reales.
 Sincronizar el feed desde Google Sheets mediante el workflow existente. Este pulso es el único cambio de GitHub de la corrida. No editar news-live.csv, workflows ni horarios.
