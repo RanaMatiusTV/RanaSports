@@ -1,25 +1,23 @@
-RANASPORTS — RADAR 1 — CORRIDA 24/11/2026 09:45 ART
+RANASPORTS — RADAR 1 — CORRIDA 24/11/2026 12:45 ART
 Fuente de datos: Google Sheets RanaSports Noticias, pestaña Noticias, spreadsheet 12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4.
-Base main verificada antes del pulso: af85cd29451dc95eace370b60e839e175e706efb.
-Filas NUEVAS escritas y releídas: Noticias!A5193:S5201 (9 altas).
+Base main verificada antes del pulso: 8853f59732085373056cdcffe46595f87ad44fa2.
+Filas NUEVAS escritas y releídas: Noticias!A5202:S5207 (6 altas).
 Verificación de tabla: A=SI; B y C sustentadas en primera difusión verificable; D categoría editorial precisa; E título informativo; F con dos párrafos; G y J con fuente auténtica; H con foto pertinente y cargable; L con crédito; O/P con criterio real; R=FALSE. Ninguna fila histórica editada.
 
 Títulos añadidos:
-5193 ARRUABARRENA CONFIRMÓ QUE TODO EL PLANTEL DE BOCA ESTÁ DISPONIBLE PARA LOS OCTAVOS
-5194 COLAPINTO VOLVERÁ A CORRER EN QATAR Y BUSCARÁ REPETIR LOS PUNTOS DE LAS VEGAS
-5195 MURIÓ JEANINE GRASMEIJER, RÉCORD MUNDIAL DE APNEA, A LOS 33 AÑOS
-5196 DIEZ ARGENTINOS CERRARON 2026 ENTRE LOS CIEN MEJORES DEL RANKING ATP
-5197 TYSON FURY REVELÓ QUE FUE DIAGNOSTICADO CON ESQUIZOFRENIA
-5198 DEYVERSON DIJO QUE JUGARÍA EN RIVER SI RECIBE UNA PROPUESTA
-5199 EL MUSEO FANGIO CELEBRÓ 40 AÑOS CON EMERSON FITTIPALDI COMO INVITADO
-5200 LA BARRA DE ATLÉTICO MINEIRO AMENAZÓ AL PLANTEL TRAS PERDER LA FINAL CON BOCA
-5201 FIFA CONFIRMÓ LAS SEDES DE LOS MUNDIALES FEMENINOS DE 2031 Y 2035
+5202 CONMEBOL CONFIRMÓ QUE LA COPA AMÉRICA 2028 SE JUGARÁ EN ESTADOS UNIDOS
+5203 MONTIEL VOLVERÁ AL EQUIPO DE RIVER Y ACUÑA Y BELTRÁN SIGUEN EN DUDA
+5204 MAXI MEZA LLEGÓ A 100 PARTIDOS EN INDEPENDIENTE CON SEIS GOLES EN SUS ÚLTIMOS SIETE
+5205 PORTLAND VENCIÓ 128-111 A PHILADELPHIA EN UNA JORNADA CON TRIUNFOS DE SPURS Y LAKERS
+5206 NEUER PIDIÓ VACACIONES MIENTRAS SE RECUPERA DE UNA FRACTURA EN EL PIE
+5207 LO CELSO QUEDÓ AFUERA DEL PARTIDO DEL BETIS POR CHAMPIONS POR UN GOLPE EN LA RODILLA
 
-Última noticia del lote por cronología: 24/11/2026 09:32 ART — MURIÓ JEANINE GRASMEIJER, RÉCORD MUNDIAL DE APNEA, A LOS 33 AÑOS.
-Cobertura: Boca, River, Fórmula 1, tenis, boxeo, apnea, automovilismo, Copa Sudamericana y fútbol femenino internacional; TN, LA NACION, Infobae, Metro Ecuador, Reuters y FIFA.
-Imágenes: 9/9 con URL directa comprobada mediante carga HTTP 200 y tipo image/jpeg; créditos en L y criterio real en O/P.
-Embeds nuevos K: 2 (post individual de Alpine en X y video oficial de FIFA en YouTube).
-Duplicados descartados: crisis salarial de Argentinos Juniors (fila 5174), estado del campo de Instituto (fila 5176) y lesión del Chimy Ávila (fila 5090).
-Pendientes: estudios de Santiago Arias sin diagnóstico oficial nuevo; previa de Argentina Sub-17 ante Dinamarca, programada para el 25/11.
-Total acumulado en las últimas 24 horas al corte: 30 noticias reales.
+Última noticia del lote por cronología: 24/11/2026 12:12 ART — CONMEBOL CONFIRMÓ QUE LA COPA AMÉRICA 2028 SE JUGARÁ EN ESTADOS UNIDOS.
+Cobertura: Independiente, River, Selección Argentina/Copa América, NBA y fútbol internacional; TyC Sports, Diario de Sevilla y Bild.
+Imágenes: 6/6 con URL directa comprobada mediante carga HTTP 200; cinco image/webp y una image/jpeg. Créditos en L y criterio real en O/P.
+Embeds nuevos K: 0; no aparecieron enlaces individuales verificables en las fuentes revisadas.
+Candidatos evaluados: 11; 6 publicados, 3 duplicados y 2 descartados por no constituir novedad deportiva actual.
+Duplicados descartados: clasificación de Independiente a la Sudamericana ya publicada en fila 5182; disponibilidad/formación general de Boca ya cubierta en fila 5193; molestias de Acuña y Beltrán ya informadas en fila 5167, conservando solo la novedad diferenciada del regreso de Montiel.
+Pendientes: estudios de Santiago Arias sin diagnóstico oficial nuevo; previa de Argentina Sub-17 ante Dinamarca reservada para la ventana del 25/11.
+Total acumulado en las últimas 24 horas al corte: 33 noticias reales.
 Sincronizar el feed desde Google Sheets mediante el workflow existente. Este pulso es el único cambio de GitHub de la corrida. No editar news-live.csv, workflows ni horarios.
