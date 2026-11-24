@@ -1,25 +1,27 @@
-RANASPORTS — RADAR 1 — CORRIDA EXTRAORDINARIA — 23/11/2026 (Argentina)
+RANASPORTS — RADAR 1 — CORRIDA 24/11/2026 00:45 ART
 Fuente de datos: Google Sheets RanaSports Noticias, pestaña Noticias, spreadsheet 12VE1D_zlnOvmIWFhdCrKAvCHh6VOwXdaYoAczDh0Fw4.
-Filas NUEVAS escritas y releídas: Noticias!A5157:S5171 (15 altas).
-Verificación de tabla: A=SI; B fecha y C hora provenientes de hechos o publicaciones verificables; D categoría; E título informativo; F con dos párrafos y 150+ palabras; G y J con fuente auténtica; H con URL directa de foto pertinente, L con crédito; R=FALSE. Ninguna fila histórica editada.
+Base main verificada antes del pulso: 16a1841d480e7aeba665639d8d7e1494088a9cd8.
+Filas NUEVAS escritas y releídas: Noticias!A5172:S5184 (13 altas).
+Verificación de tabla: A=SI; B y C sustentadas en primera difusión o cierre verificable; D categoría editorial precisa; E título informativo; F con dos párrafos; G y J con fuente auténtica; H con foto pertinente y cargable; L con crédito; O/P con criterio real; R=FALSE. Ninguna fila histórica editada.
+
 Títulos añadidos:
-5157 HAAS CONFIRMÓ A RAFAEL CAMARA PARA QATAR Y ABU DABI: NO PODRÁ DEFENDER SU LIDERATO EN F2
-5158 RIVER SE CONTACTÓ CON BONO Y LO TIENE COMO OBJETIVO PARA REFORZAR EL ARCO EN 2027
-5159 NEWELL'S LLEGÓ POR PRIMERA VEZ A LOS PLAYOFFS DEL NUEVO FORMATO CON LA RECUPERACIÓN DE KUDELKA
-5160 GIMNASIA RECIBE A NEWELL'S CON DIEZ PARTIDOS INVICTO Y UNA FORTALEZA COMO LOCAL
-5161 ANDRADA REVELÓ EL AVISO DE RIVERO ANTES DEL REBOTE QUE LE DIO EL 2-1 A RIVER ANTE LANÚS
-5162 INSTITUTO SUFRIÓ TRES BAJAS EN EL TRIUNFO ANTE HURACÁN Y COMPLICA SU ARMADO FRENTE A RIVER
-5163 HABLÓ EL HINCHA DE ROSARIO CENTRAL QUE FESTEJÓ EL TÍTULO POR ERROR: EXPLICÓ LA CONFUSIÓN
-5164 LA F1 EVALÚA LIMITAR EL SUMINISTRO DE MOTORES PARA 2030 Y PODRÍA AFECTAR A ALPINE
-5165 VERSTAPPEN CRITICÓ LOS SOBREPASOS DE LAS VEGAS: «ESTO NO ES FÓRMULA 1»
-5166 BOCA REGRESÓ CON LA SUDAMERICANA Y UNA MULTITUD RECIBIÓ AL PLANTEL EN EZEIZA
-5167 ACUÑA Y BELTRÁN SALIERON CON MOLESTIAS ANTE LANÚS Y RIVER EVALUARÁ SU EVOLUCIÓN
-5168 RAMIRO CARRERA SE DESPIDIÓ DE LANÚS TRAS LA ELIMINACIÓN FRENTE A RIVER
-5169 PELLEGRINO NO GARANTIZÓ SU CONTINUIDAD EN LANÚS: «NOS VAMOS A TOMAR UNOS DÍAS»
-5170 DI MARÍA FELICITÓ A PAREDES POR LA SUDAMERICANA Y BROMEÓ SOBRE SU DESMAYO
-5171 RIVER MANTENDRÁ A PABLO LONGORIA COMO DIRECTOR DEPORTIVO EN 2027, SEGÚN TYC SPORTS
-Cobertura: River, Boca, Lanús, Newell's, Gimnasia LP, Instituto, Rosario Central, Fórmula 1, Fórmula 2; Reuters, TyC Sports, The Guardian, LA NACION, DeporTV. Se compararon títulos/noticias previas para evitar duplicados (Boca campeón, Paredes desmayado, River-Lanús resultado, Verstappen-Russell, Independiente-Argentinos, Leclerc-Vasseur).
-Imágenes: 15/15 URL directa de fuente y crédito; 15/15 marcadas SIN VERIFICACIÓN TÉCNICA, HTTP/MIME/render público NO confirmados. Fotos de archivo identificadas cuando correspondió.
-Embeds nuevos K: 0, búsqueda delegada al Radar Embeds Prioritarios.
-Conteo orientativo de registros con fecha/hora en las últimas 24 horas (23/11 a ~10:00 ART): 28, sujeto a marcas temporales de publicación reales.
-Sincronizar feed desde Google Sheets mediante el workflow existente. Este pulso es un único cambio de GitHub. No editar news-live.csv, workflows ni los horarios del radar.
+5172 CULOTTA RATIFICÓ A INSUA PARA 2027 Y ANTICIPÓ UN PLANTEL DISTINTO EN SAN LORENZO
+5173 OMAR ZARIF SE SUMÓ COMO PRINCIPAL CANDIDATO PARA DIRIGIR A BANFIELD
+5174 FRANCISCO ÁLVAREZ DENUNCIÓ DEUDAS Y UNA CRISIS INTERNA EN ARGENTINOS JUNIORS
+5175 GASLY REVELÓ QUE ALPINE CORRIÓ 45 VUELTAS CON POTENCIA REDUCIDA EN LAS VEGAS
+5176 EL CÉSPED DE INSTITUTO QUEDÓ DAÑADO ANTES DEL CRUCE DE CUARTOS CON RIVER
+5177 RACING QUEDÓ ABIERTO A NEGOCIAR CON OLIMPIA POR RICHARD SÁNCHEZ
+5178 BERAZATEGUI VENCIÓ 3-1 A SPORTIVO BARRACAS Y SACÓ VENTAJA EN EL REDUCIDO
+5179 GIMNASIA VENCIÓ 4-2 A NEWELL'S EN EL ALARGUE Y AVANZÓ A CUARTOS
+5180 HARLEN CASTILLO FUE EXPULSADO TRAS LA PELEA FINAL Y SE PERDERÁ LOS CUARTOS
+5181 JULIA RIERA DEBUTÓ CON TRIUNFO EN EL ARGENTINA OPEN WTA 125
+5182 INDEPENDIENTE QUEDÓ A UN PASO DE CLASIFICARSE A LA SUDAMERICANA 2027
+5183 BOCA RECIBIRÁ A INDEPENDIENTE RIVADAVIA CON DUDAS POR EL DESGASTE DE LOS TITULARES
+5184 KUDELKA CUESTIONÓ EL ARBITRAJE Y HABLÓ CON RAMÍREZ TRAS LA ELIMINACIÓN DE NEWELL'S
+
+Última noticia del lote: 23/11/2026 21:59 ART — KUDELKA CUESTIONÓ EL ARBITRAJE Y HABLÓ CON RAMÍREZ TRAS LA ELIMINACIÓN DE NEWELL'S.
+Cobertura: fútbol argentino de Primera y ascenso, Fórmula 1 y tenis; TyC Sports, Solo Ascenso, AFA, LA NACION, Infobae, FIFA, Olé y fuentes oficiales como contraste.
+Imágenes: 13/13 con URL directa comprobada mediante carga, crédito en L y criterio honesto en O/P; dos fotos de archivo identificadas expresamente.
+Embeds nuevos K: 0; la búsqueda especializada queda para el Radar de Embeds.
+Total acumulado en las últimas 24 horas al corte: 24 noticias reales.
+Sincronizar el feed desde Google Sheets mediante el workflow existente. Este pulso es el único cambio de GitHub de la corrida. No editar news-live.csv, workflows ni horarios.
