@@ -1,17 +1,16 @@
 RADAR SYNC PULSE — RANASPORTS
-Fecha de corrida: 25/11/2026 12:45 ART
-SHA base de main antes del pulso: 4418bfa5714e6e4bbb5c9eceea180d9cd66be1e4
-Filas nuevas verificadas en Noticias: 2 (5254:5255)
-Total acumulado de noticias en las últimas 24 horas: 43
+Fecha de corrida: 25/11/2026 15:45 ART
+SHA base de main antes del pulso: bd188c03fdc5b1c397dbeac232599123e48e6835
+Filas nuevas verificadas en Noticias: 1 (5256:5256)
+Total acumulado de noticias en las últimas 24 horas: 36
 
 Títulos:
-- FRANCE FOOTBALL REVELÓ LOS ONCE VOTOS HISTÓRICOS DE MESSI EN EL BALÓN DE ORO
-- ARGENTINA PUEDE CLASIFICARSE AL MUNDIAL DE BÁSQUET 2027 CON DOS TRIUNFOS EN ZÁRATE
+- ARGENTINA SUB-17 REMONTÓ ANTE DINAMARCA, EMPATÓ 3-3 Y AVANZÓ A 16AVOS DEL MUNDIAL
 
-Última noticia cronológica en la planilla: 25/11/2026 10:31 ART — ARGENTINA PUEDE CLASIFICARSE AL MUNDIAL DE BÁSQUET 2027 CON DOS TRIUNFOS EN ZÁRATE
-Ventana principal cubierta: 25/11/2026 07:45–12:45 ART, con dos horas de solapamiento desde la corrida anterior realmente publicada
-Fuentes principales: DeporTV, CAB, TN, France Football, TyC Sports, AFA, ESPN, Olé, Infobae, Solo Ascenso y medios oficiales/regionales consultados
-Imágenes: 2 de 2 con URL directa y crédito; ambas verificadas visualmente y rotuladas como archivo
+Última noticia cronológica en la planilla: 25/11/2026 14:30 ART — ARGENTINA SUB-17 REMONTÓ ANTE DINAMARCA, EMPATÓ 3-3 Y AVANZÓ A 16AVOS DEL MUNDIAL
+Ventana principal cubierta: 25/11/2026 12:45–15:45 ART, con dos horas de solapamiento desde las 10:45
+Fuentes principales: AFA, DeporTV, DSports, Doble Amarilla, TyC Sports, ESPN, Olé, Infobae Deportes, Solo Ascenso, CAB, UAR y FIA
+Imágenes: 1 de 1 con URL directa oficial, crédito y carga verificada visualmente; fotografía actual del partido
 Embeds oportunistas: 0
-Duplicados descartados: Independiente (Ávila, Arias, Viera y elecciones); Boca-Paredes; River-Palacios; Campazzo; juveniles de San Lorenzo; Sierra, Podoroska y programación WTA; Colapinto; Los Pumas; agenda AFA
-Pendientes: resultado definitivo de Dinamarca-Argentina Sub-17, iniciado a las 12:30 y todavía en juego al corte; novedades posteriores a las 12:45
+Duplicados descartados: Independiente (Ávila, Arias, Viera y elecciones); escenario de clasificación de la Selección de básquet; previa de Boca; programación WTA y Champions todavía en curso; cobertura de Colapinto en Qatar sin un hecho nuevo distinto; resultados antiguos de Solo Ascenso
+Pendientes: Boca-Independiente Rivadavia a las 21:00; resultados de WTA y Champions League posteriores al corte
