@@ -1,19 +1,17 @@
 RADAR SYNC PULSE — RANASPORTS
-Fecha de corrida: 25/11/2026 09:45 ART
-SHA base de main antes del pulso: 35c5387fe29ce93850b9ac219ac2c52510321e61
-Filas nuevas verificadas en Noticias: 4 (5250:5253)
-Total acumulado de noticias en las últimas 24 horas: 50
+Fecha de corrida: 25/11/2026 12:45 ART
+SHA base de main antes del pulso: 4418bfa5714e6e4bbb5c9eceea180d9cd66be1e4
+Filas nuevas verificadas en Noticias: 2 (5254:5255)
+Total acumulado de noticias en las últimas 24 horas: 43
 
 Títulos:
-- ARGENTINA SUB-17 ENFRENTA A DINAMARCA POR EL PASE A 16AVOS DEL MUNDIAL
-- SAN LORENZO VOLVIÓ A ENTRENARSE MIENTRAS LA DIRIGENCIA BUSCA SALDAR DEUDAS
-- ANTONIO MOHAMED DEJARÁ TOLUCA AL FINAL DE LA TEMPORADA
-- LA AFA HOMENAJEÓ A DIEGO MARADONA A SEIS AÑOS DE SU MUERTE
+- FRANCE FOOTBALL REVELÓ LOS ONCE VOTOS HISTÓRICOS DE MESSI EN EL BALÓN DE ORO
+- ARGENTINA PUEDE CLASIFICARSE AL MUNDIAL DE BÁSQUET 2027 CON DOS TRIUNFOS EN ZÁRATE
 
-Última noticia cronológica en la planilla: 25/11/2026 06:00 ART — LA AFA HOMENAJEÓ A DIEGO MARADONA A SEIS AÑOS DE SU MUERTE
-Ventana principal cubierta: 25/11/2026 04:45–09:45 ART, con dos horas de solapamiento y recuperación de omisiones verificables de las 24 horas anteriores
-Fuentes principales: AFA, TyC Sports, TN, DeporTV, Olé, Infobae, ESPN y medios oficiales/registrados consultados
-Imágenes: 4 de 4 con URL directa y crédito; las 4 verificadas visualmente, 2 actuales y 2 de archivo rotuladas
+Última noticia cronológica en la planilla: 25/11/2026 10:31 ART — ARGENTINA PUEDE CLASIFICARSE AL MUNDIAL DE BÁSQUET 2027 CON DOS TRIUNFOS EN ZÁRATE
+Ventana principal cubierta: 25/11/2026 07:45–12:45 ART, con dos horas de solapamiento desde la corrida anterior realmente publicada
+Fuentes principales: DeporTV, CAB, TN, France Football, TyC Sports, AFA, ESPN, Olé, Infobae, Solo Ascenso y medios oficiales/regionales consultados
+Imágenes: 2 de 2 con URL directa y crédito; ambas verificadas visualmente y rotuladas como archivo
 Embeds oportunistas: 0
-Duplicados descartados: elecciones de Independiente; evolución y convocatoria de Leandro Paredes; resultados de Sierra y Podoroska en el WTA 125; Instituto-River; Colapinto en Qatar; fallo Senegal-Marruecos
-Pendientes: resultados y novedades posteriores al corte de 09:45; no se retuvieron candidatas sin foto legítima
+Duplicados descartados: Independiente (Ávila, Arias, Viera y elecciones); Boca-Paredes; River-Palacios; Campazzo; juveniles de San Lorenzo; Sierra, Podoroska y programación WTA; Colapinto; Los Pumas; agenda AFA
+Pendientes: resultado definitivo de Dinamarca-Argentina Sub-17, iniciado a las 12:30 y todavía en juego al corte; novedades posteriores a las 12:45
