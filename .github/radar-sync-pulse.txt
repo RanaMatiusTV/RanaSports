@@ -1,16 +1,18 @@
 RADAR SYNC PULSE — RANASPORTS
-Fecha de corrida: 25/11/2026 15:45 ART
-SHA base de main antes del pulso: bd188c03fdc5b1c397dbeac232599123e48e6835
-Filas nuevas verificadas en Noticias: 1 (5256:5256)
-Total acumulado de noticias en las últimas 24 horas: 36
+Fecha de corrida: 25/11/2026 18:45 ART
+SHA base de main antes del pulso: 6babf99ac6e5963de7c9846f30be7b802b6d1664
+Filas nuevas verificadas en Noticias: 3 (5257:5259)
+Total acumulado de noticias en las últimas 24 horas: 26
 
 Títulos:
-- ARGENTINA SUB-17 REMONTÓ ANTE DINAMARCA, EMPATÓ 3-3 Y AVANZÓ A 16AVOS DEL MUNDIAL
+- BARCELONA GOLEÓ 4-1 AL SABAH Y SE AFIANZÓ EN LA ZONA ALTA DE LA CHAMPIONS
+- BOCA Y PLATENSE JUGARÁN LA FINAL DE LA COPA ARGENTINA EL 2 DE DICIEMBRE EN SANTIAGO DEL ESTERO
+- ARGENTINA YA CONOCE SUS SEDES Y RIVALES PARA LA VNL MASCULINA 2027
 
-Última noticia cronológica en la planilla: 25/11/2026 14:30 ART — ARGENTINA SUB-17 REMONTÓ ANTE DINAMARCA, EMPATÓ 3-3 Y AVANZÓ A 16AVOS DEL MUNDIAL
-Ventana principal cubierta: 25/11/2026 12:45–15:45 ART, con dos horas de solapamiento desde las 10:45
-Fuentes principales: AFA, DeporTV, DSports, Doble Amarilla, TyC Sports, ESPN, Olé, Infobae Deportes, Solo Ascenso, CAB, UAR y FIA
-Imágenes: 1 de 1 con URL directa oficial, crédito y carga verificada visualmente; fotografía actual del partido
+Última noticia cronológica en la planilla: 25/11/2026 16:38 ART — BARCELONA GOLEÓ 4-1 AL SABAH Y SE AFIANZÓ EN LA ZONA ALTA DE LA CHAMPIONS
+Ventana principal cubierta: 25/11/2026 15:45–18:45 ART, con dos horas de solapamiento desde las 13:45 y recuperación de dos omisiones verificadas del mismo día
+Fuentes principales: Copa Argentina, Volleyball World, Infobae, Europa Press, TyC Sports, Clarín, TN, LA NACION, Olé, ESPN, DeporTV, Solo Ascenso, FeVA y medios oficiales
+Imágenes: 3 de 3 con URL directa y crédito; las tres verificadas visualmente, una rotulada como archivo
 Embeds oportunistas: 0
-Duplicados descartados: Independiente (Ávila, Arias, Viera y elecciones); escenario de clasificación de la Selección de básquet; previa de Boca; programación WTA y Champions todavía en curso; cobertura de Colapinto en Qatar sin un hecho nuevo distinto; resultados antiguos de Solo Ascenso
-Pendientes: Boca-Independiente Rivadavia a las 21:00; resultados de WTA y Champions League posteriores al corte
+Duplicados descartados: River por Tomás Palacios; Independiente por Ávila, Arias, Viera y elecciones; previas de Boca; Sierra y Podoroska; agenda y partidos todavía en juego
+Pendientes: Slavia Praha 0-1 Villarreal por falta de una foto legítima que cargara; resultados de los partidos de Champions iniciados a las 17; Lanús-River de Reserva todavía en juego al corte; Boca-Independiente Rivadavia a las 21:00
