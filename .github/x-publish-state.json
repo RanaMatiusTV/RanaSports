@@ -1,6 +1,14 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/la-afa-homenajeo-a-diego-maradona-a-seis-anos-de-su-muerte/": {
+      "account": "sports",
+      "title": "LA AFA HOMENAJEÓ A DIEGO MARADONA A SEIS AÑOS DE SU MUERTE",
+      "dueAt": "2026-11-25T15:38:06.979Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b0700de4e348f658d404271",
+      "createdAt": "2026-11-25T15:38:09.095Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-advirtio-que-lusail-castiga-cada-error-antes-del-gp-de-qatar/": {
       "account": "f1",
       "title": "COLAPINTO ADVIRTIÓ QUE LUSAIL CASTIGA CADA ERROR ANTES DEL GP DE QATAR",
@@ -4800,14 +4808,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad704272d48e20f64ce2708",
       "createdAt": "2026-10-20T06:03:19.643Z"
-    },
-    "https://ranasports.com.ar/rugby/juan-martin-hernandez-volvio-a-los-pumas-como-asesor-ocho-anos-despues/": {
-      "account": "sports",
-      "title": "JUAN MARTÍN HERNÁNDEZ VOLVIÓ A LOS PUMAS COMO ASESOR OCHO AÑOS DESPUÉS",
-      "dueAt": "2026-10-20T07:05:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad70426cba41b014062e721",
-      "createdAt": "2026-10-20T06:03:18.989Z"
     }
   },
   "nextAt": {
