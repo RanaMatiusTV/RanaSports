@@ -1,32 +1,21 @@
 RADAR SYNC PULSE — RANASPORTS
-Fecha de corrida: 25/11/2026 00:45 ART
-SHA base de main antes del pulso: b6009aa69fa2e2b8f951ea025fc07182b0c9fb94
-Filas nuevas verificadas en Noticias: 17 (5227:5243)
-Total acumulado de noticias en las últimas 24 horas: 46
+Fecha de corrida: 25/11/2026 06:45 ART
+SHA base de main antes del pulso: a25ddcad3cd674e44b830f66926f8faab80ca704
+Filas nuevas verificadas en Noticias: 6 (5244:5249)
+Total acumulado de noticias en las últimas 24 horas: 50
 
 Títulos:
-- RACING INFORMÓ QUE SU PREDIO DE EZEIZA ESTÁ TERMINADO EN UN 95%
-- COLAPINTO ENTRÓ AL TOP 10 DE LOS POWER RANKINGS DE LA FÓRMULA 1
-- RIVER CONSULTÓ A INDEPENDIENTE RIVADAVIA POR EL GOLEADOR ÁLEX ARCE
-- JUAN MANUEL SARA DEJÓ DE SER EL ENTRENADOR DE FERRO
-- EL INFORME ARBITRAL CONFIRMÓ CUATRO EXPULSADOS POR LA PELEA EN GIMNASIA-NEWELL’S
-- ANÍBAL MORENO FUE OPERADO DE LA ESPALDA Y APUNTA A VOLVER EN 2027
-- RIVER AVANZA POR TOMÁS PALACIOS PARA REFORZAR LA DEFENSA EN 2027
-- DYBALA DIJO QUE LE GUSTARÍA RETIRARSE EN ROMA
-- KEVIN VALLEJOS SUBIÓ AL TERCER PUESTO DEL RANKING PLUMA DE UFC
-- CONMEBOL DESTACÓ LA ACTUACIÓN DE FACUNDO HERRERA EN LA FINAL DE BOCA
-- CAMPAZZO QUEDÓ AFUERA DE LOS PARTIDOS DE ARGENTINA ANTE BAHAMAS Y CANADÁ
-- LOS PUMAS 7S CONFIRMARON HORARIOS Y RIVALES PARA EL SEVEN DE DUBÁI
-- PELLEGRINO RENOVÓ CON LANÚS HASTA DICIEMBRE DE 2027
-- SAN LORENZO CONFIRMÓ QUE TRES JUVENILES SE IRÁN LIBRES
-- ARGENTINA TERMINÓ DÉCIMA EN EL MUNDIAL ISA DE SURF EN PERÚ
-- LA AFA ADELANTÓ FONDOS A ARGENTINOS JUNIORS PARA CUBRIR DEUDAS
-- RACING SONDEÓ EL REGRESO DE GABRIEL ROJAS PARA 2027
+- ARGENTINA GOLEÓ 5-1 A BRASIL Y PASÓ INVICTA A CUARTOS DEL MUNDIAL DE TALLA BAJA
+- SINNER FUE OPERADO DE LA RODILLA Y SE PERDERÁ EL ABIERTO DE AUSTRALIA
+- REAL MADRID GOLEÓ 5-1 A PSV Y SIGUE CON PUNTAJE PERFECTO EN LA CHAMPIONS
+- CHAPECOENSE GOLEÓ 3-0 A PALMEIRAS EN LA PENÚLTIMA FECHA DEL BRASILEIRAO
+- EXCOMBATIENTES LLEVARON A DARWIN UNA CAMISETA DE MESSI FIRMADA PARA MALVINAS
+- CANAPINO, SANTERO Y TRES CANDIDATOS DE CLASE 2 DEFINIRÁN EL TN EN VIEDMA
 
-Última noticia cronológica: 24/11/2026 23:12 ART — EL INFORME ARBITRAL CONFIRMÓ CUATRO EXPULSADOS POR LA PELEA EN GIMNASIA-NEWELL’S
-Ventana principal cubierta: 24/11/2026 18:30–25/11/2026 00:45 ART, con recuperación de omisiones desde las 14:50
-Fuentes principales: TyC Sports, Noticias Argentinas, Diario Jornada, LA NACION, UAR, Conmebol y fuentes oficiales de clubes
-Imágenes: 17 de 17 con URL directa, crédito y verificación visual; HTTP/MIME no probado en esta corrida
-Embeds oportunistas: 1 (Los Pumas 7s)
-Duplicados descartados: resumen WTA de Sierra/Podoroska y nueva previa de Colapinto en Qatar por repetir hechos ya publicados
-Pendientes: Chapecoense 3-0 Palmeiras, sin foto directa legítima resuelta; declaraciones de Eduardo Spinosa, histórico de votos de Messi y homenaje de veteranos en Darwin quedaron para la próxima corrida por prioridad y tiempo
+Última noticia cronológica en la planilla: 24/11/2026 23:12 ART — EL INFORME ARBITRAL CONFIRMÓ CUATRO EXPULSADOS POR LA PELEA EN GIMNASIA-NEWELL’S
+Ventana principal cubierta: 24/11/2026 22:45–25/11/2026 06:45 ART, con auditoría de omisiones de las 24 horas anteriores
+Fuentes principales: DeporTV, FIFTB, ANSA, AP, Real Madrid, UEFA, LA NACION, Canchallena, CECIM La Plata, Diario Río Negro y APAT
+Imágenes: 6 de 6 con URL directa y crédito; 4 verificadas visualmente y 2 localizadas en fuente sin prueba HTTP completa
+Embeds oportunistas: 0
+Duplicados descartados: previa Boca-Independiente Rivadavia ya publicada; River-Tomás Palacios, Los Pumas, WTA y novedades de Independiente ya cubiertas
+Pendientes: resultados europeos secundarios sin impacto argentino y noticias sin foto directa pertinente comprobable
