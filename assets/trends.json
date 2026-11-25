@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-24T17:40:41.697Z",
+  "updatedAt": "2026-11-25T01:36:09.881Z",
   "trends": [
     {
-      "query": "al-nassr - al-sadd",
-      "startedAt": "2026-11-24T17:20:00.000Z",
+      "query": "boca mañana",
+      "startedAt": "2026-11-25T01:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "depósito a plazo fijo",
-      "startedAt": "2026-11-24T17:10:00.000Z",
-      "volume": 200
+      "query": "patricia bullrich",
+      "startedAt": "2026-11-25T01:20:00.000Z",
+      "volume": 100
     },
     {
-      "query": "conmebol libertadores",
-      "startedAt": "2026-11-24T17:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "galatasaray - aston villa",
-      "startedAt": "2026-11-24T16:50:00.000Z",
+      "query": "telemundo en vivo",
+      "startedAt": "2026-11-25T01:00:00.000Z",
       "volume": 2000
     },
     {
-      "query": "liga de campeones de la uefa",
-      "startedAt": "2026-11-24T16:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "superluna",
-      "startedAt": "2026-11-24T16:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "apneísta",
-      "startedAt": "2026-11-24T16:20:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "cyberpunk 2",
-      "startedAt": "2026-11-24T16:20:00.000Z",
+      "query": "américa - deportivo cali",
+      "startedAt": "2026-11-25T01:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "dia del vino",
-      "startedAt": "2026-11-24T16:20:00.000Z",
+      "query": "eclipse solar",
+      "startedAt": "2026-11-25T01:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "islas malvinas (falkland islands)",
-      "startedAt": "2026-11-24T16:10:00.000Z",
+      "query": "coys",
+      "startedAt": "2026-11-25T01:00:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "wizards - celtics",
+      "startedAt": "2026-11-25T00:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "cuestión de peso",
+      "startedAt": "2026-11-25T00:40:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "sergio massa",
+      "startedAt": "2026-11-25T00:30:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "maite peñoñori",
+      "startedAt": "2026-11-25T00:30:00.000Z",
       "volume": 200
     }
   ]
