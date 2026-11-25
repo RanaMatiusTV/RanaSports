@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-25T01:36:09.881Z",
+  "updatedAt": "2026-11-25T10:29:36.507Z",
   "trends": [
     {
-      "query": "boca mañana",
-      "startedAt": "2026-11-25T01:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "patricia bullrich",
-      "startedAt": "2026-11-25T01:20:00.000Z",
+      "query": "miércoles",
+      "startedAt": "2026-11-25T10:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "telemundo en vivo",
-      "startedAt": "2026-11-25T01:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "américa - deportivo cali",
-      "startedAt": "2026-11-25T01:00:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "eclipse solar",
-      "startedAt": "2026-11-25T01:00:00.000Z",
+      "query": "medicamento",
+      "startedAt": "2026-11-25T10:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "coys",
-      "startedAt": "2026-11-25T01:00:00.000Z",
+      "query": "juan manuel sara",
+      "startedAt": "2026-11-25T10:00:00.000Z",
       "volume": 100
     },
     {
-      "query": "wizards - celtics",
-      "startedAt": "2026-11-25T00:40:00.000Z",
+      "query": "¿quien se fue de masterchef?",
+      "startedAt": "2026-11-25T09:30:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "club deportivo morón",
+      "startedAt": "2026-11-25T09:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "cuestión de peso",
-      "startedAt": "2026-11-25T00:40:00.000Z",
+      "query": "álex arce",
+      "startedAt": "2026-11-25T09:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "sergio massa",
-      "startedAt": "2026-11-25T00:30:00.000Z",
+      "query": "avión",
+      "startedAt": "2026-11-25T08:50:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "clima san luis",
+      "startedAt": "2026-11-25T08:50:00.000Z",
       "volume": 200
     },
     {
-      "query": "maite peñoñori",
-      "startedAt": "2026-11-25T00:30:00.000Z",
+      "query": "iowa",
+      "startedAt": "2026-11-25T08:50:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "antonela roccuzzo",
+      "startedAt": "2026-11-25T08:40:00.000Z",
       "volume": 200
     }
   ]
