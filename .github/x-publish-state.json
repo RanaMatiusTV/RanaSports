@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-advirtio-que-lusail-castiga-cada-error-antes-del-gp-de-qatar/": {
+      "account": "f1",
+      "title": "COLAPINTO ADVIRTIÓ QUE LUSAIL CASTIGA CADA ERROR ANTES DEL GP DE QATAR",
+      "dueAt": "2026-11-25T05:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0661819cddd8483aaa09d3",
+      "createdAt": "2026-11-25T04:18:09.865Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-entro-al-top-10-de-los-power-rankings-de-la-formula-1/": {
+      "account": "f1",
+      "title": "COLAPINTO ENTRÓ AL TOP 10 DE LOS POWER RANKINGS DE LA FÓRMULA 1",
+      "dueAt": "2026-11-25T04:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b06618040e1d58d12f8ee0e",
+      "createdAt": "2026-11-25T04:18:08.883Z"
+    },
+    "https://ranasports.com.ar/futbol/real-madrid-goleo-5-1-al-psv-y-mantuvo-su-pleno-en-la-champions/": {
+      "account": "sports",
+      "title": "REAL MADRID GOLEÓ 5-1 AL PSV Y MANTUVO SU PLENO EN LA CHAMPIONS",
+      "dueAt": "2026-11-25T05:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b06617f9cddd8483aaa095d",
+      "createdAt": "2026-11-25T04:18:08.040Z"
+    },
+    "https://ranasports.com.ar/futbol/betis-gano-en-bratislava-y-arsenal-empato-con-dortmund-en-la-champions/": {
+      "account": "sports",
+      "title": "BETIS GANÓ EN BRATISLAVA Y ARSENAL EMPATÓ CON DORTMUND EN LA CHAMPIONS",
+      "dueAt": "2026-11-25T04:50:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b06617e5d949f6c2a715719",
+      "createdAt": "2026-11-25T04:18:06.269Z"
+    },
+    "https://ranasports.com.ar/futbol/galatasaray-vencio-a-aston-villa-y-bod-glimt-gano-en-el-descuento-por-champions/": {
+      "account": "sports",
+      "title": "GALATASARAY VENCIÓ A ASTON VILLA Y BODØ/GLIMT GANÓ EN EL DESCUENTO POR CHAMPIONS",
+      "dueAt": "2026-11-25T04:20:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b06617d608549ccf25f45c0",
+      "createdAt": "2026-11-25T04:18:05.322Z"
+    },
+    "https://ranasports.com.ar/tenis/podoroska-elimino-a-la-tercera-favorita-y-avanzo-en-el-wta-125-de-buenos-aires/": {
+      "account": "sports",
+      "title": "PODOROSKA ELIMINÓ A LA TERCERA FAVORITA Y AVANZÓ EN EL WTA 125 DE BUENOS AIRES",
+      "dueAt": "2026-11-25T04:18:03.738Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b06617b5d949f6c2a7156c7",
+      "createdAt": "2026-11-25T04:18:04.824Z"
+    },
     "https://ranasports.com.ar/f1/colapinto-volvera-a-correr-en-qatar-y-buscara-repetir-los-puntos-de-las-vegas/": {
       "account": "f1",
       "title": "COLAPINTO VOLVERÁ A CORRER EN QATAR Y BUSCARÁ REPETIR LOS PUNTOS DE LAS VEGAS",
@@ -4760,54 +4808,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad70426cba41b014062e721",
       "createdAt": "2026-10-20T06:03:18.989Z"
-    },
-    "https://ranasports.com.ar/futbol/independiente-cruzaria-con-rosario-central-en-los-octavos-del-clausura/": {
-      "account": "main",
-      "title": "INDEPENDIENTE CRUZARÍA CON ROSARIO CENTRAL EN LOS OCTAVOS DEL CLAUSURA",
-      "dueAt": "2026-10-20T06:05:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad70426b81183413db5147d",
-      "createdAt": "2026-10-20T06:03:18.301Z"
-    },
-    "https://ranasports.com.ar/futbol/la-camiseta-blanca-de-boca-y-los-antecedentes-que-alimentan-la-cabala-en-el-maracana/": {
-      "account": "sports",
-      "title": "LA CAMISETA BLANCA DE BOCA Y LOS ANTECEDENTES QUE ALIMENTAN LA CÁBALA EN EL MARACANÁ",
-      "dueAt": "2026-10-20T06:35:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad704252fcafd0f1852385f",
-      "createdAt": "2026-10-20T06:03:17.668Z"
-    },
-    "https://ranasports.com.ar/hockey/nicolas-keenan-y-rob-jetten-anunciaron-que-seran-padres-en-2027/": {
-      "account": "sports",
-      "title": "NICOLÁS KEENAN Y ROB JETTEN ANUNCIARON QUE SERÁN PADRES EN 2027",
-      "dueAt": "2026-10-20T06:05:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad70425cba41b014062e383",
-      "createdAt": "2026-10-20T06:03:17.252Z"
-    },
-    "https://ranasports.com.ar/futbol/boca-visitara-por-15-vez-el-maracana/": {
-      "account": "sports",
-      "title": "BOCA VISITARÁ POR 15ª VEZ EL MARACANÁ: GANÓ UN SOLO PARTIDO OFICIAL",
-      "dueAt": "2026-10-20T06:03:15.428Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ad704239d034d7aedddcfae",
-      "createdAt": "2026-10-20T06:03:16.564Z"
-    },
-    "https://ranasports.com.ar/futbol/marcone-y-montiel-evitaron-la-quinta-amarilla-y-estaran-ante-boca/": {
-      "account": "main",
-      "title": "MARCONE Y MONTIEL EVITARON LA QUINTA AMARILLA Y ESTARÁN ANTE BOCA",
-      "dueAt": "2026-10-20T00:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad6b448e9c669def5e10361",
-      "createdAt": "2026-10-20T00:22:33.026Z"
-    },
-    "https://ranasports.com.ar/futbol/racing-evalua-una-sancion-economica-para-espino-por-su-gesto-a-los-hinchas/": {
-      "account": "sports",
-      "title": "RACING EVALÚA UNA SANCIÓN ECONÓMICA PARA ESPINO POR SU GESTO A LOS HINCHAS",
-      "dueAt": "2026-10-20T01:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad6b4482fcafd0f184250e1",
-      "createdAt": "2026-10-20T00:22:32.289Z"
     }
   },
   "nextAt": {
