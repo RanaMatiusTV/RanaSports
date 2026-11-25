@@ -1,21 +1,21 @@
 RADAR SYNC PULSE — RANASPORTS
-Fecha de corrida: 24/11/2026 18:45 ART
-SHA base de main antes del pulso: 9805b288a6e218e324473e08d84b6e4bace54bad
-Filas nuevas verificadas en Noticias: 6 (5215:5220)
-Total acumulado de noticias en las últimas 24 horas: 38
+Fecha de corrida: 24/11/2026 21:45 ART
+SHA base de main antes del pulso: 5bf97c978f80f033cf27d72a6c1b0081784c4583
+Filas nuevas verificadas en Noticias: 6 (5221:5226)
+Total acumulado de noticias en las últimas 24 horas: 44
 
 Títulos:
-- RUGGERI PIDIÓ A JAGGER HERRERA EN LA SELECCIÓN ARGENTINA POR SU IMPACTO EN BOCA
-- SADIO MANÉ CELEBRÓ EL FALLO QUE DEVOLVIÓ A SENEGAL EL TÍTULO AFRICANO
-- COLAPINTO ADVIRTIÓ QUE LUSAIL CASTIGA CADA ERROR ANTES DEL GP DE QATAR
-- GALATASARAY VENCIÓ A ASTON VILLA Y BODØ/GLIMT GANÓ EN EL DESCUENTO POR CHAMPIONS
-- SOLANA SIERRA REMONTÓ EN BUENOS AIRES Y AVANZÓ A OCTAVOS DEL WTA 125
-- PAREDES SUPERÓ NUEVOS CONTROLES MÉDICOS Y ENTRENÓ CON BOCA ANTES DE LOS OCTAVOS
+- CRISTIANO RONALDO LLEGÓ A 987 GOLES Y AL NASSR VENCIÓ 2-1 A AL SADD
+- COMO VENCIÓ AL AEK CON NICO PAZ Y PERRONE Y TREPÓ AL TERCER PUESTO
+- REAL MADRID GOLEÓ 5-1 AL PSV Y MANTUVO SU PLENO EN LA CHAMPIONS
+- BETIS GANÓ EN BRATISLAVA Y ARSENAL EMPATÓ CON DORTMUND EN LA CHAMPIONS
+- CHERKI RESCATÓ AL MANCHESTER CITY EN EL 2-2 ANTE NAPOLI
+- PODOROSKA ELIMINÓ A LA TERCERA FAVORITA Y AVANZÓ EN EL WTA 125 DE BUENOS AIRES
 
-Última noticia cronológica: 24/11/2026 17:46 ART — PAREDES SUPERÓ NUEVOS CONTROLES MÉDICOS Y ENTRENÓ CON BOCA ANTES DE LOS OCTAVOS
-Fuentes principales: TN, ESPN, Mundo Deportivo, Alpine, Aston Villa FC, DeporTV y Ámbito
+Última noticia cronológica: 24/11/2026 20:30 ART — PODOROSKA ELIMINÓ A LA TERCERA FAVORITA Y AVANZÓ EN EL WTA 125 DE BUENOS AIRES
+Fuentes principales: TN, AFC, DeporTV, UEFA, Real Madrid, Cooperativa, Sky Sports, Hoy Día y Beyond100
 Imágenes: 6 de 6 con URL directa y respuesta HTTP 200
 Embeds oportunistas: 0
-Omisiones recuperadas: pedido de Oscar Ruggeri por Facundo Herrera, difundido a las 10:01
-Duplicados o fusiones: reacción de Mané separada del fallo por novedad verificable; dos resultados del primer turno de Champions integrados en una sola nota; previas repetidas de Boca e Independiente descartadas
-Pendientes: partidos de Champions del segundo turno aún no finalizados al cierre; debut de Nadia Podoroska sin resultado confirmado; Argentina Sub-17 ante Dinamarca corresponde al 25/11
+Omisiones recuperadas: Cristiano Ronaldo/Al Nassr, difundida a las 17:21 dentro del solapamiento
+Duplicados o fusiones: resultados de Betis, Arsenal, Porto y Leipzig integrados en una sola nota de resumen; notas previas repetidas de Boca, Independiente y los primeros partidos de Champions descartadas
+Pendientes: no quedaron candidatas verificadas de la ventana sin publicar; la tanda del miércoles de Champions corresponde a la próxima corrida
