@@ -1,56 +1,56 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-25T10:29:36.507Z",
+  "updatedAt": "2026-11-25T20:11:56.122Z",
   "trends": [
     {
-      "query": "miércoles",
-      "startedAt": "2026-11-25T10:00:00.000Z",
+      "query": "posiciones de sabah futbol klubu contra fc barcelona",
+      "startedAt": "2026-11-25T19:40:00.000Z",
+      "volume": 5000
+    },
+    {
+      "query": "ucl",
+      "startedAt": "2026-11-25T19:40:00.000Z",
       "volume": 100
     },
     {
-      "query": "medicamento",
-      "startedAt": "2026-11-25T10:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "juan manuel sara",
-      "startedAt": "2026-11-25T10:00:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "¿quien se fue de masterchef?",
-      "startedAt": "2026-11-25T09:30:00.000Z",
+      "query": "psg",
+      "startedAt": "2026-11-25T19:30:00.000Z",
       "volume": 500
     },
     {
-      "query": "club deportivo morón",
-      "startedAt": "2026-11-25T09:10:00.000Z",
+      "query": "partidos de champions league",
+      "startedAt": "2026-11-25T19:30:00.000Z",
       "volume": 200
     },
     {
-      "query": "álex arce",
-      "startedAt": "2026-11-25T09:00:00.000Z",
-      "volume": 200
+      "query": "club brujas - liverpool",
+      "startedAt": "2026-11-25T19:20:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "avión",
-      "startedAt": "2026-11-25T08:50:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "clima san luis",
-      "startedAt": "2026-11-25T08:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "iowa",
-      "startedAt": "2026-11-25T08:50:00.000Z",
+      "query": "stellantis",
+      "startedAt": "2026-11-25T19:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "antonela roccuzzo",
-      "startedAt": "2026-11-25T08:40:00.000Z",
+      "query": "sporting lisboa - manchester united",
+      "startedAt": "2026-11-25T19:10:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "losc - bayern",
+      "startedAt": "2026-11-25T19:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "inter - stuttgart",
+      "startedAt": "2026-11-25T19:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "región sur de brasil",
+      "startedAt": "2026-11-25T19:10:00.000Z",
       "volume": 200
     }
   ]
