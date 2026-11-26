@@ -1,0 +1,37 @@
+name: Guardar imagen oficial de cuartos del Clausura
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/cache-cuartos-clausura-20261126.yml'
+permissions:
+  contents: write
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar y validar imagen exacta
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p assets/noticias
+          curl --fail --location --max-time 25 --retry 1 -A 'Mozilla/5.0' -e 'https://tn.com.ar/' 'https://tn.com.ar/resizer/v2/asi-quedaron-los-cruces-de-los-cuartos-de-final-del-torneo-clausura-foto-ligaafa-267GLITKARAXNCEK3DYZ47LDGE.jfif?auth=8b51dbd703e5b7c35fd02dbf26329eb6818d7f2b51324b158e7d3d31f5a5fae6&width=767' -o /tmp/cuadro
+          python - <<'PY'
+          from PIL import Image
+          with Image.open('/tmp/cuadro') as im:
+              im.load()
+              assert im.width >= 300 and im.height >= 150, 'imagen demasiado pequena'
+              im.convert('RGB').save('assets/noticias/cuartos-clausura-20261125-lpf.jpg',quality=90)
+              print('Imagen decodificada:', im.size, im.format)
+          PY
+      - name: Publicar solo el archivo de imagen
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/noticias/cuartos-clausura-20261125-lpf.jpg
+          git commit -m 'Guardar cuadro oficial de cuartos del Clausura'
+          git pull --rebase origin main
+          git push origin HEAD:main
