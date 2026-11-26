@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/viera-ensayo-los-reemplazos-de-arias-y-avila-para-enfrentar-a-velez/": {
+      "account": "main",
+      "title": "VIERA ENSAYÓ LOS REEMPLAZOS DE ARIAS Y ÁVILA PARA ENFRENTAR A VÉLEZ",
+      "dueAt": "2026-11-26T10:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b07fccce75fad9dc8d85c10",
+      "createdAt": "2026-11-26T09:33:00.915Z"
+    },
+    "https://ranasports.com.ar/futbol/roma-empato-con-psg-y-matias-soule-fue-protagonista-en-paris/": {
+      "account": "sports",
+      "title": "ROMA EMPATÓ CON PSG Y MATÍAS SOULÉ FUE PROTAGONISTA EN PARÍS",
+      "dueAt": "2026-11-26T10:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b07fccc63939e1d008cb3e6",
+      "createdAt": "2026-11-26T09:33:00.284Z"
+    },
+    "https://ranasports.com.ar/futbol/sporting-empato-2-2-con-manchester-united-en-una-noche-de-dobletes/": {
+      "account": "sports",
+      "title": "SPORTING EMPATÓ 2-2 CON MANCHESTER UNITED EN UNA NOCHE DE DOBLETES",
+      "dueAt": "2026-11-26T10:05:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b07fccb63939e1d008cb36e",
+      "createdAt": "2026-11-26T09:32:59.153Z"
+    },
+    "https://ranasports.com.ar/futbol/liverpool-goleo-a-brujas-con-un-doblete-de-isak-y-un-gol-de-wirtz/": {
+      "account": "sports",
+      "title": "LIVERPOOL GOLEÓ A BRUJAS CON UN DOBLETE DE ISAK Y UN GOL DE WIRTZ",
+      "dueAt": "2026-11-26T09:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b07fccaaca8612480984d84",
+      "createdAt": "2026-11-26T09:32:58.556Z"
+    },
+    "https://ranasports.com.ar/tenis/solana-sierra-cayo-ante-carole-monnet-y-quedo-eliminada-del-argentina-open/": {
+      "account": "sports",
+      "title": "SOLANA SIERRA CAYÓ ANTE CAROLE MONNET Y QUEDÓ ELIMINADA DEL ARGENTINA OPEN",
+      "dueAt": "2026-11-26T09:32:56.671Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b07fcc8e75fad9dc8d85b14",
+      "createdAt": "2026-11-26T09:32:57.774Z"
+    },
+    "https://ranasports.com.ar/futbol/amenazaron-a-gaston-gaudio-y-a-sus-hijos-en-plena-campana-electoral-de-independiente/": {
+      "account": "main",
+      "title": "AMENAZARON A GASTÓN GAUDIO Y A SUS HIJOS EN PLENA CAMPAÑA ELECTORAL DE INDEPENDIENTE",
+      "dueAt": "2026-11-26T09:35:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b07fcc763939e1d008cb204",
+      "createdAt": "2026-11-26T09:32:55.156Z"
+    },
     "https://ranasports.com.ar/basquet/argentina-puede-clasificarse-al-mundial-de-basquet-2027-con-dos-triunfos-en-zarate/": {
       "account": "sports",
       "title": "ARGENTINA PUEDE CLASIFICARSE AL MUNDIAL DE BÁSQUET 2027 CON DOS TRIUNFOS EN ZÁRATE",
@@ -4760,54 +4808,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad7a0af99840d511e07e0d5",
       "createdAt": "2026-10-20T17:11:11.399Z"
-    },
-    "https://ranasports.com.ar/futbol/imanol-machuca-podria-debutar-en-independiente-en-noviembre/": {
-      "account": "main",
-      "title": "IMANOL MACHUCA PODRÍA DEBUTAR EN INDEPENDIENTE EN NOVIEMBRE",
-      "dueAt": "2026-10-20T17:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7a0addbe8f4b851e1f910",
-      "createdAt": "2026-10-20T17:11:09.505Z"
-    },
-    "https://ranasports.com.ar/tenis/diaz-acosta-elimino-a-tirante-en-almaty-y-avanzo-a-segunda-ronda/": {
-      "account": "sports",
-      "title": "DÍAZ ACOSTA ELIMINÓ A TIRANTE EN ALMATY Y AVANZÓ A SEGUNDA RONDA",
-      "dueAt": "2026-10-20T18:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7a0ac04c3c5310c451c41",
-      "createdAt": "2026-10-20T17:11:08.972Z"
-    },
-    "https://ranasports.com.ar/polideportivo/fingio-un-desmayo-para-escapar-de-una-llave-y-gano-una-pelea-de-mma/": {
-      "account": "sports",
-      "title": "FINGIÓ UN DESMAYO PARA ESCAPAR DE UNA LLAVE Y GANÓ UNA PELEA DE MMA",
-      "dueAt": "2026-10-20T17:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7a0ac04c37bdd0538a11f",
-      "createdAt": "2026-10-20T17:11:08.404Z"
-    },
-    "https://ranasports.com.ar/tenis/baez-cayo-ante-herbert-y-quedo-eliminado-en-su-debut-en-lyon/": {
-      "account": "sports",
-      "title": "BÁEZ CAYÓ ANTE HERBERT Y QUEDÓ ELIMINADO EN SU DEBUT EN LYON",
-      "dueAt": "2026-10-20T17:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7a0abdbe8f4b851e1f765",
-      "createdAt": "2026-10-20T17:11:07.596Z"
-    },
-    "https://ranasports.com.ar/automovilismo/mattia-colnaghi-pasara-a-campos-racing-para-pelear-el-titulo-de-formula-3-en-2027/": {
-      "account": "sports",
-      "title": "MATTIA COLNAGHI PASARÁ A CAMPOS RACING PARA PELEAR EL TÍTULO DE FÓRMULA 3 EN 2027",
-      "dueAt": "2026-10-20T17:11:01.508Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ad7a0a504c37bdd0538a00d",
-      "createdAt": "2026-10-20T17:11:06.739Z"
-    },
-    "https://ranasports.com.ar/futbol/la-policia-busca-a-quien-arrojo-una-pelota-de-rugby-al-estadio-en-brentford-liverpool/": {
-      "account": "sports",
-      "title": "LA POLICÍA BUSCA A QUIEN ARROJÓ UNA PELOTA DE RUGBY AL ESTADIO EN BRENTFORD-LIVERPOOL",
-      "dueAt": "2026-10-20T13:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7534c41bc4976d54387b2",
-      "createdAt": "2026-10-20T11:41:00.453Z"
     }
   },
   "nextAt": {
