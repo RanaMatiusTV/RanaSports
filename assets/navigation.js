@@ -1,6 +1,7 @@
 /* Navigation only. The remaining sports are provided by the CSV. */
 (() => {
  const nav=document.querySelector('.dynamic-nav');if(!nav)return;
+ nav.closest('.header-inner')?.classList.add('rs-responsive-header');
  const navScript=document.querySelector('script[src*="assets/navigation.js"]');
  const base=new URL('../',navScript?.src||location.href);
  const home=Boolean(document.querySelector('#newsGrid'));
@@ -54,6 +55,30 @@
     #navDrawer{width:min(100%,380px)}
    }
    @media(max-width:360px){.site-header .header-inner .dynamic-nav>a{font-size:11px;padding:8px 7px}}
+
+   /* Two independent header rows: legacy mobile styles must not collapse the brand. */
+   .site-header .header-inner.rs-responsive-header{height:auto!important;min-height:0!important;flex-wrap:wrap!important;max-width:100%!important;min-width:0!important}
+   .site-header .header-inner.rs-responsive-header>.dynamic-nav{flex:0 0 100%!important;width:100%!important;max-width:100%!important;min-width:0!important;order:10;align-self:stretch}
+   @media(max-width:699px){
+    .site-header .header-inner.rs-responsive-header{display:grid!important;grid-template-columns:minmax(0,1fr) 44px auto;grid-template-rows:auto auto;align-items:center;column-gap:6px!important;row-gap:0!important;padding:6px 0 0!important}
+    .site-header .header-inner.rs-responsive-header>.brand{grid-column:1;grid-row:1;display:flex!important;align-items:center;gap:5px!important;width:100%;min-width:0!important;max-width:100%!important;overflow:visible!important;justify-self:start}
+    .site-header .header-inner.rs-responsive-header>.brand .brand-frog{width:34px!important;height:32px!important;flex:0 0 34px!important;object-fit:contain}
+    .site-header .header-inner.rs-responsive-header>.brand .brand-copy{display:flex!important;min-width:0!important;overflow:visible!important}
+    .site-header .header-inner.rs-responsive-header>.brand .brand-copy b{display:block!important;font-size:clamp(16px,4.7vw,22px)!important;letter-spacing:-.6px!important;white-space:nowrap!important;line-height:1.1!important}
+    .site-header .header-inner.rs-responsive-header>.brand .brand-copy small{display:none!important}
+    .site-header .header-inner.rs-responsive-header>.theme-toggle{grid-column:2;grid-row:1;width:44px!important;min-width:44px!important;height:44px!important;min-height:44px!important;margin:0!important;justify-self:center}
+    .site-header .header-inner.rs-responsive-header>.mobile-menu-button{grid-column:3;grid-row:1;width:auto!important;min-width:70px!important;height:44px!important;min-height:44px!important;padding:0 8px!important;gap:5px!important;margin:0!important}
+    .site-header .header-inner.rs-responsive-header>.rs-live-btn,.site-header .header-inner.rs-responsive-header>.header-youtube,.site-header .header-inner.rs-responsive-header>.rs-header-socials,.site-header .header-inner.rs-responsive-header>#installBtn{display:none!important}
+    .site-header .header-inner.rs-responsive-header>.dynamic-nav{grid-column:1/-1;grid-row:2;display:grid!important;grid-template-columns:repeat(5,minmax(0,1fr));gap:0!important;overflow:visible!important;margin:6px 0 0!important}
+    .site-header .header-inner.rs-responsive-header>.dynamic-nav>a{min-width:0!important;width:100%;padding:0 2px!important;min-height:44px!important;font-size:clamp(11px,3.25vw,13px)!important;white-space:nowrap!important}
+    .site-header .header-inner.rs-responsive-header>.dynamic-nav>a[href$="#otros"]{display:none!important}
+   }
+   @media(max-width:340px){
+    .site-header .header-inner.rs-responsive-header{column-gap:4px!important}
+    .site-header .header-inner.rs-responsive-header>.brand .brand-frog{width:28px!important;height:28px!important;flex-basis:28px!important}
+    .site-header .header-inner.rs-responsive-header>.brand .brand-copy b{font-size:16px!important}
+    .site-header .header-inner.rs-responsive-header>.mobile-menu-button{min-width:66px!important;padding:0 6px!important}
+   }
    @media(prefers-reduced-motion:reduce){#navDrawer *{scroll-behavior:auto!important;transition:none!important}}
   `;
   document.head.append(style);
