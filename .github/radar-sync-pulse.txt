@@ -1,4 +1,5 @@
-RADAR SYNC PULSE — RanaSports embeds extraordinarios
-25/11/2026 21:56 ART
-Cobertura auditada: 32 noticias de las últimas 24 horas; 26 con K en Google Sheets; 16 exportadas antes del pulso; 10 pendientes de exportación.
-Reexportar desde la planilla mediante el workflow existente, incluyendo los días 24 y 25/11/2026. Filas K pendientes: 5229, 5230, 5255, 5263, 5269, 5273, 5274, 5275, 5277, 5279.
+RADAR SYNC PULSE — RanaSports noticias extraordinarias
+26/11/2026 00:15 ART — ventana 25/11 18:15 a 26/11 00:15
+9 altas verificadas en Noticias, filas 5284–5292; última por hora: Alarma en Boca por las lesiones de Milton Delgado y Williams Alarcón (23:02).
+Títulos: amenazas a Gaudio; pruebas de Viera; Boca 2-0 Independiente Rivadavia; lesiones Delgado y Alarcón; polémica Lozano; Reserva Talleres; Julia Riera; Racing-Alcaraz; césped Instituto.
+Reexportar desde la planilla mediante workflow existente. No modificar noticias históricas.
