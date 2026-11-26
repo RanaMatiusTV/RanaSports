@@ -121,6 +121,19 @@ function refreshMomentTags(){
  momentTopics.hidden=chosen.length===0;
 }
 function apply() {
+ const agendaView=location.hash==='#agenda';
+ const agenda=document.querySelector('#rsAgendaView');
+ const feed=document.querySelector('#ultimas');
+ if(agenda){
+  agenda.hidden=!agendaView;
+  if(feed)feed.hidden=agendaView;
+  const frame=document.querySelector('#rsAgendaFrame');
+  if(agendaView&&frame&&!frame.getAttribute('src'))frame.src=frame.dataset.src;
+ }
+ if(agendaView&&agenda){
+  document.querySelectorAll('.desktop-nav a, .mobile-nav a, .drawer-nav a').forEach(link=>{const selected=link.getAttribute('href')==='#agenda';link.classList.toggle('active',selected);if(selected)link.setAttribute('aria-current','page');else link.removeAttribute('aria-current');});
+  return;
+ }
  const liveView=location.hash==='#en-vivo';
  const q = normalize(search?.value.trim() || '');
  let count = 0;
@@ -157,6 +170,7 @@ function apply() {
 function applyHashFilter() {
  if (!newsGrid) return;
  const key = decodeURIComponent(location.hash.slice(1)) || 'ultimas';
+ if(key==='agenda'&&document.querySelector('#rsAgendaView')){active='todas';apply();document.querySelector('#rsAgendaView').scrollIntoView({behavior:'instant'});return;}
  if(key==='en-vivo'){active='todas';apply();liveModule?.scrollIntoView({behavior:'instant'});return;}
  if (!Object.hasOwn(sections, key)&&!key.startsWith('club:')&&!key.startsWith('torneo:')&&!key.startsWith('seleccion-sub-')) return;
  active = key === 'ultimas' ? 'todas' : key;
