@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/basquet/argentina-puede-clasificarse-al-mundial-de-basquet-2027-con-dos-triunfos-en-zarate/": {
+      "account": "sports",
+      "title": "ARGENTINA PUEDE CLASIFICARSE AL MUNDIAL DE BÁSQUET 2027 CON DOS TRIUNFOS EN ZÁRATE",
+      "dueAt": "2026-11-26T01:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b077bea9f6dda31ccabc6ae",
+      "createdAt": "2026-11-26T00:23:06.882Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-y-platense-jugaran-la-final-de-la-copa-argentina-el-2-de-diciembre-en-santiago-del-estero/": {
+      "account": "sports",
+      "title": "BOCA Y PLATENSE JUGARÁN LA FINAL DE LA COPA ARGENTINA EL 2 DE DICIEMBRE EN SANTIAGO DEL ESTERO",
+      "dueAt": "2026-11-26T00:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b077be9d4eda4b659c24742",
+      "createdAt": "2026-11-26T00:23:06.020Z"
+    },
+    "https://ranasports.com.ar/futbol/barcelona-goleo-4-1-al-sabah-y-se-afianzo-en-la-zona-alta-de-la-champions/": {
+      "account": "sports",
+      "title": "BARCELONA GOLEÓ 4-1 AL SABAH Y SE AFIANZÓ EN LA ZONA ALTA DE LA CHAMPIONS",
+      "dueAt": "2026-11-26T00:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b077be907071a60673da061",
+      "createdAt": "2026-11-26T00:23:05.221Z"
+    },
+    "https://ranasports.com.ar/seleccion-argentina-sub-17/argentina-sub-17-remonto-ante-dinamarca-empato-3-3-y-avanzo-a-16avos-del-mundial/": {
+      "account": "sports",
+      "title": "ARGENTINA SUB-17 REMONTÓ ANTE DINAMARCA, EMPATÓ 3-3 Y AVANZÓ A 16AVOS DEL MUNDIAL",
+      "dueAt": "2026-11-26T00:23:02.072Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b077be5b96dd8d35174773b",
+      "createdAt": "2026-11-26T00:23:04.417Z"
+    },
     "https://ranasports.com.ar/futbol/la-afa-homenajeo-a-diego-maradona-a-seis-anos-de-su-muerte/": {
       "account": "sports",
       "title": "LA AFA HOMENAJEÓ A DIEGO MARADONA A SEIS AÑOS DE SU MUERTE",
@@ -4776,38 +4808,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad7534c41bc4976d54387b2",
       "createdAt": "2026-10-20T11:41:00.453Z"
-    },
-    "https://ranasports.com.ar/futbol/sarmiento-y-barracas-empataron-1-1-en-un-partido-marcado-por-el-var/": {
-      "account": "sports",
-      "title": "SARMIENTO Y BARRACAS EMPATARON 1-1 EN UN PARTIDO MARCADO POR EL VAR",
-      "dueAt": "2026-10-20T12:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7534b41bc4976d5438783",
-      "createdAt": "2026-10-20T11:40:59.827Z"
-    },
-    "https://ranasports.com.ar/futbol/estudiantes-llega-al-maracana-con-un-triunfo-en-siete-partidos/": {
-      "account": "sports",
-      "title": "ESTUDIANTES LLEGA AL MARACANÁ CON UN TRIUNFO EN SIETE PARTIDOS",
-      "dueAt": "2026-10-20T11:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7534a59946a79ac764485",
-      "createdAt": "2026-10-20T11:40:58.150Z"
-    },
-    "https://ranasports.com.ar/maradona/comienza-la-ultima-semana-de-audiencias-en-el-juicio-por-la-muerte-de-maradona/": {
-      "account": "sports",
-      "title": "COMIENZA LA ÚLTIMA SEMANA DE AUDIENCIAS EN EL JUICIO POR LA MUERTE DE MARADONA",
-      "dueAt": "2026-10-20T11:40:56.396Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ad7534841bc4976d5438716",
-      "createdAt": "2026-10-20T11:40:57.511Z"
-    },
-    "https://ranasports.com.ar/f1/mclaren-le-dara-dos-practicas-libres-a-fornaroli-en-mexico-y-brasil/": {
-      "account": "f1",
-      "title": "MCLAREN LE DARÁ DOS PRÁCTICAS LIBRES A FORNAROLI EN MÉXICO Y BRASIL",
-      "dueAt": "2026-10-20T06:05:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad704272d48e20f64ce2708",
-      "createdAt": "2026-10-20T06:03:19.643Z"
     }
   },
   "nextAt": {
