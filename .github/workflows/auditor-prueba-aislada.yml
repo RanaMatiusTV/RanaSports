@@ -1,0 +1,43 @@
+name: Auditor RanaSports - prueba aislada
+on:
+  push:
+    branches: [pruebas-auditor-ranasports]
+    paths:
+      - '.github/workflows/auditor-prueba-aislada.yml'
+      - 'tools/auditor/**'
+permissions:
+  contents: read
+jobs:
+  auditor:
+    if: github.ref == 'refs/heads/pruebas-auditor-ranasports'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Auditar copia CSV y portal sin escrituras
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tools/auditor/ranasports_auditor.py --csv assets/news-live.csv --horas 48 > /tmp/repo-audit.json
+          python3 tools/auditor/ranasports_auditor.py --horas 48 > /tmp/portal-audit.json
+          python3 - <<'PY'
+          import json
+          for path in ('/tmp/repo-audit.json','/tmp/portal-audit.json'):
+              with open(path) as f:
+                  d=json.load(f)
+              print(path, {k:len(v) if isinstance(v,list) else v for k,v in d.items()})
+          PY
+      - name: Comparar portal con planilla publicada
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error --location --max-time 35 --max-filesize 20000000 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRmbZPf_uxPdpS-phGua9U3PccA2z7Uls3G8r49CLfi37qkMJkpRPDUU7VdAZg_IMI7Ynegy-yxyAhr/pub?gid=663081286&single=true&output=csv' -o /tmp/origen.csv
+          python3 tools/auditor/ranasports_auditor.py --origen /tmp/origen.csv --horas 24 > /tmp/compare-audit.json
+          python3 - <<'PY'
+          import json
+          with open('/tmp/compare-audit.json') as f:
+              d=json.load(f)
+          print({k:len(v) for k,v in d['comparacion'].items()})
+          PY
