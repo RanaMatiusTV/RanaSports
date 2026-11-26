@@ -1,6 +1,70 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/haas-renovo-a-oliver-bearman-y-completo-la-grilla-de-la-formula-1-para-2027/": {
+      "account": "f1",
+      "title": "HAAS RENOVÓ A OLIVER BEARMAN Y COMPLETÓ LA GRILLA DE LA FÓRMULA 1 PARA 2027",
+      "dueAt": "2026-11-26T20:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b088aa3f0a96d0f2185a5c7",
+      "createdAt": "2026-11-26T19:38:12.039Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-advirtio-que-las-caracteristicas-de-qatar-pueden-complicar-a-alpine/": {
+      "account": "f1",
+      "title": "COLAPINTO ADVIRTIÓ QUE LAS CARACTERÍSTICAS DE QATAR PUEDEN COMPLICAR A ALPINE",
+      "dueAt": "2026-11-26T19:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b088aa2c81617797dd9b9f2",
+      "createdAt": "2026-11-26T19:38:11.110Z"
+    },
+    "https://ranasports.com.ar/tenis/dani-merida-vencio-a-schwarzler-y-puso-a-espana-1-0-ante-austria-en-la-copa-davis/": {
+      "account": "sports",
+      "title": "DANI MÉRIDA VENCIÓ A SCHWARZLER Y PUSO A ESPAÑA 1-0 ANTE AUSTRIA EN LA COPA DAVIS",
+      "dueAt": "2026-11-26T20:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b088aa21fa409158291a73a",
+      "createdAt": "2026-11-26T19:38:10.585Z"
+    },
+    "https://ranasports.com.ar/futbol/campeones-de-estudiantes-acompanaran-al-plantel-en-la-final-de-la-libertadores/": {
+      "account": "sports",
+      "title": "CAMPEONES DE ESTUDIANTES ACOMPAÑARÁN AL PLANTEL EN LA FINAL DE LA LIBERTADORES",
+      "dueAt": "2026-11-26T20:10:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b088aa13accdac92cf562ed",
+      "createdAt": "2026-11-26T19:38:09.806Z"
+    },
+    "https://ranasports.com.ar/futbol/independiente-pago-parte-de-la-deuda-y-garantizo-las-comidas-del-plantel-hasta-el-sabado/": {
+      "account": "main",
+      "title": "INDEPENDIENTE PAGÓ PARTE DE LA DEUDA Y GARANTIZÓ LAS COMIDAS DEL PLANTEL HASTA EL SÁBADO",
+      "dueAt": "2026-11-26T20:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b088aa19068b6e0795c23a5",
+      "createdAt": "2026-11-26T19:38:09.243Z"
+    },
+    "https://ranasports.com.ar/futbol/independiente-depende-de-estudiantes-para-asegurar-su-lugar-en-la-sudamericana-2027/": {
+      "account": "main",
+      "title": "INDEPENDIENTE DEPENDE DE ESTUDIANTES PARA ASEGURAR SU LUGAR EN LA SUDAMERICANA 2027",
+      "dueAt": "2026-11-26T19:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b088aa01fa409158291a5f7",
+      "createdAt": "2026-11-26T19:38:08.754Z"
+    },
+    "https://ranasports.com.ar/tenis/gran-bretana-elimino-a-alemania-en-el-dobles-y-avanzo-a-semifinales-de-la-copa-davis/": {
+      "account": "sports",
+      "title": "GRAN BRETAÑA ELIMINÓ A ALEMANIA EN EL DOBLES Y AVANZÓ A SEMIFINALES DE LA COPA DAVIS",
+      "dueAt": "2026-11-26T19:40:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b088a9f3accdac92cf5625e",
+      "createdAt": "2026-11-26T19:38:08.103Z"
+    },
+    "https://ranasports.com.ar/tenis/gran-bretana-elimino-a-alemania-y-avanzo-a-semifinales-de-la-copa-davis/": {
+      "account": "sports",
+      "title": "GRAN BRETAÑA ELIMINÓ A ALEMANIA Y AVANZÓ A SEMIFINALES DE LA COPA DAVIS",
+      "dueAt": "2026-11-26T19:38:05.321Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b088a9dc81617797dd9b47b",
+      "createdAt": "2026-11-26T19:38:06.425Z"
+    },
     "https://ranasports.com.ar/futbol/viera-ensayo-los-reemplazos-de-arias-y-avila-para-enfrentar-a-velez/": {
       "account": "main",
       "title": "VIERA ENSAYÓ LOS REEMPLAZOS DE ARIAS Y ÁVILA PARA ENFRENTAR A VÉLEZ",
@@ -4744,70 +4808,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad7ff3bc11f7f6be272819b",
       "createdAt": "2026-10-20T23:54:36.064Z"
-    },
-    "https://ranasports.com.ar/futbol/fifa-sanciono-al-dt-de-egipto-y-a-un-jugador-por-el-partido-ante-argentina/": {
-      "account": "sports",
-      "title": "FIFA SANCIONÓ AL DT DE EGIPTO Y A UN JUGADOR POR EL PARTIDO ANTE ARGENTINA",
-      "dueAt": "2026-10-21T01:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7ff3bc8c16a2bbdb70988",
-      "createdAt": "2026-10-20T23:54:35.394Z"
-    },
-    "https://ranasports.com.ar/futbol/sarmiento-denuncio-un-gol-mal-anulado-ante-barracas-y-apunto-contra-el-var/": {
-      "account": "sports",
-      "title": "SARMIENTO DENUNCIÓ UN GOL MAL ANULADO ANTE BARRACAS Y APUNTÓ CONTRA EL VAR",
-      "dueAt": "2026-10-21T00:30:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7ff395a0b7fe6fa7d2990",
-      "createdAt": "2026-10-20T23:54:34.122Z"
-    },
-    "https://ranasports.com.ar/futbol/la-cocinera-de-la-seleccion-revelo-los-platos-favoritos-del-plantel/": {
-      "account": "sports",
-      "title": "LA COCINERA DE LA SELECCIÓN REVELÓ LOS PLATOS FAVORITOS DEL PLANTEL",
-      "dueAt": "2026-10-21T00:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7ff3979ac5466f5c876f3",
-      "createdAt": "2026-10-20T23:54:33.241Z"
-    },
-    "https://ranasports.com.ar/futbol/maxi-meza-recupero-protagonismo-en-independiente/": {
-      "account": "main",
-      "title": "MAXI MEZA RECUPERÓ PROTAGONISMO EN INDEPENDIENTE: TRES GOLES EN SEIS TITULARIDADES",
-      "dueAt": "2026-10-21T00:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7ff3879ac5466f5c876ab",
-      "createdAt": "2026-10-20T23:54:32.829Z"
-    },
-    "https://ranasports.com.ar/futbol/boca-necesita-ganar-por-dos-goles-para-pasar-directo-a-la-final-de-la-sudamericana/": {
-      "account": "sports",
-      "title": "BOCA NECESITA GANAR POR DOS GOLES PARA PASAR DIRECTO A LA FINAL DE LA SUDAMERICANA",
-      "dueAt": "2026-10-20T21:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7d10ea2af9351fbbedb6e",
-      "createdAt": "2026-10-20T20:37:34.915Z"
-    },
-    "https://ranasports.com.ar/futbol/miljevic-sigue-en-duda-para-volver-a-la-lista-de-racing-ante-river/": {
-      "account": "sports",
-      "title": "MILJEVIC SIGUE EN DUDA PARA VOLVER A LA LISTA DE RACING ANTE RIVER",
-      "dueAt": "2026-10-20T21:10:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7d10e3a9ca84966b48ea0",
-      "createdAt": "2026-10-20T20:37:34.364Z"
-    },
-    "https://ranasports.com.ar/futbol/river-fue-el-equipo-que-mas-puntos-sumo-desde-que-completo-sus-refuerzos/": {
-      "account": "sports",
-      "title": "RIVER FUE EL EQUIPO QUE MÁS PUNTOS SUMÓ DESDE QUE COMPLETÓ SUS REFUERZOS",
-      "dueAt": "2026-10-20T20:40:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7d10d3a9ca84966b48e77",
-      "createdAt": "2026-10-20T20:37:33.933Z"
-    },
-    "https://ranasports.com.ar/f1/colapinto-se-prepara-para-austin/": {
-      "account": "f1",
-      "title": "COLAPINTO SE PREPARA PARA AUSTIN: DÍAS Y HORARIOS DEL GRAN PREMIO DE ESTADOS UNIDOS",
-      "dueAt": "2026-10-20T17:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7a0af99840d511e07e0d5",
-      "createdAt": "2026-10-20T17:11:11.399Z"
     }
   },
   "nextAt": {
