@@ -1,4 +1,9 @@
-RADAR SYNC PULSE — recuperación extraordinaria ampliada 25/11/2026
-Altas verificadas en Noticias: 11 filas 5270–5280; 21 altas acumuladas de ambas tandas, filas 5260–5280.
-Liverpool-Brujas; Lille-Bayern; Sporting-Manchester United; Fenerbahçe-Shakhtar; cronograma Qatar; viaje Estudiantes; convocados Palmeiras; finales Nations Championship; River Montiel, Beltrán y Acuña; San Lorenzo sueldos; árbitros semifinales Primera B.
-Última hora editorial del lote: 25/11/2026 20:12 ART — Palmeiras convocados.
+RanaSports Radar 1 sync pulse
+Fecha argentina: 25/11/2026 21:45
+SHA base: 3a9b5515157f6bbee10bf76893edf652bd5bb031
+Filas nuevas: 3 (5281-5283)
+Títulos:
+- MARÍA LOURDES CARLÉ VENCIÓ A LARRAYA GUIDI Y AVANZÓ EN EL ARGENTINA OPEN
+- JUAN MANUEL LA SERNA DENUNCIÓ AMENAZAS DE MUERTE VINCULADAS A APUESTAS
+- COMENZÓ LA PREVENTA PARA LA DESPEDIDA DE CARLOS TEVEZ EN LA BOMBONERA
+Última noticia escrita: COMENZÓ LA PREVENTA PARA LA DESPEDIDA DE CARLOS TEVEZ EN LA BOMBONERA
