@@ -49,7 +49,8 @@
    }
    @media(max-width:699px){
     .site-header .header-inner .theme-toggle{height:44px!important;width:44px!important;min-width:44px!important;flex:0 0 44px!important}
-    .site-header .header-inner .dynamic-nav>a{flex:1 0 auto;padding:8px 9px}
+    .site-header .header-inner .dynamic-nav>a{flex:1 0 auto;padding:8px 7px}
+    .site-header .header-inner .dynamic-nav>a[href$="#otros"]{display:none}
     #navDrawer{width:min(100%,380px)}
    }
    @media(max-width:360px){.site-header .header-inner .dynamic-nav>a{font-size:11px;padding:8px 7px}}
