@@ -1,3 +1,3 @@
-RADAR SYNC PULSE — corrección puntual de imagen
-26/11/2026 01:07 ART
-Fila 5294: QUEDÓ CONFIRMADO EL CRONOGRAMA COMPLETO DE LOS CUARTOS DE FINAL DEL CLAUSURA. H, L, O/P actualizadas con cuadro oficial Liga Profesional vía TN, imagen abierta e inspeccionada. Reexportar planilla mediante workflow existente. Sin cambios de código, radares o demás noticias.
+RADAR SYNC PULSE — reparación de imagen con archivo local validado
+26/11/2026 01:10 ART
+Fila 5294: cronograma de cuartos del Clausura. H apunta a https://ranasports.com.ar/assets/noticias/cuartos-clausura-20261125-lpf.jpg; JPEG descargado y decodificado, blob e2af9b601e3d692773bd31ca9b921f97551d7a73. Reexportar con workflow existente. Sin cambios en radares.
