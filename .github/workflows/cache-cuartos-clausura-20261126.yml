@@ -18,6 +18,7 @@ jobs:
           set -euo pipefail
           mkdir -p assets/noticias
           curl --fail --location --max-time 25 --retry 1 -A 'Mozilla/5.0' -e 'https://tn.com.ar/' 'https://tn.com.ar/resizer/v2/asi-quedaron-los-cruces-de-los-cuartos-de-final-del-torneo-clausura-foto-ligaafa-267GLITKARAXNCEK3DYZ47LDGE.jfif?auth=8b51dbd703e5b7c35fd02dbf26329eb6818d7f2b51324b158e7d3d31f5a5fae6&width=767' -o /tmp/cuadro
+          python -m pip install --quiet Pillow
           python - <<'PY'
           from PIL import Image
           with Image.open('/tmp/cuadro') as im:
