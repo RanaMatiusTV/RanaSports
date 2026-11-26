@@ -1,18 +1,3 @@
-RADAR SYNC PULSE — RANASPORTS
-Fecha de corrida: 25/11/2026 18:45 ART
-SHA base de main antes del pulso: 6babf99ac6e5963de7c9846f30be7b802b6d1664
-Filas nuevas verificadas en Noticias: 3 (5257:5259)
-Total acumulado de noticias en las últimas 24 horas: 26
-
-Títulos:
-- BARCELONA GOLEÓ 4-1 AL SABAH Y SE AFIANZÓ EN LA ZONA ALTA DE LA CHAMPIONS
-- BOCA Y PLATENSE JUGARÁN LA FINAL DE LA COPA ARGENTINA EL 2 DE DICIEMBRE EN SANTIAGO DEL ESTERO
-- ARGENTINA YA CONOCE SUS SEDES Y RIVALES PARA LA VNL MASCULINA 2027
-
-Última noticia cronológica en la planilla: 25/11/2026 16:38 ART — BARCELONA GOLEÓ 4-1 AL SABAH Y SE AFIANZÓ EN LA ZONA ALTA DE LA CHAMPIONS
-Ventana principal cubierta: 25/11/2026 15:45–18:45 ART, con dos horas de solapamiento desde las 13:45 y recuperación de dos omisiones verificadas del mismo día
-Fuentes principales: Copa Argentina, Volleyball World, Infobae, Europa Press, TyC Sports, Clarín, TN, LA NACION, Olé, ESPN, DeporTV, Solo Ascenso, FeVA y medios oficiales
-Imágenes: 3 de 3 con URL directa y crédito; las tres verificadas visualmente, una rotulada como archivo
-Embeds oportunistas: 0
-Duplicados descartados: River por Tomás Palacios; Independiente por Ávila, Arias, Viera y elecciones; previas de Boca; Sierra y Podoroska; agenda y partidos todavía en juego
-Pendientes: Slavia Praha 0-1 Villarreal por falta de una foto legítima que cargara; resultados de los partidos de Champions iniciados a las 17; Lanús-River de Reserva todavía en juego al corte; Boca-Independiente Rivadavia a las 21:00
+Radar 1 extraordinario | 25/11/2026 21:41 ART | altas verificadas: 10 | filas 5260-5269
+Independiente deuda gastronomía; árbitros Clausura; Belmonte Boca; FIA Alpine; Podoroska; Julián Álvarez; Lautaro Martínez; Roma PSG; Villarreal; Reserva River.
+Última noticia por hora editorial: 25/11/2026 19:11 ART (Atlético-Viking / Roma-PSG).
