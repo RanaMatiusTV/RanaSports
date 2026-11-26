@@ -1,0 +1,20 @@
+name: RanaSports - recuperacion de embeds en prueba
+on:
+  push:
+    branches: [pruebas-auditor-ranasports]
+    paths:
+      - '.github/workflows/auditor-recuperacion-prueba.yml'
+      - 'tools/auditor/recuperar_embeds.py'
+permissions:
+  contents: read
+jobs:
+  candidates:
+    if: github.ref == 'refs/heads/pruebas-auditor-ranasports'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Buscar candidatos sin publicar
+        run: python3 tools/auditor/recuperar_embeds.py
