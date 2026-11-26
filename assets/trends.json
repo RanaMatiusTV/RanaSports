@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-25T20:11:56.122Z",
+  "updatedAt": "2026-11-26T02:50:30.456Z",
   "trends": [
     {
-      "query": "posiciones de sabah futbol klubu contra fc barcelona",
-      "startedAt": "2026-11-25T19:40:00.000Z",
-      "volume": 5000
-    },
-    {
-      "query": "ucl",
-      "startedAt": "2026-11-25T19:40:00.000Z",
+      "query": "rockets - suns",
+      "startedAt": "2026-11-26T02:20:00.000Z",
       "volume": 100
     },
     {
-      "query": "psg",
-      "startedAt": "2026-11-25T19:30:00.000Z",
-      "volume": 500
-    },
-    {
-      "query": "partidos de champions league",
-      "startedAt": "2026-11-25T19:30:00.000Z",
+      "query": "bancor",
+      "startedAt": "2026-11-26T02:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "club brujas - liverpool",
-      "startedAt": "2026-11-25T19:20:00.000Z",
-      "volume": 1000
+      "query": "ola de calor",
+      "startedAt": "2026-11-26T02:00:00.000Z",
+      "volume": 200
     },
     {
-      "query": "stellantis",
-      "startedAt": "2026-11-25T19:20:00.000Z",
-      "volume": 100
+      "query": "carlos melconian",
+      "startedAt": "2026-11-26T02:00:00.000Z",
+      "volume": 200
     },
     {
-      "query": "sporting lisboa - manchester united",
-      "startedAt": "2026-11-25T19:10:00.000Z",
+      "query": "posiciones de independiente santa fe contra once caldas",
+      "startedAt": "2026-11-26T01:50:00.000Z",
       "volume": 2000
     },
     {
-      "query": "losc - bayern",
-      "startedAt": "2026-11-25T19:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "inter - stuttgart",
-      "startedAt": "2026-11-25T19:10:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "región sur de brasil",
-      "startedAt": "2026-11-25T19:10:00.000Z",
+      "query": "aranda",
+      "startedAt": "2026-11-26T01:50:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "rodrigo battaglia",
+      "startedAt": "2026-11-26T01:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "di lollo",
+      "startedAt": "2026-11-26T01:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "torneo clausura 2026",
+      "startedAt": "2026-11-26T01:40:00.000Z",
+      "volume": 2000
+    },
+    {
+      "query": "murio andy taylor duran duran",
+      "startedAt": "2026-11-26T01:40:00.000Z",
+      "volume": 500
     }
   ]
 }
