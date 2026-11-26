@@ -47,7 +47,7 @@ def metadata(u):
     d=json.loads(get(api,150_000))
     text=d.get("title","") if youtube else html.unescape(re.sub(r"<[^>]+>"," ",d.get("html","")))
     return text, d.get("author_name","")
-def one(r):
+def source_candidates(r):
     result={"titulo":r["titulo"],"fecha":r["dt"].isoformat(),"candidatos":[],"estado":""}
     src=r.get("url fuente") or r.get("url nota","")
     if not allowed(src):
@@ -69,6 +69,88 @@ def one(r):
             continue
     result["estado"]="requiere_revision_editorial" if result["candidatos"] else "sin_candidato_validado_por_metadatos"
     return result
+
+
+# Búsqueda independiente de la fuente original. Los resultados son candidatos,
+# incluso si oEmbed responde: no certifica fecha, derechos ni pertinencia editorial.
+MEDIA=("espn","sportcenter","sportscenter","tyc sports","tnt sports","dsports","ole","liga profesional","afa","formula 1","atp tour","wta")
+def walk(node):
+    if isinstance(node,dict):
+        for k,v in node.items():
+            if k in ("videoRenderer","reelItemRenderer","shortsLockupViewModel") and isinstance(v,dict):
+                yield k,v
+            yield from walk(v)
+    elif isinstance(node,list):
+        for v in node:
+            yield from walk(v)
+def txt(node):
+    if isinstance(node,str):
+        return node
+    if not isinstance(node,dict):
+        return ""
+    return node.get("simpleText") or node.get("content") or " ".join(r.get("text","") for r in node.get("runs",[]) if isinstance(r,dict))
+def parse_search(page):
+    m=re.search(r'(?:var\s+ytInitialData\s*=|window\["ytInitialData"\]\s*=)\s*',page)
+    if not m:
+        raise ValueError("sin datos de busqueda")
+    data=json.JSONDecoder().raw_decode(page[m.end():])[0]
+    results={}
+    for kind,v in walk(data):
+        shorts=kind!="videoRenderer"
+        vid=v.get("videoId") or v.get("onTap",{}).get("innertubeCommand",{}).get("reelWatchEndpoint",{}).get("videoId")
+        if not isinstance(vid,str) or not re.fullmatch(r"[A-Za-z0-9_-]{11}",vid):
+            continue
+        title=txt(v.get("title")) or txt(v.get("headline")) or txt(v.get("overlayMetadata",{}).get("primaryText"))
+        author=txt(v.get("ownerText")) or txt(v.get("shortBylineText"))
+        age=txt(v.get("publishedTimeText"))
+        if title:
+            results.setdefault(vid,{"url":"https://www.youtube.com/"+("shorts/"+vid if shorts else "watch?v="+vid),"title":title,"author":author,"age":age,"tipo":"short" if shorts else "video"})
+    return list(results.values())
+def recent_hint(age):
+    # Sin fecha exacta no se afirma actualidad: solo una pista de la interfaz.
+    a=norm(age)
+    return bool(re.search(r"\b(?:second|minute|hour|segundo|minuto|hora)s?\b",a) or re.search(r"\b(?:1|2|a|one|un|una|two|dos)\s+(?:day|dia)s?\b",a))
+def youtube_candidates(r):
+    query=r["titulo"][:140]
+    wanted=words(r["titulo"])
+    diagnostics=[]
+    candidates=[]
+    for q in (query,query+" "+("ESPN SportsCenter" if "futbol" in norm(r["categoria"]) else "deportes")):
+        try:
+            page=get("https://www.youtube.com/results?"+urlencode({"search_query":q,"hl":"es","gl":"AR"}),4_000_000)
+            entries=parse_search(page)
+            diagnostics.append({"consulta":q,"resultados":len(entries)})
+        except Exception as e:
+            diagnostics.append({"consulta":q,"error":type(e).__name__})
+            continue
+        def rank(v):
+            overlap=wanted & words(v["title"])
+            return (len(overlap),recent_hint(v["age"]),any(m in norm(v["author"]) for m in MEDIA))
+        for v in sorted(entries,key=rank,reverse=True)[:4]:
+            if len(wanted & words(v["title"]))<2:
+                continue
+            try:
+                title,author=metadata(v["url"])
+                overlap=sorted(wanted & words(title))
+                if len(overlap)<2:
+                    continue
+                candidates.append({"url":v["url"],"texto":title[:240],"autor":author,"coincidencias":overlap,"origen":"busqueda_youtube","tipo":v["tipo"],"antiguedad_indicada":v["age"],"actualidad_no_confirmada":True})
+            except Exception:
+                continue
+        if candidates:
+            break
+    return candidates,diagnostics
+
+def one(r):
+    result=source_candidates(r)
+    result["estado_fuente_original"]=result["estado"]
+    yt,diagnostics=youtube_candidates(r)
+    result["busqueda_youtube"]=diagnostics
+    existing={v["url"] for v in result["candidatos"]}
+    result["candidatos"].extend(v for v in yt if v["url"] not in existing)
+    result["estado"]="requiere_revision_editorial" if result["candidatos"] else "sin_candidato_validado_por_metadatos"
+    return result
+
 
 if __name__=="__main__":
     now=datetime.now(ART)
