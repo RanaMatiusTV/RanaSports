@@ -1,12 +1,11 @@
 RADAR 1 — RANASPORTS NOTICIAS
-Corrida: 27/11/2026 09:45 ART
-Ventana principal: 26/11/2026 23:47 a 27/11/2026 09:45 ART; auditoría adicional de omisiones en las 24 h previas
-SHA base: ef536131091ed9793f554b18a1bb1cd141bdc0af
-Filas nuevas publicadas: 5 (5349-5353)
-EXPECTED_TITLE|MESSI FUE CONFIRMADO PARA LA DESPEDIDA DE CARLOS TEVEZ EN LA BOMBONERA
-EXPECTED_TITLE|ALARCÓN SUFRIÓ UN DESGARRO Y DELGADO SOLO TIENE UN GOLPE EN LA RODILLA
-EXPECTED_TITLE|BOCA CONSIDERA INTRANSFERIBLES A CUATRO JUVENILES Y ESCUCHARÁ OFERTAS POR DI LOLLO
-EXPECTED_TITLE|RIVER ANALIZA A FERNANDO BATISTA PARA COORDINAR SUS DIVISIONES INFERIORES
-EXPECTED_TITLE|EL TURISMO NACIONAL CERRARÁ SU TEMPORADA EN VIEDMA CON ACTIVIDAD DE LAS CLASES 2 Y 3
-Última noticia: EL TURISMO NACIONAL CERRARÁ SU TEMPORADA EN VIEDMA CON ACTIVIDAD DE LAS CLASES 2 Y 3
-Observación: cinco fotos directas verificadas por HTTP; dos actuales y tres de archivo rotuladas. Sin embeds oportunistas. La fila 5348 quedó NO publicada por duplicar la fila 5316.
+Corrida: 27/11/2026 12:45 ART
+Ventana principal: 27/11/2026 05:16 a 27/11/2026 12:45 ART; auditoría adicional de omisiones en las 24 h previas
+SHA base: 74d6064605310fca4c7192bdefe683036b3fae00
+Filas nuevas publicadas: 4 (5354-5357)
+EXPECTED_TITLE|COLAPINTO TERMINÓ 12° EN LA PRIMERA PRÁCTICA DEL GRAN PREMIO DE QATAR
+EXPECTED_TITLE|MORELLI FUE 10° Y PERRONE 16° EN LA PRÁCTICA DE MOTO3 EN VALENCIA
+EXPECTED_TITLE|ALEXIS EBERHARDT GANÓ EL ORO Y CLASIFICÓ A LOS JUEGOS OLÍMPICOS DE LOS ÁNGELES 2028
+EXPECTED_TITLE|MESSI E INTER MIAMI SE JUEGAN LA CONTINUIDAD EN LOS PLAYOFFS ANTE COLUMBUS
+Última noticia: COLAPINTO TERMINÓ 12° EN LA PRIMERA PRÁCTICA DEL GRAN PREMIO DE QATAR
+Observación: cuatro noticias con foto directa y crédito; una imagen verificada visualmente, dos renderizadas en búsqueda y una localizada en la fuente sin segunda prueba HTTP. Tres fotos de archivo rotuladas y una actual. Sin embeds oportunistas. La sincronización debe excluir la fila 5348, marcada NO por duplicar la fila 5316.
