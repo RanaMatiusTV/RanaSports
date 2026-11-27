@@ -1,6 +1,46 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/argentina-remonto-ante-egipto-y-paso-a-las-semifinales-del-mundial-de-talla-baja/": {
+      "account": "sports",
+      "title": "ARGENTINA REMONTÓ ANTE EGIPTO Y PASÓ A LAS SEMIFINALES DEL MUNDIAL DE TALLA BAJA",
+      "dueAt": "2026-11-27T03:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b08f04b049983dcfb7fbf9a",
+      "createdAt": "2026-11-27T02:51:55.277Z"
+    },
+    "https://ranasports.com.ar/futbol/leonardo-godoy-se-perfila-como-unico-cambio-de-independiente-para-visitar-a-velez/": {
+      "account": "main",
+      "title": "LEONARDO GODOY SE PERFILA COMO ÚNICO CAMBIO DE INDEPENDIENTE PARA VISITAR A VÉLEZ",
+      "dueAt": "2026-11-27T02:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b08f04a1fd46e62e7081e0f",
+      "createdAt": "2026-11-27T02:51:54.232Z"
+    },
+    "https://ranasports.com.ar/tenis/rafa-jodar-remonto-y-clasifico-a-espana-a-las-semifinales-de-la-copa-davis/": {
+      "account": "sports",
+      "title": "RAFA JÓDAR REMONTÓ Y CLASIFICÓ A ESPAÑA A LAS SEMIFINALES DE LA COPA DAVIS",
+      "dueAt": "2026-11-27T03:25:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b08f048e94385a8fd69842f",
+      "createdAt": "2026-11-27T02:51:52.863Z"
+    },
+    "https://ranasports.com.ar/uefa-europa-league/juventus-remonto-y-goleo-4-1-a-omonia-en-la-europa-league/": {
+      "account": "sports",
+      "title": "JUVENTUS REMONTÓ Y GOLEÓ 4-1 A OMONIA EN LA EUROPA LEAGUE",
+      "dueAt": "2026-11-27T02:55:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b08f0481fd46e62e7081dd8",
+      "createdAt": "2026-11-27T02:51:52.378Z"
+    },
+    "https://ranasports.com.ar/futbol/boca-goleo-4-0-a-velez-y-avanzo-a-las-semifinales-del-torneo-proyeccion/": {
+      "account": "sports",
+      "title": "BOCA GOLEÓ 4-0 A VÉLEZ Y AVANZÓ A LAS SEMIFINALES DEL TORNEO PROYECCIÓN",
+      "dueAt": "2026-11-27T02:51:50.094Z",
+      "mode": "shareNow",
+      "bufferPostId": "6b08f046776ce21276dce078",
+      "createdAt": "2026-11-27T02:51:51.227Z"
+    },
     "https://ranasports.com.ar/f1/haas-renovo-a-oliver-bearman-y-completo-la-grilla-de-la-formula-1-para-2027/": {
       "account": "f1",
       "title": "HAAS RENOVÓ A OLIVER BEARMAN Y COMPLETÓ LA GRILLA DE LA FÓRMULA 1 PARA 2027",
@@ -4768,46 +4808,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad844e0d894396f66c722b7",
       "createdAt": "2026-10-21T04:51:44.136Z"
-    },
-    "https://ranasports.com.ar/futbol/cristiano-ronaldo-erro-un-penal-y-un-gol-insolito-en-el-triunfo-de-al-nassr/": {
-      "account": "sports",
-      "title": "CRISTIANO RONALDO ERRÓ UN PENAL Y UN GOL INSÓLITO EN EL TRIUNFO DE AL NASSR",
-      "dueAt": "2026-10-21T05:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad844df50009d9e950b778c",
-      "createdAt": "2026-10-21T04:51:43.446Z"
-    },
-    "https://ranasports.com.ar/futbol/barcelona-sigue-de-cerca-a-lisandro-martinez-para-el-proximo-mercado/": {
-      "account": "sports",
-      "title": "BARCELONA SIGUE DE CERCA A LISANDRO MARTÍNEZ PARA EL PRÓXIMO MERCADO",
-      "dueAt": "2026-10-21T05:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad844dedb7d819821466c85",
-      "createdAt": "2026-10-21T04:51:42.904Z"
-    },
-    "https://ranasports.com.ar/futbol/di-lollo-marco-de-cabeza-a-los-tres-minutos-y-boca-empato-la-serie-con-vasco/": {
-      "account": "sports",
-      "title": "DI LOLLO MARCÓ DE CABEZA A LOS TRES MINUTOS Y BOCA EMPATÓ LA SERIE CON VASCO",
-      "dueAt": "2026-10-21T04:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad844ded894396f66c7228e",
-      "createdAt": "2026-10-21T04:51:42.590Z"
-    },
-    "https://ranasports.com.ar/boca/boca-tuvo-su-maracanazo-gano-3-1-y-se-metio-en-la-final-de-la-sudamericana/": {
-      "account": "sports",
-      "title": "BOCA TUVO SU MARACANAZO, GANÓ 3-1 Y SE METIÓ EN LA FINAL DE LA SUDAMERICANA",
-      "dueAt": "2026-10-21T04:51:40.908Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ad844dc50009d9e950b7756",
-      "createdAt": "2026-10-21T04:51:41.995Z"
-    },
-    "https://ranasports.com.ar/f1/colapinto-revelo-que-trabajo-en-enstone-para-revertir-los-problemas-de-alpine/": {
-      "account": "f1",
-      "title": "COLAPINTO REVELÓ QUE TRABAJÓ EN ENSTONE PARA REVERTIR LOS PROBLEMAS DE ALPINE",
-      "dueAt": "2026-10-21T00:00:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad7ff3bc11f7f6be272819b",
-      "createdAt": "2026-10-20T23:54:36.064Z"
     }
   },
   "nextAt": {
