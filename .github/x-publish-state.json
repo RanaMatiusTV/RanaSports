@@ -1,6 +1,38 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/tenis/lourdes-carle-vencio-a-nadia-podoroska-y-avanzo-a-cuartos-del-argentina-open/": {
+      "account": "sports",
+      "title": "LOURDES CARLÉ VENCIÓ A NADIA PODOROSKA Y AVANZÓ A CUARTOS DEL ARGENTINA OPEN",
+      "dueAt": "2026-11-27T13:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0976b9658222306c106870",
+      "createdAt": "2026-11-27T12:25:29.175Z"
+    },
+    "https://ranasports.com.ar/basquet/argentina-aplasto-102-65-a-bahamas-y-quedo-a-un-triunfo-del-mundial-de-basquet/": {
+      "account": "sports",
+      "title": "ARGENTINA APLASTÓ 102-65 A BAHAMAS Y QUEDÓ A UN TRIUNFO DEL MUNDIAL DE BÁSQUET",
+      "dueAt": "2026-11-27T13:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0976b8062ed764a813c64a",
+      "createdAt": "2026-11-27T12:25:28.627Z"
+    },
+    "https://ranasports.com.ar/voley/sonder-remonto-un-0-2-y-derroto-a-boca-en-cinco-sets-en-rosario/": {
+      "account": "sports",
+      "title": "SONDER REMONTÓ UN 0-2 Y DERROTÓ A BOCA EN CINCO SETS EN ROSARIO",
+      "dueAt": "2026-11-27T12:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0976b7e94385a8fda303f9",
+      "createdAt": "2026-11-27T12:25:27.335Z"
+    },
+    "https://ranasports.com.ar/futbol/independiente-vencio-3-1-a-gimnasia-de-mendoza-y-jugara-la-semifinal-de-reserva-ante-boca/": {
+      "account": "main",
+      "title": "INDEPENDIENTE VENCIÓ 3-1 A GIMNASIA DE MENDOZA Y JUGARÁ LA SEMIFINAL DE RESERVA ANTE BOCA",
+      "dueAt": "2026-11-27T12:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0976b6e94385a8fda303bf",
+      "createdAt": "2026-11-27T12:25:26.745Z"
+    },
     "https://ranasports.com.ar/futbol/argentina-remonto-ante-egipto-y-paso-a-las-semifinales-del-mundial-de-talla-baja/": {
       "account": "sports",
       "title": "ARGENTINA REMONTÓ ANTE EGIPTO Y PASÓ A LAS SEMIFINALES DEL MUNDIAL DE TALLA BAJA",
@@ -4776,38 +4808,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad88ffb611a87957c8e3004",
       "createdAt": "2026-10-21T10:12:11.538Z"
-    },
-    "https://ranasports.com.ar/futbol/boca-supero-a-river-y-quedo-como-el-club-extranjero-con-mas-triunfos-en-brasil/": {
-      "account": "sports",
-      "title": "BOCA SUPERÓ A RIVER Y QUEDÓ COMO EL CLUB EXTRANJERO CON MÁS TRIUNFOS EN BRASIL",
-      "dueAt": "2026-10-21T10:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad88ffbd803b33b753771f0",
-      "createdAt": "2026-10-21T10:12:11.275Z"
-    },
-    "https://ranasports.com.ar/futbol/arruabarrena-elogio-a-boca-tras-la-final/": {
-      "account": "sports",
-      "title": "ARRUABARRENA ELOGIÓ A BOCA TRAS LA FINAL: “ESTE GRUPO QUIERE HACER HISTORIA”",
-      "dueAt": "2026-10-21T10:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad88ffaa692b85eaf80ea0d",
-      "createdAt": "2026-10-21T10:12:10.688Z"
-    },
-    "https://ranasports.com.ar/futbol/nazareno-arasa-dirigira-independiente-boca-y-adrian-franklin-estara-en-el-var/": {
-      "account": "main",
-      "title": "NAZARENO ARASA DIRIGIRÁ INDEPENDIENTE-BOCA Y ADRIÁN FRANKLIN ESTARÁ EN EL VAR",
-      "dueAt": "2026-10-21T05:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad844e09fdbc474fbfee7be",
-      "createdAt": "2026-10-21T04:51:44.459Z"
-    },
-    "https://ranasports.com.ar/futbol/absolvieron-a-los-acusados-por-el-crimen-del-hincha-de-independiente-juan-calvente/": {
-      "account": "main",
-      "title": "ABSOLVIERON A LOS ACUSADOS POR EL CRIMEN DEL HINCHA DE INDEPENDIENTE JUAN CALVENTE",
-      "dueAt": "2026-10-21T04:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad844e0d894396f66c722b7",
-      "createdAt": "2026-10-21T04:51:44.136Z"
     }
   },
   "nextAt": {
