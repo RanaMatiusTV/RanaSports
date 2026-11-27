@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-27T13:52:31.652Z",
+  "updatedAt": "2026-11-27T22:41:18.816Z",
   "trends": [
     {
-      "query": "meghan, duquesa de sussex",
-      "startedAt": "2026-11-27T13:10:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "martín menem",
-      "startedAt": "2026-11-27T11:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "marc marquez",
-      "startedAt": "2026-11-27T11:00:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "mdz",
-      "startedAt": "2026-11-27T10:40:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "londres",
-      "startedAt": "2026-11-27T10:30:00.000Z",
-      "volume": 2000
-    },
-    {
-      "query": "ministro",
-      "startedAt": "2026-11-27T10:30:00.000Z",
-      "volume": 100
-    },
-    {
-      "query": "necochea",
-      "startedAt": "2026-11-27T10:20:00.000Z",
+      "query": "banca pública",
+      "startedAt": "2026-11-27T22:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "sandra pettovello",
-      "startedAt": "2026-11-27T10:10:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "sergio massa",
-      "startedAt": "2026-11-27T09:50:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "barby franco",
-      "startedAt": "2026-11-27T09:40:00.000Z",
+      "query": "angelina jolie",
+      "startedAt": "2026-11-27T22:20:00.000Z",
       "volume": 100
+    },
+    {
+      "query": "vix index",
+      "startedAt": "2026-11-27T22:20:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "fluminense - cruzeiro",
+      "startedAt": "2026-11-27T22:10:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "atlanta",
+      "startedAt": "2026-11-27T22:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "adopción",
+      "startedAt": "2026-11-27T22:10:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "mundial talla baja 2026",
+      "startedAt": "2026-11-27T22:10:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "carlos sainz jr.",
+      "startedAt": "2026-11-27T21:50:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "soledad silveyra",
+      "startedAt": "2026-11-27T21:20:00.000Z",
+      "volume": 200
+    },
+    {
+      "query": "marcelo tinelli",
+      "startedAt": "2026-11-27T21:10:00.000Z",
+      "volume": 200
     }
   ]
 }
