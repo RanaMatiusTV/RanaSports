@@ -1,6 +1,54 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/futbol/un-hincha-increpo-y-amenazo-a-daniel-seoane-en-la-calle-a-dias-de-las-elecciones/": {
+      "account": "main",
+      "title": "UN HINCHA INCREPÓ Y AMENAZÓ A DANIEL SEOANE EN LA CALLE A DÍAS DE LAS ELECCIONES",
+      "dueAt": "2026-11-27T22:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b09fd1971e8cc12a6d30188",
+      "createdAt": "2026-11-27T21:58:49.571Z"
+    },
+    "https://ranasports.com.ar/chacarita-juniors/mauricio-cuero-se-despidio-de-chacarita-y-es-la-primera-baja-para-2027/": {
+      "account": "sports",
+      "title": "MAURICIO CUERO SE DESPIDIÓ DE CHACARITA Y ES LA PRIMERA BAJA PARA 2027",
+      "dueAt": "2026-11-27T23:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b09fd17585cafb820e53034",
+      "createdAt": "2026-11-27T21:58:47.657Z"
+    },
+    "https://ranasports.com.ar/mls/messi-e-inter-miami-se-juegan-la-continuidad-en-los-playoffs-ante-columbus/": {
+      "account": "sports",
+      "title": "MESSI E INTER MIAMI SE JUEGAN LA CONTINUIDAD EN LOS PLAYOFFS ANTE COLUMBUS",
+      "dueAt": "2026-11-27T22:30:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b09fd16b5cd052fe2947c4b",
+      "createdAt": "2026-11-27T21:58:46.254Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-termino-12-en-la-primera-practica-del-gran-premio-de-qatar/": {
+      "account": "f1",
+      "title": "COLAPINTO TERMINÓ 12° EN LA PRIMERA PRÁCTICA DEL GRAN PREMIO DE QATAR",
+      "dueAt": "2026-11-27T23:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b09fd1571e8cc12a6d300fd",
+      "createdAt": "2026-11-27T21:58:45.415Z"
+    },
+    "https://ranasports.com.ar/motogp/marc-marquez-anuncio-su-retiro-y-explico-que-volvio-a-sufrir-episodios-de-diplopia/": {
+      "account": "sports",
+      "title": "MARC MÁRQUEZ ANUNCIÓ SU RETIRO Y EXPLICÓ QUE VOLVIÓ A SUFRIR EPISODIOS DE DIPLOPÍA",
+      "dueAt": "2026-11-27T22:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b09fd14c02ca0988abacec6",
+      "createdAt": "2026-11-27T21:58:45.059Z"
+    },
+    "https://ranasports.com.ar/f1/colapinto-termino-15-en-la-segunda-practica-del-gran-premio-de-qatar/": {
+      "account": "f1",
+      "title": "COLAPINTO TERMINÓ 15° EN LA SEGUNDA PRÁCTICA DEL GRAN PREMIO DE QATAR",
+      "dueAt": "2026-11-27T22:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b09fd0dc02ca0988abacd5f",
+      "createdAt": "2026-11-27T21:58:37.784Z"
+    },
     "https://ranasports.com.ar/tenis/lourdes-carle-vencio-a-nadia-podoroska-y-avanzo-a-cuartos-del-argentina-open/": {
       "account": "sports",
       "title": "LOURDES CARLÉ VENCIÓ A NADIA PODOROSKA Y AVANZÓ A CUARTOS DEL ARGENTINA OPEN",
@@ -4760,54 +4808,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad91c6ad79cb60bb03a83c2",
       "createdAt": "2026-10-21T20:11:22.687Z"
-    },
-    "https://ranasports.com.ar/futbol/paredes-gano-los-cuatro-partidos-que-jugo-en-el-maracana/": {
-      "account": "sports",
-      "title": "PAREDES GANÓ LOS CUATRO PARTIDOS QUE JUGÓ EN EL MARACANÁ",
-      "dueAt": "2026-10-21T20:11:19.838Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ad91c670a921c67b7dc9cbc",
-      "createdAt": "2026-10-21T20:11:21.926Z"
-    },
-    "https://ranasports.com.ar/futbol/icardi-pidio-cinco-millones-de-euros-y-se-enfrio-su-llegada-al-valencia/": {
-      "account": "sports",
-      "title": "ICARDI PIDIÓ CINCO MILLONES DE EUROS Y SE ENFRIÓ SU LLEGADA AL VALENCIA",
-      "dueAt": "2026-10-21T16:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad8d7fb0fd9d0bd395930c2",
-      "createdAt": "2026-10-21T15:19:23.404Z"
-    },
-    "https://ranasports.com.ar/futbol/flores-borro-su-cargada-a-vasco-tras-el-llamado-de-atencion-de-arruabarrena/": {
-      "account": "sports",
-      "title": "FLORES BORRÓ SU CARGADA A VASCO TRAS EL LLAMADO DE ATENCIÓN DE ARRUABARRENA",
-      "dueAt": "2026-10-21T15:55:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad8d7fad7ec68457b6aa161",
-      "createdAt": "2026-10-21T15:19:22.689Z"
-    },
-    "https://ranasports.com.ar/nba/philadelphia-arruino-la-fiesta-de-los-knicks/": {
-      "account": "sports",
-      "title": "PHILADELPHIA ARRUINÓ LA FIESTA DE LOS KNICKS: GANÓ 106-100 EN EL DEBUT DE LEBRON",
-      "dueAt": "2026-10-21T15:25:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad8d7f9ee069bfcd23497e6",
-      "createdAt": "2026-10-21T15:19:21.892Z"
-    },
-    "https://ranasports.com.ar/futbol/boca-nunca-perdio-en-el-estadio-de-barranquilla-donde-jugara-la-final/": {
-      "account": "sports",
-      "title": "BOCA NUNCA PERDIÓ EN EL ESTADIO DE BARRANQUILLA DONDE JUGARÁ LA FINAL",
-      "dueAt": "2026-10-21T15:19:15.574Z",
-      "mode": "shareNow",
-      "bufferPostId": "6ad8d7f3ee069bfcd23496c8",
-      "createdAt": "2026-10-21T15:19:17.710Z"
-    },
-    "https://ranasports.com.ar/futbol/neymar-felicito-a-paredes-y-mostro-la-camiseta-firmada-que-guarda-en-su-coleccion/": {
-      "account": "sports",
-      "title": "NEYMAR FELICITÓ A PAREDES Y MOSTRÓ LA CAMISETA FIRMADA QUE GUARDA EN SU COLECCIÓN",
-      "dueAt": "2026-10-21T11:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad88ffb611a87957c8e3004",
-      "createdAt": "2026-10-21T10:12:11.538Z"
     }
   },
   "nextAt": {
