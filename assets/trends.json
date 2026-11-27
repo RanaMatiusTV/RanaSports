@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-27T04:13:45.988Z",
+  "updatedAt": "2026-11-27T13:52:31.652Z",
   "trends": [
     {
-      "query": "presupuesto",
-      "startedAt": "2026-11-27T03:50:00.000Z",
+      "query": "meghan, duquesa de sussex",
+      "startedAt": "2026-11-27T13:10:00.000Z",
       "volume": 100
     },
     {
-      "query": "latam",
-      "startedAt": "2026-11-27T03:30:00.000Z",
+      "query": "martín menem",
+      "startedAt": "2026-11-27T11:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "león - cruz azul",
-      "startedAt": "2026-11-27T03:20:00.000Z",
-      "volume": 500
+      "query": "marc marquez",
+      "startedAt": "2026-11-27T11:00:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "jetsmart",
-      "startedAt": "2026-11-27T03:10:00.000Z",
-      "volume": 1000
+      "query": "mdz",
+      "startedAt": "2026-11-27T10:40:00.000Z",
+      "volume": 100
     },
     {
-      "query": "adidas",
-      "startedAt": "2026-11-27T03:00:00.000Z",
-      "volume": 500
+      "query": "londres",
+      "startedAt": "2026-11-27T10:30:00.000Z",
+      "volume": 2000
     },
     {
-      "query": "provincia compras",
-      "startedAt": "2026-11-27T03:00:00.000Z",
+      "query": "ministro",
+      "startedAt": "2026-11-27T10:30:00.000Z",
+      "volume": 100
+    },
+    {
+      "query": "necochea",
+      "startedAt": "2026-11-27T10:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "diego barroetavena",
-      "startedAt": "2026-11-27T02:50:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "pésame",
-      "startedAt": "2026-11-27T02:40:00.000Z",
-      "volume": 1000
-    },
-    {
-      "query": "johnny marr",
-      "startedAt": "2026-11-27T02:20:00.000Z",
+      "query": "sandra pettovello",
+      "startedAt": "2026-11-27T10:10:00.000Z",
       "volume": 200
     },
     {
-      "query": "glaciar",
-      "startedAt": "2026-11-27T02:20:00.000Z",
+      "query": "sergio massa",
+      "startedAt": "2026-11-27T09:50:00.000Z",
       "volume": 200
+    },
+    {
+      "query": "barby franco",
+      "startedAt": "2026-11-27T09:40:00.000Z",
+      "volume": 100
     }
   ]
 }
