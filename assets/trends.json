@@ -1,57 +1,57 @@
 {
   "region": "AR",
   "source": "https://trends.google.com/trending/rss?geo=AR",
-  "updatedAt": "2026-11-26T21:56:04.193Z",
+  "updatedAt": "2026-11-27T04:13:45.988Z",
   "trends": [
     {
-      "query": "corte de agua mendoza",
-      "startedAt": "2026-11-26T21:40:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "dique luján",
-      "startedAt": "2026-11-26T21:30:00.000Z",
+      "query": "presupuesto",
+      "startedAt": "2026-11-27T03:50:00.000Z",
       "volume": 100
     },
     {
-      "query": "kirchnerismo",
-      "startedAt": "2026-11-26T21:20:00.000Z",
-      "volume": 200
-    },
-    {
-      "query": "funes",
-      "startedAt": "2026-11-26T21:20:00.000Z",
+      "query": "latam",
+      "startedAt": "2026-11-27T03:30:00.000Z",
       "volume": 100
     },
     {
-      "query": "economía",
-      "startedAt": "2026-11-26T21:10:00.000Z",
-      "volume": 5000
+      "query": "león - cruz azul",
+      "startedAt": "2026-11-27T03:20:00.000Z",
+      "volume": 500
     },
     {
-      "query": "sorteo quini seis",
-      "startedAt": "2026-11-26T21:10:00.000Z",
-      "volume": 5000
+      "query": "jetsmart",
+      "startedAt": "2026-11-27T03:10:00.000Z",
+      "volume": 1000
     },
     {
-      "query": "whatsapp stickers",
-      "startedAt": "2026-11-26T21:10:00.000Z",
+      "query": "adidas",
+      "startedAt": "2026-11-27T03:00:00.000Z",
+      "volume": 500
+    },
+    {
+      "query": "provincia compras",
+      "startedAt": "2026-11-27T03:00:00.000Z",
       "volume": 200
     },
     {
-      "query": "chile",
-      "startedAt": "2026-11-26T21:00:00.000Z",
+      "query": "diego barroetavena",
+      "startedAt": "2026-11-27T02:50:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "pésame",
+      "startedAt": "2026-11-27T02:40:00.000Z",
+      "volume": 1000
+    },
+    {
+      "query": "johnny marr",
+      "startedAt": "2026-11-27T02:20:00.000Z",
       "volume": 200
     },
     {
-      "query": "lyon fc",
-      "startedAt": "2026-11-26T21:00:00.000Z",
+      "query": "glaciar",
+      "startedAt": "2026-11-27T02:20:00.000Z",
       "volume": 200
-    },
-    {
-      "query": "ciclogénesis",
-      "startedAt": "2026-11-26T20:50:00.000Z",
-      "volume": 5000
     }
   ]
 }
