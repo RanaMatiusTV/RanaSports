@@ -1,6 +1,30 @@
 {
   "activationAt": "2026-10-08T03:00:00.000Z",
   "processed": {
+    "https://ranasports.com.ar/f1/colapinto-se-mostro-disconforme-con-alpine-y-advirtio-sobre-los-problemas-de-frenos-y/": {
+      "account": "f1",
+      "title": "COLAPINTO SE MOSTRÓ DISCONFORME CON ALPINE Y ADVIRTIÓ SOBRE LOS PROBLEMAS DE FRENOS Y DEGRADACIÓN",
+      "dueAt": "2026-11-28T05:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0a508c41454797eaea58d8",
+      "createdAt": "2026-11-28T03:54:52.976Z"
+    },
+    "https://ranasports.com.ar/f1/sainz-critico-a-colapinto-tras-una-ajustada-maniobra-en-qatar/": {
+      "account": "f1",
+      "title": "SAINZ CRITICÓ A COLAPINTO TRAS UNA AJUSTADA MANIOBRA EN QATAR",
+      "dueAt": "2026-11-28T04:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0a508b2a2e4f66caf8e092",
+      "createdAt": "2026-11-28T03:54:52.163Z"
+    },
+    "https://ranasports.com.ar/futbol/viera-confirmo-los-25-convocados-de-independiente-con-dos-juveniles-para-visitar-a-velez/": {
+      "account": "main",
+      "title": "VIERA CONFIRMÓ LOS 25 CONVOCADOS DE INDEPENDIENTE CON DOS JUVENILES PARA VISITAR A VÉLEZ",
+      "dueAt": "2026-11-28T04:00:00.000Z",
+      "mode": "customScheduled",
+      "bufferPostId": "6b0a508b23fb5b7700185741",
+      "createdAt": "2026-11-28T03:54:51.255Z"
+    },
     "https://ranasports.com.ar/futbol/un-hincha-increpo-y-amenazo-a-daniel-seoane-en-la-calle-a-dias-de-las-elecciones/": {
       "account": "main",
       "title": "UN HINCHA INCREPÓ Y AMENAZÓ A DANIEL SEOANE EN LA CALLE A DÍAS DE LAS ELECCIONES",
@@ -4784,30 +4808,6 @@
       "mode": "customScheduled",
       "bufferPostId": "6ad91c6cd79cb60bb03a8416",
       "createdAt": "2026-10-21T20:11:24.495Z"
-    },
-    "https://ranasports.com.ar/futbol/mac-allister-hablo-de-su-contrato-en-liverpool-y-destaco-el-cambio-con-iraola/": {
-      "account": "sports",
-      "title": "MAC ALLISTER HABLÓ DE SU CONTRATO EN LIVERPOOL Y DESTACÓ EL CAMBIO CON IRAOLA",
-      "dueAt": "2026-10-21T21:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad91c6bb945508d3f853270",
-      "createdAt": "2026-10-21T20:11:24.041Z"
-    },
-    "https://ranasports.com.ar/tenis/cerundolo-gano-en-bruselas-paso-a-cuartos-y-alcanzo-70-triunfos-en-cancha-rapida/": {
-      "account": "sports",
-      "title": "CERÚNDOLO GANÓ EN BRUSELAS, PASÓ A CUARTOS Y ALCANZÓ 70 TRIUNFOS EN CANCHA RÁPIDA",
-      "dueAt": "2026-10-21T20:45:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad91c6b2109dcc39c07d7fa",
-      "createdAt": "2026-10-21T20:11:23.402Z"
-    },
-    "https://ranasports.com.ar/tenis-de-mesa/argentina-vencio-3-2-a-brasil-y-se-consagro-bicampeona-panamericana/": {
-      "account": "sports",
-      "title": "ARGENTINA VENCIÓ 3-2 A BRASIL Y SE CONSAGRÓ BICAMPEONA PANAMERICANA",
-      "dueAt": "2026-10-21T20:15:00.000Z",
-      "mode": "customScheduled",
-      "bufferPostId": "6ad91c6ad79cb60bb03a83c2",
-      "createdAt": "2026-10-21T20:11:22.687Z"
     }
   },
   "nextAt": {
